@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Prepare Perfect Sugar-free.A Japanese-style carrot salad made with &amp;#34;Amazake&amp;#34;"
-title: "Step-by-Step Guide to Prepare Perfect Sugar-free.A Japanese-style carrot salad made with &amp;#34;Amazake&amp;#34;"
+description: "Step-by-Step Guide to Prepare Perfect Sugar-free.A Japanese-style carrot salad made with "Amazake""
+title: "Step-by-Step Guide to Prepare Perfect Sugar-free.A Japanese-style carrot salad made with "Amazake""
 slug: 1805-step-by-step-guide-to-prepare-perfect-sugar-freea-japanese-style-carrot-salad-made-with-and-34-amazake-and-34
 date: 2022-01-17T02:44:22.220Z
 image: https://img-global.cpcdn.com/recipes/86ddf37176f05d9b/680x482cq70/sugar-freea-japanese-style-carrot-salad-made-with-amazake-recipe-main-photo.jpg
