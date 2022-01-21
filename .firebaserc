@@ -1,6 +1,7 @@
 {
   "projects": {
-    "recipesholiday": "recipesholiday",
-    "default": "cutesrecipes"
+    "cutesrecipes": "cutesrecipes",
+    "default": "cutesrecipes",
+    "cutesrecipes": "cutesrecipes"
   }
 }
