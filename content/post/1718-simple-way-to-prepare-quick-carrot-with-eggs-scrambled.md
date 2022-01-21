@@ -21,7 +21,7 @@ recipeingredient:
 recipeinstructions:
 - "Preheat a pan with cooking oil, add chopped red onion and garlic, stir them for a minute."
 - "Add shredded carrots, mix them well, cover the pan for 3-5 mins until the carrot soften. Meanwhile, crack the eggs in a bowl and mix them well, add chopped spring onion."
-- "After the carrot soften, add salt and pepper, mix them well. (if you like crispier carrot texture you don&#39;t have to cook it too long)"
+- "After the carrot soften, add salt and pepper, mix them well. (if you like crispier carrot texture you don't have to cook it too long)"
 - "Pour the egg mixture on top of the carrot, scramble gradually until the egg well done."
 - "Ready to serve just like that or serve it with rice or for sandwich filling."
 categories:
@@ -75,7 +75,7 @@ Beat the eggs with a mixer, in order to make them airy. Add the yogurt, flour, l
 
 1. Preheat a pan with cooking oil, add chopped red onion and garlic, stir them for a minute.
 1. Add shredded carrots, mix them well, cover the pan for 3-5 mins until the carrot soften. Meanwhile, crack the eggs in a bowl and mix them well, add chopped spring onion.
-1. After the carrot soften, add salt and pepper, mix them well. (if you like crispier carrot texture you don&#39;t have to cook it too long)
+1. After the carrot soften, add salt and pepper, mix them well. (if you like crispier carrot texture you don't have to cook it too long)
 1. Pour the egg mixture on top of the carrot, scramble gradually until the egg well done.
 1. Ready to serve just like that or serve it with rice or for sandwich filling.
 

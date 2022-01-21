@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Prepare Ultimate Oats &amp;amp; Carrot Instant Idli | Coriander Mint Chutney"
-title: "Step-by-Step Guide to Prepare Ultimate Oats &amp;amp; Carrot Instant Idli | Coriander Mint Chutney"
+description: "Step-by-Step Guide to Prepare Ultimate Oats &amp; Carrot Instant Idli | Coriander Mint Chutney"
+title: "Step-by-Step Guide to Prepare Ultimate Oats &amp; Carrot Instant Idli | Coriander Mint Chutney"
 slug: 1834-step-by-step-guide-to-prepare-ultimate-oats-and-amp-carrot-instant-idli-coriander-mint-chutney
 date: 2021-11-08T00:20:32.847Z
 image: https://img-global.cpcdn.com/recipes/f926eca8e6165601/680x482cq70/oats-carrot-instant-idli-coriander-mint-chutney-recipe-main-photo.jpg
@@ -63,17 +63,17 @@ recipecategory: Dinner
 ---
 
 
-![Oats &amp; Carrot Instant Idli | Coriander Mint Chutney](https://img-global.cpcdn.com/recipes/f926eca8e6165601/680x482cq70/oats-carrot-instant-idli-coriander-mint-chutney-recipe-main-photo.jpg)
+![Oats & Carrot Instant Idli | Coriander Mint Chutney](https://img-global.cpcdn.com/recipes/f926eca8e6165601/680x482cq70/oats-carrot-instant-idli-coriander-mint-chutney-recipe-main-photo.jpg)
 
-Hey everyone, I hope you're having an incredible day today. Today, I'm gonna show you how to prepare a distinctive dish, oats &amp; carrot instant idli | coriander mint chutney. One of my favorites food recipes. For mine, I am going to make it a bit tasty. This is gonna smell and look delicious.
+Hey everyone, I hope you're having an incredible day today. Today, I'm gonna show you how to prepare a distinctive dish, oats & carrot instant idli | coriander mint chutney. One of my favorites food recipes. For mine, I am going to make it a bit tasty. This is gonna smell and look delicious.
 
-Oats &amp; Carrot Instant Idli 
+Oats & Carrot Instant Idli 
 
-To get started with this particular recipe, we have to first prepare a few ingredients. You can have oats &amp; carrot instant idli | coriander mint chutney using 21 ingredients and 13 steps. Here is how you can achieve it.
+To get started with this particular recipe, we have to first prepare a few ingredients. You can have oats & carrot instant idli | coriander mint chutney using 21 ingredients and 13 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Oats &amp; Carrot Instant Idli | Coriander Mint Chutney:
+##### The ingredients needed to make Oats & Carrot Instant Idli | Coriander Mint Chutney:
 
 1. Prepare  Idli batter
 1. Make ready 1/2 cup quick cooking oats
@@ -102,7 +102,7 @@ OATS, grains of the genus Avena of the family Gramineae (grass family) thrive in
 
 <!--inarticleads2-->
 
-##### Steps to make Oats &amp; Carrot Instant Idli | Coriander Mint Chutney:
+##### Steps to make Oats & Carrot Instant Idli | Coriander Mint Chutney:
 
 1. In a big bowl add semolina, salt and ground oats
 1. Wash peel and finely grate carrots.
@@ -119,6 +119,6 @@ OATS, grains of the genus Avena of the family Gramineae (grass family) thrive in
 1. Prepare tadka and add to the chutney. Pack this tasty and healthy meals in your kids lunchbox.
 
 
-Free for commercial use No attribution required High quality images. Fruit, Oat Grain, Oat Grass, Oat Herb, Oat Straw, Oat Tops, Oatstraw, Oatmeal, Oats, Paille, Paille Overview. Oat (Avena sativa) is a type of cereal grain. People often eat the plant&#39;s whole seeds (oats). To incorporate oats for breakfast, what are some of the most nutritious oats you guys would I am an oat fanatic. 
+Free for commercial use No attribution required High quality images. Fruit, Oat Grain, Oat Grass, Oat Herb, Oat Straw, Oat Tops, Oatstraw, Oatmeal, Oats, Paille, Paille Overview. Oat (Avena sativa) is a type of cereal grain. People often eat the plant's whole seeds (oats). To incorporate oats for breakfast, what are some of the most nutritious oats you guys would I am an oat fanatic. 
 
-So that's going to wrap it up for this special food oats &amp; carrot instant idli | coriander mint chutney recipe. Thanks so much for your time. I am confident you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!
+So that's going to wrap it up for this special food oats & carrot instant idli | coriander mint chutney recipe. Thanks so much for your time. I am confident you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

@@ -21,7 +21,7 @@ recipeingredient:
 recipeinstructions:
 - "Add a splash of veg oil to a large nonstick pan on medium-high heat. Add the ginger and fry for 1 minute. Add the garlic and fry another 1 minute."
 - "Lay the fish into the pan in a single layer, on top of the ginger and garlic. Let cook 2 minutes, then add the soy sauce and water. Turn the heat down the medium-low. Cover and let simmer for 10 minutes."
-- "Remove the cover. Give the pan a shake to make sure nothing&#39;s sticking. Add a few grinds of freshly cracked black pepper, as well as the sugar and Maggi sauce. Let cook uncovered for 5 minutes, basting the sauce over the fish regularly. Do not flip the fish. Serve with a sprinkle of green onions."
+- "Remove the cover. Give the pan a shake to make sure nothing's sticking. Add a few grinds of freshly cracked black pepper, as well as the sugar and Maggi sauce. Let cook uncovered for 5 minutes, basting the sauce over the fish regularly. Do not flip the fish. Serve with a sprinkle of green onions."
 categories:
 - Recipe
 tags:
@@ -46,7 +46,7 @@ Hey everyone, I hope you are having an amazing day today. Today, I'm gonna show 
 
 Salmon bellies braised in sweet soy and ginger is one of the most well liked of recent trending foods in the world. It's simple, it is quick, it tastes yummy. It's appreciated by millions daily. They're nice and they look wonderful. Salmon bellies braised in sweet soy and ginger is something which I have loved my entire life.
 
-Here is how you achieve it. Lay the fish into the pan in a single layer, on top of the ginger and garlic. SALMON BELLY w/ BELL PEPPER OYSTER SAUCE by Lorie&#39;s Cooking. Salmon Belly Bistek Tagalog (pwede din if "milk Fish Belly" Bangus belly).
+Here is how you achieve it. Lay the fish into the pan in a single layer, on top of the ginger and garlic. SALMON BELLY w/ BELL PEPPER OYSTER SAUCE by Lorie's Cooking. Salmon Belly Bistek Tagalog (pwede din if "milk Fish Belly" Bangus belly).
 
 
 To get started with this particular recipe, we have to first prepare a few components. You can have salmon bellies braised in sweet soy and ginger using 8 ingredients and 3 steps. Here is how you cook it.
@@ -65,7 +65,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Get 3 green onions, chopped
 
 
-Here is my family recipe of braised pork belly in soy sauce or tau yew bak. It&#39;s a savory dish that Bring the pork belly to boil before adding the hard-boiled eggs, fried tofu, soy sauce, sweet soy Hi Cheralyn, great that you like ginger, but I won&#39;t add ginger personally. Crispy griddled flatbread/ sweet ginger balsamic gastrique. Taiwanese style sliders made with braised pork belly, candied peanuts, pickled cucumber, cilantro stuffed in steamed lotus buns. 
+Here is my family recipe of braised pork belly in soy sauce or tau yew bak. It's a savory dish that Bring the pork belly to boil before adding the hard-boiled eggs, fried tofu, soy sauce, sweet soy Hi Cheralyn, great that you like ginger, but I won't add ginger personally. Crispy griddled flatbread/ sweet ginger balsamic gastrique. Taiwanese style sliders made with braised pork belly, candied peanuts, pickled cucumber, cilantro stuffed in steamed lotus buns. 
 
 <!--inarticleads2-->
 
@@ -73,7 +73,7 @@ Here is my family recipe of braised pork belly in soy sauce or tau yew bak. It&#
 
 1. Add a splash of veg oil to a large nonstick pan on medium-high heat. Add the ginger and fry for 1 minute. Add the garlic and fry another 1 minute.
 1. Lay the fish into the pan in a single layer, on top of the ginger and garlic. Let cook 2 minutes, then add the soy sauce and water. Turn the heat down the medium-low. Cover and let simmer for 10 minutes.
-1. Remove the cover. Give the pan a shake to make sure nothing&#39;s sticking. Add a few grinds of freshly cracked black pepper, as well as the sugar and Maggi sauce. Let cook uncovered for 5 minutes, basting the sauce over the fish regularly. Do not flip the fish. Serve with a sprinkle of green onions.
+1. Remove the cover. Give the pan a shake to make sure nothing's sticking. Add a few grinds of freshly cracked black pepper, as well as the sugar and Maggi sauce. Let cook uncovered for 5 minutes, basting the sauce over the fish regularly. Do not flip the fish. Serve with a sprinkle of green onions.
 
 
 Crispy griddled flatbread/ sweet ginger balsamic gastrique. Taiwanese style sliders made with braised pork belly, candied peanuts, pickled cucumber, cilantro stuffed in steamed lotus buns. Natural chicken breast slices wok simmered in sweet soy. Served with baby bok choy, shiitake. How to cook salmon bellies Salmon bellies are always left at the bottom of the store freezers. · The BEST Asian Low-Carb/Keto recipe for Salmon Belly. 

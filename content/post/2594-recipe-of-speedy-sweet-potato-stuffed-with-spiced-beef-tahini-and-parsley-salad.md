@@ -25,7 +25,7 @@ recipeingredient:
 recipeinstructions:
 - "Preheat oven to 400"
 - "Rinse and scrub sweet potatoes. Once preheated, place on baking sheet and roast until fork tender (~50 min)"
-- "While potatoes are cooking, in a large pan heat olive oil. Add in ground meat, cooking until browned, add onion until soft, add garlic and cook 2-3 min. Add coriander, aleppo pepper &amp; salt. Pour in some water and scrape up any brown bits"
+- "While potatoes are cooking, in a large pan heat olive oil. Add in ground meat, cooking until browned, add onion until soft, add garlic and cook 2-3 min. Add coriander, aleppo pepper & salt. Pour in some water and scrape up any brown bits"
 - "In a large bowl toss in parsley (roughly chopped or torn), red onion, lemon juice, sumac and salt. Do not do this too early as parsley will lose it’s texture"
 - "Once sweet potatoes are done, score with knife and open up with two spoons, top with meat, tahini and parsley salad"
 categories:
@@ -83,7 +83,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 
 1. Preheat oven to 400
 1. Rinse and scrub sweet potatoes. Once preheated, place on baking sheet and roast until fork tender (~50 min)
-1. While potatoes are cooking, in a large pan heat olive oil. Add in ground meat, cooking until browned, add onion until soft, add garlic and cook 2-3 min. Add coriander, aleppo pepper &amp; salt. Pour in some water and scrape up any brown bits
+1. While potatoes are cooking, in a large pan heat olive oil. Add in ground meat, cooking until browned, add onion until soft, add garlic and cook 2-3 min. Add coriander, aleppo pepper & salt. Pour in some water and scrape up any brown bits
 1. In a large bowl toss in parsley (roughly chopped or torn), red onion, lemon juice, sumac and salt. Do not do this too early as parsley will lose it’s texture
 1. Once sweet potatoes are done, score with knife and open up with two spoons, top with meat, tahini and parsley salad
 

@@ -52,7 +52,7 @@ Hello everybody, hope you're having an incredible day today. Today, we're going 
 
 Veggie banana bread is one of the most popular of current trending meals in the world. It's enjoyed by millions daily. It's simple, it is fast, it tastes delicious. Veggie banana bread is something that I have loved my whole life. They're nice and they look fantastic.
 
-Sharing the recipe for my best healthy banana bread! It&#39;s vegan, gluten-free, oil free and refined sugar free. C L I C K F O R L I N K SI N. Use up your ripe bananas in our vegan banana bread - the perfect breakfast treat to enjoy with your morning cuppa.
+Sharing the recipe for my best healthy banana bread! It's vegan, gluten-free, oil free and refined sugar free. C L I C K F O R L I N K SI N. Use up your ripe bananas in our vegan banana bread - the perfect breakfast treat to enjoy with your morning cuppa.
 
 
 To get started with this particular recipe, we have to prepare a few components. You can have veggie banana bread using 12 ingredients and 5 steps. Here is how you cook that.

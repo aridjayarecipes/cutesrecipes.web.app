@@ -27,8 +27,8 @@ recipeinstructions:
 - "Heat oil in a pan and fry the bori / vadi till golden colour. Drain and keep aside. Temper the same oil with bay leaves and panch phoron. Saute till it stops spluttering."
 - "Add the ginger and green chilies."
 - "Add all the veggies and turmeric powder. Saute till light brown."
-- "Add chopped twigs, greens, salt, fried vadi, coriander-cumin powder &amp; green peas. Mix everything well. Cover and cook till done. Sprinkle water at intervals."
-- "When done, add kasundi &amp; mix well. Stir fry for a few seconds."
+- "Add chopped twigs, greens, salt, fried vadi, coriander-cumin powder & green peas. Mix everything well. Cover and cook till done. Sprinkle water at intervals."
+- "When done, add kasundi & mix well. Stir fry for a few seconds."
 - "Serve as a side dish with rice or chapatis."
 - "1. If not using kasundi, them grind 1 tbsp. mustard seeds along with 1-2 green chilies and a pinch of turmeric powder.  2. Instead of mustard paste, you can add 1 tsp. ghee to the end product.   3. Bori (dried lentil dumplings) can also be substituted for prawns in the non-veg. version.  4. Apart from the veggies I have used, you can also add raw papayas, drumstick, carrots, beans and /or parwal (pointed gourd)."
 categories:
@@ -64,9 +64,9 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 
 ##### The ingredients needed to make Kumro Shaag Chorchori (Pumpkin Leaves Curry):
 
-1. Make ready  Pumpkin leaves &amp; tender twigs, washed, drained and chopped
+1. Make ready  Pumpkin leaves & tender twigs, washed, drained and chopped
 1. Take  mustard oil
-1. Get  panch phoron (onion, fennel, fenugreek, mustard &amp; cumin seeds)
+1. Get  panch phoron (onion, fennel, fenugreek, mustard & cumin seeds)
 1. Prepare  bay leaves
 1. Take  green chilies, slit
 1. Prepare  bori / vadi (sun dried lentil dumplings)
@@ -88,8 +88,8 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Heat oil in a pan and fry the bori / vadi till golden colour. Drain and keep aside. Temper the same oil with bay leaves and panch phoron. Saute till it stops spluttering.
 1. Add the ginger and green chilies.
 1. Add all the veggies and turmeric powder. Saute till light brown.
-1. Add chopped twigs, greens, salt, fried vadi, coriander-cumin powder &amp; green peas. Mix everything well. Cover and cook till done. Sprinkle water at intervals.
-1. When done, add kasundi &amp; mix well. Stir fry for a few seconds.
+1. Add chopped twigs, greens, salt, fried vadi, coriander-cumin powder & green peas. Mix everything well. Cover and cook till done. Sprinkle water at intervals.
+1. When done, add kasundi & mix well. Stir fry for a few seconds.
 1. Serve as a side dish with rice or chapatis.
 1. 1. If not using kasundi, them grind 1 tbsp. mustard seeds along with 1-2 green chilies and a pinch of turmeric powder. -  - 2. Instead of mustard paste, you can add 1 tsp. ghee to the end product.  -  - 3. Bori (dried lentil dumplings) can also be substituted for prawns in the non-veg. version. -  - 4. Apart from the veggies I have used, you can also add raw papayas, drumstick, carrots, beans and /or parwal (pointed gourd).
 

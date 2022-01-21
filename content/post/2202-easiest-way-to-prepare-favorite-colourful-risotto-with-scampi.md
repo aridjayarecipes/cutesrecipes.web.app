@@ -27,7 +27,7 @@ recipeingredient:
 - "75 g frozen peas"
 recipeinstructions:
 - "Dice the carrots and bell pepper. Shred the sjalot, mince the garlic and cut the anchovy filets in small strips."
-- "Put olive oil in a deep pan and add the scampi&#39;s. Feel free to add some extra garlic!"
+- "Put olive oil in a deep pan and add the scampi's. Feel free to add some extra garlic!"
 - "Let the scampi release their flavour and when almost ready take them out of the pan."
 - "Add the anchovy to the remaining oil in the pan. Stir until the filets have desintegrated in the oil."
 - "Put your diced sjalot in the oil and flavor with some chili flakes and part of the minced garlic. Stir until the sjalot becomes translucent."
@@ -89,14 +89,14 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Get 75 g (frozen) peas
 
 
-This Shrimp Scampi Risotto recipe from Delish.com will hit the spot. Ethan Calabrese. (Risotto con Scampi e Radicchio). For an authentic Venetian iteration of this dish you&#39;ll need true scampi—Adriatic crayfish—but it can be difficult to find in the U. Good small shrimp are a perfectly acceptable substitute. 
+This Shrimp Scampi Risotto recipe from Delish.com will hit the spot. Ethan Calabrese. (Risotto con Scampi e Radicchio). For an authentic Venetian iteration of this dish you'll need true scampi—Adriatic crayfish—but it can be difficult to find in the U. Good small shrimp are a perfectly acceptable substitute. 
 
 <!--inarticleads2-->
 
 ##### Steps to make Colourful risotto with scampi:
 
 1. Dice the carrots and bell pepper. Shred the sjalot, mince the garlic and cut the anchovy filets in small strips.
-1. Put olive oil in a deep pan and add the scampi&#39;s. Feel free to add some extra garlic!
+1. Put olive oil in a deep pan and add the scampi's. Feel free to add some extra garlic!
 1. Let the scampi release their flavour and when almost ready take them out of the pan.
 1. Add the anchovy to the remaining oil in the pan. Stir until the filets have desintegrated in the oil.
 1. Put your diced sjalot in the oil and flavor with some chili flakes and part of the minced garlic. Stir until the sjalot becomes translucent.
@@ -110,6 +110,6 @@ This Shrimp Scampi Risotto recipe from Delish.com will hit the spot. Ethan Calab
 1. Put on your plate and enjoy!
 
 
-For an authentic Venetian iteration of this dish you&#39;ll need true scampi—Adriatic crayfish—but it can be difficult to find in the U. Good small shrimp are a perfectly acceptable substitute. Risotto with Champagne and Scampi is a classic Italian dish that, due to it&#39;s refined ingredients, is served mainly on special occasions like Christmas or New Year. Unlike other risottos, Risotto with Champagne uses a whole bottle of Champagne and very little stock, hence the better the Champagne. Risotto alla crema di scampi, la ricetta del risotto alla crema di scampi è semplice, verrà più buono di quello del ristorante. 
+For an authentic Venetian iteration of this dish you'll need true scampi—Adriatic crayfish—but it can be difficult to find in the U. Good small shrimp are a perfectly acceptable substitute. Risotto with Champagne and Scampi is a classic Italian dish that, due to it's refined ingredients, is served mainly on special occasions like Christmas or New Year. Unlike other risottos, Risotto with Champagne uses a whole bottle of Champagne and very little stock, hence the better the Champagne. Risotto alla crema di scampi, la ricetta del risotto alla crema di scampi è semplice, verrà più buono di quello del ristorante. 
 
 So that is going to wrap this up with this exceptional food colourful risotto with scampi recipe. Thanks so much for reading. I am confident you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

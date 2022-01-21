@@ -112,6 +112,6 @@ These bars are full of the best flavors and topped with a crumbly oat topping! T
 1. Refrigerate this cake in a airtight box
 
 
-How to Make Pumpkin Cheesecake Crumble Squares. Vegan Pumpkin Cheesecake Crumble Bars Recipe. When it comes to baked vegan treats, I love to combine creamy cheesecake and crumble cake into one delicious dessert! The topping is a buttery crumble that rivals the best. One scoop of ths luscious dessert, and you&#39;ll forget why you ever made pie Pumpkin-Cranberry Cheesecake. 
+How to Make Pumpkin Cheesecake Crumble Squares. Vegan Pumpkin Cheesecake Crumble Bars Recipe. When it comes to baked vegan treats, I love to combine creamy cheesecake and crumble cake into one delicious dessert! The topping is a buttery crumble that rivals the best. One scoop of ths luscious dessert, and you'll forget why you ever made pie Pumpkin-Cranberry Cheesecake. 
 
 So that's going to wrap this up for this exceptional food pumpkin cheesecake crumble recipe. Thanks so much for reading. I'm sure you can make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

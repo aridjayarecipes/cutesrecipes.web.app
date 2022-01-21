@@ -54,7 +54,7 @@ Hello everybody, I hope you are having an amazing day today. Today, we're going 
 
 Lamb steak dive in chocolate sauce is one of the most favored of current trending meals in the world. It is easy, it is quick, it tastes delicious. It is appreciated by millions every day. They're fine and they look fantastic. Lamb steak dive in chocolate sauce is something which I've loved my whole life.
 
-Until smell the aroma then add in the tapioca powder water to make the sauce get in thicker texture. Tips : side with chili sweet potatoes mashed is the best combination. Tips : side with chili sweet. While lamb is great on its own, it&#39;s even better served with a sauce — be it creamy or herby.
+Until smell the aroma then add in the tapioca powder water to make the sauce get in thicker texture. Tips : side with chili sweet potatoes mashed is the best combination. Tips : side with chili sweet. While lamb is great on its own, it's even better served with a sauce — be it creamy or herby.
 
 
 To get started with this particular recipe, we have to prepare a few components. You can cook lamb steak dive in chocolate sauce using 15 ingredients and 4 steps. Here is how you cook it.

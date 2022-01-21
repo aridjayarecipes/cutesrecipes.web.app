@@ -70,6 +70,6 @@ Salmon cream cheese bagels are the perfect grab-and-go breakfast, or try them as
 1. Take baking sheet with asparagus out of the oven once done and push asparagus stems to the side. add the salmon fillets to the center and bake again for 8-10 more minutes.
 
 
-One of my favorite at-home brunch ideas is setting up a no-fuss. Learn how to make Cream Cheese and Smoked Salmon Bagel. Most grocery stores sell presliced smoked salmon and cream cheese, which makes this recipe a snap to put together and even easier to serve. This salmon and cream cheese bagel can easily be eaten for breakfast, brunch, lunch, or even dinner. When paired with a side salad, it&#39;s perfect for lunch or a lighter dinner, but entirely not necessary. 
+One of my favorite at-home brunch ideas is setting up a no-fuss. Learn how to make Cream Cheese and Smoked Salmon Bagel. Most grocery stores sell presliced smoked salmon and cream cheese, which makes this recipe a snap to put together and even easier to serve. This salmon and cream cheese bagel can easily be eaten for breakfast, brunch, lunch, or even dinner. When paired with a side salad, it's perfect for lunch or a lighter dinner, but entirely not necessary. 
 
 So that is going to wrap it up for this exceptional food cream cheese salmon bake recipe. Thanks so much for your time. I am confident you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

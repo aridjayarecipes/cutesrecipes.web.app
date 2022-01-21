@@ -59,7 +59,7 @@ Hey everyone, hope you are having an amazing day today. Today, we're going to pr
 
 Pumpkin and spinach pie - kibbet lakteen bil saynieh is one of the most well liked of recent trending meals on earth. It is enjoyed by millions daily. It is simple, it is quick, it tastes delicious. They're nice and they look fantastic. Pumpkin and spinach pie - kibbet lakteen bil saynieh is something that I've loved my whole life.
 
-Shepherd&#39;s pie is a classic comfort food recipe that&#39;s healthy, hearty and filling. The bottom layer is a simple a mix of ground lamb and vegetables, simmered into a delicious savory Of course, pumpkin and sweet potatoes have their own unique flavor but the spices used in each pie are the same. Pumpkin kibbeh (Food Safari Earth)Source: Food Safari Earth. Apart from being delicious, "Pumpkin Kibbeh"is super healthy!
+Shepherd's pie is a classic comfort food recipe that's healthy, hearty and filling. The bottom layer is a simple a mix of ground lamb and vegetables, simmered into a delicious savory Of course, pumpkin and sweet potatoes have their own unique flavor but the spices used in each pie are the same. Pumpkin kibbeh (Food Safari Earth)Source: Food Safari Earth. Apart from being delicious, "Pumpkin Kibbeh"is super healthy!
 
 
 To begin with this particular recipe, we have to first prepare a few components. You can have pumpkin and spinach pie - kibbet lakteen bil saynieh using 14 ingredients and 10 steps. Here is how you cook that.

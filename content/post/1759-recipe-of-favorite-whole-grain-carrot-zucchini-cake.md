@@ -96,7 +96,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Make ready 1 tsp orange zest
 
 
-This zucchini carrot cake is a wonderful cake to bake for a summertime treat. It&#39;s hard to describe how carrots and zucchini enhance a cake—don&#39;t worry, it doesn&#39;t taste like a vegetable! For one thing, the shredded zucchini and carrots add moisture, but it doesn&#39;t end there. This healthy version of carrot zucchini cake is amazing! 
+This zucchini carrot cake is a wonderful cake to bake for a summertime treat. It's hard to describe how carrots and zucchini enhance a cake—don't worry, it doesn't taste like a vegetable! For one thing, the shredded zucchini and carrots add moisture, but it doesn't end there. This healthy version of carrot zucchini cake is amazing! 
 
 <!--inarticleads2-->
 
@@ -110,6 +110,6 @@ This zucchini carrot cake is a wonderful cake to bake for a summertime treat. It
 1. For the frosting, mix all the ingredients. Apply when the cake has cooled down.
 
 
-For one thing, the shredded zucchini and carrots add moisture, but it doesn&#39;t end there. This healthy version of carrot zucchini cake is amazing! Carrot cake is like the Jennifer Aniston of cakes. Classic and elegant at the same time. Course Breakfast, Cake, Dessert, Snack, Whole Grain. 
+For one thing, the shredded zucchini and carrots add moisture, but it doesn't end there. This healthy version of carrot zucchini cake is amazing! Carrot cake is like the Jennifer Aniston of cakes. Classic and elegant at the same time. Course Breakfast, Cake, Dessert, Snack, Whole Grain. 
 
 So that's going to wrap it up for this special food whole grain carrot- zucchini cake recipe. Thank you very much for your time. I am sure you can make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

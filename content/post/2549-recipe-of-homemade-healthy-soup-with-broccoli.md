@@ -75,7 +75,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Get to taste Salt
 
 
-Serve: Season to taste and serve with crusty bread. I tried to make a great broccoli soup six months ago. I gave up after several failed attempts, and recently tried again after discovering Sarah Jampel&#39;s We could all use some extra right now. Fresh &amp; Healthy Broccoli Cheese Soup Ingredients. 
+Serve: Season to taste and serve with crusty bread. I tried to make a great broccoli soup six months ago. I gave up after several failed attempts, and recently tried again after discovering Sarah Jampel's We could all use some extra right now. Fresh & Healthy Broccoli Cheese Soup Ingredients. 
 
 <!--inarticleads2-->
 
@@ -86,6 +86,6 @@ Serve: Season to taste and serve with crusty bread. I tried to make a great broc
 1. Reduce the flame low,add cornflour mixture.Stir continuously and boil 2to 3 minutes.If thickens then stop the cornflour mixture. Healthy broccoli soup is ready to serve.
 
 
-I gave up after several failed attempts, and recently tried again after discovering Sarah Jampel&#39;s We could all use some extra right now. Fresh &amp; Healthy Broccoli Cheese Soup Ingredients. This flavorful soup is made without heavy cream, milk or. Broccoli potato soup is warming, nourishing and delicious! Chunks of potato, carrot, broccoli and white beans together with a rich and creamy broth. 
+I gave up after several failed attempts, and recently tried again after discovering Sarah Jampel's We could all use some extra right now. Fresh & Healthy Broccoli Cheese Soup Ingredients. This flavorful soup is made without heavy cream, milk or. Broccoli potato soup is warming, nourishing and delicious! Chunks of potato, carrot, broccoli and white beans together with a rich and creamy broth. 
 
 So that's going to wrap it up for this special food healthy soup with broccoli recipe. Thanks so much for your time. I'm confident you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

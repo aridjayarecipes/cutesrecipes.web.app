@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Favorite Black bean &amp;amp; peppers soup 🥣!"
-title: "Recipe of Favorite Black bean &amp;amp; peppers soup 🥣!"
+description: "Recipe of Favorite Black bean &amp; peppers soup 🥣!"
+title: "Recipe of Favorite Black bean &amp; peppers soup 🥣!"
 slug: 2253-recipe-of-favorite-black-bean-and-amp-peppers-soup
 date: 2021-12-19T02:55:54.105Z
 image: https://img-global.cpcdn.com/recipes/95182bbced1b9d92/680x482cq70/black-bean-peppers-soup-recipe-main-photo.jpg
@@ -44,20 +44,20 @@ recipecategory: Dessert
 ---
 
 
-![Black bean &amp; peppers soup 🥣!](https://img-global.cpcdn.com/recipes/95182bbced1b9d92/680x482cq70/black-bean-peppers-soup-recipe-main-photo.jpg)
+![Black bean & peppers soup 🥣!](https://img-global.cpcdn.com/recipes/95182bbced1b9d92/680x482cq70/black-bean-peppers-soup-recipe-main-photo.jpg)
 
-Hey everyone, it's Jim, welcome to our recipe site. Today, I'm gonna show you how to make a special dish, black bean &amp; peppers soup 🥣!. One of my favorites. For mine, I am going to make it a bit unique. This will be really delicious.
+Hey everyone, it's Jim, welcome to our recipe site. Today, I'm gonna show you how to make a special dish, black bean & peppers soup 🥣!. One of my favorites. For mine, I am going to make it a bit unique. This will be really delicious.
 
-Black bean &amp; peppers soup 🥣! is one of the most favored of recent trending foods in the world. It is simple, it's fast, it tastes delicious. It is appreciated by millions daily. They are fine and they look wonderful. Black bean &amp; peppers soup 🥣! is something that I have loved my whole life.
+Black bean & peppers soup 🥣! is one of the most favored of recent trending foods in the world. It is simple, it's fast, it tastes delicious. It is appreciated by millions daily. They are fine and they look wonderful. Black bean & peppers soup 🥣! is something that I have loved my whole life.
 
 Black bean may refer to: Black adzuki bean, a variety of adzuki bean in Korean cuisine. Black gram (Vigna mungo), a variety of gram (lentil) in South Asian cuisine. Black soybean, in East Asian cuisine. Fermented black beans (douchi) used in Chinese cuisine.
 
 
-To begin with this recipe, we must first prepare a few components. You can have black bean &amp; peppers soup 🥣! using 12 ingredients and 3 steps. Here is how you can achieve that.
+To begin with this recipe, we must first prepare a few components. You can have black bean & peppers soup 🥣! using 12 ingredients and 3 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Black bean &amp; peppers soup 🥣!:
+##### The ingredients needed to make Black bean & peppers soup 🥣!:
 
 1. Take 2 cups water
 1. Take 3 cans black beans
@@ -77,7 +77,7 @@ Black beans make a great addition to salads and chili or on their own as a side 
 
 <!--inarticleads2-->
 
-##### Steps to make Black bean &amp; peppers soup 🥣!:
+##### Steps to make Black bean & peppers soup 🥣!:
 
 1. Cook onions and peppers, tomatoes diced in pan of oil and garlic powder
 1. Boil cans of 3 black beans with the water 2 cups
@@ -86,4 +86,4 @@ Black beans make a great addition to salads and chili or on their own as a side 
 
 A dried seed of a black bean plant. A dried black seed of certain varieties of the common bean, Phaseolus vulgaris. A fermented soybean, used in Asian cooking. Black beans stand out from other common varieties like cannellini beans and chickpeas not just because of their striking color, but also because of how rich and practically meaty they are. Black beans have a satisfying texture and mildly sweet flavor. 
 
-So that is going to wrap this up with this special food black bean &amp; peppers soup 🥣! recipe. Thank you very much for reading. I'm sure you can make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap this up with this special food black bean & peppers soup 🥣! recipe. Thank you very much for reading. I'm sure you can make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

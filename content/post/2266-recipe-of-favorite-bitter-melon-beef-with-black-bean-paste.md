@@ -58,7 +58,7 @@ Hello everybody, it is me, Dave, welcome to our recipe site. Today, I will show 
 
 Bitter melon beef with black bean paste is one of the most well liked of recent trending foods in the world. It is simple, it is fast, it tastes delicious. It's enjoyed by millions every day. They are nice and they look fantastic. Bitter melon beef with black bean paste is something that I have loved my entire life.
 
-Stir fry bitter melon with black bean &amp; oyster sauce. This classic beef dish is cooked quickly in a wok with bitter melon, onion, garlic, and ginger then covered with delicious black bean sauce. For those who don&#39;t know, bitter melon (or gourd) is bitter! Beef with bitter melon is one of the most common Chinese bitter melon recipes out there, stir-fried with black bean sauce and served over hot steamed rice.
+Stir fry bitter melon with black bean & oyster sauce. This classic beef dish is cooked quickly in a wok with bitter melon, onion, garlic, and ginger then covered with delicious black bean sauce. For those who don't know, bitter melon (or gourd) is bitter! Beef with bitter melon is one of the most common Chinese bitter melon recipes out there, stir-fried with black bean sauce and served over hot steamed rice.
 
 
 To begin with this recipe, we must prepare a few ingredients. You can cook bitter melon beef with black bean paste using 19 ingredients and 4 steps. Here is how you can achieve that.

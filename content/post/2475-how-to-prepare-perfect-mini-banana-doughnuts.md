@@ -27,7 +27,7 @@ recipeinstructions:
 - "Cut out the mini ring doughnuts and place them on the floured cookie sheet, gather the dough and re roll until you have used up all of the dough. (Cut the doughnuts however you like and any size you prefer, frying time however varies.)"
 - "Cover the doughnuts with a kitchen towel and let rise for about 30 - 40 minutes until doubled in size."
 - "After proofing, in a saucepan, heat some oil (about 2 inches up the pan) until hot. Test the heat of the oil with a doughnut hole."
-- "Fry the doughnuts for about 6 minutes. Flipping halfway through frying. Lower the heat if they are browning too quickly. Fry in batches so the temperature of the oil doesn&#39;t drop."
+- "Fry the doughnuts for about 6 minutes. Flipping halfway through frying. Lower the heat if they are browning too quickly. Fry in batches so the temperature of the oil doesn't drop."
 - "Take them out of the oil and place them on a cooling rack. If coating in sugar, this is the time while they are still warm."
 - "Fry all the doughnuts and serve warm. These can be refrigerated for up to a week. Thaw and then microwave or refry. Enjoy!"
 categories:
@@ -87,7 +87,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can have
 1. Cut out the mini ring doughnuts and place them on the floured cookie sheet, gather the dough and re roll until you have used up all of the dough. (Cut the doughnuts however you like and any size you prefer, frying time however varies.)
 1. Cover the doughnuts with a kitchen towel and let rise for about 30 - 40 minutes until doubled in size.
 1. After proofing, in a saucepan, heat some oil (about 2 inches up the pan) until hot. Test the heat of the oil with a doughnut hole.
-1. Fry the doughnuts for about 6 minutes. Flipping halfway through frying. Lower the heat if they are browning too quickly. Fry in batches so the temperature of the oil doesn&#39;t drop.
+1. Fry the doughnuts for about 6 minutes. Flipping halfway through frying. Lower the heat if they are browning too quickly. Fry in batches so the temperature of the oil doesn't drop.
 1. Take them out of the oil and place them on a cooling rack. If coating in sugar, this is the time while they are still warm.
 1. Fry all the doughnuts and serve warm. These can be refrigerated for up to a week. Thaw and then microwave or refry. Enjoy!
 

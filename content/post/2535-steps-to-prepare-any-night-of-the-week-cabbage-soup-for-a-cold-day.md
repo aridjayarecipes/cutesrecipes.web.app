@@ -42,7 +42,7 @@ recipecategory: Dinner
 
 Hey everyone, it is me, Dave, welcome to my recipe page. Today, I will show you a way to make a distinctive dish, cabbage soup for a cold day.. It is one of my favorites food recipes. For mine, I am going to make it a little bit tasty. This will be really delicious.
 
-Simple Ingredients for Simple Cabbage Soup. Have you ever looked in your fridge and the only vegetable in good shape looking back at you is a Of course with so few ingredients the quality of the soup relies on the quality of your ingredients. Homemade chicken stock is the best (we&#39;ll also use. Great Cabbage Soup for a cold day.
+Simple Ingredients for Simple Cabbage Soup. Have you ever looked in your fridge and the only vegetable in good shape looking back at you is a Of course with so few ingredients the quality of the soup relies on the quality of your ingredients. Homemade chicken stock is the best (we'll also use. Great Cabbage Soup for a cold day.
 
 Cabbage soup for a cold day. is one of the most popular of recent trending meals in the world. It's appreciated by millions daily. It's simple, it's quick, it tastes yummy. They are fine and they look wonderful. Cabbage soup for a cold day. is something which I've loved my entire life.
 

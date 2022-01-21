@@ -24,14 +24,14 @@ recipeingredient:
 - "as needed Mint leaves for garnishing"
 - "as needed Fresh cream for garnishing"
 recipeinstructions:
-- "First wash all vegetables &amp; chopped in big pieces."
-- "Heat the Vessel take water for boiling add chopped beetroot,carrot,spinach,garlic, tomato &amp; small piece of ginger add some water again if required then cover the lid for approx 30 to 40 minutes in low flame."
+- "First wash all vegetables & chopped in big pieces."
+- "Heat the Vessel take water for boiling add chopped beetroot,carrot,spinach,garlic, tomato & small piece of ginger add some water again if required then cover the lid for approx 30 to 40 minutes in low flame."
 - "After 40 minutes vegetables is about to cook completely they become soft give rest for cools completely in room temperature."
-- "When vegetables get cools then drain it extra water we use same water later so don&#39;t waste it just keep aside."
+- "When vegetables get cools then drain it extra water we use same water later so don't waste it just keep aside."
 - "Take a mixer jar add boiled vegetables and add some drain water to make puree try to use same water as much as possible."
-- "Heat the pan add ghee or butter then add cumin seeds saute for a minute &amp; turn vegetables puree in it stir continuously in low flame then add extra water which we store as per requirement."
-- "Soup consistency is to be thick then add black pepper powder &amp; salt together mix well stir continuously then add sugar it gives good taste."
-- "When it gives boils sprinkle some butter too then immediately serve in Soup bowl garnish with mint leaves &amp; fresh cream (optional) or butter &amp; little bit of black pepper powder."
+- "Heat the pan add ghee or butter then add cumin seeds saute for a minute & turn vegetables puree in it stir continuously in low flame then add extra water which we store as per requirement."
+- "Soup consistency is to be thick then add black pepper powder & salt together mix well stir continuously then add sugar it gives good taste."
+- "When it gives boils sprinkle some butter too then immediately serve in Soup bowl garnish with mint leaves & fresh cream (optional) or butter & little bit of black pepper powder."
 - "Healthy Iron rich soup is ready to serve."
 categories:
 - Recipe
@@ -87,14 +87,14 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 ##### Steps to make Beetroot Spinach Carrot Soup Full of Iron healthy Soup:
 
-1. First wash all vegetables &amp; chopped in big pieces.
-1. Heat the Vessel take water for boiling add chopped beetroot,carrot,spinach,garlic, tomato &amp; small piece of ginger add some water again if required then cover the lid for approx 30 to 40 minutes in low flame.
+1. First wash all vegetables & chopped in big pieces.
+1. Heat the Vessel take water for boiling add chopped beetroot,carrot,spinach,garlic, tomato & small piece of ginger add some water again if required then cover the lid for approx 30 to 40 minutes in low flame.
 1. After 40 minutes vegetables is about to cook completely they become soft give rest for cools completely in room temperature.
-1. When vegetables get cools then drain it extra water we use same water later so don&#39;t waste it just keep aside.
+1. When vegetables get cools then drain it extra water we use same water later so don't waste it just keep aside.
 1. Take a mixer jar add boiled vegetables and add some drain water to make puree try to use same water as much as possible.
-1. Heat the pan add ghee or butter then add cumin seeds saute for a minute &amp; turn vegetables puree in it stir continuously in low flame then add extra water which we store as per requirement.
-1. Soup consistency is to be thick then add black pepper powder &amp; salt together mix well stir continuously then add sugar it gives good taste.
-1. When it gives boils sprinkle some butter too then immediately serve in Soup bowl garnish with mint leaves &amp; fresh cream (optional) or butter &amp; little bit of black pepper powder.
+1. Heat the pan add ghee or butter then add cumin seeds saute for a minute & turn vegetables puree in it stir continuously in low flame then add extra water which we store as per requirement.
+1. Soup consistency is to be thick then add black pepper powder & salt together mix well stir continuously then add sugar it gives good taste.
+1. When it gives boils sprinkle some butter too then immediately serve in Soup bowl garnish with mint leaves & fresh cream (optional) or butter & little bit of black pepper powder.
 1. Healthy Iron rich soup is ready to serve.
 
 

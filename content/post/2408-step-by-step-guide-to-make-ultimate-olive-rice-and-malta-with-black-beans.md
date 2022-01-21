@@ -89,7 +89,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Take 1 1/2 tbsp white distilled vinegar optional
 
 
-If you&#39;re looking for a rice recipe with a quick cook time for a busy weeknight We used the same spices in this recipe to coat the tenders, then cooked them separately in olive oil. Black beans and rice is such a classic combination. There are dozens of ways to make it; this one is an easy recipe that cooks up quickly and tastes great. By the way, my pal David recommends mixing some chopped canned green olives, the ones with pimentos in them, for giving an additional boost to. 
+If you're looking for a rice recipe with a quick cook time for a busy weeknight We used the same spices in this recipe to coat the tenders, then cooked them separately in olive oil. Black beans and rice is such a classic combination. There are dozens of ways to make it; this one is an easy recipe that cooks up quickly and tastes great. By the way, my pal David recommends mixing some chopped canned green olives, the ones with pimentos in them, for giving an additional boost to. 
 
 <!--inarticleads2-->
 

@@ -21,7 +21,7 @@ recipeingredient:
 - "  Pepper powder salt turmeric powder"
 - "  Garlic cut into slices"
 recipeinstructions:
-- "把少许盐和胡椒粉撒在鱼片上 Add some salt &amp; pepper powder on fish fillet cubes"
+- "把少许盐和胡椒粉撒在鱼片上 Add some salt & pepper powder on fish fillet cubes"
 - "热锅加油，加入鱼片，蒜头片，鲜虾 Heat oil and add in fish fillet cubes, garlic slices, fresh shrimp"
 - "加入蘑菇，番茄，灯笼椒 Add mushroom, tomato, capsicum"
 - "混合番茄酱，黄姜粉。加入锅中翻炒 Mix ketchup with turmeric powder, and add into pan"
@@ -76,7 +76,7 @@ To build up your strength for the impending brawl, an epic paella is served on t
 
 ##### Steps to make 番茄海鲜饭 Paella:
 
-1. 把少许盐和胡椒粉撒在鱼片上 Add some salt &amp; pepper powder on fish fillet cubes
+1. 把少许盐和胡椒粉撒在鱼片上 Add some salt & pepper powder on fish fillet cubes
 1. 热锅加油，加入鱼片，蒜头片，鲜虾 Heat oil and add in fish fillet cubes, garlic slices, fresh shrimp
 1. 加入蘑菇，番茄，灯笼椒 Add mushroom, tomato, capsicum
 1. 混合番茄酱，黄姜粉。加入锅中翻炒 Mix ketchup with turmeric powder, and add into pan

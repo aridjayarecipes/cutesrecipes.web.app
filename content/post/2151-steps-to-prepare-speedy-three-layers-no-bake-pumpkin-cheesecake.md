@@ -44,7 +44,7 @@ recipeinstructions:
 - "Pumpkin jelly layer: Mix gelatin with 3 tbsp of water. Let it sit for 3-5 minutes. In a small saucepan heat the 1/2 cup of water, sugar, and pumpkin purée. Stirring until vapor appears on the surface and sugar dissolve. Turn off the heat, and strained the pumpkin mixture to avoid any lump. Add the gelatin mixture and stirring until gelatin dissolve. Set asides to cool down."
 - "Then pour pumpkin jelly on top of cheesecake layers. Refrigerator for another 1 to 2 hours before serving."
 - "Then for the final touch you can decorating your pumpkin cheesecake with slices fruits, or toppings with anything as you desires. And you can enjoy the refreshing and delicious pumpkin cheesecake on your thanksgiving or Christmas dinner. Enjoy!!"
-- "HappyCooking&amp;Baking! From my kitchen to yours! Wishing you all a very Happy and Blessed Thanksgiving🍁🍂🧡🎃"
+- "HappyCooking&Baking! From my kitchen to yours! Wishing you all a very Happy and Blessed Thanksgiving🍁🍂🧡🎃"
 categories:
 - Recipe
 tags:
@@ -119,7 +119,7 @@ To get started with this recipe, we must prepare a few components. You can cook 
 1. Pumpkin jelly layer: Mix gelatin with 3 tbsp of water. Let it sit for 3-5 minutes. In a small saucepan heat the 1/2 cup of water, sugar, and pumpkin purée. Stirring until vapor appears on the surface and sugar dissolve. Turn off the heat, and strained the pumpkin mixture to avoid any lump. Add the gelatin mixture and stirring until gelatin dissolve. Set asides to cool down.
 1. Then pour pumpkin jelly on top of cheesecake layers. Refrigerator for another 1 to 2 hours before serving.
 1. Then for the final touch you can decorating your pumpkin cheesecake with slices fruits, or toppings with anything as you desires. And you can enjoy the refreshing and delicious pumpkin cheesecake on your thanksgiving or Christmas dinner. Enjoy!!
-1. HappyCooking&amp;Baking! From my kitchen to yours! Wishing you all a very Happy and Blessed Thanksgiving🍁🍂🧡🎃
+1. HappyCooking&Baking! From my kitchen to yours! Wishing you all a very Happy and Blessed Thanksgiving🍁🍂🧡🎃
 
 
 

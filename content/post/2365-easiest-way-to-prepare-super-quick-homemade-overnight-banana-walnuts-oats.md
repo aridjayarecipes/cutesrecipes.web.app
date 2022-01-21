@@ -50,7 +50,7 @@ Hello everybody, hope you are having an incredible day today. Today, I will show
 
 Overnight banana walnuts oats is one of the most favored of recent trending foods on earth. It's simple, it is fast, it tastes delicious. It is enjoyed by millions every day. They are fine and they look wonderful. Overnight banana walnuts oats is something that I've loved my whole life.
 
-These Banana Overnight Oats are easy to make with hearty oats, bananas and crunchy walnuts. Gluten-free, refined sugar-free, vegan and a healthy and satisfying breakfast everyone will love! This isn&#39;t just any &#39;ole breakfast though, this is healthy meets indulgent serious breakfast business, people. There is no alcohol or vanilla ice cream, just deliciously caramelized bananas in a warm, inviting sauce with plenty of crunchy walnuts!
+These Banana Overnight Oats are easy to make with hearty oats, bananas and crunchy walnuts. Gluten-free, refined sugar-free, vegan and a healthy and satisfying breakfast everyone will love! This isn't just any 'ole breakfast though, this is healthy meets indulgent serious breakfast business, people. There is no alcohol or vanilla ice cream, just deliciously caramelized bananas in a warm, inviting sauce with plenty of crunchy walnuts!
 
 
 To get started with this particular recipe, we must first prepare a few ingredients. You can have overnight banana walnuts oats using 8 ingredients and 7 steps. Here is how you can achieve it.

@@ -27,7 +27,7 @@ recipeingredient:
 - "1/4 tsp chaat masala"
 recipeinstructions:
 - "Grind all the chopped ingredients in mixer grinder strain it add jeera powder, black salt,Honey and mix well."
-- "Serve Tasty, Healthy Juice With Fresh Fruits. Garnish with gooseberry &amp; pudina leaves."
+- "Serve Tasty, Healthy Juice With Fresh Fruits. Garnish with gooseberry & pudina leaves."
 categories:
 - Recipe
 tags:
@@ -85,7 +85,7 @@ To begin with this recipe, we must prepare a few components. You can cook hariya
 ##### Steps to make Hariyali Healthy Juice With Fruits:
 
 1. Grind all the chopped ingredients in mixer grinder strain it add jeera powder, black salt,Honey and mix well.
-1. Serve Tasty, Healthy Juice With Fresh Fruits. Garnish with gooseberry &amp; pudina leaves.
+1. Serve Tasty, Healthy Juice With Fresh Fruits. Garnish with gooseberry & pudina leaves.
 
 
 

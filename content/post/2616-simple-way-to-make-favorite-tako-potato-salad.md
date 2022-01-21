@@ -69,7 +69,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Get  shiso
 
 
-My go-to recipe for classic, creamy, zesty, Southern potato salad. My classic potato salad recipe is made with tender potatoes, hard-boiled eggs, mayonnaise, yellow mustard, apple cider vinegar and a special blend of seasonings. It&#39;s the best best potato with egg ever! Find the best potato salad recipes listed first so you find the recipe you want fast. 
+My go-to recipe for classic, creamy, zesty, Southern potato salad. My classic potato salad recipe is made with tender potatoes, hard-boiled eggs, mayonnaise, yellow mustard, apple cider vinegar and a special blend of seasonings. It's the best best potato with egg ever! Find the best potato salad recipes listed first so you find the recipe you want fast. 
 
 <!--inarticleads2-->
 
@@ -82,6 +82,6 @@ My go-to recipe for classic, creamy, zesty, Southern potato salad. My classic po
 1. Place the potatoes on a plate and add the tako Then garnish to taste with paprika, chillipowder and chopped shiso.
 
 
-It&#39;s the best best potato with egg ever! Find the best potato salad recipes listed first so you find the recipe you want fast. These fresh and tasty potato salad recipes are ideal for serving along any protein that&#39;s gracing your grill this summer. This classic potato salad is what you want! It&#39;s made with boiled potatoes, sour cream, mayo, green onions What I love about potato salad is that it serves a lot of people without a lot of effort, and it&#39;s. 
+It's the best best potato with egg ever! Find the best potato salad recipes listed first so you find the recipe you want fast. These fresh and tasty potato salad recipes are ideal for serving along any protein that's gracing your grill this summer. This classic potato salad is what you want! It's made with boiled potatoes, sour cream, mayo, green onions What I love about potato salad is that it serves a lot of people without a lot of effort, and it's. 
 
 So that's going to wrap this up with this exceptional food tako potato salad recipe. Thanks so much for your time. I am sure you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

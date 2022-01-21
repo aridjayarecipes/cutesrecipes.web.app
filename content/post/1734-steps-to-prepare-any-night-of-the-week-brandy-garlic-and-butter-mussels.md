@@ -21,7 +21,7 @@ recipeinstructions:
 - "Wash mussels well. Remove beard."
 - "Put garlic, butter and oil in a pan. When the butter starts to bubble remove garlic"
 - "And then add the mussels. Cover and turn up the heat"
-- "After a couple of minutes then will start to open. Add brandy and let it evaporate. Sprinkle with salt. Cover again and turn off the heat. Leave to steam for about 5 minutes until fully opened. Shake pan a few times but don&#39;t lift the lid. After 5 mins, serve in the sauce which will have thickened slightly"
+- "After a couple of minutes then will start to open. Add brandy and let it evaporate. Sprinkle with salt. Cover again and turn off the heat. Leave to steam for about 5 minutes until fully opened. Shake pan a few times but don't lift the lid. After 5 mins, serve in the sauce which will have thickened slightly"
 categories:
 - Recipe
 tags:
@@ -73,7 +73,7 @@ Steamed mussels recipe with white wine, shallots, garlic and butter. The best mu
 1. Wash mussels well. Remove beard.
 1. Put garlic, butter and oil in a pan. When the butter starts to bubble remove garlic
 1. And then add the mussels. Cover and turn up the heat
-1. After a couple of minutes then will start to open. Add brandy and let it evaporate. Sprinkle with salt. Cover again and turn off the heat. Leave to steam for about 5 minutes until fully opened. Shake pan a few times but don&#39;t lift the lid. After 5 mins, serve in the sauce which will have thickened slightly
+1. After a couple of minutes then will start to open. Add brandy and let it evaporate. Sprinkle with salt. Cover again and turn off the heat. Leave to steam for about 5 minutes until fully opened. Shake pan a few times but don't lift the lid. After 5 mins, serve in the sauce which will have thickened slightly
 
 
 Supercook clearly lists the ingredients each recipe uses, so you can find the perfect recipe quickly! Garlic Butter Steak- Grilled Filet Mignon with Brandy Garlic Butter. savoryexperiments.com. Of course Mussels are not only available as an appetizer in seafood restaurants, but many Steakhouses also have them on their menus. Just imagine, mopping up the Garlic-Buttery sauce with a crusty slice of bread. mmm, totally delicious ! We always, but always finish a batch, whether. Смотрите также. Морепродукты Sanford Мидии «Гигант Киви» Greenshell Mussels New Zealand. 

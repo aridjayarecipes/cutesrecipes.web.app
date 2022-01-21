@@ -68,7 +68,7 @@ To begin with this recipe, we have to prepare a few components. You can have my 
 1. Take to taste Salt and pepper
 
 
-Oil•Onions, chopped•Ground Coriander•Potatoes, chopped small•Carrots, peeled, chopped small•Veg or Chicken Stock•Fresh Coriander from supermarket•Mint Jelly. This recipe was inspired by a soup of Diana Kennedy&#39;s. If you can find cilantro with its roots attached, add the roots, well washed, to the soup for an even stronger cilantro flavor. This carrot and coriander soup recipe is a classic soup recipe - and it&#39;s easy to make in the comfort of your own home. 
+Oil•Onions, chopped•Ground Coriander•Potatoes, chopped small•Carrots, peeled, chopped small•Veg or Chicken Stock•Fresh Coriander from supermarket•Mint Jelly. This recipe was inspired by a soup of Diana Kennedy's. If you can find cilantro with its roots attached, add the roots, well washed, to the soup for an even stronger cilantro flavor. This carrot and coriander soup recipe is a classic soup recipe - and it's easy to make in the comfort of your own home. 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ Oil•Onions, chopped•Ground Coriander•Potatoes, chopped small•Carrots, pe
 1. Bring to boil then simmer 20 mins then blend check seasoning and enjoy
 
 
-If you can find cilantro with its roots attached, add the roots, well washed, to the soup for an even stronger cilantro flavor. This carrot and coriander soup recipe is a classic soup recipe - and it&#39;s easy to make in the comfort of your own home. Carrot and coriander soup is a classic soup for a reason. This version picks up a little spice from the jalapeños and draws out the sweetness from the carrots by roasting them first. It has plenty of coriander for a perfectly spiced spoonful at every bite. 
+If you can find cilantro with its roots attached, add the roots, well washed, to the soup for an even stronger cilantro flavor. This carrot and coriander soup recipe is a classic soup recipe - and it's easy to make in the comfort of your own home. Carrot and coriander soup is a classic soup for a reason. This version picks up a little spice from the jalapeños and draws out the sweetness from the carrots by roasting them first. It has plenty of coriander for a perfectly spiced spoonful at every bite. 
 
 So that is going to wrap this up for this special food my carrot and coriander soup recipe. Thanks so much for reading. I'm confident you will make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

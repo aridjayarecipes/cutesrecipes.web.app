@@ -57,7 +57,7 @@ To begin with this recipe, we must prepare a few components. You can cook black 
 
 1. Prepare 1 can Black Beans, drsined
 1. Make ready 1 can Corn, drained
-1. Make ready 3 small Tomatoes, seeded &amp; chopped
+1. Make ready 3 small Tomatoes, seeded & chopped
 1. Make ready 1/2 each Red Onion, finely chopped
 1. Prepare 1/2 bunch Fresh Cilantro, chopped
 1. Take 2 tbsp Olive oil

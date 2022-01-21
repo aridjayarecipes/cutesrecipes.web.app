@@ -42,7 +42,7 @@ Hey everyone, it is Louise, welcome to my recipe site. Today, I will show you a 
 
 Red cabbage and apples is one of the most well liked of recent trending meals in the world. It is easy, it is fast, it tastes yummy. It's enjoyed by millions every day. Red cabbage and apples is something which I've loved my whole life. They are fine and they look wonderful.
 
-I&#39;d had Red Cabbage with Apples in a German restaurant and really loved it. This recipe was so close to it and really good. Place all the ingredients except for the apples in a large saucepan and season. Red cabbage braised with apples and spices.
+I'd had Red Cabbage with Apples in a German restaurant and really loved it. This recipe was so close to it and really good. Place all the ingredients except for the apples in a large saucepan and season. Red cabbage braised with apples and spices.
 
 
 To begin with this particular recipe, we must prepare a few ingredients. You can have red cabbage and apples using 6 ingredients and 1 steps. Here is how you cook that.

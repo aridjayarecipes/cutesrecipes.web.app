@@ -26,9 +26,9 @@ recipeingredient:
 - "300 g bay scallops"
 - " Fresh Italian parsley for garnish"
 recipeinstructions:
-- "Add the butter to a medium pot on medium heat. Whisk in the flour once the butter&#39;s melted. Keep whisking until you get a blonde roux (a little lighter in colour than caramel)."
+- "Add the butter to a medium pot on medium heat. Whisk in the flour once the butter's melted. Keep whisking until you get a blonde roux (a little lighter in colour than caramel)."
 - "Stir the onion, green pepper, celery, and garlic into the pot. Let cook about 5 minutes until softened. Add the paprika, oregano, thyme, a good pinch of salt and several grinds of freshly cracked black pepper, and let cook another 2-3 minutes."
-- "Add the tomatoes, chicken stock, and bay leaves to the pot. Bring to a simmer, and let cook for 15 minutes. The sauce will get pretty thick; don&#39;t worry about it."
+- "Add the tomatoes, chicken stock, and bay leaves to the pot. Bring to a simmer, and let cook for 15 minutes. The sauce will get pretty thick; don't worry about it."
 - "Add the cod and scallops to the pot, and continue simmering for 10 minutes. The sauce should loosen during this time. If not, thin it out with a little water. Check the seasoning and add more salt and pepper to taste. Throw on a little fresh parsley for garnish, then serve with steamed rice."
 categories:
 - Recipe
@@ -52,7 +52,7 @@ recipecategory: Lunch
 
 Hey everyone, hope you're having an amazing day today. Today, we're going to prepare a special dish, etouffee-inspired seafood stew. It is one of my favorites food recipes. For mine, I will make it a little bit unique. This is gonna smell and look delicious.
 
-Etouffee-inspired seafood stew is one of the most well liked of current trending foods on earth. It is easy, it&#39;s fast, it tastes delicious. Etouffee-inspired seafood stew is something which I have loved my whole life. They are fine and they look wonderful.
+Etouffee-inspired seafood stew is one of the most well liked of current trending foods on earth. It is easy, it's fast, it tastes delicious. Etouffee-inspired seafood stew is something which I have loved my whole life. They are fine and they look wonderful.
 
 Etouffee-inspired seafood stew is one of the most favored of recent trending foods in the world. It is simple, it's fast, it tastes delicious. It is appreciated by millions every day. Etouffee-inspired seafood stew is something which I've loved my whole life. They're fine and they look fantastic.
 
@@ -80,18 +80,18 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Get  Fresh Italian parsley for garnish
 
 
-It has a Cajun/Creole origin and a nice well-rounded flavorful heat. This is my husband&#39;s recipe and it was inspired by a shrimp etouffee recipe at Simply Recipes. He&#39;s broken with tradition a bit with the addition of oysters. Shrimp étouffée, the classic Cajun and Creole dish of shrimp smothered in a flavorful roux-based To make a great étouffée, it helps to first deconstruct what the dish really is in a technical sense. 
+It has a Cajun/Creole origin and a nice well-rounded flavorful heat. This is my husband's recipe and it was inspired by a shrimp etouffee recipe at Simply Recipes. He's broken with tradition a bit with the addition of oysters. Shrimp étouffée, the classic Cajun and Creole dish of shrimp smothered in a flavorful roux-based To make a great étouffée, it helps to first deconstruct what the dish really is in a technical sense. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Etouffee-inspired seafood stew:
 
-1. Add the butter to a medium pot on medium heat. Whisk in the flour once the butter&#39;s melted. Keep whisking until you get a blonde roux (a little lighter in colour than caramel).
+1. Add the butter to a medium pot on medium heat. Whisk in the flour once the butter's melted. Keep whisking until you get a blonde roux (a little lighter in colour than caramel).
 1. Stir the onion, green pepper, celery, and garlic into the pot. Let cook about 5 minutes until softened. Add the paprika, oregano, thyme, a good pinch of salt and several grinds of freshly cracked black pepper, and let cook another 2-3 minutes.
-1. Add the tomatoes, chicken stock, and bay leaves to the pot. Bring to a simmer, and let cook for 15 minutes. The sauce will get pretty thick; don&#39;t worry about it.
+1. Add the tomatoes, chicken stock, and bay leaves to the pot. Bring to a simmer, and let cook for 15 minutes. The sauce will get pretty thick; don't worry about it.
 1. Add the cod and scallops to the pot, and continue simmering for 10 minutes. The sauce should loosen during this time. If not, thin it out with a little water. Check the seasoning and add more salt and pepper to taste. Throw on a little fresh parsley for garnish, then serve with steamed rice.
 
 
-He&#39;s broken with tradition a bit with the addition of oysters. Shrimp étouffée, the classic Cajun and Creole dish of shrimp smothered in a flavorful roux-based To make a great étouffée, it helps to first deconstruct what the dish really is in a technical sense. But when made with quick-cooking seafood like shrimp, it&#39;s not really a stew, in that the shrimp are not. Etouffee is a thick stew that is made with a roux that is cooked until deep brown to ensure that it is full of flavour. It did make my top ten of memorable dishes. 
+He's broken with tradition a bit with the addition of oysters. Shrimp étouffée, the classic Cajun and Creole dish of shrimp smothered in a flavorful roux-based To make a great étouffée, it helps to first deconstruct what the dish really is in a technical sense. But when made with quick-cooking seafood like shrimp, it's not really a stew, in that the shrimp are not. Etouffee is a thick stew that is made with a roux that is cooked until deep brown to ensure that it is full of flavour. It did make my top ten of memorable dishes. 
 
 So that is going to wrap it up for this exceptional food etouffee-inspired seafood stew recipe. Thank you very much for reading. I am confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

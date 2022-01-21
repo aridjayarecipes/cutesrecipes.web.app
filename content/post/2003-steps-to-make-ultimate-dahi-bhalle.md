@@ -27,16 +27,16 @@ recipeingredient:
 - "as required Bhujia  pomegranate  for garnish"
 - "as required Water"
 recipeinstructions:
-- "Soak urad Dal &amp; moong overnight."
-- "Wash the Dal &amp; grind them into fine paste.(Don&#39;t add water while grinding)"
+- "Soak urad Dal & moong overnight."
+- "Wash the Dal & grind them into fine paste.(Don't add water while grinding)"
 - "Beat the batter for 5 mins.It will be light and fluffy."
-- "Add salt &amp; jeera into the mixture."
-- "Take a kadai &amp; heat oil.Add spoonful of the batter into the oil &amp; deep fry them.Fry till the vadas are crisp &amp; golden."
+- "Add salt & jeera into the mixture."
+- "Take a kadai & heat oil.Add spoonful of the batter into the oil & deep fry them.Fry till the vadas are crisp & golden."
 - "Drop these vadas into a bowl of water for 10-20 mins."
 - "Meanwhile whisk the yoghurt in a bowl.Add little sugar into mixture."
-- "Squeeze the excess water from the vadas &amp; transfer into a bowl.Put yoghurt mixture over the vadas."
+- "Squeeze the excess water from the vadas & transfer into a bowl.Put yoghurt mixture over the vadas."
 - "Sprinkle cumin powder,black salt,chilli powder,chaat masala, tamarind date chutney,mint chutney on top."
-- "Garnish with bhujia &amp; pomegranate pearls."
+- "Garnish with bhujia & pomegranate pearls."
 - "Serve chilled."
 categories:
 - Recipe
@@ -61,7 +61,7 @@ Hey everyone, I hope you are having an amazing day today. Today, I'm gonna show 
 
 Dahi bhalle is one of the most favored of current trending foods on earth. It's enjoyed by millions daily. It's easy, it's quick, it tastes delicious. Dahi bhalle is something which I have loved my whole life. They're fine and they look wonderful.
 
-These are deep fried fritters made with lentils. If the oil is cold, it will soak a lot of oil. So medium heat is what it needs to be. Delhi ke best dahi bhalle &amp; mineral water wale golgappe
+These are deep fried fritters made with lentils. If the oil is cold, it will soak a lot of oil. So medium heat is what it needs to be. Delhi ke best dahi bhalle & mineral water wale golgappe
 
 
 To begin with this particular recipe, we must prepare a few components. You can have dahi bhalle using 16 ingredients and 11 steps. Here is how you can achieve it.
@@ -84,7 +84,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Get 3-4 tsp chat masala
 1. Prepare 1 tsp Black pepper
 1. Take 2 tsp black salt
-1. Make ready as required Bhujia &amp; pomegranate  for garnish
+1. Make ready as required Bhujia & pomegranate  for garnish
 1. Get as required Water
 
 
@@ -94,16 +94,16 @@ Dahi vada is a type of chaat (snack) originating from the Indian subcontinent an
 
 ##### Steps to make Dahi bhalle:
 
-1. Soak urad Dal &amp; moong overnight.
-1. Wash the Dal &amp; grind them into fine paste.(Don&#39;t add water while grinding)
+1. Soak urad Dal & moong overnight.
+1. Wash the Dal & grind them into fine paste.(Don't add water while grinding)
 1. Beat the batter for 5 mins.It will be light and fluffy.
-1. Add salt &amp; jeera into the mixture.
-1. Take a kadai &amp; heat oil.Add spoonful of the batter into the oil &amp; deep fry them.Fry till the vadas are crisp &amp; golden.
+1. Add salt & jeera into the mixture.
+1. Take a kadai & heat oil.Add spoonful of the batter into the oil & deep fry them.Fry till the vadas are crisp & golden.
 1. Drop these vadas into a bowl of water for 10-20 mins.
 1. Meanwhile whisk the yoghurt in a bowl.Add little sugar into mixture.
-1. Squeeze the excess water from the vadas &amp; transfer into a bowl.Put yoghurt mixture over the vadas.
+1. Squeeze the excess water from the vadas & transfer into a bowl.Put yoghurt mixture over the vadas.
 1. Sprinkle cumin powder,black salt,chilli powder,chaat masala, tamarind date chutney,mint chutney on top.
-1. Garnish with bhujia &amp; pomegranate pearls.
+1. Garnish with bhujia & pomegranate pearls.
 1. Serve chilled.
 
 

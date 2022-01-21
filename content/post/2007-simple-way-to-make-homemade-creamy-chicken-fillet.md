@@ -29,7 +29,7 @@ recipeinstructions:
 - "Put the slices in a bowl or any container to mix the spices together with the chicken. Rub the salt in the fillet. Then add the remaining spices mentioned above. Make sure to mix it well. (This can also be prepared overnight and put it in the ref)"
 - "Prepare a frying pan and put it on the stove at medium heat. When the pan is nicely heated, tone down the fire into low heat before pouring the oil of your choice. When the oil are heated up, you can start frying the seasoned chicken. Fry until each face of the fillet are golden brown."
 - "When you are half way thru cooking all the chicken, you can start preparing for making the sauce. Start by mincing the garlic cloves. Grate the carrots into medium sizes. Get another pan to saute the garlic and grated carrots."
-- "In medium heat, saute the garlic and carrots with the butter. When the carrots are half cook, tone down the fire into low heat then pour the All Purpose cream. Slowly and constantly stir the mixture to make sure that it won&#39;t be burned. Add a pinch of salt if needed. Let it cook until it shimmer. Then add the parmesan cheese while it&#39;s hot and mix well."
+- "In medium heat, saute the garlic and carrots with the butter. When the carrots are half cook, tone down the fire into low heat then pour the All Purpose cream. Slowly and constantly stir the mixture to make sure that it won't be burned. Add a pinch of salt if needed. Let it cook until it shimmer. Then add the parmesan cheese while it's hot and mix well."
 - "Prepare a plate of your choice to arrange it together. Put the chicken on the plate then pour the sauce into it (elegantly). Garnish it with dried Basil leaves. Then serve."
 categories:
 - Recipe
@@ -90,7 +90,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Put the slices in a bowl or any container to mix the spices together with the chicken. Rub the salt in the fillet. Then add the remaining spices mentioned above. Make sure to mix it well. (This can also be prepared overnight and put it in the ref)
 1. Prepare a frying pan and put it on the stove at medium heat. When the pan is nicely heated, tone down the fire into low heat before pouring the oil of your choice. When the oil are heated up, you can start frying the seasoned chicken. Fry until each face of the fillet are golden brown.
 1. When you are half way thru cooking all the chicken, you can start preparing for making the sauce. Start by mincing the garlic cloves. Grate the carrots into medium sizes. Get another pan to saute the garlic and grated carrots.
-1. In medium heat, saute the garlic and carrots with the butter. When the carrots are half cook, tone down the fire into low heat then pour the All Purpose cream. Slowly and constantly stir the mixture to make sure that it won&#39;t be burned. Add a pinch of salt if needed. Let it cook until it shimmer. Then add the parmesan cheese while it&#39;s hot and mix well.
+1. In medium heat, saute the garlic and carrots with the butter. When the carrots are half cook, tone down the fire into low heat then pour the All Purpose cream. Slowly and constantly stir the mixture to make sure that it won't be burned. Add a pinch of salt if needed. Let it cook until it shimmer. Then add the parmesan cheese while it's hot and mix well.
 1. Prepare a plate of your choice to arrange it together. Put the chicken on the plate then pour the sauce into it (elegantly). Garnish it with dried Basil leaves. Then serve.
 
 

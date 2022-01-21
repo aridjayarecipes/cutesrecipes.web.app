@@ -43,7 +43,7 @@ Hello everybody, I hope you are having an incredible day today. Today, I will sh
 
 Violet cabbage millet dosa is one of the most favored of recent trending meals on earth. It's appreciated by millions every day. It is simple, it is quick, it tastes yummy. Violet cabbage millet dosa is something which I have loved my whole life. They are nice and they look fantastic.
 
-Grind together into fine paste along with the poha and cabbage. In this video I am sharing the recipe of Kodo Millet Cabbage Dosa. Kodo millet (in kannada it is called as Arka) Benefits of Kodo millet are: Easy to digest. Since this dosa doesn&#39;t have rice in them, i added little more urad dal to it.
+Grind together into fine paste along with the poha and cabbage. In this video I am sharing the recipe of Kodo Millet Cabbage Dosa. Kodo millet (in kannada it is called as Arka) Benefits of Kodo millet are: Easy to digest. Since this dosa doesn't have rice in them, i added little more urad dal to it.
 
 
 To get started with this particular recipe, we must first prepare a few components. You can have violet cabbage millet dosa using 6 ingredients and 2 steps. Here is how you cook it.
@@ -60,7 +60,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Prepare 1/4 cup Violet cabbage
 
 
-Cabbage &amp; Dil Dosa is prepared with spicy dough and we can have them for breakfast, as snack or for dinner. One more healthy delicious breakfast option or even a brunch option is this Moong dal, pearl millet ( bajra millet ) dosa with cabbage. Dosas are a crepes-like pancake from South India. Dosas are made with a naturally fermented batter. 
+Cabbage & Dil Dosa is prepared with spicy dough and we can have them for breakfast, as snack or for dinner. One more healthy delicious breakfast option or even a brunch option is this Moong dal, pearl millet ( bajra millet ) dosa with cabbage. Dosas are a crepes-like pancake from South India. Dosas are made with a naturally fermented batter. 
 
 <!--inarticleads2-->
 

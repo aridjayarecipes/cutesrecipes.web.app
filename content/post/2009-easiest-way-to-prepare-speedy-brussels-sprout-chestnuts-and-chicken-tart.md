@@ -54,7 +54,7 @@ Hello everybody, it is me, Dave, welcome to my recipe page. Today, I'm gonna sho
 
 Brussels sprout, chestnuts and chicken tart. is one of the most popular of recent trending foods in the world. It is simple, it is fast, it tastes delicious. It is enjoyed by millions every day. Brussels sprout, chestnuts and chicken tart. is something which I have loved my entire life. They are fine and they look wonderful.
 
-Great recipe for Brussels sprout, chestnuts and chicken tart. A variation of Nigel Slater&#39;s recipe using some Christmas leftovers. Place chicken, chestnuts and sprouts in the case. Pour the egg mixture over the top.
+Great recipe for Brussels sprout, chestnuts and chicken tart. A variation of Nigel Slater's recipe using some Christmas leftovers. Place chicken, chestnuts and sprouts in the case. Pour the egg mixture over the top.
 
 
 To get started with this particular recipe, we have to prepare a few ingredients. You can cook brussels sprout, chestnuts and chicken tart. using 9 ingredients and 10 steps. Here is how you cook it.
@@ -74,7 +74,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Take  salt and pepper
 
 
-Roast Brussels sprouts and chesnuts together on a pan for an easy side dish recipe that&#39;s perfect for the holidays. Brussels sprouts are finest in winter. Trim and cut the sprouts up to a day ahead, then keep refrigerated in a zip-top plastic bag. Sweet chestnuts are paired with tender Brussels sprouts in this comforting side dish. 
+Roast Brussels sprouts and chesnuts together on a pan for an easy side dish recipe that's perfect for the holidays. Brussels sprouts are finest in winter. Trim and cut the sprouts up to a day ahead, then keep refrigerated in a zip-top plastic bag. Sweet chestnuts are paired with tender Brussels sprouts in this comforting side dish. 
 
 <!--inarticleads2-->
 

@@ -64,7 +64,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Take 2 blocks chicken stock
 
 
-If you&#39;re looking to lose weight. Your daily values may be higher or lower depending on. The cabbage soup diet involves making a basic cabbage soup loaded with veggies, and eating two to three servings of that each day, along with certain additional foods, like fruit or beef. Ancient Britons were eating dairy, peas, cabbage and oats, according to gunk trapped in their teeth. 
+If you're looking to lose weight. Your daily values may be higher or lower depending on. The cabbage soup diet involves making a basic cabbage soup loaded with veggies, and eating two to three servings of that each day, along with certain additional foods, like fruit or beef. Ancient Britons were eating dairy, peas, cabbage and oats, according to gunk trapped in their teeth. 
 
 <!--inarticleads2-->
 

@@ -26,7 +26,7 @@ recipeinstructions:
 - "Peel and thinly slice the kiwi. Slice the cabbage."
 - "Slice the carrots into matchsticks. Add carrots to the cabbage. Slice the celery and onion thin."
 - "Mince the onion and garlic, or buy the garlic already minced. Add the salt. Massage everything together allow to rest covered for an hour and a half. This is going to produce some of the liquids."
-- "4% salt water solution is 4 tablespoons kosher salt to 4 cups water. Non-chlorinated and no fluoride in water. Now you won&#39;t need this much unless you are making a bunch of this stuff. So 1 tablespoon kosher or pink Himalayan salt to 1 cup water. If using table grind salt use 1 teaspoon to 1 cup. Add the spices and mix well. Add the spice mix well. Heat the water to dissolve the salt in the water."
+- "4% salt water solution is 4 tablespoons kosher salt to 4 cups water. Non-chlorinated and no fluoride in water. Now you won't need this much unless you are making a bunch of this stuff. So 1 tablespoon kosher or pink Himalayan salt to 1 cup water. If using table grind salt use 1 teaspoon to 1 cup. Add the spices and mix well. Add the spice mix well. Heat the water to dissolve the salt in the water."
 - "Put the mixture into a sterilized jar. Press the mixture down, I used my rolling pin stick to tamp it down."
 - "Add the large piece of cabbage leaf cut to size of jar opening. Add your weight on top and add salty water solution to top off if necessary. Seal the top and check the liquid level regularly. Do this for at least 2 weeks to ferment. When you open skim the top to remove anything that should not be there. I hope you enjoy!!!!"
 categories:
@@ -85,7 +85,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can h
 1. Peel and thinly slice the kiwi. Slice the cabbage.
 1. Slice the carrots into matchsticks. Add carrots to the cabbage. Slice the celery and onion thin.
 1. Mince the onion and garlic, or buy the garlic already minced. Add the salt. Massage everything together allow to rest covered for an hour and a half. This is going to produce some of the liquids.
-1. 4% salt water solution is 4 tablespoons kosher salt to 4 cups water. Non-chlorinated and no fluoride in water. Now you won&#39;t need this much unless you are making a bunch of this stuff. So 1 tablespoon kosher or pink Himalayan salt to 1 cup water. If using table grind salt use 1 teaspoon to 1 cup. Add the spices and mix well. Add the spice mix well. Heat the water to dissolve the salt in the water.
+1. 4% salt water solution is 4 tablespoons kosher salt to 4 cups water. Non-chlorinated and no fluoride in water. Now you won't need this much unless you are making a bunch of this stuff. So 1 tablespoon kosher or pink Himalayan salt to 1 cup water. If using table grind salt use 1 teaspoon to 1 cup. Add the spices and mix well. Add the spice mix well. Heat the water to dissolve the salt in the water.
 1. Put the mixture into a sterilized jar. Press the mixture down, I used my rolling pin stick to tamp it down.
 1. Add the large piece of cabbage leaf cut to size of jar opening. Add your weight on top and add salty water solution to top off if necessary. Seal the top and check the liquid level regularly. Do this for at least 2 weeks to ferment. When you open skim the top to remove anything that should not be there. I hope you enjoy!!!!
 

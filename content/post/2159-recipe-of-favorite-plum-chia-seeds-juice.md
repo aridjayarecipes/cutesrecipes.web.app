@@ -20,8 +20,8 @@ recipeingredient:
 - "as needed Pudina leaves"
 - "1/2 cup cold water"
 recipeinstructions:
-- "Grind chopped plums in mixer grinder by adding cold water &amp; lemon juice in medium thick pouring consistency. Add honey and mix well."
-- "First add little honey and chia seeds &amp; on top pour Plum juice stir with spoon. Garnish with plum slices and phudina leaves and serve cold."
+- "Grind chopped plums in mixer grinder by adding cold water & lemon juice in medium thick pouring consistency. Add honey and mix well."
+- "First add little honey and chia seeds & on top pour Plum juice stir with spoon. Garnish with plum slices and phudina leaves and serve cold."
 categories:
 - Recipe
 tags:
@@ -72,8 +72,8 @@ To get started with this recipe, we must prepare a few ingredients. You can cook
 
 ##### Steps to make Plum Chia Seeds Juice:
 
-1. Grind chopped plums in mixer grinder by adding cold water &amp; lemon juice in medium thick pouring consistency. Add honey and mix well.
-1. First add little honey and chia seeds &amp; on top pour Plum juice stir with spoon. Garnish with plum slices and phudina leaves and serve cold.
+1. Grind chopped plums in mixer grinder by adding cold water & lemon juice in medium thick pouring consistency. Add honey and mix well.
+1. First add little honey and chia seeds & on top pour Plum juice stir with spoon. Garnish with plum slices and phudina leaves and serve cold.
 
 
 

@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Award-winning Bacon, salmon and mushroom creamy &amp;amp; soy sauce pasta"
-title: "Recipe of Award-winning Bacon, salmon and mushroom creamy &amp;amp; soy sauce pasta"
+description: "Recipe of Award-winning Bacon, salmon and mushroom creamy &amp; soy sauce pasta"
+title: "Recipe of Award-winning Bacon, salmon and mushroom creamy &amp; soy sauce pasta"
 slug: 1870-recipe-of-award-winning-bacon-salmon-and-mushroom-creamy-and-amp-soy-sauce-pasta
 date: 2021-12-17T09:33:22.517Z
 image: https://img-global.cpcdn.com/recipes/322b2d7d83e599b3/680x482cq70/bacon-salmon-and-mushroom-creamy-soy-sauce-pasta-recipe-main-photo.jpg
@@ -53,20 +53,20 @@ recipecategory: Dinner
 ---
 
 
-![Bacon, salmon and mushroom creamy &amp; soy sauce pasta](https://img-global.cpcdn.com/recipes/322b2d7d83e599b3/680x482cq70/bacon-salmon-and-mushroom-creamy-soy-sauce-pasta-recipe-main-photo.jpg)
+![Bacon, salmon and mushroom creamy & soy sauce pasta](https://img-global.cpcdn.com/recipes/322b2d7d83e599b3/680x482cq70/bacon-salmon-and-mushroom-creamy-soy-sauce-pasta-recipe-main-photo.jpg)
 
-Hello everybody, I hope you're having an incredible day today. Today, I will show you a way to make a distinctive dish, bacon, salmon and mushroom creamy &amp; soy sauce pasta. It is one of my favorites food recipes. This time, I'm gonna make it a little bit unique. This is gonna smell and look delicious.
+Hello everybody, I hope you're having an incredible day today. Today, I will show you a way to make a distinctive dish, bacon, salmon and mushroom creamy & soy sauce pasta. It is one of my favorites food recipes. This time, I'm gonna make it a little bit unique. This is gonna smell and look delicious.
 
-A fabulous mushroom recipe prepared with butter, garlic, bacon &amp; cream. You&#39;ll love this quick &amp; easy side dish that&#39;s also low-carb and Keto. Garlic mushrooms cooked in a creamy butter sauce are absolutely spectacular. Everyone needs a go-to mushroom recipe and this one should definitely be.
+A fabulous mushroom recipe prepared with butter, garlic, bacon & cream. You'll love this quick & easy side dish that's also low-carb and Keto. Garlic mushrooms cooked in a creamy butter sauce are absolutely spectacular. Everyone needs a go-to mushroom recipe and this one should definitely be.
 
-Bacon, salmon and mushroom creamy &amp; soy sauce pasta is one of the most well liked of recent trending meals in the world. It is simple, it's fast, it tastes delicious. It's appreciated by millions daily. They're nice and they look wonderful. Bacon, salmon and mushroom creamy &amp; soy sauce pasta is something that I have loved my whole life.
+Bacon, salmon and mushroom creamy & soy sauce pasta is one of the most well liked of recent trending meals in the world. It is simple, it's fast, it tastes delicious. It's appreciated by millions daily. They're nice and they look wonderful. Bacon, salmon and mushroom creamy & soy sauce pasta is something that I have loved my whole life.
 
 
-To get started with this recipe, we must prepare a few ingredients. You can cook bacon, salmon and mushroom creamy &amp; soy sauce pasta using 13 ingredients and 11 steps. Here is how you can achieve it.
+To get started with this recipe, we must prepare a few ingredients. You can cook bacon, salmon and mushroom creamy & soy sauce pasta using 13 ingredients and 11 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Bacon, salmon and mushroom creamy &amp; soy sauce pasta:
+##### The ingredients needed to make Bacon, salmon and mushroom creamy & soy sauce pasta:
 
 1. Make ready 200 g pasta
 1. Make ready 5 strips bacon
@@ -87,7 +87,7 @@ This easy creamy balsamic chicken bacon mushroom pasta is loaded with flavor! Cr
 
 <!--inarticleads2-->
 
-##### Instructions to make Bacon, salmon and mushroom creamy &amp; soy sauce pasta:
+##### Instructions to make Bacon, salmon and mushroom creamy & soy sauce pasta:
 
 1. Cook pasta al dente in a large pot with salted water. Save 1/4 cup of pasta water.
 1. Cut the stem of enoki and maitake. Tear them apart small.
@@ -104,4 +104,4 @@ This easy creamy balsamic chicken bacon mushroom pasta is loaded with flavor! Cr
 
 The best Low Carb or Keto Mushroom Recipe! It incorporates baby spinach into the sauce, so you have a one-pot, healthy seafood meal to serve for dinner. Season salmon filets generously with salt and pepper. Add milk to the pan and stir until it thickens into a creamy sauce. Season with salt, pepper, and freshly grated nutmeg. 
 
-So that's going to wrap it up with this exceptional food bacon, salmon and mushroom creamy &amp; soy sauce pasta recipe. Thanks so much for reading. I am confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!
+So that's going to wrap it up with this exceptional food bacon, salmon and mushroom creamy & soy sauce pasta recipe. Thanks so much for reading. I am confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

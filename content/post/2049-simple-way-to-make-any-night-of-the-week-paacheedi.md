@@ -25,7 +25,7 @@ recipeingredient:
 recipeinstructions:
 - "In a bowl add all the chopped fruits, grated coconut and pinch of grated ginger."
 - "Then add hung Curd, sugar/ jaggery,roasted cumin powder,white salt, black salt and black pepper."
-- "Mix it well and it&#39;s ready."
+- "Mix it well and it's ready."
 - "Serve cold or as it to ur family and friends."
 - "It gives awesome taste if served when it is prepared."
 categories:
@@ -81,7 +81,7 @@ To begin with this recipe, we must prepare a few ingredients. You can cook paach
 
 1. In a bowl add all the chopped fruits, grated coconut and pinch of grated ginger.
 1. Then add hung Curd, sugar/ jaggery,roasted cumin powder,white salt, black salt and black pepper.
-1. Mix it well and it&#39;s ready.
+1. Mix it well and it's ready.
 1. Serve cold or as it to ur family and friends.
 1. It gives awesome taste if served when it is prepared.
 

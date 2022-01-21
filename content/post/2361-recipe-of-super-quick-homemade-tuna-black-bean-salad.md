@@ -70,10 +70,10 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Prepare  Tortilla chips
 1. Get  Spring mix- lettuce
 1. Make ready 1 Avocado
-1. Make ready  Olive oil &amp; balsamic vinaigrette
+1. Make ready  Olive oil & balsamic vinaigrette
 1. Take 1/4 cup Mayonnaise
 1. Get 1 tbsp Deli Mustard
-1. Prepare 1 Salt &amp; pepper
+1. Prepare 1 Salt & pepper
 
 
 

@@ -20,9 +20,9 @@ recipeingredient:
 - "1 cup Skim Milk"
 recipeinstructions:
 - "In large saucepan, heat water over medium heat."
-- "Add onion and cook until tender, about 3 minutes. Don&#39;t let the onion dry out."
+- "Add onion and cook until tender, about 3 minutes. Don't let the onion dry out."
 - "Add pumpkin, broth, cinnamon, nutmeg, and black pepper.  Bring to a boil, reduce heat and simmer for 5 minutes."
-- "Stir in milk and cook until hot. Don&#39;t boil."
+- "Stir in milk and cook until hot. Don't boil."
 - "Blend soup, if desired. Can be served garnished with green onion tops."
 - "Serving size is 1 cup."
 categories:
@@ -75,9 +75,9 @@ To begin with this recipe, we must prepare a few ingredients. You can have pumpk
 ##### Instructions to make Pumpkin Soup (Healthy):
 
 1. In large saucepan, heat water over medium heat.
-1. Add onion and cook until tender, about 3 minutes. Don&#39;t let the onion dry out.
+1. Add onion and cook until tender, about 3 minutes. Don't let the onion dry out.
 1. Add pumpkin, broth, cinnamon, nutmeg, and black pepper.  Bring to a boil, reduce heat and simmer for 5 minutes.
-1. Stir in milk and cook until hot. Don&#39;t boil.
+1. Stir in milk and cook until hot. Don't boil.
 1. Blend soup, if desired. Can be served garnished with green onion tops.
 1. Serving size is 1 cup.
 

@@ -47,7 +47,7 @@ recipecategory: Dessert
 
 Hey everyone, hope you're having an amazing day today. Today, we're going to make a distinctive dish, creamy brussel sprouts with bacon. One of my favorites food recipes. For mine, I am going to make it a bit unique. This is gonna smell and look delicious.
 
-Brussel sprouts with Bacon in a balsamic glaze. Tender crisp brussels sprouts are smothered in a creamy sauce and topped with cheese and crunchy bacon. It&#39;s sure to be a crowd pleaser. This splendid side dish will be a crowning fare along with Easy Green Bean Bundles, Jiffy Corn Casserole and The Best Sweet Potato Casserole.
+Brussel sprouts with Bacon in a balsamic glaze. Tender crisp brussels sprouts are smothered in a creamy sauce and topped with cheese and crunchy bacon. It's sure to be a crowd pleaser. This splendid side dish will be a crowning fare along with Easy Green Bean Bundles, Jiffy Corn Casserole and The Best Sweet Potato Casserole.
 
 Creamy brussel sprouts with bacon is one of the most well liked of current trending foods on earth. It is easy, it's quick, it tastes delicious. It is enjoyed by millions every day. Creamy brussel sprouts with bacon is something which I have loved my entire life. They are nice and they look wonderful.
 
@@ -82,6 +82,6 @@ It involves minimal ingredients and prep work. Bacon and Brussels sprouts just g
 1. Bake in the oven at 400 for 15 to 20 minutes or until the sauce is thickened some
 
 
-This simple side dish is definitely worth making. I have a few more Brussels sprout side dish recipes on the blog, including my Brussels sprouts gratin, these maple pecan Brussels sprouts, my creamy baked Brussels sprouts, and these roasted. Brussels sprouts- Use fresh Brussels sprouts here. Make sure to wash them and trim the flat end off. Other Cheesy Instant Pot Side Dishes You&#39;ll Love. 
+This simple side dish is definitely worth making. I have a few more Brussels sprout side dish recipes on the blog, including my Brussels sprouts gratin, these maple pecan Brussels sprouts, my creamy baked Brussels sprouts, and these roasted. Brussels sprouts- Use fresh Brussels sprouts here. Make sure to wash them and trim the flat end off. Other Cheesy Instant Pot Side Dishes You'll Love. 
 
 So that is going to wrap it up with this exceptional food creamy brussel sprouts with bacon recipe. Thanks so much for your time. I am sure you can make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

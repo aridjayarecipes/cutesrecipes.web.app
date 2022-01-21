@@ -54,7 +54,7 @@ Hey everyone, it is Brad, welcome to our recipe page. Today, I'm gonna show you 
 
 Lamb tagine is one of the most favored of current trending meals in the world. It is enjoyed by millions daily. It's easy, it is fast, it tastes delicious. Lamb tagine is something which I have loved my whole life. They are fine and they look wonderful.
 
-This authentic lamb tagine recipe will take you to slow-cooked perfection in six simple steps - just kick back and let it do its thing. Tagine, the stew, classically incorporates savory and sweet ingredients to make a complex dish with a richly spiced sauce. This is a traditional Moroccan lamb tagine simmered in numerous spices. Don&#39;t let the long ingredients list put you off.
+This authentic lamb tagine recipe will take you to slow-cooked perfection in six simple steps - just kick back and let it do its thing. Tagine, the stew, classically incorporates savory and sweet ingredients to make a complex dish with a richly spiced sauce. This is a traditional Moroccan lamb tagine simmered in numerous spices. Don't let the long ingredients list put you off.
 
 
 To begin with this recipe, we must prepare a few components. You can have lamb tagine using 17 ingredients and 3 steps. Here is how you can achieve it.
@@ -93,6 +93,6 @@ You can also cook this in a flameproof casserole or in an oven. Tuck into a frag
 1. Eat
 
 
-Full of rich spices, this slow-cook dish is best served with couscous. This lamb tagine gets its vibrancy from spices like cinnamon, cumin, turmeric, and cardamom. You don&#39;t need a tagine, a conical earthenware pot typically from Morocco, to make this warming, fragrant. A tagine is a slow-cooking stew and this lamb stew recipe gets its Moroccan flavor from a blend of aromatic spices such as turmeric, cumin,ginger, cardamom and cinnamon. This fruity Moroccan Lamb Tagine is easy to make in your Instant Pot, slow cooker or stovetop. 
+Full of rich spices, this slow-cook dish is best served with couscous. This lamb tagine gets its vibrancy from spices like cinnamon, cumin, turmeric, and cardamom. You don't need a tagine, a conical earthenware pot typically from Morocco, to make this warming, fragrant. A tagine is a slow-cooking stew and this lamb stew recipe gets its Moroccan flavor from a blend of aromatic spices such as turmeric, cumin,ginger, cardamom and cinnamon. This fruity Moroccan Lamb Tagine is easy to make in your Instant Pot, slow cooker or stovetop. 
 
 So that's going to wrap it up with this special food lamb tagine recipe. Thanks so much for reading. I'm sure that you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

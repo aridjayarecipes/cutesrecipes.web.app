@@ -27,7 +27,7 @@ recipeinstructions:
 - "Heat oil in a large pan over medium heat. Add leeks. Lower the heat, cook till they are soft"
 - "Add the qine. Bubble it up and reduce by half"
 - "Then fold in mustard and cream. Take off the heat while you cook fish"
-- "Now place a another pan over high heat. When it&#39;s hot add a splash of oil. Let it warm for a minute. Add fish and cook till golden on each side"
+- "Now place a another pan over high heat. When it's hot add a splash of oil. Let it warm for a minute. Add fish and cook till golden on each side"
 - "Warm the sauce back for minute. Taste season or serve. Put some hearbs over it like thyme, rosemarry, etc"
 - "For a colouful presentation you can add lemon weges and lettuce at the base of fillet as shown in picture above"
 categories:
@@ -87,7 +87,7 @@ Tilapiafilet on leek cream vegetables convinces by its fine taste, which should 
 1. Heat oil in a large pan over medium heat. Add leeks. Lower the heat, cook till they are soft
 1. Add the qine. Bubble it up and reduce by half
 1. Then fold in mustard and cream. Take off the heat while you cook fish
-1. Now place a another pan over high heat. When it&#39;s hot add a splash of oil. Let it warm for a minute. Add fish and cook till golden on each side
+1. Now place a another pan over high heat. When it's hot add a splash of oil. Let it warm for a minute. Add fish and cook till golden on each side
 1. Warm the sauce back for minute. Taste season or serve. Put some hearbs over it like thyme, rosemarry, etc
 1. For a colouful presentation you can add lemon weges and lettuce at the base of fillet as shown in picture above
 

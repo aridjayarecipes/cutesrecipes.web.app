@@ -21,11 +21,11 @@ recipeingredient:
 - "3 cups water"
 - "as needed Lemon"
 recipeinstructions:
-- "Heat the pan &amp; add 2 tbsp oil"
-- "Add the vegetables &amp; saute it.Then add oats to it."
+- "Heat the pan & add 2 tbsp oil"
+- "Add the vegetables & saute it.Then add oats to it."
 - "Add salt to it and cover it with a lid so that veggies are half cooked."
 - "Then add water and let it boil till thick."
-- "Add peper powder &amp; lime juice to it."
+- "Add peper powder & lime juice to it."
 - "Serve hot garnished with coriander leaves."
 categories:
 - Recipe
@@ -78,11 +78,11 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 
 ##### Steps to make Healthy Oats Soup:
 
-1. Heat the pan &amp; add 2 tbsp oil
-1. Add the vegetables &amp; saute it.Then add oats to it.
+1. Heat the pan & add 2 tbsp oil
+1. Add the vegetables & saute it.Then add oats to it.
 1. Add salt to it and cover it with a lid so that veggies are half cooked.
 1. Then add water and let it boil till thick.
-1. Add peper powder &amp; lime juice to it.
+1. Add peper powder & lime juice to it.
 1. Serve hot garnished with coriander leaves.
 
 

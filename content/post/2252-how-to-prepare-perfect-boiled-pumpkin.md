@@ -41,7 +41,7 @@ Hello everybody, it is Drew, welcome to my recipe page. Today, I'm gonna show yo
 
 Boiled pumpkin is one of the most well liked of current trending meals on earth. It is easy, it is quick, it tastes delicious. It is appreciated by millions daily. They are fine and they look wonderful. Boiled pumpkin is something that I have loved my entire life.
 
-See recipes for Spicy Chicken Pumpkin Pasta, Protein salad too. Cooking a whole pumpkin can seem like an intimidating task, especially if you&#39;ve never cooked any type of squash before. One of the secrets to cooking pumpkin is choosing a small pie pumpkin. How to cook a pumpkin or winter squash in the oven to make homemade pumpkin puree.
+See recipes for Spicy Chicken Pumpkin Pasta, Protein salad too. Cooking a whole pumpkin can seem like an intimidating task, especially if you've never cooked any type of squash before. One of the secrets to cooking pumpkin is choosing a small pie pumpkin. How to cook a pumpkin or winter squash in the oven to make homemade pumpkin puree.
 
 
 To get started with this recipe, we have to first prepare a few ingredients. You can cook boiled pumpkin using 3 ingredients and 4 steps. Here is how you can achieve that.

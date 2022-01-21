@@ -62,7 +62,7 @@ Hello everybody, hope you're having an incredible day today. Today, I will show 
 
 Pumpkin roll is one of the most well liked of current trending foods on earth. It's appreciated by millions daily. It's simple, it is fast, it tastes yummy. They're nice and they look fantastic. Pumpkin roll is something which I have loved my entire life.
 
-Dazzle family and friends with Libby&#39;s® Pumpkin Roll; moist and creamy, with a tantalizing aroma and beautiful presentation. Pumpkin Roll I Nancey Malone Cassalia. Pumpkin Roll is synonymous with Thanksgiving in my family, and I hope soon - in yours. This Pumpkin Roll recipe is easier than you think, and will make you a holiday dessert superstar.
+Dazzle family and friends with Libby's® Pumpkin Roll; moist and creamy, with a tantalizing aroma and beautiful presentation. Pumpkin Roll I Nancey Malone Cassalia. Pumpkin Roll is synonymous with Thanksgiving in my family, and I hope soon - in yours. This Pumpkin Roll recipe is easier than you think, and will make you a holiday dessert superstar.
 
 
 To begin with this particular recipe, we must prepare a few ingredients. You can cook pumpkin roll using 17 ingredients and 11 steps. Here is how you can achieve that.
@@ -90,7 +90,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Take  Additional powdered sugar for Decor
 
 
-There&#39;s no fret with this pumpkin cake roll. With a few simple tips you&#39;ll have perfect swirls of cake and cream cheese filling that will have This is the most important step to get a beautiful pumpkin roll. This pumpkin cake roll is an impressive fall or winter dessert. Pumpkin spice flavors combine with a scrumptious cream cheese filling. 
+There's no fret with this pumpkin cake roll. With a few simple tips you'll have perfect swirls of cake and cream cheese filling that will have This is the most important step to get a beautiful pumpkin roll. This pumpkin cake roll is an impressive fall or winter dessert. Pumpkin spice flavors combine with a scrumptious cream cheese filling. 
 
 <!--inarticleads2-->
 

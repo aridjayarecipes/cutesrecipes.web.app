@@ -18,7 +18,7 @@ recipeingredient:
 recipeinstructions:
 - "Remove damaged leaves, cut the root end, score a 5 mm cross into the base, then parboil in salt water."
 - "Once they finish parboiling, immediately soak in chilled water to maintain the color and to prevent cooking in residual heat."
-- "Cut the Brussels sprouts in half, and while they are still hot, toss thoroughly in the ingredients. They are ready to serve once they&#39;re well flavored."
+- "Cut the Brussels sprouts in half, and while they are still hot, toss thoroughly in the ingredients. They are ready to serve once they're well flavored."
 categories:
 - Recipe
 tags:
@@ -67,7 +67,7 @@ To get started with this recipe, we must prepare a few ingredients. You can cook
 
 1. Remove damaged leaves, cut the root end, score a 5 mm cross into the base, then parboil in salt water.
 1. Once they finish parboiling, immediately soak in chilled water to maintain the color and to prevent cooking in residual heat.
-1. Cut the Brussels sprouts in half, and while they are still hot, toss thoroughly in the ingredients. They are ready to serve once they&#39;re well flavored.
+1. Cut the Brussels sprouts in half, and while they are still hot, toss thoroughly in the ingredients. They are ready to serve once they're well flavored.
 
 
 

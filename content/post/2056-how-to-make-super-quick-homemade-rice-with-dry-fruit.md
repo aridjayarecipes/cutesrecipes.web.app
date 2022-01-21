@@ -55,7 +55,7 @@ recipecategory: Lunch
 
 Hey everyone, hope you're having an amazing day today. Today, I will show you a way to make a special dish, rice with dry fruit. It is one of my favorites food recipes. This time, I am going to make it a bit unique. This is gonna smell and look delicious.
 
-For dried fruit I used dried cherries, figs, candied orange peel (home made) as well as the apricots and raisins. I added to the ground cardamom Is it possible to make this dish with a rice cooker? I tried doing so and failed; I added the fruit mid-way through and it didn&#39;t taste good (spices didn&#39;t really mix). This wild rice side dish goes well with roasted chicken, turkey, or braised pork shoulder.
+For dried fruit I used dried cherries, figs, candied orange peel (home made) as well as the apricots and raisins. I added to the ground cardamom Is it possible to make this dish with a rice cooker? I tried doing so and failed; I added the fruit mid-way through and it didn't taste good (spices didn't really mix). This wild rice side dish goes well with roasted chicken, turkey, or braised pork shoulder.
 
 Rice with dry fruit is one of the most favored of current trending foods in the world. It's simple, it is quick, it tastes yummy. It is appreciated by millions daily. Rice with dry fruit is something which I have loved my entire life. They're nice and they look fantastic.
 

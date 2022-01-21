@@ -21,7 +21,7 @@ recipeingredient:
 - "3-4 tbsp Pomegranate Seeds"
 recipeinstructions:
 - "In a bowl take boiled rice, curd and milk. Mix it well. Now add salt mix well."
-- "Heat oil in a pan, add mustard seeds, urad dal, curry leaves and asafoetida. Let&#39;s crackle them."
+- "Heat oil in a pan, add mustard seeds, urad dal, curry leaves and asafoetida. Let's crackle them."
 - "Now add tempering to rice and mix well. Add pomegranate seeds and serve it."
 categories:
 - Recipe
@@ -73,7 +73,7 @@ To get started with this recipe, we must first prepare a few components. You can
 ##### Steps to make Curd Rice:
 
 1. In a bowl take boiled rice, curd and milk. Mix it well. Now add salt mix well.
-1. Heat oil in a pan, add mustard seeds, urad dal, curry leaves and asafoetida. Let&#39;s crackle them.
+1. Heat oil in a pan, add mustard seeds, urad dal, curry leaves and asafoetida. Let's crackle them.
 1. Now add tempering to rice and mix well. Add pomegranate seeds and serve it.
 
 

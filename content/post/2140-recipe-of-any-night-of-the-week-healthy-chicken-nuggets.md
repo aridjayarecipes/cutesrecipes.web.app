@@ -48,7 +48,7 @@ Hey everyone, it's John, welcome to my recipe site. Today, I'm gonna show you ho
 
 Healthy chicken nuggets is one of the most popular of recent trending foods in the world. It's simple, it is fast, it tastes yummy. It is enjoyed by millions daily. They are fine and they look fantastic. Healthy chicken nuggets is something that I've loved my whole life.
 
-The Best Frozen Chicken Nuggets You Can Buy, According to Nutritionists. From Tyson to Purdue to Applegate, we&#39;ve decoded which frozen chicken nuggets make for a healthy meal. The best crispy baked chicken nuggets are a healthy take on your favorite kid-friendly comfort food. These chicken nuggets are perfectly crispy, tender and juicy on the inside.
+The Best Frozen Chicken Nuggets You Can Buy, According to Nutritionists. From Tyson to Purdue to Applegate, we've decoded which frozen chicken nuggets make for a healthy meal. The best crispy baked chicken nuggets are a healthy take on your favorite kid-friendly comfort food. These chicken nuggets are perfectly crispy, tender and juicy on the inside.
 
 
 To get started with this recipe, we have to first prepare a few components. You can cook healthy chicken nuggets using 7 ingredients and 6 steps. Here is how you cook it.
@@ -80,6 +80,6 @@ These gluten free chicken nuggets are baked not fried and deliciously crispy wit
 1. Serve with a sweet and sour sauce
 
 
-Time to assess their nutritional value. A chicken nugget is a food product consisting of a small piece of deboned chicken meat that is breaded or battered, then deep-fried or baked. The BEST homemade Chicken Nuggets made with real ingredients! Plus these crispy nuggets are oven baked instead of fried so they&#39;re a healthier option. They&#39;re deliciously tender and perfectly crisp. 
+Time to assess their nutritional value. A chicken nugget is a food product consisting of a small piece of deboned chicken meat that is breaded or battered, then deep-fried or baked. The BEST homemade Chicken Nuggets made with real ingredients! Plus these crispy nuggets are oven baked instead of fried so they're a healthier option. They're deliciously tender and perfectly crisp. 
 
 So that is going to wrap this up for this special food healthy chicken nuggets recipe. Thanks so much for reading. I'm sure you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

@@ -37,7 +37,7 @@ recipeinstructions:
 - "Sari sabji ko wash karke chopped karle.... Fir cooker me 2 glass pani dalkar 4 se 5 whistle le."
 - "Thanda hone par isme...bache Sare ing milakr mixi me grind karle...."
 - "Thodasa pani add karein..."
-- "Chalni se chhan le.....It&#39;s ready"
+- "Chalni se chhan le.....It's ready"
 - "For dumplings"
 - "Cheese or oil chhodakar sare ing. Ek sath mila le"
 - "Inke chhote balls banaye"
@@ -115,7 +115,7 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Sari sabji ko wash karke chopped karle.... - Fir cooker me 2 glass pani dalkar 4 se 5 whistle le.
 1. Thanda hone par isme...bache Sare ing milakr mixi me grind karle....
 1. Thodasa pani add karein...
-1. Chalni se chhan le.....It&#39;s ready
+1. Chalni se chhan le.....It's ready
 1. For dumplings
 1. Cheese or oil chhodakar sare ing. Ek sath mila le
 1. Inke chhote balls banaye

@@ -93,7 +93,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Get  Squirt Dijon Mustard
 1. Prepare Splash Balsamic Vinegar
 1. Get  Chili Flakes
-1. Take  Salt &amp; Pepper
+1. Take  Salt & Pepper
 
 
 

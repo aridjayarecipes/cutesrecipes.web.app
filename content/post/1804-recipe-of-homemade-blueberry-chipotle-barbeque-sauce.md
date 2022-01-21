@@ -21,7 +21,7 @@ recipeingredient:
 recipeinstructions:
 - "Add blueberries, water and honey to small saucepan over medium high heat. Bring to a boil and cook 4-5 minutes until blueberries are soft. Turn off heat and stir in remaining ingredients. Note: Adjust the chipotle pepper powder to your personal heat preference."
 - "Pour sauce into blender or food processor and blend until smooth."
-- "Sauce is ready! It&#39;s that easy!"
+- "Sauce is ready! It's that easy!"
 - "Sauce will keep in refrigerator in container with tight lid for 2 weeks."
 - "Note:. This sauce has a high sugar content and will burn fairly easily. Add it to grilled meats - beef, pork or chicken - during last few minutes of cooking."
 categories:
@@ -75,7 +75,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 
 1. Add blueberries, water and honey to small saucepan over medium high heat. Bring to a boil and cook 4-5 minutes until blueberries are soft. Turn off heat and stir in remaining ingredients. Note: Adjust the chipotle pepper powder to your personal heat preference.
 1. Pour sauce into blender or food processor and blend until smooth.
-1. Sauce is ready! It&#39;s that easy!
+1. Sauce is ready! It's that easy!
 1. Sauce will keep in refrigerator in container with tight lid for 2 weeks.
 1. Note:. This sauce has a high sugar content and will burn fairly easily. Add it to grilled meats - beef, pork or chicken - during last few minutes of cooking.
 

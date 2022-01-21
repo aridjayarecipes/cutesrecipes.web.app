@@ -16,7 +16,7 @@ recipeingredient:
 - "1 table spoon soy sauce"
 - "2 table spoons cooking sake"
 recipeinstructions:
-- "Cut the pumpkin. Make the skin down and line them up in the pot. Don&#39;t make them overlap."
+- "Cut the pumpkin. Make the skin down and line them up in the pot. Don't make them overlap."
 - "Add the ingredients, make it high heat until it boils. When it boils put on the lid and simmer it for about 20 to 25 minutes on low heat (Until it becomes orange)."
 - "If there is no water in it, the pumpkin will burn. So be careful."
 categories:
@@ -64,7 +64,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have pumpk
 
 ##### Steps to make Pumpkin Stew:
 
-1. Cut the pumpkin. Make the skin down and line them up in the pot. Don&#39;t make them overlap.
+1. Cut the pumpkin. Make the skin down and line them up in the pot. Don't make them overlap.
 1. Add the ingredients, make it high heat until it boils. When it boils put on the lid and simmer it for about 20 to 25 minutes on low heat (Until it becomes orange).
 1. If there is no water in it, the pumpkin will burn. So be careful.
 

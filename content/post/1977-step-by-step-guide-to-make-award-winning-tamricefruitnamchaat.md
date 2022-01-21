@@ -35,11 +35,11 @@ recipeingredient:
 recipeinstructions:
 - "Heat oil in a pan. Add ground nut, biryani masala,salt, Tamrind pulp.Cook for 2mins"
 - "Now add cooked rice and toss well in Tamrind masala. In Another bowl mix chaat masala,roasted cumin powder, black salt and chill powder, pineapple pulp and lemon juice in a bowl"
-- "Add all the cuts fruits &amp; sprouts one by one a in the bowl and toss them well."
+- "Add all the cuts fruits & sprouts one by one a in the bowl and toss them well."
 - "Than add chana jor and all in one namkeen mixture.Again toss well.Now use rapping film over the fruit bowl and chill in the refrigerator for 1/2 hours."
 - "Now mix chaat masala in hang curd"
 - "Pour approx 1inch all in one namkeen mixture on the bottom of glass and pour some lemon juice then top Tamrind rice and hang curd and fruitnumchaat mixture layered by layered until the glass not fill."
-- "For decoration top the rice ball and banana,capsicum &amp; orange slice.serve this chaat chilled.."
+- "For decoration top the rice ball and banana,capsicum & orange slice.serve this chaat chilled.."
 categories:
 - Recipe
 tags:
@@ -103,11 +103,11 @@ Easy way to Recipe: Chocolate coffee mousse Tasty. Easiest Way to Cook TamriceFr
 
 1. Heat oil in a pan. Add ground nut, biryani masala,salt, Tamrind pulp.Cook for 2mins
 1. Now add cooked rice and toss well in Tamrind masala. In Another bowl mix chaat masala,roasted cumin powder, black salt and chill powder, pineapple pulp and lemon juice in a bowl
-1. Add all the cuts fruits &amp; sprouts one by one a in the bowl and toss them well.
+1. Add all the cuts fruits & sprouts one by one a in the bowl and toss them well.
 1. Than add chana jor and all in one namkeen mixture.Again toss well.Now use rapping film over the fruit bowl and chill in the refrigerator for 1/2 hours.
 1. Now mix chaat masala in hang curd
 1. Pour approx 1inch all in one namkeen mixture on the bottom of glass and pour some lemon juice then top Tamrind rice and hang curd and fruitnumchaat mixture layered by layered until the glass not fill.
-1. For decoration top the rice ball and banana,capsicum &amp; orange slice.serve this chaat chilled..
+1. For decoration top the rice ball and banana,capsicum & orange slice.serve this chaat chilled..
 
 
 Easy way to Prepare Chocolate cake Delicious. Ingredients to Cook Bread rasmalai Delicious. Easiest Way to Cook TamriceFruitnamChaat Appetizing. Easiest Way to Cook TamriceFruitnamChaat Appetizing. Easiest Way to Cook TamriceFruitnamChaat Appetizing. 

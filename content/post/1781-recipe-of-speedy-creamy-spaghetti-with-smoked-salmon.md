@@ -46,7 +46,7 @@ recipecategory: Dessert
 
 Hello everybody, hope you are having an incredible day today. Today, we're going to make a distinctive dish, creamy spaghetti with smoked salmon. One of my favorites. For mine, I am going to make it a bit unique. This is gonna smell and look delicious.
 
-This Creamy Smoked Salmon Spaghetti is super fresh, full of flavour and a fantastic, slimming friendly meal whether you&#39;re counting calories or following a plan like Weight Watchers. Turn the stove to the medium heat then pour down the cream. Then add spinach and cook until it is soft. Creamy Smoked Salmon and Pea Spaghetti.
+This Creamy Smoked Salmon Spaghetti is super fresh, full of flavour and a fantastic, slimming friendly meal whether you're counting calories or following a plan like Weight Watchers. Turn the stove to the medium heat then pour down the cream. Then add spinach and cook until it is soft. Creamy Smoked Salmon and Pea Spaghetti.
 
 Creamy spaghetti with Smoked salmon is one of the most well liked of current trending meals in the world. It is appreciated by millions every day. It is easy, it's fast, it tastes yummy. They're nice and they look wonderful. Creamy spaghetti with Smoked salmon is something which I've loved my entire life.
 

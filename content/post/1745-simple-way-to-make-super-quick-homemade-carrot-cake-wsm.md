@@ -69,7 +69,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. Get 4 medium eggs
 1. Get 225 gr self-raising flour
 1. Get 1 tsp. bicarbonate of soda
-1. Take 1 tsp. each mixed spice, ground cinnamon, ground ginger &amp; ground nutmeg
+1. Take 1 tsp. each mixed spice, ground cinnamon, ground ginger & ground nutmeg
 1. Get 150 gr sultanas OR 100 gr Sultanas and 50 gr Dried Mixed Fruit
 1. Take 200 gr carrots, coarsely grated
 1. Take 50-75 g walnuts or pecans or almonds (or mix), roughly chopped

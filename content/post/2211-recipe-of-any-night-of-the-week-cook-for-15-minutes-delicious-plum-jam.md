@@ -17,7 +17,7 @@ recipeinstructions:
 - "Carefully wash the plums and cut them into quarters. Place the quarters into a large heat-resistant bowl (still with skins and seeds.)"
 - "Add the sugar to the bowl as well and cover it with a lid (or wrap it with cling film). Then heat it for 5 minutes in the microwave."
 - "Take it out and stir it. Then remove the lid (or cling film) and heat it in the microwave for a further 10 minutes."
-- "Remove the seeds and mix in the lemon juice. It&#39;s done Transfer the jam to a sterilised jar, leave it to cool, then place it in the refrigerator to store."
+- "Remove the seeds and mix in the lemon juice. It's done Transfer the jam to a sterilised jar, leave it to cool, then place it in the refrigerator to store."
 categories:
 - Recipe
 tags:
@@ -65,7 +65,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have cook 
 1. Carefully wash the plums and cut them into quarters. Place the quarters into a large heat-resistant bowl (still with skins and seeds.)
 1. Add the sugar to the bowl as well and cover it with a lid (or wrap it with cling film). Then heat it for 5 minutes in the microwave.
 1. Take it out and stir it. Then remove the lid (or cling film) and heat it in the microwave for a further 10 minutes.
-1. Remove the seeds and mix in the lemon juice. It&#39;s done Transfer the jam to a sterilised jar, leave it to cool, then place it in the refrigerator to store.
+1. Remove the seeds and mix in the lemon juice. It's done Transfer the jam to a sterilised jar, leave it to cool, then place it in the refrigerator to store.
 
 
 

@@ -33,7 +33,7 @@ recipeinstructions:
 - "Chop up your ripe bananas and add them to a food processor, along with the honey, and eggs. Blitz this mixture until smooth, then pour it into the large mixing bowl and mix until well combined."
 - "Add in the flour and walnuts and beat just until smooth. Carefully stir chopped chocolate and banana cubes into the batter until incorporated. Transfer the batter to the pan."
 - "Take 3 heaping tablespoons of sweetened condensed milk and swirl them into the batter. Slice up one banana long-ways and place it flat-side up on top of the batter."
-- "Bake for 65 minutes. Check on the bread with 20 minutes left, if it’s browning too much, gently place a piece of aluminum foil over top. Remove the bread from the oven; a long toothpick inserted into the center should come out clean, with a few wet crumbs clinging to it. The toothpick shouldn&#39;t show any sign of uncooked batter. If it does, bake the bread an additional 5 minutes, or until it tests done."
+- "Bake for 65 minutes. Check on the bread with 20 minutes left, if it’s browning too much, gently place a piece of aluminum foil over top. Remove the bread from the oven; a long toothpick inserted into the center should come out clean, with a few wet crumbs clinging to it. The toothpick shouldn't show any sign of uncooked batter. If it does, bake the bread an additional 5 minutes, or until it tests done."
 - "Allow the bread to cool for 10 minutes in the pan. Remove it from the pan and cool it completely on a rack."
 categories:
 - Recipe
@@ -98,7 +98,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Chop up your ripe bananas and add them to a food processor, along with the honey, and eggs. Blitz this mixture until smooth, then pour it into the large mixing bowl and mix until well combined.
 1. Add in the flour and walnuts and beat just until smooth. Carefully stir chopped chocolate and banana cubes into the batter until incorporated. Transfer the batter to the pan.
 1. Take 3 heaping tablespoons of sweetened condensed milk and swirl them into the batter. Slice up one banana long-ways and place it flat-side up on top of the batter.
-1. Bake for 65 minutes. Check on the bread with 20 minutes left, if it’s browning too much, gently place a piece of aluminum foil over top. Remove the bread from the oven; a long toothpick inserted into the center should come out clean, with a few wet crumbs clinging to it. The toothpick shouldn&#39;t show any sign of uncooked batter. If it does, bake the bread an additional 5 minutes, or until it tests done.
+1. Bake for 65 minutes. Check on the bread with 20 minutes left, if it’s browning too much, gently place a piece of aluminum foil over top. Remove the bread from the oven; a long toothpick inserted into the center should come out clean, with a few wet crumbs clinging to it. The toothpick shouldn't show any sign of uncooked batter. If it does, bake the bread an additional 5 minutes, or until it tests done.
 1. Allow the bread to cool for 10 minutes in the pan. Remove it from the pan and cool it completely on a rack.
 
 

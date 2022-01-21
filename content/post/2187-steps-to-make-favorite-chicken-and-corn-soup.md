@@ -20,7 +20,7 @@ recipeingredient:
 - "2 tsp bouillon powder"
 - "1/2 tsp black pepper"
 recipeinstructions:
-- "Heat oil in a pan. Stir-fry chicken until it&#39;s cooked. Add garlic and stir continuously."
+- "Heat oil in a pan. Stir-fry chicken until it's cooked. Add garlic and stir continuously."
 - "Add corn (and the water from the can), then add 1 1/2 water using the can as measurement. Add black pepper and bouillon powder."
 - "Break the eggs and whisk. When the soup is boiling, pour the eggs bit by bit."
 - "Mix katakuriko (potato starch) with water. Pour into the soup and continue stirring until the soup thickens."
@@ -74,7 +74,7 @@ To get started with this recipe, we must prepare a few ingredients. You can cook
 
 ##### Instructions to make Chicken and Corn Soup:
 
-1. Heat oil in a pan. Stir-fry chicken until it&#39;s cooked. Add garlic and stir continuously.
+1. Heat oil in a pan. Stir-fry chicken until it's cooked. Add garlic and stir continuously.
 1. Add corn (and the water from the can), then add 1 1/2 water using the can as measurement. Add black pepper and bouillon powder.
 1. Break the eggs and whisk. When the soup is boiling, pour the eggs bit by bit.
 1. Mix katakuriko (potato starch) with water. Pour into the soup and continue stirring until the soup thickens.

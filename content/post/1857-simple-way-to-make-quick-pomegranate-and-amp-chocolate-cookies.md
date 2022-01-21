@@ -1,6 +1,6 @@
 ---
-description: "Simple Way to Make Quick Pomegranate &amp;amp; Chocolate Cookies"
-title: "Simple Way to Make Quick Pomegranate &amp;amp; Chocolate Cookies"
+description: "Simple Way to Make Quick Pomegranate &amp; Chocolate Cookies"
+title: "Simple Way to Make Quick Pomegranate &amp; Chocolate Cookies"
 slug: 1857-simple-way-to-make-quick-pomegranate-and-amp-chocolate-cookies
 date: 2022-01-23T08:08:39.549Z
 image: https://img-global.cpcdn.com/recipes/5755876876484608/680x482cq70/pomegranate-chocolate-cookies-recipe-main-photo.jpg
@@ -47,20 +47,20 @@ recipecategory: Lunch
 ---
 
 
-![Pomegranate &amp; Chocolate Cookies](https://img-global.cpcdn.com/recipes/5755876876484608/680x482cq70/pomegranate-chocolate-cookies-recipe-main-photo.jpg)
+![Pomegranate & Chocolate Cookies](https://img-global.cpcdn.com/recipes/5755876876484608/680x482cq70/pomegranate-chocolate-cookies-recipe-main-photo.jpg)
 
-Hello everybody, I hope you're having an amazing day today. Today, we're going to make a distinctive dish, pomegranate &amp; chocolate cookies. One of my favorites food recipes. For mine, I will make it a bit tasty. This will be really delicious.
+Hello everybody, I hope you're having an amazing day today. Today, we're going to make a distinctive dish, pomegranate & chocolate cookies. One of my favorites food recipes. For mine, I will make it a bit tasty. This will be really delicious.
 
 Pomegranate Wellness Spa Hotel, Néa Moudhaniá, Thessaloniki, Greece. Choose from a variety of health, relaxation, or beauty treatments at Afrodita Roa Spa that will make your spa experience absolutely unforgettable. - Pomegranate juice, total pomegranate ellagitannins, and punicalagin suppress inflammatory cell signaling in colon cancer cells. - The pomegranate: effects on bacteria and viruses that influence human health. Pomegranate publishes books and gift products that turn people on to art and ideas. The pomegranate (Punica granatum) is a fruit-bearing deciduous shrub or small tree, Punica granatum.
 
-Pomegranate &amp; Chocolate Cookies is one of the most popular of recent trending foods in the world. It's appreciated by millions daily. It's simple, it is quick, it tastes delicious. They are fine and they look wonderful. Pomegranate &amp; Chocolate Cookies is something which I've loved my whole life.
+Pomegranate & Chocolate Cookies is one of the most popular of recent trending foods in the world. It's appreciated by millions daily. It's simple, it is quick, it tastes delicious. They are fine and they look wonderful. Pomegranate & Chocolate Cookies is something which I've loved my whole life.
 
 
-To begin with this recipe, we have to first prepare a few ingredients. You can cook pomegranate &amp; chocolate cookies using 10 ingredients and 8 steps. Here is how you cook that.
+To begin with this recipe, we have to first prepare a few ingredients. You can cook pomegranate & chocolate cookies using 10 ingredients and 8 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Pomegranate &amp; Chocolate Cookies:
+##### The ingredients needed to make Pomegranate & Chocolate Cookies:
 
 1. Take 1 cup unsalted butter (softened)
 1. Get 3/4 cup granulated sugar
@@ -78,7 +78,7 @@ Fruit of Punica granatum split open to reveal the clusters of juicy, gem-like se
 
 <!--inarticleads2-->
 
-##### Steps to make Pomegranate &amp; Chocolate Cookies:
+##### Steps to make Pomegranate & Chocolate Cookies:
 
 1. Mix the sugars and the butter until soft. Pre-heat oven at 180°C (350°F)
 1. Add one egg and the vanilla and stir well.
@@ -92,4 +92,4 @@ Fruit of Punica granatum split open to reveal the clusters of juicy, gem-like se
 
 
 
-So that is going to wrap it up with this special food pomegranate &amp; chocolate cookies recipe. Thank you very much for reading. I am confident you will make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap it up with this special food pomegranate & chocolate cookies recipe. Thank you very much for reading. I am confident you will make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

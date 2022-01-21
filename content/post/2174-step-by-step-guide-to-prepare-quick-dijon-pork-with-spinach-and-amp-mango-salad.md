@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Prepare Quick Dijon pork with spinach &amp;amp; mango salad"
-title: "Step-by-Step Guide to Prepare Quick Dijon pork with spinach &amp;amp; mango salad"
+description: "Step-by-Step Guide to Prepare Quick Dijon pork with spinach &amp; mango salad"
+title: "Step-by-Step Guide to Prepare Quick Dijon pork with spinach &amp; mango salad"
 slug: 2174-step-by-step-guide-to-prepare-quick-dijon-pork-with-spinach-and-amp-mango-salad
 date: 2021-10-26T01:15:28.600Z
 image: https://img-global.cpcdn.com/recipes/d45b82e9c3762788/680x482cq70/dijon-pork-with-spinach-mango-salad-recipe-main-photo.jpg
@@ -46,20 +46,20 @@ recipecategory: Dinner
 ---
 
 
-![Dijon pork with spinach &amp; mango salad](https://img-global.cpcdn.com/recipes/d45b82e9c3762788/680x482cq70/dijon-pork-with-spinach-mango-salad-recipe-main-photo.jpg)
+![Dijon pork with spinach & mango salad](https://img-global.cpcdn.com/recipes/d45b82e9c3762788/680x482cq70/dijon-pork-with-spinach-mango-salad-recipe-main-photo.jpg)
 
-Hello everybody, it is John, welcome to my recipe site. Today, I will show you a way to prepare a special dish, dijon pork with spinach &amp; mango salad. It is one of my favorites. For mine, I am going to make it a little bit tasty. This will be really delicious.
+Hello everybody, it is John, welcome to my recipe site. Today, I will show you a way to prepare a special dish, dijon pork with spinach & mango salad. It is one of my favorites. For mine, I am going to make it a little bit tasty. This will be really delicious.
 
 Learn how to make Dijon Pork Loin. I served the dish with fresh sauteed spinach and roasted potatos. If you are thinking about making this Dijon Pork Loin - DO IT! Crispy, savory, juicy pork chops in a creamy dijon sauce with bacon, cheese, and spinach!
 
-Dijon pork with spinach &amp; mango salad is one of the most favored of recent trending meals on earth. It's appreciated by millions daily. It is simple, it's quick, it tastes yummy. They're nice and they look wonderful. Dijon pork with spinach &amp; mango salad is something that I've loved my entire life.
+Dijon pork with spinach & mango salad is one of the most favored of recent trending meals on earth. It's appreciated by millions daily. It is simple, it's quick, it tastes yummy. They're nice and they look wonderful. Dijon pork with spinach & mango salad is something that I've loved my entire life.
 
 
-To get started with this particular recipe, we must prepare a few components. You can have dijon pork with spinach &amp; mango salad using 13 ingredients and 4 steps. Here is how you can achieve that.
+To get started with this particular recipe, we must prepare a few components. You can have dijon pork with spinach & mango salad using 13 ingredients and 4 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Dijon pork with spinach &amp; mango salad:
+##### The ingredients needed to make Dijon pork with spinach & mango salad:
 
 1. Get 2 Pork fillets (half per person)
 1. Get 1 Tablespoon Olive oil
@@ -80,7 +80,7 @@ Pork Chops with Dijon Cream Sauce is a dreamy, delicious way to take plain old p
 
 <!--inarticleads2-->
 
-##### Instructions to make Dijon pork with spinach &amp; mango salad:
+##### Instructions to make Dijon pork with spinach & mango salad:
 
 1. Preheat oven to 170 degrees celsius. In a small bowl add, olive oil, Dijon mustard, maple syrup, and half the lime juice. Mix well, brush all over the Pork fillet. Wrap in al foil, cook for 20 minutes, turn and cook for a further 20 minutes. Open foil, for browning of the Pork.
 1. Meanwhile, wash spinach, grate the carrot, slice capsicum, halve the tomatoes, dice mango, add to the bowl. Add almonds to the same bowl. Squeeze the other half of the lime and salt and pepper.
@@ -90,4 +90,4 @@ Pork Chops with Dijon Cream Sauce is a dreamy, delicious way to take plain old p
 
 Ginger Pork is one of the most popular comfort food served in homes and eateries in Japan today. The history of this simple but flavorful dish dates back to. Really wish the carrots were a bit bigger in these deliveries. A honey-mustard marinade gives pork a tangy-sweet punch. All Reviews for Dijon Pork with Apples and Cabbage. 
 
-So that is going to wrap this up with this special food dijon pork with spinach &amp; mango salad recipe. Thanks so much for reading. I'm confident that you can make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!
+So that is going to wrap this up with this special food dijon pork with spinach & mango salad recipe. Thanks so much for reading. I'm confident that you can make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

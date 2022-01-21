@@ -26,13 +26,13 @@ recipeinstructions:
 - "Wash the mussels and set aside."
 - "Add olive oil into the pot over medium high heat."
 - "Add onions, garlic, red pepper flake in and cook it for about 2 mins."
-- "Add tomato paste cook until it&#39;s split and soften."
+- "Add tomato paste cook until it's split and soften."
 - "Add white wine in and stir well."
 - "Add 1 can of tomatoes purees in. Add a bit of salt. Simmer this for 10 mins."
 - "Cook your pasta, if the pasta says 12 mins then take 3 mins out of it, cook for 9 mins."
 - "While the pasta is being cooked, put the mussels into the sauce pot. cover the lid and cook for about 3-4 mins."
 - "Remove the mussels off the sauce pot and add the pasta into the sauce pot continue cooking for the rest of the min of the pasta. if the sauce is not enough then add a bit of pasta water into the sauce pot."
-- "When it&#39;s about to done, add 2 tbsp unsalted butter into the sauce pot."
+- "When it's about to done, add 2 tbsp unsalted butter into the sauce pot."
 - "Squeeze the lemon juice over the mussels."
 - "Serve."
 categories:
@@ -91,13 +91,13 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Wash the mussels and set aside.
 1. Add olive oil into the pot over medium high heat.
 1. Add onions, garlic, red pepper flake in and cook it for about 2 mins.
-1. Add tomato paste cook until it&#39;s split and soften.
+1. Add tomato paste cook until it's split and soften.
 1. Add white wine in and stir well.
 1. Add 1 can of tomatoes purees in. Add a bit of salt. Simmer this for 10 mins.
 1. Cook your pasta, if the pasta says 12 mins then take 3 mins out of it, cook for 9 mins.
 1. While the pasta is being cooked, put the mussels into the sauce pot. cover the lid and cook for about 3-4 mins.
 1. Remove the mussels off the sauce pot and add the pasta into the sauce pot continue cooking for the rest of the min of the pasta. if the sauce is not enough then add a bit of pasta water into the sauce pot.
-1. When it&#39;s about to done, add 2 tbsp unsalted butter into the sauce pot.
+1. When it's about to done, add 2 tbsp unsalted butter into the sauce pot.
 1. Squeeze the lemon juice over the mussels.
 1. Serve.
 

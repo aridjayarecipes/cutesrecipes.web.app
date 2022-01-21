@@ -16,7 +16,7 @@ recipeingredient:
 - "1 tbsp moringa fresh OR powder"
 recipeinstructions:
 - "Peel, wrap with seran and freeze banana the night before, or at least an hour before use. Chill your almond milk as well."
-- "Set up your bullet/blender. Throw-in all ingredients, and pulse until everything is well blended. [Don&#39;t add the seran wrap, mkay! 😆]"
+- "Set up your bullet/blender. Throw-in all ingredients, and pulse until everything is well blended. [Don't add the seran wrap, mkay! 😆]"
 - "Pour unto cup/mug. Enjoy! 💗"
 categories:
 - Recipe
@@ -40,7 +40,7 @@ recipecategory: Dinner
 
 Hello everybody, it's Drew, welcome to our recipe site. Today, I will show you a way to prepare a special dish, frozen banana, raw oats, almond milk, and moringa smoothie. One of my favorites. For mine, I am going to make it a little bit unique. This will be really delicious.
 
-Peel, wrap with seran and freeze banana the night before, or at least an hour before use. Chill your almond milk as well. Hello everybody, welcome to my recipe site, If you&#39;re looking for new recipes to try this weekend, look no further! We provide you only the perfect Frozen banana, raw oats, almond milk, and moringa smoothie recipe here.
+Peel, wrap with seran and freeze banana the night before, or at least an hour before use. Chill your almond milk as well. Hello everybody, welcome to my recipe site, If you're looking for new recipes to try this weekend, look no further! We provide you only the perfect Frozen banana, raw oats, almond milk, and moringa smoothie recipe here.
 
 Frozen banana, raw oats, almond milk, and moringa smoothie is one of the most favored of current trending meals in the world. It is appreciated by millions daily. It's easy, it is quick, it tastes yummy. They are fine and they look fantastic. Frozen banana, raw oats, almond milk, and moringa smoothie is something which I've loved my whole life.
 
@@ -64,7 +64,7 @@ Add almond milk, moringa, and frozen banana to a high-speed blender. Process unt
 ##### Steps to make Frozen banana, raw oats, almond milk, and moringa smoothie:
 
 1. Peel, wrap with seran and freeze banana the night before, or at least an hour before use. Chill your almond milk as well.
-1. Set up your bullet/blender. Throw-in all ingredients, and pulse until everything is well blended. [Don&#39;t add the seran wrap, mkay! 😆]
+1. Set up your bullet/blender. Throw-in all ingredients, and pulse until everything is well blended. [Don't add the seran wrap, mkay! 😆]
 1. Pour unto cup/mug. Enjoy! 💗
 
 

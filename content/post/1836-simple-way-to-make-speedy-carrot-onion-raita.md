@@ -76,7 +76,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Prepare As per taste Red chilli powder
 
 
-Onion Raita - Can&#39;t go wrong with the classic Onion Raita! The recipe for the raita seasoning remains the same, just omit to add cucumber and carrot, and add just onions and tomatoes. Carrot Onion Raita an Indian curd recipe which is served as a side dish with rice and is best to be eaten in summers. Carrot Onion Raita is a popular side dish, usually served with rice. 
+Onion Raita - Can't go wrong with the classic Onion Raita! The recipe for the raita seasoning remains the same, just omit to add cucumber and carrot, and add just onions and tomatoes. Carrot Onion Raita an Indian curd recipe which is served as a side dish with rice and is best to be eaten in summers. Carrot Onion Raita is a popular side dish, usually served with rice. 
 
 <!--inarticleads2-->
 

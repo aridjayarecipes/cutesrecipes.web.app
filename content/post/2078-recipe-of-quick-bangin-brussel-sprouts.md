@@ -41,7 +41,7 @@ recipecategory: Lunch
 
 Hello everybody, hope you're having an amazing day today. Today, I will show you a way to prepare a distinctive dish, bangin brussel sprouts. One of my favorites food recipes. For mine, I'm gonna make it a little bit unique. This will be really delicious.
 
-It&#39;s as if Brussels Sprouts went on a trip to Asia and then toured a bacon factory. Stir it up very well with our Brussels Sprouts and bacon so that everything gets coated. Get ready for some bangin&#39; Brussels. Cut bacon into bite sized pieces and fry until browned.
+It's as if Brussels Sprouts went on a trip to Asia and then toured a bacon factory. Stir it up very well with our Brussels Sprouts and bacon so that everything gets coated. Get ready for some bangin' Brussels. Cut bacon into bite sized pieces and fry until browned.
 
 Bangin brussel sprouts is one of the most popular of recent trending meals on earth. It is appreciated by millions daily. It is simple, it's fast, it tastes yummy. Bangin brussel sprouts is something which I've loved my entire life. They're nice and they look wonderful.
 

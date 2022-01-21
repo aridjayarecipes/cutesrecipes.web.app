@@ -20,7 +20,7 @@ recipeingredient:
 recipeinstructions:
 - "Cut the pumpkin into cubes, and steamed"
 - "Mixing cheese powder + eggs + milk + salt, and stir evenly"
-- "Add oil in the pan, put steamed pumpkin in, and then pour mixed egg&#39; sauces on pumpkin, don&#39;t stir the ingredients until the egg about a half cooked, add basil, and then quickly but gently to stir-fry all together."
+- "Add oil in the pan, put steamed pumpkin in, and then pour mixed egg' sauces on pumpkin, don't stir the ingredients until the egg about a half cooked, add basil, and then quickly but gently to stir-fry all together."
 - "Enjoy"
 categories:
 - Recipe
@@ -46,7 +46,7 @@ Hey everyone, it's John, welcome to our recipe site. Today, we're going to make 
 
 Pumpkin with scrambled eggs is one of the most favored of current trending foods on earth. It's easy, it's fast, it tastes delicious. It's enjoyed by millions every day. They're nice and they look wonderful. Pumpkin with scrambled eggs is something which I've loved my whole life.
 
-Cut the pumpkin into cubes, and steamed. Mixing cheese powder + eggs + milk + salt, and stir evenly. Add oil in the pan, put steamed pumpkin in, and then pour mixed egg &#39;sauces on pumpkin. Warm a skillet over medium-low heat and coat with olive-oil cooking spray.
+Cut the pumpkin into cubes, and steamed. Mixing cheese powder + eggs + milk + salt, and stir evenly. Add oil in the pan, put steamed pumpkin in, and then pour mixed egg 'sauces on pumpkin. Warm a skillet over medium-low heat and coat with olive-oil cooking spray.
 
 
 To get started with this particular recipe, we must first prepare a few components. You can have pumpkin with scrambled eggs using 7 ingredients and 4 steps. Here is how you can achieve it.
@@ -72,7 +72,7 @@ I recently decided to experiment with scrambled eggs, along with a variety of sp
 
 1. Cut the pumpkin into cubes, and steamed
 1. Mixing cheese powder + eggs + milk + salt, and stir evenly
-1. Add oil in the pan, put steamed pumpkin in, and then pour mixed egg&#39; sauces on pumpkin, don&#39;t stir the ingredients until the egg about a half cooked, add basil, and then quickly but gently to stir-fry all together.
+1. Add oil in the pan, put steamed pumpkin in, and then pour mixed egg' sauces on pumpkin, don't stir the ingredients until the egg about a half cooked, add basil, and then quickly but gently to stir-fry all together.
 1. Enjoy
 
 

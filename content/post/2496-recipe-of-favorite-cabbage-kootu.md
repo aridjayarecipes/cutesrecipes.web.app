@@ -48,7 +48,7 @@ recipecategory: Dinner
 
 Hey everyone, hope you're having an amazing day today. Today, we're going to prepare a distinctive dish, cabbage kootu. It is one of my favorites. This time, I will make it a bit unique. This will be really delicious.
 
-Cabbage kootu recipe made with dal, cabbage, spices and curry leaves. Kootu is a dal / lentil based dish from South Indian Cuisine. It is one of the most served dishes in a vegetarian meal in South. Cabbage Kootu I Muttaikose Kootu I Cabbage Kootu Recipe in Tamil I Special Kootu I Dhiyaa&#39;s Kootu I.
+Cabbage kootu recipe made with dal, cabbage, spices and curry leaves. Kootu is a dal / lentil based dish from South Indian Cuisine. It is one of the most served dishes in a vegetarian meal in South. Cabbage Kootu I Muttaikose Kootu I Cabbage Kootu Recipe in Tamil I Special Kootu I Dhiyaa's Kootu I.
 
 Cabbage kootu is one of the most popular of recent trending foods on earth. It is appreciated by millions daily. It is easy, it is quick, it tastes yummy. Cabbage kootu is something that I've loved my entire life. They're nice and they look fantastic.
 
@@ -68,7 +68,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Make ready 6/7pieces Coconut
 
 
-Cabbage kootu is a simple South Indian recipe with cabbage, dal, and some roasted spices and coconut that&#39;s blended and cooked with the rest of the ingredients. Cabbage Kootu is a healthy, easy to make and an extremely flavorful South Indian side made from cabbage and chana dal. Perfect as a side of rasam/kuzhambu. Cabbage Kootu Recipe, Chettinadu Cabbage Kootu. 
+Cabbage kootu is a simple South Indian recipe with cabbage, dal, and some roasted spices and coconut that's blended and cooked with the rest of the ingredients. Cabbage Kootu is a healthy, easy to make and an extremely flavorful South Indian side made from cabbage and chana dal. Perfect as a side of rasam/kuzhambu. Cabbage Kootu Recipe, Chettinadu Cabbage Kootu. 
 
 <!--inarticleads2-->
 

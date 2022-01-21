@@ -19,9 +19,9 @@ recipeingredient:
 - "1 tbsp balsamic vinegar"
 recipeinstructions:
 - "Preheat oven to 400°"
-- "Place Brussels sprouts on a sheet pan, including some of the loose leaves, which get crisp when they&#39;re roasted."
+- "Place Brussels sprouts on a sheet pan, including some of the loose leaves, which get crisp when they're roasted."
 - "Cut pancetta into 1/2-in dice, and add to the pan. Add olive oil, 1 1/2 tsp salt, and 1/2 tsp pepper; toss with your hands. Spread out the mixture in a single layer."
-- "Roast Brussels sprouts 20-30 min, until they&#39;re tender and nicely browned and the pancetta is cooked. Toss once during roasting."
+- "Roast Brussels sprouts 20-30 min, until they're tender and nicely browned and the pancetta is cooked. Toss once during roasting."
 - "Remove from oven, drizzle immediately with balsamic vinegar, and toss again. Taste for seasonings and serve hot."
 categories:
 - Recipe
@@ -72,9 +72,9 @@ To get started with this particular recipe, we have to first prepare a few ingre
 ##### Steps to make Balsamic-Roasted Brussels Sprouts:
 
 1. Preheat oven to 400°
-1. Place Brussels sprouts on a sheet pan, including some of the loose leaves, which get crisp when they&#39;re roasted.
+1. Place Brussels sprouts on a sheet pan, including some of the loose leaves, which get crisp when they're roasted.
 1. Cut pancetta into 1/2-in dice, and add to the pan. Add olive oil, 1 1/2 tsp salt, and 1/2 tsp pepper; toss with your hands. Spread out the mixture in a single layer.
-1. Roast Brussels sprouts 20-30 min, until they&#39;re tender and nicely browned and the pancetta is cooked. Toss once during roasting.
+1. Roast Brussels sprouts 20-30 min, until they're tender and nicely browned and the pancetta is cooked. Toss once during roasting.
 1. Remove from oven, drizzle immediately with balsamic vinegar, and toss again. Taste for seasonings and serve hot.
 
 

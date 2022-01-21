@@ -65,7 +65,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 1. Prepare  Garni Basil sping, Lemon
 
 
-In this strawberry iced tea, you simply combine brewed iced tea (use black tea, green tea, herbal.) with the fresh flavor of strawberries by using a homemade strawberry syrup made from scratch! How to Make Strawberry Iced Tea. The perfect temperature for f you don&#39;t have a temperature. Bourbon Strawberry Iced Tea is the drink your summer needs. 
+In this strawberry iced tea, you simply combine brewed iced tea (use black tea, green tea, herbal.) with the fresh flavor of strawberries by using a homemade strawberry syrup made from scratch! How to Make Strawberry Iced Tea. The perfect temperature for f you don't have a temperature. Bourbon Strawberry Iced Tea is the drink your summer needs. 
 
 <!--inarticleads2-->
 
@@ -78,6 +78,6 @@ In this strawberry iced tea, you simply combine brewed iced tea (use black tea, 
 1. Add garnish, straw, and serve.
 
 
-The perfect temperature for f you don&#39;t have a temperature. Bourbon Strawberry Iced Tea is the drink your summer needs. Learn how to make it today at Bourbon, strawberries and iced tea come together to make this mellow summer sipper, perfect for. TEA COCKTAILS Strawberry Rosemary Iced Tea Cocktail Take a break from the heat with this rosemary and strawberry iced tea cocktail. Smooth bourbon and black tea make the perfect summer. 
+The perfect temperature for f you don't have a temperature. Bourbon Strawberry Iced Tea is the drink your summer needs. Learn how to make it today at Bourbon, strawberries and iced tea come together to make this mellow summer sipper, perfect for. TEA COCKTAILS Strawberry Rosemary Iced Tea Cocktail Take a break from the heat with this rosemary and strawberry iced tea cocktail. Smooth bourbon and black tea make the perfect summer. 
 
 So that is going to wrap this up with this exceptional food strawberry iced tea recipe. Thank you very much for your time. I am confident that you will make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -28,11 +28,11 @@ recipeingredient:
 - " Colour full sweet as your require"
 recipeinstructions:
 - "First, take water in a pot add Water, Cinnamon Stick, Bay leaf, Star anise, Green cardamom,"
-- "Cloves &amp; add yellow colour with water. When water is boiled, add rice and cook them completely"
+- "Cloves & add yellow colour with water. When water is boiled, add rice and cook them completely"
 - "Then take rice out in a strainer and drain the water. First heat ghee in a pan."
 - "When ghee is heated, add crack green cardamoms. Fry it 2 mins then, add boiled rice and also sugar to the rice and mix."
 - "When sugar is dissolved, turn the flame high so that sugar water is dried. Do not move ladle repeatedly; it will break the rice."
-- "When rice water is dried &amp; rice cooked completely, add Rose essence, Ashrafi, almonds, pistachios, chopped coconuts, and now place for dam (Now cook at low flame)."
+- "When rice water is dried & rice cooked completely, add Rose essence, Ashrafi, almonds, pistachios, chopped coconuts, and now place for dam (Now cook at low flame)."
 - "And add colour full sweet.Very tasty zarda sweet rice is ready."
 categories:
 - Recipe
@@ -85,21 +85,21 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Take  Colour full sweet as your require
 
 
-This Zarda Sweet Rice is a healthier twist to a traditional recipe, with half the sugar and less fat. The word Zarda comes from the Urdu word Zard which means "yellow," hence why this beautiful bright yellow rice dish has its name. It&#39;s a popular dessert in Pakistan, Bangladesh, India, Iran and. &#39;Zarda&#39; happens to be the simplest of desserts, defining the best of joys; a sweet delight served at The yellow zarda is a favoured dessert distributed at Sufi shrines that dot the subcontinent. Parboil rice with yellow food colouring and set aside. 
+This Zarda Sweet Rice is a healthier twist to a traditional recipe, with half the sugar and less fat. The word Zarda comes from the Urdu word Zard which means "yellow," hence why this beautiful bright yellow rice dish has its name. It's a popular dessert in Pakistan, Bangladesh, India, Iran and. 'Zarda' happens to be the simplest of desserts, defining the best of joys; a sweet delight served at The yellow zarda is a favoured dessert distributed at Sufi shrines that dot the subcontinent. Parboil rice with yellow food colouring and set aside. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make YELLOW ZARDA (sweet rice):
 
 1. First, take water in a pot add Water, Cinnamon Stick, Bay leaf, Star anise, Green cardamom,
-1. Cloves &amp; add yellow colour with water. When water is boiled, add rice and cook them completely
+1. Cloves & add yellow colour with water. When water is boiled, add rice and cook them completely
 1. Then take rice out in a strainer and drain the water. - First heat ghee in a pan.
 1. When ghee is heated, add crack green cardamoms. - Fry it 2 mins then, add boiled rice and also sugar to the rice and mix.
 1. When sugar is dissolved, turn the flame high so that sugar water is dried. - Do not move ladle repeatedly; it will break the rice.
-1. When rice water is dried &amp; rice cooked completely, add Rose essence, Ashrafi, almonds, pistachios, chopped coconuts, and now place for dam (Now cook at low flame).
+1. When rice water is dried & rice cooked completely, add Rose essence, Ashrafi, almonds, pistachios, chopped coconuts, and now place for dam (Now cook at low flame).
 1. And add colour full sweet.Very tasty zarda sweet rice is ready.
 
 
-It&#39;s a popular dessert in Pakistan, Bangladesh, India, Iran and. &#39;Zarda&#39; happens to be the simplest of desserts, defining the best of joys; a sweet delight served at The yellow zarda is a favoured dessert distributed at Sufi shrines that dot the subcontinent. Parboil rice with yellow food colouring and set aside. In a pan, melt butter, adding sugar and stirring for a few. Zarda is a word which is derived from the Urdu language word which means yellow and because of food coloring is added that&#39;s why it is called Zarda also. Sweet rice is a traditional sweet dish in Pakistan and this dish is served on almost on every celebration like Eid and marriage ceremonies. 
+It's a popular dessert in Pakistan, Bangladesh, India, Iran and. 'Zarda' happens to be the simplest of desserts, defining the best of joys; a sweet delight served at The yellow zarda is a favoured dessert distributed at Sufi shrines that dot the subcontinent. Parboil rice with yellow food colouring and set aside. In a pan, melt butter, adding sugar and stirring for a few. Zarda is a word which is derived from the Urdu language word which means yellow and because of food coloring is added that's why it is called Zarda also. Sweet rice is a traditional sweet dish in Pakistan and this dish is served on almost on every celebration like Eid and marriage ceremonies. 
 
 So that is going to wrap this up with this special food yellow zarda (sweet rice) recipe. Thanks so much for reading. I am confident you will make this at home. There's gonna be interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

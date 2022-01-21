@@ -40,7 +40,7 @@ recipeinstructions:
 - "In a large bowl whisk flour, baking soda, cinnamon an salt until blended"
 - "In another bowl whisk sugar, egg and vanilla until combined"
 - "Slowly whisk in the butter and mix until well combinrd"
-- "Add sour cream and whisk until just smooth, don&#39;t overmix"
+- "Add sour cream and whisk until just smooth, don't overmix"
 - "Add blueberries to flour mixture and stir gently to coat them. This helps them not to settle on bottom of muffins"
 - "Slowly fold sour cream mixture into flour mixture sing a sparula. Batter will be thick, mix until just blended"
 - "Spoon batter equally into pans."
@@ -121,7 +121,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. In a large bowl whisk flour, baking soda, cinnamon an salt until blended
 1. In another bowl whisk sugar, egg and vanilla until combined
 1. Slowly whisk in the butter and mix until well combinrd
-1. Add sour cream and whisk until just smooth, don&#39;t overmix
+1. Add sour cream and whisk until just smooth, don't overmix
 1. Add blueberries to flour mixture and stir gently to coat them. This helps them not to settle on bottom of muffins
 1. Slowly fold sour cream mixture into flour mixture sing a sparula. Batter will be thick, mix until just blended
 1. Spoon batter equally into pans.

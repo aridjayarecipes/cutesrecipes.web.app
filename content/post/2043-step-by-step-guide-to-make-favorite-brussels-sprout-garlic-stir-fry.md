@@ -19,7 +19,7 @@ recipeinstructions:
 - "Slice 3 cloves of garlic. Lightly crush the remaining 2 cloves with the flat of a knife."
 - "Heat the olive oil in a frying pan over a medium heat. Add 2 cloves of crushed garlic, and stir-fry until fragrant. Add the Brussels sprouts, and continue stir-frying until the surfaces become lightly browned."
 - "When they start to brown, add 350 ~ 450 ml of water and salt, bring to a boil over high heat."
-- "When the liquid is almost gone, pour in 1 tablespoon of olive oil, add the sliced garlic and pepper, and continue stir-frying over a medium-high heat. When the sliced garlic is browned, it&#39;s done."
+- "When the liquid is almost gone, pour in 1 tablespoon of olive oil, add the sliced garlic and pepper, and continue stir-frying over a medium-high heat. When the sliced garlic is browned, it's done."
 categories:
 - Recipe
 tags:
@@ -69,7 +69,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can h
 1. Slice 3 cloves of garlic. Lightly crush the remaining 2 cloves with the flat of a knife.
 1. Heat the olive oil in a frying pan over a medium heat. Add 2 cloves of crushed garlic, and stir-fry until fragrant. Add the Brussels sprouts, and continue stir-frying until the surfaces become lightly browned.
 1. When they start to brown, add 350 ~ 450 ml of water and salt, bring to a boil over high heat.
-1. When the liquid is almost gone, pour in 1 tablespoon of olive oil, add the sliced garlic and pepper, and continue stir-frying over a medium-high heat. When the sliced garlic is browned, it&#39;s done.
+1. When the liquid is almost gone, pour in 1 tablespoon of olive oil, add the sliced garlic and pepper, and continue stir-frying over a medium-high heat. When the sliced garlic is browned, it's done.
 
 
 

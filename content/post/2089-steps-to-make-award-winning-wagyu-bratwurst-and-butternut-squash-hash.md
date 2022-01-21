@@ -73,7 +73,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Get 2 TBSP Butter
 1. Take 1/2 CUP Water or Chicken Stock
 1. Get 3 TBSP Olive Oil
-1. Take  Kosher Salt &amp; Freshly Ground Black Pepper (to taste)
+1. Take  Kosher Salt & Freshly Ground Black Pepper (to taste)
 1. Prepare  Fresh Parsley (to garnish)
 
 

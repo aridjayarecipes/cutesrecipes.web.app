@@ -25,8 +25,8 @@ recipeinstructions:
 - "Soak almonds and walnuts in water for a few hours (or overnight)to loosen skin and soften. Then remove skins. Rinse. Leave almonds whole. Rough chop walnuts."
 - "Gather ingredients, dice apricots, preheat oven to 300°"
 - "Make 8 servings rice per package instructions."
-- "Once cooked add 1/2stick butter, s&amp;p to taste and mix together. Fluff with fork to keep light."
-- "Cut a large top and scoop out pumpkin guts very well. Wash &amp; pat dry. Coat the inside walls with honey."
+- "Once cooked add 1/2stick butter, s&p to taste and mix together. Fluff with fork to keep light."
+- "Cut a large top and scoop out pumpkin guts very well. Wash & pat dry. Coat the inside walls with honey."
 - "Combine rice with fruit and nuts in a large bowl. Take care to add enough fruit and nuts to get a little of each per bite but dont overpower the amount of rice in the mixture."
 - "Put mixture in pumpkin. Dont fill to top. Leave an inch or 2."
 - "Bake at 300° with pumpkin top on for at least 2 hrs. Use a pan or sheet pan to move it. Pumpkins done when a toothpick slides in easy and is tender"
@@ -72,11 +72,11 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Take  Pinenuts,whole
 1. Take  White basmati rice
 1. Make ready  Butter
-1. Get  Salt &amp; pepper
+1. Get  Salt & pepper
 1. Prepare  Honey
 
 
-Nutella &amp; Pumpkin Stuffed Mini Doughnuts. Requires Hallow&#39;s End &lt;Right Click to Open&gt;. Pumpkins are really versatile and they go well with chilli, nutmeg, sage and more; if you have never baked a pumpkin then you are in for a real The best baked pumpkin. This is a list of notable squash and pumpkin dishes that are prepared using squash and pumpkin as a primary ingredient. 
+Nutella & Pumpkin Stuffed Mini Doughnuts. Requires Hallow's End &lt;Right Click to Open>. Pumpkins are really versatile and they go well with chilli, nutmeg, sage and more; if you have never baked a pumpkin then you are in for a real The best baked pumpkin. This is a list of notable squash and pumpkin dishes that are prepared using squash and pumpkin as a primary ingredient. 
 
 <!--inarticleads2-->
 
@@ -85,8 +85,8 @@ Nutella &amp; Pumpkin Stuffed Mini Doughnuts. Requires Hallow&#39;s End &lt;Righ
 1. Soak almonds and walnuts in water for a few hours (or overnight)to loosen skin and soften. Then remove skins. Rinse. Leave almonds whole. Rough chop walnuts.
 1. Gather ingredients, dice apricots, preheat oven to 300°
 1. Make 8 servings rice per package instructions.
-1. Once cooked add 1/2stick butter, s&amp;p to taste and mix together. Fluff with fork to keep light.
-1. Cut a large top and scoop out pumpkin guts very well. Wash &amp; pat dry. Coat the inside walls with honey.
+1. Once cooked add 1/2stick butter, s&p to taste and mix together. Fluff with fork to keep light.
+1. Cut a large top and scoop out pumpkin guts very well. Wash & pat dry. Coat the inside walls with honey.
 1. Combine rice with fruit and nuts in a large bowl. Take care to add enough fruit and nuts to get a little of each per bite but dont overpower the amount of rice in the mixture.
 1. Put mixture in pumpkin. Dont fill to top. Leave an inch or 2.
 1. Bake at 300° with pumpkin top on for at least 2 hrs. Use a pan or sheet pan to move it. Pumpkins done when a toothpick slides in easy and is tender

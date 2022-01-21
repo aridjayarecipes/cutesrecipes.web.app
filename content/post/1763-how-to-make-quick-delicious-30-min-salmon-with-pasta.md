@@ -78,7 +78,7 @@ To get started with this recipe, we must prepare a few components. You can have 
 1. Take 1 tsp onion powder
 1. Get 1 tsp black pepper
 1. Prepare 1 cup freshly grated Parmesan cheese
-1. Take 1/2 lb linguine pasta (cooked &amp; drained)
+1. Take 1/2 lb linguine pasta (cooked & drained)
 1. Prepare  Parsley for garnish
 
 
@@ -94,6 +94,6 @@ This salmon pasta bake recipe is guaranteed to be a new family favourite. Cook t
 1. 4. Season the sauce with garlic powder, onion powder, and Cajun seasoning,. Add the salmon back to the skillet. Cook for 1-2 minutes then toss in the pasta, Parmesan cheese, and chopped parsley. Serve while warm. Enjoy!
 
 
-Pat skin-on salmon fillets dry with paper towels then season generously with salt and pepper and drizzle with a few teaspoons of olive oil. Heat a nonstick frying pan over high heat then sear the. Melt spread in a saucepan over medium heat. This Salmon Pasta with Spinach is a deliciously easy pasta recipe with chunks of tender salmon, spinach in a scrumptious creamy Parmesan sauce! If you are looking for a quick, delicious, one-pot salmon dinner, you&#39;ve come to the right place! 
+Pat skin-on salmon fillets dry with paper towels then season generously with salt and pepper and drizzle with a few teaspoons of olive oil. Heat a nonstick frying pan over high heat then sear the. Melt spread in a saucepan over medium heat. This Salmon Pasta with Spinach is a deliciously easy pasta recipe with chunks of tender salmon, spinach in a scrumptious creamy Parmesan sauce! If you are looking for a quick, delicious, one-pot salmon dinner, you've come to the right place! 
 
 So that's going to wrap it up with this exceptional food delicious 30 min salmon with pasta recipe. Thank you very much for your time. I'm confident you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

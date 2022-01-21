@@ -70,7 +70,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Make ready 1.5 sticks Unsalted Butter, softened
 1. Make ready 2 cups Sugar
 1. Prepare 2 large Eggs
-1. Get 15 -oz can 100% Pure Pumpkin (Libby&#39;s)
+1. Get 15 -oz can 100% Pure Pumpkin (Libby's)
 
 
 

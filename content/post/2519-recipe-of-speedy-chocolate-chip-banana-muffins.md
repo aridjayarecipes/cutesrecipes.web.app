@@ -47,7 +47,7 @@ recipecategory: Lunch
 
 Hello everybody, hope you're having an incredible day today. Today, I'm gonna show you how to make a special dish, chocolate chip banana muffins. One of my favorites food recipes. This time, I am going to make it a bit unique. This will be really delicious.
 
-Chocolate chip and Banana Muffins moist ,fluffy, and amazing taste. In this recipe you will learn how to make fluffy and moist banana and chocolate chip muffins. BANANA!!.and chocolate chips, what&#39;s there not to like? Bake muffins until tops are pale golden and tester inserted into center comes out with some melted chocolate attached but no crumbs.
+Chocolate chip and Banana Muffins moist ,fluffy, and amazing taste. In this recipe you will learn how to make fluffy and moist banana and chocolate chip muffins. BANANA!!.and chocolate chips, what's there not to like? Bake muffins until tops are pale golden and tester inserted into center comes out with some melted chocolate attached but no crumbs.
 
 Chocolate chip banana muffins is one of the most popular of recent trending foods on earth. It's enjoyed by millions every day. It's simple, it is quick, it tastes yummy. Chocolate chip banana muffins is something that I have loved my whole life. They're fine and they look fantastic.
 
@@ -82,6 +82,6 @@ Like a proper foodie, the first and only thing I thought of. Chocolate-Filled Ba
 1. Bake at 178 degrees celcius for 20 minutes
 
 
-Place the chocolate chips in a heatproof liquid measuring cup. Pour over the hot heavy cream. Easy Banana &amp; Chocolate Chip Muffin. Looking for a fantastic way to use up your overripe bananas? Sarah Carey makes a simple &amp; delicious Banana Chocolate Chip Muffin that&#39;s the perfect treat or after school snack. 
+Place the chocolate chips in a heatproof liquid measuring cup. Pour over the hot heavy cream. Easy Banana & Chocolate Chip Muffin. Looking for a fantastic way to use up your overripe bananas? Sarah Carey makes a simple & delicious Banana Chocolate Chip Muffin that's the perfect treat or after school snack. 
 
 So that's going to wrap it up with this special food chocolate chip banana muffins recipe. Thank you very much for your time. I am sure that you can make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

@@ -21,7 +21,7 @@ recipeinstructions:
 - "Make cuts in the other half of the pastry, leaving space around the edges."
 - "Place it on top of the sheet covered with jam and seal the edges with a fork."
 - "Brush the beaten egg across the whole surface for an attractive finish."
-- "Bake for 15 minutes in the preheated oven, and it&#39;s done!"
+- "Bake for 15 minutes in the preheated oven, and it's done!"
 categories:
 - Recipe
 tags:
@@ -73,7 +73,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Make cuts in the other half of the pastry, leaving space around the edges.
 1. Place it on top of the sheet covered with jam and seal the edges with a fork.
 1. Brush the beaten egg across the whole surface for an attractive finish.
-1. Bake for 15 minutes in the preheated oven, and it&#39;s done!
+1. Bake for 15 minutes in the preheated oven, and it's done!
 
 
 

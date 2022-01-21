@@ -16,7 +16,7 @@ recipeingredient:
 - "to taste pecans"
 recipeinstructions:
 - "Peel the banana and cut it in thick slices"
-- "Put the butter 🧈 in the pan and range the banana 🍌 in leave it about 2 minutes and turn up down, the butter will cover the banana, sprinkle the honey and put pecan on it and that&#39;s it"
+- "Put the butter 🧈 in the pan and range the banana 🍌 in leave it about 2 minutes and turn up down, the butter will cover the banana, sprinkle the honey and put pecan on it and that's it"
 categories:
 - Recipe
 tags:
@@ -63,7 +63,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can have
 ##### Instructions to make Fry Banana with honey 🍯 🍌:
 
 1. Peel the banana and cut it in thick slices
-1. Put the butter 🧈 in the pan and range the banana 🍌 in leave it about 2 minutes and turn up down, the butter will cover the banana, sprinkle the honey and put pecan on it and that&#39;s it
+1. Put the butter 🧈 in the pan and range the banana 🍌 in leave it about 2 minutes and turn up down, the butter will cover the banana, sprinkle the honey and put pecan on it and that's it
 
 
 

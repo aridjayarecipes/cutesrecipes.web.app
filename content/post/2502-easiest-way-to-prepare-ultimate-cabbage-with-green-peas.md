@@ -84,6 +84,6 @@ Fresh green spicy cabbage swings laid out on a shelf. Rice bowl with red cabbage
 1. 
 
 
-Splutter mustard seeds and curry leaves. Add cabbage and green peas in to the pan. Then add turmeric powder, asafoetida powder and chilly powder into it. Cabbage (comprising several cultivars of Brassica oleracea) is a leafy green, red (purple), or white (pale green) biennial plant grown as an annual vegetable crop for its dense-leaved heads. My best friend and I make this every year on New Year&#39;s Day, and it&#39;s so delicious! 
+Splutter mustard seeds and curry leaves. Add cabbage and green peas in to the pan. Then add turmeric powder, asafoetida powder and chilly powder into it. Cabbage (comprising several cultivars of Brassica oleracea) is a leafy green, red (purple), or white (pale green) biennial plant grown as an annual vegetable crop for its dense-leaved heads. My best friend and I make this every year on New Year's Day, and it's so delicious! 
 
 So that's going to wrap this up for this exceptional food cabbage with green peas recipe. Thank you very much for your time. I am confident you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

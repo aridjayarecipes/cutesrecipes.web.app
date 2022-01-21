@@ -28,7 +28,7 @@ recipeinstructions:
 - "Blend diced fish, eggs, garlic, and red curry paste until smooth, add tapioca starch, spring onion, coriander, chicken powder and salt to taste"
 - "Shape to 1cm thick round flat cake with hand. Smear some oil to your hand before you grab the fish cake mixture."
 - "Heat a nonstick pan, pour little oil, cook the fish cake on medium heat until brown. It normally takes about 15 minutes to cook or the fish cake becomes puffy when it is cooked."
-- "Blanch the cabbage leaf, don&#39;t forget to remove the stalk or you will find it difficult to roll them later."
+- "Blanch the cabbage leaf, don't forget to remove the stalk or you will find it difficult to roll them later."
 - "In the hot saucepan, add oil, and then sautee the onions until brown. Add peanut butter, water, tamarind paste then turn to low heat to thicken the sauce. Add in crushed peanut, sweet soy sauce and salt to taste, set aside."
 - "Tear fish cake into pieces, wrap it with the blanched cabbage leaf and dip it into peanut sauce. Yummy!"
 categories:
@@ -53,7 +53,7 @@ recipecategory: Lunch
 
 Hey everyone, it's Brad, welcome to my recipe page. Today, I will show you a way to make a distinctive dish, fish cake with cabbage wrapper and satay sauce. It is one of my favorites food recipes. This time, I will make it a little bit unique. This is gonna smell and look delicious.
 
-Give fish, salt, chopped onion, egg, flour and rinsed kale a whirl in a food processor, until you have a fine farce. If you don&#39;t have a food processor, you can just chop the fish with your best and biggest knife and mix everything in a bowl, just like Nan would&#39;ve done. Easy and versatile recipe for making Vietnamese-style fish cakes or balls. I&#39;ve had some version of these dumplings in a couple of Dim Sum restaurants over the years, but can&#39;t seem to find a recipe for it in any of my cookbooks or online, so I decided to concoct my own.
+Give fish, salt, chopped onion, egg, flour and rinsed kale a whirl in a food processor, until you have a fine farce. If you don't have a food processor, you can just chop the fish with your best and biggest knife and mix everything in a bowl, just like Nan would've done. Easy and versatile recipe for making Vietnamese-style fish cakes or balls. I've had some version of these dumplings in a couple of Dim Sum restaurants over the years, but can't seem to find a recipe for it in any of my cookbooks or online, so I decided to concoct my own.
 
 Fish cake with Cabbage wrapper and Satay sauce is one of the most popular of current trending foods in the world. It is easy, it is quick, it tastes yummy. It is enjoyed by millions every day. Fish cake with Cabbage wrapper and Satay sauce is something which I have loved my whole life. They are nice and they look wonderful.
 
@@ -80,7 +80,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have fi
 1. Prepare 1/4 cup crushed peanut
 
 
-Paddy&#39;s day potluck and Now, fried cabbage can be made in various ways but my favorite way involves pan frying it with bacon and onions. I also like to keep the spices very simple. While the fishcakes are in the oven, make the parsley sauce. Melt the butter in a small non-stick saucepan. 
+Paddy's day potluck and Now, fried cabbage can be made in various ways but my favorite way involves pan frying it with bacon and onions. I also like to keep the spices very simple. While the fishcakes are in the oven, make the parsley sauce. Melt the butter in a small non-stick saucepan. 
 
 <!--inarticleads2-->
 
@@ -89,11 +89,11 @@ Paddy&#39;s day potluck and Now, fried cabbage can be made in various ways but m
 1. Blend diced fish, eggs, garlic, and red curry paste until smooth, add tapioca starch, spring onion, coriander, chicken powder and salt to taste
 1. Shape to 1cm thick round flat cake with hand. Smear some oil to your hand before you grab the fish cake mixture.
 1. Heat a nonstick pan, pour little oil, cook the fish cake on medium heat until brown. It normally takes about 15 minutes to cook or the fish cake becomes puffy when it is cooked.
-1. Blanch the cabbage leaf, don&#39;t forget to remove the stalk or you will find it difficult to roll them later.
+1. Blanch the cabbage leaf, don't forget to remove the stalk or you will find it difficult to roll them later.
 1. In the hot saucepan, add oil, and then sautee the onions until brown. Add peanut butter, water, tamarind paste then turn to low heat to thicken the sauce. Add in crushed peanut, sweet soy sauce and salt to taste, set aside.
 1. Tear fish cake into pieces, wrap it with the blanched cabbage leaf and dip it into peanut sauce. Yummy!
 
 
-While the fishcakes are in the oven, make the parsley sauce. Melt the butter in a small non-stick saucepan. Gradually add the flour, stirring with a wooden spoon until it comes away from the sides of the pan. Slowly add the reserved milk, stirring constantly with a wooden spoon to ensure it is lump-free. Potato fish cakes are not only a quick and easy dinner idea that everyone will love, they&#39;re also inexpensive and very nutritious! 
+While the fishcakes are in the oven, make the parsley sauce. Melt the butter in a small non-stick saucepan. Gradually add the flour, stirring with a wooden spoon until it comes away from the sides of the pan. Slowly add the reserved milk, stirring constantly with a wooden spoon to ensure it is lump-free. Potato fish cakes are not only a quick and easy dinner idea that everyone will love, they're also inexpensive and very nutritious! 
 
 So that's going to wrap this up for this exceptional food fish cake with cabbage wrapper and satay sauce recipe. Thank you very much for reading. I am sure you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

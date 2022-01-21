@@ -69,7 +69,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 1. Make ready 1 medium sweet potato
 1. Get 3 Tbs fresh grated ginger
 1. Take 1 lb brussel sprouts
-1. Take 1 lb steam-in bag mixed broccoli, cauliflower &amp; carrots
+1. Take 1 lb steam-in bag mixed broccoli, cauliflower & carrots
 1. Get 1 large onion
 1. Make ready 1/2 lb sliced mushrooms
 1. Take 4 Tbs tahini

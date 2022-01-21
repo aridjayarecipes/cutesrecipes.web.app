@@ -59,7 +59,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have re
 1. Take 2 tbsp fresh manteca
 
 
-Making a batch of Refried Black Beans (frijoles refritos) at home is super simple. With just a few ingredients and spices, this refried black beans recipe can be shared as a side or used as a. Black Beans Beans Side Dish Super Bowl Cinco de Mayo Mexican Burritos Garlic Onions Nachos Easy. Pinto beans make the best refried beans, since they&#39;re so buttery. 
+Making a batch of Refried Black Beans (frijoles refritos) at home is super simple. With just a few ingredients and spices, this refried black beans recipe can be shared as a side or used as a. Black Beans Beans Side Dish Super Bowl Cinco de Mayo Mexican Burritos Garlic Onions Nachos Easy. Pinto beans make the best refried beans, since they're so buttery. 
 
 <!--inarticleads2-->
 
@@ -70,6 +70,6 @@ Making a batch of Refried Black Beans (frijoles refritos) at home is super simpl
 1. salt to taste
 
 
-Black Beans Beans Side Dish Super Bowl Cinco de Mayo Mexican Burritos Garlic Onions Nachos Easy. Pinto beans make the best refried beans, since they&#39;re so buttery. I recently crossed the refried black beans recipe with my pinto beer beans (both available in my cookbook) and ended up with these. Learn how to make Refried Black Beans. Be the first to rate &amp; review! 
+Black Beans Beans Side Dish Super Bowl Cinco de Mayo Mexican Burritos Garlic Onions Nachos Easy. Pinto beans make the best refried beans, since they're so buttery. I recently crossed the refried black beans recipe with my pinto beer beans (both available in my cookbook) and ended up with these. Learn how to make Refried Black Beans. Be the first to rate & review! 
 
 So that is going to wrap this up with this special food refried black beans recipe. Thank you very much for reading. I'm confident that you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

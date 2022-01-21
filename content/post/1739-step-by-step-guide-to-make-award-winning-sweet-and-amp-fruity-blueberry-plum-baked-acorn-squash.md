@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Make Award-winning Sweet &amp;amp; Fruity Blueberry-Plum Baked Acorn Squash"
-title: "Step-by-Step Guide to Make Award-winning Sweet &amp;amp; Fruity Blueberry-Plum Baked Acorn Squash"
+description: "Step-by-Step Guide to Make Award-winning Sweet &amp; Fruity Blueberry-Plum Baked Acorn Squash"
+title: "Step-by-Step Guide to Make Award-winning Sweet &amp; Fruity Blueberry-Plum Baked Acorn Squash"
 slug: 1739-step-by-step-guide-to-make-award-winning-sweet-and-amp-fruity-blueberry-plum-baked-acorn-squash
 date: 2022-03-29T13:51:10.683Z
 image: https://img-global.cpcdn.com/recipes/23080e9f3749f457/680x482cq70/sweet-fruity-blueberry-plum-baked-acorn-squash-recipe-main-photo.jpg
@@ -44,20 +44,20 @@ recipecategory: Dinner
 ---
 
 
-![Sweet &amp; Fruity Blueberry-Plum Baked Acorn Squash](https://img-global.cpcdn.com/recipes/23080e9f3749f457/680x482cq70/sweet-fruity-blueberry-plum-baked-acorn-squash-recipe-main-photo.jpg)
+![Sweet & Fruity Blueberry-Plum Baked Acorn Squash](https://img-global.cpcdn.com/recipes/23080e9f3749f457/680x482cq70/sweet-fruity-blueberry-plum-baked-acorn-squash-recipe-main-photo.jpg)
 
-Hey everyone, hope you're having an amazing day today. Today, we're going to make a special dish, sweet &amp; fruity blueberry-plum baked acorn squash. It is one of my favorites. This time, I'm gonna make it a little bit tasty. This will be really delicious.
+Hey everyone, hope you're having an amazing day today. Today, we're going to make a special dish, sweet & fruity blueberry-plum baked acorn squash. It is one of my favorites. This time, I'm gonna make it a little bit tasty. This will be really delicious.
 
-Sweet &amp; Fruity Blueberry-Plum Baked Acorn Squash is one of the most popular of recent trending meals on earth. It is easy, it is fast, it tastes delicious. It's appreciated by millions every day. Sweet &amp; Fruity Blueberry-Plum Baked Acorn Squash is something which I have loved my whole life. They are nice and they look fantastic.
+Sweet & Fruity Blueberry-Plum Baked Acorn Squash is one of the most popular of recent trending meals on earth. It is easy, it is fast, it tastes delicious. It's appreciated by millions every day. Sweet & Fruity Blueberry-Plum Baked Acorn Squash is something which I have loved my whole life. They are nice and they look fantastic.
 
 Their best known line-up consisted of lead vocalist Brian Connolly, bass player Steve Priest, guitarist Andy Scott.
 
 
-To begin with this recipe, we have to first prepare a few ingredients. You can cook sweet &amp; fruity blueberry-plum baked acorn squash using 10 ingredients and 5 steps. Here is how you cook it.
+To begin with this recipe, we have to first prepare a few ingredients. You can cook sweet & fruity blueberry-plum baked acorn squash using 10 ingredients and 5 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Sweet &amp; Fruity Blueberry-Plum Baked Acorn Squash:
+##### The ingredients needed to make Sweet & Fruity Blueberry-Plum Baked Acorn Squash:
 
 1. Prepare 2 acorn squash
 1. Make ready 2-4 plums
@@ -75,7 +75,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 
 <!--inarticleads2-->
 
-##### Instructions to make Sweet &amp; Fruity Blueberry-Plum Baked Acorn Squash:
+##### Instructions to make Sweet & Fruity Blueberry-Plum Baked Acorn Squash:
 
 1. Preheat Oven to 375°. Cut Acorn Squash in halves. Use a spoon to dig out the seeds and guts and discard.
 1. Divide butter into quarters. Then each quarter in half, as you add 1 quarter to the center of each acorn squash half. Add half a cup of brown sugar to the centers on top of the butter. Shake a bit of cinnamon on top.
@@ -86,4 +86,4 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 
 
 
-So that is going to wrap this up with this special food sweet &amp; fruity blueberry-plum baked acorn squash recipe. Thanks so much for your time. I'm confident you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!
+So that is going to wrap this up with this special food sweet & fruity blueberry-plum baked acorn squash recipe. Thanks so much for your time. I'm confident you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

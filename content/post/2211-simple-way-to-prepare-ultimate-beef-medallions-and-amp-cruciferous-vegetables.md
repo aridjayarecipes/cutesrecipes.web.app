@@ -1,6 +1,6 @@
 ---
-description: "Simple Way to Prepare Ultimate Beef medallions &amp;amp; cruciferous vegetables"
-title: "Simple Way to Prepare Ultimate Beef medallions &amp;amp; cruciferous vegetables"
+description: "Simple Way to Prepare Ultimate Beef medallions &amp; cruciferous vegetables"
+title: "Simple Way to Prepare Ultimate Beef medallions &amp; cruciferous vegetables"
 slug: 2211-simple-way-to-prepare-ultimate-beef-medallions-and-amp-cruciferous-vegetables
 date: 2021-11-29T01:56:59.526Z
 image: https://img-global.cpcdn.com/recipes/90c2be9d8d572785/680x482cq70/beef-medallions-cruciferous-vegetables-recipe-main-photo.jpg
@@ -23,7 +23,7 @@ recipeingredient:
 - "5-6 fresh thai basil leaves chopped"
 recipeinstructions:
 - "In a mortar and pestle, grind the ginger, garlic and habanero to form a paste"
-- "In a bowl, add the beef medallions, garlic, ginger &amp; habanero chilli mixture, tamarind paste and soy sauce. Mix well to combine. Allow to rest for about 30 minutes"
+- "In a bowl, add the beef medallions, garlic, ginger & habanero chilli mixture, tamarind paste and soy sauce. Mix well to combine. Allow to rest for about 30 minutes"
 - "In a heavy skillet pan, heat the oil over high heat until hot."
 - "Sear the beef medallions on both sides (for about 1-2 minutes each side)."
 - "Add the soy sauce to the leftover marinade and pour over the beef medallions. Stir to combine"
@@ -49,20 +49,20 @@ recipecategory: Dessert
 ---
 
 
-![Beef medallions &amp; cruciferous vegetables](https://img-global.cpcdn.com/recipes/90c2be9d8d572785/680x482cq70/beef-medallions-cruciferous-vegetables-recipe-main-photo.jpg)
+![Beef medallions & cruciferous vegetables](https://img-global.cpcdn.com/recipes/90c2be9d8d572785/680x482cq70/beef-medallions-cruciferous-vegetables-recipe-main-photo.jpg)
 
-Hello everybody, hope you're having an incredible day today. Today, I'm gonna show you how to prepare a special dish, beef medallions &amp; cruciferous vegetables. One of my favorites. For mine, I'm gonna make it a little bit unique. This is gonna smell and look delicious.
+Hello everybody, hope you're having an incredible day today. Today, I'm gonna show you how to prepare a special dish, beef medallions & cruciferous vegetables. One of my favorites. For mine, I'm gonna make it a little bit unique. This is gonna smell and look delicious.
 
 This flavorful dish of beef tenderloin medallions with a Marsala wine and mushroom sauce can be easily whipped together in just over All Reviews for Beef Medallions with Caramelized Pan Sauce. The Best Beef Medallions Recipes on Yummly Flaming Whisky Beef Medallions, Stewed Beef Medallions With Fried Egg, Beef Medallions With Curry Cream Sauce (african Curry). Medallions are basically small round steaks.
 
-Beef medallions &amp; cruciferous vegetables is one of the most popular of recent trending meals on earth. It's easy, it's quick, it tastes delicious. It's enjoyed by millions every day. They're nice and they look fantastic. Beef medallions &amp; cruciferous vegetables is something which I have loved my entire life.
+Beef medallions & cruciferous vegetables is one of the most popular of recent trending meals on earth. It's easy, it's quick, it tastes delicious. It's enjoyed by millions every day. They're nice and they look fantastic. Beef medallions & cruciferous vegetables is something which I have loved my entire life.
 
 
-To get started with this particular recipe, we must first prepare a few ingredients. You can have beef medallions &amp; cruciferous vegetables using 11 ingredients and 9 steps. Here is how you can achieve that.
+To get started with this particular recipe, we must first prepare a few ingredients. You can have beef medallions & cruciferous vegetables using 11 ingredients and 9 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Beef medallions &amp; cruciferous vegetables:
+##### The ingredients needed to make Beef medallions & cruciferous vegetables:
 
 1. Prepare 500 gms lean beef fillet medallions
 1. Make ready 1 cup broccoli florets
@@ -81,10 +81,10 @@ This search takes into account your taste preferences. It may seem like a crazy 
 
 <!--inarticleads2-->
 
-##### Instructions to make Beef medallions &amp; cruciferous vegetables:
+##### Instructions to make Beef medallions & cruciferous vegetables:
 
 1. In a mortar and pestle, grind the ginger, garlic and habanero to form a paste
-1. In a bowl, add the beef medallions, garlic, ginger &amp; habanero chilli mixture, tamarind paste and soy sauce. Mix well to combine. Allow to rest for about 30 minutes
+1. In a bowl, add the beef medallions, garlic, ginger & habanero chilli mixture, tamarind paste and soy sauce. Mix well to combine. Allow to rest for about 30 minutes
 1. In a heavy skillet pan, heat the oil over high heat until hot.
 1. Sear the beef medallions on both sides (for about 1-2 minutes each side).
 1. Add the soy sauce to the leftover marinade and pour over the beef medallions. Stir to combine
@@ -96,4 +96,4 @@ This search takes into account your taste preferences. It may seem like a crazy 
 
 Beef medallion is an American name for what is more commonly called filet mignon. True beef medallions are cut only from the small end of the beef tenderloin. Find the perfect Beef Medallions stock photos and editorial news pictures from Getty Images. Select from premium Beef Medallions of the highest quality. Beef medallions are cut from the small end of the beef tenderloin, but in practice cooks and chefs take medallions from sirloin, shoulder and tenderloin. 
 
-So that's going to wrap it up for this exceptional food beef medallions &amp; cruciferous vegetables recipe. Thank you very much for your time. I am sure that you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!
+So that's going to wrap it up for this exceptional food beef medallions & cruciferous vegetables recipe. Thank you very much for your time. I am sure that you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

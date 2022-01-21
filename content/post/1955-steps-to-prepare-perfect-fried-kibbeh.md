@@ -116,6 +116,6 @@ Crispy on the outside and soft on the inside. This particular kibbeh is shaped i
 1. By: Rourou Adam
 
 
-It can take a little bit of effort but is easy to make ahead. Kibbeh is a Levantine mezze made with bulgur, finely ground beef and spices! It&#39;s then shaped into balls then fried or baked! Kibbeh - Outside shell with filling. Kibbeh - Ready to be Fried. 
+It can take a little bit of effort but is easy to make ahead. Kibbeh is a Levantine mezze made with bulgur, finely ground beef and spices! It's then shaped into balls then fried or baked! Kibbeh - Outside shell with filling. Kibbeh - Ready to be Fried. 
 
 So that is going to wrap it up with this special food fried_kibbeh recipe. Thanks so much for reading. I am sure that you will make this at home. There's gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

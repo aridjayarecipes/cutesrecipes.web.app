@@ -52,7 +52,7 @@ recipecategory: Dinner
 
 Hello everybody, it is John, welcome to our recipe page. Today, we're going to prepare a distinctive dish, mango salsa with nachos. It is one of my favorites food recipes. This time, I will make it a little bit unique. This will be really delicious.
 
-Tasty Tasty nachos,salsa is ready,serve in a plate.some plain nachos &amp; some with mango salsa. Published by. #Homemadenachos#MangosalsaNachos is a Mexican dish best served with salsa. It&#39;s a perfect part snack reciepe. Using a fresh mango-tomato salsa in place of traditional jarred salsa, and pita chips in place of tortilla chips, she created a sweet-spicy dish that&#39;s loaded with nutrients.
+Tasty Tasty nachos,salsa is ready,serve in a plate.some plain nachos & some with mango salsa. Published by. #Homemadenachos#MangosalsaNachos is a Mexican dish best served with salsa. It's a perfect part snack reciepe. Using a fresh mango-tomato salsa in place of traditional jarred salsa, and pita chips in place of tortilla chips, she created a sweet-spicy dish that's loaded with nutrients.
 
 Mango salsa with nachos is one of the most popular of recent trending foods on earth. It's enjoyed by millions daily. It's easy, it's fast, it tastes yummy. Mango salsa with nachos is something which I have loved my entire life. They are nice and they look wonderful.
 

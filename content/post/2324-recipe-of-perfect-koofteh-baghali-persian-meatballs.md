@@ -44,7 +44,7 @@ recipeingredient:
 recipeinstructions:
 - "Wash and rinse yellow split peas.  Transfer into rice cooker.  Add water to about 1 inch over the peas.  Cook the peas for about 15 mins"
 - "Wash and rinse basmati rice until water becomes clear.  Add the rice into the rice cooker together with the peas.  Lightly season with salt and pepper.  Stir to combine well."
-- "Add some more water to about 1 inch over the mixture.  Cook the rice and peas thru for about 15 mins or per rice cooker&#39;s manufacturer&#39;s instructions.  Remove from cooker and set aside to cool.  In a shallow bowl, add chicken, onion, turmeric, salt, pepper, savory, coriander, parsley, green onion and mint."
+- "Add some more water to about 1 inch over the mixture.  Cook the rice and peas thru for about 15 mins or per rice cooker's manufacturer's instructions.  Remove from cooker and set aside to cool.  In a shallow bowl, add chicken, onion, turmeric, salt, pepper, savory, coriander, parsley, green onion and mint."
 - "You should have about 1/2 cup worth of chopped fresh herbs.*  Mix to combine well.  *Ensure that the rice mixture is the same ratio as the chicken mixture.  If you have excess rice mixture, remove and set aside.  If the rice mixture ratio is more than the chicken mixture, the meatballs will be very tough.*"
 - "Add the rice mixture into the chicken mixture.  Add in egg.  Mix to combine well.  Cover with cling film and set aside in the fridge for 1 to 4 hrs."
 - "Remove from fridge and divide into 6 equal portions using a weighing scale.  *It is best to grease your hands with some olive oil.*  Form 1 portion into a ball.  It should be the size of a baseball.  Stuff the meatball with 1 date and 1 plum."
@@ -128,7 +128,7 @@ To begin with this recipe, we must prepare a few ingredients. You can cook kooft
 
 1. Wash and rinse yellow split peas. -  - Transfer into rice cooker. -  - Add water to about 1 inch over the peas. -  - Cook the peas for about 15 mins
 1. Wash and rinse basmati rice until water becomes clear. -  - Add the rice into the rice cooker together with the peas. -  - Lightly season with salt and pepper. -  - Stir to combine well.
-1. Add some more water to about 1 inch over the mixture. -  - Cook the rice and peas thru for about 15 mins or per rice cooker&#39;s manufacturer&#39;s instructions. -  - Remove from cooker and set aside to cool. -  - In a shallow bowl, add chicken, onion, turmeric, salt, pepper, savory, coriander, parsley, green onion and mint.
+1. Add some more water to about 1 inch over the mixture. -  - Cook the rice and peas thru for about 15 mins or per rice cooker's manufacturer's instructions. -  - Remove from cooker and set aside to cool. -  - In a shallow bowl, add chicken, onion, turmeric, salt, pepper, savory, coriander, parsley, green onion and mint.
 1. You should have about 1/2 cup worth of chopped fresh herbs.* -  - Mix to combine well. -  - *Ensure that the rice mixture is the same ratio as the chicken mixture. -  - If you have excess rice mixture, remove and set aside. -  - If the rice mixture ratio is more than the chicken mixture, the meatballs will be very tough.*
 1. Add the rice mixture into the chicken mixture. -  - Add in egg. -  - Mix to combine well. -  - Cover with cling film and set aside in the fridge for 1 to 4 hrs.
 1. Remove from fridge and divide into 6 equal portions using a weighing scale. -  - *It is best to grease your hands with some olive oil.* -  - Form 1 portion into a ball. -  - It should be the size of a baseball. -  - Stuff the meatball with 1 date and 1 plum.

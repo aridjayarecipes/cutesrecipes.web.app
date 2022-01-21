@@ -16,10 +16,10 @@ recipeingredient:
 - "1 cinnamon stick"
 - "225 ml water"
 recipeinstructions:
-- "Put the water, sugar, cinnamon stick and vanilla pod &amp; seeds into a medium sized saucepan and simmer until the sugar has dissolved"
+- "Put the water, sugar, cinnamon stick and vanilla pod & seeds into a medium sized saucepan and simmer until the sugar has dissolved"
 - "Carefully add in the chopped plums, bring to the boil then turn down and simmer for 10 minutes until softened"
 - "Strain the liquid into another pan and boil / reduce until thick and syrupy, discarding the vanilla pod and cinnamon stick"
-- "Stir the plums back into the syrup and serve with some plain yogurt such as Koko free-from dairy &amp; soya coconut based brand"
+- "Stir the plums back into the syrup and serve with some plain yogurt such as Koko free-from dairy & soya coconut based brand"
 - "You can also use this to replace the cherries in my brûleè recipe  https://cookpad.com/us/recipes/363206-vickys-cherry-creme-brulee-gluten-dairy-egg-soy-free"
 - "This makes around 12 servings and can be frozen"
 categories:
@@ -68,14 +68,14 @@ How to Prepare Speedy SALMON pops with dill capers. Easiest Way to Prepare Favor
 
 ##### Instructions to make Vickys Autumn Stewed Plums, GF DF EF SF NF:
 
-1. Put the water, sugar, cinnamon stick and vanilla pod &amp; seeds into a medium sized saucepan and simmer until the sugar has dissolved
+1. Put the water, sugar, cinnamon stick and vanilla pod & seeds into a medium sized saucepan and simmer until the sugar has dissolved
 1. Carefully add in the chopped plums, bring to the boil then turn down and simmer for 10 minutes until softened
 1. Strain the liquid into another pan and boil / reduce until thick and syrupy, discarding the vanilla pod and cinnamon stick
-1. Stir the plums back into the syrup and serve with some plain yogurt such as Koko free-from dairy &amp; soya coconut based brand
+1. Stir the plums back into the syrup and serve with some plain yogurt such as Koko free-from dairy & soya coconut based brand
 1. You can also use this to replace the cherries in my brûleè recipe -  - https://cookpad.com/us/recipes/363206-vickys-cherry-creme-brulee-gluten-dairy-egg-soy-free
 1. This makes around 12 servings and can be frozen
 
 
-Substances of Vickys Autumn Harvest Cookies, GF DF EF SF NF. Vickys Cinnamon Baked Plums, GF DF EF SF NF Directions. Fry off the diced sausage in just a little oil in a big inventory pot till cooked, then take away with a slotted spoon and let drain on some kitchen towel. If you don&#39;t have a can or two lurking in a cabinet somewhere What do the abbreviations VE, VG, GF, DF, EF, SF, NF above chef Akis Petretzikis&#39; recipes mean? Use them to help choose recipes that are best. 
+Substances of Vickys Autumn Harvest Cookies, GF DF EF SF NF. Vickys Cinnamon Baked Plums, GF DF EF SF NF Directions. Fry off the diced sausage in just a little oil in a big inventory pot till cooked, then take away with a slotted spoon and let drain on some kitchen towel. If you don't have a can or two lurking in a cabinet somewhere What do the abbreviations VE, VG, GF, DF, EF, SF, NF above chef Akis Petretzikis' recipes mean? Use them to help choose recipes that are best. 
 
 So that is going to wrap it up with this exceptional food vickys autumn stewed plums, gf df ef sf nf recipe. Thank you very much for reading. I'm sure you can make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

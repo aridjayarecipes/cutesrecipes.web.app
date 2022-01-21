@@ -57,11 +57,11 @@ To get started with this recipe, we have to prepare a few ingredients. You can h
 1. Take 1 slice rye bread
 1. Make ready 1 egg, white only
 1. Make ready 1 6-8oz filet salmon
-1. Get  Salt &amp; pepper
+1. Get  Salt & pepper
 1. Get 1/2 tsp caraway seeds
 
 
-I&#39;ve never had everything bagel seasoning. Does it overwhelm the salmon flavor?? It gave a nice crunch with a lot of flavor but the salmon was definitely there after each. Quick &amp; Easy Healthy Salmon Recipes. 
+I've never had everything bagel seasoning. Does it overwhelm the salmon flavor?? It gave a nice crunch with a lot of flavor but the salmon was definitely there after each. Quick & Easy Healthy Salmon Recipes. 
 
 <!--inarticleads2-->
 
@@ -74,6 +74,6 @@ I&#39;ve never had everything bagel seasoning. Does it overwhelm the salmon flav
 1. In a skillet medium to low heat, cook the salmon bread side down for 1-2 mins and flip, cook in a 350° oven for another 5-7 mins.
 
 
-It gave a nice crunch with a lot of flavor but the salmon was definitely there after each. Quick &amp; Easy Healthy Salmon Recipes. You might want to consider doubling the batch and using the remaining salmon in a tossed salad the next day. Cornstarch, egg white and sesame seeds form a crackling crust on these salmon fillets. Brush the skinless side of the salmon with the egg-white mixture and then dip it into the sesame seeds to coat. 
+It gave a nice crunch with a lot of flavor but the salmon was definitely there after each. Quick & Easy Healthy Salmon Recipes. You might want to consider doubling the batch and using the remaining salmon in a tossed salad the next day. Cornstarch, egg white and sesame seeds form a crackling crust on these salmon fillets. Brush the skinless side of the salmon with the egg-white mixture and then dip it into the sesame seeds to coat. 
 
 So that is going to wrap this up with this exceptional food rye encrusted salmon recipe. Thank you very much for your time. I am sure you can make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

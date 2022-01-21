@@ -74,6 +74,6 @@ Coat with olive oil, salt, pepper, and garlic powder. Place coated brussel sprou
 1. Bake for approximately 40 min or until lightly browned. Stir during cooking a few times.
 
 
-I use a round cake pan lined with aluminum foil. Brussels sprouts need a long growing season and need to mature in the cooler part of the year. Learn how to plant, grow, and harvest Brussels sprouts with this growing guide from The Old Farmer&#39;s Almanac! This easy roasted Brussels sprouts recipe is a delicious side dish! How do you feel about Brussels sprouts? 
+I use a round cake pan lined with aluminum foil. Brussels sprouts need a long growing season and need to mature in the cooler part of the year. Learn how to plant, grow, and harvest Brussels sprouts with this growing guide from The Old Farmer's Almanac! This easy roasted Brussels sprouts recipe is a delicious side dish! How do you feel about Brussels sprouts? 
 
 So that is going to wrap it up for this special food roasted brussel sprouts (organic) recipe. Thank you very much for your time. I am sure you will make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

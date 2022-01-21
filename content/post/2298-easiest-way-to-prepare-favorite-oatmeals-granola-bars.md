@@ -75,7 +75,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. Prepare 1 teaspoon vanilla
 
 
-Oatmeal Raisin Granola Bars. this link is to an external site that may or may not meet accessibility guidelines. In a large sauce pan, over medium heat, add the oats, almonds, and sunflower seeds. Chewy homemade granola bars are the perfect healthy snack! These homemade granola bars are SO much better than any kind you&#39;d buy at the store. 
+Oatmeal Raisin Granola Bars. this link is to an external site that may or may not meet accessibility guidelines. In a large sauce pan, over medium heat, add the oats, almonds, and sunflower seeds. Chewy homemade granola bars are the perfect healthy snack! These homemade granola bars are SO much better than any kind you'd buy at the store. 
 
 <!--inarticleads2-->
 
@@ -86,6 +86,6 @@ Oatmeal Raisin Granola Bars. this link is to an external site that may or may no
 1. Bake for half hour and let it cool in the pan do not cut till it’s cold then cut it to bars enjoy 😉
 
 
-Chewy homemade granola bars are the perfect healthy snack! These homemade granola bars are SO much better than any kind you&#39;d buy at the store. Top oatmeal granola bars recipes and other great tasting recipes with a healthy slant from SparkRecipes.com. How to make homemade granola bars! These granola bars are simple, soft and chewy. 
+Chewy homemade granola bars are the perfect healthy snack! These homemade granola bars are SO much better than any kind you'd buy at the store. Top oatmeal granola bars recipes and other great tasting recipes with a healthy slant from SparkRecipes.com. How to make homemade granola bars! These granola bars are simple, soft and chewy. 
 
 So that is going to wrap it up with this special food oatmeal’s granola bars recipe. Thank you very much for reading. I am sure that you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

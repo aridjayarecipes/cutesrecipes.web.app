@@ -34,7 +34,7 @@ recipeinstructions:
 - "Pour a few more ladles of the tomato sauce over the shells. Cover the dish with foil, poke a hole in the middle to vent. Be careful not to let the tomato sauce get on the foil as it will dissolve the foil! Bake covered for 40 minutes."
 - "Uncover and top cooked shells with the rest of the mozzarella cheese. Cook another 10 minutes."
 - "Let cool 5 minutes then serve!"
-- "I&#39;ve also made this by adding a half pound of hot sausage (or ground beef or even pepperoni) to the sauce. But, the vegetarian version is remarkable. The only really fattening part is the butter/margarine. I don&#39;t like using olive oil as it has a distinctly different taste than the more pungent flavor of butter/margarine. Feel free to use either parmesan or romano cheese. Pecorino romano is by far the best to use if you can."
+- "I've also made this by adding a half pound of hot sausage (or ground beef or even pepperoni) to the sauce. But, the vegetarian version is remarkable. The only really fattening part is the butter/margarine. I don't like using olive oil as it has a distinctly different taste than the more pungent flavor of butter/margarine. Feel free to use either parmesan or romano cheese. Pecorino romano is by far the best to use if you can."
 categories:
 - Recipe
 tags:
@@ -98,7 +98,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook st
 1. Pour a few more ladles of the tomato sauce over the shells. Cover the dish with foil, poke a hole in the middle to vent. Be careful not to let the tomato sauce get on the foil as it will dissolve the foil! Bake covered for 40 minutes.
 1. Uncover and top cooked shells with the rest of the mozzarella cheese. Cook another 10 minutes.
 1. Let cool 5 minutes then serve!
-1. I&#39;ve also made this by adding a half pound of hot sausage (or ground beef or even pepperoni) to the sauce. But, the vegetarian version is remarkable. The only really fattening part is the butter/margarine. I don&#39;t like using olive oil as it has a distinctly different taste than the more pungent flavor of butter/margarine. Feel free to use either parmesan or romano cheese. Pecorino romano is by far the best to use if you can.
+1. I've also made this by adding a half pound of hot sausage (or ground beef or even pepperoni) to the sauce. But, the vegetarian version is remarkable. The only really fattening part is the butter/margarine. I don't like using olive oil as it has a distinctly different taste than the more pungent flavor of butter/margarine. Feel free to use either parmesan or romano cheese. Pecorino romano is by far the best to use if you can.
 
 
 

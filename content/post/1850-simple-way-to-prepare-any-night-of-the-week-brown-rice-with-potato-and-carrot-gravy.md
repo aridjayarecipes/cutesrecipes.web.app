@@ -75,7 +75,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Get leaves Basil
 
 
-The roast still has plenty of flavor without it from the browning, the garlic and onions and the fresh herbs. How to Make Steak with Gravy Potatoes and Carrots in a Crock Pot. Within the first three months of the start of Recipes That Crock, I made what I have made many delicious recipes through the years, but Slow Cooker Steak with Gravy has remained at the top of my favorites list. Garlic-Herb Roasted Chicken &amp; Potatoes, Carrots, &amp; Onions Recipe. 
+The roast still has plenty of flavor without it from the browning, the garlic and onions and the fresh herbs. How to Make Steak with Gravy Potatoes and Carrots in a Crock Pot. Within the first three months of the start of Recipes That Crock, I made what I have made many delicious recipes through the years, but Slow Cooker Steak with Gravy has remained at the top of my favorites list. Garlic-Herb Roasted Chicken & Potatoes, Carrots, & Onions Recipe. 
 
 <!--inarticleads2-->
 
@@ -86,6 +86,6 @@ The roast still has plenty of flavor without it from the browning, the garlic an
 1. Dish out your brown rice and put the grilled chicken on top. Serve alongside potato soup
 
 
-Within the first three months of the start of Recipes That Crock, I made what I have made many delicious recipes through the years, but Slow Cooker Steak with Gravy has remained at the top of my favorites list. Garlic-Herb Roasted Chicken &amp; Potatoes, Carrots, &amp; Onions Recipe. Meanwhile, combine potatoes, carrots, onion, and halved garlic cloves in a large bowl. Add remaining rosemary, sage, thyme, salt, pepper, and remaining oil; toss gently to coat. Potato rice or potato pulao recipe - Sharing an easy aloo pulao recipe, suitable for lunch box or a quick meal especially during the monsoon. 
+Within the first three months of the start of Recipes That Crock, I made what I have made many delicious recipes through the years, but Slow Cooker Steak with Gravy has remained at the top of my favorites list. Garlic-Herb Roasted Chicken & Potatoes, Carrots, & Onions Recipe. Meanwhile, combine potatoes, carrots, onion, and halved garlic cloves in a large bowl. Add remaining rosemary, sage, thyme, salt, pepper, and remaining oil; toss gently to coat. Potato rice or potato pulao recipe - Sharing an easy aloo pulao recipe, suitable for lunch box or a quick meal especially during the monsoon. 
 
 So that's going to wrap it up with this exceptional food brown rice with potato and carrot gravy recipe. Thanks so much for reading. I'm sure you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -73,7 +73,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Make ready 1.5 Tablespoons fresh lemon juice (about 1/2 a fresh lemon, squeezed)
 1. Take  For the topping:
 1. Get 2 ripe medium Roma tomatoes, diced
-1. Get 1 large Persian cucumber, seeded and diced (If you can&#39;t find Persian, a pickling cuke will work.)
+1. Get 1 large Persian cucumber, seeded and diced (If you can't find Persian, a pickling cuke will work.)
 1. Prepare 1/2 a small red onion, diced
 1. Take 1 cup corn kernels (Fresh would have been great today, but I wanted to use up a (15 oz.) can. If canned, drain well.)
 1. Prepare 2/3 teaspoon kosher salt
@@ -84,7 +84,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Make ready 2 Tablespoons olive oil
 
 
-It&#39;s the perfect simple and healthy dinner recipe. While salmon is roasting, assemble your salad. Upload all constituents but oil, toss, style and adjust seasoning if needed, then add oil and toss again. Related Wallpaper for Oven Roasted Salmon with Refreshing Summer season Salad… No related post! 
+It's the perfect simple and healthy dinner recipe. While salmon is roasting, assemble your salad. Upload all constituents but oil, toss, style and adjust seasoning if needed, then add oil and toss again. Related Wallpaper for Oven Roasted Salmon with Refreshing Summer season Salad… No related post! 
 
 <!--inarticleads2-->
 

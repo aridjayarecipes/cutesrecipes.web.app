@@ -23,7 +23,7 @@ recipeinstructions:
 - "Cream together sugar and butter."
 - "Beat in eggs, milk, and vanilla."
 - "Add in flour and baking powder, mix until combined and smooth."
-- "Stir in berries by hand. Frozen ones don&#39;t smoosh as much..."
+- "Stir in berries by hand. Frozen ones don't smoosh as much..."
 - "Bake about 1 hour 15 minutes. Let cool in pan."
 categories:
 - Recipe
@@ -67,7 +67,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 1. Get 2 c fresh frozen blueberries
 
 
-Make this delicious blueberry lemon sourdough recipe. It&#39;s a wonderful bread with fresh sweet blueberries and fragrant lemon zest#blueberries. See more ideas about blue berry muffins, muffin recipes, blueberry bread. This lemon blueberry bread is studded with juicy blueberries and topped with a simple lemon drizzle. 
+Make this delicious blueberry lemon sourdough recipe. It's a wonderful bread with fresh sweet blueberries and fragrant lemon zest#blueberries. See more ideas about blue berry muffins, muffin recipes, blueberry bread. This lemon blueberry bread is studded with juicy blueberries and topped with a simple lemon drizzle. 
 
 <!--inarticleads2-->
 
@@ -77,7 +77,7 @@ Make this delicious blueberry lemon sourdough recipe. It&#39;s a wonderful bread
 1. Cream together sugar and butter.
 1. Beat in eggs, milk, and vanilla.
 1. Add in flour and baking powder, mix until combined and smooth.
-1. Stir in berries by hand. Frozen ones don&#39;t smoosh as much...
+1. Stir in berries by hand. Frozen ones don't smoosh as much...
 1. Bake about 1 hour 15 minutes. Let cool in pan.
 
 

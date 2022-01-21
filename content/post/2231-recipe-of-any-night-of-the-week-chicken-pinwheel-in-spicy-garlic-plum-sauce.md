@@ -70,7 +70,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Get  SPICY GARLIC PLUM SAUCE
 1. Get 1 cup plum sauce
 1. Get 4 clove coarsely pound garlic
-1. Take 3 small bird&#39;s eye chili pepper or any pepper
+1. Take 3 small bird's eye chili pepper or any pepper
 1. Take 2 tsp sugar
 1. Get 3 tbsp oil
 1. Get 1/2 tsp cornstarch

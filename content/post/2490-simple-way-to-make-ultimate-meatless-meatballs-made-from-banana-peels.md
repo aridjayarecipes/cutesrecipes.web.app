@@ -32,13 +32,13 @@ recipeingredient:
 - " Parsley"
 - " Parmesan cheese"
 recipeinstructions:
-- "This time, I used peels of 3 yellow bananas. Greenish bananas are better for &#39;meatballs&#39;, as the riper the banana gets, the thinner and sweeter the peel becomes."
+- "This time, I used peels of 3 yellow bananas. Greenish bananas are better for 'meatballs', as the riper the banana gets, the thinner and sweeter the peel becomes."
 - "Carefully wash the banana peels under running water, and wipe off the water."
 - "Chop the banana peels, onion, and carrot, and put them into a mixing bowl. Add the oregano, nutmeg, flour, bread crumbs, egg (if you are vegan, use a flax egg instead), and some salt and pepper. Mix them all -- using hands makes your life a lot easier."
-- "Cover the mixture and let stand in the fridge for 30-45 minutes. If you skip this step, your meatballs will fall apart so don&#39;t forget to rest the mixture."
-- "Take out the mixture from the fridge, and form it into meatballs. I&#39;ve got 12 meatballs from the mixture this time."
-- "Put the olive oil and sliced garlic in a pan, and turn on the heat. Sauté the garlic until fragrant. Then add the tomato purée, red wine, sugar, soy sauce (it&#39;s a secret ingredient...), and salt and pepper, and stir the sauce on medium heat until it starts to simmer."
-- "Gently add the banana peel meatballs to the sauce. Make sure the meatballs won&#39;t stick together."
+- "Cover the mixture and let stand in the fridge for 30-45 minutes. If you skip this step, your meatballs will fall apart so don't forget to rest the mixture."
+- "Take out the mixture from the fridge, and form it into meatballs. I've got 12 meatballs from the mixture this time."
+- "Put the olive oil and sliced garlic in a pan, and turn on the heat. Sauté the garlic until fragrant. Then add the tomato purée, red wine, sugar, soy sauce (it's a secret ingredient...), and salt and pepper, and stir the sauce on medium heat until it starts to simmer."
+- "Gently add the banana peel meatballs to the sauce. Make sure the meatballs won't stick together."
 - "Simmer on medium-low heat for about 10 minutes, with the lid on. Turn the meatballs halfway through."
 - "Season to taste and garnish with parsley and parmesan. Serve hot!"
 categories:
@@ -74,7 +74,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 
 ##### The ingredients needed to make Meatless Meatballs made from Banana Peels 🍌:
 
-1. Take  Meatless &#39;Meat&#39; Mixture
+1. Take  Meatless 'Meat' Mixture
 1. Prepare 150 g Banana peels
 1. Take 90 g Onion
 1. Take 30 g Carrot
@@ -103,13 +103,13 @@ To get started with this recipe, we have to first prepare a few components. You 
 
 ##### Steps to make Meatless Meatballs made from Banana Peels 🍌:
 
-1. This time, I used peels of 3 yellow bananas. Greenish bananas are better for &#39;meatballs&#39;, as the riper the banana gets, the thinner and sweeter the peel becomes.
+1. This time, I used peels of 3 yellow bananas. Greenish bananas are better for 'meatballs', as the riper the banana gets, the thinner and sweeter the peel becomes.
 1. Carefully wash the banana peels under running water, and wipe off the water.
 1. Chop the banana peels, onion, and carrot, and put them into a mixing bowl. Add the oregano, nutmeg, flour, bread crumbs, egg (if you are vegan, use a flax egg instead), and some salt and pepper. Mix them all -- using hands makes your life a lot easier.
-1. Cover the mixture and let stand in the fridge for 30-45 minutes. If you skip this step, your meatballs will fall apart so don&#39;t forget to rest the mixture.
-1. Take out the mixture from the fridge, and form it into meatballs. I&#39;ve got 12 meatballs from the mixture this time.
-1. Put the olive oil and sliced garlic in a pan, and turn on the heat. Sauté the garlic until fragrant. Then add the tomato purée, red wine, sugar, soy sauce (it&#39;s a secret ingredient...), and salt and pepper, and stir the sauce on medium heat until it starts to simmer.
-1. Gently add the banana peel meatballs to the sauce. Make sure the meatballs won&#39;t stick together.
+1. Cover the mixture and let stand in the fridge for 30-45 minutes. If you skip this step, your meatballs will fall apart so don't forget to rest the mixture.
+1. Take out the mixture from the fridge, and form it into meatballs. I've got 12 meatballs from the mixture this time.
+1. Put the olive oil and sliced garlic in a pan, and turn on the heat. Sauté the garlic until fragrant. Then add the tomato purée, red wine, sugar, soy sauce (it's a secret ingredient...), and salt and pepper, and stir the sauce on medium heat until it starts to simmer.
+1. Gently add the banana peel meatballs to the sauce. Make sure the meatballs won't stick together.
 1. Simmer on medium-low heat for about 10 minutes, with the lid on. Turn the meatballs halfway through.
 1. Season to taste and garnish with parsley and parmesan. Serve hot!
 

@@ -51,7 +51,7 @@ recipecategory: Dessert
 
 Hello everybody, I hope you're having an amazing day today. Today, I will show you a way to prepare a distinctive dish, roasted sweet potato-pumpkin purée (for infants/toddlers). One of my favorites food recipes. This time, I'm gonna make it a bit tasty. This is gonna smell and look delicious.
 
-Roasting - Roasting sweet potatoes produces a delicious caramelised flavour, making the puree extra delicious. Sweet Potato Puree is a great first food for when you start weaning your baby. However, this delicious puree shouldn&#39;t be limited just to babies. Homemade roasted pumpkin puree is perfect for any pumpkin recipe.
+Roasting - Roasting sweet potatoes produces a delicious caramelised flavour, making the puree extra delicious. Sweet Potato Puree is a great first food for when you start weaning your baby. However, this delicious puree shouldn't be limited just to babies. Homemade roasted pumpkin puree is perfect for any pumpkin recipe.
 
 Roasted sweet potato-pumpkin purée (for infants/toddlers) is one of the most favored of current trending meals in the world. It is enjoyed by millions every day. It's easy, it's fast, it tastes yummy. Roasted sweet potato-pumpkin purée (for infants/toddlers) is something that I've loved my entire life. They're fine and they look wonderful.
 
@@ -71,7 +71,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Take 1 tbn oil for roasting
 
 
-An easy-to-follow recipe for how to roast pumpkin and make homemade pumpkin purée! Perfect for pies, soups, pastas, and more! I&#39;m so excited to share an updated version of my roasted pumpkin puree recipe! I&#39;ve even added a video Regular pumpkins have a significantly higher moisture content and are less sweet in flavor. 
+An easy-to-follow recipe for how to roast pumpkin and make homemade pumpkin purée! Perfect for pies, soups, pastas, and more! I'm so excited to share an updated version of my roasted pumpkin puree recipe! I've even added a video Regular pumpkins have a significantly higher moisture content and are less sweet in flavor. 
 
 <!--inarticleads2-->
 
@@ -90,6 +90,6 @@ An easy-to-follow recipe for how to roast pumpkin and make homemade pumpkin pur�
 1. Tip: check your infant/toddler’s allergic reactions to cinnamon and nutmeg before adding them. This purée tastes just as good with the addition of salt only!
 
 
-I&#39;m so excited to share an updated version of my roasted pumpkin puree recipe! I&#39;ve even added a video Regular pumpkins have a significantly higher moisture content and are less sweet in flavor. Sugar pumpkins and pie pumpkins have a more. Jump to the Easy Pumpkin Puree Recipe. The recipe requires only two ingredients and that&#39;s counting salt You want to use small baking pumpkins when making pumpkin puree. 
+I'm so excited to share an updated version of my roasted pumpkin puree recipe! I've even added a video Regular pumpkins have a significantly higher moisture content and are less sweet in flavor. Sugar pumpkins and pie pumpkins have a more. Jump to the Easy Pumpkin Puree Recipe. The recipe requires only two ingredients and that's counting salt You want to use small baking pumpkins when making pumpkin puree. 
 
 So that's going to wrap this up for this exceptional food roasted sweet potato-pumpkin purée (for infants/toddlers) recipe. Thank you very much for your time. I am sure that you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

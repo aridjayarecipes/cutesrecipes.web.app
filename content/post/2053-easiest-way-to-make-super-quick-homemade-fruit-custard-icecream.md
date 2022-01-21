@@ -27,7 +27,7 @@ recipeingredient:
 - "1/2 cup mango small chunks"
 - "6 tbs chocolate syrup"
 recipeinstructions:
-- "Boil 1 ltr milk and reduce it to 3/4.in 1/4cup of room temperature milk add vanilla custard powder making it lump free.and add to the dense hot milk.Keep on stirring so that no lumps are formed and the milk doesn&#39;t stick to bottom of pan.Add sugar and keep stirring for 4 to 5 min.Add chopped half of almond,kishmish and kajus and off the flame."
+- "Boil 1 ltr milk and reduce it to 3/4.in 1/4cup of room temperature milk add vanilla custard powder making it lump free.and add to the dense hot milk.Keep on stirring so that no lumps are formed and the milk doesn't stick to bottom of pan.Add sugar and keep stirring for 4 to 5 min.Add chopped half of almond,kishmish and kajus and off the flame."
 - "Allow it to cool and reach room temperature..Keep in fridge and let it chill.."
 - "To serve take the serving bowl.first lay the fruit cake pieces.then spread one layer of chilled custard. then add few apple,banana and pomegranate, mango pieces. Add little chocolate syrup on the fruits Then again give a cudtrad layer.now add vanilla icecream scoop on middle. Garnish with dry fruits, mango chunks,coloured and silver balls.I serve waffers and.Add chocolate syrup on top and let it freeze for 1/2 an hour."
 - "It tastes awesome when crunchy fruits bites come to your mouth with almonds and kajus.. serve ur guests with chilled custard icecream"
@@ -53,7 +53,7 @@ recipecategory: Lunch
 
 Hey everyone, it is John, welcome to my recipe page. Today, we're going to prepare a distinctive dish, fruit custard icecream. One of my favorites. This time, I am going to make it a bit unique. This will be really delicious.
 
-Preparing fruit custard is one of the most easiest recipe and one of the most delicious summer dessert. Here&#39;s trying out this yummy recipe. Fruit custard is a simple summer dessert made with mixed fruits, milk &amp; custard powder. Serve this chilled &amp; you will love it.
+Preparing fruit custard is one of the most easiest recipe and one of the most delicious summer dessert. Here's trying out this yummy recipe. Fruit custard is a simple summer dessert made with mixed fruits, milk & custard powder. Serve this chilled & you will love it.
 
 Fruit custard icecream is one of the most favored of recent trending foods on earth. It's simple, it is fast, it tastes delicious. It's appreciated by millions daily. Fruit custard icecream is something which I have loved my entire life. They are fine and they look wonderful.
 
@@ -88,7 +88,7 @@ Custard ranges from runny to thick or viscous. The process of preparing fruit cu
 
 ##### Steps to make Fruit custard icecream:
 
-1. Boil 1 ltr milk and reduce it to 3/4.in 1/4cup of room temperature milk add vanilla custard powder making it lump free.and add to the dense hot milk.Keep on stirring so that no lumps are formed and the milk doesn&#39;t stick to bottom of pan.Add sugar and keep stirring for 4 to 5 min.Add chopped half of almond,kishmish and kajus and off the flame.
+1. Boil 1 ltr milk and reduce it to 3/4.in 1/4cup of room temperature milk add vanilla custard powder making it lump free.and add to the dense hot milk.Keep on stirring so that no lumps are formed and the milk doesn't stick to bottom of pan.Add sugar and keep stirring for 4 to 5 min.Add chopped half of almond,kishmish and kajus and off the flame.
 1. Allow it to cool and reach room temperature..Keep in fridge and let it chill..
 1. To serve take the serving bowl.first lay the fruit cake pieces.then spread one layer of chilled custard. then add few apple,banana and pomegranate, mango pieces. Add little chocolate syrup on the fruits Then again give a cudtrad layer.now add vanilla icecream scoop on middle. Garnish with dry fruits, mango chunks,coloured and silver balls.I serve waffers and.Add chocolate syrup on top and let it freeze for 1/2 an hour.
 1. It tastes awesome when crunchy fruits bites come to your mouth with almonds and kajus.. serve ur guests with chilled custard icecream

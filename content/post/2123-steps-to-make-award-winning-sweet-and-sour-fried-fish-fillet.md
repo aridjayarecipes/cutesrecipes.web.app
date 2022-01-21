@@ -71,7 +71,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can h
 1. Prepare 1 soy sauce
 
 
-Time pass by so fast and it&#39;s already the middle of May, and just two more days before my Dad and my sister comes to visit me in. This Chinese sweet and sour fish recipe uses fish fillets to create a stunning presentation while keeping the cooking process as easy as possible. The fish is shallow-fried until super crispy and then drizzled with a rich and aromatic sauce that is loaded with colorful peppers. It&#39;s a perfect dish to serve. 
+Time pass by so fast and it's already the middle of May, and just two more days before my Dad and my sister comes to visit me in. This Chinese sweet and sour fish recipe uses fish fillets to create a stunning presentation while keeping the cooking process as easy as possible. The fish is shallow-fried until super crispy and then drizzled with a rich and aromatic sauce that is loaded with colorful peppers. It's a perfect dish to serve. 
 
 <!--inarticleads2-->
 
@@ -88,6 +88,6 @@ Time pass by so fast and it&#39;s already the middle of May, and just two more d
 1. Serve and eat with rice or crispy noodles
 
 
-The fish is shallow-fried until super crispy and then drizzled with a rich and aromatic sauce that is loaded with colorful peppers. It&#39;s a perfect dish to serve. Sweet and sour fish can be prepared using either fish fillet or whole fish. Grouper (also known as lapu-lapu in the Philippines) is the type of fish commonly used to make this dish. There is nothing fancy in this step. 
+The fish is shallow-fried until super crispy and then drizzled with a rich and aromatic sauce that is loaded with colorful peppers. It's a perfect dish to serve. Sweet and sour fish can be prepared using either fish fillet or whole fish. Grouper (also known as lapu-lapu in the Philippines) is the type of fish commonly used to make this dish. There is nothing fancy in this step. 
 
 So that's going to wrap it up with this exceptional food sweet and sour fried fish fillet recipe. Thank you very much for your time. I'm confident you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

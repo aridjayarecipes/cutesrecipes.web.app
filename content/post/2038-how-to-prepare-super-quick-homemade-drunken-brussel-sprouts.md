@@ -22,7 +22,7 @@ recipeinstructions:
 - "Heat a large saute pan with enough oil to cover the bottom."
 - "Add brussel sprouts and dried spices. Toss. Saute on medium low heat until nearly tender, but still tough."
 - "Add 2 tablespoons of butter and brown sugar. Toss. Saute briefly until butter is incorporated."
-- "Carefully add rum. Watch for flames. Don&#39;t freak out if you have a huge flame, it will cook out. This probably wont happen unless excess oil and/or alcohol partially contact burner flame."
+- "Carefully add rum. Watch for flames. Don't freak out if you have a huge flame, it will cook out. This probably wont happen unless excess oil and/or alcohol partially contact burner flame."
 - "Cook until alcohol is evaporated or until brussels are caramelized and fork tender, about 5-7 minutes."
 - "Toss with remaining butter if desired."
 - "Variations; Bacon, maple syrup, pecans, walnuts, sweet potatoes, mustard, bourbon, squash, shallots"
@@ -78,7 +78,7 @@ To begin with this recipe, we have to prepare a few components. You can have dru
 1. Heat a large saute pan with enough oil to cover the bottom.
 1. Add brussel sprouts and dried spices. Toss. Saute on medium low heat until nearly tender, but still tough.
 1. Add 2 tablespoons of butter and brown sugar. Toss. Saute briefly until butter is incorporated.
-1. Carefully add rum. Watch for flames. Don&#39;t freak out if you have a huge flame, it will cook out. This probably wont happen unless excess oil and/or alcohol partially contact burner flame.
+1. Carefully add rum. Watch for flames. Don't freak out if you have a huge flame, it will cook out. This probably wont happen unless excess oil and/or alcohol partially contact burner flame.
 1. Cook until alcohol is evaporated or until brussels are caramelized and fork tender, about 5-7 minutes.
 1. Toss with remaining butter if desired.
 1. Variations; Bacon, maple syrup, pecans, walnuts, sweet potatoes, mustard, bourbon, squash, shallots

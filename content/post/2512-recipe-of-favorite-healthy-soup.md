@@ -103,6 +103,6 @@ I hope you like all these vegetable soup recipes ♡. Healthy Vitamix soup recip
 1. Now our delicious healthy soup is ready
 
 
-Soups are quite simply, some of the easiest and nourishing meals possible. You can load them up with vegetables and warm yourself from the inside out. It goes without saying that they&#39;re perfect for the fall and winter months, but truly. The soup can be stored in the fridge or frozen at this stage. Transfer the blended soup to a clean pan. 
+Soups are quite simply, some of the easiest and nourishing meals possible. You can load them up with vegetables and warm yourself from the inside out. It goes without saying that they're perfect for the fall and winter months, but truly. The soup can be stored in the fridge or frozen at this stage. Transfer the blended soup to a clean pan. 
 
 So that's going to wrap this up for this exceptional food healthy soup 💪💪💪 recipe. Thank you very much for your time. I am confident you will make this at home. There's gonna be interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

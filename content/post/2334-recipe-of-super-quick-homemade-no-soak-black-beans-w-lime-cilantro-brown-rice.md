@@ -30,12 +30,12 @@ recipeinstructions:
 - "Put the diced bacon in a large pot and cook on high until youve rendered some fat and have some browning. 6-10 minutes"
 - "Add onion and garlic, cook for 2-3 minutes stirring the garlic around or until the garlic becomes fragrant then add beans"
 - "Fill the pot with water about 2 inches above the beans. Squeeze lemon halves then throw in the remains. Finally add cayenne, adobo, and a tbsp of cilantro. Cover and bring to a boil"
-- "When the pot boils lower heat to medium low, uncover and bring to a simmer. You&#39;re going to keep this for about 1.5-2 hours, or until the beans have formed a creamy deliciousness.if they start bursting you&#39;ve gone too far! Just kidding, you&#39;ll be fine remove from heat, you&#39;ll just have extra creamy black beans."
-- "While the beans are low maintenance, don&#39;t walk too far. Stir ocassionaly (every ten minutes or so) and if the water drops below the beans add about a half of a cup or until submerged again. After about an hr, if the oranges are getting in the way you can remove them. Enjoy the smell of those cooking beans and aromatics and try to hold off until dinner"
+- "When the pot boils lower heat to medium low, uncover and bring to a simmer. You're going to keep this for about 1.5-2 hours, or until the beans have formed a creamy deliciousness.if they start bursting you've gone too far! Just kidding, you'll be fine remove from heat, you'll just have extra creamy black beans."
+- "While the beans are low maintenance, don't walk too far. Stir ocassionaly (every ten minutes or so) and if the water drops below the beans add about a half of a cup or until submerged again. After about an hr, if the oranges are getting in the way you can remove them. Enjoy the smell of those cooking beans and aromatics and try to hold off until dinner"
 - "About an hour in you can start preparing the rice. Take out a sauce pan and put over medium high heat. Add 1 tbsp oil and let sit for 60 seconds then add onions and jalapenos. Sweat them for about two minutes or until the onions are transparent."
 - "Then add rice. Toast the rice stirring constantly for about 2 minutes or you smell a nice nutty aroma."
 - "Add broth, 2 tbsp cilantro, and lime juice. Bring to a boil, reduce heat to simmer and cover. Cook for 10 to 15 minutes, or until soft and fluffy. Add water as needed."
-- "The beans will reduce significantly. Continueto monitor and every now and then sample a couple of them to see if they&#39;re soft enough. When you&#39;re satified with them remove from the heat. If you&#39;re good you&#39;re rice is fluffed and waiting. Garnish with remaining cilantro.  Enjoy!"
+- "The beans will reduce significantly. Continueto monitor and every now and then sample a couple of them to see if they're soft enough. When you're satified with them remove from the heat. If you're good you're rice is fluffed and waiting. Garnish with remaining cilantro.  Enjoy!"
 categories:
 - Recipe
 tags:
@@ -96,12 +96,12 @@ To get started with this particular recipe, we have to first prepare a few ingre
 1. Put the diced bacon in a large pot and cook on high until youve rendered some fat and have some browning. 6-10 minutes
 1. Add onion and garlic, cook for 2-3 minutes stirring the garlic around or until the garlic becomes fragrant then add beans
 1. Fill the pot with water about 2 inches above the beans. Squeeze lemon halves then throw in the remains. Finally add cayenne, adobo, and a tbsp of cilantro. Cover and bring to a boil
-1. When the pot boils lower heat to medium low, uncover and bring to a simmer. You&#39;re going to keep this for about 1.5-2 hours, or until the beans have formed a creamy deliciousness.if they start bursting you&#39;ve gone too far! Just kidding, you&#39;ll be fine remove from heat, you&#39;ll just have extra creamy black beans.
-1. While the beans are low maintenance, don&#39;t walk too far. Stir ocassionaly (every ten minutes or so) and if the water drops below the beans add about a half of a cup or until submerged again. After about an hr, if the oranges are getting in the way you can remove them. Enjoy the smell of those cooking beans and aromatics and try to hold off until dinner
+1. When the pot boils lower heat to medium low, uncover and bring to a simmer. You're going to keep this for about 1.5-2 hours, or until the beans have formed a creamy deliciousness.if they start bursting you've gone too far! Just kidding, you'll be fine remove from heat, you'll just have extra creamy black beans.
+1. While the beans are low maintenance, don't walk too far. Stir ocassionaly (every ten minutes or so) and if the water drops below the beans add about a half of a cup or until submerged again. After about an hr, if the oranges are getting in the way you can remove them. Enjoy the smell of those cooking beans and aromatics and try to hold off until dinner
 1. About an hour in you can start preparing the rice. Take out a sauce pan and put over medium high heat. Add 1 tbsp oil and let sit for 60 seconds then add onions and jalapenos. Sweat them for about two minutes or until the onions are transparent.
 1. Then add rice. Toast the rice stirring constantly for about 2 minutes or you smell a nice nutty aroma.
 1. Add broth, 2 tbsp cilantro, and lime juice. Bring to a boil, reduce heat to simmer and cover. Cook for 10 to 15 minutes, or until soft and fluffy. Add water as needed.
-1. The beans will reduce significantly. Continueto monitor and every now and then sample a couple of them to see if they&#39;re soft enough. When you&#39;re satified with them remove from the heat. If you&#39;re good you&#39;re rice is fluffed and waiting. Garnish with remaining cilantro.  Enjoy!
+1. The beans will reduce significantly. Continueto monitor and every now and then sample a couple of them to see if they're soft enough. When you're satified with them remove from the heat. If you're good you're rice is fluffed and waiting. Garnish with remaining cilantro.  Enjoy!
 
 
 

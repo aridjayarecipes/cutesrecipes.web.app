@@ -23,7 +23,7 @@ recipeingredient:
 recipeinstructions:
 - "Preheat oven to 400 degrees. Place muffin liners in muffin tin."
 - "In a large mixing bowl, combine flour, sugar, baking powder and salt."
-- "Using a pastry blender, cut in butter until mixture resembles fine crumbs. If you don&#39;t have a pastry blender just use a fork."
+- "Using a pastry blender, cut in butter until mixture resembles fine crumbs. If you don't have a pastry blender just use a fork."
 - "In a small bowl, beat together egg, milk, lemon juice and vanilla extract."
 - "Add egg mix to the dry mix just until blended."
 - "Fold in blueberries."
@@ -82,7 +82,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 
 1. Preheat oven to 400 degrees. Place muffin liners in muffin tin.
 1. In a large mixing bowl, combine flour, sugar, baking powder and salt.
-1. Using a pastry blender, cut in butter until mixture resembles fine crumbs. If you don&#39;t have a pastry blender just use a fork.
+1. Using a pastry blender, cut in butter until mixture resembles fine crumbs. If you don't have a pastry blender just use a fork.
 1. In a small bowl, beat together egg, milk, lemon juice and vanilla extract.
 1. Add egg mix to the dry mix just until blended.
 1. Fold in blueberries.

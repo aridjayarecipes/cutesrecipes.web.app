@@ -51,7 +51,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 
 ##### The ingredients needed to make Banana caramel chia seed pudding!:
 
-1. Prepare 1.5 Tablespoons each of black &amp; white chia seeds
+1. Prepare 1.5 Tablespoons each of black & white chia seeds
 1. Prepare 6-8 Tablespoons Lactose free plain yoghurt
 1. Make ready 1 ripe Banana
 1. Make ready 3 Tablespoons Natvia caramel
@@ -68,6 +68,6 @@ In bowl or jar, stir together oat milk, chia seeds, and creamer. Chia seed puddi
 1. Enjoy! 😃
 
 
-It takes minutes to make and has enough protein and nutrients to be a quick This chia pudding could be put in reused baby food jars, small mason jars, or even squeeze pouches to be included for school lunches. Blueberry Chia Pudding with Figs, Hazelnuts and Maple Syrup. Just in case the title isn&#39;t alluring enough, this decadent chia seed pudding is made by soaking the chia seeds overnight in a mixture of coconut cream and a homemade blueberry puree. Mash the banana in a medium bowl. Mix the banana and the yogurt together until smooth. 
+It takes minutes to make and has enough protein and nutrients to be a quick This chia pudding could be put in reused baby food jars, small mason jars, or even squeeze pouches to be included for school lunches. Blueberry Chia Pudding with Figs, Hazelnuts and Maple Syrup. Just in case the title isn't alluring enough, this decadent chia seed pudding is made by soaking the chia seeds overnight in a mixture of coconut cream and a homemade blueberry puree. Mash the banana in a medium bowl. Mix the banana and the yogurt together until smooth. 
 
 So that's going to wrap it up for this special food banana caramel chia seed pudding! recipe. Thank you very much for reading. I'm confident that you can make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

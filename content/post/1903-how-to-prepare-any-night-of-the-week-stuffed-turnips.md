@@ -53,7 +53,7 @@ Hey everyone, I hope you're having an amazing day today. Today, I will show you 
 
 Stuffed turnips is one of the most well liked of recent trending foods in the world. It's enjoyed by millions daily. It's easy, it's fast, it tastes delicious. Stuffed turnips is something that I have loved my entire life. They are fine and they look wonderful.
 
-Cut the top off the turnips and scoop out the insides with a spoon. Cut a small slice off the bottom so that the turnips. If you&#39;re missing potatoes on your low-carb plan, these are a great substitute. Wash, peel, and core the turnips.
+Cut the top off the turnips and scoop out the insides with a spoon. Cut a small slice off the bottom so that the turnips. If you're missing potatoes on your low-carb plan, these are a great substitute. Wash, peel, and core the turnips.
 
 
 To begin with this recipe, we must prepare a few components. You can have stuffed turnips using 12 ingredients and 7 steps. Here is how you cook that.

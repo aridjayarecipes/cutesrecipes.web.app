@@ -1,6 +1,6 @@
 ---
-description: "Easiest Way to Prepare Any-night-of-the-week Carambola sweet &amp;amp; tangy lounji"
-title: "Easiest Way to Prepare Any-night-of-the-week Carambola sweet &amp;amp; tangy lounji"
+description: "Easiest Way to Prepare Any-night-of-the-week Carambola sweet &amp; tangy lounji"
+title: "Easiest Way to Prepare Any-night-of-the-week Carambola sweet &amp; tangy lounji"
 slug: 2067-easiest-way-to-prepare-any-night-of-the-week-carambola-sweet-and-amp-tangy-lounji
 date: 2022-01-16T08:00:18.548Z
 image: https://img-global.cpcdn.com/recipes/6316e9f2a1f785a0/680x482cq70/carambola-sweet-tangy-lounji-recipe-main-photo.jpg
@@ -48,20 +48,20 @@ recipecategory: Lunch
 ---
 
 
-![Carambola sweet &amp; tangy lounji](https://img-global.cpcdn.com/recipes/6316e9f2a1f785a0/680x482cq70/carambola-sweet-tangy-lounji-recipe-main-photo.jpg)
+![Carambola sweet & tangy lounji](https://img-global.cpcdn.com/recipes/6316e9f2a1f785a0/680x482cq70/carambola-sweet-tangy-lounji-recipe-main-photo.jpg)
 
-Hey everyone, hope you're having an amazing day today. Today, I'm gonna show you how to make a special dish, carambola sweet &amp; tangy lounji. It is one of my favorites food recipes. For mine, I am going to make it a little bit tasty. This is gonna smell and look delicious.
-
-
-
-Carambola sweet &amp; tangy lounji is one of the most popular of current trending foods in the world. It is simple, it's quick, it tastes yummy. It is enjoyed by millions every day. They're nice and they look wonderful. Carambola sweet &amp; tangy lounji is something which I have loved my whole life.
+Hey everyone, hope you're having an amazing day today. Today, I'm gonna show you how to make a special dish, carambola sweet & tangy lounji. It is one of my favorites food recipes. For mine, I am going to make it a little bit tasty. This is gonna smell and look delicious.
 
 
-To begin with this recipe, we have to prepare a few components. You can cook carambola sweet &amp; tangy lounji using 12 ingredients and 7 steps. Here is how you cook it.
+
+Carambola sweet & tangy lounji is one of the most popular of current trending foods in the world. It is simple, it's quick, it tastes yummy. It is enjoyed by millions every day. They're nice and they look wonderful. Carambola sweet & tangy lounji is something which I have loved my whole life.
+
+
+To begin with this recipe, we have to prepare a few components. You can cook carambola sweet & tangy lounji using 12 ingredients and 7 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Carambola sweet &amp; tangy lounji:
+##### The ingredients needed to make Carambola sweet & tangy lounji:
 
 1. Prepare 5 pieces carambola
 1. Get 1 tbsp jaggery
@@ -81,7 +81,7 @@ To begin with this recipe, we have to prepare a few components. You can cook car
 
 <!--inarticleads2-->
 
-##### Instructions to make Carambola sweet &amp; tangy lounji:
+##### Instructions to make Carambola sweet & tangy lounji:
 
 1. Wash and cut carambola and green chillies Remove the seeds of carambola
 1. Heat up the pan and add oil
@@ -94,4 +94,4 @@ To begin with this recipe, we have to prepare a few components. You can cook car
 
 
 
-So that is going to wrap it up with this special food carambola sweet &amp; tangy lounji recipe. Thanks so much for your time. I'm sure you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!
+So that is going to wrap it up with this special food carambola sweet & tangy lounji recipe. Thanks so much for your time. I'm sure you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

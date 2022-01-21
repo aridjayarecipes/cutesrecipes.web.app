@@ -63,7 +63,7 @@ Hello everybody, it's Jim, welcome to my recipe site. Today, I will show you a w
 
 Black beans(kaale chane) is one of the most popular of recent trending foods in the world. It is simple, it's fast, it tastes delicious. It's enjoyed by millions every day. Black beans(kaale chane) is something that I've loved my entire life. They're nice and they look wonderful.
 
-I&#39;m pretty sure that you will never find Cuban black beans in Cuba with kale in them. But in the interest of using up a large amount of kale we found ourselves with You can skip the kale if you prefer, but I like hiding vegetables in all kinds of things for some reason. Then you can feel nominally better about. I took half of the beans and set them aside for my non meat portion.
+I'm pretty sure that you will never find Cuban black beans in Cuba with kale in them. But in the interest of using up a large amount of kale we found ourselves with You can skip the kale if you prefer, but I like hiding vegetables in all kinds of things for some reason. Then you can feel nominally better about. I took half of the beans and set them aside for my non meat portion.
 
 
 To begin with this recipe, we have to prepare a few ingredients. You can have black beans(kaale chane) using 16 ingredients and 12 steps. Here is how you can achieve that.

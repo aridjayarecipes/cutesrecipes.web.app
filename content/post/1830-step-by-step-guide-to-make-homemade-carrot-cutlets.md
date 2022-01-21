@@ -44,7 +44,7 @@ recipecategory: Dessert
 
 Hey everyone, hope you are having an incredible day today. Today, I'm gonna show you how to make a distinctive dish, carrot cutlets. One of my favorites. This time, I am going to make it a bit tasty. This is gonna smell and look delicious.
 
-See recipes for Beetroot and carrot cutlets too. Carrot cutlets served with sour cream. Such a recipe for carrot cutlets in the oven will be just a wonderful solution for a children&#39;s dinner or breakfast. Tasty and healthy vegetable cutlets can be servedto the table as a main course, as a side dish and even for dessert, if you add a sweet sauce to it.
+See recipes for Beetroot and carrot cutlets too. Carrot cutlets served with sour cream. Such a recipe for carrot cutlets in the oven will be just a wonderful solution for a children's dinner or breakfast. Tasty and healthy vegetable cutlets can be servedto the table as a main course, as a side dish and even for dessert, if you add a sweet sauce to it.
 
 Carrot cutlets is one of the most well liked of current trending foods on earth. It's easy, it's fast, it tastes delicious. It is appreciated by millions every day. Carrot cutlets is something which I have loved my entire life. They're fine and they look fantastic.
 

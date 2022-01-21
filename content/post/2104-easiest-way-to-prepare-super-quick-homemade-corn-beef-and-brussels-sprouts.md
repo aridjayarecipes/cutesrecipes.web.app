@@ -67,7 +67,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 1. Take to taste Mustard
 
 
-Corned Beef and Brussels Spaghetti is a delicious way to turn your leftover corned beef into a whole new meal, so grab a fork and dig in! If you&#39;re not a brussels sprouts fan you can use other vegetables in this recipe, too. Patrick&#39;s Day dinner would be delicious! Come along with me as I make a quick brunch of Corned Beef, Potato, &amp; Brussels Sprouts Hash! 
+Corned Beef and Brussels Spaghetti is a delicious way to turn your leftover corned beef into a whole new meal, so grab a fork and dig in! If you're not a brussels sprouts fan you can use other vegetables in this recipe, too. Patrick's Day dinner would be delicious! Come along with me as I make a quick brunch of Corned Beef, Potato, & Brussels Sprouts Hash! 
 
 <!--inarticleads2-->
 
@@ -78,6 +78,6 @@ Corned Beef and Brussels Spaghetti is a delicious way to turn your leftover corn
 1. 
 
 
-Patrick&#39;s Day dinner would be delicious! Come along with me as I make a quick brunch of Corned Beef, Potato, &amp; Brussels Sprouts Hash! The Links Below are Amazon Affiliate Links:Stainless Steel. Since my parents are in town visiting this week I decided to celebrate St. Patrick&#39;s Day a little early by making corned beef and Brussels sprouts. 
+Patrick's Day dinner would be delicious! Come along with me as I make a quick brunch of Corned Beef, Potato, & Brussels Sprouts Hash! The Links Below are Amazon Affiliate Links:Stainless Steel. Since my parents are in town visiting this week I decided to celebrate St. Patrick's Day a little early by making corned beef and Brussels sprouts. 
 
 So that is going to wrap it up with this special food corn beef and brussels sprouts recipe. Thank you very much for your time. I'm sure that you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

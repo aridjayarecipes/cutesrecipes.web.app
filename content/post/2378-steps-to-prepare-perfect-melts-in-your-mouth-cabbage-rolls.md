@@ -40,11 +40,11 @@ recipeinstructions:
 - "Lay a cabbage leaf and place the meat on the cabbage leaf near the stem. Fold the leaf up over the meat. Fold each of the sides toward the middle. Roll the meat up the rest of the leaf. You should roll it a little tightly."
 - "If you have some smaller leaves, overlap the leaves. Repeat with remaining meat and cabbage leaves."
 - "Cut a carrot into 5cm / 2” sticks. Cut bacon into small pieces."
-- "Place each cabbage roll on a pan, seam-side down, without gaps. Fill the gaps with carrots and bacon. The pan should be jam-packed with cabbage rolls. (pan; diameter 26cm / 10&#39;&#39;)"
+- "Place each cabbage roll on a pan, seam-side down, without gaps. Fill the gaps with carrots and bacon. The pan should be jam-packed with cabbage rolls. (pan; diameter 26cm / 10'')"
 - "Put Bay leaf. Pour 1/3 of the prepared bouillon in it. (If you put all in, roll cabbages will float and it will fall apart, so put 1/3 at first addition.) Pour white wine."
 - "Bring to a boil over medium heat and reduce heat to low. Simmer it for about 60 minutes with a lid on."
 - "Add the remaining bouillon in 2 parts every about 15 mins. Sometimes skim off the scum. 1 hour later, put 2-3 pinches of salt in it while tasting. The salt brings out the flavor of the soup and power the taste."
-- "It&#39;s all done!"
+- "It's all done!"
 categories:
 - Recipe
 tags:
@@ -115,11 +115,11 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook me
 1. Lay a cabbage leaf and place the meat on the cabbage leaf near the stem. Fold the leaf up over the meat. Fold each of the sides toward the middle. Roll the meat up the rest of the leaf. You should roll it a little tightly.
 1. If you have some smaller leaves, overlap the leaves. Repeat with remaining meat and cabbage leaves.
 1. Cut a carrot into 5cm / 2” sticks. Cut bacon into small pieces.
-1. Place each cabbage roll on a pan, seam-side down, without gaps. Fill the gaps with carrots and bacon. The pan should be jam-packed with cabbage rolls. (pan; diameter 26cm / 10&#39;&#39;)
+1. Place each cabbage roll on a pan, seam-side down, without gaps. Fill the gaps with carrots and bacon. The pan should be jam-packed with cabbage rolls. (pan; diameter 26cm / 10'')
 1. Put Bay leaf. Pour 1/3 of the prepared bouillon in it. (If you put all in, roll cabbages will float and it will fall apart, so put 1/3 at first addition.) Pour white wine.
 1. Bring to a boil over medium heat and reduce heat to low. Simmer it for about 60 minutes with a lid on.
 1. Add the remaining bouillon in 2 parts every about 15 mins. Sometimes skim off the scum. 1 hour later, put 2-3 pinches of salt in it while tasting. The salt brings out the flavor of the soup and power the taste.
-1. It&#39;s all done!
+1. It's all done!
 
 
 

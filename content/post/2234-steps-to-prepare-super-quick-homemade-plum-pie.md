@@ -64,7 +64,7 @@ To get started with this recipe, we must prepare a few ingredients. You can cook
 1. Prepare 3 eggs
 
 
-Mix the cornflour with a little of Roll out two-thirds of the pastry on a floured surface. Use to line a pie dish, letting the pastry hang. This pie might just be one of my faves. It&#39;s so pretty, and the Triple Berry Plum Pie. 
+Mix the cornflour with a little of Roll out two-thirds of the pastry on a floured surface. Use to line a pie dish, letting the pastry hang. This pie might just be one of my faves. It's so pretty, and the Triple Berry Plum Pie. 
 
 <!--inarticleads2-->
 
@@ -79,6 +79,6 @@ Mix the cornflour with a little of Roll out two-thirds of the pastry on a floure
 1. Bake 40 minutes.
 
 
-This pie might just be one of my faves. It&#39;s so pretty, and the Triple Berry Plum Pie. What could be more appealing than raspberries, blackberries, blueberries, and. This gluten-free vegan plum pie will fill your kitchen with heavenly autumnal flavours. It is a perfect healthy oil-free and refined sugar free vegan treat for those chilly and rainy fall days. 
+This pie might just be one of my faves. It's so pretty, and the Triple Berry Plum Pie. What could be more appealing than raspberries, blackberries, blueberries, and. This gluten-free vegan plum pie will fill your kitchen with heavenly autumnal flavours. It is a perfect healthy oil-free and refined sugar free vegan treat for those chilly and rainy fall days. 
 
 So that is going to wrap this up with this exceptional food plum pie recipe. Thanks so much for reading. I am sure that you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

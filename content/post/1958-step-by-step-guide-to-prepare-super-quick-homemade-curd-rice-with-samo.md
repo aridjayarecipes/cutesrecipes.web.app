@@ -59,7 +59,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 
 ##### The ingredients needed to make Curd Rice with samo:
 
-1. Take 1/2 cup samo rice (washed and soaked for 10..12 minutes &amp; drained)
+1. Take 1/2 cup samo rice (washed and soaked for 10..12 minutes & drained)
 1. Prepare 1 cup Curd
 1. Prepare 1/4 cup Milk
 1. Make ready to taste Salt

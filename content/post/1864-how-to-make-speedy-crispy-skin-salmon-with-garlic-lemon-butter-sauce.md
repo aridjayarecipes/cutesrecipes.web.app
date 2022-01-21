@@ -19,10 +19,10 @@ recipeingredient:
 - " Fresh cracked black pepper"
 recipeinstructions:
 - "Heat non-stick skillet over medium-high heat and add oil to cover bottom"
-- "Sprinkle salt &amp; pepper on both sides of fish and place skinside down in pan"
+- "Sprinkle salt & pepper on both sides of fish and place skinside down in pan"
 - "Sprinkle half of the garlic powder on fish, reserve half for later"
 - "Add 8 Tbsp of butter, one at a time, to pan"
-- "When skin is golden brown &amp; crispy, flip fish over."
+- "When skin is golden brown & crispy, flip fish over."
 - "Add remainder of garlic powder and butter to pan and baste the fish using a spoon for a minute or 2."
 - "Add zest and juice from 1 lemon to pan, turn fish over and baste for a minute longer"
 - "Plate fish skin-side UP and Sprinkle salt and pepper lightly over crispy skin. Pour remaining pan juices directly onto the serving platter. Add remaining lemon cut into wedges"
@@ -75,10 +75,10 @@ To get started with this recipe, we have to first prepare a few components. You 
 ##### Instructions to make Crispy Skin Salmon with Garlic, Lemon Butter Sauce:
 
 1. Heat non-stick skillet over medium-high heat and add oil to cover bottom
-1. Sprinkle salt &amp; pepper on both sides of fish and place skinside down in pan
+1. Sprinkle salt & pepper on both sides of fish and place skinside down in pan
 1. Sprinkle half of the garlic powder on fish, reserve half for later
 1. Add 8 Tbsp of butter, one at a time, to pan
-1. When skin is golden brown &amp; crispy, flip fish over.
+1. When skin is golden brown & crispy, flip fish over.
 1. Add remainder of garlic powder and butter to pan and baste the fish using a spoon for a minute or 2.
 1. Add zest and juice from 1 lemon to pan, turn fish over and baste for a minute longer
 1. Plate fish skin-side UP and Sprinkle salt and pepper lightly over crispy skin. Pour remaining pan juices directly onto the serving platter. Add remaining lemon cut into wedges

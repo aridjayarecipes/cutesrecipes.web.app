@@ -18,7 +18,7 @@ recipeingredient:
 - " Water"
 recipeinstructions:
 - "Assalamualaikum,Take a pressure cooker boal the pumpkin,than grind the pumpkin paste,"
-- "Boal the water,pour the pumpkin paste,and sprinkle the kasoori,salt and cumin powder,let&#39;s make it for some time,"
+- "Boal the water,pour the pumpkin paste,and sprinkle the kasoori,salt and cumin powder,let's make it for some time,"
 - "Now,pour the serving bowl and serve this soup"
 categories:
 - Recipe
@@ -41,7 +41,7 @@ recipecategory: Lunch
 
 Hey everyone, it is John, welcome to my recipe page. Today, I will show you a way to prepare a distinctive dish, pumpkin soup. It is one of my favorites. For mine, I'm gonna make it a bit tasty. This is gonna smell and look delicious.
 
-This is a classic, easy pumpkin soup made with fresh pumpkin that is very fast to make. Thick, creamy and full of flavour, this is THE pumpkin soup recipe you will make now and forever! Pumpkin soup is a usually &#39;bound&#39; (thick) soup made from a purée of pumpkin. It is made by combining the meat of a blended pumpkin with broth or stock.
+This is a classic, easy pumpkin soup made with fresh pumpkin that is very fast to make. Thick, creamy and full of flavour, this is THE pumpkin soup recipe you will make now and forever! Pumpkin soup is a usually 'bound' (thick) soup made from a purée of pumpkin. It is made by combining the meat of a blended pumpkin with broth or stock.
 
 Pumpkin soup is one of the most favored of current trending foods on earth. It's simple, it's fast, it tastes yummy. It's enjoyed by millions every day. They're nice and they look fantastic. Pumpkin soup is something that I have loved my entire life.
 
@@ -67,7 +67,7 @@ EASIEST PUMPKIN SOUP RECIPE. طريقة إعداد شوربة القرع بطر�
 ##### Steps to make Pumpkin soup:
 
 1. Assalamualaikum,Take a pressure cooker boal the pumpkin,than grind the pumpkin paste,
-1. Boal the water,pour the pumpkin paste,and sprinkle the kasoori,salt and cumin powder,let&#39;s make it for some time,
+1. Boal the water,pour the pumpkin paste,and sprinkle the kasoori,salt and cumin powder,let's make it for some time,
 1. Now,pour the serving bowl and serve this soup
 
 

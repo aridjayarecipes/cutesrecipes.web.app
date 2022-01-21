@@ -1,6 +1,6 @@
 ---
-description: "How to Prepare Super Quick Homemade Lamb Steaks with Onion &amp;amp; Rosemary Sauce"
-title: "How to Prepare Super Quick Homemade Lamb Steaks with Onion &amp;amp; Rosemary Sauce"
+description: "How to Prepare Super Quick Homemade Lamb Steaks with Onion &amp; Rosemary Sauce"
+title: "How to Prepare Super Quick Homemade Lamb Steaks with Onion &amp; Rosemary Sauce"
 slug: 2610-how-to-prepare-super-quick-homemade-lamb-steaks-with-onion-and-amp-rosemary-sauce
 date: 2021-11-04T18:46:19.985Z
 image: https://img-global.cpcdn.com/recipes/ee6892f835eecc57/680x482cq70/lamb-steaks-with-onion-rosemary-sauce-recipe-main-photo.jpg
@@ -45,20 +45,20 @@ recipecategory: Lunch
 ---
 
 
-![Lamb Steaks with Onion &amp; Rosemary Sauce](https://img-global.cpcdn.com/recipes/ee6892f835eecc57/680x482cq70/lamb-steaks-with-onion-rosemary-sauce-recipe-main-photo.jpg)
+![Lamb Steaks with Onion & Rosemary Sauce](https://img-global.cpcdn.com/recipes/ee6892f835eecc57/680x482cq70/lamb-steaks-with-onion-rosemary-sauce-recipe-main-photo.jpg)
 
-Hello everybody, I hope you're having an amazing day today. Today, we're going to prepare a distinctive dish, lamb steaks with onion &amp; rosemary sauce. One of my favorites. For mine, I am going to make it a little bit unique. This is gonna smell and look delicious.
+Hello everybody, I hope you're having an amazing day today. Today, we're going to prepare a distinctive dish, lamb steaks with onion & rosemary sauce. One of my favorites. For mine, I am going to make it a little bit unique. This is gonna smell and look delicious.
 
-Lamb Steaks with Onion &amp; Rosemary Sauce is one of the most well liked of recent trending foods on earth. It is simple, it is fast, it tastes yummy. It is enjoyed by millions daily. They're nice and they look wonderful. Lamb Steaks with Onion &amp; Rosemary Sauce is something that I have loved my whole life.
-
-
+Lamb Steaks with Onion & Rosemary Sauce is one of the most well liked of recent trending foods on earth. It is simple, it is fast, it tastes yummy. It is enjoyed by millions daily. They're nice and they look wonderful. Lamb Steaks with Onion & Rosemary Sauce is something that I have loved my whole life.
 
 
-To begin with this particular recipe, we have to first prepare a few ingredients. You can have lamb steaks with onion &amp; rosemary sauce using 12 ingredients and 4 steps. Here is how you cook that.
+
+
+To begin with this particular recipe, we have to first prepare a few ingredients. You can have lamb steaks with onion & rosemary sauce using 12 ingredients and 4 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Lamb Steaks with Onion &amp; Rosemary Sauce:
+##### The ingredients needed to make Lamb Steaks with Onion & Rosemary Sauce:
 
 1. Get 750 g lamb steaks  (at room temperature) /  26½   oz .
 1. Prepare 100 g onion (chopped) /  3½   oz .
@@ -78,7 +78,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 
 <!--inarticleads2-->
 
-##### Instructions to make Lamb Steaks with Onion &amp; Rosemary Sauce:
+##### Instructions to make Lamb Steaks with Onion & Rosemary Sauce:
 
 1. Put the rosemary leaves in a pestle and mortar and gently work them to release their oil. If using fresh leaves then chop them small and if using dried grind a little more to reduce to a coarse powder.
 1. Spray the lamb steaks with Spray2Cook.and season with ground black pepper. Put a fry pan on high and when it is hot enough to make a short spray of Spray2Cook instantly bubble add the steaks. Fry off on each side for 3 minutes. This will leave the inside red. Check by cutting into the side of a steak with a pair of cooks scissors. If you prefer the steak more well done leave in the pan turning every minute.
@@ -88,4 +88,4 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 
 
 
-So that's going to wrap it up with this exceptional food lamb steaks with onion &amp; rosemary sauce recipe. Thank you very much for reading. I am confident you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!
+So that's going to wrap it up with this exceptional food lamb steaks with onion & rosemary sauce recipe. Thank you very much for reading. I am confident you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

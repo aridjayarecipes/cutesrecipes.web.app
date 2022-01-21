@@ -20,7 +20,7 @@ recipeinstructions:
 - "Clean Brussel sprouts and slice in half long ways. Place in foil cooking pan or Pyrex type pan."
 - "Add salt, pepper and onion powder to taste. Sprinkle chopped garlic throughout Brussel sprouts. Mix all these ingredients well."
 - "Now add in the  semi-cooked bacon to the mixture."
-- "Cook at 350°F for 45 minutes til Brussel sprouts are tender and you&#39;ll have a recipe even your kids will enjoy!"
+- "Cook at 350°F for 45 minutes til Brussel sprouts are tender and you'll have a recipe even your kids will enjoy!"
 categories:
 - Recipe
 tags:
@@ -56,7 +56,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 
 1. Take 2 lb Brussel Sprouts
 1. Take 1/2 packages Bacon
-1. Prepare 1 Salt, pepper &amp; onion powder to taste
+1. Prepare 1 Salt, pepper & onion powder to taste
 1. Make ready 1/3 cup Extra Virgin olive oil
 1. Get 1/2 clove garlic sliced long ways
 
@@ -71,7 +71,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Clean Brussel sprouts and slice in half long ways. Place in foil cooking pan or Pyrex type pan.
 1. Add salt, pepper and onion powder to taste. Sprinkle chopped garlic throughout Brussel sprouts. Mix all these ingredients well.
 1. Now add in the  semi-cooked bacon to the mixture.
-1. Cook at 350°F for 45 minutes til Brussel sprouts are tender and you&#39;ll have a recipe even your kids will enjoy!
+1. Cook at 350°F for 45 minutes til Brussel sprouts are tender and you'll have a recipe even your kids will enjoy!
 
 
 

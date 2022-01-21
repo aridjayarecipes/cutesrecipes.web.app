@@ -23,7 +23,7 @@ recipeingredient:
 - "1/2 head medium sized cabbage"
 recipeinstructions:
 - "Slice and chop the vegetables. Dice the potatoes. Chop the cabbage. I also used the celery leaves."
-- "Brown the beef with the seasonings. Don&#39;t drain."
+- "Brown the beef with the seasonings. Don't drain."
 - "Ad the vegetables and potatoes to the beef. Add the cabbage and beef broth simmer till potatoes, carrots, and cabbage is tender to your desired doneness. Serve I hope you enjoy!!!"
 categories:
 - Recipe
@@ -78,7 +78,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can c
 ##### Instructions to make Beef and Cabbage Batch 4:
 
 1. Slice and chop the vegetables. Dice the potatoes. Chop the cabbage. I also used the celery leaves.
-1. Brown the beef with the seasonings. Don&#39;t drain.
+1. Brown the beef with the seasonings. Don't drain.
 1. Ad the vegetables and potatoes to the beef. Add the cabbage and beef broth simmer till potatoes, carrots, and cabbage is tender to your desired doneness. Serve I hope you enjoy!!!
 
 

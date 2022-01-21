@@ -18,12 +18,12 @@ recipeingredient:
 - "2 Soup stock granules Consomm bouillon powder"
 - "1 Salt and pepper"
 recipeinstructions:
-- "Cut the fish sausages and cabbage in bite-sized pieces. The other ingredients aren&#39;t set in stone, so you can use whatever you have in your refrigerator."
+- "Cut the fish sausages and cabbage in bite-sized pieces. The other ingredients aren't set in stone, so you can use whatever you have in your refrigerator."
 - "Cut the onions. Heat oil in a pot and sauté the onions until browned. Once browned, add the fish sausages."
 - "Add the 700 ml of water and the cabbage. Add the soup stock granules as well and boil over medium heat!"
-- "Once the soup stock granules have dissolved, adjust the taste with salt and pepper and it&#39;s done."
-- "Fish sausages have lower calories and fat content than wiener sausages! They&#39;re full of protein, calcium, sodium, and nutrients."
-- "You can add mushrooms, carrots, and green peppers to taste! It&#39;s flavored with soup stock, so you can make endless varieties."
+- "Once the soup stock granules have dissolved, adjust the taste with salt and pepper and it's done."
+- "Fish sausages have lower calories and fat content than wiener sausages! They're full of protein, calcium, sodium, and nutrients."
+- "You can add mushrooms, carrots, and green peppers to taste! It's flavored with soup stock, so you can make endless varieties."
 categories:
 - Recipe
 tags:
@@ -72,12 +72,12 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 ##### Instructions to make For Diets! Easy Soup:
 
-1. Cut the fish sausages and cabbage in bite-sized pieces. The other ingredients aren&#39;t set in stone, so you can use whatever you have in your refrigerator.
+1. Cut the fish sausages and cabbage in bite-sized pieces. The other ingredients aren't set in stone, so you can use whatever you have in your refrigerator.
 1. Cut the onions. Heat oil in a pot and sauté the onions until browned. Once browned, add the fish sausages.
 1. Add the 700 ml of water and the cabbage. Add the soup stock granules as well and boil over medium heat!
-1. Once the soup stock granules have dissolved, adjust the taste with salt and pepper and it&#39;s done.
-1. Fish sausages have lower calories and fat content than wiener sausages! They&#39;re full of protein, calcium, sodium, and nutrients.
-1. You can add mushrooms, carrots, and green peppers to taste! It&#39;s flavored with soup stock, so you can make endless varieties.
+1. Once the soup stock granules have dissolved, adjust the taste with salt and pepper and it's done.
+1. Fish sausages have lower calories and fat content than wiener sausages! They're full of protein, calcium, sodium, and nutrients.
+1. You can add mushrooms, carrots, and green peppers to taste! It's flavored with soup stock, so you can make endless varieties.
 
 
 

@@ -79,7 +79,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can c
 1. Make ready Half cup pomegranate rubies
 
 
-If you haven&#39;t yet been introduced to this snack, please allow me to do the honors. Here is our step-by-step recipe for roasting chickpeas in the oven. Peanut butter in a potato salad? I was sceptical at first too. 
+If you haven't yet been introduced to this snack, please allow me to do the honors. Here is our step-by-step recipe for roasting chickpeas in the oven. Peanut butter in a potato salad? I was sceptical at first too. 
 
 <!--inarticleads2-->
 
@@ -92,6 +92,6 @@ If you haven&#39;t yet been introduced to this snack, please allow me to do the 
 1. Finish off with a sprinkle of pomegranate rubies.
 
 
-Peanut butter in a potato salad? I was sceptical at first too. I gingerly tried my friend Coenie&#39;s version, which featured a dressing made Serve this salad alongside fish cooked on the coals or chicken for a perfect summer meal. Think you&#39;ve got the perfect South African BRAAI down pat? Continue reading to discover top BRAAI tips and advice for a delicious summertime spread. 
+Peanut butter in a potato salad? I was sceptical at first too. I gingerly tried my friend Coenie's version, which featured a dressing made Serve this salad alongside fish cooked on the coals or chicken for a perfect summer meal. Think you've got the perfect South African BRAAI down pat? Continue reading to discover top BRAAI tips and advice for a delicious summertime spread. 
 
 So that is going to wrap it up with this special food chick pea salad (channa chaat) perfect braai side #braaifordad recipe. Thanks so much for your time. I'm sure that you will make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

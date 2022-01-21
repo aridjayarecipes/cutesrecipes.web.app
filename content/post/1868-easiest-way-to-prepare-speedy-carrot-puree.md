@@ -55,7 +55,7 @@ To begin with this recipe, we have to prepare a few components. You can cook car
 1. Get 1 blender / magic bullet
 
 
-My wife loves to prepare recipes from the Wall Street Journal&#39;s "Slow Cooking Fast". Last week we enjoyed a must try salmon with quick-pickled vegetables and. Carrot puree - general principles of cooking. Carrots are not only a tasty sweet vegetable, but also a product that is extremely beneficial for the whole body due to its high content of carotene. 
+My wife loves to prepare recipes from the Wall Street Journal's "Slow Cooking Fast". Last week we enjoyed a must try salmon with quick-pickled vegetables and. Carrot puree - general principles of cooking. Carrots are not only a tasty sweet vegetable, but also a product that is extremely beneficial for the whole body due to its high content of carotene. 
 
 <!--inarticleads2-->
 

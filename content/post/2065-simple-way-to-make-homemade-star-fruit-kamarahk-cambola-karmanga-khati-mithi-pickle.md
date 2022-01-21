@@ -31,7 +31,7 @@ recipeinstructions:
 - "Heat the oil in the kadhai, till smoke come. Transfer to a plate."
 - "Take 2 tsp heated mustard oil and jaggery. Allow to melt jaggery. Then add 1 tsp oil and hing powder."
 - "Mix the sun dried star fruit pieces and ground masala powder. Mix well. Add rest oil and again mix well."
-- "Keep in a clean and airtight container the prepared pickle. Ensure to keep under sun for 3 days. Yummy Star fruit is pickle is ready to enjoy. Thanks  *** I didn&#39;t need extra salt to add.  ****If you need to add extra salt, it&#39;s better to fry the salt with masala seeds as salt discharge water. It may affect the pickle."
+- "Keep in a clean and airtight container the prepared pickle. Ensure to keep under sun for 3 days. Yummy Star fruit is pickle is ready to enjoy. Thanks  *** I didn't need extra salt to add.  ****If you need to add extra salt, it's better to fry the salt with masala seeds as salt discharge water. It may affect the pickle."
 categories:
 - Recipe
 tags:
@@ -93,7 +93,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 1. Heat the oil in the kadhai, till smoke come. Transfer to a plate.
 1. Take 2 tsp heated mustard oil and jaggery. Allow to melt jaggery. Then add 1 tsp oil and hing powder.
 1. Mix the sun dried star fruit pieces and ground masala powder. Mix well. Add rest oil and again mix well.
-1. Keep in a clean and airtight container the prepared pickle. Ensure to keep under sun for 3 days. Yummy Star fruit is pickle is ready to enjoy. - Thanks -  - *** I didn&#39;t need extra salt to add. -  - ****If you need to add extra salt, it&#39;s better to fry the salt with masala seeds as salt discharge water. It may affect the pickle.
+1. Keep in a clean and airtight container the prepared pickle. Ensure to keep under sun for 3 days. Yummy Star fruit is pickle is ready to enjoy. - Thanks -  - *** I didn't need extra salt to add. -  - ****If you need to add extra salt, it's better to fry the salt with masala seeds as salt discharge water. It may affect the pickle.
 
 
 

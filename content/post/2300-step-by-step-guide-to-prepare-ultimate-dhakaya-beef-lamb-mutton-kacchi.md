@@ -62,7 +62,7 @@ recipeinstructions:
 - "Drain water from meat and dry the meat thoroughly so that there no trace of water. Use a towel or paper towel to dry the meat. This is an important step because any access water in meat will not turn the Kacchi to come out good."
 - "Marinade the meat. Put all ingredients mentioned in the “For meat marination” until sour yoghurt. Then mix the ingredients well with the meat. Then put a hot coal in a bowl, put 1 tbsp of ghee on the coal, put the bowl in the pot. Cover the pot and let the meat infuse with smoke for 15 mins. Add the rest of the ingredients and mix well. While the mixing is going on prepare the dough."
 - "While the meat is getting infused with ghee smoke, start cooking the rice with the all the spices and salt. Rice should be half cooked."
-- "Drain the rice and add one thin layer on top of the marinated meat. Add saffron water. Add another layer of rice. Add chopped almonds and raisins. Add the last layer and add ghee milk mix &amp; saffron water."
+- "Drain the rice and add one thin layer on top of the marinated meat. Add saffron water. Add another layer of rice. Add chopped almonds and raisins. Add the last layer and add ghee milk mix & saffron water."
 - "Put the dough around the edge of the pot. Cover the pot and makes sure it shut tight. Put the pot on top of a skillet / a heavy bottom frypan. Cook it until the dough turns hard."
 categories:
 - Recipe
@@ -156,7 +156,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Drain water from meat and dry the meat thoroughly so that there no trace of water. Use a towel or paper towel to dry the meat. This is an important step because any access water in meat will not turn the Kacchi to come out good.
 1. Marinade the meat. Put all ingredients mentioned in the “For meat marination” until sour yoghurt. Then mix the ingredients well with the meat. Then put a hot coal in a bowl, put 1 tbsp of ghee on the coal, put the bowl in the pot. Cover the pot and let the meat infuse with smoke for 15 mins. Add the rest of the ingredients and mix well. While the mixing is going on prepare the dough.
 1. While the meat is getting infused with ghee smoke, start cooking the rice with the all the spices and salt. Rice should be half cooked.
-1. Drain the rice and add one thin layer on top of the marinated meat. Add saffron water. Add another layer of rice. Add chopped almonds and raisins. Add the last layer and add ghee milk mix &amp; saffron water.
+1. Drain the rice and add one thin layer on top of the marinated meat. Add saffron water. Add another layer of rice. Add chopped almonds and raisins. Add the last layer and add ghee milk mix & saffron water.
 1. Put the dough around the edge of the pot. Cover the pot and makes sure it shut tight. Put the pot on top of a skillet / a heavy bottom frypan. Cook it until the dough turns hard.
 
 

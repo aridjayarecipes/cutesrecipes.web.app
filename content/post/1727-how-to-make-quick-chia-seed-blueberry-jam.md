@@ -17,7 +17,7 @@ recipeingredient:
 - "1 tsp lemon juice"
 recipeinstructions:
 - "Combine berries, water, and sweetener in a pan."
-- "Simmer until the berries begin to break down. It&#39;ll take longer than you think it should, but it&#39;ll get there."
+- "Simmer until the berries begin to break down. It'll take longer than you think it should, but it'll get there."
 - "Stir in chia seeds and lemon juice."
 - "Remove from heat and let cool before putting it into your container of choice. Store in the fridge!"
 categories:
@@ -67,7 +67,7 @@ To begin with this recipe, we must first prepare a few components. You can have 
 ##### Steps to make Chia Seed Blueberry Jam:
 
 1. Combine berries, water, and sweetener in a pan.
-1. Simmer until the berries begin to break down. It&#39;ll take longer than you think it should, but it&#39;ll get there.
+1. Simmer until the berries begin to break down. It'll take longer than you think it should, but it'll get there.
 1. Stir in chia seeds and lemon juice.
 1. Remove from heat and let cool before putting it into your container of choice. Store in the fridge!
 

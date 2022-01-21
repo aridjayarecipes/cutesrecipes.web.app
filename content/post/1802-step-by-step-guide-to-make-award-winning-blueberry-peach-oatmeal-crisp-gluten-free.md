@@ -59,7 +59,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 ##### The ingredients needed to make Blueberry Peach Oatmeal Crisp Gluten Free:
 
 1. Get 1/2 cup Gluten Free Bobs Red Mill Rolled Oats
-1. Prepare 1/2 cup Pamela&#39;s Gluten Free Baking Mix
+1. Prepare 1/2 cup Pamela's Gluten Free Baking Mix
 1. Get 1 teaspoon Rumford Aluminum Free Baking Powder
 1. Get 1/2 cup Real maple syrup
 1. Get 1/2 teaspoon Organic Cinnamon

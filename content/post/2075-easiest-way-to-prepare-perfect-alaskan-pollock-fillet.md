@@ -21,7 +21,7 @@ recipeingredient:
 recipeinstructions:
 - "spray coat pan"
 - "bake fish for 20 min"
-- "preheat oven 300°F, rub paprika, salt &amp; pepper all over fish"
+- "preheat oven 300°F, rub paprika, salt & pepper all over fish"
 - "when done cut butter to lay on to of each pc of fish to melt, squeeze Lemmon so juice drips over evenly."
 - "while fish cools, put mixed greens on plate drizzle dressing over salad (not to much or u will take away from taste of fish) put 1 slice of fish on top and enjoy!!"
 categories:
@@ -59,8 +59,8 @@ To begin with this recipe, we have to prepare a few components. You can have ala
 
 1. Make ready  Alaskan Pollock Fish Fillets
 1. Take 1 dash paprika
-1. Prepare 1 dash salt &amp; pepper
-1. Get 1/4 stick sweet &amp; salted butter
+1. Prepare 1 dash salt & pepper
+1. Get 1/4 stick sweet & salted butter
 1. Prepare 1 small lemmon
 1. Prepare  Baby Greens Salad
 1. Prepare 1 packages mixed greens
@@ -75,7 +75,7 @@ Alaska Pollock is a mild-flavored white fish with a delicate and flaky texture. 
 
 1. spray coat pan
 1. bake fish for 20 min
-1. preheat oven 300°F, rub paprika, salt &amp; pepper all over fish
+1. preheat oven 300°F, rub paprika, salt & pepper all over fish
 1. when done cut butter to lay on to of each pc of fish to melt, squeeze Lemmon so juice drips over evenly.
 1. while fish cools, put mixed greens on plate drizzle dressing over salad (not to much or u will take away from taste of fish) put 1 slice of fish on top and enjoy!!
 

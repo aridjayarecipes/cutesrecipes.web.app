@@ -59,7 +59,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Prepare 2 corn - cut into 5 cm
 1. Prepare 1 dash carrot - cut to 1 cm
 1. Get 3 shallot - cut thinly
-1. Get 1 finger root or lemon grass if u don&#39;t have one
+1. Get 1 finger root or lemon grass if u don't have one
 1. Prepare 1 1/2 tsp salt
 1. Get 2 liter water
 

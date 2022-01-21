@@ -32,9 +32,9 @@ recipeingredient:
 - "1/2 teaspoon vanilla extract"
 - "1/2 teaspoon salt or to taste"
 recipeinstructions:
-- "Preheat oven to 350F.To a large bowl, add the eggs, pumpkin, sugars, oil, pumpkin pie spice, vanilla, cinnamon, cloves, and whisk to combine.Add the carrots,the flour, baking powder, baking soda, salt, and stir until just combined, don&#39;t over mix."
+- "Preheat oven to 350F.To a large bowl, add the eggs, pumpkin, sugars, oil, pumpkin pie spice, vanilla, cinnamon, cloves, and whisk to combine.Add the carrots,the flour, baking powder, baking soda, salt, and stir until just combined, don't over mix."
 - "Optionally add the raisins stir to combine. Turn batter out into prepared pan, smoothing the top lightly with a spatula. Bake for about 45 minutes or until center is set and a toothpick inserted in the center comes out clean.Lat the cake cool completely"
-- "Frosting - To a large bowl add the cream cheese, butter, and beat with an electric mixer until fluffy, about 2 minutes. Add the confectioners&#39; sugar, vanilla, salt, and beat until smooth and incorporated, about 2 minutes."
+- "Frosting - To a large bowl add the cream cheese, butter, and beat with an electric mixer until fluffy, about 2 minutes. Add the confectioners' sugar, vanilla, salt, and beat until smooth and incorporated, about 2 minutes."
 - "Turn frosting out onto cake and spread into a smooth, even, flat layer using a spatula.keep in the fridge for about 1-2 hours."
 categories:
 - Recipe
@@ -87,7 +87,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 1. Prepare  For Frosting:
 1. Get 6 ounces cream cheese, softened
 1. Prepare half stick unsalted butter, softened
-1. Take 1 confectioners&#39; sugar
+1. Take 1 confectioners' sugar
 1. Take 1/2 teaspoon vanilla extract
 1. Prepare 1/2 teaspoon salt, or to taste
 
@@ -98,9 +98,9 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 
 ##### Instructions to make Pumpkin Carrot Cake:
 
-1. Preheat oven to 350F.To a large bowl, add the eggs, pumpkin, sugars, oil, pumpkin pie spice, vanilla, cinnamon, cloves, and whisk to combine.Add the carrots,the flour, baking powder, baking soda, salt, and stir until just combined, don&#39;t over mix.
+1. Preheat oven to 350F.To a large bowl, add the eggs, pumpkin, sugars, oil, pumpkin pie spice, vanilla, cinnamon, cloves, and whisk to combine.Add the carrots,the flour, baking powder, baking soda, salt, and stir until just combined, don't over mix.
 1. Optionally add the raisins stir to combine. Turn batter out into prepared pan, smoothing the top lightly with a spatula. Bake for about 45 minutes or until center is set and a toothpick inserted in the center comes out clean.Lat the cake cool completely
-1. Frosting - To a large bowl add the cream cheese, butter, and beat with an electric mixer until fluffy, about 2 minutes. Add the confectioners&#39; sugar, vanilla, salt, and beat until smooth and incorporated, about 2 minutes.
+1. Frosting - To a large bowl add the cream cheese, butter, and beat with an electric mixer until fluffy, about 2 minutes. Add the confectioners' sugar, vanilla, salt, and beat until smooth and incorporated, about 2 minutes.
 1. Turn frosting out onto cake and spread into a smooth, even, flat layer using a spatula.keep in the fridge for about 1-2 hours.
 
 

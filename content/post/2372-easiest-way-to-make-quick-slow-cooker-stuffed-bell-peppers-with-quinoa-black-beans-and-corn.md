@@ -71,7 +71,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Take 1 tbsp minced garlic
 1. Prepare 1 cup cooked quinoa
 1. Get 15 oz can black beans, rinsed
-1. Get 1 roma tomato, seeded &amp; diced
+1. Get 1 roma tomato, seeded & diced
 1. Get 1 cup corn (frozen or freshly cut from the cob)
 1. Prepare 4 oz can diced green chiles (with liquid)
 1. Take 2 tbsp minced dry or fresh cilantro

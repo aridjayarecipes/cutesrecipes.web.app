@@ -20,7 +20,7 @@ recipeingredient:
 - "1 Walnuts pine nuts or other nuts"
 recipeinstructions:
 - "Rinse the cracked wheat with water, then soak in the water for a bit."
-- "Chop up the onions in a food processor until it&#39;s almost like a paste."
+- "Chop up the onions in a food processor until it's almost like a paste."
 - "Put the ground meat the onions from Step 2, strained cracked wheat from Step 1, and the spices in a bowl and mix well as though making hamburger steak."
 - "Put a bit of the mixture from Step 3 on a plate and cook in the microwave to taste-test. Adjust the spices, salt, and pepper as needed."
 - "Shape the filling into small patties with wet hands. At this time, my mother-in-law usually stuffs the meat with nuts (such as walnuts)."
@@ -75,7 +75,7 @@ To get started with this particular recipe, we must first prepare a few componen
 ##### Instructions to make Kibbe -- Lebanese Hamburger Steaks:
 
 1. Rinse the cracked wheat with water, then soak in the water for a bit.
-1. Chop up the onions in a food processor until it&#39;s almost like a paste.
+1. Chop up the onions in a food processor until it's almost like a paste.
 1. Put the ground meat the onions from Step 2, strained cracked wheat from Step 1, and the spices in a bowl and mix well as though making hamburger steak.
 1. Put a bit of the mixture from Step 3 on a plate and cook in the microwave to taste-test. Adjust the spices, salt, and pepper as needed.
 1. Shape the filling into small patties with wet hands. At this time, my mother-in-law usually stuffs the meat with nuts (such as walnuts).

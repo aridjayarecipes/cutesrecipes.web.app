@@ -69,7 +69,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Get 24 cabbage leaves, steamed or boiled until rollable (2 cabbages)
 1. Make ready 2 lb 85% lean ground beef
 1. Prepare 1 lb bulk Italian hot sausage
-1. Prepare 1 cup uncooked white rice (Uncle Ben&#39;s)
+1. Prepare 1 cup uncooked white rice (Uncle Ben's)
 1. Make ready 1 medium-large yellow onion
 1. Prepare 4 large eggs
 1. Take 4 Tbs ketchup
@@ -80,7 +80,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Get 1 Tbs dried thyme
 1. Prepare 1 1/2 Tbs dried oregano
 1. Prepare 2 tsp garlic powder
-1. Take to taste salt &amp; pepper
+1. Take to taste salt & pepper
 1. Get 1 (28 oz) can crushed tomato (add 1/2 can water)
 1. Make ready 2 (14 oz) cans fire-roasted diced tomatoes
 

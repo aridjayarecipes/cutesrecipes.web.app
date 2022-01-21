@@ -68,7 +68,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Make ready 2 tbsp. of sour cream (can be replaced with Crème Fraiche)
 
 
-Tomato soup is one of the first things I crave once the cool weather starts sinking into my bones Luckily, there&#39;s a solution that makes a better fall and winter tomato soup possible: roasting the. Roasting the tomatoes adds an intensely deep flavor and buttery texture that defines comfort. Creamy Roasted Tomato Soup. this link is to an external site that may or may not meet accessibility. Uncover the soup and remove the thyme sprigs. 
+Tomato soup is one of the first things I crave once the cool weather starts sinking into my bones Luckily, there's a solution that makes a better fall and winter tomato soup possible: roasting the. Roasting the tomatoes adds an intensely deep flavor and buttery texture that defines comfort. Creamy Roasted Tomato Soup. this link is to an external site that may or may not meet accessibility. Uncover the soup and remove the thyme sprigs. 
 
 <!--inarticleads2-->
 

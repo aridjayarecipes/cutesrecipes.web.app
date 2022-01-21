@@ -32,21 +32,21 @@ recipeingredient:
 - "0.5 cup yogurt dahi"
 recipeinstructions:
 - "For fried katori"
-- "Let&#39;s begin with the dough. If baking the katoris -use milk or curd to knead the dough, if frying, use water to knead the dough."
+- "Let's begin with the dough. If baking the katoris -use milk or curd to knead the dough, if frying, use water to knead the dough."
 - "A Wors OF ADVICE - While frying a katori PLEASE BE VERY VERY CAREFUL - oil is very hot and may splash. Roll the dough as shown above. Grease a katori, roll the dough in a circle, place katori in the center and wrap the dough around it."
 - "In the heated oil drop the katori wrapped with dough and fry it."
-- "Oil will start filling up in the katori, BE CAREFUL. Using a tong carefully remove the dough from the katori and after draining all the oil pull the katori out. Place the katori on a greased paper towel - DO NOT TOUCH, it&#39;s still hot. Keep frying the dough shaped katori in oil."
+- "Oil will start filling up in the katori, BE CAREFUL. Using a tong carefully remove the dough from the katori and after draining all the oil pull the katori out. Place the katori on a greased paper towel - DO NOT TOUCH, it's still hot. Keep frying the dough shaped katori in oil."
 - "Once brown remove from oil and drain it on a paper towel."
 - "Assembling katoris"
 - "Mashed boiled potatoes and add green chilli, green coriander, black salt, chat masala and mix well."
-- "Assemble all the ingredients and let&#39;s begin filling up these goodies.."
+- "Assemble all the ingredients and let's begin filling up these goodies.."
 - "Place katori on a clean plate..."
 - "Pour 1 tablespoon green chutney at the base of the katori..."
 - "Add aalu masala,green boiled mung,chana."
 - "Add onion, tomato, yogurt. Add 1 teaspoon green chutney, sweet and sour chutney, pepper and chat masala. Since we have added salt earlier so you can pass on the salt and chaat masala and chutneys will take care of the salt content."
 - "Add sweet corn, pomegranate seeds,, sev and green coriander for garnish."
-- "Now let&#39;s assemble the fried katori...."
-- "Let&#39;s enjoy with me"
+- "Now let's assemble the fried katori...."
+- "Let's enjoy with me"
 categories:
 - Recipe
 tags:
@@ -108,21 +108,21 @@ Warning: gaje, ooc, shonen ai, yaoi. Get notified when Kuroko no Basket Chat! is
 ##### Instructions to make Basket chat:
 
 1. For fried katori
-1. Let&#39;s begin with the dough. If baking the katoris -use milk or curd to knead the dough, if frying, use water to knead the dough.
+1. Let's begin with the dough. If baking the katoris -use milk or curd to knead the dough, if frying, use water to knead the dough.
 1. A Wors OF ADVICE - While frying a katori PLEASE BE VERY VERY CAREFUL - oil is very hot and may splash. Roll the dough as shown above. Grease a katori, roll the dough in a circle, place katori in the center and wrap the dough around it.
 1. In the heated oil drop the katori wrapped with dough and fry it.
-1. Oil will start filling up in the katori, BE CAREFUL. Using a tong carefully remove the dough from the katori and after draining all the oil pull the katori out. Place the katori on a greased paper towel - DO NOT TOUCH, it&#39;s still hot. Keep frying the dough shaped katori in oil.
+1. Oil will start filling up in the katori, BE CAREFUL. Using a tong carefully remove the dough from the katori and after draining all the oil pull the katori out. Place the katori on a greased paper towel - DO NOT TOUCH, it's still hot. Keep frying the dough shaped katori in oil.
 1. Once brown remove from oil and drain it on a paper towel.
 1. Assembling katoris
 1. Mashed boiled potatoes and add green chilli, green coriander, black salt, chat masala and mix well.
-1. Assemble all the ingredients and let&#39;s begin filling up these goodies..
+1. Assemble all the ingredients and let's begin filling up these goodies..
 1. Place katori on a clean plate...
 1. Pour 1 tablespoon green chutney at the base of the katori...
 1. Add aalu masala,green boiled mung,chana.
 1. Add onion, tomato, yogurt. Add 1 teaspoon green chutney, sweet and sour chutney, pepper and chat masala. Since we have added salt earlier so you can pass on the salt and chaat masala and chutneys will take care of the salt content.
 1. Add sweet corn, pomegranate seeds,, sev and green coriander for garnish.
-1. Now let&#39;s assemble the fried katori....
-1. Let&#39;s enjoy with me
+1. Now let's assemble the fried katori....
+1. Let's enjoy with me
 
 
 My basketball team is the best online basketball manager fantasy game and it is free! Compete with friends from all over the world and watch live matches. Chat Basket: Live Chat with Authors. View company info, jobs, team members, culture, funding and more. Schooled at UC Davis in California. 

@@ -71,7 +71,7 @@ To begin with this recipe, we must prepare a few ingredients. You can cook bruss
 1. Get 1 tsp. garlic powder
 1. Prepare 1 tsp. onion powder
 1. Make ready 1/2 tsp. red pepper flakes, optional
-1. Prepare To Taste salt &amp; pepper
+1. Prepare To Taste salt & pepper
 
 
 

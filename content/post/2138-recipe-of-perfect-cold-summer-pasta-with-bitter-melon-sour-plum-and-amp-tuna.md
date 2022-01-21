@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Perfect Cold summer pasta with Bitter melon, Sour Plum &amp;amp; Tuna"
-title: "Recipe of Perfect Cold summer pasta with Bitter melon, Sour Plum &amp;amp; Tuna"
+description: "Recipe of Perfect Cold summer pasta with Bitter melon, Sour Plum &amp; Tuna"
+title: "Recipe of Perfect Cold summer pasta with Bitter melon, Sour Plum &amp; Tuna"
 slug: 2138-recipe-of-perfect-cold-summer-pasta-with-bitter-melon-sour-plum-and-amp-tuna
 date: 2022-01-18T12:20:48.539Z
 image: https://img-global.cpcdn.com/recipes/066f9a9c5d4264db/680x482cq70/cold-summer-pasta-with-bitter-melon-sour-plum-tuna-recipe-main-photo.jpg
@@ -53,20 +53,20 @@ recipecategory: Dessert
 ---
 
 
-![Cold summer pasta with Bitter melon, Sour Plum &amp; Tuna](https://img-global.cpcdn.com/recipes/066f9a9c5d4264db/680x482cq70/cold-summer-pasta-with-bitter-melon-sour-plum-tuna-recipe-main-photo.jpg)
+![Cold summer pasta with Bitter melon, Sour Plum & Tuna](https://img-global.cpcdn.com/recipes/066f9a9c5d4264db/680x482cq70/cold-summer-pasta-with-bitter-melon-sour-plum-tuna-recipe-main-photo.jpg)
 
-Hey everyone, hope you're having an amazing day today. Today, we're going to prepare a special dish, cold summer pasta with bitter melon, sour plum &amp; tuna. It is one of my favorites. This time, I will make it a little bit tasty. This will be really delicious.
+Hey everyone, hope you're having an amazing day today. Today, we're going to prepare a special dish, cold summer pasta with bitter melon, sour plum & tuna. It is one of my favorites. This time, I will make it a little bit tasty. This will be really delicious.
 
-Cold summer pasta with Bitter melon, Sour Plum &amp; Tuna is one of the most popular of recent trending foods in the world. It's easy, it's quick, it tastes delicious. It's enjoyed by millions daily. They're fine and they look wonderful. Cold summer pasta with Bitter melon, Sour Plum &amp; Tuna is something which I've loved my whole life.
-
-
+Cold summer pasta with Bitter melon, Sour Plum & Tuna is one of the most popular of recent trending foods in the world. It's easy, it's quick, it tastes delicious. It's enjoyed by millions daily. They're fine and they look wonderful. Cold summer pasta with Bitter melon, Sour Plum & Tuna is something which I've loved my whole life.
 
 
-To begin with this particular recipe, we must prepare a few components. You can have cold summer pasta with bitter melon, sour plum &amp; tuna using 12 ingredients and 12 steps. Here is how you cook it.
+
+
+To begin with this particular recipe, we must prepare a few components. You can have cold summer pasta with bitter melon, sour plum & tuna using 12 ingredients and 12 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Cold summer pasta with Bitter melon, Sour Plum &amp; Tuna:
+##### The ingredients needed to make Cold summer pasta with Bitter melon, Sour Plum & Tuna:
 
 1. Make ready 240 g pasta
 1. Prepare 1 bitter melon
@@ -86,7 +86,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 
 <!--inarticleads2-->
 
-##### Steps to make Cold summer pasta with Bitter melon, Sour Plum &amp; Tuna:
+##### Steps to make Cold summer pasta with Bitter melon, Sour Plum & Tuna:
 
 1. In a large pot, high heat, boil salted water. Cook pasta. After that, put pasta in a cold water and let it cool.
 1. Cut bitter melon. In a medium bowl put bitter melon and pinch salt and mix them together and give it massage. This way, the bitterness will get mild. Leave it for 5 minutes
@@ -104,4 +104,4 @@ To begin with this particular recipe, we must prepare a few components. You can 
 
 
 
-So that's going to wrap it up with this exceptional food cold summer pasta with bitter melon, sour plum &amp; tuna recipe. Thank you very much for reading. I'm confident you will make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!
+So that's going to wrap it up with this exceptional food cold summer pasta with bitter melon, sour plum & tuna recipe. Thank you very much for reading. I'm confident you will make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

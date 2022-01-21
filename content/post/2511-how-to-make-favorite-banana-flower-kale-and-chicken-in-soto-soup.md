@@ -35,7 +35,7 @@ recipeinstructions:
 - "Preheat a pot with cooking oil, pour the blended ingredients, stir them well until cooked properly, add galangar, kaffir lime leaves, bay leaves, and lemon grass, stir them well. Add chili if you like."
 - "Add salt, pepper, and sugar, stir them well."
 - "Add water, stir it until the water blends with all ingredients, wait until it boils."
-- "Cut up the chicken breast, add it into the soup while it&#39;s boiling, cook until the chicken cooked really well."
+- "Cut up the chicken breast, add it into the soup while it's boiling, cook until the chicken cooked really well."
 - "Add kale and banana flower, cook until all of them well done."
 - "Ready to serve hot or you can add rice to it."
 categories:
@@ -103,7 +103,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Preheat a pot with cooking oil, pour the blended ingredients, stir them well until cooked properly, add galangar, kaffir lime leaves, bay leaves, and lemon grass, stir them well. Add chili if you like.
 1. Add salt, pepper, and sugar, stir them well.
 1. Add water, stir it until the water blends with all ingredients, wait until it boils.
-1. Cut up the chicken breast, add it into the soup while it&#39;s boiling, cook until the chicken cooked really well.
+1. Cut up the chicken breast, add it into the soup while it's boiling, cook until the chicken cooked really well.
 1. Add kale and banana flower, cook until all of them well done.
 1. Ready to serve hot or you can add rice to it.
 

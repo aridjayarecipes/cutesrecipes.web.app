@@ -26,7 +26,7 @@ recipeinstructions:
 - "In large soup pot over medium heat, add oil, carrots, onion, celery, and seasonings. Cook for 20 minutes, stirring occasionally."
 - "Stir in broth and zest. Bring to a boil. Reduce to low. Cover and simmer for 30 minutes until carrots are tender."
 - "Blend with an immersion blender until smooth. Stir in orange juice. Remove from heat. Stir in cream."
-- "Taste for seasoning and add more salt &amp; pepper, to taste, if desired."
+- "Taste for seasoning and add more salt & pepper, to taste, if desired."
 - "Serve hot, topped with croutons."
 categories:
 - Recipe
@@ -84,7 +84,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 1. In large soup pot over medium heat, add oil, carrots, onion, celery, and seasonings. Cook for 20 minutes, stirring occasionally.
 1. Stir in broth and zest. Bring to a boil. Reduce to low. Cover and simmer for 30 minutes until carrots are tender.
 1. Blend with an immersion blender until smooth. Stir in orange juice. Remove from heat. Stir in cream.
-1. Taste for seasoning and add more salt &amp; pepper, to taste, if desired.
+1. Taste for seasoning and add more salt & pepper, to taste, if desired.
 1. Serve hot, topped with croutons.
 
 

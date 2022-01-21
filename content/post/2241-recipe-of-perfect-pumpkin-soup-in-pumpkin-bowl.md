@@ -57,7 +57,7 @@ Hey everyone, it's me, Dave, welcome to our recipe site. Today, we're going to p
 
 Pumpkin soup in pumpkin bowl is one of the most well liked of recent trending meals in the world. It is simple, it is fast, it tastes delicious. It is enjoyed by millions daily. They are fine and they look wonderful. Pumpkin soup in pumpkin bowl is something that I've loved my entire life.
 
-To make this great quick and easy pumpkin soup, you will need: Pumpkin - Peeled and chopped into large chunks (or purchase it Ladle soup into bowls, drizzle over a bit of cream, sprinkle with pepper and parsley if desired. Recipe Notes Gordon Ramsay&#39;s Pumpkin Soup With Wild Mushrooms. How To Make The Best Creamy Pumpkin Soup. Kosher salt and freshly ground black pepper.
+To make this great quick and easy pumpkin soup, you will need: Pumpkin - Peeled and chopped into large chunks (or purchase it Ladle soup into bowls, drizzle over a bit of cream, sprinkle with pepper and parsley if desired. Recipe Notes Gordon Ramsay's Pumpkin Soup With Wild Mushrooms. How To Make The Best Creamy Pumpkin Soup. Kosher salt and freshly ground black pepper.
 
 
 To get started with this recipe, we must prepare a few components. You can have pumpkin soup in pumpkin bowl using 9 ingredients and 13 steps. Here is how you can achieve it.
@@ -98,6 +98,6 @@ Heat butter in pan and add jeera. This easy soup is made with pumpkin puree, chi
 1. Serve hot
 
 
-Cream is stirred in at the end for added richness. Pour into soup bowls and garnish with fresh parsley. Hollow out the pumpkins, taking care not to puncture the skin. Slice a very small amount off the bottom of each pumpkin, so they won&#39;t tip. In a food processor or blender, puree the soup until smooth. 
+Cream is stirred in at the end for added richness. Pour into soup bowls and garnish with fresh parsley. Hollow out the pumpkins, taking care not to puncture the skin. Slice a very small amount off the bottom of each pumpkin, so they won't tip. In a food processor or blender, puree the soup until smooth. 
 
 So that's going to wrap it up with this exceptional food pumpkin soup in pumpkin bowl recipe. Thank you very much for your time. I am sure you will make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

@@ -25,7 +25,7 @@ recipeinstructions:
 - "Add sugars, vanilla, and whisk to combine."
 - "Add flour, oats, salt, and stir to combine. Mixture will have some larger, well-formed crumble pieces as well as some sandier, dryer bits. Set 1/3 of mixture aside for later."
 - "Transfer remaining mixture to prepared pan, and using spatula or your fingers, hard-pack the mixture to create an even, smooth, flat crust."
-- "Evenly spread the raspberry preserves over the crust making sure there&#39;s complete coverage."
+- "Evenly spread the raspberry preserves over the crust making sure there's complete coverage."
 - "Evenly sprinkle with the reserved heaping cup crumble topping mixture."
 - "Bake for about 30-35 minutes or until edges are set and center has just set and is lightly golden browned. Place pan on a wire rack and allow bars to cool for at least 2 hours before slicing and serving."
 categories:
@@ -83,7 +83,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Add sugars, vanilla, and whisk to combine.
 1. Add flour, oats, salt, and stir to combine. Mixture will have some larger, well-formed crumble pieces as well as some sandier, dryer bits. Set 1/3 of mixture aside for later.
 1. Transfer remaining mixture to prepared pan, and using spatula or your fingers, hard-pack the mixture to create an even, smooth, flat crust.
-1. Evenly spread the raspberry preserves over the crust making sure there&#39;s complete coverage.
+1. Evenly spread the raspberry preserves over the crust making sure there's complete coverage.
 1. Evenly sprinkle with the reserved heaping cup crumble topping mixture.
 1. Bake for about 30-35 minutes or until edges are set and center has just set and is lightly golden browned. Place pan on a wire rack and allow bars to cool for at least 2 hours before slicing and serving.
 

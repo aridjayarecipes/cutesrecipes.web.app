@@ -81,7 +81,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have surat
 1. Prepare 1 small stick cinnamon
 
 
-Surat is also famous zari manufacturing in the country. Copyright. © © All Rights Reserved. Surat is famous for being the biggest hub for textiles, that&#39;s why this city of Gujarat is called the Cotton mills and silk fabric made Surat famous. If you ask me what is Surat famous for then my answer will be countless things. 
+Surat is also famous zari manufacturing in the country. Copyright. © © All Rights Reserved. Surat is famous for being the biggest hub for textiles, that's why this city of Gujarat is called the Cotton mills and silk fabric made Surat famous. If you ask me what is Surat famous for then my answer will be countless things. 
 
 <!--inarticleads2-->
 
@@ -92,6 +92,6 @@ Surat is also famous zari manufacturing in the country. Copyright. © © All Rig
 1. Now heat ghee in a vessel, add cashews,almonds,raisins,apricot and saute..now add starfruit and pineapple pieces and keep stiring,add sugar stir and cook.cover the lid and let it cook till starfruit is soft.. Add saffron, beaten curd and lemon juice.Cook for 5 mins.add rice.stir and let it cook with a lid covered on low flame.dont stir too much.wen done add pineapple essence.serve hot
 
 
-Surat is famous for being the biggest hub for textiles, that&#39;s why this city of Gujarat is called the Cotton mills and silk fabric made Surat famous. If you ask me what is Surat famous for then my answer will be countless things. My city Surat has a But let me tell you Surat is not only famous for food. In short, food is no longer the only identity of. Famous temples in Surat Shri Swaminarayan Temple arranged in the centre of the city. 
+Surat is famous for being the biggest hub for textiles, that's why this city of Gujarat is called the Cotton mills and silk fabric made Surat famous. If you ask me what is Surat famous for then my answer will be countless things. My city Surat has a But let me tell you Surat is not only famous for food. In short, food is no longer the only identity of. Famous temples in Surat Shri Swaminarayan Temple arranged in the centre of the city. 
 
 So that's going to wrap this up for this exceptional food surats famous sholah recipe. Thank you very much for reading. I'm sure you can make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

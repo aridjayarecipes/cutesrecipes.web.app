@@ -41,7 +41,7 @@ recipecategory: Dinner
 
 Hello everybody, I hope you're having an incredible day today. Today, I will show you a way to prepare a special dish, simple cabbage, onion, garlic and bacon salad. It is one of my favorites food recipes. For mine, I'm gonna make it a little bit unique. This will be really delicious.
 
-Cabbage is fried with bacon, onion, and garlic for a side dish you&#39;ll want to eat again and again. All Reviews for Fried Cabbage with Bacon, Onion, and Garlic. Great recipe for Simple cabbage, onion, garlic and bacon salad. This kind of came about as an experiment.
+Cabbage is fried with bacon, onion, and garlic for a side dish you'll want to eat again and again. All Reviews for Fried Cabbage with Bacon, Onion, and Garlic. Great recipe for Simple cabbage, onion, garlic and bacon salad. This kind of came about as an experiment.
 
 Simple cabbage, onion, garlic and bacon salad is one of the most well liked of current trending meals in the world. It's appreciated by millions every day. It is easy, it is quick, it tastes delicious. They are fine and they look wonderful. Simple cabbage, onion, garlic and bacon salad is something which I have loved my entire life.
 

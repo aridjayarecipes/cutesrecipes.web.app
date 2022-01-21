@@ -72,6 +72,6 @@ Butterfly flower power tea has several health benefits. Consuming this tea regul
 1. Now now in a jug keep butterfly flowers and green tea water to it. Keep it for 4 to 5 minutes. After the colour of the water changes filter it in a glass. You can add honey and also drink it. I served it with fine pieces of lemon and star fruit. So butterfly flower tea is ready! !
 
 
-However, it may not completely cure a medical. Iced Butterfly Pea Flower Tea with lemon slices. Steeped butterfly pea flowers taste a bit like green tea. The flavor is subtle, so it&#39;s common to mix in some dried lemongrass. Put butterfly pea flowers and cold or room temperature water in a pitcher or glass container. 
+However, it may not completely cure a medical. Iced Butterfly Pea Flower Tea with lemon slices. Steeped butterfly pea flowers taste a bit like green tea. The flavor is subtle, so it's common to mix in some dried lemongrass. Put butterfly pea flowers and cold or room temperature water in a pitcher or glass container. 
 
 So that is going to wrap this up with this special food butterfly flowers tea recipe. Thanks so much for reading. I am sure that you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -62,7 +62,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Take 3 pinches cardamom powder
 
 
-It is a very simple and healthy dessert and make this quite often since my kids love this. Few months back when i made this. Carrot kheer recipe, a tasty, easy Indian dessert preparation made with carrots, milk &amp; almonds for festivals Ringing in the new year on a sweet note with Indian classic dessert, carrot kheer recipe. Carrot payasam or carrot kheer is an easy sweet dessert recipe you can make for any occasion or whenever you want to pamper yourself. 
+It is a very simple and healthy dessert and make this quite often since my kids love this. Few months back when i made this. Carrot kheer recipe, a tasty, easy Indian dessert preparation made with carrots, milk & almonds for festivals Ringing in the new year on a sweet note with Indian classic dessert, carrot kheer recipe. Carrot payasam or carrot kheer is an easy sweet dessert recipe you can make for any occasion or whenever you want to pamper yourself. 
 
 <!--inarticleads2-->
 
@@ -75,6 +75,6 @@ It is a very simple and healthy dessert and make this quite often since my kids 
 1. Then add sugar, cardamom powder and dry fruits. Cook it 5 minutes. Ready to serve.
 
 
-Carrot kheer recipe, a tasty, easy Indian dessert preparation made with carrots, milk &amp; almonds for festivals Ringing in the new year on a sweet note with Indian classic dessert, carrot kheer recipe. Carrot payasam or carrot kheer is an easy sweet dessert recipe you can make for any occasion or whenever you want to pamper yourself. Generally kheer recipes are made during festive occasions. Shredded Carrots slow cooked with almond milk, roasted nuts and cardamom. Serve as is or top with toasted nuts, seeds and chia. 
+Carrot kheer recipe, a tasty, easy Indian dessert preparation made with carrots, milk & almonds for festivals Ringing in the new year on a sweet note with Indian classic dessert, carrot kheer recipe. Carrot payasam or carrot kheer is an easy sweet dessert recipe you can make for any occasion or whenever you want to pamper yourself. Generally kheer recipes are made during festive occasions. Shredded Carrots slow cooked with almond milk, roasted nuts and cardamom. Serve as is or top with toasted nuts, seeds and chia. 
 
 So that is going to wrap it up for this exceptional food carrot kheer recipe. Thanks so much for reading. I am confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

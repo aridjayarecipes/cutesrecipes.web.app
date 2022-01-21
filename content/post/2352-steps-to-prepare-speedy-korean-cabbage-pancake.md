@@ -51,7 +51,7 @@ recipecategory: Dessert
 
 Hey everyone, it is Brad, welcome to my recipe page. Today, I'm gonna show you how to prepare a special dish, korean cabbage pancake. One of my favorites food recipes. This time, I am going to make it a little bit unique. This will be really delicious.
 
-I&#39;m excited to release another easy and delicious recipe for you today. Let&#39;s make baechujeon, Korean cabbage pancake! It&#39;s easy, fast, simple and cheap. Cabbage Pancakes and My Hometown, Tong Young.
+I'm excited to release another easy and delicious recipe for you today. Let's make baechujeon, Korean cabbage pancake! It's easy, fast, simple and cheap. Cabbage Pancakes and My Hometown, Tong Young.
 
 Korean cabbage pancake is one of the most popular of current trending foods in the world. It's enjoyed by millions every day. It's easy, it is quick, it tastes yummy. They are fine and they look fantastic. Korean cabbage pancake is something that I have loved my whole life.
 
@@ -78,7 +78,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 1. Take As needed sugar
 
 
-It&#39;s easy, fast, simple and cheap and most. Add oil and shallow fry the cabbage till crisp. Add more oil if necessary while frying. Delicious, very flavorful cabbage pancakes with a phenomenal spicy dipping sauce. 
+It's easy, fast, simple and cheap and most. Add oil and shallow fry the cabbage till crisp. Add more oil if necessary while frying. Delicious, very flavorful cabbage pancakes with a phenomenal spicy dipping sauce. 
 
 <!--inarticleads2-->
 

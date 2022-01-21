@@ -24,7 +24,7 @@ recipeingredient:
 - "1/2 cup groundnutsoptional"
 recipeinstructions:
 - "Measure ingredients, prep your baking pan and preheat oven to 360°."
-- "Cream sugar and magarine together until it&#39;s fluffy."
+- "Cream sugar and magarine together until it's fluffy."
 - "Add in eggs one at a time until thoroughly mixed."
 - "Mash the bananas, add it to the mixture and mix together."
 - "Add in the extracts."
@@ -78,14 +78,14 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Take 1/2 cup groundnuts(optional)
 
 
-Banana cake, aka banana bread, is one of the easiest cakes to make. This one is plain but it&#39;s only a starting point. Easy to make, but impressive to serve. See recipes for Banana condensed milk cake too. 
+Banana cake, aka banana bread, is one of the easiest cakes to make. This one is plain but it's only a starting point. Easy to make, but impressive to serve. See recipes for Banana condensed milk cake too. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Banana cake:
 
 1. Measure ingredients, prep your baking pan and preheat oven to 360°.
-1. Cream sugar and magarine together until it&#39;s fluffy.
+1. Cream sugar and magarine together until it's fluffy.
 1. Add in eggs one at a time until thoroughly mixed.
 1. Mash the bananas, add it to the mixture and mix together.
 1. Add in the extracts.
@@ -95,6 +95,6 @@ Banana cake, aka banana bread, is one of the easiest cakes to make. This one is 
 1. Bake till your skewer or toothpick comes out clean
 
 
-Easy to make, but impressive to serve. See recipes for Banana condensed milk cake too. I told her, &#39;I should have baked for you!&#39; Banana cake without baking is the highlight of our program and a welcome guest on any table. But keep in mind that some options require additional time for. This is one of (if not) the BEST banana cake I have ever tasted! 
+Easy to make, but impressive to serve. See recipes for Banana condensed milk cake too. I told her, 'I should have baked for you!' Banana cake without baking is the highlight of our program and a welcome guest on any table. But keep in mind that some options require additional time for. This is one of (if not) the BEST banana cake I have ever tasted! 
 
 So that's going to wrap it up with this exceptional food banana cake recipe. Thank you very much for your time. I'm sure you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

@@ -69,7 +69,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Take 1/2 tsp salt
 
 
-It&#39;s great for using up overripe bananas, too. Eat it warm with custard, ice cream or cream or let it cool completely and have it cold with a nice cuppa! A moist coffee cake topped with a delicious sweet coffee glaze. The BEST Banana Walnut Loaf Pound Cake is a super moist, made from scratch recipe with mashed bananas and nuts. 
+It's great for using up overripe bananas, too. Eat it warm with custard, ice cream or cream or let it cool completely and have it cold with a nice cuppa! A moist coffee cake topped with a delicious sweet coffee glaze. The BEST Banana Walnut Loaf Pound Cake is a super moist, made from scratch recipe with mashed bananas and nuts. 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ It&#39;s great for using up overripe bananas, too. Eat it warm with custard, ice
 1. Pour batter into prepared pan, sprinkle with brown sugar, and bake for 50-60 minutes or until a toothpick inserted in the center comes out clean. Remove from pan using overhang and transfer to a cooling rack. Cool for 5 minutes before slicing with a serrated knife.
 
 
-A moist coffee cake topped with a delicious sweet coffee glaze. The BEST Banana Walnut Loaf Pound Cake is a super moist, made from scratch recipe with mashed bananas and nuts. Great for breakfast, brunch or dessert. The banana cake was dense, but not heavy. If that makes any sense? (Coming from the lady who talks about rotting bananas at social gatherings This is absolutely the best banana cake I&#39;ve ever had! 
+A moist coffee cake topped with a delicious sweet coffee glaze. The BEST Banana Walnut Loaf Pound Cake is a super moist, made from scratch recipe with mashed bananas and nuts. Great for breakfast, brunch or dessert. The banana cake was dense, but not heavy. If that makes any sense? (Coming from the lady who talks about rotting bananas at social gatherings This is absolutely the best banana cake I've ever had! 
 
 So that's going to wrap this up for this exceptional food coffee banana cake loaf recipe. Thanks so much for your time. I am sure you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

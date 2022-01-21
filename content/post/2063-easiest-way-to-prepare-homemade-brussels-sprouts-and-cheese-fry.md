@@ -19,7 +19,7 @@ recipeingredient:
 recipeinstructions:
 - "Cut the sprouts in half and insert two small pieces of the sliced cheese into each."
 - "Coat with the following in order: flour, egg, panko, then again with egg and panko to make a double coating."
-- "Fry in oil heated to 355F/180℃ and it&#39;s done. Add salt and enjoy."
+- "Fry in oil heated to 355F/180℃ and it's done. Add salt and enjoy."
 categories:
 - Recipe
 tags:
@@ -69,7 +69,7 @@ To get started with this particular recipe, we must first prepare a few componen
 
 1. Cut the sprouts in half and insert two small pieces of the sliced cheese into each.
 1. Coat with the following in order: flour, egg, panko, then again with egg and panko to make a double coating.
-1. Fry in oil heated to 355F/180℃ and it&#39;s done. Add salt and enjoy.
+1. Fry in oil heated to 355F/180℃ and it's done. Add salt and enjoy.
 
 
 

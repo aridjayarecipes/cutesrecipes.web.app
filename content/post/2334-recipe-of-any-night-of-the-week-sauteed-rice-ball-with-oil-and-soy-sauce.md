@@ -16,8 +16,8 @@ recipeingredient:
 - "1 Tbsp15 ccSoy sauce"
 - " And your favorite ingredients For example tuna basil paste and pickled plum"
 recipeinstructions:
-- "Let&#39;s cook a boiled rice, first. You can cook it in a pot with a lid. Please see here for how to make. https://cookpad.com/us/recipes/9417233"
-- "Next, make a rice ball. It is useful, use a rice ball mold. You can buy from Amazon. https://www.amazon.com/s?k=rice+ball+mold (I&#39;m not affiliate earner.)"
+- "Let's cook a boiled rice, first. You can cook it in a pot with a lid. Please see here for how to make. https://cookpad.com/us/recipes/9417233"
+- "Next, make a rice ball. It is useful, use a rice ball mold. You can buy from Amazon. https://www.amazon.com/s?k=rice+ball+mold (I'm not affiliate earner.)"
 - "Put your favorite ingredients between rice and rice. For example, tuna, basil paste, and UMEBOSHI. (photo is UMEBOSHI. UMEBOSHI is sour pickled plums.)"
 - "Heat the frying pan over medium heat. Pour 15 cc of oil. Put rice balls and sauteed 5 sides. It is delicious that it is slightly char."
 - "When all 5 sides have been sauteed, season with it. Add 15 g of butter. Once the butter is melted, add 15 cc of soy sauce and soak to the rice ball."
@@ -44,7 +44,7 @@ recipecategory: Dinner
 
 Hey everyone, I hope you are having an incredible day today. Today, I'm gonna show you how to prepare a distinctive dish, sauteed rice ball, with oil and soy sauce. It is one of my favorites. For mine, I am going to make it a bit tasty. This is gonna smell and look delicious.
 
-Let &#39;s cook a boiled rice, first. You can cook it in a pot with a lid. Japanese rice balls, also known as onigiri or omusubi, are a staple of Japanese lunch boxes (bento). They are usually shaped into rounds or triangles by hand, and they&#39;re fun to make and eat.
+Let 's cook a boiled rice, first. You can cook it in a pot with a lid. Japanese rice balls, also known as onigiri or omusubi, are a staple of Japanese lunch boxes (bento). They are usually shaped into rounds or triangles by hand, and they're fun to make and eat.
 
 Sauteed rice ball, with oil and soy sauce is one of the most well liked of recent trending foods in the world. It's enjoyed by millions every day. It's easy, it's fast, it tastes yummy. Sauteed rice ball, with oil and soy sauce is something which I have loved my entire life. They are nice and they look wonderful.
 
@@ -68,8 +68,8 @@ The rice is very sticky, but is there something I need to do? One towel is used 
 
 ##### Steps to make Sauteed rice ball, with oil and soy sauce:
 
-1. Let&#39;s cook a boiled rice, first. - You can cook it in a pot with a lid. - Please see here for how to make. - https://cookpad.com/us/recipes/9417233
-1. Next, make a rice ball. - It is useful, use a rice ball mold. - You can buy from Amazon. - https://www.amazon.com/s?k=rice+ball+mold - (I&#39;m not affiliate earner.)
+1. Let's cook a boiled rice, first. - You can cook it in a pot with a lid. - Please see here for how to make. - https://cookpad.com/us/recipes/9417233
+1. Next, make a rice ball. - It is useful, use a rice ball mold. - You can buy from Amazon. - https://www.amazon.com/s?k=rice+ball+mold - (I'm not affiliate earner.)
 1. Put your favorite ingredients between rice and rice. - For example, tuna, basil paste, and UMEBOSHI. - (photo is UMEBOSHI. UMEBOSHI is sour pickled plums.)
 1. Heat the frying pan over medium heat. - Pour 15 cc of oil. - Put rice balls and sauteed 5 sides. - It is delicious that it is slightly char.
 1. When all 5 sides have been sauteed, season with it. - Add 15 g of butter. - Once the butter is melted, add 15 cc of soy sauce and soak to the rice ball.

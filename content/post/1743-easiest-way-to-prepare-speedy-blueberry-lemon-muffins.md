@@ -27,11 +27,11 @@ recipeingredient:
 recipeinstructions:
 - "Preheat the oven to 350°F. Grease a 12 count standard size muffin tin or line with parchment liners and set aside."
 - "In a medium bowl, whisk together the flour, baking powder and salt. Set this aside."
-- "In a large bowl, use a hand mixer to beat the butter until it&#39;s creamy. Then beat in the sugar until it&#39;s fluffy and incorporated. Beat in the eggs, lemon juice, lemon zest, vanilla extract and milk and mix until it is all combined."
+- "In a large bowl, use a hand mixer to beat the butter until it's creamy. Then beat in the sugar until it's fluffy and incorporated. Beat in the eggs, lemon juice, lemon zest, vanilla extract and milk and mix until it is all combined."
 - "Add the dry to the wet and mix until just combined, do not overmix. Use a rubber spatula to gently fold in the blueberries."
 - "Pour the muffin batter into the prepared muffin tins and bake for 20-25 minutes, until a toothpick inserted into the center comes out clean."
 - "Let the muffins cool in the pan for about 10 minutes, then transfer them to a wire rack to cool completely."
-- "For the glaze, whisk together the confectioners sugar and lemon juice. Drizzle it over the muffins after they have cooled completely. Store them in an airtight container at room temperature for 3-4 days. Or they&#39;ll store an extra day or so if you keep them in the fridge instead."
+- "For the glaze, whisk together the confectioners sugar and lemon juice. Drizzle it over the muffins after they have cooled completely. Store them in an airtight container at room temperature for 3-4 days. Or they'll store an extra day or so if you keep them in the fridge instead."
 categories:
 - Recipe
 tags:
@@ -89,11 +89,11 @@ To get started with this recipe, we have to prepare a few components. You can ha
 
 1. Preheat the oven to 350°F. Grease a 12 count standard size muffin tin or line with parchment liners and set aside.
 1. In a medium bowl, whisk together the flour, baking powder and salt. Set this aside.
-1. In a large bowl, use a hand mixer to beat the butter until it&#39;s creamy. Then beat in the sugar until it&#39;s fluffy and incorporated. Beat in the eggs, lemon juice, lemon zest, vanilla extract and milk and mix until it is all combined.
+1. In a large bowl, use a hand mixer to beat the butter until it's creamy. Then beat in the sugar until it's fluffy and incorporated. Beat in the eggs, lemon juice, lemon zest, vanilla extract and milk and mix until it is all combined.
 1. Add the dry to the wet and mix until just combined, do not overmix. Use a rubber spatula to gently fold in the blueberries.
 1. Pour the muffin batter into the prepared muffin tins and bake for 20-25 minutes, until a toothpick inserted into the center comes out clean.
 1. Let the muffins cool in the pan for about 10 minutes, then transfer them to a wire rack to cool completely.
-1. For the glaze, whisk together the confectioners sugar and lemon juice. Drizzle it over the muffins after they have cooled completely. Store them in an airtight container at room temperature for 3-4 days. Or they&#39;ll store an extra day or so if you keep them in the fridge instead.
+1. For the glaze, whisk together the confectioners sugar and lemon juice. Drizzle it over the muffins after they have cooled completely. Store them in an airtight container at room temperature for 3-4 days. Or they'll store an extra day or so if you keep them in the fridge instead.
 
 
 

@@ -34,7 +34,7 @@ recipeingredient:
 - "1 1/2 tsp kosher salt"
 - "1/2 tsp freshly ground black pepper"
 recipeinstructions:
-- "Add a splash of olive oil to a large pan on medium-high heat. Add the onion and fry until they&#39;re soft and browned, about 5 minutes."
+- "Add a splash of olive oil to a large pan on medium-high heat. Add the onion and fry until they're soft and browned, about 5 minutes."
 - "Add the garlic, tomato paste, Italian seasoning and paprika. Continue frying another 2 minutes."
 - "Add the Roma tomatoes and cook until they soften, about 2 minutes. Add the passata, brown sugar, Worcestershire sauce, a good pinch of salt and several grinds of black pepper. Turn the heat down to low and let simmer for 15 minutes. Add additional seasoning as needed. Set the sauce aside until assembly."
 - "Rinse the cabbage and put it in a large pot. Fill the pot with enough cold water so that the cabbage will be submerged without the water spilling over once it boils. Remove the cabbage and put the pot on high heat. Once the water boils, turn the heat down to medium-high to keep it simmering."
@@ -64,7 +64,7 @@ recipecategory: Lunch
 
 Hey everyone, it's John, welcome to our recipe site. Today, I will show you a way to make a special dish, cabbage rolls. It is one of my favorites food recipes. For mine, I will make it a little bit unique. This will be really delicious.
 
-A cabbage roll is a dish consisting of cooked cabbage leaves wrapped around a variety of fillings. It is common to the cuisines of Central, Northern. This way the actual cabbage rolls stay moist and don&#39;t get burned. I do parboil my cabbage, cutting a few leaves off at a time as they cook.
+A cabbage roll is a dish consisting of cooked cabbage leaves wrapped around a variety of fillings. It is common to the cuisines of Central, Northern. This way the actual cabbage rolls stay moist and don't get burned. I do parboil my cabbage, cutting a few leaves off at a time as they cook.
 
 Cabbage rolls is one of the most well liked of current trending meals in the world. It is appreciated by millions daily. It's simple, it's fast, it tastes yummy. Cabbage rolls is something that I've loved my whole life. They're nice and they look fantastic.
 
@@ -106,7 +106,7 @@ This particular stuffed cabbage roll recipe—called galumpkis in our family—c
 
 ##### Instructions to make Cabbage rolls:
 
-1. Add a splash of olive oil to a large pan on medium-high heat. Add the onion and fry until they&#39;re soft and browned, about 5 minutes.
+1. Add a splash of olive oil to a large pan on medium-high heat. Add the onion and fry until they're soft and browned, about 5 minutes.
 1. Add the garlic, tomato paste, Italian seasoning and paprika. Continue frying another 2 minutes.
 1. Add the Roma tomatoes and cook until they soften, about 2 minutes. Add the passata, brown sugar, Worcestershire sauce, a good pinch of salt and several grinds of black pepper. Turn the heat down to low and let simmer for 15 minutes. Add additional seasoning as needed. Set the sauce aside until assembly.
 1. Rinse the cabbage and put it in a large pot. Fill the pot with enough cold water so that the cabbage will be submerged without the water spilling over once it boils. Remove the cabbage and put the pot on high heat. Once the water boils, turn the heat down to medium-high to keep it simmering.
@@ -117,6 +117,6 @@ This particular stuffed cabbage roll recipe—called galumpkis in our family—c
 1. Place about 2 heap tbsp filling on one half of a cabbage leaf. Tuck the sides in and roll the leaf up into a tight little log around the meat. Put the roll in the tray and repeat until all the leaves and meat are used. Spread the remaining sauce over the rolls. Cover the tray tightly with foil and bake for 1 hour. Serve immediately.
 
 
-Some are strictly vegetarian filled with buckwheat groats, barley, or millet, while. Cabbage rolls are a hearty dish traditionally made from ground meat, cabbage leaves, and tomato sauce, and they can be cooked in the oven, on the stove, or in the slow cooker. These stuffed cabbage rolls are hearty, healthy and so satisfying. Cabbage rolls are made with simple, inexpensive ingredients. Now, we&#39;ve played around with the classic cabbage roll - also sometimes called "golumpkis" or. 
+Some are strictly vegetarian filled with buckwheat groats, barley, or millet, while. Cabbage rolls are a hearty dish traditionally made from ground meat, cabbage leaves, and tomato sauce, and they can be cooked in the oven, on the stove, or in the slow cooker. These stuffed cabbage rolls are hearty, healthy and so satisfying. Cabbage rolls are made with simple, inexpensive ingredients. Now, we've played around with the classic cabbage roll - also sometimes called "golumpkis" or. 
 
 So that's going to wrap it up for this exceptional food cabbage rolls recipe. Thanks so much for reading. I'm sure that you will make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

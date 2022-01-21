@@ -57,7 +57,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Make ready 1/2 cup sugar
 
 
-With an instant overview of what&#39;s available, you will quickly find what you&#39;re looking for. The carrot (Daucus carota) is a nutrient-dense root rich in antioxidants, fiber, beta carotene, and other vitamins and minerals. Research suggests that carrots may improve vision, promote skin health, and. Yes, and growing carrots in containers is easier than growing them in the garden because they thrive on a steady supply of moisture—something that&#39;s hard to provide. 
+With an instant overview of what's available, you will quickly find what you're looking for. The carrot (Daucus carota) is a nutrient-dense root rich in antioxidants, fiber, beta carotene, and other vitamins and minerals. Research suggests that carrots may improve vision, promote skin health, and. Yes, and growing carrots in containers is easier than growing them in the garden because they thrive on a steady supply of moisture—something that's hard to provide. 
 
 <!--inarticleads2-->
 
@@ -67,6 +67,6 @@ With an instant overview of what&#39;s available, you will quickly find what you
 1. Take pan add this mixture and cook add sugar cook and add corn flour and cook well thick mixture and set garnish naryal buradha
 
 
-Research suggests that carrots may improve vision, promote skin health, and. Yes, and growing carrots in containers is easier than growing them in the garden because they thrive on a steady supply of moisture—something that&#39;s hard to provide. From Middle English karette and Middle French carotte, both from Latin carōta, from Ancient Greek καρῶτον (karôton). Noun sense of "motivational tool" refers to carrot and stick. Verb sense in felt manufacture refers to the orange colour of drying furs. 
+Research suggests that carrots may improve vision, promote skin health, and. Yes, and growing carrots in containers is easier than growing them in the garden because they thrive on a steady supply of moisture—something that's hard to provide. From Middle English karette and Middle French carotte, both from Latin carōta, from Ancient Greek καρῶτον (karôton). Noun sense of "motivational tool" refers to carrot and stick. Verb sense in felt manufacture refers to the orange colour of drying furs. 
 
 So that is going to wrap this up for this special food carrot dilates recipe. Thank you very much for your time. I'm confident that you will make this at home. There's gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

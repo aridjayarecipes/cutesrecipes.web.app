@@ -74,7 +74,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook in
 1. Get Tablespoon rama butter
 
 
-Cook for one minute, then tip all the mussels and cooking juices in. Pile these perfectly cooked mussels into a bowl and dunk some buttery crusty bread into the sauce for a taste sensation. It&#39;s a favourite Indian streetfood dish of mine, with the flavours just partying in my mouth. I could eat this chaat bowl salad every day. 
+Cook for one minute, then tip all the mussels and cooking juices in. Pile these perfectly cooked mussels into a bowl and dunk some buttery crusty bread into the sauce for a taste sensation. It's a favourite Indian streetfood dish of mine, with the flavours just partying in my mouth. I could eat this chaat bowl salad every day. 
 
 <!--inarticleads2-->
 
@@ -86,6 +86,6 @@ Cook for one minute, then tip all the mussels and cooking juices in. Pile these 
 1. Cook till liquid reduced,add coriander and serve with fresh rolls enjoy.
 
 
-It&#39;s a favourite Indian streetfood dish of mine, with the flavours just partying in my mouth. I could eat this chaat bowl salad every day. Try our mussels recipes and read our guide to cooking mussels. Bring fresh seaside aromas to your kitchen with a seafood supper. Flavour your mussels with Thai red curry spices, wheat beer and bacon, or the classic marinière sauce, then serve in a large bowl and watch everyone dig in. 
+It's a favourite Indian streetfood dish of mine, with the flavours just partying in my mouth. I could eat this chaat bowl salad every day. Try our mussels recipes and read our guide to cooking mussels. Bring fresh seaside aromas to your kitchen with a seafood supper. Flavour your mussels with Thai red curry spices, wheat beer and bacon, or the classic marinière sauce, then serve in a large bowl and watch everyone dig in. 
 
 So that is going to wrap this up with this special food indian spiced creamy mussels recipe. Thank you very much for your time. I'm confident you can make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

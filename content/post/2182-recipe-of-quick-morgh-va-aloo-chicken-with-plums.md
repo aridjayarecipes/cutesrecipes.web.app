@@ -55,7 +55,7 @@ Hey everyone, it is Drew, welcome to our recipe site. Today, I'm gonna show you 
 
 Morgh-va-Aloo (chicken with plums) is one of the most favored of current trending foods in the world. It is enjoyed by millions daily. It's simple, it is fast, it tastes delicious. Morgh-va-Aloo (chicken with plums) is something that I have loved my whole life. They're fine and they look wonderful.
 
-Aloo bokhara is my favorite and can be purchased from Middle Eastern stores. Salt, ground pepper, turmeric, to taste Heat. Chicken with Iranian rice will make you crazy if it is combined with organic butter and plum. To wit, while this chicken with yellow plums stew is not the most photogenic food I&#39;ve ever shared with you, I can tell you that it was positively the most amazingly delicious thing I&#39;ve had in a long time.
+Aloo bokhara is my favorite and can be purchased from Middle Eastern stores. Salt, ground pepper, turmeric, to taste Heat. Chicken with Iranian rice will make you crazy if it is combined with organic butter and plum. To wit, while this chicken with yellow plums stew is not the most photogenic food I've ever shared with you, I can tell you that it was positively the most amazingly delicious thing I've had in a long time.
 
 
 To begin with this particular recipe, we have to first prepare a few components. You can have morgh-va-aloo (chicken with plums) using 10 ingredients and 10 steps. Here is how you cook that.
@@ -94,6 +94,6 @@ Definitely a must read along with her other books. Starring: Mathieu Amalric, Ed
 1. Remove from heat.  Let sit covered 5 minutes.  Serve hope you enjoy!
 
 
-Here is how you can achieve that. Mosama Morgh va Aloo Chicken amp Dried Plum Stew. Khorosht bademjan with chicken eggplants stew with chicken cooking with Nikarm Kitchen. Khorsht Morgh Va Aloo Esfenaj - Chicken, Spinach and Prune Stew. Bell &amp; Evans chicken, skin on pan-seared and then oven roasted, served off the bone. 
+Here is how you can achieve that. Mosama Morgh va Aloo Chicken amp Dried Plum Stew. Khorosht bademjan with chicken eggplants stew with chicken cooking with Nikarm Kitchen. Khorsht Morgh Va Aloo Esfenaj - Chicken, Spinach and Prune Stew. Bell & Evans chicken, skin on pan-seared and then oven roasted, served off the bone. 
 
 So that is going to wrap this up with this exceptional food morgh-va-aloo (chicken with plums) recipe. Thanks so much for reading. I'm confident you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

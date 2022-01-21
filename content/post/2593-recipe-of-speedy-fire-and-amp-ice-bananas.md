@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Speedy Fire &amp;amp; Ice Bananas"
-title: "Recipe of Speedy Fire &amp;amp; Ice Bananas"
+description: "Recipe of Speedy Fire &amp; Ice Bananas"
+title: "Recipe of Speedy Fire &amp; Ice Bananas"
 slug: 2593-recipe-of-speedy-fire-and-amp-ice-bananas
 date: 2021-12-25T17:37:29.480Z
 image: https://img-global.cpcdn.com/recipes/608aac789f4d7f79/680x482cq70/fire-ice-bananas-recipe-main-photo.jpg
@@ -39,20 +39,20 @@ recipecategory: Dessert
 ---
 
 
-![Fire &amp; Ice Bananas](https://img-global.cpcdn.com/recipes/608aac789f4d7f79/680x482cq70/fire-ice-bananas-recipe-main-photo.jpg)
+![Fire & Ice Bananas](https://img-global.cpcdn.com/recipes/608aac789f4d7f79/680x482cq70/fire-ice-bananas-recipe-main-photo.jpg)
 
-Hey everyone, it is Drew, welcome to our recipe page. Today, I'm gonna show you how to make a special dish, fire &amp; ice bananas. It is one of my favorites food recipes. For mine, I'm gonna make it a bit tasty. This will be really delicious.
+Hey everyone, it is Drew, welcome to our recipe page. Today, I'm gonna show you how to make a special dish, fire & ice bananas. It is one of my favorites food recipes. For mine, I'm gonna make it a bit tasty. This will be really delicious.
 
-Fire &amp; Ice Bananas is one of the most well liked of recent trending meals on earth. It's easy, it is quick, it tastes yummy. It's enjoyed by millions every day. Fire &amp; Ice Bananas is something which I have loved my entire life. They are nice and they look fantastic.
+Fire & Ice Bananas is one of the most well liked of recent trending meals on earth. It's easy, it is quick, it tastes yummy. It's enjoyed by millions every day. Fire & Ice Bananas is something which I have loved my entire life. They are nice and they look fantastic.
 
 Fire definition, a state, process, or instance of combustion in which fuel or other material is ignited and combined with oxygen, giving off light, heat, and flame. Basic Definition Of Fire. Читать Читать @fire. Читаю Вы читаете @fire. @fire. — I fix things, make things, break things — Engineer for Hire; Previously @Twitch — Photography: @IncendiaryMedia — Broadcaster Partner. Free Fire is a multiplayer battle royale mobile game, developed and published by Garena for Android and iOS. To be the last survivor is the only goal.
 
 
-To get started with this particular recipe, we must prepare a few components. You can cook fire &amp; ice bananas using 7 ingredients and 3 steps. Here is how you cook it.
+To get started with this particular recipe, we must prepare a few components. You can cook fire & ice bananas using 7 ingredients and 3 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Fire &amp; Ice Bananas:
+##### The ingredients needed to make Fire & Ice Bananas:
 
 1. Take 1/4 Cup Butter
 1. Prepare 2 Tsp Tabasco Sauce
@@ -67,7 +67,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 
 <!--inarticleads2-->
 
-##### Steps to make Fire &amp; Ice Bananas:
+##### Steps to make Fire & Ice Bananas:
 
 1. Melt Butter in frying pan, stir in sugar and Tabasco Sauce until smooth. Bring to boil and cook until thick.
 1. Whisk in Whipping Cream. Slice Bananas and add to the syrup. Cook for about 1-minute spooning syrup all over and place in serving bowls.
@@ -76,4 +76,4 @@ To get started with this particular recipe, we must prepare a few components. Yo
 
 
 
-So that is going to wrap it up for this exceptional food fire &amp; ice bananas recipe. Thanks so much for reading. I am sure that you can make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!
+So that is going to wrap it up for this exceptional food fire & ice bananas recipe. Thanks so much for reading. I am sure that you can make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

@@ -67,7 +67,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Prepare  Oil for frying
 
 
-Enjoy guilt-free snacking with these healthy plantain cutlets. Raw banana (kaccha kela) is a great substitute for potatoes in various recipes &amp; is also know for number of health benefits. Raw banana cutlets are delicious and healthy as well. Crunchy on the outside, soft from within, these cutlets have a lovely nutty flavor which they get from roasted peanuts. 
+Enjoy guilt-free snacking with these healthy plantain cutlets. Raw banana (kaccha kela) is a great substitute for potatoes in various recipes & is also know for number of health benefits. Raw banana cutlets are delicious and healthy as well. Crunchy on the outside, soft from within, these cutlets have a lovely nutty flavor which they get from roasted peanuts. 
 
 <!--inarticleads2-->
 

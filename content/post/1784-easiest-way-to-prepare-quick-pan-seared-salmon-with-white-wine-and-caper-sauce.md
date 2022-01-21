@@ -21,7 +21,7 @@ recipeingredient:
 recipeinstructions:
 - "Add 2 tbsp butter to a medium pan on medium-high heat. Season the salmon fillets with salt and pepper and sear them skin-side down in the pan for 3 to 4 minutes per side. Remove the fillets to a plate, skin-side up."
 - "Add the shallot and capers to the pan. Let them sweat in the brown butter for 1 minute, then pour in the wine and wine vinegar. Bring to a simmer and let reduce until only 1 or 2 tbsp liquid remains."
-- "Turn the heat down to low. Whisking constantly, add the remaining butter to the pan a little at a time. Let each piece melt and emulsify before adding the next. When you&#39;ve added all the butter, stir in the cream. Let cook for 1 minute, then check and adjust the seasoning."
+- "Turn the heat down to low. Whisking constantly, add the remaining butter to the pan a little at a time. Let each piece melt and emulsify before adding the next. When you've added all the butter, stir in the cream. Let cook for 1 minute, then check and adjust the seasoning."
 - "Carefully peel the skin off the salmon. Serve it with the reverse (i.e. seared) side up, with the sauce spooned generously on top."
 categories:
 - Recipe
@@ -74,7 +74,7 @@ Stir in Dijon mustard and capers, add butter and Pasta with garlic, and Salmon w
 
 1. Add 2 tbsp butter to a medium pan on medium-high heat. Season the salmon fillets with salt and pepper and sear them skin-side down in the pan for 3 to 4 minutes per side. Remove the fillets to a plate, skin-side up.
 1. Add the shallot and capers to the pan. Let them sweat in the brown butter for 1 minute, then pour in the wine and wine vinegar. Bring to a simmer and let reduce until only 1 or 2 tbsp liquid remains.
-1. Turn the heat down to low. Whisking constantly, add the remaining butter to the pan a little at a time. Let each piece melt and emulsify before adding the next. When you&#39;ve added all the butter, stir in the cream. Let cook for 1 minute, then check and adjust the seasoning.
+1. Turn the heat down to low. Whisking constantly, add the remaining butter to the pan a little at a time. Let each piece melt and emulsify before adding the next. When you've added all the butter, stir in the cream. Let cook for 1 minute, then check and adjust the seasoning.
 1. Carefully peel the skin off the salmon. Serve it with the reverse (i.e. seared) side up, with the sauce spooned generously on top.
 
 

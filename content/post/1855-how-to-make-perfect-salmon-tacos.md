@@ -53,7 +53,7 @@ recipecategory: Dessert
 
 Hello everybody, I hope you're having an amazing day today. Today, I will show you a way to make a special dish, salmon tacos. One of my favorites. This time, I am going to make it a bit tasty. This is gonna smell and look delicious.
 
-Salmon Tacos from Delish.com only get better with fresh pineapple avocado salsa. The first thing you might think of when you hear the words "fish tacos" are probably Baja-style tacos filled with. Another veg packed recipe from Me &amp; Tesco for you guys! This is a paid ad by Tesco. (AVAILABLE IN UK ONLY)This aromatic cajun-spiced salmon taco is one to.
+Salmon Tacos from Delish.com only get better with fresh pineapple avocado salsa. The first thing you might think of when you hear the words "fish tacos" are probably Baja-style tacos filled with. Another veg packed recipe from Me & Tesco for you guys! This is a paid ad by Tesco. (AVAILABLE IN UK ONLY)This aromatic cajun-spiced salmon taco is one to.
 
 Salmon tacos is one of the most popular of current trending foods in the world. It's simple, it is quick, it tastes yummy. It is enjoyed by millions daily. They're fine and they look wonderful. Salmon tacos is something that I have loved my entire life.
 
@@ -82,7 +82,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Prepare 1 pkg small flour tortillas
 
 
-These salmon tacos are pretty tasty as they are but there are a few easy additions you can make to suit To assemble tacos, break salmon into small pieces and layer over the center of tortillas, add. Cajun spice, mango, sweet cherry tomatoes &amp; lime. The fresh rainbow salsa paired with crispy salmon skin is a total joy. With juicy tomatoes, soft mango, creamy avocado, and. 
+These salmon tacos are pretty tasty as they are but there are a few easy additions you can make to suit To assemble tacos, break salmon into small pieces and layer over the center of tortillas, add. Cajun spice, mango, sweet cherry tomatoes & lime. The fresh rainbow salsa paired with crispy salmon skin is a total joy. With juicy tomatoes, soft mango, creamy avocado, and. 
 
 <!--inarticleads2-->
 

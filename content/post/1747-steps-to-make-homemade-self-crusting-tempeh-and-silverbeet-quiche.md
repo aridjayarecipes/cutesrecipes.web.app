@@ -24,7 +24,7 @@ recipeingredient:
 recipeinstructions:
 - "Cook the onion and garlic in butter until tender."
 - "Add chopped silverbeet and cook until wilted. Cool."
-- "Stir in the eggs, salt &amp; pepper and milk, and beat with fork until mixed."
+- "Stir in the eggs, salt & pepper and milk, and beat with fork until mixed."
 - "Pour this mixture into a large bowl containing the flour, and stir with a fork until just combined. Add the tempeh cut into 1 cm cubes, and cheese."
 - "Pour into a prepared 20-23cm dish. Optional - garnish with sliced tomato or thinly sliced red and green capsicum. Bake at 220°C for 20-30 minutes, until lightly browned and set in the centre."
 - "Leave to stand for 5 minutes after removing from the oven, before turning out."
@@ -82,7 +82,7 @@ To begin with this recipe, we must first prepare a few components. You can have 
 
 1. Cook the onion and garlic in butter until tender.
 1. Add chopped silverbeet and cook until wilted. Cool.
-1. Stir in the eggs, salt &amp; pepper and milk, and beat with fork until mixed.
+1. Stir in the eggs, salt & pepper and milk, and beat with fork until mixed.
 1. Pour this mixture into a large bowl containing the flour, and stir with a fork until just combined. Add the tempeh cut into 1 cm cubes, and cheese.
 1. Pour into a prepared 20-23cm dish. Optional - garnish with sliced tomato or thinly sliced red and green capsicum. Bake at 220°C for 20-30 minutes, until lightly browned and set in the centre.
 1. Leave to stand for 5 minutes after removing from the oven, before turning out.

@@ -54,7 +54,7 @@ Hello everybody, it is me again, Dan, welcome to our recipe page. Today, I will 
 
 Lamb steaks with anchovy vinaigrette is one of the most popular of current trending foods on earth. It's easy, it's fast, it tastes delicious. It's enjoyed by millions daily. They're nice and they look fantastic. Lamb steaks with anchovy vinaigrette is something which I've loved my whole life.
 
-Slathered with umami-rich anchovy butter, these tender lamb steaks make a decadent and quick-cooking weeknight dinner. Get the recipe at Food &amp; Wine. Lemon juice, a touch of anchovy paste and minced garlic make this healthy salad dressing an eggless, not-creamy version of Caesar. Grilled Lamb Chops with Anchovy-Walnut Chimichurri.
+Slathered with umami-rich anchovy butter, these tender lamb steaks make a decadent and quick-cooking weeknight dinner. Get the recipe at Food & Wine. Lemon juice, a touch of anchovy paste and minced garlic make this healthy salad dressing an eggless, not-creamy version of Caesar. Grilled Lamb Chops with Anchovy-Walnut Chimichurri.
 
 
 To begin with this particular recipe, we must prepare a few ingredients. You can cook lamb steaks with anchovy vinaigrette using 16 ingredients and 3 steps. Here is how you cook it.

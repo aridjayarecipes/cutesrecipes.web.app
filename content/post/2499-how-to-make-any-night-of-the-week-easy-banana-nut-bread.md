@@ -31,7 +31,7 @@ recipeinstructions:
 - "Cook at 350 for 25 minutes or until golden brown and done where tooth pick comes out clean."
 - "Can also cook in cupcake pans at 350 for 15 minutes or until done and toothpick comes clean***"
 - "Serve and enjoy!"
-- "**Some people like to combine their wet ingredients, separate from their dry ingredients and then combine everything together, that&#39;s fine too***"
+- "**Some people like to combine their wet ingredients, separate from their dry ingredients and then combine everything together, that's fine too***"
 - "**Tip-check it a couple minutes before the times up with toothpick. Adding only 1-2 minutes at a time, if it is not done. This will prevent burning it.***"
 categories:
 - Recipe
@@ -94,7 +94,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. Cook at 350 for 25 minutes or until golden brown and done where tooth pick comes out clean.
 1. Can also cook in cupcake pans at 350 for 15 minutes or until done and toothpick comes clean***
 1. Serve and enjoy!
-1. **Some people like to combine their wet ingredients, separate from their dry ingredients and then combine everything together, that&#39;s fine too***
+1. **Some people like to combine their wet ingredients, separate from their dry ingredients and then combine everything together, that's fine too***
 1. **Tip-check it a couple minutes before the times up with toothpick. Adding only 1-2 minutes at a time, if it is not done. This will prevent burning it.***
 
 

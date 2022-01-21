@@ -31,13 +31,13 @@ recipeinstructions:
 - "Place 1 Lebanese wrap onto a lined pizza tray but do not grill (broil) base !!! place 1 tablespoon of sauce onto wrap base and spread all over evenly base. using most of the half cup of cheese sprinkle all over the sauce on the wrap base."
 - "Add the 1/3 cup of bacon pieces all over cheese on wrap base followed by the thinly sliced tomato pieces and the thinly sliced salami pieces all around wrap base."
 - "Place prepare pizza wrap under a hot grill (broiler) as a pizza and cook until the cheese has melted and cooked through, remove from the heat so it can be rolled."
-- "Once top is cooked, fold one end of base up towards when middle a little then turn and do the same to the opposite side. turn to an untucked side and fold in and roll up till you get to the other untucked side to make a roll up pizza wrap, wrap in foil wrap to help hold it&#39;s shape for couple minutes if necessary."
+- "Once top is cooked, fold one end of base up towards when middle a little then turn and do the same to the opposite side. turn to an untucked side and fold in and roll up till you get to the other untucked side to make a roll up pizza wrap, wrap in foil wrap to help hold it's shape for couple minutes if necessary."
 - "Unwrap from the foil wrap if used and place rolled up wrap under a hot grill (broiler) and grill till slightly browned and crisp turn to ensure all gets cooked and is crisp."
 - "Cut in half (optional) and place on serving plate and enjoy :-)."
 - "To make the pizza pinwheels :"
 - "Place 1 Lebanese wrap onto a lined pizza tray but as like the wrap do not grill (broil) the base, place one tablespoon of sauce onto base and spread evenly over base then sprinkle most of the half cup of cheese over the sauce on the base."
 - "Next add the 1/3 cup bacon, ham slice pieces, salami and the silverbeet spinach over top of cheese on the prepared base followed by remaining half cup cheese, then place under a hot grill (broiler) and cook until the cheese has melted and cook through."
-- "As you do for the wrap, star one end, fold slightly, turn and do opposite side, then roll up tightly starting from the unrolled side all the way up to the other end. wrap in foil wrap to hold it&#39;s shape for couple minutes if necessary."
+- "As you do for the wrap, star one end, fold slightly, turn and do opposite side, then roll up tightly starting from the unrolled side all the way up to the other end. wrap in foil wrap to hold it's shape for couple minutes if necessary."
 - "Once rolled unwrap from the foil wrap if used and place back under a hot grill (broiler) and cook till outside wrap is browned a little and is crisp, turn to ensure all gets cooked and is crisp. remove from heat and let cool for couple minutes then carefully slice through the wrap into about 2cm pieces, place on serving plate and enjoy. :-)."
 - "Enjoy your pizza threesome lol :-P."
 categories:
@@ -101,13 +101,13 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 1. Place 1 Lebanese wrap onto a lined pizza tray but do not grill (broil) base !!! place 1 tablespoon of sauce onto wrap base and spread all over evenly base. using most of the half cup of cheese sprinkle all over the sauce on the wrap base.
 1. Add the 1/3 cup of bacon pieces all over cheese on wrap base followed by the thinly sliced tomato pieces and the thinly sliced salami pieces all around wrap base.
 1. Place prepare pizza wrap under a hot grill (broiler) as a pizza and cook until the cheese has melted and cooked through, remove from the heat so it can be rolled.
-1. Once top is cooked, fold one end of base up towards when middle a little then turn and do the same to the opposite side. turn to an untucked side and fold in and roll up till you get to the other untucked side to make a roll up pizza wrap, wrap in foil wrap to help hold it&#39;s shape for couple minutes if necessary.
+1. Once top is cooked, fold one end of base up towards when middle a little then turn and do the same to the opposite side. turn to an untucked side and fold in and roll up till you get to the other untucked side to make a roll up pizza wrap, wrap in foil wrap to help hold it's shape for couple minutes if necessary.
 1. Unwrap from the foil wrap if used and place rolled up wrap under a hot grill (broiler) and grill till slightly browned and crisp turn to ensure all gets cooked and is crisp.
 1. Cut in half (optional) and place on serving plate and enjoy :-).
 1. To make the pizza pinwheels :
 1. Place 1 Lebanese wrap onto a lined pizza tray but as like the wrap do not grill (broil) the base, place one tablespoon of sauce onto base and spread evenly over base then sprinkle most of the half cup of cheese over the sauce on the base.
 1. Next add the 1/3 cup bacon, ham slice pieces, salami and the silverbeet spinach over top of cheese on the prepared base followed by remaining half cup cheese, then place under a hot grill (broiler) and cook until the cheese has melted and cook through.
-1. As you do for the wrap, star one end, fold slightly, turn and do opposite side, then roll up tightly starting from the unrolled side all the way up to the other end. wrap in foil wrap to hold it&#39;s shape for couple minutes if necessary.
+1. As you do for the wrap, star one end, fold slightly, turn and do opposite side, then roll up tightly starting from the unrolled side all the way up to the other end. wrap in foil wrap to hold it's shape for couple minutes if necessary.
 1. Once rolled unwrap from the foil wrap if used and place back under a hot grill (broiler) and cook till outside wrap is browned a little and is crisp, turn to ensure all gets cooked and is crisp. remove from heat and let cool for couple minutes then carefully slice through the wrap into about 2cm pieces, place on serving plate and enjoy. :-).
 1. Enjoy your pizza threesome lol :-P.
 

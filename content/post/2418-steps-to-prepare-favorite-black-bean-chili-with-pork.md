@@ -71,7 +71,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Take 2 tbsp chopped cilantro leaves
 
 
-As I write this post, it&#39;s August. So, why am I sitting here thinking of this Black Bean And Pork Chili? Ground pork is used in this spicy delicious chili, but if you&#39;d rather use ground beef, amp up the spices a tad and you&#39;ll have everyone clamoring for refills. This warming cool-weather dish features our zesty pork chorizo (a Spanish-style sausage that owes its vibrant red color to smoky paprika). 
+As I write this post, it's August. So, why am I sitting here thinking of this Black Bean And Pork Chili? Ground pork is used in this spicy delicious chili, but if you'd rather use ground beef, amp up the spices a tad and you'll have everyone clamoring for refills. This warming cool-weather dish features our zesty pork chorizo (a Spanish-style sausage that owes its vibrant red color to smoky paprika). 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ As I write this post, it&#39;s August. So, why am I sitting here thinking of thi
 1. In a slow cooker, stir together pork, beans, bell pepper, tomato, onion, garlic, cumin, chili powder, salt and tomato sauce cover and cook on low 8to9 hours. spoon into individual bowls; top with sour cream and cilantro
 
 
-Ground pork is used in this spicy delicious chili, but if you&#39;d rather use ground beef, amp up the spices a tad and you&#39;ll have everyone clamoring for refills. This warming cool-weather dish features our zesty pork chorizo (a Spanish-style sausage that owes its vibrant red color to smoky paprika). Black Bean Spare Ribs with Green Onion: Friends and family clamor for the recipe, and are surprised at just how easy this dish is to whip up at home. Go meat-forward with a pork-and-brisket chili, or vegetarian-friendly with a black bean version. Whether you&#39;re looking for an easy chili recipe or a. 
+Ground pork is used in this spicy delicious chili, but if you'd rather use ground beef, amp up the spices a tad and you'll have everyone clamoring for refills. This warming cool-weather dish features our zesty pork chorizo (a Spanish-style sausage that owes its vibrant red color to smoky paprika). Black Bean Spare Ribs with Green Onion: Friends and family clamor for the recipe, and are surprised at just how easy this dish is to whip up at home. Go meat-forward with a pork-and-brisket chili, or vegetarian-friendly with a black bean version. Whether you're looking for an easy chili recipe or a. 
 
 So that's going to wrap this up for this special food black bean chili with pork recipe. Thank you very much for reading. I'm confident you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

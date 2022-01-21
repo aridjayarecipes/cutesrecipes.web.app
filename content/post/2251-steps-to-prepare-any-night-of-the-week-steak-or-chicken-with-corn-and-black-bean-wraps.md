@@ -70,6 +70,6 @@ In large bowl, mix corn, beans, chiles, green onions and lime juice. Serve immed
 1. Place steak or chicken, corn, black beans, salsa, cheese and a drizzle of ranch dressing in tortilla and roll up
 
 
-Shredded cooked chicken or pork can be added for a meaty version. Disclosure: This recipe for Chicken, Black Bean and Corn Burritos was developed in collaboration with Toufayan Bakeries, who sponsored this post. Black beans remains one of those things for my son. I&#39;ve been trying for years to convince him that chili is just hamburger soup (and I pretend there are no. Chicken &amp; Spinach Salad Jars with SuperPretzel® Soft Pretzel Croutons. 
+Shredded cooked chicken or pork can be added for a meaty version. Disclosure: This recipe for Chicken, Black Bean and Corn Burritos was developed in collaboration with Toufayan Bakeries, who sponsored this post. Black beans remains one of those things for my son. I've been trying for years to convince him that chili is just hamburger soup (and I pretend there are no. Chicken & Spinach Salad Jars with SuperPretzel® Soft Pretzel Croutons. 
 
 So that's going to wrap it up for this exceptional food steak or chicken with corn and black bean wraps recipe. Thanks so much for your time. I am confident that you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

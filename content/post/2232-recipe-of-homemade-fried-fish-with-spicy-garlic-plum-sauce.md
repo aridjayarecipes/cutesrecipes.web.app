@@ -62,7 +62,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 
 1. Take 6 small pomfret fish or any fish
 1. Get 6 clove coarsely pound or dice garlic
-1. Prepare 3 small each deseeded bird&#39;s eye red chili pepper
+1. Prepare 3 small each deseeded bird's eye red chili pepper
 1. Make ready  PLUM SAUCE MIXTURE
 1. Prepare 5 tbsp plum sauce
 1. Get 3 tbsp oil

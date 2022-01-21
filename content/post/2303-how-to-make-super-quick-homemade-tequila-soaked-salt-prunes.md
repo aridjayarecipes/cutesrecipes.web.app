@@ -55,7 +55,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. Get 1 big pack of sweet and salt prunes
 
 
-Ice cold, dripping with juice, lime wedges and a little dish of sea salt provided, these are perfect for an (adult) summer party. I&#39;d even cut them into smaller wedges to. Margarita Watermelon - Tequila and Orange Liqueur soaked watermelon is finished with lime juice and salt. Strain prunes from their soaking water, reserving the liquid. 
+Ice cold, dripping with juice, lime wedges and a little dish of sea salt provided, these are perfect for an (adult) summer party. I'd even cut them into smaller wedges to. Margarita Watermelon - Tequila and Orange Liqueur soaked watermelon is finished with lime juice and salt. Strain prunes from their soaking water, reserving the liquid. 
 
 <!--inarticleads2-->
 
@@ -66,6 +66,6 @@ Ice cold, dripping with juice, lime wedges and a little dish of sea salt provide
 1. 
 
 
-Margarita Watermelon - Tequila and Orange Liqueur soaked watermelon is finished with lime juice and salt. Strain prunes from their soaking water, reserving the liquid. Add the liquid to the sugar mixture first. Then add the prunes and bring to boil. The Midwich Cuckoos FIRST LOOK: Suit-clad Max Beesley is soaked with rain as he&#39;s seen on-set of the sci-fi classic&#39;s Sky adaptation. 
+Margarita Watermelon - Tequila and Orange Liqueur soaked watermelon is finished with lime juice and salt. Strain prunes from their soaking water, reserving the liquid. Add the liquid to the sugar mixture first. Then add the prunes and bring to boil. The Midwich Cuckoos FIRST LOOK: Suit-clad Max Beesley is soaked with rain as he's seen on-set of the sci-fi classic's Sky adaptation. 
 
 So that's going to wrap it up for this exceptional food tequila soaked salt prunes recipe. Thanks so much for reading. I'm confident that you can make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

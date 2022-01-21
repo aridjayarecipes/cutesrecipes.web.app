@@ -56,7 +56,7 @@ To get started with this recipe, we must prepare a few components. You can have 
 1. Prepare 4 Ice cubes
 
 
-See recipes for Pomegranate Watermelon Juice too. Founder and Editor-in-Chief, Salt &amp; Wind. When it comes to refreshing, it&#39;s hard to do better than watermelon juice. Pomegranate juice is a potent antioxidant beverage with many potential health benefits. 
+See recipes for Pomegranate Watermelon Juice too. Founder and Editor-in-Chief, Salt & Wind. When it comes to refreshing, it's hard to do better than watermelon juice. Pomegranate juice is a potent antioxidant beverage with many potential health benefits. 
 
 <!--inarticleads2-->
 
@@ -68,6 +68,6 @@ See recipes for Pomegranate Watermelon Juice too. Founder and Editor-in-Chief, S
 1. At last add some ice, Now it ready for drink, cool cool fresh and healthy fruit juice.no sugar
 
 
-When it comes to refreshing, it&#39;s hard to do better than watermelon juice. Pomegranate juice is a potent antioxidant beverage with many potential health benefits. It may promote heart health, reduce inflammation and fight infections. Make watermelon juice to quench your thirst on a warm summer day. You can use one of the recipes below to extract juice from a watermelon by either blending it or heating it. 
+When it comes to refreshing, it's hard to do better than watermelon juice. Pomegranate juice is a potent antioxidant beverage with many potential health benefits. It may promote heart health, reduce inflammation and fight infections. Make watermelon juice to quench your thirst on a warm summer day. You can use one of the recipes below to extract juice from a watermelon by either blending it or heating it. 
 
 So that's going to wrap it up with this special food watermelon pomegranate juice recipe. Thank you very much for reading. I'm sure that you can make this at home. There's gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

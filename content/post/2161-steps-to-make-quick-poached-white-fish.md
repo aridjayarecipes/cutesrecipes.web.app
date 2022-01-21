@@ -44,7 +44,7 @@ Hello everybody, it's Jim, welcome to our recipe site. Today, I'm gonna show you
 
 Poached white fish is one of the most favored of recent trending foods on earth. It's easy, it's quick, it tastes yummy. It is enjoyed by millions every day. Poached white fish is something that I have loved my whole life. They are fine and they look fantastic.
 
-The term acqua pazza (pronounced [ˈakkwa ˈpattsa]; Italian for &#39;crazy water&#39;) is used in Italian cuisine to refer to a recipe for poached white fish, or to simply refer to the lightly herbed broth used to poach it. There are many different variations of this sauce, from light broths, to thick tomato based sauces. Yes, the fish is the key flavor component, but the. Fish is half poached, half steamed in a tomato-white wine based sauce, then served over crispy garlic crostini.
+The term acqua pazza (pronounced [ˈakkwa ˈpattsa]; Italian for 'crazy water') is used in Italian cuisine to refer to a recipe for poached white fish, or to simply refer to the lightly herbed broth used to poach it. There are many different variations of this sauce, from light broths, to thick tomato based sauces. Yes, the fish is the key flavor component, but the. Fish is half poached, half steamed in a tomato-white wine based sauce, then served over crispy garlic crostini.
 
 
 To begin with this particular recipe, we must first prepare a few components. You can have poached white fish using 6 ingredients and 3 steps. Here is how you cook it.
@@ -58,10 +58,10 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Get 2 Tbsp butter
 1. Take sprigs Thyme
 1. Make ready 1 tsp Garlic
-1. Get  Salt &amp; Pepper
+1. Get  Salt & Pepper
 
 
-It&#39;s also a great way to make lean white fish more For a light dinner that&#39;s more than a salad, try poaching a piece of white fish in a leek and ginger infused. Poached fish is a simple and delicious dish that can be prepared quickly and easily. Alternately, you can prepare a basic white wine sauce in advance to serve with the poached fish. Gently poaching fish in a flavorful liquid just about guarantees a perfect outcome—juicy, tasty fillets. 
+It's also a great way to make lean white fish more For a light dinner that's more than a salad, try poaching a piece of white fish in a leek and ginger infused. Poached fish is a simple and delicious dish that can be prepared quickly and easily. Alternately, you can prepare a basic white wine sauce in advance to serve with the poached fish. Gently poaching fish in a flavorful liquid just about guarantees a perfect outcome—juicy, tasty fillets. 
 
 <!--inarticleads2-->
 

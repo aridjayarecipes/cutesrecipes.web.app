@@ -83,7 +83,7 @@ To begin with this recipe, we must prepare a few components. You can cook raspbe
 1. Get 1 cup fresh Raspberries
 
 
-They&#39;re bakery-style muffins that are moist, sweet, and have. Place the chocolate chips in a heatproof liquid measuring cup. Pour over the hot heavy cream. While the muffins are still warm, use the back of a wooden spoon to push down a hole into the center of each muffin. 
+They're bakery-style muffins that are moist, sweet, and have. Place the chocolate chips in a heatproof liquid measuring cup. Pour over the hot heavy cream. While the muffins are still warm, use the back of a wooden spoon to push down a hole into the center of each muffin. 
 
 <!--inarticleads2-->
 
@@ -100,6 +100,6 @@ They&#39;re bakery-style muffins that are moist, sweet, and have. Place the choc
 1. Note: you can add other berries if you like, instead of the raspberries. Mixed berries is a yummy variation.
 
 
-Pour over the hot heavy cream. While the muffins are still warm, use the back of a wooden spoon to push down a hole into the center of each muffin. Healthy banana oatmeal muffins bursting with fresh, juicy raspberries! These amazing muffins are made with whole grains, greek yogurt &amp; almond butter -- ingredients you can feel good about! Raspberry Banana Oatmeal Muffins with White Chocolate Chips. 
+Pour over the hot heavy cream. While the muffins are still warm, use the back of a wooden spoon to push down a hole into the center of each muffin. Healthy banana oatmeal muffins bursting with fresh, juicy raspberries! These amazing muffins are made with whole grains, greek yogurt & almond butter -- ingredients you can feel good about! Raspberry Banana Oatmeal Muffins with White Chocolate Chips. 
 
 So that's going to wrap it up for this special food raspberry and chocolate banana muffins recipe. Thanks so much for reading. I am sure that you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

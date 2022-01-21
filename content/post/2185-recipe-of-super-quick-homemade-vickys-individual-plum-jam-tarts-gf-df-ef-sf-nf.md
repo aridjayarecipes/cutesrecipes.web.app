@@ -23,9 +23,9 @@ recipeingredient:
 recipeinstructions:
 - "Preheat the oven to gas 6 / 200C / 400°F and lightly grease a 12 hole muffin tin"
 - "Mix the flour, gum, sugar and baking powder together"
-- "Cut in the butter until you make &#39;crumbs&#39;"
+- "Cut in the butter until you make 'crumbs'"
 - "Divide the crumbs between the muffin tin holes and press in really well to make the bases"
-- "Place half a plum on top of each base, cut side down. Don&#39;t bother peeling it as the skin will come away in the oven"
+- "Place half a plum on top of each base, cut side down. Don't bother peeling it as the skin will come away in the oven"
 - "Mix the sugar and cinnamon together and top each tart generously with the mixture"
 - "Bake for 40 minutes then remove the plum skins and ease the tarts out of the tin with a fork. The plums will have reduced down and mixed with the sugar to form jam with a very soft fruit on top"
 - "Serve with hot custard  https://cookpad.com/us/recipes/332987-vickys-vanilla-custard-gluten-dairy-egg-soy-nut-free"
@@ -83,9 +83,9 @@ To begin with this particular recipe, we have to first prepare a few components.
 
 1. Preheat the oven to gas 6 / 200C / 400°F and lightly grease a 12 hole muffin tin
 1. Mix the flour, gum, sugar and baking powder together
-1. Cut in the butter until you make &#39;crumbs&#39;
+1. Cut in the butter until you make 'crumbs'
 1. Divide the crumbs between the muffin tin holes and press in really well to make the bases
-1. Place half a plum on top of each base, cut side down. Don&#39;t bother peeling it as the skin will come away in the oven
+1. Place half a plum on top of each base, cut side down. Don't bother peeling it as the skin will come away in the oven
 1. Mix the sugar and cinnamon together and top each tart generously with the mixture
 1. Bake for 40 minutes then remove the plum skins and ease the tarts out of the tin with a fork. The plums will have reduced down and mixed with the sugar to form jam with a very soft fruit on top
 1. Serve with hot custard -  - https://cookpad.com/us/recipes/332987-vickys-vanilla-custard-gluten-dairy-egg-soy-nut-free

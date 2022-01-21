@@ -20,7 +20,7 @@ recipeingredient:
 recipeinstructions:
 - "Cut the Bitter gourd thinly and put some salt, let it sit a while. Wash and squeeze out the water and dry use kitchen towel"
 - "Heat pan, put 2tbsp cooking oil, add in Chopped shallots,garlic and chili padi.fry a while."
-- "Add in black bean sauce fry a while,put the pork belly fry until half cooked. Add in the bitter gourd. Fry a while and then put in the brown sugar. Taste it before serve. (i didn&#39;t put any salt because the bitter gourd probably still taste little bit salty)"
+- "Add in black bean sauce fry a while,put the pork belly fry until half cooked. Add in the bitter gourd. Fry a while and then put in the brown sugar. Taste it before serve. (i didn't put any salt because the bitter gourd probably still taste little bit salty)"
 categories:
 - Recipe
 tags:
@@ -71,9 +71,9 @@ We also have wide variety of recipes to try. This bitter gourd recipe (Braised b
 
 1. Cut the Bitter gourd thinly and put some salt, let it sit a while. Wash and squeeze out the water and dry use kitchen towel
 1. Heat pan, put 2tbsp cooking oil, add in Chopped shallots,garlic and chili padi.fry a while.
-1. Add in black bean sauce fry a while,put the pork belly fry until half cooked. Add in the bitter gourd. Fry a while and then put in the brown sugar. Taste it before serve. (i didn&#39;t put any salt because the bitter gourd probably still taste little bit salty)
+1. Add in black bean sauce fry a while,put the pork belly fry until half cooked. Add in the bitter gourd. Fry a while and then put in the brown sugar. Taste it before serve. (i didn't put any salt because the bitter gourd probably still taste little bit salty)
 
 
-The black bean sauce compliments the beef very well (and it. Fermented black beans give this Crab Claws in Black Bean Sauce great flavor. I don&#39;t like bitter gourd as a child too but now, I simply love it&#39;s unique taste of bitterness! This dish is quite similar to my Spicy Stewed Bitter Gourd with Porkbelly and it does look so much tastier with fermented. Silakan Klik STIR FRY SPICY BITTER GOURD with PORK &amp; BLACK BEAN SAUCE PINAY HK Untuk Melihat Artikel Selengkapnya. 
+The black bean sauce compliments the beef very well (and it. Fermented black beans give this Crab Claws in Black Bean Sauce great flavor. I don't like bitter gourd as a child too but now, I simply love it's unique taste of bitterness! This dish is quite similar to my Spicy Stewed Bitter Gourd with Porkbelly and it does look so much tastier with fermented. Silakan Klik STIR FRY SPICY BITTER GOURD with PORK & BLACK BEAN SAUCE PINAY HK Untuk Melihat Artikel Selengkapnya. 
 
 So that's going to wrap it up with this special food bitter gourd with pork belly with black bean sauce on recipe. Thanks so much for your time. I am confident that you will make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

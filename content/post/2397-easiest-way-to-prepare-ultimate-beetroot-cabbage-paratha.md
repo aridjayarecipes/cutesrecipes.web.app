@@ -44,7 +44,7 @@ recipecategory: Lunch
 
 Hey everyone, hope you are having an amazing day today. Today, we're going to prepare a special dish, beetroot cabbage paratha. One of my favorites. For mine, I'm gonna make it a bit tasty. This is gonna smell and look delicious.
 
-If you are first time watching my video, please subscribe to my channel and press bell icon. Beetroot Cabbage Paratha #healthyfood #shorts #viral #beetroot #cabbage. Beetroot Paratha Recipe - This is the stuffed version where stuffing mixture is made from grated beetroot, boiled potatoes and some spices. Cabbage Stuffed Paratha Recipe, Learn how to make Cabbage Stuffed Paratha (absolutely This Cabbage Stuffed Paratha recipe is Excellent and find more Great recipes, tried &amp; tested recipes from.
+If you are first time watching my video, please subscribe to my channel and press bell icon. Beetroot Cabbage Paratha #healthyfood #shorts #viral #beetroot #cabbage. Beetroot Paratha Recipe - This is the stuffed version where stuffing mixture is made from grated beetroot, boiled potatoes and some spices. Cabbage Stuffed Paratha Recipe, Learn how to make Cabbage Stuffed Paratha (absolutely This Cabbage Stuffed Paratha recipe is Excellent and find more Great recipes, tried & tested recipes from.
 
 Beetroot cabbage paratha is one of the most well liked of current trending foods on earth. It's easy, it's quick, it tastes yummy. It's appreciated by millions daily. Beetroot cabbage paratha is something that I have loved my whole life. They are fine and they look fantastic.
 
@@ -65,7 +65,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. Take 3 tbspoons of oil
 
 
-I love it very much and make it often at home. Colorful paratha or pink paratha is made with beets and wheat flour. In Kerala we does not add any thing in wheat dough while making paratha. Beetroot paratha is very healthy delicious. &#39;Paratha&#39; the most popular breakfast option in India specially in northern India. 
+I love it very much and make it often at home. Colorful paratha or pink paratha is made with beets and wheat flour. In Kerala we does not add any thing in wheat dough while making paratha. Beetroot paratha is very healthy delicious. 'Paratha' the most popular breakfast option in India specially in northern India. 
 
 <!--inarticleads2-->
 
@@ -76,6 +76,6 @@ I love it very much and make it often at home. Colorful paratha or pink paratha 
 1. Very healthy option of Indian flat bread.do try this.
 
 
-In Kerala we does not add any thing in wheat dough while making paratha. Beetroot paratha is very healthy delicious. &#39;Paratha&#39; the most popular breakfast option in India specially in northern India. But if you love to experiment with your taste bud you can try this spicy &#39;Cabbage Paratha&#39; as well. Cabbage Thepla- a delicious ,healthy flatbread made with grated cabbage ,spices and flour. A Making stuffed paratha&#39;s need some time to make but these vegetable thepla are quick and easier. 
+In Kerala we does not add any thing in wheat dough while making paratha. Beetroot paratha is very healthy delicious. 'Paratha' the most popular breakfast option in India specially in northern India. But if you love to experiment with your taste bud you can try this spicy 'Cabbage Paratha' as well. Cabbage Thepla- a delicious ,healthy flatbread made with grated cabbage ,spices and flour. A Making stuffed paratha's need some time to make but these vegetable thepla are quick and easier. 
 
 So that's going to wrap this up with this special food beetroot cabbage paratha recipe. Thank you very much for reading. I'm confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

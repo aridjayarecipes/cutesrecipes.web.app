@@ -66,7 +66,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 1. Get  Olive oil
 
 
-Spring Pea Soup with Bacon Croutons. Silky Eggplant Soup with Baby Peas and Radishes. Luckily, homemade croutons are incredibly easy to make. All you need is good crusty bread (tip: the better the bread, the better the croutons), garlic, olive oil, plenty of salt If I&#39;m making croutons for a specific soup or salad, I like to pop them in the oven first and prep the rest of the meal while they bake. 
+Spring Pea Soup with Bacon Croutons. Silky Eggplant Soup with Baby Peas and Radishes. Luckily, homemade croutons are incredibly easy to make. All you need is good crusty bread (tip: the better the bread, the better the croutons), garlic, olive oil, plenty of salt If I'm making croutons for a specific soup or salad, I like to pop them in the oven first and prep the rest of the meal while they bake. 
 
 <!--inarticleads2-->
 
@@ -78,6 +78,6 @@ Spring Pea Soup with Bacon Croutons. Silky Eggplant Soup with Baby Peas and Radi
 1. Turn on the oven and chop the bread into small cubes. Drizzle with olive oil and bake for 6-7 mins at 200. Meanwhile, add mussels to soup and heat through. Serve in a bowl with croutons on top 😁
 
 
-Luckily, homemade croutons are incredibly easy to make. All you need is good crusty bread (tip: the better the bread, the better the croutons), garlic, olive oil, plenty of salt If I&#39;m making croutons for a specific soup or salad, I like to pop them in the oven first and prep the rest of the meal while they bake. Learn how to make Creamy Chickpea Soup with Roasted Peppers. Add the pasta to the soup and stir in the hummus. Simmer until the pasta is al dente. 
+Luckily, homemade croutons are incredibly easy to make. All you need is good crusty bread (tip: the better the bread, the better the croutons), garlic, olive oil, plenty of salt If I'm making croutons for a specific soup or salad, I like to pop them in the oven first and prep the rest of the meal while they bake. Learn how to make Creamy Chickpea Soup with Roasted Peppers. Add the pasta to the soup and stir in the hummus. Simmer until the pasta is al dente. 
 
 So that's going to wrap this up with this exceptional food chickpea and mussel soup with homemade croutons recipe. Thank you very much for your time. I am confident that you can make this at home. There's gonna be interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

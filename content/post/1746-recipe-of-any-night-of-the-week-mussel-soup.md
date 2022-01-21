@@ -56,7 +56,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Make ready 250 ml cream
 
 
-And with cultivated mussels, which barely need to be cleaned, it&#39;s a snap to prepare. If you can&#39;t find mussels, try a fairly firm white fish, such as cod, instead--the soup will be different, but equally good. A warming soup for a cold day, this easy blend of mussels, fennel and cream is Clean the mussels by thoroughly scrubbing them under plenty of running water, pulling away and discarding the &#39;beards&#39;. I have made mussel soup before but this is the best recipe. 
+And with cultivated mussels, which barely need to be cleaned, it's a snap to prepare. If you can't find mussels, try a fairly firm white fish, such as cod, instead--the soup will be different, but equally good. A warming soup for a cold day, this easy blend of mussels, fennel and cream is Clean the mussels by thoroughly scrubbing them under plenty of running water, pulling away and discarding the 'beards'. I have made mussel soup before but this is the best recipe. 
 
 <!--inarticleads2-->
 
@@ -67,6 +67,6 @@ And with cultivated mussels, which barely need to be cleaned, it&#39;s a snap to
 1. Enjoy
 
 
-A warming soup for a cold day, this easy blend of mussels, fennel and cream is Clean the mussels by thoroughly scrubbing them under plenty of running water, pulling away and discarding the &#39;beards&#39;. I have made mussel soup before but this is the best recipe. Make sure you have the freshest mussels!! Serve with a good loaf of crusty bread to soak up all the wonderful broth! Jjamppong (Spicy Seafood Noodle Soup) KitchenAid. 
+A warming soup for a cold day, this easy blend of mussels, fennel and cream is Clean the mussels by thoroughly scrubbing them under plenty of running water, pulling away and discarding the 'beards'. I have made mussel soup before but this is the best recipe. Make sure you have the freshest mussels!! Serve with a good loaf of crusty bread to soak up all the wonderful broth! Jjamppong (Spicy Seafood Noodle Soup) KitchenAid. 
 
 So that's going to wrap it up for this special food mussel soup recipe. Thanks so much for your time. I'm sure you can make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

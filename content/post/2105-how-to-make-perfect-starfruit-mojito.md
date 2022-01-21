@@ -18,8 +18,8 @@ recipeingredient:
 - " Crushed ice"
 recipeinstructions:
 - "Blend everything by adding water."
-- "Strain &amp; chill it. Taste &amp; adjust,salt &amp; sugar."
-- "Fill 1/4 glass of crushed ice,pour chilled mojito &amp; serve."
+- "Strain & chill it. Taste & adjust,salt & sugar."
+- "Fill 1/4 glass of crushed ice,pour chilled mojito & serve."
 categories:
 - Recipe
 tags:
@@ -56,7 +56,7 @@ To begin with this recipe, we have to prepare a few components. You can have sta
 1. Make ready 1 cup chopped lemon grass
 1. Take 1/2 cup mint leaves
 1. Take 1 lemon
-1. Prepare to taste Salt &amp; sugar
+1. Prepare to taste Salt & sugar
 1. Prepare  Crushed ice
 
 
@@ -67,10 +67,10 @@ Bumbu-bumbu yang perlu disiapkan untuk membuat Starfruit Mojito Halal. This is a
 ##### Instructions to make Starfruit mojito:
 
 1. Blend everything by adding water.
-1. Strain &amp; chill it. Taste &amp; adjust,salt &amp; sugar.
-1. Fill 1/4 glass of crushed ice,pour chilled mojito &amp; serve.
+1. Strain & chill it. Taste & adjust,salt & sugar.
+1. Fill 1/4 glass of crushed ice,pour chilled mojito & serve.
 
 
-Mojito cocktail alcohol bar long drink traditional fresh tropical beverage top view copy space two highball glass. The Mojito is as refreshing as a Caribbean breeze. It&#39;s a little bit sweet and citrusy fresh, with bright mint laying cover for the earthier bite of rum that makes the drink&#39;s base. It&#39;s as Cuban as a cocktail. Mojito (/moʊˈhiːtoʊ/; Spanish: [moˈxito]) is a traditional Cuban highball. 
+Mojito cocktail alcohol bar long drink traditional fresh tropical beverage top view copy space two highball glass. The Mojito is as refreshing as a Caribbean breeze. It's a little bit sweet and citrusy fresh, with bright mint laying cover for the earthier bite of rum that makes the drink's base. It's as Cuban as a cocktail. Mojito (/moʊˈhiːtoʊ/; Spanish: [moˈxito]) is a traditional Cuban highball. 
 
 So that's going to wrap this up with this special food starfruit mojito recipe. Thanks so much for your time. I'm sure that you can make this at home. There is gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

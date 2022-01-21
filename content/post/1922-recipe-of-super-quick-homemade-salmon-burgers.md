@@ -31,7 +31,7 @@ recipeingredient:
 recipeinstructions:
 - "Drain the canned salmon, reserving the liquid."
 - "Beat the egg in a bowl. Use a fork to mix in the salmon and all the rest of the ingredients with the egg."
-- "Form patties. I usually do ones about 3-4in wide and 1/2in thick but you can do whatever size you like. If the mix is feeling too dry and won&#39;t stick together into patties, add some of the reserved salmon liquid to moisten."
+- "Form patties. I usually do ones about 3-4in wide and 1/2in thick but you can do whatever size you like. If the mix is feeling too dry and won't stick together into patties, add some of the reserved salmon liquid to moisten."
 - "Fry patties in oil over medium to medium-high heat till they are nice and crispy and browned on both sides."
 - "Serve with your choice of dressings."
 categories:
@@ -94,7 +94,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have salmo
 
 1. Drain the canned salmon, reserving the liquid.
 1. Beat the egg in a bowl. Use a fork to mix in the salmon and all the rest of the ingredients with the egg.
-1. Form patties. I usually do ones about 3-4in wide and 1/2in thick but you can do whatever size you like. If the mix is feeling too dry and won&#39;t stick together into patties, add some of the reserved salmon liquid to moisten.
+1. Form patties. I usually do ones about 3-4in wide and 1/2in thick but you can do whatever size you like. If the mix is feeling too dry and won't stick together into patties, add some of the reserved salmon liquid to moisten.
 1. Fry patties in oil over medium to medium-high heat till they are nice and crispy and browned on both sides.
 1. Serve with your choice of dressings.
 

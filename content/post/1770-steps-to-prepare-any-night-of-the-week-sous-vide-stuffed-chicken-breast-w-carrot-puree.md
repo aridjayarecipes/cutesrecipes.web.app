@@ -62,8 +62,8 @@ recipeinstructions:
 - "Add the spinach and cook for 1 min more."
 - "Add the seasonings to the pan. Add salt and pepper to taste. Then add a small squeeze of lemon juice. Taste and see if it needs any additional salt is needed."
 - "Pull pan off the heat and stir in both cheeses to the pan. Set the stuffing aside to cool."
-- "The chicken will need to handled carefully so it can be stuffed without breaking. First take a knife and insert it into the fattest part of breast in center. Then push knife in making sure you don&#39;t create any holes and get as close to tip of chicken as possible. Repeat with 2nd breast."
-- "Stuff the chicken with your fingers by pushing the stuffing in, and pushing it back with your finger or back end of spoon. Be gentle you don&#39;t want to tear the chicken apart."
+- "The chicken will need to handled carefully so it can be stuffed without breaking. First take a knife and insert it into the fattest part of breast in center. Then push knife in making sure you don't create any holes and get as close to tip of chicken as possible. Repeat with 2nd breast."
+- "Stuff the chicken with your fingers by pushing the stuffing in, and pushing it back with your finger or back end of spoon. Be gentle you don't want to tear the chicken apart."
 - "Generously salt the chicken breasts, then add olive oil, pepper and remaining dry seasonings to both sides. Press seasonings in gently."
 - "Get a vacuum sealed bag large enough for both chicken breasts. Place the chicken in, then add the garlic cloves, shallots, and herbs to top of each breast."
 - "Seal the bag."
@@ -168,8 +168,8 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Add the spinach and cook for 1 min more.
 1. Add the seasonings to the pan. Add salt and pepper to taste. Then add a small squeeze of lemon juice. Taste and see if it needs any additional salt is needed.
 1. Pull pan off the heat and stir in both cheeses to the pan. Set the stuffing aside to cool.
-1. The chicken will need to handled carefully so it can be stuffed without breaking. First take a knife and insert it into the fattest part of breast in center. Then push knife in making sure you don&#39;t create any holes and get as close to tip of chicken as possible. Repeat with 2nd breast.
-1. Stuff the chicken with your fingers by pushing the stuffing in, and pushing it back with your finger or back end of spoon. Be gentle you don&#39;t want to tear the chicken apart.
+1. The chicken will need to handled carefully so it can be stuffed without breaking. First take a knife and insert it into the fattest part of breast in center. Then push knife in making sure you don't create any holes and get as close to tip of chicken as possible. Repeat with 2nd breast.
+1. Stuff the chicken with your fingers by pushing the stuffing in, and pushing it back with your finger or back end of spoon. Be gentle you don't want to tear the chicken apart.
 1. Generously salt the chicken breasts, then add olive oil, pepper and remaining dry seasonings to both sides. Press seasonings in gently.
 1. Get a vacuum sealed bag large enough for both chicken breasts. Place the chicken in, then add the garlic cloves, shallots, and herbs to top of each breast.
 1. Seal the bag.

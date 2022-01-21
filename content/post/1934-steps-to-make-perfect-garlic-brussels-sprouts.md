@@ -19,7 +19,7 @@ recipeingredient:
 - "1 C chicken broth"
 recipeinstructions:
 - "In a nonstick skillet over medium heat, heat 1 tsp olive oil. Add the meat and cook for 3 minutes, stirring. Transfer to a plate."
-- "Add the remaining 1T olive oil and brussels sprouts to the pan, cut side down. Cook for 3 minutes, without stirring. Stir in the garlic and cook for 1 minute. Stir in paprika, S&amp;P. Add the chicken broth, cover partially and cook for 3 minutes. Stir in the meat. Serve warm."
+- "Add the remaining 1T olive oil and brussels sprouts to the pan, cut side down. Cook for 3 minutes, without stirring. Stir in the garlic and cook for 1 minute. Stir in paprika, S&P. Add the chicken broth, cover partially and cook for 3 minutes. Stir in the meat. Serve warm."
 - "I use bacon instead of chorizo. 8 slices for 2#. This picture is only 1#. I still used same amounts of everything for the 1# of sprouts!"
 categories:
 - Recipe
@@ -70,7 +70,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 ##### Instructions to make Garlic Brussels sprouts:
 
 1. In a nonstick skillet over medium heat, heat 1 tsp olive oil. Add the meat and cook for 3 minutes, stirring. Transfer to a plate.
-1. Add the remaining 1T olive oil and brussels sprouts to the pan, cut side down. Cook for 3 minutes, without stirring. Stir in the garlic and cook for 1 minute. Stir in paprika, S&amp;P. Add the chicken broth, cover partially and cook for 3 minutes. Stir in the meat. Serve warm.
+1. Add the remaining 1T olive oil and brussels sprouts to the pan, cut side down. Cook for 3 minutes, without stirring. Stir in the garlic and cook for 1 minute. Stir in paprika, S&P. Add the chicken broth, cover partially and cook for 3 minutes. Stir in the meat. Serve warm.
 1. I use bacon instead of chorizo. 8 slices for 2#. This picture is only 1#. I still used same amounts of everything for the 1# of sprouts!
 
 

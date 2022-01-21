@@ -61,7 +61,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 1. Make ready 6 pieces Cabbage Leaves
 1. Prepare 400 g Chicken
-1. Make ready Pinch or Salt &amp; Pepper
+1. Make ready Pinch or Salt & Pepper
 1. Take 2 Medium Onions
 1. Make ready 4 Gloves of Garlic
 1. Prepare 1 tsp Garam Masala

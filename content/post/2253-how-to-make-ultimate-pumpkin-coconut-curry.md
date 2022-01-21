@@ -63,7 +63,7 @@ Hello everybody, hope you're having an incredible day today. Today, I will show 
 
 Pumpkin coconut curry is one of the most popular of recent trending meals in the world. It is easy, it's fast, it tastes delicious. It is enjoyed by millions every day. Pumpkin coconut curry is something which I have loved my entire life. They are nice and they look fantastic.
 
-This pumpkin coconut curry has a bit of a kick (use less chilli if you don&#39;t like hot food) which is nicely soothed by the cooling coconut sauce. It&#39;s delicious with dry roasted cashews and fresh coriander. A beautiful vegan coconut chickpea curry recipe from Jamie Oliver. This pumpkin coconut curry recipe is super comforting - a proper winter warmer of a dish.
+This pumpkin coconut curry has a bit of a kick (use less chilli if you don't like hot food) which is nicely soothed by the cooling coconut sauce. It's delicious with dry roasted cashews and fresh coriander. A beautiful vegan coconut chickpea curry recipe from Jamie Oliver. This pumpkin coconut curry recipe is super comforting - a proper winter warmer of a dish.
 
 
 To get started with this particular recipe, we must first prepare a few components. You can have pumpkin coconut curry using 23 ingredients and 5 steps. Here is how you cook that.

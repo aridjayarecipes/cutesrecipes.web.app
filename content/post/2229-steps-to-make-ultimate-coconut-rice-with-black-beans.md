@@ -59,7 +59,7 @@ To begin with this recipe, we have to prepare a few components. You can cook coc
 1. Make ready 2 cups rice
 1. Prepare 1/2 sauteed shallots, minced
 1. Make ready 1 garlic clove, minced
-1. Get  Salt &amp; pepper to taste
+1. Get  Salt & pepper to taste
 
 
 

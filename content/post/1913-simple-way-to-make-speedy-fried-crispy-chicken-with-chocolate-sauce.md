@@ -103,7 +103,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 1. Make ready  to taste Salt
 
 
-Tarragon Deep-Fried Chicken — The Crispiest, Most Tender &amp; Juicy Deep-Fried Chicken Ever! Now enter…Crispy Chicken with Creamy Italian Sauce and Pasta. Kimberly, Just wanted to let you know that I posted a new and improved Crispy Chicken with Italian Sauce and Bowties today, that has a substitution for the Philly Cooking Cream. The dish comes complete with crispy fried chicken cubes with mouthwatering sweet and sour sauce. 
+Tarragon Deep-Fried Chicken — The Crispiest, Most Tender & Juicy Deep-Fried Chicken Ever! Now enter…Crispy Chicken with Creamy Italian Sauce and Pasta. Kimberly, Just wanted to let you know that I posted a new and improved Crispy Chicken with Italian Sauce and Bowties today, that has a substitution for the Philly Cooking Cream. The dish comes complete with crispy fried chicken cubes with mouthwatering sweet and sour sauce. 
 
 <!--inarticleads2-->
 

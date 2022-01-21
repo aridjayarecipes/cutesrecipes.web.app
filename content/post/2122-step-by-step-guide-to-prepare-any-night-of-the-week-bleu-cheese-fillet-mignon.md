@@ -19,11 +19,11 @@ recipeingredient:
 - "1 bunch Arugala"
 - "2 cup chopped mushrooms"
 recipeinstructions:
-- "In a bowl, 1 cup of bleu cheese, 2 tbsp evoo, 1 tbsp butter, salt &amp; pepper, stir for 5 minutes and set aside for later."
-- "Take your fillets, rub both sides of each fillet with evoo, then sprinkle salt &amp; pepper on each side."
+- "In a bowl, 1 cup of bleu cheese, 2 tbsp evoo, 1 tbsp butter, salt & pepper, stir for 5 minutes and set aside for later."
+- "Take your fillets, rub both sides of each fillet with evoo, then sprinkle salt & pepper on each side."
 - "Take a large pan and put about 2 tbsp of evoo, turn heat to high. After pan starts to smoke a bit, place your fillets in pan and sear for about 4-5 minutes on both sides. After both side are seared, place top on the pan and bring heat to medium and let them cook for 12 minutes."
-- "In a medium pan at medium heat, place 2 tbsp of butter or margarine, 2 cups of chopped mushrooms, salt &amp; pepper and stir every few minutes for 15 minutes. Then after 15 minutes add 1 full package of baby arugula and mix and cook for another 5 minutes."
-- "In a sauce pan at medium heat, put 1/4 cup of evoo, 1/2 a cup of red wine, 1/2 a cup of worcestersire sauce, 1/2 cup brown sugar, salt &amp; pepper. Bring to low heat and let simmer until sauce has thickened."
+- "In a medium pan at medium heat, place 2 tbsp of butter or margarine, 2 cups of chopped mushrooms, salt & pepper and stir every few minutes for 15 minutes. Then after 15 minutes add 1 full package of baby arugula and mix and cook for another 5 minutes."
+- "In a sauce pan at medium heat, put 1/4 cup of evoo, 1/2 a cup of red wine, 1/2 a cup of worcestersire sauce, 1/2 cup brown sugar, salt & pepper. Bring to low heat and let simmer until sauce has thickened."
 - "On a plate, place your mushrooms and arugula first, then your fillet, drizzle with your red wine sauce and top with a spoon full of bleu cheese. let sit for 5 minutes and serve."
 categories:
 - Recipe
@@ -62,7 +62,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can c
 1. Take 1/2 cup Olive Oil
 1. Prepare 1/2 cup Worcestersire
 1. Get 1 1/4 cup Brown Sugar
-1. Make ready 1 1/4 cup Salt &amp; Pepper
+1. Make ready 1 1/4 cup Salt & Pepper
 1. Get 1 cup Bleu Cheese Crumbles
 1. Take 1 bunch Arugala
 1. Make ready 2 cup chopped mushrooms
@@ -74,11 +74,11 @@ To get started with this recipe, we have to prepare a few ingredients. You can c
 
 ##### Instructions to make Bleu Cheese Fillet Mignon:
 
-1. In a bowl, 1 cup of bleu cheese, 2 tbsp evoo, 1 tbsp butter, salt &amp; pepper, stir for 5 minutes and set aside for later.
-1. Take your fillets, rub both sides of each fillet with evoo, then sprinkle salt &amp; pepper on each side.
+1. In a bowl, 1 cup of bleu cheese, 2 tbsp evoo, 1 tbsp butter, salt & pepper, stir for 5 minutes and set aside for later.
+1. Take your fillets, rub both sides of each fillet with evoo, then sprinkle salt & pepper on each side.
 1. Take a large pan and put about 2 tbsp of evoo, turn heat to high. After pan starts to smoke a bit, place your fillets in pan and sear for about 4-5 minutes on both sides. After both side are seared, place top on the pan and bring heat to medium and let them cook for 12 minutes.
-1. In a medium pan at medium heat, place 2 tbsp of butter or margarine, 2 cups of chopped mushrooms, salt &amp; pepper and stir every few minutes for 15 minutes. Then after 15 minutes add 1 full package of baby arugula and mix and cook for another 5 minutes.
-1. In a sauce pan at medium heat, put 1/4 cup of evoo, 1/2 a cup of red wine, 1/2 a cup of worcestersire sauce, 1/2 cup brown sugar, salt &amp; pepper. Bring to low heat and let simmer until sauce has thickened.
+1. In a medium pan at medium heat, place 2 tbsp of butter or margarine, 2 cups of chopped mushrooms, salt & pepper and stir every few minutes for 15 minutes. Then after 15 minutes add 1 full package of baby arugula and mix and cook for another 5 minutes.
+1. In a sauce pan at medium heat, put 1/4 cup of evoo, 1/2 a cup of red wine, 1/2 a cup of worcestersire sauce, 1/2 cup brown sugar, salt & pepper. Bring to low heat and let simmer until sauce has thickened.
 1. On a plate, place your mushrooms and arugula first, then your fillet, drizzle with your red wine sauce and top with a spoon full of bleu cheese. let sit for 5 minutes and serve.
 
 

@@ -61,7 +61,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Make ready 2 Eggs hard Boiled
 1. Get 1 handful Spinach
 1. Make ready 1 small sweet pepper
-1. Make ready to taste Salt &amp; Pepper
+1. Make ready to taste Salt & Pepper
 1. Take 1 tbls Bacon flavoured bits
 1. Prepare 1 Carrot
 1. Get 1 courgette

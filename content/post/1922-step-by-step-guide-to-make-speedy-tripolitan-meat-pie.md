@@ -45,7 +45,7 @@ recipeinstructions:
 - "Begin to distribute the meat filling on the stretched dough, using a suitable amount"
 - "Bake in a pre-heated oven at 200 ° C or 400 ° F for 12-18 minutes or until crispy and golden"
 - "Served hot with fresh mint leaves"
-- "By:Bara&#39;a Chougari"
+- "By:Bara'a Chougari"
 categories:
 - Recipe
 tags:
@@ -100,7 +100,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Make ready 1 tsp salt
 
 
-They are popular in Australia and New Zealand, Canada, Europe and the United Kingdom, Ghana, Nigeria, South Africa, and Zimbabwe. I am french canadian and meat pie has been a family tradition for years, made by my Memere&#39;s, but is a long lost art as we have. Go retro with the Hairy Bikers&#39; Corned beef pie, spoil yourself with a luxurious steak and ale pie, or Nothing warms you up like a rich pie, loaded with meat, vegetables and gravy. Authentic recipe for Kefalonia meat pie with puff pastry and half-half lamb and pork. 
+They are popular in Australia and New Zealand, Canada, Europe and the United Kingdom, Ghana, Nigeria, South Africa, and Zimbabwe. I am french canadian and meat pie has been a family tradition for years, made by my Memere's, but is a long lost art as we have. Go retro with the Hairy Bikers' Corned beef pie, spoil yourself with a luxurious steak and ale pie, or Nothing warms you up like a rich pie, loaded with meat, vegetables and gravy. Authentic recipe for Kefalonia meat pie with puff pastry and half-half lamb and pork. 
 
 <!--inarticleads2-->
 
@@ -119,9 +119,9 @@ They are popular in Australia and New Zealand, Canada, Europe and the United Kin
 1. Begin to distribute the meat filling on the stretched dough, using a suitable amount
 1. Bake in a pre-heated oven at 200 ° C or 400 ° F for 12-18 minutes or until crispy and golden
 1. Served hot with fresh mint leaves
-1. By:Bara&#39;a Chougari
+1. By:Bara'a Chougari
 
 
-Go retro with the Hairy Bikers&#39; Corned beef pie, spoil yourself with a luxurious steak and ale pie, or Nothing warms you up like a rich pie, loaded with meat, vegetables and gravy. Authentic recipe for Kefalonia meat pie with puff pastry and half-half lamb and pork. Traditional recipe from Kefalonia to cook Kefalonian meat pie. Nigerian Meat Pie Recipe: Best Recipe Ever. Nigerian meat pie is one of Nigeria&#39;s most loved snacks. 
+Go retro with the Hairy Bikers' Corned beef pie, spoil yourself with a luxurious steak and ale pie, or Nothing warms you up like a rich pie, loaded with meat, vegetables and gravy. Authentic recipe for Kefalonia meat pie with puff pastry and half-half lamb and pork. Traditional recipe from Kefalonia to cook Kefalonian meat pie. Nigerian Meat Pie Recipe: Best Recipe Ever. Nigerian meat pie is one of Nigeria's most loved snacks. 
 
 So that is going to wrap it up for this exceptional food tripolitan_meat_pie recipe. Thanks so much for reading. I'm confident that you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

@@ -19,7 +19,7 @@ recipeingredient:
 - "4 cloves garlic minced"
 - "4 cups packed broccoli about 3 12 ounces"
 recipeinstructions:
-- "Put the potatoes in the bottom of an Instant Pot. Add 1 cup water, 2 tablespoons of the butter, 1/2 teaspoon salt and a few grinds of pepper. Place the pot&#39;s steam rack over the potatoes."
+- "Put the potatoes in the bottom of an Instant Pot. Add 1 cup water, 2 tablespoons of the butter, 1/2 teaspoon salt and a few grinds of pepper. Place the pot's steam rack over the potatoes."
 - "Rub the top and sides of the salmon fillets with the paprika and lemon zest and season generously with salt and pepper. Place skin-side down on the rack. Put on the lid, making sure the steam valve is in the sealing position, and set the cooker to high pressure for 3 minutes for thawed or 5 minutes for frozen. When finished, carefully turn the steam valve to the venting position to release the pressure."
 - "Remove the salmon and rack and set the cooker to saute at normal heat. When the potatoes start sizzling, add the garlic and cook, stirring, until softened, 1 to 2 minutes; stir in the remaining 2 tablespoons butter and season generously with salt and pepper. Smash the potatoes with a fork or wooden spoon until chunky."
 - "Turn off the cooker. Add the broccoli to the potatoes and stir until wilted, 1 to 2 minutes. Season with salt and pepper. Divide the salmon and potato mixture among plates. Serve with lemon wedges."
@@ -72,7 +72,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 
 ##### Instructions to make Instant Pot Salmon with Garlic Potatoes and Broccoli:
 
-1. Put the potatoes in the bottom of an Instant Pot. Add 1 cup water, 2 tablespoons of the butter, 1/2 teaspoon salt and a few grinds of pepper. Place the pot&#39;s steam rack over the potatoes.
+1. Put the potatoes in the bottom of an Instant Pot. Add 1 cup water, 2 tablespoons of the butter, 1/2 teaspoon salt and a few grinds of pepper. Place the pot's steam rack over the potatoes.
 1. Rub the top and sides of the salmon fillets with the paprika and lemon zest and season generously with salt and pepper. Place skin-side down on the rack. Put on the lid, making sure the steam valve is in the sealing position, and set the cooker to high pressure for 3 minutes for thawed or 5 minutes for frozen. When finished, carefully turn the steam valve to the venting position to release the pressure.
 1. Remove the salmon and rack and set the cooker to saute at normal heat. When the potatoes start sizzling, add the garlic and cook, stirring, until softened, 1 to 2 minutes; stir in the remaining 2 tablespoons butter and season generously with salt and pepper. Smash the potatoes with a fork or wooden spoon until chunky.
 1. Turn off the cooker. Add the broccoli to the potatoes and stir until wilted, 1 to 2 minutes. Season with salt and pepper. Divide the salmon and potato mixture among plates. Serve with lemon wedges.

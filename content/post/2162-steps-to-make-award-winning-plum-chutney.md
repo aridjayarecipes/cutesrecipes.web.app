@@ -75,6 +75,6 @@ Give the gift of delicious, homemade, spiced plum chutney this Christmas by foll
 1. Serve it cool at the end of a meal
 
 
-Chutney-specific tips: Select fresh plums at their peak, and use firm, uniform-size produce free of any cracks, spots, or growths. This recipe was featured in our canning story. Cut the plums in half and remove the stones. This plum chutney recipe needs at least a month to mature before it&#39;s ready to be consumed, so it&#39;s perfect to make when plums are in season around August, September and October. This chutney is delicious served with everything from tuna fish sandwiches to grilled duck and quail. 
+Chutney-specific tips: Select fresh plums at their peak, and use firm, uniform-size produce free of any cracks, spots, or growths. This recipe was featured in our canning story. Cut the plums in half and remove the stones. This plum chutney recipe needs at least a month to mature before it's ready to be consumed, so it's perfect to make when plums are in season around August, September and October. This chutney is delicious served with everything from tuna fish sandwiches to grilled duck and quail. 
 
 So that's going to wrap this up with this special food plum chutney recipe. Thanks so much for reading. I'm confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

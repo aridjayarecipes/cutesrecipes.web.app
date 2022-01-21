@@ -81,7 +81,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can have
 1. Make ready as needed Water to make the batter
 1. Make ready  For garnish
 1. Prepare 1/2 cup beaten Curd
-1. Get 1/4 cup Green Chutney (Coriander &amp; Mint)
+1. Get 1/4 cup Green Chutney (Coriander & Mint)
 1. Get 1/4 cup Sweet tamarind Chutney
 1. Make ready as needed Nylon sev
 1. Make ready 3-4 tbsp Pomegranate kernels

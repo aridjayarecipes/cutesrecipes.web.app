@@ -71,7 +71,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Make ready 1 tsp oil
 
 
-It is basically a hot and spicy stir-fried warm cabbage salad with a hint of sweet and sour. Today&#39;s recipe has just two main ingredients cabbage and a little carrot. There are many variations to this Cabbage Sambharo Recipe. Serve Cabbage And Carrot Sambharo along with Palak Ragi &amp; Oats Wheat Thepla Recipe or To begin making the Cabbage and Carrot Sambharo Recipe, heat oil in a heavy bottomed pan on Cucumber Tomato Corn Peanut Salad With Lemon Recipe. 
+It is basically a hot and spicy stir-fried warm cabbage salad with a hint of sweet and sour. Today's recipe has just two main ingredients cabbage and a little carrot. There are many variations to this Cabbage Sambharo Recipe. Serve Cabbage And Carrot Sambharo along with Palak Ragi & Oats Wheat Thepla Recipe or To begin making the Cabbage and Carrot Sambharo Recipe, heat oil in a heavy bottomed pan on Cucumber Tomato Corn Peanut Salad With Lemon Recipe. 
 
 <!--inarticleads2-->
 
@@ -88,6 +88,6 @@ It is basically a hot and spicy stir-fried warm cabbage salad with a hint of swe
 1. Garnish with Coriander leaves
 
 
-There are many variations to this Cabbage Sambharo Recipe. Serve Cabbage And Carrot Sambharo along with Palak Ragi &amp; Oats Wheat Thepla Recipe or To begin making the Cabbage and Carrot Sambharo Recipe, heat oil in a heavy bottomed pan on Cucumber Tomato Corn Peanut Salad With Lemon Recipe. Thakkali Rasam Recipe - South Indian. Gujarati Famous Sambharo - Cabbage Carrot Sambharo - Stir Fry Veg Salad - Gujarati Style Sambharo. Hello friends, today we will learn how to make Gujarati Famous Sambharo - Cabbage Carrot Sambharo Recipe. 
+There are many variations to this Cabbage Sambharo Recipe. Serve Cabbage And Carrot Sambharo along with Palak Ragi & Oats Wheat Thepla Recipe or To begin making the Cabbage and Carrot Sambharo Recipe, heat oil in a heavy bottomed pan on Cucumber Tomato Corn Peanut Salad With Lemon Recipe. Thakkali Rasam Recipe - South Indian. Gujarati Famous Sambharo - Cabbage Carrot Sambharo - Stir Fry Veg Salad - Gujarati Style Sambharo. Hello friends, today we will learn how to make Gujarati Famous Sambharo - Cabbage Carrot Sambharo Recipe. 
 
 So that's going to wrap it up with this exceptional food cabbage carrot sambharo warm salad recipe. Thanks so much for your time. I am confident that you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

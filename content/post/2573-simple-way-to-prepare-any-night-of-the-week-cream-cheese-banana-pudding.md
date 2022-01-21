@@ -47,7 +47,7 @@ Hello everybody, it's Louise, welcome to our recipe page. Today, I will show you
 
 Cream cheese banana pudding is one of the most favored of recent trending meals in the world. It is appreciated by millions daily. It's easy, it is quick, it tastes delicious. Cream cheese banana pudding is something that I've loved my entire life. They're fine and they look fantastic.
 
-Stir into pudding mixture (I use the mixer). Fold in cool whip (I just stir it good). In Today&#39;s video I will be showing you my BANANA PUDDING CREAM CHEESE POUND CAKE RECIPE! Cheese Pudding with BerriesYerbabuena en la Cocina.
+Stir into pudding mixture (I use the mixer). Fold in cool whip (I just stir it good). In Today's video I will be showing you my BANANA PUDDING CREAM CHEESE POUND CAKE RECIPE! Cheese Pudding with BerriesYerbabuena en la Cocina.
 
 
 To get started with this particular recipe, we must prepare a few ingredients. You can cook cream cheese banana pudding using 9 ingredients and 3 steps. Here is how you cook it.
@@ -67,7 +67,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Prepare 2 tablespoons sour cream
 
 
-Secondly, NEVER use banana pudding to make this. Though I&#39;m sure it would taste ok, it just isn&#39;t like the old fashioned stuff, and if you use the banana Fourth, when creaming the cream cheese. It must be at room temperature before you can cream it or add the other ingredients to it, otherwise, you. Steps: In a small bowl, combine cracker crumbs and sugar; stir in butter. 
+Secondly, NEVER use banana pudding to make this. Though I'm sure it would taste ok, it just isn't like the old fashioned stuff, and if you use the banana Fourth, when creaming the cream cheese. It must be at room temperature before you can cream it or add the other ingredients to it, otherwise, you. Steps: In a small bowl, combine cracker crumbs and sugar; stir in butter. 
 
 <!--inarticleads2-->
 

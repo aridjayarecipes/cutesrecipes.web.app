@@ -36,7 +36,7 @@ recipeinstructions:
 - "Use either your hands or rolling pin to work the dough into 12 inch circle or you can make it rectangle. (You can brush the entire surface of pizza with oil or olive oil, but this time I skipped this steps). Use fork or toothpick poke holes all over the center of the pizza."
 - "Then layers with pasta sauce and add your desired toppings and bake in preheated oven for 10-15 minutes or until toppings are golden brown. Take it out from the oven, slice, and serve."
 - "Don’t forget to sprinkle chilli flakes if you like spicy on your pizza 🍕 Enjoy!"
-- "HappyCooking&amp;Baking!"
+- "HappyCooking&Baking!"
 categories:
 - Recipe
 tags:
@@ -103,7 +103,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook ho
 1. Use either your hands or rolling pin to work the dough into 12 inch circle or you can make it rectangle. (You can brush the entire surface of pizza with oil or olive oil, but this time I skipped this steps). Use fork or toothpick poke holes all over the center of the pizza.
 1. Then layers with pasta sauce and add your desired toppings and bake in preheated oven for 10-15 minutes or until toppings are golden brown. Take it out from the oven, slice, and serve.
 1. Don’t forget to sprinkle chilli flakes if you like spicy on your pizza 🍕 Enjoy!
-1. HappyCooking&amp;Baking!
+1. HappyCooking&Baking!
 
 
 

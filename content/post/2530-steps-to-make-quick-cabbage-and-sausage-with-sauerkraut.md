@@ -23,7 +23,7 @@ recipeingredient:
 recipeinstructions:
 - "Add olive oil and onions sausage and ham which is optional. Saute until till onions are clear."
 - "Add beer and cabbage and sauerkraut with juice and cook down cabbage."
-- "Add the remaining ingredients and seasonings. This is one quick pot meal that doesn&#39;t take much. Enjoy"
+- "Add the remaining ingredients and seasonings. This is one quick pot meal that doesn't take much. Enjoy"
 categories:
 - Recipe
 tags:
@@ -69,7 +69,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Make ready 1 tbsp pickling spice
 
 
-Aight y&#39;all, we fixin to cook some cabbage and sausage in the Instant Pot, let&#39;s cook it together!! Check it out &amp; thanks for watching!! Sauerkraut is slowly simmered with brown sugar and apple to mellow out the tangy flavor, then baked with bacon and kielbasa sausage for a hearty German-inspired main dish that will warm you up. It is definitely worth the time and effort! 
+Aight y'all, we fixin to cook some cabbage and sausage in the Instant Pot, let's cook it together!! Check it out & thanks for watching!! Sauerkraut is slowly simmered with brown sugar and apple to mellow out the tangy flavor, then baked with bacon and kielbasa sausage for a hearty German-inspired main dish that will warm you up. It is definitely worth the time and effort! 
 
 <!--inarticleads2-->
 
@@ -77,7 +77,7 @@ Aight y&#39;all, we fixin to cook some cabbage and sausage in the Instant Pot, l
 
 1. Add olive oil and onions sausage and ham which is optional. Saute until till onions are clear.
 1. Add beer and cabbage and sauerkraut with juice and cook down cabbage.
-1. Add the remaining ingredients and seasonings. This is one quick pot meal that doesn&#39;t take much. Enjoy
+1. Add the remaining ingredients and seasonings. This is one quick pot meal that doesn't take much. Enjoy
 
 
 Sauerkraut is slowly simmered with brown sugar and apple to mellow out the tangy flavor, then baked with bacon and kielbasa sausage for a hearty German-inspired main dish that will warm you up. It is definitely worth the time and effort! Sauerkraut is finely cut raw cabbage that has been fermented by various lactic acid bacteria. It has a long shelf life and a distinctive sour flavour. Sauerkraut needs nothing but cabbage, salt, and loads of time. 

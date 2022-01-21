@@ -14,7 +14,7 @@ recipeingredient:
 - "1 lemon"
 - "1 glass water"
 recipeinstructions:
-- "First, clean the mussels and check if they are all alive before cooking. Check this tip for more information about how do it. https://cookpad.com/uk/tips/7149-how-to-check-fresh-mussles-%F0%9F%90%9A?invite_token=6TyNp2fcS3xoPco2fxFWT34p&amp;shared_at=1615738175"
+- "First, clean the mussels and check if they are all alive before cooking. Check this tip for more information about how do it. https://cookpad.com/uk/tips/7149-how-to-check-fresh-mussles-%F0%9F%90%9A?invite_token=6TyNp2fcS3xoPco2fxFWT34p&shared_at=1615738175"
 - "Add the mussels in a deep pot with a lemon cut in wedges, but keep one lemon slide and squeez it in a glass of cold water. Pour the glass of water and turn on the gas. Bring the water to boil and cover the pot leaving some room for the steam to come out. Leave it for 5 mimutes."
 - "After 5 minutes all mussels are cooked. They are now widely open and their color has turned orange."
 - "Serve them with fresh lemon and e joy while they are warm!"
@@ -40,7 +40,7 @@ recipecategory: Dessert
 
 Hello everybody, I hope you are having an incredible day today. Today, I'm gonna show you how to make a special dish, steamed lemon mussels. It is one of my favorites food recipes. This time, I will make it a little bit tasty. This will be really delicious.
 
-Steamed Mussels in White Wine Recipe. Creamy Garlic Mussels in Lemon Butter Sauce. First, clean the mussels and check if they are all alive before cooking. All Reviews for Lemon &amp; Garlic Steamed Mussels.
+Steamed Mussels in White Wine Recipe. Creamy Garlic Mussels in Lemon Butter Sauce. First, clean the mussels and check if they are all alive before cooking. All Reviews for Lemon & Garlic Steamed Mussels.
 
 Steamed lemon mussels is one of the most well liked of recent trending foods on earth. It's easy, it's quick, it tastes delicious. It is enjoyed by millions every day. Steamed lemon mussels is something which I have loved my entire life. They are fine and they look wonderful.
 
@@ -62,7 +62,7 @@ My favorite way to make a mussels recipe is always in a simple garlic and lemon 
 
 ##### Instructions to make Steamed lemon mussels:
 
-1. First, clean the mussels and check if they are all alive before cooking. Check this tip for more information about how do it. https://cookpad.com/uk/tips/7149-how-to-check-fresh-mussles-%F0%9F%90%9A?invite_token=6TyNp2fcS3xoPco2fxFWT34p&amp;shared_at=1615738175
+1. First, clean the mussels and check if they are all alive before cooking. Check this tip for more information about how do it. https://cookpad.com/uk/tips/7149-how-to-check-fresh-mussles-%F0%9F%90%9A?invite_token=6TyNp2fcS3xoPco2fxFWT34p&shared_at=1615738175
 1. Add the mussels in a deep pot with a lemon cut in wedges, but keep one lemon slide and squeez it in a glass of cold water. Pour the glass of water and turn on the gas. Bring the water to boil and cover the pot leaving some room for the steam to come out. Leave it for 5 mimutes.
 1. After 5 minutes all mussels are cooked. They are now widely open and their color has turned orange.
 1. Serve them with fresh lemon and e joy while they are warm!

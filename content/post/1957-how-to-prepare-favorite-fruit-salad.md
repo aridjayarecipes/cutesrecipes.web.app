@@ -22,7 +22,7 @@ recipeingredient:
 recipeinstructions:
 - "This bowl contains banana, guava, apple, pear, and pomegranate kernels."
 - "Some mint leaves and lemon juice."
-- "Cut all the fruits and add lemon juice  Seasoned with salt &amp; pepper"
+- "Cut all the fruits and add lemon juice  Seasoned with salt & pepper"
 - "Enjoy healthy fruit salad"
 categories:
 - Recipe
@@ -75,7 +75,7 @@ Fruit salad recipes ideas for salad lovers from VKool site will give you various
 
 1. This bowl contains banana, guava, apple, pear, and pomegranate kernels.
 1. Some mint leaves and lemon juice.
-1. Cut all the fruits and add lemon juice  - Seasoned with salt &amp; pepper
+1. Cut all the fruits and add lemon juice  - Seasoned with salt & pepper
 1. Enjoy healthy fruit salad
 
 

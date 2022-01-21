@@ -79,7 +79,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Take 2 tbsp Lemon juice
 
 
-Yah, when it fits in the grocery budget I try to keep heavy cream around. Even with a lemon cream sauce, it&#39;s still going to taste like salmon, though. You can try different sources for your salmon, but Pro tip: citrus fruit break down the protein that make it "fishy" so this has lemon in the sauce, so it should help. This creamy buttery lemon butter sauce has a nice lemony kick to it, and a good amount of garlic. 
+Yah, when it fits in the grocery budget I try to keep heavy cream around. Even with a lemon cream sauce, it's still going to taste like salmon, though. You can try different sources for your salmon, but Pro tip: citrus fruit break down the protein that make it "fishy" so this has lemon in the sauce, so it should help. This creamy buttery lemon butter sauce has a nice lemony kick to it, and a good amount of garlic. 
 
 <!--inarticleads2-->
 

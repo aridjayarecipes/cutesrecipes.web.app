@@ -104,6 +104,6 @@ All recipes are vegetarian and most are also vegan. Using leftover or canned pum
 1. Pumpkin bread will be done when it starts to crack at the top
 
 
-This Gluten-Free Vegan Pumpkin Bread is moist, subtly spiced and perfectly dense. This Pumpkin Bread keeps covered in the fridge for up to a few days. It&#39;s best reheated in the toaster. This Vegan Pumpkin Bread is so easy to make, perfectly moist, and completely oil-free. Storing and serving classic vegan pumpkin bread. 
+This Gluten-Free Vegan Pumpkin Bread is moist, subtly spiced and perfectly dense. This Pumpkin Bread keeps covered in the fridge for up to a few days. It's best reheated in the toaster. This Vegan Pumpkin Bread is so easy to make, perfectly moist, and completely oil-free. Storing and serving classic vegan pumpkin bread. 
 
 So that is going to wrap it up with this exceptional food vegan pumpkin bread recipe. Thanks so much for reading. I am confident that you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

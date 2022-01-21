@@ -28,10 +28,10 @@ recipeingredient:
 - "1 (15 oz) canelli beans drained"
 - "1 lemon"
 recipeinstructions:
-- "Heat 1 tsp of olive oil in a stockpot or dutch oven over medium heat. Season chicken with s&amp;p. Add chicken to stock pot and cook about 2-3 minutes per side, set aside. Add remaining 1 tbs of olive oil to stock pot. Add onion &amp; carrots, cook stirring occasionally 3-4 minutes. Add garlic &amp; zucchini, cook about 3minutes. Stir in thyme &amp; oregano, cook 1 minute."
-- "Whisk in chicken stock &amp; bay leaves. Bring to a boil. Stir in pasta, rosemary &amp; chicken. Reduce heat &amp; simmer 10-12 minutes. Stir in kale &amp; beans until kale wilts..anout 3-4 minutes."
-- "Fetch out bayleaves &amp; rosemary sprig (rosemary will naturally fall off)."
-- "Squeeze lemon &amp; mix in. Season with s&amp;p. Mix."
+- "Heat 1 tsp of olive oil in a stockpot or dutch oven over medium heat. Season chicken with s&p. Add chicken to stock pot and cook about 2-3 minutes per side, set aside. Add remaining 1 tbs of olive oil to stock pot. Add onion & carrots, cook stirring occasionally 3-4 minutes. Add garlic & zucchini, cook about 3minutes. Stir in thyme & oregano, cook 1 minute."
+- "Whisk in chicken stock & bay leaves. Bring to a boil. Stir in pasta, rosemary & chicken. Reduce heat & simmer 10-12 minutes. Stir in kale & beans until kale wilts..anout 3-4 minutes."
+- "Fetch out bayleaves & rosemary sprig (rosemary will naturally fall off)."
+- "Squeeze lemon & mix in. Season with s&p. Mix."
 categories:
 - Recipe
 tags:
@@ -67,9 +67,9 @@ To begin with this recipe, we must prepare a few components. You can cook health
 
 1. Take 2 tbs olive oil, divided
 1. Prepare 1-1.5 pounds boneless, skinless chicken breasts
-1. Take to taste Kosher salt &amp; black pepper
+1. Take to taste Kosher salt & black pepper
 1. Make ready 1 onion-diced
-1. Make ready 2-3 carrots peeled &amp; diced
+1. Make ready 2-3 carrots peeled & diced
 1. Take 1/2 zucchini-diced
 1. Get 4 cloves garlic-minced
 1. Make ready 1/2 tsp dried thyme
@@ -79,7 +79,7 @@ To begin with this recipe, we must prepare a few components. You can cook health
 1. Make ready 2 bay leaves
 1. Get 1/2 box favorite small pasta
 1. Make ready 1 sprig fresh rosemary
-1. Prepare 1 bunch kale (removed from stems &amp; cut)
+1. Prepare 1 bunch kale (removed from stems & cut)
 1. Prepare 1 (15 oz) canelli beans, drained
 1. Take 1 lemon
 
@@ -90,12 +90,12 @@ This cleansing soup is great to make when you need a do-over in your eating plan
 
 ##### Steps to make Healthy detox chicken soup:
 
-1. Heat 1 tsp of olive oil in a stockpot or dutch oven over medium heat. Season chicken with s&amp;p. Add chicken to stock pot and cook about 2-3 minutes per side, set aside. Add remaining 1 tbs of olive oil to stock pot. Add onion &amp; carrots, cook stirring occasionally 3-4 minutes. Add garlic &amp; zucchini, cook about 3minutes. Stir in thyme &amp; oregano, cook 1 minute.
-1. Whisk in chicken stock &amp; bay leaves. Bring to a boil. Stir in pasta, rosemary &amp; chicken. Reduce heat &amp; simmer 10-12 minutes. Stir in kale &amp; beans until kale wilts..anout 3-4 minutes.
-1. Fetch out bayleaves &amp; rosemary sprig (rosemary will naturally fall off).
-1. Squeeze lemon &amp; mix in. Season with s&amp;p. Mix.
+1. Heat 1 tsp of olive oil in a stockpot or dutch oven over medium heat. Season chicken with s&p. Add chicken to stock pot and cook about 2-3 minutes per side, set aside. Add remaining 1 tbs of olive oil to stock pot. Add onion & carrots, cook stirring occasionally 3-4 minutes. Add garlic & zucchini, cook about 3minutes. Stir in thyme & oregano, cook 1 minute.
+1. Whisk in chicken stock & bay leaves. Bring to a boil. Stir in pasta, rosemary & chicken. Reduce heat & simmer 10-12 minutes. Stir in kale & beans until kale wilts..anout 3-4 minutes.
+1. Fetch out bayleaves & rosemary sprig (rosemary will naturally fall off).
+1. Squeeze lemon & mix in. Season with s&p. Mix.
 
 
-The soup is full of spiralized veggies: zoodles, coodles, and poodles, (spiralized My sons are traditional Chicken Noodle Soup guys and they request this version all the time! The ginger and veggies are so good for helping to feel. This Detox Chicken Soup is my (very unofficial version) of a delicious, healthy chicken soup recipe that is sure to make you feel great! The official, unofficial chicken soup recipe at my house. So, I&#39;m not in any way a dietician or a nutritionist, let&#39;s get that right out there. 
+The soup is full of spiralized veggies: zoodles, coodles, and poodles, (spiralized My sons are traditional Chicken Noodle Soup guys and they request this version all the time! The ginger and veggies are so good for helping to feel. This Detox Chicken Soup is my (very unofficial version) of a delicious, healthy chicken soup recipe that is sure to make you feel great! The official, unofficial chicken soup recipe at my house. So, I'm not in any way a dietician or a nutritionist, let's get that right out there. 
 
 So that is going to wrap this up for this special food healthy detox chicken soup recipe. Thank you very much for your time. I'm sure that you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

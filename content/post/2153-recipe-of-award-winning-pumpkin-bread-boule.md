@@ -16,7 +16,7 @@ recipeingredient:
 - "1/2 tsp sea salt less if using table salt"
 - " nut seeds granola or whatever you want to add"
 recipeinstructions:
-- "If you don&#39;t have it ready made, roast pumpkin and make pumpkin puree. You&#39;ll need 80g for the bread. Let cool before using puree for bread dough."
+- "If you don't have it ready made, roast pumpkin and make pumpkin puree. You'll need 80g for the bread. Let cool before using puree for bread dough."
 - "In a large bowl, mix 2 cups bread flour, 1 tsp yeast, and 1/2 tsp sea salt."
 - "When pumpkin puree is cool, add to flour mixture."
 - "Cover bowl and proof the dough at room temperature for 2-3 hours."
@@ -24,7 +24,7 @@ recipeinstructions:
 - "The next morning, take dough out from fridge. Wait 1 hour at room temperature."
 - "Add seeds, nuts, granola, etc. into dough."
 - "Preheat oven to 475°F. Place an oven-safe tray underneath for water. The water will create steam to make the crust of the bread crisp."
-- "Cut 4 pieces of cooking twine and place them across the top of bowl diagonally. Flip the dough/bowl over onto baking sheet. You can score the bread if you&#39;d like."
+- "Cut 4 pieces of cooking twine and place them across the top of bowl diagonally. Flip the dough/bowl over onto baking sheet. You can score the bread if you'd like."
 - "Once oven is done pre-heating, place the bread inside. BE VERY CAREFUL (WEAR GLOVES) and pour some water into the tray at the bottom."
 - "Bake at 475°F for 20-25 minutes or until light golden."
 - "Enjoy the lovely bread!"
@@ -74,7 +74,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 ##### Steps to make Pumpkin Bread (Boule):
 
-1. If you don&#39;t have it ready made, roast pumpkin and make pumpkin puree. You&#39;ll need 80g for the bread. Let cool before using puree for bread dough.
+1. If you don't have it ready made, roast pumpkin and make pumpkin puree. You'll need 80g for the bread. Let cool before using puree for bread dough.
 1. In a large bowl, mix 2 cups bread flour, 1 tsp yeast, and 1/2 tsp sea salt.
 1. When pumpkin puree is cool, add to flour mixture.
 1. Cover bowl and proof the dough at room temperature for 2-3 hours.
@@ -82,7 +82,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. The next morning, take dough out from fridge. Wait 1 hour at room temperature.
 1. Add seeds, nuts, granola, etc. into dough.
 1. Preheat oven to 475°F. Place an oven-safe tray underneath for water. The water will create steam to make the crust of the bread crisp.
-1. Cut 4 pieces of cooking twine and place them across the top of bowl diagonally. Flip the dough/bowl over onto baking sheet. You can score the bread if you&#39;d like.
+1. Cut 4 pieces of cooking twine and place them across the top of bowl diagonally. Flip the dough/bowl over onto baking sheet. You can score the bread if you'd like.
 1. Once oven is done pre-heating, place the bread inside. BE VERY CAREFUL (WEAR GLOVES) and pour some water into the tray at the bottom.
 1. Bake at 475°F for 20-25 minutes or until light golden.
 1. Enjoy the lovely bread!

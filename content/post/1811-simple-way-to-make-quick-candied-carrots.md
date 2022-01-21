@@ -42,7 +42,7 @@ Hey everyone, I hope you're having an amazing day today. Today, I'm gonna show y
 
 Candied carrots is one of the most favored of recent trending foods on earth. It's simple, it's fast, it tastes delicious. It is enjoyed by millions daily. Candied carrots is something that I have loved my entire life. They are nice and they look wonderful.
 
-Sliced carrots are glazed in a buttery brown sugar sauce for a colorful, crowd-pleasing side dish. These candied carrots are sliced carrots in a brown sugar and butter glaze that are simmered until tender. It&#39;s a super easy side dish that&#39;s perfect for a weeknight dinner or a holiday meal! Candied Carrot Curls. this link is to an external site that may or may not meet accessibility guidelines.
+Sliced carrots are glazed in a buttery brown sugar sauce for a colorful, crowd-pleasing side dish. These candied carrots are sliced carrots in a brown sugar and butter glaze that are simmered until tender. It's a super easy side dish that's perfect for a weeknight dinner or a holiday meal! Candied Carrot Curls. this link is to an external site that may or may not meet accessibility guidelines.
 
 
 To begin with this particular recipe, we must first prepare a few ingredients. You can cook candied carrots using 4 ingredients and 4 steps. Here is how you cook it.

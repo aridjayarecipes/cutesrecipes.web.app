@@ -18,8 +18,8 @@ recipeingredient:
 - "1/4 red pepper sliced  diced"
 - "1 sweet balsamic dressing"
 recipeinstructions:
-- "Rinse greens &amp; throw rest of ingredients together on plate. The ingredients above are for a single serving."
-- "To make sweet balsamic dressing - combine the following ingredients 1/2 teaspoon maple syrup &amp; 2 tablespoons balsamic vinegar. Mix very well. Start drizzling regular olive oil while whipping with a fork until it&#39;s to your liking. Normally the ratio is 2:1 (2 oil to 1 vinegar. But I like it sweeter so I add more oil). The dressing will be very thick."
+- "Rinse greens & throw rest of ingredients together on plate. The ingredients above are for a single serving."
+- "To make sweet balsamic dressing - combine the following ingredients 1/2 teaspoon maple syrup & 2 tablespoons balsamic vinegar. Mix very well. Start drizzling regular olive oil while whipping with a fork until it's to your liking. Normally the ratio is 2:1 (2 oil to 1 vinegar. But I like it sweeter so I add more oil). The dressing will be very thick."
 categories:
 - Recipe
 tags:
@@ -57,8 +57,8 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Make ready 3 star fruit slices
 1. Make ready 10 grapes sliced in half
 1. Make ready 1/2 avocado diced
-1. Make ready 1/4 apple sliced &amp; diced - any kind you like
-1. Prepare 1/4 red pepper sliced &amp; diced
+1. Make ready 1/4 apple sliced & diced - any kind you like
+1. Prepare 1/4 red pepper sliced & diced
 1. Get 1 sweet balsamic dressing
 
 
@@ -68,8 +68,8 @@ To get started with this particular recipe, we must prepare a few components. Yo
 
 ##### Steps to make Fresh Summer Salad:
 
-1. Rinse greens &amp; throw rest of ingredients together on plate. The ingredients above are for a single serving.
-1. To make sweet balsamic dressing - combine the following ingredients 1/2 teaspoon maple syrup &amp; 2 tablespoons balsamic vinegar. Mix very well. Start drizzling regular olive oil while whipping with a fork until it&#39;s to your liking. Normally the ratio is 2:1 (2 oil to 1 vinegar. But I like it sweeter so I add more oil). The dressing will be very thick.
+1. Rinse greens & throw rest of ingredients together on plate. The ingredients above are for a single serving.
+1. To make sweet balsamic dressing - combine the following ingredients 1/2 teaspoon maple syrup & 2 tablespoons balsamic vinegar. Mix very well. Start drizzling regular olive oil while whipping with a fork until it's to your liking. Normally the ratio is 2:1 (2 oil to 1 vinegar. But I like it sweeter so I add more oil). The dressing will be very thick.
 
 
 

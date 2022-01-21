@@ -21,7 +21,7 @@ recipeinstructions:
 - "Once browned, flip them over."
 - "Add all of the ☆ ingredients and bring to a boil over medium heat. Reduce to low, cover, and simmer for about 10 minutes. Turn over the meat from time to time."
 - "After simmering, it should have a uniform color as shown."
-- "And it&#39;s complete. Serve the prunes together with the meat."
+- "And it's complete. Serve the prunes together with the meat."
 - "Related recipe: Prune Sweet Simmer. The slight sweetness and the aroma of cinnamon are a nice addition."
 - "I used soy sauce this time, but soup stock is also delicious. Let it sit in the pot for a little while to allow more time for the flavors to absorb."
 categories:
@@ -75,7 +75,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Once browned, flip them over.
 1. Add all of the ☆ ingredients and bring to a boil over medium heat. Reduce to low, cover, and simmer for about 10 minutes. Turn over the meat from time to time.
 1. After simmering, it should have a uniform color as shown.
-1. And it&#39;s complete. Serve the prunes together with the meat.
+1. And it's complete. Serve the prunes together with the meat.
 1. Related recipe: Prune Sweet Simmer. The slight sweetness and the aroma of cinnamon are a nice addition.
 1. I used soy sauce this time, but soup stock is also delicious. Let it sit in the pot for a little while to allow more time for the flavors to absorb.
 

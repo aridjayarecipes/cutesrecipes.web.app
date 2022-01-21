@@ -18,13 +18,13 @@ recipeingredient:
 recipeinstructions:
 - "Prepare Brussel sprouts.... cut off ends peel 1-2 layers off, then cut in half. Set aside."
 - "Dice bacon.... set aside in bowl."
-- "Heat sauté pan to medium heat.... add bacon.... cook to desired crunchiness (that&#39;s a word because I just made it up)"
+- "Heat sauté pan to medium heat.... add bacon.... cook to desired crunchiness (that's a word because I just made it up)"
 - "Remove only the bacon set aside leaving the bacon grease in pan. (I like to leave it, adds flavor) or remove grease. Your choice. I also put the bowl of bacon in the microwave, just to keep it warm. DO NOT TURN ON THE MICROWAVE !!!!"
 - "Add 2 tablespoons butter to pan with bacon grease."
 - "Add Brussel sprouts to pan... add salt and pepper to taste. Sauté the Brussel sprouts until tender (or however you like them)"
 - "Once Brussel sprouts are done, turn heat to low. Add the bacon to sprouts."
 - "Drizzle honey.... stir it up.... turn heat off...... enjoy......"
-- "Don&#39;t forget to clean up the drool from this delicious side dish."
+- "Don't forget to clean up the drool from this delicious side dish."
 categories:
 - Recipe
 tags:
@@ -49,7 +49,7 @@ Hey everyone, it is Louise, welcome to our recipe page. Today, I will show you a
 
 Honey bacon Brussel sprouts is one of the most popular of recent trending foods on earth. It's simple, it is fast, it tastes delicious. It is enjoyed by millions every day. They are nice and they look fantastic. Honey bacon Brussel sprouts is something which I have loved my whole life.
 
-Brussels sprouts really get a bad rap. Most people say they hate them - but that&#39;s because most people have never really tried them. The little sprouts are tossed with a mixture of olive oil, balsamic vinegar, bacon, and garlic, roasted until they&#39;re tender, and then tossed with a mixture of honey and. In this video I show you how to make this delicious broussel sprout recipe.
+Brussels sprouts really get a bad rap. Most people say they hate them - but that's because most people have never really tried them. The little sprouts are tossed with a mixture of olive oil, balsamic vinegar, bacon, and garlic, roasted until they're tender, and then tossed with a mixture of honey and. In this video I show you how to make this delicious broussel sprout recipe.
 
 
 To begin with this recipe, we must prepare a few ingredients. You can have honey bacon brussel sprouts using 5 ingredients and 9 steps. Here is how you can achieve it.
@@ -65,7 +65,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have honey
 1. Prepare to taste Salt and pepper
 
 
-Dice bacon. set aside in bowl. Crispy roasted Brussels sprouts don&#39;t need any embellishment; they are delicious as is. But I like to add a splash of balsamic vinegar and a drizzle of honey before serving to balance the bitterness of the sprouts and bring the flavors alive. Make extra — these are as addictive as french fries! 
+Dice bacon. set aside in bowl. Crispy roasted Brussels sprouts don't need any embellishment; they are delicious as is. But I like to add a splash of balsamic vinegar and a drizzle of honey before serving to balance the bitterness of the sprouts and bring the flavors alive. Make extra — these are as addictive as french fries! 
 
 <!--inarticleads2-->
 
@@ -73,13 +73,13 @@ Dice bacon. set aside in bowl. Crispy roasted Brussels sprouts don&#39;t need an
 
 1. Prepare Brussel sprouts.... cut off ends peel 1-2 layers off, then cut in half. Set aside.
 1. Dice bacon.... set aside in bowl.
-1. Heat sauté pan to medium heat.... add bacon.... cook to desired crunchiness (that&#39;s a word because I just made it up)
+1. Heat sauté pan to medium heat.... add bacon.... cook to desired crunchiness (that's a word because I just made it up)
 1. Remove only the bacon set aside leaving the bacon grease in pan. (I like to leave it, adds flavor) or remove grease. Your choice. I also put the bowl of bacon in the microwave, just to keep it warm. DO NOT TURN ON THE MICROWAVE !!!!
 1. Add 2 tablespoons butter to pan with bacon grease.
 1. Add Brussel sprouts to pan... add salt and pepper to taste. Sauté the Brussel sprouts until tender (or however you like them)
 1. Once Brussel sprouts are done, turn heat to low. Add the bacon to sprouts.
 1. Drizzle honey.... stir it up.... turn heat off...... enjoy......
-1. Don&#39;t forget to clean up the drool from this delicious side dish.
+1. Don't forget to clean up the drool from this delicious side dish.
 
 
 But I like to add a splash of balsamic vinegar and a drizzle of honey before serving to balance the bitterness of the sprouts and bring the flavors alive. Make extra — these are as addictive as french fries! Ingredients for Honey Mustard Bacon Brussels Sprouts. Honey: I use basic honey for this recipe! You can experiment with flavored honey, but just be aware it may alter the overall taste of the recipe. 

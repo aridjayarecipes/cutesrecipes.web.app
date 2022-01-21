@@ -61,7 +61,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Take 1 medium tomato, diced
 1. Get 1 or 2 green onions, chopped into small slivers
 1. Prepare 1/2 tbsp cilantro, finely chopped (or more to taste)
-1. Make ready 1 red chili pepper (optional if you don&#39;t want the heat)
+1. Make ready 1 red chili pepper (optional if you don't want the heat)
 1. Make ready 1 sprinkle of cumin
 1. Prepare 1 sprinkle of Adobe
 1. Make ready pinch salt

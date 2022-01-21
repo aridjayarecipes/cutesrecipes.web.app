@@ -66,7 +66,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 1. Make ready 1/2 cup cheddar cheese
 
 
-When gnocchi is baked or used in soup, store-bought gnocchi is recommended as they are denser and will keep So cheesy and so creamy. I&#39;ve never even bought artichokes before so was a little sceptical but WOW!!!! Gnocchi (plural) are crowd-pleasing Italian dumplings that are most commonly made with potatoes and flour, then boiled like pasta until they&#39;re fluffy pillows of goodness. A simple sauce of butter, fresh sage leaves, and Parmesan is a classic accompaniment to gnocchi. 
+When gnocchi is baked or used in soup, store-bought gnocchi is recommended as they are denser and will keep So cheesy and so creamy. I've never even bought artichokes before so was a little sceptical but WOW!!!! Gnocchi (plural) are crowd-pleasing Italian dumplings that are most commonly made with potatoes and flour, then boiled like pasta until they're fluffy pillows of goodness. A simple sauce of butter, fresh sage leaves, and Parmesan is a classic accompaniment to gnocchi. 
 
 <!--inarticleads2-->
 
@@ -76,6 +76,6 @@ When gnocchi is baked or used in soup, store-bought gnocchi is recommended as th
 1. Put some butter in a pan and stir away the garlic and and pour in spinach and cabbage and lightly fry it.put in the milk and seasoning,peppercorns stir well. Add in the boiled gnocchi and cheese bring the mixture to boil. Serve hot.
 
 
-Gnocchi (plural) are crowd-pleasing Italian dumplings that are most commonly made with potatoes and flour, then boiled like pasta until they&#39;re fluffy pillows of goodness. A simple sauce of butter, fresh sage leaves, and Parmesan is a classic accompaniment to gnocchi. This creamy spinach gnocchi soup with parmesan cheese and mushrooms is easy to make and comforting. My creamy spinach and mushroom gnocchi is one of my most popular recipes on here, and I somehow got the idea of. This cheesy spinach quiche uses my favorite quiche recipe as the base. 
+Gnocchi (plural) are crowd-pleasing Italian dumplings that are most commonly made with potatoes and flour, then boiled like pasta until they're fluffy pillows of goodness. A simple sauce of butter, fresh sage leaves, and Parmesan is a classic accompaniment to gnocchi. This creamy spinach gnocchi soup with parmesan cheese and mushrooms is easy to make and comforting. My creamy spinach and mushroom gnocchi is one of my most popular recipes on here, and I somehow got the idea of. This cheesy spinach quiche uses my favorite quiche recipe as the base. 
 
 So that is going to wrap it up for this special food cheesy spinach cabbage gnocchi soup recipe. Thank you very much for reading. I'm sure you can make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

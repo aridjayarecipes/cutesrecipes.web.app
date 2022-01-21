@@ -67,7 +67,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Get 3 TBSP Honey
 1. Take 1 CUP Chicken stock
 1. Make ready  Grapeseed Oil
-1. Prepare  Kosher Salt &amp; Freshly Ground Black Pepper (to taste)
+1. Prepare  Kosher Salt & Freshly Ground Black Pepper (to taste)
 
 
 

@@ -25,7 +25,7 @@ recipeingredient:
 - "to taste Salt"
 recipeinstructions:
 - "Mix the flour and 2 cups coconut water into a dough and set aside. This is for the yummy coconut dumplings. We will get back to them later."
-- "Cut your pumpkin, carrots, and onions into cubes and add the cloves of garlic. Place on a baking sheet then drizzle with olive oil. Place in oven and enjoy the smell of your kitchen while it&#39;s roasting for the next 45 minutes. I added the thyme after about 15 minutes and my kitchen smelled so good."
+- "Cut your pumpkin, carrots, and onions into cubes and add the cloves of garlic. Place on a baking sheet then drizzle with olive oil. Place in oven and enjoy the smell of your kitchen while it's roasting for the next 45 minutes. I added the thyme after about 15 minutes and my kitchen smelled so good."
 - "After the veggies are nice and roasted, you need to blend them to a puree. You can add heavy cream at this point. I also added a cup of coconut milk."
 - "Pour it in a pot to cook some more."
 - "Add salt, spices and mix. I basically taste and add more if it is necessary. While this is happening put your bacon in the toaster oven so it is nice and crispy. Then serve with bread."
@@ -77,14 +77,14 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Make ready to taste Salt
 
 
-This vegan roasted pumpkin soup is super creamy, delicious and healthy! It&#39;s very easy to make, full of Easy creamy vegan pumpkin soup. To make this roasted pumpkin soup you need only a few. Instead of sugar pumpkins, you can use other winter squash in our Roasted Pumpkin Soup recipe. 
+This vegan roasted pumpkin soup is super creamy, delicious and healthy! It's very easy to make, full of Easy creamy vegan pumpkin soup. To make this roasted pumpkin soup you need only a few. Instead of sugar pumpkins, you can use other winter squash in our Roasted Pumpkin Soup recipe. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Roasted pumpkin soup:
 
 1. Mix the flour and 2 cups coconut water into a dough and set aside. This is for the yummy coconut dumplings. We will get back to them later.
-1. Cut your pumpkin, carrots, and onions into cubes and add the cloves of garlic. Place on a baking sheet then drizzle with olive oil. Place in oven and enjoy the smell of your kitchen while it&#39;s roasting for the next 45 minutes. I added the thyme after about 15 minutes and my kitchen smelled so good.
+1. Cut your pumpkin, carrots, and onions into cubes and add the cloves of garlic. Place on a baking sheet then drizzle with olive oil. Place in oven and enjoy the smell of your kitchen while it's roasting for the next 45 minutes. I added the thyme after about 15 minutes and my kitchen smelled so good.
 1. After the veggies are nice and roasted, you need to blend them to a puree. You can add heavy cream at this point. I also added a cup of coconut milk.
 1. Pour it in a pot to cook some more.
 1. Add salt, spices and mix. I basically taste and add more if it is necessary. While this is happening put your bacon in the toaster oven so it is nice and crispy. Then serve with bread.

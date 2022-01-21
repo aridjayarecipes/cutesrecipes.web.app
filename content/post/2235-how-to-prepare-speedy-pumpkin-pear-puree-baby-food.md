@@ -51,7 +51,7 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Prepare  Pear
 
 
-Once cooked transfer the pears to a food processor/blender and puree to desired consistency. Use this delicious pumpkin puree in all of your favorite fall and holiday recipes. I&#39;m so excited to share an updated version of my roasted Scoop out the flesh and puree until smooth in a food processor. Store in the fridge for up to a week or freeze for later. 
+Once cooked transfer the pears to a food processor/blender and puree to desired consistency. Use this delicious pumpkin puree in all of your favorite fall and holiday recipes. I'm so excited to share an updated version of my roasted Scoop out the flesh and puree until smooth in a food processor. Store in the fridge for up to a week or freeze for later. 
 
 <!--inarticleads2-->
 
@@ -60,6 +60,6 @@ Once cooked transfer the pears to a food processor/blender and puree to desired 
 1. Make sure your pumpkin is organic. Just peel off the skin and steam it together for 15-20m.once done blend it and storage with glass containers in your freezer.keep for 2-3 days max
 
 
-I&#39;m so excited to share an updated version of my roasted Scoop out the flesh and puree until smooth in a food processor. Store in the fridge for up to a week or freeze for later. Try our easy pumpkin purée recipe, then turn this sensational seasonal ingredient into cakes, pancakes and glorious pies. Different varieties of pumpkin make different purée textures and flavours, so while you can use any pumpkin for purée, they&#39;ll give different results. Homemade pear puree is sweet, filled with fiber, and rich in vitamin C. 
+I'm so excited to share an updated version of my roasted Scoop out the flesh and puree until smooth in a food processor. Store in the fridge for up to a week or freeze for later. Try our easy pumpkin purée recipe, then turn this sensational seasonal ingredient into cakes, pancakes and glorious pies. Different varieties of pumpkin make different purée textures and flavours, so while you can use any pumpkin for purée, they'll give different results. Homemade pear puree is sweet, filled with fiber, and rich in vitamin C. 
 
 So that's going to wrap this up for this exceptional food pumpkin pear purée baby food recipe. Thank you very much for your time. I'm sure that you can make this at home. There is gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -20,7 +20,7 @@ recipeinstructions:
 - "place tray into oven"
 - "put timer on for 14 minutes"
 - "while fish is cooking place potato into microwave safe bowl"
-- "place bowl into microwave, don&#39;t turn on yet"
+- "place bowl into microwave, don't turn on yet"
 - "when fish is halfway cooked turn microwave onto high for 5 minutes"
 - "turn fish then start preparing your Turkish bread"
 - "put Turkish bread into oven for the remaining 6 minutes on the timer"
@@ -77,7 +77,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 1. place tray into oven
 1. put timer on for 14 minutes
 1. while fish is cooking place potato into microwave safe bowl
-1. place bowl into microwave, don&#39;t turn on yet
+1. place bowl into microwave, don't turn on yet
 1. when fish is halfway cooked turn microwave onto high for 5 minutes
 1. turn fish then start preparing your Turkish bread
 1. put Turkish bread into oven for the remaining 6 minutes on the timer

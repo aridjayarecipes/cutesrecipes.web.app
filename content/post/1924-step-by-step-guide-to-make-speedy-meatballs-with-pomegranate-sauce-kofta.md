@@ -24,7 +24,7 @@ recipeinstructions:
 - "Dissolve the pomegranate molasses in the cup of water or more (as needed) and add it over the kofta"
 - "Leave to boil, allowing the kofta and the mixture to combined"
 - "Serve hot or cold as a starter"
-- "By:Bara&#39;a Chougari"
+- "By:Bara'a Chougari"
 categories:
 - Recipe
 tags:
@@ -48,7 +48,7 @@ recipecategory: Lunch
 Hey everyone, hope you are having an amazing day today. Today, I'm gonna show you how to prepare a special dish, meatballs_with_pomegranate_sauce
 (kofta). One of my favorites. For mine, I will make it a bit unique. This is gonna smell and look delicious.
 
-In a bowl add meat, parsley, onions, salt and spices, mix all together until well combined. Divide the kofta mixture into small balls equal in size. Another reason to love this recipe is it&#39;s QUICK! I know, friends, I just told you that I always thought that meatball making is a long and tedious business.
+In a bowl add meat, parsley, onions, salt and spices, mix all together until well combined. Divide the kofta mixture into small balls equal in size. Another reason to love this recipe is it's QUICK! I know, friends, I just told you that I always thought that meatball making is a long and tedious business.
 
 Meatballs_with_pomegranate_sauce
 (Kofta) is one of the most well liked of recent trending meals in the world. It is enjoyed by millions every day. It is easy, it's quick, it tastes yummy. They're nice and they look wonderful. Meatballs_with_pomegranate_sauce
@@ -85,7 +85,7 @@ In the simplest form, koftas consist of balls of ground meat - usually beef, chi
 1. Dissolve the pomegranate molasses in the cup of water or more (as needed) and add it over the kofta
 1. Leave to boil, allowing the kofta and the mixture to combined
 1. Serve hot or cold as a starter
-1. By:Bara&#39;a Chougari
+1. By:Bara'a Chougari
 
 
 Kofta is spiced minced meatballs fried and cooked in an aromatic spicy stew of onions and tomatoes, eaten with bread. You know it is a special occasion when your mother cooks kofta at home. This is how to make kofta: Mix minced meat with a variety of spices, minced onions and undercooked rice. Serve sauce with kofta and rice. I can only imagine how good this would be with lamb instead of the beef. 

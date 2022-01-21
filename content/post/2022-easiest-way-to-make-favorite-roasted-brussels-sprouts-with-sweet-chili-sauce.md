@@ -19,7 +19,7 @@ recipeinstructions:
 - "Heat the oven to 400°F. On a baking sheet, toss the brussels sprouts in cooking oil to coat evenly."
 - "Roast in the oven for 20 minutes, tossing them halfway so they cook evenly. Remove brussels sprouts from the oven and turn on oven broiler to high, with the oven rack positioned in the top third of the oven."
 - "In a small bowl, whisk together the remaining ingredients and pour over the brussels sprouts, tossing to coat evenly."
-- "Broil the brussels sprouts for 5 minutes or until the sugar in the chili sauce is bubbling and caramelizing. Watch them carefully so they don&#39;t burn! Remove from the oven and serve immediately."
+- "Broil the brussels sprouts for 5 minutes or until the sugar in the chili sauce is bubbling and caramelizing. Watch them carefully so they don't burn! Remove from the oven and serve immediately."
 categories:
 - Recipe
 tags:
@@ -69,7 +69,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook ro
 1. Heat the oven to 400°F. On a baking sheet, toss the brussels sprouts in cooking oil to coat evenly.
 1. Roast in the oven for 20 minutes, tossing them halfway so they cook evenly. Remove brussels sprouts from the oven and turn on oven broiler to high, with the oven rack positioned in the top third of the oven.
 1. In a small bowl, whisk together the remaining ingredients and pour over the brussels sprouts, tossing to coat evenly.
-1. Broil the brussels sprouts for 5 minutes or until the sugar in the chili sauce is bubbling and caramelizing. Watch them carefully so they don&#39;t burn! Remove from the oven and serve immediately.
+1. Broil the brussels sprouts for 5 minutes or until the sugar in the chili sauce is bubbling and caramelizing. Watch them carefully so they don't burn! Remove from the oven and serve immediately.
 
 
 

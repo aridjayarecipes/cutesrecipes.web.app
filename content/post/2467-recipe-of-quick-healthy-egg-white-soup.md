@@ -61,7 +61,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Make ready 1 tbsp soy sauce
 
 
-These healthy egg recipes turn an average staple into some seriously delicious egg dishes that you can eat any time of the day. By swapping out worthless white tortillas for whole wheat, swapping fatty pork sausage for the lean chicken variety, and adding fiber-rich beans and some fresh avocado, we&#39;ve. Egg drop soup (Chinese: 蛋花湯; pinyin: Dànhuātāng) is a Chinese soup of wispy beaten eggs in chicken broth. Condiments such as black or white pepper, and finely chopped scallions and tofu are optional, but commonly added to the soup. 
+These healthy egg recipes turn an average staple into some seriously delicious egg dishes that you can eat any time of the day. By swapping out worthless white tortillas for whole wheat, swapping fatty pork sausage for the lean chicken variety, and adding fiber-rich beans and some fresh avocado, we've. Egg drop soup (Chinese: 蛋花湯; pinyin: Dànhuātāng) is a Chinese soup of wispy beaten eggs in chicken broth. Condiments such as black or white pepper, and finely chopped scallions and tofu are optional, but commonly added to the soup. 
 
 <!--inarticleads2-->
 

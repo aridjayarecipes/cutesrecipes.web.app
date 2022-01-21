@@ -38,7 +38,7 @@ recipeinstructions:
 - "While the heat is warming up, let’s assemble the wontons. Place a small spoon of the “steak” filling and top with the melted vegan feta. Don’t overfill, we don’t want the to explode in the oil. Line the wonton with a bit of water, place another wonton wrap on top and press down to seal. Almost like making ravioli."
 - "Fry your wontons in small batches until golden on each side. They cook FAST so keep and eye on them."
 - "When done, place them on paper towel or a baking rack to drain off the access oil. I find that the baking rack method leaves you with more crispy wontons. The paper towel way makes them a little softer. Either way they taste GREAT."
-- "Blend together avocado, tomato, salt&amp;pepper to your liking, cilantro to your liking, garlic, and Greek yogurt. Blend until it’s combined and has a creamy consistency. Pour in a lidded bowl."
+- "Blend together avocado, tomato, salt&pepper to your liking, cilantro to your liking, garlic, and Greek yogurt. Blend until it’s combined and has a creamy consistency. Pour in a lidded bowl."
 - "Plate your wontons, your dipping sauce, and enjoy!"
 categories:
 - Recipe
@@ -77,7 +77,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have vegan
 1. Take  1 green bell pepper
 1. Get  1/2 large white onion
 1. Make ready  3 pieces of Beyond Breakfast Sausage (Beyond Meat)
-1. Take  Salt &amp; Pepper to taste
+1. Take  Salt & Pepper to taste
 1. Get  Nasoya wonton wraps
 1. Prepare  Vegetable oil
 1. Prepare 1 package sliced white mushrooms
@@ -86,7 +86,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have vegan
 1. Make ready  Tbsp unsweetened almond milk
 1. Get  Creamy Avocado Sauce
 1. Take  1 ripe avocado
-1. Make ready  Salt &amp; pepper (to taste)
+1. Make ready  Salt & pepper (to taste)
 1. Take  Fresh cilantro (to your liking)
 1. Prepare  1 small plum tomato
 1. Make ready  Tbsp garlic
@@ -108,7 +108,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have vegan
 1. While the heat is warming up, let’s assemble the wontons. Place a small spoon of the “steak” filling and top with the melted vegan feta. Don’t overfill, we don’t want the to explode in the oil. Line the wonton with a bit of water, place another wonton wrap on top and press down to seal. Almost like making ravioli.
 1. Fry your wontons in small batches until golden on each side. They cook FAST so keep and eye on them.
 1. When done, place them on paper towel or a baking rack to drain off the access oil. I find that the baking rack method leaves you with more crispy wontons. The paper towel way makes them a little softer. Either way they taste GREAT.
-1. Blend together avocado, tomato, salt&amp;pepper to your liking, cilantro to your liking, garlic, and Greek yogurt. Blend until it’s combined and has a creamy consistency. Pour in a lidded bowl.
+1. Blend together avocado, tomato, salt&pepper to your liking, cilantro to your liking, garlic, and Greek yogurt. Blend until it’s combined and has a creamy consistency. Pour in a lidded bowl.
 1. Plate your wontons, your dipping sauce, and enjoy!
 
 

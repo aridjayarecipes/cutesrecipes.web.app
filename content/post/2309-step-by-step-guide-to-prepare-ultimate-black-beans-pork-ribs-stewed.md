@@ -65,7 +65,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can have
 1. Prepare 2 tbsp soy sauce
 1. Prepare 2 tbsp shaoxing wine
 1. Get 2 tsp sesame oil
-1. Get  Salt, pepper, &amp; sugar
+1. Get  Salt, pepper, & sugar
 1. Make ready  Cooking oil
 
 

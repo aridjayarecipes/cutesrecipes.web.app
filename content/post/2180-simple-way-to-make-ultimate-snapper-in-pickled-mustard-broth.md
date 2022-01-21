@@ -46,7 +46,7 @@ recipecategory: Dinner
 
 Hey everyone, it is me again, Dan, welcome to my recipe page. Today, we're going to make a special dish, snapper in pickled mustard broth酸菜鱼片. It is one of my favorites. For mine, I will make it a little bit tasty. This will be really delicious.
 
-If you&#39;re a fan of hot and sour soup, please give this Szechuan Fish Soup a try too. I am highly confident that you will love it. This is a really easy dish. Suan Cai Yu is a lesser known Sichuan dish that features a hot and sour broth with super tender fish slices.
+If you're a fan of hot and sour soup, please give this Szechuan Fish Soup a try too. I am highly confident that you will love it. This is a really easy dish. Suan Cai Yu is a lesser known Sichuan dish that features a hot and sour broth with super tender fish slices.
 
 Snapper in pickled mustard broth酸菜鱼片 is one of the most well liked of recent trending foods in the world. It is simple, it's quick, it tastes delicious. It's appreciated by millions daily. They are fine and they look fantastic. Snapper in pickled mustard broth酸菜鱼片 is something which I've loved my whole life.
 
@@ -80,6 +80,6 @@ Easy to Prepare Perfect Chicken pot pie CUPCAKES. Simple Way to Make Delicious T
 1. Gently add fish into the soup. Cook for a few more seconds until they are done. Adjust seasoning with fish sauce if necessary. Garnish with herbs. Serve with rice.
 
 
-Suan Cai Yu is a lesser known Sichuan dish that features a hot and sour broth with super tender fish slices. Stir-fried with pickled mustard greens and cilantro in white sauce. Boiled with napa, green bean sprout, long leek in spicy chili oil and peppercorn powder &amp; oil. Tilapia or fillets of sole with pickled cabbage, chili peppers, cilantro and peppercorn. Pork belly in pickled mustard green shoots. 
+Suan Cai Yu is a lesser known Sichuan dish that features a hot and sour broth with super tender fish slices. Stir-fried with pickled mustard greens and cilantro in white sauce. Boiled with napa, green bean sprout, long leek in spicy chili oil and peppercorn powder & oil. Tilapia or fillets of sole with pickled cabbage, chili peppers, cilantro and peppercorn. Pork belly in pickled mustard green shoots. 
 
 So that is going to wrap this up with this exceptional food snapper in pickled mustard broth酸菜鱼片 recipe. Thanks so much for your time. I am confident you can make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

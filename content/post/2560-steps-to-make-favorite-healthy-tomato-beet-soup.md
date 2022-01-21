@@ -84,7 +84,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Prepare as required Croutons to serve
 
 
-This is my mom&#39;s beet tomato soup recipe that she would make for me when I went to school in Boston. I posted this on my IG stories and you Also probs because I wrote beer instead of beets by accident LOL. Regardless this is soooo good and the color is BEAUTIFUL!!! I tried to make this own. 
+This is my mom's beet tomato soup recipe that she would make for me when I went to school in Boston. I posted this on my IG stories and you Also probs because I wrote beer instead of beets by accident LOL. Regardless this is soooo good and the color is BEAUTIFUL!!! I tried to make this own. 
 
 <!--inarticleads2-->
 

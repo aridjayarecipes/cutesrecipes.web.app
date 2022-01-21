@@ -24,8 +24,8 @@ recipeinstructions:
 - "Take 3 carrots wash and cut into cubes and cook with required water till soft.."
 - "Take a mixie jar and add 3 eggs and beat well, add rose water to the egg(this is added to take out the smell of egg) one by one put all the ingredients milk powder, flour, salt, sugar, cardomom, cooked carrot and grind well."
 - "Take a pan add ghee and roast the cashews and raisins and keep aside. In the same pan add the carrot mix,on the gas stove and keep a old pan let it heat, on that keep the carrot mix pan and close the lid."
-- "Let it cook on medium flame. After 8 minutes open the lid and garnish with the fried nuts(here I used black sesame seeds to look attractive) close and cook it for another 5-8 mins. check it with a tooth pick if it comes clean. It&#39;s done(at this point of time the top will be little soft)"
-- "Take a plate and flip the carrot kums on to the plate and put it back to the pan(as the upside of the cake should touch the base of the pan) Just cook for 1-2 mins. AND It&#39;s READY!!!"
+- "Let it cook on medium flame. After 8 minutes open the lid and garnish with the fried nuts(here I used black sesame seeds to look attractive) close and cook it for another 5-8 mins. check it with a tooth pick if it comes clean. It's done(at this point of time the top will be little soft)"
+- "Take a plate and flip the carrot kums on to the plate and put it back to the pan(as the upside of the cake should touch the base of the pan) Just cook for 1-2 mins. AND It's READY!!!"
 - "Note: Mine it took 15-20 mins. The time will vary according to your pan size and thickness of carrot batter. similarly can make with Apple, Plantains,Dates. Just replace the carrots and enjoy the varieties."
 categories:
 - Recipe
@@ -71,7 +71,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Prepare 1 tbsp ghee
 
 
-Carrot pola is another sweet dish from North Malabar. Because of its color and taste I am sure everyone will love this. Carrot Pola (kums) is a delicious melt in mouth Malabar cuisine sweet traditional ifthar dish. I probably just didn&#39;t pay attention but how do I get Karat Carrot Seeds? 
+Carrot pola is another sweet dish from North Malabar. Because of its color and taste I am sure everyone will love this. Carrot Pola (kums) is a delicious melt in mouth Malabar cuisine sweet traditional ifthar dish. I probably just didn't pay attention but how do I get Karat Carrot Seeds? 
 
 <!--inarticleads2-->
 
@@ -80,11 +80,11 @@ Carrot pola is another sweet dish from North Malabar. Because of its color and t
 1. Take 3 carrots wash and cut into cubes and cook with required water till soft..
 1. Take a mixie jar and add 3 eggs and beat well, add rose water to the egg(this is added to take out the smell of egg) one by one put all the ingredients milk powder, flour, salt, sugar, cardomom, cooked carrot and grind well.
 1. Take a pan add ghee and roast the cashews and raisins and keep aside. In the same pan add the carrot mix,on the gas stove and keep a old pan let it heat, on that keep the carrot mix pan and close the lid.
-1. Let it cook on medium flame. After 8 minutes open the lid and garnish with the fried nuts(here I used black sesame seeds to look attractive) close and cook it for another 5-8 mins. check it with a tooth pick if it comes clean. It&#39;s done(at this point of time the top will be little soft)
-1. Take a plate and flip the carrot kums on to the plate and put it back to the pan(as the upside of the cake should touch the base of the pan) Just cook for 1-2 mins. AND It&#39;s READY!!!
+1. Let it cook on medium flame. After 8 minutes open the lid and garnish with the fried nuts(here I used black sesame seeds to look attractive) close and cook it for another 5-8 mins. check it with a tooth pick if it comes clean. It's done(at this point of time the top will be little soft)
+1. Take a plate and flip the carrot kums on to the plate and put it back to the pan(as the upside of the cake should touch the base of the pan) Just cook for 1-2 mins. AND It's READY!!!
 1. Note: Mine it took 15-20 mins. The time will vary according to your pan size and thickness of carrot batter. similarly can make with Apple, Plantains,Dates. Just replace the carrots and enjoy the varieties.
 
 
-Carrot Pola (kums) is a delicious melt in mouth Malabar cuisine sweet traditional ifthar dish. I probably just didn&#39;t pay attention but how do I get Karat Carrot Seeds? If I try to click the NEI recipe it just won&#39;t show a recipe. Carrot root is used for Vitamin A deficiency. It is also used to prevent cancer, and for digestive health, obesity, other nutrient deficiencies, and other conditions, but there is no good scientific evidence to. 
+Carrot Pola (kums) is a delicious melt in mouth Malabar cuisine sweet traditional ifthar dish. I probably just didn't pay attention but how do I get Karat Carrot Seeds? If I try to click the NEI recipe it just won't show a recipe. Carrot root is used for Vitamin A deficiency. It is also used to prevent cancer, and for digestive health, obesity, other nutrient deficiencies, and other conditions, but there is no good scientific evidence to. 
 
 So that's going to wrap it up with this special food carrot kums recipe. Thanks so much for your time. I am confident that you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Quick Pan Fried Fish Cakes w/Pomegranate &amp;amp; Lime Vinaigrette"
-title: "Recipe of Quick Pan Fried Fish Cakes w/Pomegranate &amp;amp; Lime Vinaigrette"
+description: "Recipe of Quick Pan Fried Fish Cakes w/Pomegranate &amp; Lime Vinaigrette"
+title: "Recipe of Quick Pan Fried Fish Cakes w/Pomegranate &amp; Lime Vinaigrette"
 slug: 1867-recipe-of-quick-pan-fried-fish-cakes-w-pomegranate-and-amp-lime-vinaigrette
 date: 2021-12-19T12:40:33.991Z
 image: https://img-global.cpcdn.com/recipes/6221527594827776/680x482cq70/pan-fried-fish-cakes-wpomegranate-lime-vinaigrette-recipe-main-photo.jpg
@@ -33,7 +33,7 @@ recipeinstructions:
 - "Cook for about 5 to 7 minutes, or until a nice golden brown, then flip and cook other side for 4 to 6 minutes, or again, until a nice golden brown."
 - "While the Fish Cakes are cooking, mix Vinaigrette ingredients in a small bowl. Whisk with a fork for about 2 minutes, then set aside until ready to serve."
 - "Once Fish Cakes are done cooking, place then on a paper towel to drain excess oil."
-- "To plate, simply place on a plate, add your side dish, then drizzle Fish Cake with Vinaigrette and serve while hot. (Don&#39;t forget to stir the Vinaigrette right before you drizzle it over the Fish Cake)"
+- "To plate, simply place on a plate, add your side dish, then drizzle Fish Cake with Vinaigrette and serve while hot. (Don't forget to stir the Vinaigrette right before you drizzle it over the Fish Cake)"
 - "Enjoy! I sure did!"
 categories:
 - Recipe
@@ -53,20 +53,20 @@ recipecategory: Dinner
 ---
 
 
-![Pan Fried Fish Cakes w/Pomegranate &amp; Lime Vinaigrette](https://img-global.cpcdn.com/recipes/6221527594827776/680x482cq70/pan-fried-fish-cakes-wpomegranate-lime-vinaigrette-recipe-main-photo.jpg)
+![Pan Fried Fish Cakes w/Pomegranate & Lime Vinaigrette](https://img-global.cpcdn.com/recipes/6221527594827776/680x482cq70/pan-fried-fish-cakes-wpomegranate-lime-vinaigrette-recipe-main-photo.jpg)
 
-Hello everybody, hope you are having an amazing day today. Today, I will show you a way to prepare a distinctive dish, pan fried fish cakes w/pomegranate &amp; lime vinaigrette. One of my favorites food recipes. For mine, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
+Hello everybody, hope you are having an amazing day today. Today, I will show you a way to prepare a distinctive dish, pan fried fish cakes w/pomegranate & lime vinaigrette. One of my favorites food recipes. For mine, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
 
-Pan Fried Fish Cakes w/Pomegranate &amp; Lime Vinaigrette is one of the most favored of current trending meals on earth. It's enjoyed by millions daily. It's easy, it is fast, it tastes delicious. They're fine and they look wonderful. Pan Fried Fish Cakes w/Pomegranate &amp; Lime Vinaigrette is something that I've loved my entire life.
-
-
+Pan Fried Fish Cakes w/Pomegranate & Lime Vinaigrette is one of the most favored of current trending meals on earth. It's enjoyed by millions daily. It's easy, it is fast, it tastes delicious. They're fine and they look wonderful. Pan Fried Fish Cakes w/Pomegranate & Lime Vinaigrette is something that I've loved my entire life.
 
 
-To get started with this particular recipe, we must first prepare a few ingredients. You can cook pan fried fish cakes w/pomegranate &amp; lime vinaigrette using 15 ingredients and 9 steps. Here is how you cook that.
+
+
+To get started with this particular recipe, we must first prepare a few ingredients. You can cook pan fried fish cakes w/pomegranate & lime vinaigrette using 15 ingredients and 9 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Pan Fried Fish Cakes w/Pomegranate &amp; Lime Vinaigrette:
+##### The ingredients needed to make Pan Fried Fish Cakes w/Pomegranate & Lime Vinaigrette:
 
 1. Take  Fish Cakes
 1. Take 1 lb ground Tilapia fish
@@ -79,7 +79,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Take  Vinaigrette
 1. Get 1/4 cup pomegranate molasses
 1. Make ready 1/4 cup EVOO
-1. Make ready 1/4 cup lime juice (actually 1/8, but couldn&#39;t put it)
+1. Make ready 1/4 cup lime juice (actually 1/8, but couldn't put it)
 1. Get 1 tsp black sesame seeds
 1. Get 1 tsp white sesame seeds
 1. Make ready 1/4 tsp cayenne pepper
@@ -89,7 +89,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 
 <!--inarticleads2-->
 
-##### Steps to make Pan Fried Fish Cakes w/Pomegranate &amp; Lime Vinaigrette:
+##### Steps to make Pan Fried Fish Cakes w/Pomegranate & Lime Vinaigrette:
 
 1. Combine all Fish Cake ingredients except EVOO. Mix well.
 1. Make into patties
@@ -98,10 +98,10 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Cook for about 5 to 7 minutes, or until a nice golden brown, then flip and cook other side for 4 to 6 minutes, or again, until a nice golden brown.
 1. While the Fish Cakes are cooking, mix Vinaigrette ingredients in a small bowl. Whisk with a fork for about 2 minutes, then set aside until ready to serve.
 1. Once Fish Cakes are done cooking, place then on a paper towel to drain excess oil.
-1. To plate, simply place on a plate, add your side dish, then drizzle Fish Cake with Vinaigrette and serve while hot. (Don&#39;t forget to stir the Vinaigrette right before you drizzle it over the Fish Cake)
+1. To plate, simply place on a plate, add your side dish, then drizzle Fish Cake with Vinaigrette and serve while hot. (Don't forget to stir the Vinaigrette right before you drizzle it over the Fish Cake)
 1. Enjoy! I sure did!
 
 
 
 
-So that is going to wrap it up for this exceptional food pan fried fish cakes w/pomegranate &amp; lime vinaigrette recipe. Thank you very much for your time. I'm sure you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!
+So that is going to wrap it up for this exceptional food pan fried fish cakes w/pomegranate & lime vinaigrette recipe. Thank you very much for your time. I'm sure you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

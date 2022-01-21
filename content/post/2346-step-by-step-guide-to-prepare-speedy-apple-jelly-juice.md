@@ -56,7 +56,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Get  Hand full of plums and grapes
 
 
-Looks pretty in the jar and tastes ok. It&#39;s natural and doesn&#39;t include artificial preservatives. Apple Jelly is prepared from Apple Juice/infusion. See more ideas about jelly recipes, apple jelly, jelly. apple jelly recipe. 
+Looks pretty in the jar and tastes ok. It's natural and doesn't include artificial preservatives. Apple Jelly is prepared from Apple Juice/infusion. See more ideas about jelly recipes, apple jelly, jelly. apple jelly recipe. 
 
 <!--inarticleads2-->
 

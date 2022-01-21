@@ -30,7 +30,7 @@ recipeingredient:
 - " Microherbs for garnish"
 recipeinstructions:
 - "With coals hot enough for cooking, add water and rice in a cast iron pan - season with spice for rice and a pinch of salt. Cook and set aside."
-- "In a separate cast iron pan or wok, pour some olive oil. Add onions, garlic and peppers and fry on &#39;til nicely browned. Slightly reduce the heat under the pan by scraping away some coals and add the seafood mix and mussels."
+- "In a separate cast iron pan or wok, pour some olive oil. Add onions, garlic and peppers and fry on 'til nicely browned. Slightly reduce the heat under the pan by scraping away some coals and add the seafood mix and mussels."
 - "While the seafood simmers, add frozen peas and butter cubes into the mix and leave to cook."
 - "Add the star anise, paprika, bouquet garni, chicken stock cubes and water to the cooking seafood and allow to simmer for about 10 minutes."
 - "When you see that the seafood is nicely cooked, add the cooked rice and mix well. Remember to remove the bouquet garni bundle and star anise before mixing. For a final creamy touch, add the cream cheese and dried basil to the mixture."
@@ -57,7 +57,7 @@ recipecategory: Dessert
 
 Hello everybody, I hope you are having an amazing day today. Today, I'm gonna show you how to make a special dish, paella made on the braai. One of my favorites. This time, I'm gonna make it a bit unique. This is gonna smell and look delicious.
 
-Paella is a rice dish originally from Valencia. For this reason, many non-Spaniards view it as Spain&#39;s national dish, but Spaniards almost unanimously consider it to be a dish from the Valencian region. Valencians, in turn, regard paella as one of their identifying symbols. Heat the skottel braai (or a large frying pan) and add the olive oil.
+Paella is a rice dish originally from Valencia. For this reason, many non-Spaniards view it as Spain's national dish, but Spaniards almost unanimously consider it to be a dish from the Valencian region. Valencians, in turn, regard paella as one of their identifying symbols. Heat the skottel braai (or a large frying pan) and add the olive oil.
 
 Paella made on the braai is one of the most favored of recent trending foods in the world. It's appreciated by millions daily. It's simple, it's quick, it tastes delicious. They're nice and they look fantastic. Paella made on the braai is something that I have loved my entire life.
 
@@ -95,7 +95,7 @@ Plus apricot BBQ snoek and blanched vannamei prawns are currently on promotion a
 ##### Instructions to make Paella made on the braai:
 
 1. With coals hot enough for cooking, add water and rice in a cast iron pan - season with spice for rice and a pinch of salt. Cook and set aside.
-1. In a separate cast iron pan or wok, pour some olive oil. Add onions, garlic and peppers and fry on &#39;til nicely browned. Slightly reduce the heat under the pan by scraping away some coals and add the seafood mix and mussels.
+1. In a separate cast iron pan or wok, pour some olive oil. Add onions, garlic and peppers and fry on 'til nicely browned. Slightly reduce the heat under the pan by scraping away some coals and add the seafood mix and mussels.
 1. While the seafood simmers, add frozen peas and butter cubes into the mix and leave to cook.
 1. Add the star anise, paprika, bouquet garni, chicken stock cubes and water to the cooking seafood and allow to simmer for about 10 minutes.
 1. When you see that the seafood is nicely cooked, add the cooked rice and mix well. Remember to remove the bouquet garni bundle and star anise before mixing. For a final creamy touch, add the cream cheese and dried basil to the mixture.

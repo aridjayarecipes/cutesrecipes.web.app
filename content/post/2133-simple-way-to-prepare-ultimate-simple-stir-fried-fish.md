@@ -54,7 +54,7 @@ Hello everybody, it is me again, Dan, welcome to our recipe page. Today, I will 
 
 Simple stir-fried fish is one of the most popular of recent trending meals in the world. It is easy, it is fast, it tastes yummy. It's enjoyed by millions every day. They are nice and they look fantastic. Simple stir-fried fish is something that I have loved my entire life.
 
-Let&#39;s make stir-fried fish with vegetables today. Great recipe for Simple stir-fried fish. This is the basic Thai style stir fried fish I tried recreating. Coat the fish evenly with the mixture.
+Let's make stir-fried fish with vegetables today. Great recipe for Simple stir-fried fish. This is the basic Thai style stir fried fish I tried recreating. Coat the fish evenly with the mixture.
 
 
 To begin with this particular recipe, we must first prepare a few ingredients. You can have simple stir-fried fish using 15 ingredients and 4 steps. Here is how you can achieve it.
@@ -80,7 +80,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Prepare 1 can chicken broth
 
 
-Be the first to review this recipe. Stir together the fish sauce, rice vinegar, and sugar in a small bowl and set aside. Put the sesame oil in a wok or large skillet over medium-high heat. Home Saltwater &gt; Bay Fishing &gt;. 
+Be the first to review this recipe. Stir together the fish sauce, rice vinegar, and sugar in a small bowl and set aside. Put the sesame oil in a wok or large skillet over medium-high heat. Home Saltwater > Bay Fishing >. 
 
 <!--inarticleads2-->
 
@@ -92,6 +92,6 @@ Be the first to review this recipe. Stir together the fish sauce, rice vinegar, 
 1. Pour in the mixture to the veggies and bring it to boil. Adjust salt and sugar per taste. Layer the fried fishes on top of the gravy and give a gentle stir. Serve stir-fried fish with white rice.
 
 
-Put the sesame oil in a wok or large skillet over medium-high heat. Home Saltwater &gt; Bay Fishing &gt;. To get rid of the holiday weight gain, we stir-fried fish with more vegetables. It works for bass, catfish, perch, rockfish, cod, tilapia and any other white-meat fish we could think of. Stir-frying is preferred for most other seafood cooking for the same reasons. 
+Put the sesame oil in a wok or large skillet over medium-high heat. Home Saltwater > Bay Fishing >. To get rid of the holiday weight gain, we stir-fried fish with more vegetables. It works for bass, catfish, perch, rockfish, cod, tilapia and any other white-meat fish we could think of. Stir-frying is preferred for most other seafood cooking for the same reasons. 
 
 So that's going to wrap it up with this exceptional food simple stir-fried fish recipe. Thank you very much for reading. I'm sure you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

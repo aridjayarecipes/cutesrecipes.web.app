@@ -29,7 +29,7 @@ recipeingredient:
 - "1 tsp balsamic vinegar"
 recipeinstructions:
 - "start by boiling pasta as directed add to a large bowl"
-- "cut brussel sprouts in 1/2 add to a pan with 1tbs olive oil, garlic,&amp; bellpepper, &amp; mini cobletts, &amp; diced onion .cook down till pancetta and brussel sprouts are crisp &amp; ready &amp; tender, about 12minutes turn off heat &amp; add in spinach, stir cover with lid &amp; let wilt.Once your spinach is wilted add to pasta with all dressing &amp; seasonings stir well. can be served warm or cold."
+- "cut brussel sprouts in 1/2 add to a pan with 1tbs olive oil, garlic,& bellpepper, & mini cobletts, & diced onion .cook down till pancetta and brussel sprouts are crisp & ready & tender, about 12minutes turn off heat & add in spinach, stir cover with lid & let wilt.Once your spinach is wilted add to pasta with all dressing & seasonings stir well. can be served warm or cold."
 categories:
 - Recipe
 tags:
@@ -89,7 +89,7 @@ To get started with this particular recipe, we must first prepare a few componen
 ##### Instructions to make Warm Brussel Sprout Pasta Salad:
 
 1. start by boiling pasta as directed add to a large bowl
-1. cut brussel sprouts in 1/2 add to a pan with 1tbs olive oil, garlic,&amp; bellpepper, &amp; mini cobletts, &amp; diced onion .cook down till pancetta and brussel sprouts are crisp &amp; ready &amp; tender, about 12minutes turn off heat &amp; add in spinach, stir cover with lid &amp; let wilt.Once your spinach is wilted add to pasta with all dressing &amp; seasonings stir well. can be served warm or cold.
+1. cut brussel sprouts in 1/2 add to a pan with 1tbs olive oil, garlic,& bellpepper, & mini cobletts, & diced onion .cook down till pancetta and brussel sprouts are crisp & ready & tender, about 12minutes turn off heat & add in spinach, stir cover with lid & let wilt.Once your spinach is wilted add to pasta with all dressing & seasonings stir well. can be served warm or cold.
 
 
 

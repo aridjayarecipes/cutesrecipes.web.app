@@ -22,7 +22,7 @@ recipeinstructions:
 - "add your seasonings *salt, pepper and garlic powder*"
 - "just wait"
 - "and wait"
-- "viola! it&#39;s ready! get a paper plate so u can just throw em&#39; in the can when youre done.. it&#39;s your lazy day.. heck no to dishwashing today.it&#39;s good w/ fried chicken, andouille sausage or pan smeared stake"
+- "viola! it's ready! get a paper plate so u can just throw em' in the can when youre done.. it's your lazy day.. heck no to dishwashing today.it's good w/ fried chicken, andouille sausage or pan smeared stake"
 categories:
 - Recipe
 tags:
@@ -75,7 +75,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. add your seasonings *salt, pepper and garlic powder*
 1. just wait
 1. and wait
-1. viola! it&#39;s ready! get a paper plate so u can just throw em&#39; in the can when youre done.. it&#39;s your lazy day.. heck no to dishwashing today.it&#39;s good w/ fried chicken, andouille sausage or pan smeared stake
+1. viola! it's ready! get a paper plate so u can just throw em' in the can when youre done.. it's your lazy day.. heck no to dishwashing today.it's good w/ fried chicken, andouille sausage or pan smeared stake
 
 
 

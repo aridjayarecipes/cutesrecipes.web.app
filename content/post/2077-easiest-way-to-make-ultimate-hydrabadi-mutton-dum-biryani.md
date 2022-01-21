@@ -63,7 +63,7 @@ recipecategory: Dinner
 
 Hey everyone, hope you're having an incredible day today. Today, I'm gonna show you how to make a distinctive dish, hydrabadi mutton dum biryani. It is one of my favorites. For mine, I will make it a bit unique. This is gonna smell and look delicious.
 
-Learn How To Make Hyderabadi Mutton Dum Biryani in simple steps on our new show Masala Trails with Smita Deo only on Get Curried. Mutton biryani recipe - Simple and quick lamb biryani recipes suitable for bachelors, new cooks and busy folks. The first one is a hyderabadi pakki dum mutton biryani &amp; second one is a kachi. This article is part of the series on.
+Learn How To Make Hyderabadi Mutton Dum Biryani in simple steps on our new show Masala Trails with Smita Deo only on Get Curried. Mutton biryani recipe - Simple and quick lamb biryani recipes suitable for bachelors, new cooks and busy folks. The first one is a hyderabadi pakki dum mutton biryani & second one is a kachi. This article is part of the series on.
 
 Hydrabadi mutton dum biryani is one of the most popular of current trending meals on earth. It's appreciated by millions daily. It is simple, it is quick, it tastes delicious. Hydrabadi mutton dum biryani is something which I've loved my entire life. They are nice and they look wonderful.
 

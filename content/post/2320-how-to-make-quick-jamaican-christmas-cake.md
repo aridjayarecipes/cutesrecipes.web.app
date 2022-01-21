@@ -41,7 +41,7 @@ recipeinstructions:
 - "In a large bowl cream sugar and butter. Then add eggs mix well"
 - "Add molasses, browning, blended fruit mixture, lime juice, vanilla, almond extract and stir"
 - "Add flour, nutmeg, cloves, all spice, baking powder, cinnamon, salt, lime zest and stir. Do not over mix"
-- "Pour the batter into your baking pans and bake for 1hr. You can put some cherries in the center of the batter if you wish. Stick a toothpick in the middle to ensure it&#39;s done. Tooth pick will come out clean if it&#39;s done. Enjoy!"
+- "Pour the batter into your baking pans and bake for 1hr. You can put some cherries in the center of the batter if you wish. Stick a toothpick in the middle to ensure it's done. Tooth pick will come out clean if it's done. Enjoy!"
 categories:
 - Recipe
 tags:
@@ -113,7 +113,7 @@ To get started with this recipe, we must prepare a few ingredients. You can cook
 1. In a large bowl cream sugar and butter. Then add eggs mix well
 1. Add molasses, browning, blended fruit mixture, lime juice, vanilla, almond extract and stir
 1. Add flour, nutmeg, cloves, all spice, baking powder, cinnamon, salt, lime zest and stir. Do not over mix
-1. Pour the batter into your baking pans and bake for 1hr. You can put some cherries in the center of the batter if you wish. Stick a toothpick in the middle to ensure it&#39;s done. Tooth pick will come out clean if it&#39;s done. Enjoy!
+1. Pour the batter into your baking pans and bake for 1hr. You can put some cherries in the center of the batter if you wish. Stick a toothpick in the middle to ensure it's done. Tooth pick will come out clean if it's done. Enjoy!
 
 
 

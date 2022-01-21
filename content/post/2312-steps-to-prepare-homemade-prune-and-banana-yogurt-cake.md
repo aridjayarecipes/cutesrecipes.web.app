@@ -27,7 +27,7 @@ recipeinstructions:
 - "Combine the flour and baking powder and sift together."
 - "Put the brown sugar and butter into a bowl and mix well. Once blended, add the beaten eggs and yogurt, in that order, a little at a time. Mix together. Next, sift the flour and baking powder into the bowl. Mix until there are no lumps and the mixture is smooth."
 - "Pour half of the batter from Step 4 into the pie dish, layer with prunes and banana slices, and pour on the rest of the batter."
-- "Bake for 30 minutes at 200°C and it&#39;s done."
+- "Bake for 30 minutes at 200°C and it's done."
 categories:
 - Recipe
 tags:
@@ -85,7 +85,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Combine the flour and baking powder and sift together.
 1. Put the brown sugar and butter into a bowl and mix well. Once blended, add the beaten eggs and yogurt, in that order, a little at a time. Mix together. Next, sift the flour and baking powder into the bowl. Mix until there are no lumps and the mixture is smooth.
 1. Pour half of the batter from Step 4 into the pie dish, layer with prunes and banana slices, and pour on the rest of the batter.
-1. Bake for 30 minutes at 200°C and it&#39;s done.
+1. Bake for 30 minutes at 200°C and it's done.
 
 
 

@@ -53,7 +53,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Make ready 200 ml 🍌 Almond milk
 
 
-In this video, Strawberry Sue teaches you how to make her delicious strawberry banana smoothie. This smoothie will leave you feeling refreshed and give you that little extra boost you need to get you through the day. This Strawberry Banana Oat Smoothie will quickly become a new go-to. It&#39;s brimming with freshness and natural sweetness, it&#39;s hearty and it has an irresistible strawberry flavor. 
+In this video, Strawberry Sue teaches you how to make her delicious strawberry banana smoothie. This smoothie will leave you feeling refreshed and give you that little extra boost you need to get you through the day. This Strawberry Banana Oat Smoothie will quickly become a new go-to. It's brimming with freshness and natural sweetness, it's hearty and it has an irresistible strawberry flavor. 
 
 <!--inarticleads2-->
 
@@ -62,6 +62,6 @@ In this video, Strawberry Sue teaches you how to make her delicious strawberry b
 1. Mix all ingredients in a blender.
 
 
-This Strawberry Banana Oat Smoothie will quickly become a new go-to. It&#39;s brimming with freshness and natural sweetness, it&#39;s hearty and it has an irresistible strawberry flavor. And you can make it year round with frozen strawberries. Add a scoop of protein powder to this mix for some extra staying power. Among all of the smoothie flavor options, few can beat a strawberry banana smoothie. 
+This Strawberry Banana Oat Smoothie will quickly become a new go-to. It's brimming with freshness and natural sweetness, it's hearty and it has an irresistible strawberry flavor. And you can make it year round with frozen strawberries. Add a scoop of protein powder to this mix for some extra staying power. Among all of the smoothie flavor options, few can beat a strawberry banana smoothie. 
 
 So that's going to wrap it up for this exceptional food banana and strawberry smoothie recipe. Thanks so much for reading. I am sure that you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

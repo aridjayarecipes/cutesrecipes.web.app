@@ -77,7 +77,7 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Take 1/3 cup chicken /vegatable broth 3 table spoons reserve
 
 
-Maybe you just haven&#39;t had them prepared the right way! Brussels sprouts are simply seasoned with salt, pepper, and olive oil, then slow-roasted in a very hot oven until darkest brown. They are the perfect combination of sweet and salty, and make for perfect snack leftovers straight from the fridge the next day! Brussels sprouts are so misunderstood: They&#39;ve long been cast aside as a lame bitter vegetable hated by kids and adults alike. 
+Maybe you just haven't had them prepared the right way! Brussels sprouts are simply seasoned with salt, pepper, and olive oil, then slow-roasted in a very hot oven until darkest brown. They are the perfect combination of sweet and salty, and make for perfect snack leftovers straight from the fridge the next day! Brussels sprouts are so misunderstood: They've long been cast aside as a lame bitter vegetable hated by kids and adults alike. 
 
 <!--inarticleads2-->
 
@@ -88,6 +88,6 @@ Maybe you just haven&#39;t had them prepared the right way! Brussels sprouts are
 1. add salt if needed
 
 
-They are the perfect combination of sweet and salty, and make for perfect snack leftovers straight from the fridge the next day! Brussels sprouts are so misunderstood: They&#39;ve long been cast aside as a lame bitter vegetable hated by kids and adults alike. Now, they&#39;re finally getting their due with creative recipes that turn them into tiny slider buns, cheddar-loaded crostinis, and more. My favorite classic Roasted Brussels Sprouts recipe! It&#39;s quick and easy side dish to make, naturally gluten-free and vegan and healthy, easy to customize with favorite seasonings or sauces, and SO delicious. 
+They are the perfect combination of sweet and salty, and make for perfect snack leftovers straight from the fridge the next day! Brussels sprouts are so misunderstood: They've long been cast aside as a lame bitter vegetable hated by kids and adults alike. Now, they're finally getting their due with creative recipes that turn them into tiny slider buns, cheddar-loaded crostinis, and more. My favorite classic Roasted Brussels Sprouts recipe! It's quick and easy side dish to make, naturally gluten-free and vegan and healthy, easy to customize with favorite seasonings or sauces, and SO delicious. 
 
 So that's going to wrap this up with this exceptional food moo shu brussels sprouts recipe. Thank you very much for your time. I am sure that you will make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

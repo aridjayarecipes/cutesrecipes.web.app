@@ -65,7 +65,7 @@ To begin with this recipe, we must prepare a few components. You can cook carrot
 ##### The ingredients needed to make Carrot -Radish Paratha:
 
 1. Take 2 cups Wheat flour
-1. Prepare 1 cup each Grated Carrot &amp; Radish -
+1. Prepare 1 cup each Grated Carrot & Radish -
 1. Get 1 Finely chopped Onion -
 1. Get 1-2 Green Chillies finely chopped
 1. Prepare 1 tsp Turmeric powder,

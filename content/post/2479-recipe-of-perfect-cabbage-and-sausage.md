@@ -41,7 +41,7 @@ recipecategory: Lunch
 
 Hey everyone, it's John, welcome to my recipe site. Today, I will show you a way to make a special dish, cabbage and sausage. It is one of my favorites. For mine, I will make it a bit unique. This is gonna smell and look delicious.
 
-This Cabbage, Sausage and Potato Soup recipe is totally hearty and comforting, full of the best savory flavors, easy to make, and it&#39;s guaranteed to warm you right up! Hello Everyone today we have a quick but fulfilling meal. Give it a try, it was truly delicious. Thank you so much for watching.
+This Cabbage, Sausage and Potato Soup recipe is totally hearty and comforting, full of the best savory flavors, easy to make, and it's guaranteed to warm you right up! Hello Everyone today we have a quick but fulfilling meal. Give it a try, it was truly delicious. Thank you so much for watching.
 
 Cabbage and sausage is one of the most well liked of current trending foods in the world. It is appreciated by millions daily. It is easy, it's quick, it tastes yummy. They are fine and they look fantastic. Cabbage and sausage is something which I have loved my entire life.
 
@@ -60,7 +60,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can h
 1. Prepare  Good pinch of crushed red pepper
 
 
-Cover dish tightly with a layer of. Cabbage and Sausage - Healthy One Pot Dinner. It&#39;s a great recipe for people on any diet because it keeps. Turkey smoked sausage is great in this recipe! 
+Cover dish tightly with a layer of. Cabbage and Sausage - Healthy One Pot Dinner. It's a great recipe for people on any diet because it keeps. Turkey smoked sausage is great in this recipe! 
 
 <!--inarticleads2-->
 
@@ -70,6 +70,6 @@ Cover dish tightly with a layer of. Cabbage and Sausage - Healthy One Pot Dinner
 1. Serve it up! I love it with hot sauce🥰
 
 
-It&#39;s a great recipe for people on any diet because it keeps. Turkey smoked sausage is great in this recipe! Reviews for Photos of Cabbage and Smoked Sausage Soup. Cabbage and sausage is a classic pairing that&#39;s enhanced with a simple spice blend. Not only does coconut oil, black pepper and Turmeric (called Golden Paste) taste good, the combination of those three ingredients is beneficial to your health. 
+It's a great recipe for people on any diet because it keeps. Turkey smoked sausage is great in this recipe! Reviews for Photos of Cabbage and Smoked Sausage Soup. Cabbage and sausage is a classic pairing that's enhanced with a simple spice blend. Not only does coconut oil, black pepper and Turmeric (called Golden Paste) taste good, the combination of those three ingredients is beneficial to your health. 
 
 So that's going to wrap it up with this special food cabbage and sausage recipe. Thank you very much for your time. I'm confident that you will make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

@@ -16,7 +16,7 @@ recipeingredient:
 recipeinstructions:
 - "Wash and cut off hard end of each Brussel sprout. Slice in half and toss in a gallon ziploc bag."
 - "Drizzle olive oil all over sprouts. Keep air in the bag to toss and coat evenly. Add in a sweet bbq rub preferably with brown sugar. Toss to coat evenly."
-- "Wrap a cookie sheet with foil and pre heat oven to 425°. Pour Brussel sprouts evenly across pan. It&#39;s ok if the leave fall off leave them."
+- "Wrap a cookie sheet with foil and pre heat oven to 425°. Pour Brussel sprouts evenly across pan. It's ok if the leave fall off leave them."
 - "Roast at 425° until they start to char. Flip as many as you can. The leaves will start to char and the sugar in the rub will start to caramelize. Usually takes about 30 minutes. The best part are the crispy leaves that fall off."
 categories:
 - Recipe
@@ -64,7 +64,7 @@ To get started with this recipe, we must first prepare a few components. You can
 
 1. Wash and cut off hard end of each Brussel sprout. Slice in half and toss in a gallon ziploc bag.
 1. Drizzle olive oil all over sprouts. Keep air in the bag to toss and coat evenly. Add in a sweet bbq rub preferably with brown sugar. Toss to coat evenly.
-1. Wrap a cookie sheet with foil and pre heat oven to 425°. Pour Brussel sprouts evenly across pan. It&#39;s ok if the leave fall off leave them.
+1. Wrap a cookie sheet with foil and pre heat oven to 425°. Pour Brussel sprouts evenly across pan. It's ok if the leave fall off leave them.
 1. Roast at 425° until they start to char. Flip as many as you can. The leaves will start to char and the sugar in the rub will start to caramelize. Usually takes about 30 minutes. The best part are the crispy leaves that fall off.
 
 

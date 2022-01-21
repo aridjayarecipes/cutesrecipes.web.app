@@ -22,7 +22,7 @@ recipeingredient:
 - "5-7 cups water"
 recipeinstructions:
 - "This recipe makes a LOT of soup, if you are making the recipe as written dig out your BIG crockpot :)"
-- "Peel, wash, chop, everything! It all goes in the crockpot at the same time. Turn to high and forget about it for the day. Well actually the smell of cooking cabbage prevents you from forgetting about it but other than the occasional completely useless stir you don&#39;t actually have to DO anything else until 6 to 8 hours later when you serve it."
+- "Peel, wash, chop, everything! It all goes in the crockpot at the same time. Turn to high and forget about it for the day. Well actually the smell of cooking cabbage prevents you from forgetting about it but other than the occasional completely useless stir you don't actually have to DO anything else until 6 to 8 hours later when you serve it."
 categories:
 - Recipe
 tags:
@@ -75,7 +75,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 ##### Instructions to make Vegan Cabbage Soup:
 
 1. This recipe makes a LOT of soup, if you are making the recipe as written dig out your BIG crockpot :)
-1. Peel, wash, chop, everything! It all goes in the crockpot at the same time. Turn to high and forget about it for the day. Well actually the smell of cooking cabbage prevents you from forgetting about it but other than the occasional completely useless stir you don&#39;t actually have to DO anything else until 6 to 8 hours later when you serve it.
+1. Peel, wash, chop, everything! It all goes in the crockpot at the same time. Turn to high and forget about it for the day. Well actually the smell of cooking cabbage prevents you from forgetting about it but other than the occasional completely useless stir you don't actually have to DO anything else until 6 to 8 hours later when you serve it.
 
 
 

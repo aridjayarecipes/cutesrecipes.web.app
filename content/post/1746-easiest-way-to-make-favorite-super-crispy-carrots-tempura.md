@@ -21,7 +21,7 @@ recipeingredient:
 recipeinstructions:
 - "Cut to shred a carrot then put into a bowl add soft flour and starch. Adjust to cover the whole with flour. Put a mixing egg into a bowl and mix it."
 - "Spread it on parchment paper as you like the size. Deep fried it with 180℃ oil with paper on it. Leave it for a minutes then turn it over and take the paper off."
-- "Chop with chopsticks to make the inside crunchy. When it&#39;s being crunchy both of side that time for dinner with salt or tempura sauce."
+- "Chop with chopsticks to make the inside crunchy. When it's being crunchy both of side that time for dinner with salt or tempura sauce."
 - "The cooking video is on YouTube "Coozy Life Tempura" check it right guys (^_-)-☆"
 categories:
 - Recipe
@@ -74,7 +74,7 @@ Take about a quarter of them and place on a flat wooden spatula, then slide them
 
 1. Cut to shred a carrot then put into a bowl add soft flour and starch. Adjust to cover the whole with flour. Put a mixing egg into a bowl and mix it.
 1. Spread it on parchment paper as you like the size. Deep fried it with 180℃ oil with paper on it. Leave it for a minutes then turn it over and take the paper off.
-1. Chop with chopsticks to make the inside crunchy. When it&#39;s being crunchy both of side that time for dinner with salt or tempura sauce.
+1. Chop with chopsticks to make the inside crunchy. When it's being crunchy both of side that time for dinner with salt or tempura sauce.
 1. The cooking video is on YouTube "Coozy Life Tempura" check it right guys (^_-)-☆
 
 

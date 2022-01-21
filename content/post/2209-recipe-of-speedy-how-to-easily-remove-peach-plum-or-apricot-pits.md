@@ -13,15 +13,15 @@ recipeingredient:
 - "1 Peaches apricots or plums"
 - "1 Knife"
 recipeinstructions:
-- "Whether it&#39;s peaches, plums, or apricots, you can cleanly remove the pits. ※If the fruit is unripe or over-ripe, it may be hard to do."
+- "Whether it's peaches, plums, or apricots, you can cleanly remove the pits. ※If the fruit is unripe or over-ripe, it may be hard to do."
 - "For apricots, first press the knife deeply into the grain of the fruit, pressing it up against the pit, spinning the fruit slowly to cut around the fruit."
 - "Break the fruit open into two halves at the grain (like you would an avocado)."
 - "Flip the side with the pit intact upside down and press the knife into the center. Repeat the process from Step 2."
 - "Break apart the two halves like in Step 3."
 - "Pinch the pit and gently remove from the fruit. You should end up with 1 half and 2 fourths like in the picture."
-- "This is the top view. Peaches and plums may be a little harder to do. If you can&#39;t easily get the pits out, use the knife to assist)."
-- "For peaches, peel them after you take the pits out. If it&#39;s a ripe peach, you can peel it with your hands like a banana ♪"
-- "You can also use this method for American cherries! The cherry pits are small, so they&#39;re a little harder to take out and might pop."
+- "This is the top view. Peaches and plums may be a little harder to do. If you can't easily get the pits out, use the knife to assist)."
+- "For peaches, peel them after you take the pits out. If it's a ripe peach, you can peel it with your hands like a banana ♪"
+- "You can also use this method for American cherries! The cherry pits are small, so they're a little harder to take out and might pop."
 categories:
 - Recipe
 tags:
@@ -65,15 +65,15 @@ To get started with this particular recipe, we have to prepare a few components.
 
 ##### Instructions to make How to Easily Remove Peach, Plum, or Apricot Pits:
 
-1. Whether it&#39;s peaches, plums, or apricots, you can cleanly remove the pits. ※If the fruit is unripe or over-ripe, it may be hard to do.
+1. Whether it's peaches, plums, or apricots, you can cleanly remove the pits. ※If the fruit is unripe or over-ripe, it may be hard to do.
 1. For apricots, first press the knife deeply into the grain of the fruit, pressing it up against the pit, spinning the fruit slowly to cut around the fruit.
 1. Break the fruit open into two halves at the grain (like you would an avocado).
 1. Flip the side with the pit intact upside down and press the knife into the center. Repeat the process from Step 2.
 1. Break apart the two halves like in Step 3.
 1. Pinch the pit and gently remove from the fruit. You should end up with 1 half and 2 fourths like in the picture.
-1. This is the top view. Peaches and plums may be a little harder to do. If you can&#39;t easily get the pits out, use the knife to assist).
-1. For peaches, peel them after you take the pits out. If it&#39;s a ripe peach, you can peel it with your hands like a banana ♪
-1. You can also use this method for American cherries! The cherry pits are small, so they&#39;re a little harder to take out and might pop.
+1. This is the top view. Peaches and plums may be a little harder to do. If you can't easily get the pits out, use the knife to assist).
+1. For peaches, peel them after you take the pits out. If it's a ripe peach, you can peel it with your hands like a banana ♪
+1. You can also use this method for American cherries! The cherry pits are small, so they're a little harder to take out and might pop.
 
 
 

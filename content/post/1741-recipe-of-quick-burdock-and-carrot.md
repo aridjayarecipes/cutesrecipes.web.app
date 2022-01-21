@@ -16,7 +16,7 @@ recipeingredient:
 - " Vinegar"
 - " Brown sugar"
 recipeinstructions:
-- "Wash and pell burdock cut into strips same as the carrot. Soak burdock in vinegar water so that it won&#39;t turn into black color"
+- "Wash and pell burdock cut into strips same as the carrot. Soak burdock in vinegar water so that it won't turn into black color"
 - "Put water in a pot boil vege until half done. Add white pepper, vinegar, brown sugar. Toss it and serve"
 categories:
 - Recipe
@@ -40,7 +40,7 @@ recipecategory: Lunch
 
 Hello everybody, it is John, welcome to my recipe page. Today, we're going to prepare a distinctive dish, burdock and carrot. One of my favorites. This time, I will make it a bit tasty. This will be really delicious.
 
-Stir-fried and simmered in a sweet soy sauce, Kinpira Gobo is a traditional Japanese dish made with shredded burdock root and carrot, garnished with sesame seeds. Today&#39;s Today&#39;s Oishiy recipe is &#39;&#39;Burdock Root and Carrot Salad&#39;&#39;. This salad is effort less to cook. Arctium is a genus of biennial plants commonly known as burdock, family Asteraceae.
+Stir-fried and simmered in a sweet soy sauce, Kinpira Gobo is a traditional Japanese dish made with shredded burdock root and carrot, garnished with sesame seeds. Today's Today's Oishiy recipe is ''Burdock Root and Carrot Salad''. This salad is effort less to cook. Arctium is a genus of biennial plants commonly known as burdock, family Asteraceae.
 
 Burdock and Carrot is one of the most well liked of recent trending foods in the world. It's easy, it's fast, it tastes yummy. It's enjoyed by millions every day. Burdock and Carrot is something that I have loved my entire life. They're nice and they look fantastic.
 
@@ -58,16 +58,16 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Make ready  Brown sugar
 
 
-Burdock Root (also called Gobo, or Burdock) has cancer fighting abilities, strengthens the liver and reduce cholesterol. This nourishing clear vegetable pork soup broth is delicious, healthy, and cooks in. Gobo (ゴボウ) is the Japanese name for burdock. It&#39;s a root vegetable that has a very pleasant and earthy taste. 
+Burdock Root (also called Gobo, or Burdock) has cancer fighting abilities, strengthens the liver and reduce cholesterol. This nourishing clear vegetable pork soup broth is delicious, healthy, and cooks in. Gobo (ゴボウ) is the Japanese name for burdock. It's a root vegetable that has a very pleasant and earthy taste. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Burdock and Carrot:
 
-1. Wash and pell burdock cut into strips same as the carrot. Soak burdock in vinegar water so that it won&#39;t turn into black color
+1. Wash and pell burdock cut into strips same as the carrot. Soak burdock in vinegar water so that it won't turn into black color
 1. Put water in a pot boil vege until half done. Add white pepper, vinegar, brown sugar. Toss it and serve
 
 
-Gobo (ゴボウ) is the Japanese name for burdock. It&#39;s a root vegetable that has a very pleasant and earthy taste. Sauteed Burdock Flower Stalks and Carrots. Burdock flower stalks and carrots sauteed with a crushed clove of garlic, butter, and a pinch of sugar and salt sugar makes an excellent vegetable side. Another is burdock makizushi (rolled sushi filled with pickled burdock root; the burdock root is often artificially colored orange to resemble a carrot). 
+Gobo (ゴボウ) is the Japanese name for burdock. It's a root vegetable that has a very pleasant and earthy taste. Sauteed Burdock Flower Stalks and Carrots. Burdock flower stalks and carrots sauteed with a crushed clove of garlic, butter, and a pinch of sugar and salt sugar makes an excellent vegetable side. Another is burdock makizushi (rolled sushi filled with pickled burdock root; the burdock root is often artificially colored orange to resemble a carrot). 
 
 So that's going to wrap it up with this exceptional food burdock and carrot recipe. Thanks so much for your time. I'm confident you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

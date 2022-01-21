@@ -20,7 +20,7 @@ recipeinstructions:
 - "Cut carrot in long strip,than add salt and turmeric, keep it side at least two hours."
 - "Aft that Remove that water and wash it nicely than add salt, red chilli,mustard powder and turmeric."
 - "Add oil that mix it nicely, than take boil water bring it room temperature than add in carrot."
-- "Store in jar aft 2 days it&#39;s ready to serve."
+- "Store in jar aft 2 days it's ready to serve."
 categories:
 - Recipe
 tags:
@@ -61,7 +61,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Get 1 tsp oil
 
 
-Make these Quick Pickled Carrots for a sweet and tangy addition to almost any meal! These pickled carrots are just as easy as homemade dill pickles. All you need to do is make a brine (water + spices + sugar + salt), heat it up, and pour it over your veggies. This carrot pickle is generally prepared during winter season because in India the best carrots are This carrot pickle is one of the most relished pickle, not only in my house, but in my friend&#39;s house… Tasty pickled carrots are easy to prepare and sure to please everyone, maybe even your favorite bunny! 
+Make these Quick Pickled Carrots for a sweet and tangy addition to almost any meal! These pickled carrots are just as easy as homemade dill pickles. All you need to do is make a brine (water + spices + sugar + salt), heat it up, and pour it over your veggies. This carrot pickle is generally prepared during winter season because in India the best carrots are This carrot pickle is one of the most relished pickle, not only in my house, but in my friend's house… Tasty pickled carrots are easy to prepare and sure to please everyone, maybe even your favorite bunny! 
 
 <!--inarticleads2-->
 
@@ -70,9 +70,9 @@ Make these Quick Pickled Carrots for a sweet and tangy addition to almost any me
 1. Cut carrot in long strip,than add salt and turmeric, keep it side at least two hours.
 1. Aft that Remove that water and wash it nicely than add salt, red chilli,mustard powder and turmeric.
 1. Add oil that mix it nicely, than take boil water bring it room temperature than add in carrot.
-1. Store in jar aft 2 days it&#39;s ready to serve.
+1. Store in jar aft 2 days it's ready to serve.
 
 
-All you need to do is make a brine (water + spices + sugar + salt), heat it up, and pour it over your veggies. This carrot pickle is generally prepared during winter season because in India the best carrots are This carrot pickle is one of the most relished pickle, not only in my house, but in my friend&#39;s house… Tasty pickled carrots are easy to prepare and sure to please everyone, maybe even your favorite bunny! A pickled carrot is a carrot that has been pickled in a brine, vinegar, or other solution and left to ferment for a period of time, by either immersing the carrots in an acidic solution or through souring by lacto-fermentation. How to make Carrot Pickle -. Carrot Pickle: Recipe of yummy Carrot Pickle! 
+All you need to do is make a brine (water + spices + sugar + salt), heat it up, and pour it over your veggies. This carrot pickle is generally prepared during winter season because in India the best carrots are This carrot pickle is one of the most relished pickle, not only in my house, but in my friend's house… Tasty pickled carrots are easy to prepare and sure to please everyone, maybe even your favorite bunny! A pickled carrot is a carrot that has been pickled in a brine, vinegar, or other solution and left to ferment for a period of time, by either immersing the carrots in an acidic solution or through souring by lacto-fermentation. How to make Carrot Pickle -. Carrot Pickle: Recipe of yummy Carrot Pickle! 
 
 So that is going to wrap this up for this special food carrot pickle recipe. Thank you very much for reading. I'm sure that you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

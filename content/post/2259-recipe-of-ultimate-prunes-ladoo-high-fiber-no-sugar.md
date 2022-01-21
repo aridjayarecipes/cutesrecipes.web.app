@@ -17,11 +17,11 @@ recipeingredient:
 - "1-2 Tbsp Jaggery optional"
 - "2-3 tsp Ghee"
 recipeinstructions:
-- "Dry roast oats, peanuts &amp; flaxseeds separately."
+- "Dry roast oats, peanuts & flaxseeds separately."
 - "Allow the ingredients to cool slightly."
 - "Firstly, In a Mixer grind oat, flaxseeds/ sesame seeds, chopped prunes into a powder."
-- "Then add peanuts &amp; jaggery and grind into slightly coarse powder."
-- "Transfer the ground mixture into a plate and start making ladoos while it&#39;s still warm."
+- "Then add peanuts & jaggery and grind into slightly coarse powder."
+- "Transfer the ground mixture into a plate and start making ladoos while it's still warm."
 - "If your giving to kids, you can add ghee to the mixture and then make ladoos out of it."
 - "Can be stored in an airtight container for 5-7 days. Enjoy this healthy ladoo with your family."
 categories:
@@ -71,11 +71,11 @@ To begin with this recipe, we have to first prepare a few components. You can co
 
 ##### Instructions to make Prunes Ladoo (High Fiber No sugar):
 
-1. Dry roast oats, peanuts &amp; flaxseeds separately.
+1. Dry roast oats, peanuts & flaxseeds separately.
 1. Allow the ingredients to cool slightly.
 1. Firstly, In a Mixer grind oat, flaxseeds/ sesame seeds, chopped prunes into a powder.
-1. Then add peanuts &amp; jaggery and grind into slightly coarse powder.
-1. Transfer the ground mixture into a plate and start making ladoos while it&#39;s still warm.
+1. Then add peanuts & jaggery and grind into slightly coarse powder.
+1. Transfer the ground mixture into a plate and start making ladoos while it's still warm.
 1. If your giving to kids, you can add ghee to the mixture and then make ladoos out of it.
 1. Can be stored in an airtight container for 5-7 days. Enjoy this healthy ladoo with your family.
 

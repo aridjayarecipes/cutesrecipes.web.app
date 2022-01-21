@@ -66,7 +66,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Get  vanilla vodka
 
 
-This is so easy to make and I&#39;d bet you already have the spices on hand!↓↓↓↓↓↓ CLICK FOR RECIPE ↓↓↓↓↓↓↓↓. Lattes, flapjacks &amp; muffins - these pumpkin spice recipes scream fall. From September until the end of December, we get to indulge every pumpkin-spiced whim: pumpkin spice lattes, muffins, pancakes, biscotti, and cupcakes, to name a few. It&#39;s time to take your pumpkin spice obsession beyond the white cup. 
+This is so easy to make and I'd bet you already have the spices on hand!↓↓↓↓↓↓ CLICK FOR RECIPE ↓↓↓↓↓↓↓↓. Lattes, flapjacks & muffins - these pumpkin spice recipes scream fall. From September until the end of December, we get to indulge every pumpkin-spiced whim: pumpkin spice lattes, muffins, pancakes, biscotti, and cupcakes, to name a few. It's time to take your pumpkin spice obsession beyond the white cup. 
 
 <!--inarticleads2-->
 
@@ -79,6 +79,6 @@ This is so easy to make and I&#39;d bet you already have the spices on hand!↓�
 1. Remember the longer it sits, the better it will taste
 
 
-From September until the end of December, we get to indulge every pumpkin-spiced whim: pumpkin spice lattes, muffins, pancakes, biscotti, and cupcakes, to name a few. It&#39;s time to take your pumpkin spice obsession beyond the white cup. These cookies, shakes, and boozy drinks will make your fall the sweetest one yet. If you&#39;re all about the pumpkin bars, we&#39;ve got plenty more of those, too. Making your own homemade pumpkin pie spice couldn&#39;t be easier. 
+From September until the end of December, we get to indulge every pumpkin-spiced whim: pumpkin spice lattes, muffins, pancakes, biscotti, and cupcakes, to name a few. It's time to take your pumpkin spice obsession beyond the white cup. These cookies, shakes, and boozy drinks will make your fall the sweetest one yet. If you're all about the pumpkin bars, we've got plenty more of those, too. Making your own homemade pumpkin pie spice couldn't be easier. 
 
 So that is going to wrap it up with this special food pumpkin spice recipe. Thanks so much for reading. I am confident that you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -48,7 +48,7 @@ Hello everybody, it's Brad, welcome to my recipe site. Today, I will show you a 
 
 Healthy and tasty moong dal soup is one of the most well liked of recent trending meals on earth. It is appreciated by millions daily. It's easy, it is fast, it tastes yummy. They're fine and they look fantastic. Healthy and tasty moong dal soup is something which I've loved my whole life.
 
-Healthy Lentil Soup RecipeIf you enjoyed the video, don&#39;t forget to subscribe our channel. Before you jump to Healthy and tasty moong dal soup recipe, you may want to read this short interesting healthy tips about Healthy Eating Can Be An Easy Choice. Opting to eat healthily has marvelous benefits and is becoming a more popular way of living. There are a number of diseases.
+Healthy Lentil Soup RecipeIf you enjoyed the video, don't forget to subscribe our channel. Before you jump to Healthy and tasty moong dal soup recipe, you may want to read this short interesting healthy tips about Healthy Eating Can Be An Easy Choice. Opting to eat healthily has marvelous benefits and is becoming a more popular way of living. There are a number of diseases.
 
 
 To begin with this recipe, we must first prepare a few ingredients. You can cook healthy and tasty moong dal soup using 10 ingredients and 3 steps. Here is how you cook that.
@@ -69,7 +69,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Take 1 tbsp coriander leaves
 
 
-It is incredibly high in protein and high in fiber while being low in fat. The recipe makes a delicious, tasty soup. Very easy, and quick to make. Delicious, quick &amp; healthy dal fry to go with rice, jeera rice or even with roti, plain paratha. 
+It is incredibly high in protein and high in fiber while being low in fat. The recipe makes a delicious, tasty soup. Very easy, and quick to make. Delicious, quick & healthy dal fry to go with rice, jeera rice or even with roti, plain paratha. 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ It is incredibly high in protein and high in fiber while being low in fat. The r
 1. Garnish with coriander, butter and black pepper and serve it.
 
 
-Very easy, and quick to make. Delicious, quick &amp; healthy dal fry to go with rice, jeera rice or even with roti, plain paratha. This Moong dal is comforting, hearty, flavorful and super tasty!! Make this for a perfect, easy and wholesome Indian meal that&#39;s gluten-free and can be made vegan. This healthful vegan soup is high in protein. 
+Very easy, and quick to make. Delicious, quick & healthy dal fry to go with rice, jeera rice or even with roti, plain paratha. This Moong dal is comforting, hearty, flavorful and super tasty!! Make this for a perfect, easy and wholesome Indian meal that's gluten-free and can be made vegan. This healthful vegan soup is high in protein. 
 
 So that is going to wrap this up for this exceptional food healthy and tasty moong dal soup recipe. Thank you very much for reading. I'm confident that you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

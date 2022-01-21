@@ -1,6 +1,6 @@
 ---
-description: "Steps to Make Homemade Plum &amp;amp; Mango Smoothie"
-title: "Steps to Make Homemade Plum &amp;amp; Mango Smoothie"
+description: "Steps to Make Homemade Plum &amp; Mango Smoothie"
+title: "Steps to Make Homemade Plum &amp; Mango Smoothie"
 slug: 2327-steps-to-make-homemade-plum-and-amp-mango-smoothie
 date: 2022-03-15T22:36:59.974Z
 image: https://img-global.cpcdn.com/recipes/bcacfb64b5c82392/680x482cq70/plum-mango-smoothie-recipe-main-photo.jpg
@@ -17,8 +17,8 @@ recipeingredient:
 - "7-8 ice cubes"
 - "1 cup milk"
 recipeinstructions:
-- "Wash,peel bananas &amp; mangoes."
-- "In a blender add sugar,Ice cubes, yogurt, mangoes &amp; Bananas."
+- "Wash,peel bananas & mangoes."
+- "In a blender add sugar,Ice cubes, yogurt, mangoes & Bananas."
 - "Add milk,blend untill smooth."
 - "Serve chilled."
 categories:
@@ -39,20 +39,20 @@ recipecategory: Lunch
 ---
 
 
-![Plum &amp; Mango Smoothie](https://img-global.cpcdn.com/recipes/bcacfb64b5c82392/680x482cq70/plum-mango-smoothie-recipe-main-photo.jpg)
+![Plum & Mango Smoothie](https://img-global.cpcdn.com/recipes/bcacfb64b5c82392/680x482cq70/plum-mango-smoothie-recipe-main-photo.jpg)
 
-Hello everybody, it's Brad, welcome to my recipe site. Today, I'm gonna show you how to make a distinctive dish, plum &amp; mango smoothie. One of my favorites food recipes. For mine, I will make it a bit tasty. This is gonna smell and look delicious.
+Hello everybody, it's Brad, welcome to my recipe site. Today, I'm gonna show you how to make a distinctive dish, plum & mango smoothie. One of my favorites food recipes. For mine, I will make it a bit tasty. This is gonna smell and look delicious.
 
-A plum is a fruit of some species in Prunus subg. Plum is revolutionizing how global enterprises hire, grow, and retain talent with the predictive Strip away bias and reveal human potential to revolutionize how you hire, grow, and retain talent with Plum. Check out your Monthly Diagnostics on the Plum app and let us know below and markets explained simply with Plum Bites. And yes, that&#39;s technically a cow emoji Bear in mind, as with all investing.
+A plum is a fruit of some species in Prunus subg. Plum is revolutionizing how global enterprises hire, grow, and retain talent with the predictive Strip away bias and reveal human potential to revolutionize how you hire, grow, and retain talent with Plum. Check out your Monthly Diagnostics on the Plum app and let us know below and markets explained simply with Plum Bites. And yes, that's technically a cow emoji Bear in mind, as with all investing.
 
-Plum &amp; Mango Smoothie is one of the most well liked of current trending meals in the world. It's enjoyed by millions daily. It's easy, it's fast, it tastes delicious. They're fine and they look fantastic. Plum &amp; Mango Smoothie is something that I've loved my whole life.
+Plum & Mango Smoothie is one of the most well liked of current trending meals in the world. It's enjoyed by millions daily. It's easy, it's fast, it tastes delicious. They're fine and they look fantastic. Plum & Mango Smoothie is something that I've loved my whole life.
 
 
-To get started with this particular recipe, we have to first prepare a few ingredients. You can cook plum &amp; mango smoothie using 6 ingredients and 4 steps. Here is how you can achieve that.
+To get started with this particular recipe, we have to first prepare a few ingredients. You can cook plum & mango smoothie using 6 ingredients and 4 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Plum &amp; Mango Smoothie:
+##### The ingredients needed to make Plum & Mango Smoothie:
 
 1. Take 3 bananas
 1. Make ready 2 mangoes
@@ -66,14 +66,14 @@ But plums are much more Plums add subtle sweetness to salads and desserts, but t
 
 <!--inarticleads2-->
 
-##### Steps to make Plum &amp; Mango Smoothie:
+##### Steps to make Plum & Mango Smoothie:
 
-1. Wash,peel bananas &amp; mangoes.
-1. In a blender add sugar,Ice cubes, yogurt, mangoes &amp; Bananas.
+1. Wash,peel bananas & mangoes.
+1. In a blender add sugar,Ice cubes, yogurt, mangoes & Bananas.
 1. Add milk,blend untill smooth.
 1. Serve chilled.
 
 
 
 
-So that is going to wrap it up with this special food plum &amp; mango smoothie recipe. Thank you very much for reading. I am sure that you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!
+So that is going to wrap it up with this special food plum & mango smoothie recipe. Thank you very much for reading. I am sure that you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

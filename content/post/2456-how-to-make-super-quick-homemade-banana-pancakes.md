@@ -69,6 +69,6 @@ Turn overripe bananas into a tasty stack of pancakes with our easy breakfast rec
 1. You can add whatever toppings you like, I prefer strawberry
 
 
-These taste like banana bread but in tender and fluffy, syrup covered pancake form. Easy to make and always sure to satisfy! Banana Pancakes are easy to make and one of the best ways to use ripe bananas. These Banana pancakes were a big win with everyone in the family. Here&#39;s Why With banana pancakes, there&#39;s no need to wait until dessert to enjoy this treat of a meal. 
+These taste like banana bread but in tender and fluffy, syrup covered pancake form. Easy to make and always sure to satisfy! Banana Pancakes are easy to make and one of the best ways to use ripe bananas. These Banana pancakes were a big win with everyone in the family. Here's Why With banana pancakes, there's no need to wait until dessert to enjoy this treat of a meal. 
 
 So that is going to wrap this up for this exceptional food banana pancakes recipe. Thank you very much for reading. I am confident that you can make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

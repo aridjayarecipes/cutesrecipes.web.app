@@ -1,6 +1,6 @@
 ---
-description: "Easiest Way to Make Ultimate Black Bean &amp;amp; Poblano Soup"
-title: "Easiest Way to Make Ultimate Black Bean &amp;amp; Poblano Soup"
+description: "Easiest Way to Make Ultimate Black Bean &amp; Poblano Soup"
+title: "Easiest Way to Make Ultimate Black Bean &amp; Poblano Soup"
 slug: 2230-easiest-way-to-make-ultimate-black-bean-and-amp-poblano-soup
 date: 2022-03-02T16:24:53.235Z
 image: https://img-global.cpcdn.com/recipes/ae20bb85291efb66/680x482cq70/black-bean-poblano-soup-recipe-main-photo.jpg
@@ -53,20 +53,20 @@ recipecategory: Dessert
 ---
 
 
-![Black Bean &amp; Poblano Soup](https://img-global.cpcdn.com/recipes/ae20bb85291efb66/680x482cq70/black-bean-poblano-soup-recipe-main-photo.jpg)
+![Black Bean & Poblano Soup](https://img-global.cpcdn.com/recipes/ae20bb85291efb66/680x482cq70/black-bean-poblano-soup-recipe-main-photo.jpg)
 
-Hey everyone, it is Brad, welcome to our recipe page. Today, I'm gonna show you how to prepare a distinctive dish, black bean &amp; poblano soup. It is one of my favorites. For mine, I will make it a bit tasty. This is gonna smell and look delicious.
-
-
-
-Black Bean &amp; Poblano Soup is one of the most favored of current trending foods on earth. It is appreciated by millions every day. It's easy, it's quick, it tastes delicious. Black Bean &amp; Poblano Soup is something that I've loved my entire life. They are fine and they look fantastic.
+Hey everyone, it is Brad, welcome to our recipe page. Today, I'm gonna show you how to prepare a distinctive dish, black bean & poblano soup. It is one of my favorites. For mine, I will make it a bit tasty. This is gonna smell and look delicious.
 
 
-To begin with this recipe, we must first prepare a few components. You can have black bean &amp; poblano soup using 16 ingredients and 8 steps. Here is how you cook it.
+
+Black Bean & Poblano Soup is one of the most favored of current trending foods on earth. It is appreciated by millions every day. It's easy, it's quick, it tastes delicious. Black Bean & Poblano Soup is something that I've loved my entire life. They are fine and they look fantastic.
+
+
+To begin with this recipe, we must first prepare a few components. You can have black bean & poblano soup using 16 ingredients and 8 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Black Bean &amp; Poblano Soup:
+##### The ingredients needed to make Black Bean & Poblano Soup:
 
 1. Take 13.4 oz Black Beans
 1. Make ready 1 Lime
@@ -90,7 +90,7 @@ To begin with this recipe, we must first prepare a few components. You can have 
 
 <!--inarticleads2-->
 
-##### Steps to make Black Bean &amp; Poblano Soup:
+##### Steps to make Black Bean & Poblano Soup:
 
 1. Quarter the lime. Halve, peel, and diced onion. Core, DC, and finally diced Poblano. Diced tomato.
 1. In a small bowl, combine sour cream with a squeeze of lime juice to taste. Season with salt and pepper. Set aside.
@@ -104,4 +104,4 @@ To begin with this recipe, we must first prepare a few components. You can have 
 
 
 
-So that's going to wrap this up for this special food black bean &amp; poblano soup recipe. Thanks so much for your time. I'm sure you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
+So that's going to wrap this up for this special food black bean & poblano soup recipe. Thanks so much for your time. I'm sure you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

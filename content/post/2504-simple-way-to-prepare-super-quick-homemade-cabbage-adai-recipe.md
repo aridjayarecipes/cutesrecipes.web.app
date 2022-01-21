@@ -67,7 +67,7 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Take 4-5 Dry red chillies
 1. Get 1-2 teaspoon Salt
 1. Make ready 4-5 curry leaves
-1. Make ready 1 &amp;1/2 cup grated cabbage
+1. Make ready 1 &1/2 cup grated cabbage
 1. Prepare 1/4 cup Oil for cooking
 
 

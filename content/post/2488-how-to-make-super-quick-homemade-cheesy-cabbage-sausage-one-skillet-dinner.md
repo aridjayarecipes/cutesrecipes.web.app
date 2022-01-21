@@ -24,7 +24,7 @@ recipeingredient:
 - "2 Cups Shredded Mozzarella Cheese"
 recipeinstructions:
 - "Heat oven to 400 F (200 C). Heat the butter in a large (10 - 12 inch) skillet over medium-high heat, add the sliced sausage and cook 2-3 minutes per side until browned."
-- "Add the pepper, onion, garlic, cabbage, salt &amp; pepper and cook, stirring occasionally for 5 minutes. After 5 minutes add the smoked paprika (if using), the Worcestershire sauce and Sriracha and cook for another 5 minutes until vegetables are softened."
+- "Add the pepper, onion, garlic, cabbage, salt & pepper and cook, stirring occasionally for 5 minutes. After 5 minutes add the smoked paprika (if using), the Worcestershire sauce and Sriracha and cook for another 5 minutes until vegetables are softened."
 - "Add the tomatoes then top with the Mozzarella cheese then place into the oven and cook for 10 minutes or until the cheese is bubbly and starting to brown."
 - "Serve immediately."
 categories:
@@ -67,7 +67,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have ch
 1. Take 1 Onion, diced
 1. Get 4 Garlic cloves, minced
 1. Prepare 1/2 head cabbage cored and sliced (1/2 inch thickness)
-1. Prepare 1/2 Tablespoon each Salt &amp; Pepper
+1. Prepare 1/2 Tablespoon each Salt & Pepper
 1. Prepare 2-3 Tablespoons Worcestershire Sauce
 1. Make ready 2 Tablespoons Sriracha Sauce (optional but recommended)
 1. Get 1 Cup Diced Tomatoes
@@ -81,7 +81,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have ch
 ##### Instructions to make Cheesy Cabbage Sausage One Skillet Dinner:
 
 1. Heat oven to 400 F (200 C). Heat the butter in a large (10 - 12 inch) skillet over medium-high heat, add the sliced sausage and cook 2-3 minutes per side until browned.
-1. Add the pepper, onion, garlic, cabbage, salt &amp; pepper and cook, stirring occasionally for 5 minutes. After 5 minutes add the smoked paprika (if using), the Worcestershire sauce and Sriracha and cook for another 5 minutes until vegetables are softened.
+1. Add the pepper, onion, garlic, cabbage, salt & pepper and cook, stirring occasionally for 5 minutes. After 5 minutes add the smoked paprika (if using), the Worcestershire sauce and Sriracha and cook for another 5 minutes until vegetables are softened.
 1. Add the tomatoes then top with the Mozzarella cheese then place into the oven and cook for 10 minutes or until the cheese is bubbly and starting to brown.
 1. Serve immediately.
 

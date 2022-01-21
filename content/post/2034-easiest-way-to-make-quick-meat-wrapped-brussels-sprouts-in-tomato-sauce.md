@@ -19,7 +19,7 @@ recipeinstructions:
 - "Cut a crisscross into the back of the sprouts and boil them lightly in salt water."
 - "Lay out the pork offcuts (pile a few slices on top of each other) and wrap the brussels sprouts in the meat."
 - "Lightly season the wraps with salt and pepper and coat them in flour. Then cook them until well browned."
-- "Get rid of any excess oil and add the tomato sauce. Allow the wraps to simmer in the tomato sauce a little and they&#39;re ready."
+- "Get rid of any excess oil and add the tomato sauce. Allow the wraps to simmer in the tomato sauce a little and they're ready."
 categories:
 - Recipe
 tags:
@@ -69,7 +69,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Cut a crisscross into the back of the sprouts and boil them lightly in salt water.
 1. Lay out the pork offcuts (pile a few slices on top of each other) and wrap the brussels sprouts in the meat.
 1. Lightly season the wraps with salt and pepper and coat them in flour. Then cook them until well browned.
-1. Get rid of any excess oil and add the tomato sauce. Allow the wraps to simmer in the tomato sauce a little and they&#39;re ready.
+1. Get rid of any excess oil and add the tomato sauce. Allow the wraps to simmer in the tomato sauce a little and they're ready.
 
 
 

@@ -69,8 +69,8 @@ To begin with this recipe, we have to first prepare a few components. You can co
 1. Take 1 handfuls japanese cucumber flesh
 1. Make ready 1 handfuls shredded purple cabbage
 1. Make ready 1 handfuls carrot
-1. Prepare 1 handfuls duck breast/ smoked salmon —&gt; thinly sliced
-1. Take 1 handfuls dumpling skin —&gt; crispy fried
+1. Prepare 1 handfuls duck breast/ smoked salmon —> thinly sliced
+1. Take 1 handfuls dumpling skin —> crispy fried
 1. Take  Garnishers
 1. Prepare 1 cup plum sauce
 1. Prepare 1/2 cup water

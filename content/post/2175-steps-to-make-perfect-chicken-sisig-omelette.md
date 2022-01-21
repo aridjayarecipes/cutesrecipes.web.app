@@ -31,7 +31,7 @@ recipeinstructions:
 - "Dash with salt and pepper each chicken fillet and let stand for 15 to 30 minutes to marinate. Grill chicken fillet and chicken liver until brown. Dice chicken and liver into small cubes. In a big wok stir fry diced chicken and liver for 10 to 15 minutes at high heat. Add in 2 cups of water, bouillon cube, vinegar, soy sauce and liquid seasoning, stir cook for 5 to 10 minutes. Add in onions and green sili, stir cook for another 3 to 5 minutes. Season with salt and pepper. Add kalamansi as needed."
 - "For omelette:"
 - "Beat the eggs, add salt and pepper."
-- "Heat the butter in your frying pan until it starts to foam and sizzle but don&#39;t let it brown. Add the eggs in one go and swirl and shake the pan so they cover the surface. As soon as the eggs start to set pull the edges of the omelette into the centre of the pan and shake the pan so any liquid egg spills into the gaps. Add the sisig chicken and fold. Serve and enjoy!"
+- "Heat the butter in your frying pan until it starts to foam and sizzle but don't let it brown. Add the eggs in one go and swirl and shake the pan so they cover the surface. As soon as the eggs start to set pull the edges of the omelette into the centre of the pan and shake the pan so any liquid egg spills into the gaps. Add the sisig chicken and fold. Serve and enjoy!"
 categories:
 - Recipe
 tags:
@@ -93,9 +93,9 @@ Sizzling Chicken Sisig is the chicken version of the popular sisig dish. Chicken
 1. Dash with salt and pepper each chicken fillet and let stand for 15 to 30 minutes to marinate. Grill chicken fillet and chicken liver until brown. Dice chicken and liver into small cubes. In a big wok stir fry diced chicken and liver for 10 to 15 minutes at high heat. Add in 2 cups of water, bouillon cube, vinegar, soy sauce and liquid seasoning, stir cook for 5 to 10 minutes. Add in onions and green sili, stir cook for another 3 to 5 minutes. Season with salt and pepper. Add kalamansi as needed.
 1. For omelette:
 1. Beat the eggs, add salt and pepper.
-1. Heat the butter in your frying pan until it starts to foam and sizzle but don&#39;t let it brown. Add the eggs in one go and swirl and shake the pan so they cover the surface. As soon as the eggs start to set pull the edges of the omelette into the centre of the pan and shake the pan so any liquid egg spills into the gaps. Add the sisig chicken and fold. Serve and enjoy!
+1. Heat the butter in your frying pan until it starts to foam and sizzle but don't let it brown. Add the eggs in one go and swirl and shake the pan so they cover the surface. As soon as the eggs start to set pull the edges of the omelette into the centre of the pan and shake the pan so any liquid egg spills into the gaps. Add the sisig chicken and fold. Serve and enjoy!
 
 
-Chicken Sisig Omelette is one of the most favored of current trending foods in the world. It is easy, it is fast, it tastes delicious. It is appreciated by millions every day. They&#39;re nice and they look wonderful. · Grill chicken fillet and chicken liver until brown. Dice chicken and liver into small cubes. 
+Chicken Sisig Omelette is one of the most favored of current trending foods in the world. It is easy, it is fast, it tastes delicious. It is appreciated by millions every day. They're nice and they look wonderful. · Grill chicken fillet and chicken liver until brown. Dice chicken and liver into small cubes. 
 
 So that is going to wrap this up for this special food chicken sisig omelette recipe. Thank you very much for your time. I'm confident you can make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

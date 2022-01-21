@@ -66,7 +66,7 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Make ready 3 cups AP flour
 1. Get 1/4 tsp salt
 1. Take 1 egg
-1. Take 1 lemon - zest &amp; juice
+1. Take 1 lemon - zest & juice
 1. Make ready 1/2 cup sugar
 1. Make ready 3 cups strawberries
 1. Take 1 cup blueberries

@@ -28,7 +28,7 @@ recipeingredient:
 recipeinstructions:
 - "Wash the rice and cook them with water on stove."
 - "In the meantime, soak the Saffron with the milk and pinch of Saffron food color and keep it aside."
-- "When rice is 80% cooked, strain all the water and mix ghee. Don&#39;t cover it."
+- "When rice is 80% cooked, strain all the water and mix ghee. Don't cover it."
 - "Take a pan and heat it. Put ghee and fry the chopped nuts and fry fruits and keep them aside."
 - "Then add all spices in the rice and saute it for 20 seconds.Then add the grated coconut and Saffron milk in it."
 - "Now add salt, sugar, rose water. Mix them well and cover.Cook it for 10 minutes."
@@ -91,7 +91,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 
 1. Wash the rice and cook them with water on stove.
 1. In the meantime, soak the Saffron with the milk and pinch of Saffron food color and keep it aside.
-1. When rice is 80% cooked, strain all the water and mix ghee. Don&#39;t cover it.
+1. When rice is 80% cooked, strain all the water and mix ghee. Don't cover it.
 1. Take a pan and heat it. Put ghee and fry the chopped nuts and fry fruits and keep them aside.
 1. Then add all spices in the rice and saute it for 20 seconds.Then add the grated coconut and Saffron milk in it.
 1. Now add salt, sugar, rose water. Mix them well and cover.Cook it for 10 minutes.

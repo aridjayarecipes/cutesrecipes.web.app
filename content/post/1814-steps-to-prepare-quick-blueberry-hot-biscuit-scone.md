@@ -24,7 +24,7 @@ recipeinstructions:
 - "Prepare a medium mixing bowl and a stick mixer with blade inserts."
 - "Sift the flour and baking powder into the mixing bowl. Add the sugar."
 - "Cut the butter into small squares and add to the bowl."
-- "Using the stick mixer, mix to a texture of coarse crumbs (if you don&#39;t have a machine, you can use your fingertips)."
+- "Using the stick mixer, mix to a texture of coarse crumbs (if you don't have a machine, you can use your fingertips)."
 - "Move the mixture to a large mixing bowl. Pour the milk into the dry mixture and use a rubber spatula to mix until half mixed."
 - "Add the blueberries and mix well (Be careful not to mix too much)."
 - "Divide the dough into 6 portions."
@@ -83,7 +83,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Prepare a medium mixing bowl and a stick mixer with blade inserts.
 1. Sift the flour and baking powder into the mixing bowl. Add the sugar.
 1. Cut the butter into small squares and add to the bowl.
-1. Using the stick mixer, mix to a texture of coarse crumbs (if you don&#39;t have a machine, you can use your fingertips).
+1. Using the stick mixer, mix to a texture of coarse crumbs (if you don't have a machine, you can use your fingertips).
 1. Move the mixture to a large mixing bowl. Pour the milk into the dry mixture and use a rubber spatula to mix until half mixed.
 1. Add the blueberries and mix well (Be careful not to mix too much).
 1. Divide the dough into 6 portions.

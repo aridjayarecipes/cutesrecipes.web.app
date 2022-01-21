@@ -26,7 +26,7 @@ recipeinstructions:
 - "Take the seeds out from one of the pomegranates for a topping. Please refer tofor how to take out the seeds. It will be 1/2 cup (100 ml) worth.  https://cookpad.com/us/recipes/147949-how-to-easily-peel-a-pomegranate"
 - "Cut the other one in half, and squeeze out 180 ml of juice using a lemon squeezer. The red juice will splash so please be careful."
 - "Mix 180 ml of pomegranate juice from Step 2 and the ☆ ingredients, then set aside."
-- "Fry the chicken in the olive oil over high heat. When both sides are nicely browned, it&#39;s cooked through. Add the green onions, and cook briefly."
+- "Fry the chicken in the olive oil over high heat. When both sides are nicely browned, it's cooked through. Add the green onions, and cook briefly."
 - "Add the water and chicken stock cube into the Step 4 pan, cover with a lid, and steam-fry for 15-20 minutes over low heat."
 - "Take out the chicken, leaving 100 ml of the liquid in the pan. Add the Step 3 mixed flavouring ingredients, and simmer for about 10 minutes over medium-low heat to make the sauce."
 - "Return the Step 6 chicken to the pan, and cook for about 5 minutes while coating it with the sauce over low heat."
@@ -87,7 +87,7 @@ To get started with this recipe, we must prepare a few ingredients. You can cook
 1. Take the seeds out from one of the pomegranates for a topping. Please refer tofor how to take out the seeds. It will be 1/2 cup (100 ml) worth. -  - https://cookpad.com/us/recipes/147949-how-to-easily-peel-a-pomegranate
 1. Cut the other one in half, and squeeze out 180 ml of juice using a lemon squeezer. The red juice will splash so please be careful.
 1. Mix 180 ml of pomegranate juice from Step 2 and the ☆ ingredients, then set aside.
-1. Fry the chicken in the olive oil over high heat. When both sides are nicely browned, it&#39;s cooked through. Add the green onions, and cook briefly.
+1. Fry the chicken in the olive oil over high heat. When both sides are nicely browned, it's cooked through. Add the green onions, and cook briefly.
 1. Add the water and chicken stock cube into the Step 4 pan, cover with a lid, and steam-fry for 15-20 minutes over low heat.
 1. Take out the chicken, leaving 100 ml of the liquid in the pan. Add the Step 3 mixed flavouring ingredients, and simmer for about 10 minutes over medium-low heat to make the sauce.
 1. Return the Step 6 chicken to the pan, and cook for about 5 minutes while coating it with the sauce over low heat.

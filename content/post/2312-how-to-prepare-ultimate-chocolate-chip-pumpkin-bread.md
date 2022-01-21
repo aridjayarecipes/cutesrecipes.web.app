@@ -26,10 +26,10 @@ recipeingredient:
 - "2 tbsp milk"
 recipeinstructions:
 - "Preheat oven to 350 degrees. Grease a 9x5 inch loaf pan."
-- "Combine flour, baking soda, 1 tsp cinnamon, 1/2 tsp nutmeg, the salt, cloves, &amp; ginger in a medium bowl &amp; mix well."
-- "Combine granulated sugar &amp; butter in a large bowl. Beat with an electric mixer set at high speed until creamy. Beat in eggs. Add the flour mixture alternately with the pumpkin, mixing well after each addition. Stir in chocolate chips."
+- "Combine flour, baking soda, 1 tsp cinnamon, 1/2 tsp nutmeg, the salt, cloves, & ginger in a medium bowl & mix well."
+- "Combine granulated sugar & butter in a large bowl. Beat with an electric mixer set at high speed until creamy. Beat in eggs. Add the flour mixture alternately with the pumpkin, mixing well after each addition. Stir in chocolate chips."
 - "Spoon batter into prepared loaf pan. Bake until a toothpick inserted comes out clean, about 55 to 60 minutes. Cool loaf in pan for 5 minutes. Remove to a wire rack to cool completely."
-- "For glaze, combine the remaining cinnamon, remaining nutmeg, powdered sugar, &amp; milk in small bowl &amp; mix well. Drizzle over cooled loaf."
+- "For glaze, combine the remaining cinnamon, remaining nutmeg, powdered sugar, & milk in small bowl & mix well. Drizzle over cooled loaf."
 categories:
 - Recipe
 tags:
@@ -86,10 +86,10 @@ To begin with this recipe, we have to first prepare a few ingredients. You can h
 ##### Instructions to make Chocolate Chip Pumpkin Bread:
 
 1. Preheat oven to 350 degrees. Grease a 9x5 inch loaf pan.
-1. Combine flour, baking soda, 1 tsp cinnamon, 1/2 tsp nutmeg, the salt, cloves, &amp; ginger in a medium bowl &amp; mix well.
-1. Combine granulated sugar &amp; butter in a large bowl. Beat with an electric mixer set at high speed until creamy. Beat in eggs. Add the flour mixture alternately with the pumpkin, mixing well after each addition. Stir in chocolate chips.
+1. Combine flour, baking soda, 1 tsp cinnamon, 1/2 tsp nutmeg, the salt, cloves, & ginger in a medium bowl & mix well.
+1. Combine granulated sugar & butter in a large bowl. Beat with an electric mixer set at high speed until creamy. Beat in eggs. Add the flour mixture alternately with the pumpkin, mixing well after each addition. Stir in chocolate chips.
 1. Spoon batter into prepared loaf pan. Bake until a toothpick inserted comes out clean, about 55 to 60 minutes. Cool loaf in pan for 5 minutes. Remove to a wire rack to cool completely.
-1. For glaze, combine the remaining cinnamon, remaining nutmeg, powdered sugar, &amp; milk in small bowl &amp; mix well. Drizzle over cooled loaf.
+1. For glaze, combine the remaining cinnamon, remaining nutmeg, powdered sugar, & milk in small bowl & mix well. Drizzle over cooled loaf.
 
 
 

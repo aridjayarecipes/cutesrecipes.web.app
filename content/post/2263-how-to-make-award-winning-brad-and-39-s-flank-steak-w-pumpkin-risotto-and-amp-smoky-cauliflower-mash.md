@@ -1,6 +1,6 @@
 ---
-description: "How to Make Award-winning Brad&amp;#39;s flank steak w/ pumpkin risotto &amp;amp; smoky cauliflower mash"
-title: "How to Make Award-winning Brad&amp;#39;s flank steak w/ pumpkin risotto &amp;amp; smoky cauliflower mash"
+description: "How to Make Award-winning Brad&#39;s flank steak w/ pumpkin risotto &amp; smoky cauliflower mash"
+title: "How to Make Award-winning Brad&#39;s flank steak w/ pumpkin risotto &amp; smoky cauliflower mash"
 slug: 2263-how-to-make-award-winning-brad-and-39-s-flank-steak-w-pumpkin-risotto-and-amp-smoky-cauliflower-mash
 date: 2021-12-09T16:28:21.435Z
 image: https://img-global.cpcdn.com/recipes/225e646a04bb9172/680x482cq70/brads-flank-steak-w-pumpkin-risotto-smoky-cauliflower-mash-recipe-main-photo.jpg
@@ -65,24 +65,24 @@ recipecategory: Lunch
 ---
 
 
-![Brad&#39;s flank steak w/ pumpkin risotto &amp; smoky cauliflower mash](https://img-global.cpcdn.com/recipes/225e646a04bb9172/680x482cq70/brads-flank-steak-w-pumpkin-risotto-smoky-cauliflower-mash-recipe-main-photo.jpg)
+![Brad's flank steak w/ pumpkin risotto & smoky cauliflower mash](https://img-global.cpcdn.com/recipes/225e646a04bb9172/680x482cq70/brads-flank-steak-w-pumpkin-risotto-smoky-cauliflower-mash-recipe-main-photo.jpg)
 
-Hello everybody, it's Brad, welcome to our recipe page. Today, I'm gonna show you how to prepare a special dish, brad&#39;s flank steak w/ pumpkin risotto &amp; smoky cauliflower mash. It is one of my favorites food recipes. This time, I am going to make it a bit unique. This is gonna smell and look delicious.
+Hello everybody, it's Brad, welcome to our recipe page. Today, I'm gonna show you how to prepare a special dish, brad's flank steak w/ pumpkin risotto & smoky cauliflower mash. It is one of my favorites food recipes. This time, I am going to make it a bit unique. This is gonna smell and look delicious.
 
-Brad&#39;s flank steak w/ pumpkin risotto &amp; smoky cauliflower mash is one of the most favored of current trending foods in the world. It is easy, it's fast, it tastes delicious. It's appreciated by millions daily. They are fine and they look wonderful. Brad&#39;s flank steak w/ pumpkin risotto &amp; smoky cauliflower mash is something that I've loved my whole life.
-
-
+Brad's flank steak w/ pumpkin risotto & smoky cauliflower mash is one of the most favored of current trending foods in the world. It is easy, it's fast, it tastes delicious. It's appreciated by millions daily. They are fine and they look wonderful. Brad's flank steak w/ pumpkin risotto & smoky cauliflower mash is something that I've loved my whole life.
 
 
-To get started with this particular recipe, we have to first prepare a few components. You can have brad&#39;s flank steak w/ pumpkin risotto &amp; smoky cauliflower mash using 28 ingredients and 8 steps. Here is how you cook it.
+
+
+To get started with this particular recipe, we have to first prepare a few components. You can have brad's flank steak w/ pumpkin risotto & smoky cauliflower mash using 28 ingredients and 8 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Brad&#39;s flank steak w/ pumpkin risotto &amp; smoky cauliflower mash:
+##### The ingredients needed to make Brad's flank steak w/ pumpkin risotto & smoky cauliflower mash:
 
 1. Get  For the steak
 1. Get 2 lb flank steak
-1. Make ready  Garlic pwdr, Mccormick Montreal steak seasoning, &amp; white pepper
+1. Make ready  Garlic pwdr, Mccormick Montreal steak seasoning, & white pepper
 1. Take  Sea salt
 1. Get  The saute under the steak
 1. Make ready 2 leeks, sliced thin
@@ -114,7 +114,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 
 <!--inarticleads2-->
 
-##### Steps to make Brad&#39;s flank steak w/ pumpkin risotto &amp; smoky cauliflower mash:
+##### Steps to make Brad's flank steak w/ pumpkin risotto & smoky cauliflower mash:
 
 1. Lay steak out on a cutting board. Crust heavily with the salt and spices. Both sides. Set aside while prepping rest of dinner.
 1. Do all of these steps simultaneously.
@@ -128,4 +128,4 @@ To get started with this particular recipe, we have to first prepare a few compo
 
 
 
-So that is going to wrap this up with this special food brad&#39;s flank steak w/ pumpkin risotto &amp; smoky cauliflower mash recipe. Thank you very much for your time. I'm sure you will make this at home. There is gonna be interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!
+So that is going to wrap this up with this special food brad's flank steak w/ pumpkin risotto & smoky cauliflower mash recipe. Thank you very much for your time. I'm sure you will make this at home. There is gonna be interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

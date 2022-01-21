@@ -48,7 +48,7 @@ Hey everyone, it's me again, Dan, welcome to our recipe site. Today, I will show
 
 Roasted pumpkin with feta cheese is one of the most favored of current trending meals on earth. It's appreciated by millions every day. It is easy, it is fast, it tastes yummy. Roasted pumpkin with feta cheese is something that I've loved my whole life. They are fine and they look wonderful.
 
-The roasted pumpkin is sweet and juicy, the feta adds pops of salty creaminess, the pine nuts add a warm, earthy crunch, the freshness from spinach, all lightly dressed with a Honey Balsamic Dressing. You really don&#39;t need that much dressing for this salad, just enough to coat the baby spinach. All Reviews for Roast Pumpkin and Feta Risotto. Peel the pumpkin and cut into cubes.
+The roasted pumpkin is sweet and juicy, the feta adds pops of salty creaminess, the pine nuts add a warm, earthy crunch, the freshness from spinach, all lightly dressed with a Honey Balsamic Dressing. You really don't need that much dressing for this salad, just enough to coat the baby spinach. All Reviews for Roast Pumpkin and Feta Risotto. Peel the pumpkin and cut into cubes.
 
 
 To begin with this particular recipe, we have to prepare a few components. You can have roasted pumpkin with feta cheese using 7 ingredients and 6 steps. Here is how you can achieve that.

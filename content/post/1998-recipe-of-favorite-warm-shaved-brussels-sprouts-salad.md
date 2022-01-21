@@ -18,8 +18,8 @@ recipeingredient:
 - "1 tbsp red wine vinegar"
 recipeinstructions:
 - "Cook bacon in a large skillet. Add onions and garlic; cook 5 mins or until onions are tender."
-- "Add shaved brussels sprouts. Cook for 5-10 mins until wilted. Season with salt &amp; pepper. Add red wine vinegar to deglaze the pan."
-- "Enjoy! I served these for St. Patrick&#39;s Day. :)"
+- "Add shaved brussels sprouts. Cook for 5-10 mins until wilted. Season with salt & pepper. Add red wine vinegar to deglaze the pan."
+- "Enjoy! I served these for St. Patrick's Day. :)"
 categories:
 - Recipe
 tags:
@@ -57,7 +57,7 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Take 2 slice bacon strips, cut into lardons
 1. Get 1/4 medium red onion, diced
 1. Take 2 clove garlic, minced
-1. Take 1 salt &amp; pepper to taste
+1. Take 1 salt & pepper to taste
 1. Take 1 tbsp red wine vinegar
 
 
@@ -68,8 +68,8 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 ##### Instructions to make Warm Shaved Brussels Sprouts Salad:
 
 1. Cook bacon in a large skillet. Add onions and garlic; cook 5 mins or until onions are tender.
-1. Add shaved brussels sprouts. Cook for 5-10 mins until wilted. Season with salt &amp; pepper. Add red wine vinegar to deglaze the pan.
-1. Enjoy! I served these for St. Patrick&#39;s Day. :)
+1. Add shaved brussels sprouts. Cook for 5-10 mins until wilted. Season with salt & pepper. Add red wine vinegar to deglaze the pan.
+1. Enjoy! I served these for St. Patrick's Day. :)
 
 
 

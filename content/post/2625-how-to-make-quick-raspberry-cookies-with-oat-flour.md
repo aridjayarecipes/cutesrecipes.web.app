@@ -24,7 +24,7 @@ recipeinstructions:
 - "In a larger bowl, mix the butter, egg, vanilla and maple syrup or honey together."
 - "Tip the dry ingredients into the wet ingredients and stir until everything is well blended."
 - "Dice the raspberries and fold them into the mixture."
-- "Place the bowl in the fridge and chill for 30 minutes. If it&#39;s still very soft leave it longer till is firm."
+- "Place the bowl in the fridge and chill for 30 minutes. If it's still very soft leave it longer till is firm."
 - "Line a baking tray with parchment paper or spray with oil spray. Either drop the cookies into rough circles onto the parchment paper, or place a cookie cutter on the tray and spoon the mixture into them to get a circular shape."
 - "Preheat 180 degrees air"
 - "Bake for 12 minutes or until the tops are firm."
@@ -73,7 +73,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Take 1 egg (medium)
 
 
-They are perfect for adapting, you can just alter the recipe depending on what you have in the house to use up. Vegan raspberry oat scones, made with wholesome spelt flour and rolled oats, are a perfect afternoon treat or addition to breakfast or brunch. Rolled oats are great for a morning porridge, but also the best choice for these scones, in granola, crisps, and cookies. Healing doesn&#39;t mean that you can&#39;t enjoy a sweet treat when you need one! 
+They are perfect for adapting, you can just alter the recipe depending on what you have in the house to use up. Vegan raspberry oat scones, made with wholesome spelt flour and rolled oats, are a perfect afternoon treat or addition to breakfast or brunch. Rolled oats are great for a morning porridge, but also the best choice for these scones, in granola, crisps, and cookies. Healing doesn't mean that you can't enjoy a sweet treat when you need one! 
 
 <!--inarticleads2-->
 
@@ -83,13 +83,13 @@ They are perfect for adapting, you can just alter the recipe depending on what y
 1. In a larger bowl, mix the butter, egg, vanilla and maple syrup or honey together.
 1. Tip the dry ingredients into the wet ingredients and stir until everything is well blended.
 1. Dice the raspberries and fold them into the mixture.
-1. Place the bowl in the fridge and chill for 30 minutes. If it&#39;s still very soft leave it longer till is firm.
+1. Place the bowl in the fridge and chill for 30 minutes. If it's still very soft leave it longer till is firm.
 1. Line a baking tray with parchment paper or spray with oil spray. Either drop the cookies into rough circles onto the parchment paper, or place a cookie cutter on the tray and spoon the mixture into them to get a circular shape.
 1. Preheat 180 degrees air
 1. Bake for 12 minutes or until the tops are firm.
 1. Allow the cookies cool on a baking rack for 15 min and enjoy!
 
 
-Rolled oats are great for a morning porridge, but also the best choice for these scones, in granola, crisps, and cookies. Healing doesn&#39;t mean that you can&#39;t enjoy a sweet treat when you need one! The Raspberry Thumbprint Cookies I am sharing with you today are delicious and have none of the harmful ingredients often found in some store-bought kinds. Raspberry Thumbprint Cookies Raspberry Cookies Raspberry Syrup Brownie Bar Sweet Tarts Melting Moments Cookies with Raspberry Buttercream. · These Raspberry Rhubarb Almond Bars have an crisp almond-flour crust topped with almond frangipane, raspberries, and rhubarb. Raspberry Almond Shortbread Thumbprint Cookies - These are simply delicious and they definitely need to find a place on your holiday cookie tray! 
+Rolled oats are great for a morning porridge, but also the best choice for these scones, in granola, crisps, and cookies. Healing doesn't mean that you can't enjoy a sweet treat when you need one! The Raspberry Thumbprint Cookies I am sharing with you today are delicious and have none of the harmful ingredients often found in some store-bought kinds. Raspberry Thumbprint Cookies Raspberry Cookies Raspberry Syrup Brownie Bar Sweet Tarts Melting Moments Cookies with Raspberry Buttercream. · These Raspberry Rhubarb Almond Bars have an crisp almond-flour crust topped with almond frangipane, raspberries, and rhubarb. Raspberry Almond Shortbread Thumbprint Cookies - These are simply delicious and they definitely need to find a place on your holiday cookie tray! 
 
 So that is going to wrap this up with this exceptional food raspberry cookies with oat flour recipe. Thanks so much for your time. I'm confident that you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

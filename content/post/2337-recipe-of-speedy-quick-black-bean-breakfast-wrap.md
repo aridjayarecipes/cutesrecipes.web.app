@@ -22,12 +22,12 @@ recipeingredient:
 - " Cottage cheese optional"
 - "1 tablespoon Coconut oil"
 recipeinstructions:
-- "Heat coconut oil in your skillet on the stove until hot. When hot add your Frozen Corn, salt, &amp; pepper."
-- "Sautee Corn on low heat until warm all the way through. When it&#39;s warm add a dash of cumin and your squirt of lime. Turn the heat up just a tad. Continue cooking corn. Stir often."
-- "You need to get your Corn good and fried. Basically it will start browning slightly. Don&#39;t burn it."
-- "Once Corn is fried up nice you will need to add your black beans, Rotel, &amp;  olives. Once all those have been added stir together and cook until warmed through."
+- "Heat coconut oil in your skillet on the stove until hot. When hot add your Frozen Corn, salt, & pepper."
+- "Sautee Corn on low heat until warm all the way through. When it's warm add a dash of cumin and your squirt of lime. Turn the heat up just a tad. Continue cooking corn. Stir often."
+- "You need to get your Corn good and fried. Basically it will start browning slightly. Don't burn it."
+- "Once Corn is fried up nice you will need to add your black beans, Rotel, &  olives. Once all those have been added stir together and cook until warmed through."
 - "Have your tortillas ready to fill up. I added cottage cheese to mine just because I like the flavor and it can be a little spicy so it helps cool it down."
-- "Put as much or as little inside your tortillas of choice and chow down. You can also add different cheeses maybe some fresh cilantro would be nice. Scrambled eggs or chicken. This is very customizable to suit anyone&#39;s tastes. I just used what I had on hand and it came out very good. It would also be a good dinner idea as well. Don&#39;t limit yourself to just the recipe. Change it up and get creative."
+- "Put as much or as little inside your tortillas of choice and chow down. You can also add different cheeses maybe some fresh cilantro would be nice. Scrambled eggs or chicken. This is very customizable to suit anyone's tastes. I just used what I had on hand and it came out very good. It would also be a good dinner idea as well. Don't limit yourself to just the recipe. Change it up and get creative."
 categories:
 - Recipe
 tags:
@@ -80,14 +80,14 @@ So tasty and quick and easy to make for a good hearty breakfast or light lunch. 
 
 ##### Steps to make Quick black bean breakfast wrap:
 
-1. Heat coconut oil in your skillet on the stove until hot. When hot add your Frozen Corn, salt, &amp; pepper.
-1. Sautee Corn on low heat until warm all the way through. When it&#39;s warm add a dash of cumin and your squirt of lime. Turn the heat up just a tad. Continue cooking corn. Stir often.
-1. You need to get your Corn good and fried. Basically it will start browning slightly. Don&#39;t burn it.
-1. Once Corn is fried up nice you will need to add your black beans, Rotel, &amp;  olives. Once all those have been added stir together and cook until warmed through.
+1. Heat coconut oil in your skillet on the stove until hot. When hot add your Frozen Corn, salt, & pepper.
+1. Sautee Corn on low heat until warm all the way through. When it's warm add a dash of cumin and your squirt of lime. Turn the heat up just a tad. Continue cooking corn. Stir often.
+1. You need to get your Corn good and fried. Basically it will start browning slightly. Don't burn it.
+1. Once Corn is fried up nice you will need to add your black beans, Rotel, &  olives. Once all those have been added stir together and cook until warmed through.
 1. Have your tortillas ready to fill up. I added cottage cheese to mine just because I like the flavor and it can be a little spicy so it helps cool it down.
-1. Put as much or as little inside your tortillas of choice and chow down. You can also add different cheeses maybe some fresh cilantro would be nice. Scrambled eggs or chicken. This is very customizable to suit anyone&#39;s tastes. I just used what I had on hand and it came out very good. It would also be a good dinner idea as well. Don&#39;t limit yourself to just the recipe. Change it up and get creative.
+1. Put as much or as little inside your tortillas of choice and chow down. You can also add different cheeses maybe some fresh cilantro would be nice. Scrambled eggs or chicken. This is very customizable to suit anyone's tastes. I just used what I had on hand and it came out very good. It would also be a good dinner idea as well. Don't limit yourself to just the recipe. Change it up and get creative.
 
 
-Layered with black beans plus fresh salsa and shredded Monterey Jack cheese, this is a delicious version of the classic Spanish Quick and spicy black bean soup. From burritos and black bean veggie burgers to red beans and rice and chili, we have a variety of simple and satisfying recipe ideas for you and your family to enjoy. We are obsessed with @vitalfarms pasture-raised eggs and think this southwestern breakfast skillet with our black bean hummus is the perfect way to fuel your day! Who doesn&#39;t love a good breakfast burrito? Stir some sautéed Mexican-flavoured black beans and veggies into your scrambled eggs for a tasty vegetarian breakfast dish. › Get more: Black beans for breakfast healthyShow Bank. 
+Layered with black beans plus fresh salsa and shredded Monterey Jack cheese, this is a delicious version of the classic Spanish Quick and spicy black bean soup. From burritos and black bean veggie burgers to red beans and rice and chili, we have a variety of simple and satisfying recipe ideas for you and your family to enjoy. We are obsessed with @vitalfarms pasture-raised eggs and think this southwestern breakfast skillet with our black bean hummus is the perfect way to fuel your day! Who doesn't love a good breakfast burrito? Stir some sautéed Mexican-flavoured black beans and veggies into your scrambled eggs for a tasty vegetarian breakfast dish. › Get more: Black beans for breakfast healthyShow Bank. 
 
 So that is going to wrap it up for this exceptional food quick black bean breakfast wrap recipe. Thanks so much for reading. I am confident that you can make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

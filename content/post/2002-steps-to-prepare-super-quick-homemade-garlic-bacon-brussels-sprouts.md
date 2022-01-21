@@ -43,7 +43,7 @@ recipecategory: Dinner
 
 Hey everyone, hope you are having an amazing day today. Today, I will show you a way to make a distinctive dish, garlic, bacon brussels sprouts.. One of my favorites. This time, I will make it a little bit unique. This is gonna smell and look delicious.
 
-You can add a little of the bacon grease to the dish if you prefer. Reviews for Photos of Garlic Brussels Sprouts with Crispy Bacon. To trim Brussels sprouts, simply cut off the stem end and halve. If they&#39;re large, you can quarter them, just making sure the Brussels sprouts are cut into uniform.
+You can add a little of the bacon grease to the dish if you prefer. Reviews for Photos of Garlic Brussels Sprouts with Crispy Bacon. To trim Brussels sprouts, simply cut off the stem end and halve. If they're large, you can quarter them, just making sure the Brussels sprouts are cut into uniform.
 
 Garlic, bacon brussels sprouts. is one of the most favored of recent trending foods in the world. It's enjoyed by millions daily. It's easy, it's fast, it tastes yummy. Garlic, bacon brussels sprouts. is something which I've loved my whole life. They're nice and they look wonderful.
 

@@ -70,6 +70,6 @@ Mixed-Fruit Smoothies. this link is to an external site that may or may not meet
 1. Mix all ingredients and blend well
 
 
-Add more ice cubes for a thicker consistency. A quick Mixed Fruit Smoothie was the answer. I love to make smoothies and experimenting with different fruits and flavors to see what new tasty mixtures I can come up with. It&#39;s a mixed fruit smoothie that reminds me of all the blends dairy-free consumers can&#39;t order in I asked Leah to whip up this mixed fruit smoothie recipe to make sure it was up to snuff, and also to. Details: Here are the foods from our food nutrition database that were used for the nutrition calculations of this recipe. 
+Add more ice cubes for a thicker consistency. A quick Mixed Fruit Smoothie was the answer. I love to make smoothies and experimenting with different fruits and flavors to see what new tasty mixtures I can come up with. It's a mixed fruit smoothie that reminds me of all the blends dairy-free consumers can't order in I asked Leah to whip up this mixed fruit smoothie recipe to make sure it was up to snuff, and also to. Details: Here are the foods from our food nutrition database that were used for the nutrition calculations of this recipe. 
 
 So that is going to wrap this up for this special food mixed fruit smoothie recipe. Thanks so much for reading. I'm confident you will make this at home. There is gonna be interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

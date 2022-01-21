@@ -11,7 +11,7 @@ ratingvalue: 4.3
 reviewcount: 47971
 recipeingredient:
 - " For condensed milk "
-- "1 &amp; 1/2-Cup milk powder"
+- "1 & 1/2-Cup milk powder"
 - "3/4 cup powder sugar"
 - "3/4 cup lukewarm water"
 - "3/4 -tsp ghee"
@@ -33,7 +33,7 @@ recipeingredient:
 - "1 tbsp melted dark chocolate compound"
 - " Fill in cone to do piping"
 recipeinstructions:
-- "Mix milk powder,sugar in a bowl add Lukewarm water little little and mix gently till smooth consistency add ghee &amp; mix properly, heat a pan and pour this mixture stir continuously on slow flame.when start bubbling turn off gas. Cool it and keep aside"
+- "Mix milk powder,sugar in a bowl add Lukewarm water little little and mix gently till smooth consistency add ghee & mix properly, heat a pan and pour this mixture stir continuously on slow flame.when start bubbling turn off gas. Cool it and keep aside"
 - "Heat a pan add ghee,when melts add grated carrot till moisture evaporates add cream,milk when thickens add sugar, saffron,dry-fruits mix well and cook till dough consistency.turn off gas and mix elaichi powder."
 - "Set in mould as shown in pic."
 - "Heat pan on slow flame add dedicated coconut, condensed milk and cashew nut flakes and cook till dough consistency.Cool it and fill the gap with coconut halwa as shown."
@@ -72,7 +72,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 ##### The ingredients needed to make Carrot Coconut Halwa:
 
 1. Get  For condensed milk :-
-1. Make ready 1 &amp; 1/2-Cup milk powder
+1. Make ready 1 & 1/2-Cup milk powder
 1. Get 3/4 cup powder sugar
 1. Prepare 3/4 cup lukewarm water
 1. Prepare 3/4 -tsp ghee
@@ -101,7 +101,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 
 ##### Steps to make Carrot Coconut Halwa:
 
-1. Mix milk powder,sugar in a bowl add Lukewarm water little little and mix gently till smooth consistency add ghee &amp; mix properly, heat a pan and pour this mixture stir continuously on slow flame.when start bubbling turn off gas. Cool it and keep aside
+1. Mix milk powder,sugar in a bowl add Lukewarm water little little and mix gently till smooth consistency add ghee & mix properly, heat a pan and pour this mixture stir continuously on slow flame.when start bubbling turn off gas. Cool it and keep aside
 1. Heat a pan add ghee,when melts add grated carrot till moisture evaporates add cream,milk when thickens add sugar, saffron,dry-fruits mix well and cook till dough consistency.turn off gas and mix elaichi powder.
 1. Set in mould as shown in pic.
 1. Heat pan on slow flame add dedicated coconut, condensed milk and cashew nut flakes and cook till dough consistency.Cool it and fill the gap with coconut halwa as shown.

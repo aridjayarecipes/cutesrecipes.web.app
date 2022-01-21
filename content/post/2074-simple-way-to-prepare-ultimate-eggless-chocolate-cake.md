@@ -88,6 +88,6 @@ Repeat the process till the batters finished. The Most Amazing Chocolate Cake is
 1. When cake baked wholly. Allow it to cool down at room temperature. Than try to to take it out from mould. Decorate it as you like. As I do with Chocolates
 
 
-This cake is moist and has the perfect crumb. I cannot imagine making a chocolate cake using any other recipe. Chocolate cake is anyone &amp; everyone&#39;s favourite dessert post meal and if it is Chocolate truffle cake nothing can get better than this. Here is an instant recipe for prepare delicious Chocolate truffle cake. This is one cake recipe you must keep in your recipe folder - a simple easy eggless chocolate cake. 
+This cake is moist and has the perfect crumb. I cannot imagine making a chocolate cake using any other recipe. Chocolate cake is anyone & everyone's favourite dessert post meal and if it is Chocolate truffle cake nothing can get better than this. Here is an instant recipe for prepare delicious Chocolate truffle cake. This is one cake recipe you must keep in your recipe folder - a simple easy eggless chocolate cake. 
 
 So that's going to wrap it up with this special food eggless chocolate cake recipe. Thanks so much for reading. I am confident that you can make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

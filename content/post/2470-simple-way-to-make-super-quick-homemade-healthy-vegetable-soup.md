@@ -29,7 +29,7 @@ recipeinstructions:
 - "Then add the vegetables and cover with lid."
 - "Let it boil for 3 minutes."
 - "Turn the heat to low and let it simmer for 20 minutes"
-- "Once it&#39;s done, serve immediately"
+- "Once it's done, serve immediately"
 - "You can add diced chicken, beef or turkey if you wish"
 categories:
 - Recipe
@@ -90,7 +90,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Then add the vegetables and cover with lid.
 1. Let it boil for 3 minutes.
 1. Turn the heat to low and let it simmer for 20 minutes
-1. Once it&#39;s done, serve immediately
+1. Once it's done, serve immediately
 1. You can add diced chicken, beef or turkey if you wish
 
 

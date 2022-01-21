@@ -43,7 +43,7 @@ Hello everybody, I hope you're having an amazing day today. Today, I will show y
 
 Black plum kala khatta is one of the most well liked of recent trending meals in the world. It's enjoyed by millions every day. It's simple, it is fast, it tastes delicious. Black plum kala khatta is something which I have loved my entire life. They are fine and they look fantastic.
 
-Black plum kala khatta is one of the most well liked of recent trending meals on earth. It is simple, it&#39;s quick, it tastes delicious. To get started with this recipe, we must prepare a few components. The Jamun or the Java Plum, or the Black Plum as it is called by some, is a sweet sour fruit that has an astringent after taste.
+Black plum kala khatta is one of the most well liked of recent trending meals on earth. It is simple, it's quick, it tastes delicious. To get started with this recipe, we must prepare a few components. The Jamun or the Java Plum, or the Black Plum as it is called by some, is a sweet sour fruit that has an astringent after taste.
 
 
 To begin with this recipe, we have to first prepare a few components. You can cook black plum kala khatta using 6 ingredients and 2 steps. Here is how you cook that.

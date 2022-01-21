@@ -20,7 +20,7 @@ recipeingredient:
 - " Other random spices and sauces"
 recipeinstructions:
 - "Add oil to pan and heat on medium high"
-- "Add chopped garlic and fry until brown, about 20s. Don&#39;t worry if some of it burns."
+- "Add chopped garlic and fry until brown, about 20s. Don't worry if some of it burns."
 - "Add dried shrimp and fry until brown, about 1-2min."
 - "Add cabbage, salt and msg and stir fry, coating with the oil. Spread and flatten the mixture."
 - "Add water and cover for 10min, uncovering and stirring occassionally."
@@ -75,7 +75,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can h
 ##### Steps to make Shrimp Cabbage (Shared Dish):
 
 1. Add oil to pan and heat on medium high
-1. Add chopped garlic and fry until brown, about 20s. Don&#39;t worry if some of it burns.
+1. Add chopped garlic and fry until brown, about 20s. Don't worry if some of it burns.
 1. Add dried shrimp and fry until brown, about 1-2min.
 1. Add cabbage, salt and msg and stir fry, coating with the oil. Spread and flatten the mixture.
 1. Add water and cover for 10min, uncovering and stirring occassionally.

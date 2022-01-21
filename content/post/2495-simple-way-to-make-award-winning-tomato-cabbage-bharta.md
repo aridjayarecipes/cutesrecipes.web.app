@@ -69,7 +69,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Take as per taste Salt
 
 
-Tomato bharta, is a spicy delicacy, with which fell in love as soon as I tasted it. you call it a chutney In our house we serve it with a local fried crispy called &#39;badi&#39;, which is crumbled into the bharta just. tasty cabbage bharta recipe/ বাধাকপির ভর্তা রেসিপি গরম ভাতের সাথে জাস্ট জমে যাবে। pls subscribe like share comment this. Baingan Bharta- Smoky Eggplant Curry is one of the signature dishes of Traditional Indian cooking. It is vegan, law fat and super delicious and has extra-ordinary smoky flavor which make you crazy in. Baked Paneer in Spinach With tomato Gravy. tablespoons of water. 
+Tomato bharta, is a spicy delicacy, with which fell in love as soon as I tasted it. you call it a chutney In our house we serve it with a local fried crispy called 'badi', which is crumbled into the bharta just. tasty cabbage bharta recipe/ বাধাকপির ভর্তা রেসিপি গরম ভাতের সাথে জাস্ট জমে যাবে। pls subscribe like share comment this. Baingan Bharta- Smoky Eggplant Curry is one of the signature dishes of Traditional Indian cooking. It is vegan, law fat and super delicious and has extra-ordinary smoky flavor which make you crazy in. Baked Paneer in Spinach With tomato Gravy. tablespoons of water. 
 
 <!--inarticleads2-->
 

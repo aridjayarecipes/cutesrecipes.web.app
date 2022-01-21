@@ -21,9 +21,9 @@ recipeingredient:
 - "2 tbsp sugar"
 recipeinstructions:
 - "Add a splash of veg oil to a large nonstick pan on medium-high heat. Season the salmon fillets with salt and pepper and sear them in the pan, skin-side first, for 5 to 6 minutes per side until cooked. Remove the fish to a paper-towel lined plate."
-- "Wipe the oil and any residue from the pan, and add a fresh splash of veg oil. Lay the tomatoes in, flesh-side down, and don&#39;t touch them for 5 minutes. Let them scorch and bubble and release their juice."
+- "Wipe the oil and any residue from the pan, and add a fresh splash of veg oil. Lay the tomatoes in, flesh-side down, and don't touch them for 5 minutes. Let them scorch and bubble and release their juice."
 - "Stir the tomato paste, shallot, garlic, and pepper flakes into the pan. Let fry for 2 minutes. Add the green pepper and fry another 2 minutes."
-- "Add the vinegar, sugar, and a 1/2 cup water to the sauce. Stir, then let simmer 2 or 3 minutes to reduce. Add salt and pepper to taste. Serve the sauce underneath or beside the salmon, so you don&#39;t ruin the beautiful crispy skin."
+- "Add the vinegar, sugar, and a 1/2 cup water to the sauce. Stir, then let simmer 2 or 3 minutes to reduce. Add salt and pepper to taste. Serve the sauce underneath or beside the salmon, so you don't ruin the beautiful crispy skin."
 categories:
 - Recipe
 tags:
@@ -47,7 +47,7 @@ Hey everyone, it's me again, Dan, welcome to our recipe site. Today, I'm gonna s
 
 Salmon sarciado is one of the most well liked of recent trending meals in the world. It is enjoyed by millions every day. It is simple, it is quick, it tastes delicious. They're fine and they look wonderful. Salmon sarciado is something which I have loved my whole life.
 
-Welcome to our channel JES &amp; Friends. Briefly fry the salmon in hot oil until lightly. salmon sarciado Sarciado pork Sarciado with tomato sauce Tuna sarciado recipe Filipino salmon recipe with mayonnaise Shrimp sarciado recipe Sarciado manok Sarciado meaning Escabeche ISDA. Use salmon, tilapia, or cod in this easy Pinoy recipe that has a tomato-based sauce with onion and garlic. How to cook SARCIADONG SALMON FISH/Fish Sarciado Подробнее.
+Welcome to our channel JES & Friends. Briefly fry the salmon in hot oil until lightly. salmon sarciado Sarciado pork Sarciado with tomato sauce Tuna sarciado recipe Filipino salmon recipe with mayonnaise Shrimp sarciado recipe Sarciado manok Sarciado meaning Escabeche ISDA. Use salmon, tilapia, or cod in this easy Pinoy recipe that has a tomato-based sauce with onion and garlic. How to cook SARCIADONG SALMON FISH/Fish Sarciado Подробнее.
 
 
 To get started with this particular recipe, we have to prepare a few components. You can have salmon sarciado using 9 ingredients and 4 steps. Here is how you cook it.
@@ -67,16 +67,16 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Prepare 2 tbsp sugar
 
 
-Today we are cooking to cook another Pinoy recipe Salmon Sarciado. Please don&#39;t forget to like and share this video. Sparkpeople - Fish Sarciado. Размер порции Salmon Sarciado. Fish Sarciado is known to Ilonggos as Cardillong Isda. 
+Today we are cooking to cook another Pinoy recipe Salmon Sarciado. Please don't forget to like and share this video. Sparkpeople - Fish Sarciado. Размер порции Salmon Sarciado. Fish Sarciado is known to Ilonggos as Cardillong Isda. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Salmon sarciado:
 
 1. Add a splash of veg oil to a large nonstick pan on medium-high heat. Season the salmon fillets with salt and pepper and sear them in the pan, skin-side first, for 5 to 6 minutes per side until cooked. Remove the fish to a paper-towel lined plate.
-1. Wipe the oil and any residue from the pan, and add a fresh splash of veg oil. Lay the tomatoes in, flesh-side down, and don&#39;t touch them for 5 minutes. Let them scorch and bubble and release their juice.
+1. Wipe the oil and any residue from the pan, and add a fresh splash of veg oil. Lay the tomatoes in, flesh-side down, and don't touch them for 5 minutes. Let them scorch and bubble and release their juice.
 1. Stir the tomato paste, shallot, garlic, and pepper flakes into the pan. Let fry for 2 minutes. Add the green pepper and fry another 2 minutes.
-1. Add the vinegar, sugar, and a 1/2 cup water to the sauce. Stir, then let simmer 2 or 3 minutes to reduce. Add salt and pepper to taste. Serve the sauce underneath or beside the salmon, so you don&#39;t ruin the beautiful crispy skin.
+1. Add the vinegar, sugar, and a 1/2 cup water to the sauce. Stir, then let simmer 2 or 3 minutes to reduce. Add salt and pepper to taste. Serve the sauce underneath or beside the salmon, so you don't ruin the beautiful crispy skin.
 
 
 Sparkpeople - Fish Sarciado. Размер порции Salmon Sarciado. Fish Sarciado is known to Ilonggos as Cardillong Isda. A saucy fish dish so simple but very delicious so satisfy your craving with this Sarciadong Isda, so affordable and easy to make. In Filipino, "sarciado" refers to dishes with a tomato-based sauce. The sauce can be poured over the cooked fish or fried fish can be braised in the sauce. 

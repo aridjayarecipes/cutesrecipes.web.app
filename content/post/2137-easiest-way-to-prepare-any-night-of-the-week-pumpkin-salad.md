@@ -40,7 +40,7 @@ Hello everybody, it is me, Dave, welcome to our recipe page. Today, we're going 
 
 Pumpkin salad is one of the most favored of current trending foods in the world. It's simple, it's fast, it tastes delicious. It is enjoyed by millions daily. They are nice and they look fantastic. Pumpkin salad is something which I have loved my entire life.
 
-This is not a difficult salad to make but I have a few tips that I&#39;ve picked up over the years, like roasting the pumpkin so Watch how to make IT. Roast Pumpkin, Spinach and Feta Salad recipe video! This particular pumpkin salad came together by combining a simple, honey-kissed, creamy sunflower seed cilantro dressing with a platter of roasted pumpkin, wild rice and tiny, caramelized red onions. Pumpkin Salad is a simple salad recipe from "Taste of Well-being" book.
+This is not a difficult salad to make but I have a few tips that I've picked up over the years, like roasting the pumpkin so Watch how to make IT. Roast Pumpkin, Spinach and Feta Salad recipe video! This particular pumpkin salad came together by combining a simple, honey-kissed, creamy sunflower seed cilantro dressing with a platter of roasted pumpkin, wild rice and tiny, caramelized red onions. Pumpkin Salad is a simple salad recipe from "Taste of Well-being" book.
 
 
 To get started with this particular recipe, we have to first prepare a few ingredients. You can cook pumpkin salad using 4 ingredients and 2 steps. Here is how you can achieve it.

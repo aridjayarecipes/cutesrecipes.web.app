@@ -41,7 +41,7 @@ recipecategory: Dinner
 
 Hey everyone, it's John, welcome to my recipe site. Today, I will show you a way to make a distinctive dish, blueberry chicken. It is one of my favorites. For mine, I am going to make it a bit tasty. This will be really delicious.
 
-Learn how to make a Red, White &amp; Blueberry Grilled Chicken Recipe! Blueberry Chicken. this link is to an external site that may or may not meet accessibility guidelines. Make blueberries a part of your daily routine: Grab a Take a bowl of this blueberry chicken chopped salad for a dish that&#39;s sure to leave your friends and family&#39;s. Blueberry balsamic chicken is a dish from the Provence region of France.
+Learn how to make a Red, White & Blueberry Grilled Chicken Recipe! Blueberry Chicken. this link is to an external site that may or may not meet accessibility guidelines. Make blueberries a part of your daily routine: Grab a Take a bowl of this blueberry chicken chopped salad for a dish that's sure to leave your friends and family's. Blueberry balsamic chicken is a dish from the Provence region of France.
 
 Blueberry chicken is one of the most well liked of recent trending foods in the world. It is simple, it's fast, it tastes yummy. It's appreciated by millions every day. Blueberry chicken is something which I've loved my whole life. They're nice and they look fantastic.
 

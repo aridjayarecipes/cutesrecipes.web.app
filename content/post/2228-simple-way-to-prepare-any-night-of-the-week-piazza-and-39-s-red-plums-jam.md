@@ -1,6 +1,6 @@
 ---
-description: "Simple Way to Prepare Any-night-of-the-week Piazza&amp;#39;s red plums jam"
-title: "Simple Way to Prepare Any-night-of-the-week Piazza&amp;#39;s red plums jam"
+description: "Simple Way to Prepare Any-night-of-the-week Piazza&#39;s red plums jam"
+title: "Simple Way to Prepare Any-night-of-the-week Piazza&#39;s red plums jam"
 slug: 2228-simple-way-to-prepare-any-night-of-the-week-piazza-and-39-s-red-plums-jam
 date: 2022-03-03T12:19:26.415Z
 image: https://img-global.cpcdn.com/recipes/5050235801829376/680x482cq70/piazzas-red-plums-jam-recipe-main-photo.jpg
@@ -43,20 +43,20 @@ recipecategory: Dinner
 ---
 
 
-![Piazza&#39;s red plums jam](https://img-global.cpcdn.com/recipes/5050235801829376/680x482cq70/piazzas-red-plums-jam-recipe-main-photo.jpg)
+![Piazza's red plums jam](https://img-global.cpcdn.com/recipes/5050235801829376/680x482cq70/piazzas-red-plums-jam-recipe-main-photo.jpg)
 
-Hello everybody, it's me, Dave, welcome to my recipe site. Today, we're going to prepare a special dish, piazza&#39;s red plums jam. It is one of my favorites. This time, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
+Hello everybody, it's me, Dave, welcome to my recipe site. Today, we're going to prepare a special dish, piazza's red plums jam. It is one of my favorites. This time, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
 
-Piazza&#39;s red plums jam is one of the most well liked of current trending meals in the world. It is enjoyed by millions daily. It's simple, it's quick, it tastes delicious. Piazza&#39;s red plums jam is something which I've loved my whole life. They're fine and they look wonderful.
+Piazza's red plums jam is one of the most well liked of current trending meals in the world. It is enjoyed by millions daily. It's simple, it's quick, it tastes delicious. Piazza's red plums jam is something which I've loved my whole life. They're fine and they look wonderful.
 
-Piazza&#39;s red plums jam is one of the most well liked of recent trending meals on earth. It&#39;s simple, it is quick, it tastes yummy. It is appreciated by millions daily. Here is how you cook that.
+Piazza's red plums jam is one of the most well liked of recent trending meals on earth. It's simple, it is quick, it tastes yummy. It is appreciated by millions daily. Here is how you cook that.
 
 
-To begin with this particular recipe, we have to first prepare a few components. You can cook piazza&#39;s red plums jam using 5 ingredients and 9 steps. Here is how you cook it.
+To begin with this particular recipe, we have to first prepare a few components. You can cook piazza's red plums jam using 5 ingredients and 9 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Piazza&#39;s red plums jam:
+##### The ingredients needed to make Piazza's red plums jam:
 
 1. Get 800 grams ripe red plums, pits removed
 1. Make ready 450 grams white sugar
@@ -65,11 +65,11 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Prepare 1 tsp cinnamon powder
 
 
-I cannot make peanut butter &amp; jelly sandwiches without it for my gang! It is late summer and our plum tree is loaded. Nothing better than sweet-tangy fresh tasting plum jam--enough to last through the chilly months of winter. Homemade red plums jam in two jars and fruits. 
+I cannot make peanut butter & jelly sandwiches without it for my gang! It is late summer and our plum tree is loaded. Nothing better than sweet-tangy fresh tasting plum jam--enough to last through the chilly months of winter. Homemade red plums jam in two jars and fruits. 
 
 <!--inarticleads2-->
 
-##### Instructions to make Piazza&#39;s red plums jam:
+##### Instructions to make Piazza's red plums jam:
 
 1. cut plums in little pieces
 1. mix plums with sugars and lemon juice
@@ -84,4 +84,4 @@ I cannot make peanut butter &amp; jelly sandwiches without it for my gang! It is
 
 Nothing better than sweet-tangy fresh tasting plum jam--enough to last through the chilly months of winter. Homemade red plums jam in two jars and fruits. Trying to select which plums are dark red inside? Check out this article to learn more! If you like your plums sweet, you want the darkest flesh possible. 
 
-So that is going to wrap it up for this special food piazza&#39;s red plums jam recipe. Thank you very much for reading. I'm sure you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!
+So that is going to wrap it up for this special food piazza's red plums jam recipe. Thank you very much for reading. I'm sure you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

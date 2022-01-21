@@ -76,7 +76,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Prepare 1 lemon cut half for juice the other half into wedges
 
 
-These parmesan rosemary potato stacks will wow your guests! With thin layers of potatoes brushed with melted butter, sprinkled with parmesan. Garlic Butter-Roasted Salmon with Potatoes &amp; Asparagus. I did add some extra dill on the salmon and potatoes. 
+These parmesan rosemary potato stacks will wow your guests! With thin layers of potatoes brushed with melted butter, sprinkled with parmesan. Garlic Butter-Roasted Salmon with Potatoes & Asparagus. I did add some extra dill on the salmon and potatoes. 
 
 <!--inarticleads2-->
 
@@ -88,6 +88,6 @@ These parmesan rosemary potato stacks will wow your guests! With thin layers of 
 1. Carefully toss all ingredients and dress. Place on plate and add salmon on top. Drizzle more dressing around as garnish.
 
 
-Garlic Butter-Roasted Salmon with Potatoes &amp; Asparagus. I did add some extra dill on the salmon and potatoes. My wife and I loved it. Pan seared salmon + lemon butter sauce. Crispy and juicy roasted salmon-fried in a cast iron skillet. 
+Garlic Butter-Roasted Salmon with Potatoes & Asparagus. I did add some extra dill on the salmon and potatoes. My wife and I loved it. Pan seared salmon + lemon butter sauce. Crispy and juicy roasted salmon-fried in a cast iron skillet. 
 
 So that is going to wrap this up for this special food seared salmon on figs, roasted potatoes, fennel spinach and pomegranate dressing recipe. Thank you very much for your time. I'm sure that you will make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

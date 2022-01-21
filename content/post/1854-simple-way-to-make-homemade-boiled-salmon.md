@@ -54,7 +54,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Make ready  Hollandaise or tartar sauce
 
 
-This recipe will become your favorite way to eat salmon. An extremely addicting and easy salmon recipe for your arsenal. Broiling Salmon Is Quick, Easy &amp; Efficient. You may be asking yourself, did he say "broil" salmon? 
+This recipe will become your favorite way to eat salmon. An extremely addicting and easy salmon recipe for your arsenal. Broiling Salmon Is Quick, Easy & Efficient. You may be asking yourself, did he say "broil" salmon? 
 
 <!--inarticleads2-->
 
@@ -63,6 +63,6 @@ This recipe will become your favorite way to eat salmon. An extremely addicting 
 1. Tie salmon in clean, white cheesecloth,cook in salted water until tender. Do not over cook. Carefully remove cheesecloth,serve on hot platter with pieces of lemon and paprika. Serve with hollandaise or tartar sauce.
 
 
-Broiling Salmon Is Quick, Easy &amp; Efficient. You may be asking yourself, did he say "broil" salmon? There are lots of great ways to cook salmon. Individual salmon fillets are quick soaked in a flavorful honey-lime marinade, then aligned on a baking sheet, sprinkled with spices, and finished under a hot. If asparagus isn&#39;t done, lift salmon. 
+Broiling Salmon Is Quick, Easy & Efficient. You may be asking yourself, did he say "broil" salmon? There are lots of great ways to cook salmon. Individual salmon fillets are quick soaked in a flavorful honey-lime marinade, then aligned on a baking sheet, sprinkled with spices, and finished under a hot. If asparagus isn't done, lift salmon. 
 
 So that is going to wrap this up for this special food boiled salmon recipe. Thank you very much for reading. I'm sure that you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -18,7 +18,7 @@ recipeingredient:
 - "1/2 cup finely shredded Parmesan cheese"
 recipeinstructions:
 - "Slice the Brussel sprouts into half. Lay into a pan. Preheat convection oven 400 degrees Fahrenheit. Season the top with salt."
-- "Chop the ham divide the butter into thin pat&#39;s. Add them on top. Place in the oven for 35 minutes. Serve I hope you enjoy!!!"
+- "Chop the ham divide the butter into thin pat's. Add them on top. Place in the oven for 35 minutes. Serve I hope you enjoy!!!"
 categories:
 - Recipe
 tags:
@@ -67,7 +67,7 @@ To begin with this recipe, we must first prepare a few components. You can have 
 ##### Steps to make Roasted Kale and Brussel Sprouts:
 
 1. Slice the Brussel sprouts into half. Lay into a pan. Preheat convection oven 400 degrees Fahrenheit. Season the top with salt.
-1. Chop the ham divide the butter into thin pat&#39;s. Add them on top. Place in the oven for 35 minutes. Serve I hope you enjoy!!!
+1. Chop the ham divide the butter into thin pat's. Add them on top. Place in the oven for 35 minutes. Serve I hope you enjoy!!!
 
 
 

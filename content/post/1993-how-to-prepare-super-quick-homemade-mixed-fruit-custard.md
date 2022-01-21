@@ -65,7 +65,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Prepare as needed sliced almonds
 
 
-It is a very simple and peculiar dish that is always served chilled. It is one best healthy &amp; refreshing dessert to relish. Mixed fruit custard is traditionally prepared with multiple fruits and a custard mix prepared from cream Fruit custard is a delicious finish to any meal and is also a refreshment during the scorching. Fruit custard is one of the easiest dessert and also very tasty and healthy. 
+It is a very simple and peculiar dish that is always served chilled. It is one best healthy & refreshing dessert to relish. Mixed fruit custard is traditionally prepared with multiple fruits and a custard mix prepared from cream Fruit custard is a delicious finish to any meal and is also a refreshment during the scorching. Fruit custard is one of the easiest dessert and also very tasty and healthy. 
 
 <!--inarticleads2-->
 

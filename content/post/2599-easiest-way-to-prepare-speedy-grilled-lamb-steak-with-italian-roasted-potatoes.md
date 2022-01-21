@@ -20,12 +20,12 @@ recipeingredient:
 - "1 tsp paprika"
 - "1 salt  pepper"
 recipeinstructions:
-- "Salt &amp; pepper the lamb steaks &amp; sprinkle with the dried rosemary &amp; marinade with the wine in a shallow pan at room temperature for an hour"
-- "Grill the steaks on a bbq or grill pan sideways for 2 minutes then turn sideways other way creating a x burned mark for 2 another 2 minutes &amp; then flip over steak &amp; repeat process &amp; then let steak sit for a couple of minutes."
-- "Rinse &amp; chop potatoes into bite size pieces &amp; put into a bowl &amp; add the olive oil, salt, pepper, paprika &amp; Italian seasoning."
-- "Preheat baking pan in 350° oven &amp; put the potatoes once oven &amp; pan is 350° set timer for 10 minutes then flip potatoes &amp; set for 10 more minutes."
-- "Raise temperature to 450° for 10 more minutes &amp; then raise to 550° for last 5 minutes"
-- "Plate lamb steak &amp; potatoes &amp; serve with piece of warm bread &amp; eat &amp; enjoy"
+- "Salt & pepper the lamb steaks & sprinkle with the dried rosemary & marinade with the wine in a shallow pan at room temperature for an hour"
+- "Grill the steaks on a bbq or grill pan sideways for 2 minutes then turn sideways other way creating a x burned mark for 2 another 2 minutes & then flip over steak & repeat process & then let steak sit for a couple of minutes."
+- "Rinse & chop potatoes into bite size pieces & put into a bowl & add the olive oil, salt, pepper, paprika & Italian seasoning."
+- "Preheat baking pan in 350° oven & put the potatoes once oven & pan is 350° set timer for 10 minutes then flip potatoes & set for 10 more minutes."
+- "Raise temperature to 450° for 10 more minutes & then raise to 550° for last 5 minutes"
+- "Plate lamb steak & potatoes & serve with piece of warm bread & eat & enjoy"
 categories:
 - Recipe
 tags:
@@ -62,12 +62,12 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Make ready 2 1/2 lb Lamb Steaks
 1. Get 2 tsp fresh or dried rosemary
 1. Get 1 cup Pinot Grigio white wine
-1. Get 1 salt &amp; pepper
+1. Get 1 salt & pepper
 1. Prepare 8 golden yukon or red potatoes
 1. Get 2 tbsp olive oil
 1. Get 1 tbsp Italian seasoning
 1. Get 1 tsp paprika
-1. Prepare 1 salt &amp; pepper
+1. Prepare 1 salt & pepper
 
 
 
@@ -76,12 +76,12 @@ To get started with this particular recipe, we have to first prepare a few compo
 
 ##### Instructions to make Grilled Lamb Steak with Italian Roasted Potatoes:
 
-1. Salt &amp; pepper the lamb steaks &amp; sprinkle with the dried rosemary &amp; marinade with the wine in a shallow pan at room temperature for an hour
-1. Grill the steaks on a bbq or grill pan sideways for 2 minutes then turn sideways other way creating a x burned mark for 2 another 2 minutes &amp; then flip over steak &amp; repeat process &amp; then let steak sit for a couple of minutes.
-1. Rinse &amp; chop potatoes into bite size pieces &amp; put into a bowl &amp; add the olive oil, salt, pepper, paprika &amp; Italian seasoning.
-1. Preheat baking pan in 350° oven &amp; put the potatoes once oven &amp; pan is 350° set timer for 10 minutes then flip potatoes &amp; set for 10 more minutes.
-1. Raise temperature to 450° for 10 more minutes &amp; then raise to 550° for last 5 minutes
-1. Plate lamb steak &amp; potatoes &amp; serve with piece of warm bread &amp; eat &amp; enjoy
+1. Salt & pepper the lamb steaks & sprinkle with the dried rosemary & marinade with the wine in a shallow pan at room temperature for an hour
+1. Grill the steaks on a bbq or grill pan sideways for 2 minutes then turn sideways other way creating a x burned mark for 2 another 2 minutes & then flip over steak & repeat process & then let steak sit for a couple of minutes.
+1. Rinse & chop potatoes into bite size pieces & put into a bowl & add the olive oil, salt, pepper, paprika & Italian seasoning.
+1. Preheat baking pan in 350° oven & put the potatoes once oven & pan is 350° set timer for 10 minutes then flip potatoes & set for 10 more minutes.
+1. Raise temperature to 450° for 10 more minutes & then raise to 550° for last 5 minutes
+1. Plate lamb steak & potatoes & serve with piece of warm bread & eat & enjoy
 
 
 

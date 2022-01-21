@@ -63,7 +63,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 1. Take  Salt
 
 
-Just read the label to make sure it doesn&#39;t contain Plus, it comes in smaller flakes so it&#39;s a cinch to stir into mayo and spread on toast. a tuna mousse and serve on toasted bread/crostini. I also really like tuna in oil for making fish cakes. I use leftover potatoes, smashed - with celery chopped onion I simply adore a great olive oil packed tuna. It&#39;s fantastic on top of a salad (castillian style) made with iceberg. 
+Just read the label to make sure it doesn't contain Plus, it comes in smaller flakes so it's a cinch to stir into mayo and spread on toast. a tuna mousse and serve on toasted bread/crostini. I also really like tuna in oil for making fish cakes. I use leftover potatoes, smashed - with celery chopped onion I simply adore a great olive oil packed tuna. It's fantastic on top of a salad (castillian style) made with iceberg. 
 
 <!--inarticleads2-->
 
@@ -74,6 +74,6 @@ Just read the label to make sure it doesn&#39;t contain Plus, it comes in smalle
 1. Sprinkle with salt flakes and finish off with a generous drizzle of lemon-infused Olive Oil.
 
 
-I use leftover potatoes, smashed - with celery chopped onion I simply adore a great olive oil packed tuna. It&#39;s fantastic on top of a salad (castillian style) made with iceberg. Canned tuna, anchovies, olives, tomatoes, onions and hard-boiled eggs are a few of the standard In contrast, tuna packed in olive oil is tender and moist, and the flavor of the tuna really shines. I especially like the lemon and pepper version. I love it in both this sandwich and in Salade Nicoise. 
+I use leftover potatoes, smashed - with celery chopped onion I simply adore a great olive oil packed tuna. It's fantastic on top of a salad (castillian style) made with iceberg. Canned tuna, anchovies, olives, tomatoes, onions and hard-boiled eggs are a few of the standard In contrast, tuna packed in olive oil is tender and moist, and the flavor of the tuna really shines. I especially like the lemon and pepper version. I love it in both this sandwich and in Salade Nicoise. 
 
 So that is going to wrap it up with this special food tuna in olive oil, peppers and sweet onions on toast recipe. Thanks so much for your time. I'm sure you can make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

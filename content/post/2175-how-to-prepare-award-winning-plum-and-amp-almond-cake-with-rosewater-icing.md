@@ -1,6 +1,6 @@
 ---
-description: "How to Prepare Award-winning Plum &amp;amp; almond cake with rosewater icing"
-title: "How to Prepare Award-winning Plum &amp;amp; almond cake with rosewater icing"
+description: "How to Prepare Award-winning Plum &amp; almond cake with rosewater icing"
+title: "How to Prepare Award-winning Plum &amp; almond cake with rosewater icing"
 slug: 2175-how-to-prepare-award-winning-plum-and-amp-almond-cake-with-rosewater-icing
 date: 2021-10-26T19:05:06.596Z
 image: https://img-global.cpcdn.com/recipes/5a7c5d12134e7126/680x482cq70/plum-almond-cake-with-rosewater-icing-recipe-main-photo.jpg
@@ -53,20 +53,20 @@ recipecategory: Lunch
 ---
 
 
-![Plum &amp; almond cake with rosewater icing](https://img-global.cpcdn.com/recipes/5a7c5d12134e7126/680x482cq70/plum-almond-cake-with-rosewater-icing-recipe-main-photo.jpg)
+![Plum & almond cake with rosewater icing](https://img-global.cpcdn.com/recipes/5a7c5d12134e7126/680x482cq70/plum-almond-cake-with-rosewater-icing-recipe-main-photo.jpg)
 
-Hello everybody, it is Drew, welcome to our recipe page. Today, we're going to make a distinctive dish, plum &amp; almond cake with rosewater icing. One of my favorites food recipes. For mine, I'm gonna make it a little bit unique. This is gonna smell and look delicious.
+Hello everybody, it is Drew, welcome to our recipe page. Today, we're going to make a distinctive dish, plum & almond cake with rosewater icing. One of my favorites food recipes. For mine, I'm gonna make it a little bit unique. This is gonna smell and look delicious.
 
-Plum &amp; almond cake with rosewater icing is one of the most favored of current trending foods in the world. It's simple, it's fast, it tastes delicious. It's enjoyed by millions daily. They are nice and they look fantastic. Plum &amp; almond cake with rosewater icing is something which I've loved my whole life.
+Plum & almond cake with rosewater icing is one of the most favored of current trending foods in the world. It's simple, it's fast, it tastes delicious. It's enjoyed by millions daily. They are nice and they look fantastic. Plum & almond cake with rosewater icing is something which I've loved my whole life.
 
-A plum is a fruit of some species in Prunus subg. Plum is revolutionizing how global enterprises hire, grow, and retain talent with the predictive Strip away bias and reveal human potential to revolutionize how you hire, grow, and retain talent with Plum. Check out your Monthly Diagnostics on the Plum app and let us know below and markets explained simply with Plum Bites. And yes, that&#39;s technically a cow emoji Bear in mind, as with all investing.
+A plum is a fruit of some species in Prunus subg. Plum is revolutionizing how global enterprises hire, grow, and retain talent with the predictive Strip away bias and reveal human potential to revolutionize how you hire, grow, and retain talent with Plum. Check out your Monthly Diagnostics on the Plum app and let us know below and markets explained simply with Plum Bites. And yes, that's technically a cow emoji Bear in mind, as with all investing.
 
 
-To get started with this recipe, we have to prepare a few components. You can have plum &amp; almond cake with rosewater icing using 14 ingredients and 10 steps. Here is how you cook it.
+To get started with this recipe, we have to prepare a few components. You can have plum & almond cake with rosewater icing using 14 ingredients and 10 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Plum &amp; almond cake with rosewater icing:
+##### The ingredients needed to make Plum & almond cake with rosewater icing:
 
 1. Take 100 g softened butter
 1. Prepare 100 g caster sugar
@@ -88,7 +88,7 @@ But plums are much more Plums add subtle sweetness to salads and desserts, but t
 
 <!--inarticleads2-->
 
-##### Steps to make Plum &amp; almond cake with rosewater icing:
+##### Steps to make Plum & almond cake with rosewater icing:
 
 1. Preheat the oven to 170C. Butter and line a loaf tin (I use shop-bought loaf tin liners. Much quicker).
 1. Cream together the butter and the sugar until pale and creamy, then mix in the lemon zest.
@@ -104,4 +104,4 @@ But plums are much more Plums add subtle sweetness to salads and desserts, but t
 
 
 
-So that is going to wrap this up with this special food plum &amp; almond cake with rosewater icing recipe. Thank you very much for your time. I am confident you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap this up with this special food plum & almond cake with rosewater icing recipe. Thank you very much for your time. I am confident you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

@@ -94,6 +94,6 @@ A cabbage roll is a dish consisting of cooked cabbage leaves wrapped around a va
 1. Serve them immediately.
 
 
-Hungarian Stuffed Cabbage Rolls Cooking on the Stove by JaguarJulie by JaguarJulie. Medium size Hungarian stuffed cabbage rolls that I recently made -- using one large head of Cabbage rolls with gravy: Beijing cabbage leaves were used for this dish. The filling was a spin off from the original. This tutorial is all you need for BEST vegetarian cabbage rolls! Oma&#39;s cabbage rolls recipe is SO traditionally German. 
+Hungarian Stuffed Cabbage Rolls Cooking on the Stove by JaguarJulie by JaguarJulie. Medium size Hungarian stuffed cabbage rolls that I recently made -- using one large head of Cabbage rolls with gravy: Beijing cabbage leaves were used for this dish. The filling was a spin off from the original. This tutorial is all you need for BEST vegetarian cabbage rolls! Oma's cabbage rolls recipe is SO traditionally German. 
 
 So that's going to wrap it up for this special food stuffed cabbage roll gravy recipe. Thank you very much for your time. I'm sure that you will make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

@@ -18,8 +18,8 @@ recipeingredient:
 recipeinstructions:
 - "Peel and cubed the potatoes."
 - "Add potatoes, water and some salt in the pot, boil it for 20 minutes, check it with a fork to see if the potatoes is tender."
-- "Once it&#39;s done, strain the potatoes and butter, mash it."
-- "Once it&#39;s smooth, add salt, pepper and cream. Combine it and don&#39;t forget to do a taste test!"
+- "Once it's done, strain the potatoes and butter, mash it."
+- "Once it's smooth, add salt, pepper and cream. Combine it and don't forget to do a taste test!"
 categories:
 - Recipe
 tags:
@@ -44,7 +44,7 @@ Hello everybody, hope you're having an amazing day today. Today, I'm gonna show 
 
 Creamy mashed potatoes is one of the most popular of current trending foods on earth. It's enjoyed by millions every day. It is easy, it's quick, it tastes delicious. They're fine and they look fantastic. Creamy mashed potatoes is something which I've loved my entire life.
 
-Mashed Potatoes and Brown Gravy Recipe Floury and all rounder potatoes work best to achieve a fluffy yet creamy mash without fussing with potato ricers and other gadgets (this is, after all, the everyday mash you&#39;re going to make all the time!) Delicious, Creamy Mashed Potatoes. They can even be made ahead of time! Mmmm…creamy, steamy, flavorful, delicious mashed potatoes.
+Mashed Potatoes and Brown Gravy Recipe Floury and all rounder potatoes work best to achieve a fluffy yet creamy mash without fussing with potato ricers and other gadgets (this is, after all, the everyday mash you're going to make all the time!) Delicious, Creamy Mashed Potatoes. They can even be made ahead of time! Mmmm…creamy, steamy, flavorful, delicious mashed potatoes.
 
 
 To begin with this particular recipe, we must prepare a few components. You can have creamy mashed potatoes using 5 ingredients and 4 steps. Here is how you can achieve it.
@@ -60,7 +60,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Get 1/2 tsp pepper
 
 
-Place them back into the dry pot and put the pot on the stove. Great recipe for "ultra creamy" mashed potatoes! It&#39;s straight forward and just plain delicious. The perfect mashed potato to accompnay your favorite gravy! 
+Place them back into the dry pot and put the pot on the stove. Great recipe for "ultra creamy" mashed potatoes! It's straight forward and just plain delicious. The perfect mashed potato to accompnay your favorite gravy! 
 
 <!--inarticleads2-->
 
@@ -68,10 +68,10 @@ Place them back into the dry pot and put the pot on the stove. Great recipe for 
 
 1. Peel and cubed the potatoes.
 1. Add potatoes, water and some salt in the pot, boil it for 20 minutes, check it with a fork to see if the potatoes is tender.
-1. Once it&#39;s done, strain the potatoes and butter, mash it.
-1. Once it&#39;s smooth, add salt, pepper and cream. Combine it and don&#39;t forget to do a taste test!
+1. Once it's done, strain the potatoes and butter, mash it.
+1. Once it's smooth, add salt, pepper and cream. Combine it and don't forget to do a taste test!
 
 
-It&#39;s straight forward and just plain delicious. The perfect mashed potato to accompnay your favorite gravy! These creamy mashed potatoes are ultra-fluffy, velvety and rich. They have so much richness and flavor - a perfect side dish for any meal. This creamy mashed potatoes recipe is shockingly good! 
+It's straight forward and just plain delicious. The perfect mashed potato to accompnay your favorite gravy! These creamy mashed potatoes are ultra-fluffy, velvety and rich. They have so much richness and flavor - a perfect side dish for any meal. This creamy mashed potatoes recipe is shockingly good! 
 
 So that is going to wrap it up with this exceptional food creamy mashed potatoes recipe. Thanks so much for your time. I'm sure you can make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

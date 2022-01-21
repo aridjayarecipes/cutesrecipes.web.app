@@ -26,12 +26,12 @@ recipeingredient:
 - "1/2 tsp salt"
 recipeinstructions:
 - "Simmer the pineapple in covered pan for 15mins then uncover"
-- "Keep stirring the pineapple til little liquid is left &amp; the pineapple is almost clear color."
+- "Keep stirring the pineapple til little liquid is left & the pineapple is almost clear color."
 - "Add brown sugar and keep stirring til caramelized. Set aside."
-- "In a separate bowl, cream butter, sugar, eggs &amp; vanilla."
-- "Add mashed banana &amp; pineapple then mix."
+- "In a separate bowl, cream butter, sugar, eggs & vanilla."
+- "Add mashed banana & pineapple then mix."
 - "In smaller bowl, mix dry ingredients then add to wet and mix til well incorporated."
-- "Pour in to greased/lined muffin pan and bake at 350 for 25mins or until slightly brown, in middle or higher rack. Brush with butter &amp; serve warm if preferred"
+- "Pour in to greased/lined muffin pan and bake at 350 for 25mins or until slightly brown, in middle or higher rack. Brush with butter & serve warm if preferred"
 categories:
 - Recipe
 tags:
@@ -88,12 +88,12 @@ To begin with this recipe, we must first prepare a few components. You can have 
 ##### Steps to make Banana Pineapple Candy Muffins:
 
 1. Simmer the pineapple in covered pan for 15mins then uncover
-1. Keep stirring the pineapple til little liquid is left &amp; the pineapple is almost clear color.
+1. Keep stirring the pineapple til little liquid is left & the pineapple is almost clear color.
 1. Add brown sugar and keep stirring til caramelized. Set aside.
-1. In a separate bowl, cream butter, sugar, eggs &amp; vanilla.
-1. Add mashed banana &amp; pineapple then mix.
+1. In a separate bowl, cream butter, sugar, eggs & vanilla.
+1. Add mashed banana & pineapple then mix.
 1. In smaller bowl, mix dry ingredients then add to wet and mix til well incorporated.
-1. Pour in to greased/lined muffin pan and bake at 350 for 25mins or until slightly brown, in middle or higher rack. Brush with butter &amp; serve warm if preferred
+1. Pour in to greased/lined muffin pan and bake at 350 for 25mins or until slightly brown, in middle or higher rack. Brush with butter & serve warm if preferred
 
 
 

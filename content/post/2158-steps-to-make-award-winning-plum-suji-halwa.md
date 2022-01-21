@@ -19,11 +19,11 @@ recipeingredient:
 - "1/4 cup Sugar"
 - "1/4 cup chopped dryfruits"
 - "1/4 cup raisins"
-- "1 &amp;1/2-cup milk"
+- "1 &1/2-cup milk"
 - "as needed Plum slices  dryfruits for garnishing"
 recipeinstructions:
-- "Heat a pan add 1-tbsp ghee and add plums puree cook till colour changes add 2-tbsp sugar mix well stir continuously until thick add dryfruits mix it turn off gas &amp; keep aside."
-- "Similarly heat a pan add 1/4- ghee,when ghee melts add suji and roast till turns light pink now add milk and stir continuously until thickens add sugar, dryfruits &amp; prepared Plum mixture mix properly and cook till ghee releases."
+- "Heat a pan add 1-tbsp ghee and add plums puree cook till colour changes add 2-tbsp sugar mix well stir continuously until thick add dryfruits mix it turn off gas & keep aside."
+- "Similarly heat a pan add 1/4- ghee,when ghee melts add suji and roast till turns light pink now add milk and stir continuously until thickens add sugar, dryfruits & prepared Plum mixture mix properly and cook till ghee releases."
 - "Set in heart shaped mould garnish with plum slices and chopped dryfruits."
 categories:
 - Recipe
@@ -67,8 +67,8 @@ To begin with this recipe, we must prepare a few ingredients. You can have plum 
 1. Make ready 1/4 cup Sugar
 1. Make ready 1/4 cup chopped dryfruits
 1. Prepare 1/4 cup raisins
-1. Make ready 1 &amp;1/2-cup milk
-1. Make ready as needed Plum slices &amp; dryfruits for garnishing
+1. Make ready 1 &1/2-cup milk
+1. Make ready as needed Plum slices & dryfruits for garnishing
 
 
 
@@ -77,8 +77,8 @@ To begin with this recipe, we must prepare a few ingredients. You can have plum 
 
 ##### Instructions to make Plum Suji Halwa:
 
-1. Heat a pan add 1-tbsp ghee and add plums puree cook till colour changes add 2-tbsp sugar mix well stir continuously until thick add dryfruits mix it turn off gas &amp; keep aside.
-1. Similarly heat a pan add 1/4- ghee,when ghee melts add suji and roast till turns light pink now add milk and stir continuously until thickens add sugar, dryfruits &amp; prepared Plum mixture mix properly and cook till ghee releases.
+1. Heat a pan add 1-tbsp ghee and add plums puree cook till colour changes add 2-tbsp sugar mix well stir continuously until thick add dryfruits mix it turn off gas & keep aside.
+1. Similarly heat a pan add 1/4- ghee,when ghee melts add suji and roast till turns light pink now add milk and stir continuously until thickens add sugar, dryfruits & prepared Plum mixture mix properly and cook till ghee releases.
 1. Set in heart shaped mould garnish with plum slices and chopped dryfruits.
 
 

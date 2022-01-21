@@ -28,7 +28,7 @@ recipeingredient:
 - "1/2 tomato"
 - " Some chives"
 recipeinstructions:
-- "For the spice paste: Using a food processor, process all the Ingredients until smooth, and reach it&#39;s paste textures. Or you can make it manually using mortar and pestle like I do... 😊"
+- "For the spice paste: Using a food processor, process all the Ingredients until smooth, and reach it's paste textures. Or you can make it manually using mortar and pestle like I do... 😊"
 - "For the sliced seasoning: slice all the Ingredients into small slices"
 - "In a bowl, mix the spice paste and the sliced seasoning, add 1 tsp honey, and salt to taste"
 - "Add the Salmon into the mixture of spice paste and sliced seasoning, let it cover by all the spice, and let it marinate for 1 hour"
@@ -72,7 +72,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Take  Salt
 1. Get 1 tsp Honey
 1. Prepare  For spice paste:
-1. Take 1 pepperoni (you can skip this if you don&#39;t like spicy)
+1. Take 1 pepperoni (you can skip this if you don't like spicy)
 1. Get 1/2 red onion
 1. Get 1 cloves garlic
 1. Prepare 1/2 tomato
@@ -86,13 +86,13 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Take  Some chives
 
 
-Perbedaan marga ternyata menghasilkan kreasi ARSIK yang berbeda sesuai dengan adat istiadat setempat. Arsik adalah salah satu makanan khas Batak. Farm on the edge of Lake Toba. fishermen catch fish in Lake Toba. Resep Arsik Ikan Khas batak Arsik is an Indonesian fish dish of the Batak Toba people and Mandailing people of North Sumatra, usually using the common carp (known in Indonesia as &#39;ikan mas… Arsik is an Indonesian spicy fish dish of the Batak Toba and Mandailing people of North Sumatra, usually using the common carp (known in Indonesia as ikan mas or gold fish). 
+Perbedaan marga ternyata menghasilkan kreasi ARSIK yang berbeda sesuai dengan adat istiadat setempat. Arsik adalah salah satu makanan khas Batak. Farm on the edge of Lake Toba. fishermen catch fish in Lake Toba. Resep Arsik Ikan Khas batak Arsik is an Indonesian fish dish of the Batak Toba people and Mandailing people of North Sumatra, usually using the common carp (known in Indonesia as 'ikan mas… Arsik is an Indonesian spicy fish dish of the Batak Toba and Mandailing people of North Sumatra, usually using the common carp (known in Indonesia as ikan mas or gold fish). 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Baked salmon inspired by arsik batak toba:
 
-1. For the spice paste: Using a food processor, process all the Ingredients until smooth, and reach it&#39;s paste textures. Or you can make it manually using mortar and pestle like I do... 😊
+1. For the spice paste: Using a food processor, process all the Ingredients until smooth, and reach it's paste textures. Or you can make it manually using mortar and pestle like I do... 😊
 1. For the sliced seasoning: slice all the Ingredients into small slices
 1. In a bowl, mix the spice paste and the sliced seasoning, add 1 tsp honey, and salt to taste
 1. Add the Salmon into the mixture of spice paste and sliced seasoning, let it cover by all the spice, and let it marinate for 1 hour
@@ -100,6 +100,6 @@ Perbedaan marga ternyata menghasilkan kreasi ARSIK yang berbeda sesuai dengan ad
 1. Baked salmon is ready to be served!! Check the video how did I make this recipe on my YouTube channel. Here is the link : https://youtu.be/ycdjs1GiU_g
 
 
-Farm on the edge of Lake Toba. fishermen catch fish in Lake Toba. Resep Arsik Ikan Khas batak Arsik is an Indonesian fish dish of the Batak Toba people and Mandailing people of North Sumatra, usually using the common carp (known in Indonesia as &#39;ikan mas… Arsik is an Indonesian spicy fish dish of the Batak Toba and Mandailing people of North Sumatra, usually using the common carp (known in Indonesia as ikan mas or gold fish). Distinctively Batak elements of the dish are the use of torch ginger fruit (asam cikala), and andaliman. This baked salmon is what easy, weeknight dinners are all about! It&#39;s moist, flakey, and baked with a delicious lemon garlic butter sauce! 
+Farm on the edge of Lake Toba. fishermen catch fish in Lake Toba. Resep Arsik Ikan Khas batak Arsik is an Indonesian fish dish of the Batak Toba people and Mandailing people of North Sumatra, usually using the common carp (known in Indonesia as 'ikan mas… Arsik is an Indonesian spicy fish dish of the Batak Toba and Mandailing people of North Sumatra, usually using the common carp (known in Indonesia as ikan mas or gold fish). Distinctively Batak elements of the dish are the use of torch ginger fruit (asam cikala), and andaliman. This baked salmon is what easy, weeknight dinners are all about! It's moist, flakey, and baked with a delicious lemon garlic butter sauce! 
 
 So that's going to wrap it up for this exceptional food baked salmon inspired by arsik batak toba recipe. Thank you very much for your time. I am confident that you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

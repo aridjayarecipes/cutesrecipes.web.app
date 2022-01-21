@@ -21,8 +21,8 @@ recipeingredient:
 recipeinstructions:
 - "Wash all the ingredients in a clean bowl with clean water."
 - "Cut the pomegranate and remove the seeds, and blend them. After blending,use a sieve to strain the small particles."
-- "Cut the the remaining ingredients in small size and put them in the blender. Then add the sieved pomegranate juice with suger and little water,add them together until it&#39;s finally mixed.It should be thick."
-- "Pour the blended juice in the clean jug,then cover it and put it in the fridge for 20 -30 minutes. Make sure that it&#39;s cold and then serve it. You can serve it with a cocoa, cream, dream whip cake 😜."
+- "Cut the the remaining ingredients in small size and put them in the blender. Then add the sieved pomegranate juice with suger and little water,add them together until it's finally mixed.It should be thick."
+- "Pour the blended juice in the clean jug,then cover it and put it in the fridge for 20 -30 minutes. Make sure that it's cold and then serve it. You can serve it with a cocoa, cream, dream whip cake 😜."
 categories:
 - Recipe
 tags:
@@ -66,7 +66,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 1. Take 1 slice sweetmelon
 
 
-The Aviation cocktail&#39;s ingredients include gin, maraschino cherry liqueur, lemon juice, and crème de violette. Discover the recipe and its history here. Pineapple Coconut MojitoThe Novice Chef. shredded coconut, simple syrup, champagne, pineapple juice, coconut juice. Lung Juice Cocktail is a guardian elixir. 
+The Aviation cocktail's ingredients include gin, maraschino cherry liqueur, lemon juice, and crème de violette. Discover the recipe and its history here. Pineapple Coconut MojitoThe Novice Chef. shredded coconut, simple syrup, champagne, pineapple juice, coconut juice. Lung Juice Cocktail is a guardian elixir. 
 
 <!--inarticleads2-->
 
@@ -74,10 +74,10 @@ The Aviation cocktail&#39;s ingredients include gin, maraschino cherry liqueur, 
 
 1. Wash all the ingredients in a clean bowl with clean water.
 1. Cut the pomegranate and remove the seeds, and blend them. After blending,use a sieve to strain the small particles.
-1. Cut the the remaining ingredients in small size and put them in the blender. Then add the sieved pomegranate juice with suger and little water,add them together until it&#39;s finally mixed.It should be thick.
-1. Pour the blended juice in the clean jug,then cover it and put it in the fridge for 20 -30 minutes. Make sure that it&#39;s cold and then serve it. You can serve it with a cocoa, cream, dream whip cake 😜.
+1. Cut the the remaining ingredients in small size and put them in the blender. Then add the sieved pomegranate juice with suger and little water,add them together until it's finally mixed.It should be thick.
+1. Pour the blended juice in the clean jug,then cover it and put it in the fridge for 20 -30 minutes. Make sure that it's cold and then serve it. You can serve it with a cocoa, cream, dream whip cake 😜.
 
 
-Pineapple Coconut MojitoThe Novice Chef. shredded coconut, simple syrup, champagne, pineapple juice, coconut juice. Lung Juice Cocktail is a guardian elixir. An item from Classic World of Warcraft. Stainless Steel Cocktail Shakers &amp; Sets. AriZona Fruit Punch Fruit Juice Cocktail features a classic fruit punch taste made with a fun blend of fruit juices and all natural flavors. 
+Pineapple Coconut MojitoThe Novice Chef. shredded coconut, simple syrup, champagne, pineapple juice, coconut juice. Lung Juice Cocktail is a guardian elixir. An item from Classic World of Warcraft. Stainless Steel Cocktail Shakers & Sets. AriZona Fruit Punch Fruit Juice Cocktail features a classic fruit punch taste made with a fun blend of fruit juices and all natural flavors. 
 
 So that's going to wrap this up for this special food jovial 🍸cocktail juice recipe. Thank you very much for your time. I am sure that you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

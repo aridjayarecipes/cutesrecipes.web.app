@@ -26,7 +26,7 @@ recipeinstructions:
 - "On a baking sheet or a non stick foil, put the potatoes inside the oven and let it cook for 45 minutes. Flip the potatoes after the 30-minute mark."
 - "Turn the heat up and put canola/vegetable oil in the pan. Make sure the oil is hot before putting in the salmon fillet, skin side down. Pat the fillet dry using a paper towel before putting in."
 - "Fry the salmon first with its skin facing down for 4-5 minutes. After flipping, leave it frying another 2 minutes."
-- "Let the salmon rest on a separate plate. Using the oil that&#39;s left in the pan, put in the broccoli and french green beans to cook. After a minute of continuous stirring, put in 1/4 cup of water to make the sauce. Let the vegetables boil for another half minute."
+- "Let the salmon rest on a separate plate. Using the oil that's left in the pan, put in the broccoli and french green beans to cook. After a minute of continuous stirring, put in 1/4 cup of water to make the sauce. Let the vegetables boil for another half minute."
 - "Put in a tablespoon of oyster sauce, and a pinch of salt and pepper to taste. Continue stirring the vegetables to mix the flavor for another 30 seconds."
 - "Once the potatoes are done cooking, put them all together in one clean plate. You can always adjust the cooking time of vegetables depending on how you want your vegetables done."
 categories:
@@ -85,7 +85,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. On a baking sheet or a non stick foil, put the potatoes inside the oven and let it cook for 45 minutes. Flip the potatoes after the 30-minute mark.
 1. Turn the heat up and put canola/vegetable oil in the pan. Make sure the oil is hot before putting in the salmon fillet, skin side down. Pat the fillet dry using a paper towel before putting in.
 1. Fry the salmon first with its skin facing down for 4-5 minutes. After flipping, leave it frying another 2 minutes.
-1. Let the salmon rest on a separate plate. Using the oil that&#39;s left in the pan, put in the broccoli and french green beans to cook. After a minute of continuous stirring, put in 1/4 cup of water to make the sauce. Let the vegetables boil for another half minute.
+1. Let the salmon rest on a separate plate. Using the oil that's left in the pan, put in the broccoli and french green beans to cook. After a minute of continuous stirring, put in 1/4 cup of water to make the sauce. Let the vegetables boil for another half minute.
 1. Put in a tablespoon of oyster sauce, and a pinch of salt and pepper to taste. Continue stirring the vegetables to mix the flavor for another 30 seconds.
 1. Once the potatoes are done cooking, put them all together in one clean plate. You can always adjust the cooking time of vegetables depending on how you want your vegetables done.
 

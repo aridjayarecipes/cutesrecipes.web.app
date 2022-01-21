@@ -60,7 +60,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 
 ##### The ingredients needed to make Mango mastani:
 
-1. Take 1 Mango peeled  &amp; chopped
+1. Take 1 Mango peeled  & chopped
 1. Take 1/2 Mango puere
 1. Make ready 11/2 cup milk
 1. Prepare 2 Tsp sugar
@@ -87,6 +87,6 @@ How to make mango mastani Pune recipe. Keyword: Mango mastani, mango recipe, Mas
 1. Note__ every things should be cool for this recipe.
 
 
-I have a few mangoes left in my fridge, I am making this. Mango Mastani is a rich and thick mango milkshake topped with either mango or vanilla ice cream, chopped nuts, and candied fruit. This lavish and decadent glass of Mango Mastani is Pune&#39;s very. Mango Mastani Recipe - Indian style thick mango milkshake with ice cream and nuts. A very famous street food from Pune. 
+I have a few mangoes left in my fridge, I am making this. Mango Mastani is a rich and thick mango milkshake topped with either mango or vanilla ice cream, chopped nuts, and candied fruit. This lavish and decadent glass of Mango Mastani is Pune's very. Mango Mastani Recipe - Indian style thick mango milkshake with ice cream and nuts. A very famous street food from Pune. 
 
 So that is going to wrap this up with this exceptional food mango mastani recipe. Thanks so much for your time. I am sure you will make this at home. There is gonna be interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

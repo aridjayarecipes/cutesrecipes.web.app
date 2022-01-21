@@ -44,7 +44,7 @@ recipecategory: Dinner
 
 Hello everybody, I hope you're having an amazing day today. Today, I will show you a way to prepare a distinctive dish, fruit custard in tart shell. One of my favorites food recipes. This time, I will make it a little bit tasty. This will be really delicious.
 
-This Fruit Custard Tart recipe is light and refreshing but indulgently creamy all at once. A crisp tart shell, easy custard and fresh seasonal fruit. A beautiful Fruit Custard Tart is such classic simplicity, it&#39;s pretty and tastes amazing. When I see fresh strawberries, I find it hard to resist, so I.
+This Fruit Custard Tart recipe is light and refreshing but indulgently creamy all at once. A crisp tart shell, easy custard and fresh seasonal fruit. A beautiful Fruit Custard Tart is such classic simplicity, it's pretty and tastes amazing. When I see fresh strawberries, I find it hard to resist, so I.
 
 Fruit custard in tart shell is one of the most favored of current trending foods on earth. It's easy, it's quick, it tastes yummy. It's enjoyed by millions every day. Fruit custard in tart shell is something that I have loved my entire life. They're fine and they look fantastic.
 
@@ -76,6 +76,6 @@ To save a little time buy premade tarts or dessert shells, but make sure you rea
 1. Now add fruits of your choice and either serve in a glass or bowl. I have served it in a shortbread tart. Garnish with some pomegranate kernels and a mint leaf.
 
 
-This Shortbread Mini Fruit Tart Recipe is filled with homemade custard, fresh berries, and an apricot glaze. This is an easy and elegant dessert that everyone loves. The tart shells can be stored at room temperature, but the custard will need to chill in the refrigerator until you&#39;re ready to begin assembling. Delicious mini fruit tarts made with a buttery shortbread crust, creamy vanilla custard and topped with fresh fruit. The perfect bite-sized sweet treat for spring and. 
+This Shortbread Mini Fruit Tart Recipe is filled with homemade custard, fresh berries, and an apricot glaze. This is an easy and elegant dessert that everyone loves. The tart shells can be stored at room temperature, but the custard will need to chill in the refrigerator until you're ready to begin assembling. Delicious mini fruit tarts made with a buttery shortbread crust, creamy vanilla custard and topped with fresh fruit. The perfect bite-sized sweet treat for spring and. 
 
 So that is going to wrap this up with this special food fruit custard in tart shell recipe. Thank you very much for reading. I am sure that you can make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

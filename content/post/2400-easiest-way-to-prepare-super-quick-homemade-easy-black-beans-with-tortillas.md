@@ -45,7 +45,7 @@ recipecategory: Lunch
 
 Hey everyone, I hope you're having an amazing day today. Today, I will show you a way to prepare a distinctive dish, easy black beans with tortillas. It is one of my favorites. This time, I will make it a bit tasty. This will be really delicious.
 
-Join me on this journey and become part of my family on here I will share anything from beauty, fashion, mommy duties, our lives and super easy and delicious cooking recipes. I&#39;m not a chef but I enjoy cooking for my family I hope you all become. How to Make Easy black beans with tortillas : Mix The Two Cans Of Beans Togetheradd Spice And Jalapeos Mix Wellheat Tortillasand Put Beans In Microwave Or Heat On Stove Top Till Throughly Heated Thr. Mix the two cans of beans together.
+Join me on this journey and become part of my family on here I will share anything from beauty, fashion, mommy duties, our lives and super easy and delicious cooking recipes. I'm not a chef but I enjoy cooking for my family I hope you all become. How to Make Easy black beans with tortillas : Mix The Two Cans Of Beans Togetheradd Spice And Jalapeos Mix Wellheat Tortillasand Put Beans In Microwave Or Heat On Stove Top Till Throughly Heated Thr. Mix the two cans of beans together.
 
 Easy black beans with tortillas is one of the most popular of recent trending meals on earth. It is simple, it's quick, it tastes delicious. It is enjoyed by millions every day. They're fine and they look fantastic. Easy black beans with tortillas is something that I've loved my entire life.
 
@@ -65,7 +65,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Take 1/2 tsp ground black pepper
 
 
-Or, turn your tacos into a burrito bowl (see leftovers note below). This vegetable packed Black Bean Tortilla Soup Recipe is a delicious year round soup that you&#39;ll want to make again and again! It&#39;s a great way to get veggies into your diet and it&#39;s layered with those delicious Mexican flavors we crave. Finish it off with queso fresco and sliced avocado for even more. 
+Or, turn your tacos into a burrito bowl (see leftovers note below). This vegetable packed Black Bean Tortilla Soup Recipe is a delicious year round soup that you'll want to make again and again! It's a great way to get veggies into your diet and it's layered with those delicious Mexican flavors we crave. Finish it off with queso fresco and sliced avocado for even more. 
 
 <!--inarticleads2-->
 
@@ -78,6 +78,6 @@ Or, turn your tacos into a burrito bowl (see leftovers note below). This vegetab
 1. 
 
 
-It&#39;s a great way to get veggies into your diet and it&#39;s layered with those delicious Mexican flavors we crave. Finish it off with queso fresco and sliced avocado for even more. Black beans make a great addition to salads and chili or on their own as a side dish. Serve over tortilla chips, and top with shredded Cheddar cheese. Ancho Black Beans Tortilla Soup is a great healthy and light soup that is a great make-ahead meal for your weekday lunches! 
+It's a great way to get veggies into your diet and it's layered with those delicious Mexican flavors we crave. Finish it off with queso fresco and sliced avocado for even more. Black beans make a great addition to salads and chili or on their own as a side dish. Serve over tortilla chips, and top with shredded Cheddar cheese. Ancho Black Beans Tortilla Soup is a great healthy and light soup that is a great make-ahead meal for your weekday lunches! 
 
 So that is going to wrap this up with this exceptional food easy black beans with tortillas recipe. Thanks so much for your time. I'm confident that you will make this at home. There is gonna be interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

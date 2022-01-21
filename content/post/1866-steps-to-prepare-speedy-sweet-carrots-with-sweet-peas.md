@@ -82,7 +82,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Prepare 1 tablespoon turmeric
 
 
-Cauliflower - is available in different colors, whereby the white cauliflower is the most known. Boiled carrots mixed with frozen sweet peas. The sweet and salty flavors and soft texture of the carrots complement those meats quite nicely. I&#39;ve also been known to enjoy these yummy carrots as a light and healthy main dish, too. 
+Cauliflower - is available in different colors, whereby the white cauliflower is the most known. Boiled carrots mixed with frozen sweet peas. The sweet and salty flavors and soft texture of the carrots complement those meats quite nicely. I've also been known to enjoy these yummy carrots as a light and healthy main dish, too. 
 
 <!--inarticleads2-->
 
@@ -100,6 +100,6 @@ Cauliflower - is available in different colors, whereby the white cauliflower is
 1. Yummy and healthy carrots with peas are ready
 
 
-The sweet and salty flavors and soft texture of the carrots complement those meats quite nicely. I&#39;ve also been known to enjoy these yummy carrots as a light and healthy main dish, too. The sweet pea—Lathyrus odoratus—is an annual flower that is at home in a cutting garden, border garden, woodland, or twining on a trellis or an arch. The flowers are now available in a huge range of colors, from pearly white through ice cream pastels to ritzy magentas and inky purples. Carrots, water, sweet potatoes, peas, vitamin c (ascorbic acid) to maintain color. 
+The sweet and salty flavors and soft texture of the carrots complement those meats quite nicely. I've also been known to enjoy these yummy carrots as a light and healthy main dish, too. The sweet pea—Lathyrus odoratus—is an annual flower that is at home in a cutting garden, border garden, woodland, or twining on a trellis or an arch. The flowers are now available in a huge range of colors, from pearly white through ice cream pastels to ritzy magentas and inky purples. Carrots, water, sweet potatoes, peas, vitamin c (ascorbic acid) to maintain color. 
 
 So that's going to wrap this up with this exceptional food sweet carrots with sweet peas recipe. Thank you very much for your time. I'm sure you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

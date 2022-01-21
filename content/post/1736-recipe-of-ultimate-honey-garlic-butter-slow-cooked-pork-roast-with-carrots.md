@@ -31,7 +31,7 @@ recipeingredient:
 - "1 Tbsp brown sugar"
 recipeinstructions:
 - "Rub a little oil all over the roast and mix up all of the spices and rub on all over the pork."
-- "In a hot skillet with a little oil brown all sides of pork till it&#39;s nice and brown."
+- "In a hot skillet with a little oil brown all sides of pork till it's nice and brown."
 - "Place carrots in the bottom of the slow cooker and place browned pork on top."
 - "In same skillet you browned the pork in wipe it out and add in butter and melt on medium low heat and then stir in garlic and then rest of ingredients. Then pour over pork in slow cooker."
 - "Cover and cook for 8 hours on low"
@@ -99,7 +99,7 @@ Easy roasted carrots recipe with a garlic parsley butter. The carrots are sweet,
 ##### Steps to make Honey garlic butter slow cooked pork roast with carrots:
 
 1. Rub a little oil all over the roast and mix up all of the spices and rub on all over the pork.
-1. In a hot skillet with a little oil brown all sides of pork till it&#39;s nice and brown.
+1. In a hot skillet with a little oil brown all sides of pork till it's nice and brown.
 1. Place carrots in the bottom of the slow cooker and place browned pork on top.
 1. In same skillet you browned the pork in wipe it out and add in butter and melt on medium low heat and then stir in garlic and then rest of ingredients. Then pour over pork in slow cooker.
 1. Cover and cook for 8 hours on low

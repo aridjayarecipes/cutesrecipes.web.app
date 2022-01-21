@@ -23,7 +23,7 @@ recipeingredient:
 - "1 small amout Parsley"
 recipeinstructions:
 - "Rub the clams to wash the shells and soak in a bowl of plenty of water with 2 tablespoons of salt to de-grit."
-- "Cut the cherry tomatoes in half. Julienne the ginger and slice the garlic. I used sliced olives, but if they&#39;re whole, slice."
+- "Cut the cherry tomatoes in half. Julienne the ginger and slice the garlic. I used sliced olives, but if they're whole, slice."
 - "Heat olive oil in a frying pan. Add the ginger and garlic and fry over low heat until aromatic. Arrange the cod fillets and add the ● ingredients."
 - "Add the drained clams and cover with a lid. Cook until the clams open."
 - "Taste the broth and season with salt and pepper if necessary. Toss the with black olives, cherry tomatoes and parsley. Serve."
@@ -80,7 +80,7 @@ To get started with this particular recipe, we must first prepare a few componen
 ##### Instructions to make Easy Acqua Pazza with Fish Fillets:
 
 1. Rub the clams to wash the shells and soak in a bowl of plenty of water with 2 tablespoons of salt to de-grit.
-1. Cut the cherry tomatoes in half. Julienne the ginger and slice the garlic. I used sliced olives, but if they&#39;re whole, slice.
+1. Cut the cherry tomatoes in half. Julienne the ginger and slice the garlic. I used sliced olives, but if they're whole, slice.
 1. Heat olive oil in a frying pan. Add the ginger and garlic and fry over low heat until aromatic. Arrange the cod fillets and add the ● ingredients.
 1. Add the drained clams and cover with a lid. Cook until the clams open.
 1. Taste the broth and season with salt and pepper if necessary. Toss the with black olives, cherry tomatoes and parsley. Serve.

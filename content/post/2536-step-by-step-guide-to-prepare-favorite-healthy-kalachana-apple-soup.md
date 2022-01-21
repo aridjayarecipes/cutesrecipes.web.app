@@ -66,7 +66,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Prepare 1 tablespoon ghee or butter
 
 
-While chole provides ample fibre, coconut is rich in monosaturated healthy fats to keep. Kala Chana soup, filled with the aroma of whole spices, is perfect for chilly days. it is very good for treating cold &amp; cough too. Its low Glycemic Index makes it a healthy choice for diabetic patients. It raises your energy levels instantly. 
+While chole provides ample fibre, coconut is rich in monosaturated healthy fats to keep. Kala Chana soup, filled with the aroma of whole spices, is perfect for chilly days. it is very good for treating cold & cough too. Its low Glycemic Index makes it a healthy choice for diabetic patients. It raises your energy levels instantly. 
 
 <!--inarticleads2-->
 

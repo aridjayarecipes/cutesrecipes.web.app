@@ -31,7 +31,7 @@ recipeinstructions:
 - "Place the plum halves skin side up on top of the batter."
 - "Sprinkle remaining combined cinnamon and sugar over plums and batter."
 - "Bake approximately one hour. Remove and cool. This cake can also be served lukewarm with whipped cream."
-- "When cake is cool, dust with confectioners’ sugar before serving if desired (I like it as is, but the confectioners&#39; sugar makes the cake pretty for company."
+- "When cake is cool, dust with confectioners’ sugar before serving if desired (I like it as is, but the confectioners' sugar makes the cake pretty for company."
 categories:
 - Recipe
 tags:
@@ -93,7 +93,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Place the plum halves skin side up on top of the batter.
 1. Sprinkle remaining combined cinnamon and sugar over plums and batter.
 1. Bake approximately one hour. Remove and cool. This cake can also be served lukewarm with whipped cream.
-1. When cake is cool, dust with confectioners’ sugar before serving if desired (I like it as is, but the confectioners&#39; sugar makes the cake pretty for company.
+1. When cake is cool, dust with confectioners’ sugar before serving if desired (I like it as is, but the confectioners' sugar makes the cake pretty for company.
 
 
 

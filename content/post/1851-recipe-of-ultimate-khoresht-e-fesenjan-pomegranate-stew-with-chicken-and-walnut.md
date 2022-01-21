@@ -21,7 +21,7 @@ recipeingredient:
 - "1 tbs saffron water"
 - " olive oil"
 recipeinstructions:
-- "In a dry pan, over a low heat roast ground walnut, stir it frequently and don&#39;t leave it, because if it burns, taste will change. Roast it for about 8-10 minutes until it is golden."
+- "In a dry pan, over a low heat roast ground walnut, stir it frequently and don't leave it, because if it burns, taste will change. Roast it for about 8-10 minutes until it is golden."
 - "Then, add 2 cups of water or 2 chicken stock cubes. Cover the pot with lid and let it to cook on low heat for 5 minutes more."
 - "Heat a pan over medium heat, once hot, add chopped onions. Stirring occasionally. Cook it until soft."
 - "Add chicken pieces to onions with some turmeric, that will take away meat smell."
@@ -89,7 +89,7 @@ To begin with this recipe, we have to prepare a few components. You can have kho
 
 ##### Instructions to make Khoresht-e Fesenjan ( Pomegranate stew with chicken and walnut:
 
-1. In a dry pan, over a low heat roast ground walnut, stir it frequently and don&#39;t leave it, because if it burns, taste will change. Roast it for about 8-10 minutes until it is golden.
+1. In a dry pan, over a low heat roast ground walnut, stir it frequently and don't leave it, because if it burns, taste will change. Roast it for about 8-10 minutes until it is golden.
 1. Then, add 2 cups of water or 2 chicken stock cubes. Cover the pot with lid and let it to cook on low heat for 5 minutes more.
 1. Heat a pan over medium heat, once hot, add chopped onions. Stirring occasionally. Cook it until soft.
 1. Add chicken pieces to onions with some turmeric, that will take away meat smell.

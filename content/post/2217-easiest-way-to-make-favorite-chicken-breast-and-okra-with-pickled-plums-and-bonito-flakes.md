@@ -20,7 +20,7 @@ recipeinstructions:
 - "Let the chicken sit in the container until cooled, then shred it."
 - "Boil the okra in salted water, then slice into rounds."
 - "Put the chicken and okra on a serving plate, and top with 1-2 tablespoons of pickled plums and bonito flakes."
-- "My Family&#39;s Pickled Plums and Bonito Flakes.  https://cookpad.com/us/recipes/144177-my-familys-pickled-plums-and-bonito-flakes"
+- "My Family's Pickled Plums and Bonito Flakes.  https://cookpad.com/us/recipes/144177-my-familys-pickled-plums-and-bonito-flakes"
 - "Umeboshiand.  https://cookpad.com/us/recipes/143312-reduced-sodium-umeboshi"
 categories:
 - Recipe
@@ -72,7 +72,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Let the chicken sit in the container until cooled, then shred it.
 1. Boil the okra in salted water, then slice into rounds.
 1. Put the chicken and okra on a serving plate, and top with 1-2 tablespoons of pickled plums and bonito flakes.
-1. My Family&#39;s Pickled Plums and Bonito Flakes. -  - https://cookpad.com/us/recipes/144177-my-familys-pickled-plums-and-bonito-flakes
+1. My Family's Pickled Plums and Bonito Flakes. -  - https://cookpad.com/us/recipes/144177-my-familys-pickled-plums-and-bonito-flakes
 1. Umeboshiand. -  - https://cookpad.com/us/recipes/143312-reduced-sodium-umeboshi
 
 

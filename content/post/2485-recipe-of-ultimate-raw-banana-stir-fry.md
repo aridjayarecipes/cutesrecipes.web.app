@@ -30,7 +30,7 @@ recipeinstructions:
 - "Cook raw banana and chop"
 - "Heat Pan add oil, once it is hot add cumin seeds and green chillies.put chopped raw banana mix well"
 - "Add peanut powder, grated coconut, salt sugar mix well,sprinkle some water add cook for five minutes."
-- "Serve with fasting dosa.raw banana has sour taste so don&#39;t add lemon juice.this stir fry can be relish alone also just put same potato chivda and fresh curd.tastes yum.do try it."
+- "Serve with fasting dosa.raw banana has sour taste so don't add lemon juice.this stir fry can be relish alone also just put same potato chivda and fresh curd.tastes yum.do try it."
 categories:
 - Recipe
 tags:
@@ -91,7 +91,7 @@ Raw banana stir fry also called as vazhakkai poriyal is a South Indian delicacy 
 1. Cook raw banana and chop
 1. Heat Pan add oil, once it is hot add cumin seeds and green chillies.put chopped raw banana mix well
 1. Add peanut powder, grated coconut, salt sugar mix well,sprinkle some water add cook for five minutes.
-1. Serve with fasting dosa.raw banana has sour taste so don&#39;t add lemon juice.this stir fry can be relish alone also just put same potato chivda and fresh curd.tastes yum.do try it.
+1. Serve with fasting dosa.raw banana has sour taste so don't add lemon juice.this stir fry can be relish alone also just put same potato chivda and fresh curd.tastes yum.do try it.
 
 
 Peel the skin and chop into fine medium pieces. Taste of Raw banana is similar to potato when I am in hurry then I like to prepare this curry because it takes less time and quickly prepare with simple ingredients. Today Mydaawat is sharing an easy Raw Banana Stir Fry Recipe with step by step photos and video. Raw Banana Stir Fry - marinated with spices and pan fried recipe. You can serve with any variety rice or accompanied with sambar or rasam. 

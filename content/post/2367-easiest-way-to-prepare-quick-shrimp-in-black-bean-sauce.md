@@ -49,7 +49,7 @@ recipecategory: Dessert
 
 Hey everyone, I hope you are having an amazing day today. Today, we're going to make a special dish, shrimp in black bean sauce. It is one of my favorites. For mine, I am going to make it a little bit unique. This will be really delicious.
 
-Learn How to Make Chinese Shrimp with Black Bean Sauce Recipe#blackbeansaucePlease like, share, comment and/or subscribe if you would like to see new future. Black bean sauce kicks stir-fried shrimp into the stratosphere in this quick and easy weeknight recipe. Black bean garlic sauce is a salty, pungent, and savory mixture of fermented black soybeans (douchi in Chinese) and garlic. If you can&#39;t find it and must substitute, use hoisin sauce and.
+Learn How to Make Chinese Shrimp with Black Bean Sauce Recipe#blackbeansaucePlease like, share, comment and/or subscribe if you would like to see new future. Black bean sauce kicks stir-fried shrimp into the stratosphere in this quick and easy weeknight recipe. Black bean garlic sauce is a salty, pungent, and savory mixture of fermented black soybeans (douchi in Chinese) and garlic. If you can't find it and must substitute, use hoisin sauce and.
 
 Shrimp in Black bean sauce is one of the most popular of current trending meals in the world. It's appreciated by millions daily. It is simple, it is quick, it tastes delicious. Shrimp in Black bean sauce is something which I've loved my whole life. They're fine and they look fantastic.
 

@@ -42,7 +42,7 @@ Hello everybody, it is Louise, welcome to my recipe site. Today, we're going to 
 
 Couscous with gorgeous green veggies (Vegan) is one of the most popular of current trending foods in the world. It is easy, it is fast, it tastes delicious. It is appreciated by millions daily. Couscous with gorgeous green veggies (Vegan) is something that I've loved my whole life. They are fine and they look fantastic.
 
-This healthy green pizza recipe starts by covering the couscous with boiling vegetable broth. I hope you&#39;ll enjoy this sweet and savory dish! Put the dry couscous in a non-reactive heat proof dish. Here is how you achieve that.
+This healthy green pizza recipe starts by covering the couscous with boiling vegetable broth. I hope you'll enjoy this sweet and savory dish! Put the dry couscous in a non-reactive heat proof dish. Here is how you achieve that.
 
 
 To begin with this recipe, we must prepare a few components. You can cook couscous with gorgeous green veggies (vegan) using 5 ingredients and 2 steps. Here is how you cook it.
@@ -58,7 +58,7 @@ To begin with this recipe, we must prepare a few components. You can cook cousco
 1. Prepare  Some salt
 
 
-I&#39;ve used Trader Joe&#39;s unsalted vegetable broth which produces a darker color. The Best Couscous Vegan Recipes on Yummly Veggie Tanzia, M Burger Mushroom Macadamia Miso, Couscous Salad. Slow Cooker North African Couscous [Vegan]One Green Planet. 
+I've used Trader Joe's unsalted vegetable broth which produces a darker color. The Best Couscous Vegan Recipes on Yummly Veggie Tanzia, M Burger Mushroom Macadamia Miso, Couscous Salad. Slow Cooker North African Couscous [Vegan]One Green Planet. 
 
 <!--inarticleads2-->
 

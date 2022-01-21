@@ -45,7 +45,7 @@ recipecategory: Dessert
 
 Hey everyone, it's John, welcome to my recipe page. Today, we're going to make a distinctive dish, cold barley salad with pomelo, pomegranate, cashews, and shiso. One of my favorites food recipes. This time, I'm gonna make it a bit tasty. This is gonna smell and look delicious.
 
-Cold barley salad with pomelo, pomegranate, cashews, and shiso. Barley and Pomegranate Salad - Weight Loss Barley or Jau is the king. Rick Stein&#39;s Pearl Barley Salad with Pomegranate &amp; Herbsmustardwithmutton. pomegranate molasses, pearl barley, mint, pomegranate, spring Pearl Barley Salad with Eggs, Cherry Tomatoes and SpinachScruff and Steph. cracked pepper, parsley, salt, boiling water, pearl barley, spinach and. Risotto - Pearl Barley Risotto - Easy Risotto Recipe - Barley Risotto - Vegetable Risotto -.
+Cold barley salad with pomelo, pomegranate, cashews, and shiso. Barley and Pomegranate Salad - Weight Loss Barley or Jau is the king. Rick Stein's Pearl Barley Salad with Pomegranate & Herbsmustardwithmutton. pomegranate molasses, pearl barley, mint, pomegranate, spring Pearl Barley Salad with Eggs, Cherry Tomatoes and SpinachScruff and Steph. cracked pepper, parsley, salt, boiling water, pearl barley, spinach and. Risotto - Pearl Barley Risotto - Easy Risotto Recipe - Barley Risotto - Vegetable Risotto -.
 
 Cold barley salad with pomelo, pomegranate, cashews, and shiso is one of the most well liked of current trending foods on earth. It's easy, it is fast, it tastes yummy. It's enjoyed by millions daily. They are nice and they look wonderful. Cold barley salad with pomelo, pomegranate, cashews, and shiso is something that I've loved my entire life.
 
@@ -56,7 +56,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 
 ##### The ingredients needed to make Cold barley salad with pomelo, pomegranate, cashews, and shiso:
 
-1. Make ready 1/2 cup or so of cold barley (actually Job&#39;s tears in this case but same thing for these purposes)
+1. Make ready 1/2 cup or so of cold barley (actually Job's tears in this case but same thing for these purposes)
 1. Get 1/2 cup chopped pomelo
 1. Get 1/4 cup or so of pomegranate seeds
 1. Take 1/3 cup chopped and toasted cashews

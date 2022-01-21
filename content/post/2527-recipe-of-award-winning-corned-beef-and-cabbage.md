@@ -32,7 +32,7 @@ recipeinstructions:
 - "Once the brisket is done lift it out of the pot to rest and cover with foil"
 - "Next add in your potatoes, carrots, cabbage, bay leaves and thyme, close the lid and set on pressure cook for 3 minutes"
 - "When that is done serve together with the brisket and ENJOY 😊😋"
-- "Don&#39;t forget to cut against the grain !!"
+- "Don't forget to cut against the grain !!"
 categories:
 - Recipe
 tags:
@@ -95,7 +95,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Once the brisket is done lift it out of the pot to rest and cover with foil
 1. Next add in your potatoes, carrots, cabbage, bay leaves and thyme, close the lid and set on pressure cook for 3 minutes
 1. When that is done serve together with the brisket and ENJOY 😊😋
-1. Don&#39;t forget to cut against the grain !!
+1. Don't forget to cut against the grain !!
 
 
 

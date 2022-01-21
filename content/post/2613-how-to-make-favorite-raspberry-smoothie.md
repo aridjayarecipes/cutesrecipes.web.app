@@ -55,7 +55,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Get 2 tbs sugar
 
 
-Tropical raspberry smoothies will brighten any morning whether winter or summer and is a healthy option to start your day! This smoothie uses a nice tropical flavor base of orange pineapple juice. Both the raspberries and the orange juice pack plenty of vitamin C into this raspberry orange smoothie, so it&#39;s a definite winner if you&#39;re feeling under the weather or want to avoid getting that way. Smoothies are one of my favorite breakfasts. 
+Tropical raspberry smoothies will brighten any morning whether winter or summer and is a healthy option to start your day! This smoothie uses a nice tropical flavor base of orange pineapple juice. Both the raspberries and the orange juice pack plenty of vitamin C into this raspberry orange smoothie, so it's a definite winner if you're feeling under the weather or want to avoid getting that way. Smoothies are one of my favorite breakfasts. 
 
 <!--inarticleads2-->
 
@@ -65,6 +65,6 @@ Tropical raspberry smoothies will brighten any morning whether winter or summer 
 1. Serve in a glass and decorate with some raspberries and a colourful straw.
 
 
-Both the raspberries and the orange juice pack plenty of vitamin C into this raspberry orange smoothie, so it&#39;s a definite winner if you&#39;re feeling under the weather or want to avoid getting that way. Smoothies are one of my favorite breakfasts. They come together in a number of minutes and they taste so vibrant and refreshing. The Raspberry smoothie recipe is a favorite among most people. Raspberries were considered a delicacy in Roman times. 
+Both the raspberries and the orange juice pack plenty of vitamin C into this raspberry orange smoothie, so it's a definite winner if you're feeling under the weather or want to avoid getting that way. Smoothies are one of my favorite breakfasts. They come together in a number of minutes and they taste so vibrant and refreshing. The Raspberry smoothie recipe is a favorite among most people. Raspberries were considered a delicacy in Roman times. 
 
 So that's going to wrap it up for this special food raspberry smoothie recipe. Thank you very much for your time. I am confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

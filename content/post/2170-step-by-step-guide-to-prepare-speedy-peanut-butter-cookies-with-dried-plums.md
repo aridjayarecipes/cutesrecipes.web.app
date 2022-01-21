@@ -50,7 +50,7 @@ recipecategory: Lunch
 
 Hey everyone, it is Jim, welcome to my recipe page. Today, I will show you a way to prepare a distinctive dish, peanut butter cookies with dried plums. It is one of my favorites food recipes. This time, I am going to make it a bit tasty. This will be really delicious.
 
-Great recipe for Peanut butter cookies with dried plums. Recipe is from Jennifer Aaronson, who works as culinary director of the meal- delivery service Martha &amp; Market Spoon. Amazing keto peanut butter cookies are made with natural peanut butter and a touch of sweetener. They are so flavorful and wonderfully chewy!
+Great recipe for Peanut butter cookies with dried plums. Recipe is from Jennifer Aaronson, who works as culinary director of the meal- delivery service Martha & Market Spoon. Amazing keto peanut butter cookies are made with natural peanut butter and a touch of sweetener. They are so flavorful and wonderfully chewy!
 
 Peanut butter cookies with dried plums is one of the most popular of current trending meals in the world. It's simple, it's fast, it tastes delicious. It is appreciated by millions every day. Peanut butter cookies with dried plums is something which I have loved my whole life. They're nice and they look fantastic.
 

@@ -20,11 +20,11 @@ recipeingredient:
 - "1 tea spoon Mustard oil"
 - "to taste Salt"
 recipeinstructions:
-- "Peel the Parwal &amp; Pumpkin and wash the peel/skin of both properly. Rub bit of salt in the peels &amp; boil them in small amount of water &amp; with 1 chopped onion, 1 Green chilli."
-- "When the water dries out &amp; the mixture is boiled take them off from the stove."
-- "Now take a pan in the gas stove, add 1 teaspoon of mustard oil, 2 red chillies, 1 chopped garlic, 1 chopped onion, 3 green chillies &amp; saute for a while."
-- "Now in this mixture, add the boiled peel, onion, green chilli mixture &amp; stir for a while, saute &amp; take it off from the stove."
-- "Now take this mixture in a Silpatta/Blender add chopped coriander &amp; finely paste/blend the mixture. Top it with red chilli &amp; few drops of mustard oil &amp; the delicious, healthy Pumpkin Parwal Peel Bharta is ready to serve!"
+- "Peel the Parwal & Pumpkin and wash the peel/skin of both properly. Rub bit of salt in the peels & boil them in small amount of water & with 1 chopped onion, 1 Green chilli."
+- "When the water dries out & the mixture is boiled take them off from the stove."
+- "Now take a pan in the gas stove, add 1 teaspoon of mustard oil, 2 red chillies, 1 chopped garlic, 1 chopped onion, 3 green chillies & saute for a while."
+- "Now in this mixture, add the boiled peel, onion, green chilli mixture & stir for a while, saute & take it off from the stove."
+- "Now take this mixture in a Silpatta/Blender add chopped coriander & finely paste/blend the mixture. Top it with red chilli & few drops of mustard oil & the delicious, healthy Pumpkin Parwal Peel Bharta is ready to serve!"
 categories:
 - Recipe
 tags:
@@ -75,11 +75,11 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 
 ##### Steps to make Pumpkin Parwal Peel Bharta:
 
-1. Peel the Parwal &amp; Pumpkin and wash the peel/skin of both properly. Rub bit of salt in the peels &amp; boil them in small amount of water &amp; with 1 chopped onion, 1 Green chilli.
-1. When the water dries out &amp; the mixture is boiled take them off from the stove.
-1. Now take a pan in the gas stove, add 1 teaspoon of mustard oil, 2 red chillies, 1 chopped garlic, 1 chopped onion, 3 green chillies &amp; saute for a while.
-1. Now in this mixture, add the boiled peel, onion, green chilli mixture &amp; stir for a while, saute &amp; take it off from the stove.
-1. Now take this mixture in a Silpatta/Blender add chopped coriander &amp; finely paste/blend the mixture. Top it with red chilli &amp; few drops of mustard oil &amp; the delicious, healthy Pumpkin Parwal Peel Bharta is ready to serve!
+1. Peel the Parwal & Pumpkin and wash the peel/skin of both properly. Rub bit of salt in the peels & boil them in small amount of water & with 1 chopped onion, 1 Green chilli.
+1. When the water dries out & the mixture is boiled take them off from the stove.
+1. Now take a pan in the gas stove, add 1 teaspoon of mustard oil, 2 red chillies, 1 chopped garlic, 1 chopped onion, 3 green chillies & saute for a while.
+1. Now in this mixture, add the boiled peel, onion, green chilli mixture & stir for a while, saute & take it off from the stove.
+1. Now take this mixture in a Silpatta/Blender add chopped coriander & finely paste/blend the mixture. Top it with red chilli & few drops of mustard oil & the delicious, healthy Pumpkin Parwal Peel Bharta is ready to serve!
 
 
 

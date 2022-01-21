@@ -23,7 +23,7 @@ recipeinstructions:
 - "Chop all the fruits and keep it ready."
 - "Transfer the whipping cream to the bowl. Whip on high speed for 5 mins."
 - "Add powdered sugar, whip again until cream thickens and soft peaks formed. No need to whip for stiff peaks. Approximately"
-- "Add all the chopped fresh fruits. Strain the syrup from fruit cocktail tin and add only the fruits. Reserve the cherries for garnish. (You can use only fresh fruits of your choice. Don&#39;t add watery fruits like melons.)"
+- "Add all the chopped fresh fruits. Strain the syrup from fruit cocktail tin and add only the fruits. Reserve the cherries for garnish. (You can use only fresh fruits of your choice. Don't add watery fruits like melons.)"
 - "Fold it gently. It can be served immediately or can be refrigerated and served chilled."
 - "Transfer to a serving bowl and garnish with cherry and pomegranate."
 categories:
@@ -79,7 +79,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Chop all the fruits and keep it ready.
 1. Transfer the whipping cream to the bowl. Whip on high speed for 5 mins.
 1. Add powdered sugar, whip again until cream thickens and soft peaks formed. No need to whip for stiff peaks. Approximately
-1. Add all the chopped fresh fruits. Strain the syrup from fruit cocktail tin and add only the fruits. Reserve the cherries for garnish. (You can use only fresh fruits of your choice. Don&#39;t add watery fruits like melons.)
+1. Add all the chopped fresh fruits. Strain the syrup from fruit cocktail tin and add only the fruits. Reserve the cherries for garnish. (You can use only fresh fruits of your choice. Don't add watery fruits like melons.)
 1. Fold it gently. It can be served immediately or can be refrigerated and served chilled.
 1. Transfer to a serving bowl and garnish with cherry and pomegranate.
 

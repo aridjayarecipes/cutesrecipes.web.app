@@ -68,7 +68,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Get 2 mint leaves
 
 
-The simple lemon filling sits in a flaky shortbread crust and is swirled. I&#39;ve fallen in love with No Bake Tarts! They&#39;re quick and easy to prepare and can be made with so many fun fillings. You can absolutely switch up the cookies in the crust and use a store bought lemon curd if you wish. 
+The simple lemon filling sits in a flaky shortbread crust and is swirled. I've fallen in love with No Bake Tarts! They're quick and easy to prepare and can be made with so many fun fillings. You can absolutely switch up the cookies in the crust and use a store bought lemon curd if you wish. 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ The simple lemon filling sits in a flaky shortbread crust and is swirled. I&#39;
 1. Decoration with fresh blueberries, lemon zest, mint and powdered sugar. Chill it for at least one hour.
 
 
-They&#39;re quick and easy to prepare and can be made with so many fun fillings. You can absolutely switch up the cookies in the crust and use a store bought lemon curd if you wish. Mascarpone Cream Tart with Fresh Fruit. Be sure to pick up a copy of today&#39;s Tennessean, where this recipe for Blueberry Truffle Tartlets (excerpted. A Lemon Berry Mascarpone Tart is a simple, delicious way to show off all the season&#39;s best berries. 
+They're quick and easy to prepare and can be made with so many fun fillings. You can absolutely switch up the cookies in the crust and use a store bought lemon curd if you wish. Mascarpone Cream Tart with Fresh Fruit. Be sure to pick up a copy of today's Tennessean, where this recipe for Blueberry Truffle Tartlets (excerpted. A Lemon Berry Mascarpone Tart is a simple, delicious way to show off all the season's best berries. 
 
 So that's going to wrap this up for this exceptional food no bake blueberry lemon mascarpone tart recipe. Thank you very much for your time. I am confident you can make this at home. There is gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

@@ -24,7 +24,7 @@ recipeinstructions:
 - "Blend 3 bananas. Add brown sugar. Add egg and beat everything. Add 2 tbsp of oil and beat it. Add 2 cups of wholewheat flour. Mix it and add 0.5 TSP cinnamon, 4 TBSP raisins, nuts (hazelnuts and almonds), and 2 tsp of baking powder. Mix everything so all the ingredients will combine. Cut chocolate into smaller chunks and add to the batter."
 - "Fill up muffin papers with batter and Bake 20 min at 200C/392F."
 - "Bon Appetite!!"
-- "The whole recipe you can find: on my YouTube channel : Yummy By Elena: https://www.youtube.com/watch?v=CyneookehHQ&amp;t=77s"
+- "The whole recipe you can find: on my YouTube channel : Yummy By Elena: https://www.youtube.com/watch?v=CyneookehHQ&t=77s"
 categories:
 - Recipe
 tags:
@@ -79,7 +79,7 @@ To begin with this recipe, we have to prepare a few components. You can have ama
 1. Blend 3 bananas. Add brown sugar. Add egg and beat everything. Add 2 tbsp of oil and beat it. Add 2 cups of wholewheat flour. Mix it and add 0.5 TSP cinnamon, 4 TBSP raisins, nuts (hazelnuts and almonds), and 2 tsp of baking powder. Mix everything so all the ingredients will combine. Cut chocolate into smaller chunks and add to the batter.
 1. Fill up muffin papers with batter and Bake 20 min at 200C/392F.
 1. Bon Appetite!!
-1. The whole recipe you can find: on my YouTube channel : Yummy By Elena: https://www.youtube.com/watch?v=CyneookehHQ&amp;t=77s
+1. The whole recipe you can find: on my YouTube channel : Yummy By Elena: https://www.youtube.com/watch?v=CyneookehHQ&t=77s
 
 
 

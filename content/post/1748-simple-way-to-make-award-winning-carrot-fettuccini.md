@@ -18,7 +18,7 @@ recipeinstructions:
 - "Peel carrot and cut into small pieces. Mix and blend it together with water until it is crushed and smooth"
 - "Mix all ingredients together with carrot until it combined together."
 - "Form a ball and let the dough rest for at least 1 hour."
-- "Divide evenly into few rolls. Then roll it each into 1-2cm thickness depending on how thick do you want it as your pasta. Then roll it again to the pasta roller into any pasta shapes you want, i choose spaghetti cuts for noodles &amp; fettuccini cuts (wider than spaghetti cut) for fettuccini pasta."
+- "Divide evenly into few rolls. Then roll it each into 1-2cm thickness depending on how thick do you want it as your pasta. Then roll it again to the pasta roller into any pasta shapes you want, i choose spaghetti cuts for noodles & fettuccini cuts (wider than spaghetti cut) for fettuccini pasta."
 - "Pasta or noodles are ready for any type of cooking that you want. I cooked it with tomato pasta"
 - "Ready to serve. Carrot Fettuccini with Tomatoes pasta"
 categories:
@@ -68,7 +68,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Peel carrot and cut into small pieces. Mix and blend it together with water until it is crushed and smooth
 1. Mix all ingredients together with carrot until it combined together.
 1. Form a ball and let the dough rest for at least 1 hour.
-1. Divide evenly into few rolls. Then roll it each into 1-2cm thickness depending on how thick do you want it as your pasta. Then roll it again to the pasta roller into any pasta shapes you want, i choose spaghetti cuts for noodles &amp; fettuccini cuts (wider than spaghetti cut) for fettuccini pasta.
+1. Divide evenly into few rolls. Then roll it each into 1-2cm thickness depending on how thick do you want it as your pasta. Then roll it again to the pasta roller into any pasta shapes you want, i choose spaghetti cuts for noodles & fettuccini cuts (wider than spaghetti cut) for fettuccini pasta.
 1. Pasta or noodles are ready for any type of cooking that you want. I cooked it with tomato pasta
 1. Ready to serve. Carrot Fettuccini with Tomatoes pasta
 

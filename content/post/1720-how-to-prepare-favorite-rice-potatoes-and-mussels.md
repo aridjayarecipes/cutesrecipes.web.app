@@ -48,7 +48,7 @@ Hello everybody, it is Louise, welcome to my recipe page. Today, I'm gonna show 
 
 Rice potatoes and mussels is one of the most favored of current trending meals on earth. It's simple, it's fast, it tastes yummy. It's appreciated by millions every day. They are fine and they look fantastic. Rice potatoes and mussels is something that I have loved my entire life.
 
-Directly from Salento, Puglia, I propose my SIMPLIFIED version but with all the original flavors of Tiella of Riso Patate e Cozze original italian recipe. Rice, Potatoes and Mussels can remember the Spanish Paella. In fact as Paella the name Tiella derives from the pot used to prepare this dish: a large and low clay container. "Tieed" in the dialect of Bari means just a pot. Leave the rice and potatoes to soak before you use them: if you remove excess starch the final dish will not be too &#39;sticky&#39;.
+Directly from Salento, Puglia, I propose my SIMPLIFIED version but with all the original flavors of Tiella of Riso Patate e Cozze original italian recipe. Rice, Potatoes and Mussels can remember the Spanish Paella. In fact as Paella the name Tiella derives from the pot used to prepare this dish: a large and low clay container. "Tieed" in the dialect of Bari means just a pot. Leave the rice and potatoes to soak before you use them: if you remove excess starch the final dish will not be too 'sticky'.
 
 
 To get started with this particular recipe, we must first prepare a few components. You can cook rice potatoes and mussels using 7 ingredients and 6 steps. Here is how you cook it.

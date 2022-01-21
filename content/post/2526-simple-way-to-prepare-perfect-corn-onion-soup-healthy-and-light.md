@@ -27,7 +27,7 @@ recipeinstructions:
 - "Now off the gas and let them cool after that pour onion and garlic in jar and make a paste."
 - "Now again put a kadhai or cooker on gas in low flame, add butter, some chopped onion and add pastes of corn and onion, garlic, peas and corn."
 - "Now the time to add water and boiled for 5 mins and add black salt and black pepper and stir."
-- "If u want running soup then it&#39;s ready. Otherwise you can add corn flour and mix in water and add them, so the consistency of soup is now thick."
+- "If u want running soup then it's ready. Otherwise you can add corn flour and mix in water and add them, so the consistency of soup is now thick."
 - "Now your hot soup is ready🍲 to enjoy."
 categories:
 - Recipe
@@ -86,7 +86,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Now off the gas and let them cool after that pour onion and garlic in jar and make a paste.
 1. Now again put a kadhai or cooker on gas in low flame, add butter, some chopped onion and add pastes of corn and onion, garlic, peas and corn.
 1. Now the time to add water and boiled for 5 mins and add black salt and black pepper and stir.
-1. If u want running soup then it&#39;s ready. Otherwise you can add corn flour and mix in water and add them, so the consistency of soup is now thick.
+1. If u want running soup then it's ready. Otherwise you can add corn flour and mix in water and add them, so the consistency of soup is now thick.
 1. Now your hot soup is ready🍲 to enjoy.
 
 

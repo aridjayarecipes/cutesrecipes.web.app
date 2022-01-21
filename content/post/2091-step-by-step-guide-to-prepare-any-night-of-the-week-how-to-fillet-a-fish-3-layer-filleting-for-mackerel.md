@@ -17,12 +17,12 @@ recipeinstructions:
 - "Next, use the same motion on the other side of the fish, cutting the head off completely."
 - "Putting your fingers into the stomach via the cut hole, carefully remove the guts of the fish."
 - "Starting from where you removed the guts, cut the fish open along the belly of the fish."
-- "Once you&#39;ve cut open the belly of the fish, remove the remaining guts and blood while rinsing the fish under cold water."
-- "Once you&#39;ve finished washing the fish, place your knife along the spine of the fish, and separate the fillet from the spine. Tilt the knife sideways, keeping the knife pressed along the spine as you cut."
+- "Once you've cut open the belly of the fish, remove the remaining guts and blood while rinsing the fish under cold water."
+- "Once you've finished washing the fish, place your knife along the spine of the fish, and separate the fillet from the spine. Tilt the knife sideways, keeping the knife pressed along the spine as you cut."
 - "Continue this way until you reach all the way to the tail, and remove the fillet."
 - "This is what you should have at this point. (2-layer fish fillet)"
 - "Next, cut off the fillet still attached to the spine by slicing with your knife running along the spine of the fish."
-- "And here we&#39;ve completed the 3-layer filleting. Now we need to make it easier to eat."
+- "And here we've completed the 3-layer filleting. Now we need to make it easier to eat."
 - "Place the knife along the stomach bones of the fish, and remove the pelvic fin and stomach bones from the fillet. (For both fillets.)"
 - "And here you have successfully completed a perfect 3-layer filleting of fish."
 categories:
@@ -72,12 +72,12 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Next, use the same motion on the other side of the fish, cutting the head off completely.
 1. Putting your fingers into the stomach via the cut hole, carefully remove the guts of the fish.
 1. Starting from where you removed the guts, cut the fish open along the belly of the fish.
-1. Once you&#39;ve cut open the belly of the fish, remove the remaining guts and blood while rinsing the fish under cold water.
-1. Once you&#39;ve finished washing the fish, place your knife along the spine of the fish, and separate the fillet from the spine. Tilt the knife sideways, keeping the knife pressed along the spine as you cut.
+1. Once you've cut open the belly of the fish, remove the remaining guts and blood while rinsing the fish under cold water.
+1. Once you've finished washing the fish, place your knife along the spine of the fish, and separate the fillet from the spine. Tilt the knife sideways, keeping the knife pressed along the spine as you cut.
 1. Continue this way until you reach all the way to the tail, and remove the fillet.
 1. This is what you should have at this point. (2-layer fish fillet)
 1. Next, cut off the fillet still attached to the spine by slicing with your knife running along the spine of the fish.
-1. And here we&#39;ve completed the 3-layer filleting. Now we need to make it easier to eat.
+1. And here we've completed the 3-layer filleting. Now we need to make it easier to eat.
 1. Place the knife along the stomach bones of the fish, and remove the pelvic fin and stomach bones from the fillet. (For both fillets.)
 1. And here you have successfully completed a perfect 3-layer filleting of fish.
 

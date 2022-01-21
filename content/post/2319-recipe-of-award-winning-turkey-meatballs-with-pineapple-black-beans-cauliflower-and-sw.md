@@ -29,7 +29,7 @@ recipeingredient:
 - "1/2 teaspoon Turmeric"
 recipeinstructions:
 - "Cook diced onion until it is translucent in olive oil in the same pan you will cook the rice and quinoa."
-- "Cook your Brown Rice and Quinoa (if you are not using leftovers from the fridge. I used leftover quinoa but you could cook both at the same time just make sure you combine the amount of liquid from both directions. Costco also sells a nice garlic brown rice quinoa blend called Seeds of Change if you don&#39;t want to cook either). I boiled 2 1/4 cups water, added a cup of brown rice, and let it simmer for 45 minutes."
+- "Cook your Brown Rice and Quinoa (if you are not using leftovers from the fridge. I used leftover quinoa but you could cook both at the same time just make sure you combine the amount of liquid from both directions. Costco also sells a nice garlic brown rice quinoa blend called Seeds of Change if you don't want to cook either). I boiled 2 1/4 cups water, added a cup of brown rice, and let it simmer for 45 minutes."
 - "Combine brown sugar and corn starch in a large skillet. Warm it on medium heat for a few minutes."
 - "Add reserve pineapple juice, vinegar, and soy sauce to the brown sugar and corn starch stirring constantly until combined. Bring the sauce to a boil stirring frequently as it thickens. Add your choice of spices and boil for 1 minute."
 - "Add spices of your choice, green chilies, and black beans to your brown rice quinoa mixture."
@@ -73,8 +73,8 @@ To get started with this recipe, we must prepare a few components. You can have 
 1. Make ready 16 Turkey Meatballs (We like Foster Farms Home Style)
 1. Make ready 1 small diced Onion
 1. Make ready 1 (4.5 oz) canned, diced Green Chilies
-1. Take 16 oz Frozen Cauliflower (&amp;/or carrots, &amp;/or bell pepper)
-1. Get 1 can Diced Pineapple, drained (Reserve the juice for the sauce. I like this cut because it&#39;s an easy size for my kids to eat)
+1. Take 16 oz Frozen Cauliflower (&/or carrots, &/or bell pepper)
+1. Get 1 can Diced Pineapple, drained (Reserve the juice for the sauce. I like this cut because it's an easy size for my kids to eat)
 1. Make ready 1 can Low Sodium Black Beans, rinsed
 1. Prepare 5 ish cups Brown Rice and Quinoa cooked according to their directions
 1. Make ready 4 tablespoons Corn Starch
@@ -96,7 +96,7 @@ To get started with this recipe, we must prepare a few components. You can have 
 ##### Instructions to make Turkey Meatballs with Pineapple, Black Beans, Cauliflower and Sw:
 
 1. Cook diced onion until it is translucent in olive oil in the same pan you will cook the rice and quinoa.
-1. Cook your Brown Rice and Quinoa (if you are not using leftovers from the fridge. I used leftover quinoa but you could cook both at the same time just make sure you combine the amount of liquid from both directions. Costco also sells a nice garlic brown rice quinoa blend called Seeds of Change if you don&#39;t want to cook either). I boiled 2 1/4 cups water, added a cup of brown rice, and let it simmer for 45 minutes.
+1. Cook your Brown Rice and Quinoa (if you are not using leftovers from the fridge. I used leftover quinoa but you could cook both at the same time just make sure you combine the amount of liquid from both directions. Costco also sells a nice garlic brown rice quinoa blend called Seeds of Change if you don't want to cook either). I boiled 2 1/4 cups water, added a cup of brown rice, and let it simmer for 45 minutes.
 1. Combine brown sugar and corn starch in a large skillet. Warm it on medium heat for a few minutes.
 1. Add reserve pineapple juice, vinegar, and soy sauce to the brown sugar and corn starch stirring constantly until combined. Bring the sauce to a boil stirring frequently as it thickens. Add your choice of spices and boil for 1 minute.
 1. Add spices of your choice, green chilies, and black beans to your brown rice quinoa mixture.

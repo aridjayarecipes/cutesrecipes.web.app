@@ -71,7 +71,7 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Take 1 tablespoon chopped garlic
 1. Take 1 tablespoon olive oil
 1. Make ready 1 tablespoon salt
-1. Make ready 1/2 ? tablespoon of lemon juice (didn&#39;t try)
+1. Make ready 1/2 ? tablespoon of lemon juice (didn't try)
 1. Prepare 1 + tomatoes (optional)
 1. Make ready 1 + avocados (optional)
 1. Make ready  chopped cilantro (optional)

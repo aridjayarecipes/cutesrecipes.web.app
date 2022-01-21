@@ -50,7 +50,7 @@ Hey everyone, it is Jim, welcome to my recipe site. Today, I'm gonna show you ho
 
 Pumpkin soup is one of the most well liked of recent trending meals on earth. It is easy, it is quick, it tastes yummy. It is appreciated by millions daily. They're nice and they look fantastic. Pumpkin soup is something which I've loved my entire life.
 
-This is a classic, easy pumpkin soup made with fresh pumpkin that is very fast to make. Thick, creamy and full of flavour, this is THE pumpkin soup recipe you will make now and forever! Pumpkin soup is a usually &#39;bound&#39; (thick) soup made from a purée of pumpkin. It is made by combining the meat of a blended pumpkin with broth or stock.
+This is a classic, easy pumpkin soup made with fresh pumpkin that is very fast to make. Thick, creamy and full of flavour, this is THE pumpkin soup recipe you will make now and forever! Pumpkin soup is a usually 'bound' (thick) soup made from a purée of pumpkin. It is made by combining the meat of a blended pumpkin with broth or stock.
 
 
 To get started with this recipe, we have to prepare a few components. You can cook pumpkin soup using 8 ingredients and 8 steps. Here is how you can achieve it.

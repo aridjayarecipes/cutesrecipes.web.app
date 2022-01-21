@@ -84,6 +84,6 @@ She fed me a big green salad with feta and quinoa, and it was so satisfying. The
 1. Wash all veges good and cut it according to desired.
 
 
-Quinoa and black beans are tossed in a refreshing lime-cilantro vinaigrette for a quick and protein-packed lunch or side dish. Lime juice and cilantro give a refreshing kick, while quinoa and black beans provide tasty vegan protein. If you&#39;re not vegan, add even more protein by adding chunks of. Everyone loves this healthy quinoa salad made with quinoa, chickpeas, red bell pepper, cucumber This quinoa salad recipe is the best! Everyone loves this healthy quinoa salad made with quinoa So much of freshness!!! 
+Quinoa and black beans are tossed in a refreshing lime-cilantro vinaigrette for a quick and protein-packed lunch or side dish. Lime juice and cilantro give a refreshing kick, while quinoa and black beans provide tasty vegan protein. If you're not vegan, add even more protein by adding chunks of. Everyone loves this healthy quinoa salad made with quinoa, chickpeas, red bell pepper, cucumber This quinoa salad recipe is the best! Everyone loves this healthy quinoa salad made with quinoa So much of freshness!!! 
 
 So that is going to wrap it up with this special food mixed salata with quinoa recipe. Thank you very much for reading. I am sure that you can make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

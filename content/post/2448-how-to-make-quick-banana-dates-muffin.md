@@ -52,7 +52,7 @@ Hello everybody, hope you are having an amazing day today. Today, we're going to
 
 Banana dates muffin is one of the most well liked of recent trending meals in the world. It's easy, it is fast, it tastes yummy. It's enjoyed by millions every day. They are nice and they look wonderful. Banana dates muffin is something which I have loved my entire life.
 
-A tasty sweet muffin recipe that won&#39;t blow your diet. Bananas and dates team up with bran cereal for a tasty breakfast treat. Banana with dates muffins is easy recipe to make as your snack at home. Its perfect for your coffee and tea.
+A tasty sweet muffin recipe that won't blow your diet. Bananas and dates team up with bran cereal for a tasty breakfast treat. Banana with dates muffins is easy recipe to make as your snack at home. Its perfect for your coffee and tea.
 
 
 To get started with this recipe, we have to prepare a few ingredients. You can cook banana dates muffin using 10 ingredients and 7 steps. Here is how you can achieve that.
@@ -73,7 +73,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can c
 1. Make ready 1/2 tsp soda bicarbonate
 
 
-Did we mention they are DELICIOUS? Here&#39;s a quick and easy muffin recipe to use up those brown speckled bananas on your counter top. You have been ignoring them a bit too long, haven&#39;t you? These vegan banana muffins are moist and delicious and filled with dates and walnuts. 
+Did we mention they are DELICIOUS? Here's a quick and easy muffin recipe to use up those brown speckled bananas on your counter top. You have been ignoring them a bit too long, haven't you? These vegan banana muffins are moist and delicious and filled with dates and walnuts. 
 
 <!--inarticleads2-->
 
@@ -88,6 +88,6 @@ Did we mention they are DELICIOUS? Here&#39;s a quick and easy muffin recipe to 
 1. Scope the ingredients and put in to a muffin pan and bake at 180 degree Celsius for 20 mins.
 
 
-You have been ignoring them a bit too long, haven&#39;t you? These vegan banana muffins are moist and delicious and filled with dates and walnuts. These are my all-time favorite muffins. The Banana-Date-Carrot Muffin Recipe is great because they can be made in advance. How to make banana pecan muffins. 
+You have been ignoring them a bit too long, haven't you? These vegan banana muffins are moist and delicious and filled with dates and walnuts. These are my all-time favorite muffins. The Banana-Date-Carrot Muffin Recipe is great because they can be made in advance. How to make banana pecan muffins. 
 
 So that's going to wrap it up with this special food banana dates muffin recipe. Thanks so much for reading. I am confident that you can make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

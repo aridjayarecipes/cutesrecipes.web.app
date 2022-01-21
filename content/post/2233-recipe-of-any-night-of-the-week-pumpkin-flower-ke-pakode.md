@@ -23,8 +23,8 @@ recipeingredient:
 recipeinstructions:
 - "Clean and wash pumpkin flower Take a big bowl add all ingredients except pumpkin flower."
 - "Make a thick batter of it with adding 1 cup of water Heat oil into pan."
-- "Dip pumpkin flower one by one. Deep fry it on medium flame to both side till it&#39;s golden brown colour.Now take it out from the oil"
-- "Keep it on the tissue paper to absorb extra oil.it&#39;s done serve it hot with your favourite chutney that is green or ketchup."
+- "Dip pumpkin flower one by one. Deep fry it on medium flame to both side till it's golden brown colour.Now take it out from the oil"
+- "Keep it on the tissue paper to absorb extra oil.it's done serve it hot with your favourite chutney that is green or ketchup."
 categories:
 - Recipe
 tags:
@@ -78,8 +78,8 @@ It is a very healthy and easily digestible vegetable. But because of its mild fl
 
 1. Clean and wash pumpkin flower - Take a big bowl add all ingredients except pumpkin flower.
 1. Make a thick batter of it with adding 1 cup of water Heat oil into pan.
-1. Dip pumpkin flower one by one. Deep fry it on medium flame to both side till it&#39;s golden brown colour.Now take it out from the oil
-1. Keep it on the tissue paper to absorb extra oil.it&#39;s done serve it hot with your favourite chutney that is green or ketchup.
+1. Dip pumpkin flower one by one. Deep fry it on medium flame to both side till it's golden brown colour.Now take it out from the oil
+1. Keep it on the tissue paper to absorb extra oil.it's done serve it hot with your favourite chutney that is green or ketchup.
 
 
 Remove the drumstick flower and boil it in water and it will come out of the water. Recipe: Appetizing Pumpkin flower ke pakode. Kaddu ke Pakode Recipe, Learn how to make Kaddu ke Pakode (absolutely delicious recipe of Kaddu ke Pakode ingredients and cooking method) Munch on these festive pakodas commonly made during Navratras. Grated pumpkin and potatoes mixed with singhara atta and fried golden. A pumpkin is a cultivar of winter squash that is round with smooth, slightly ribbed skin, and is most often deep yellow to orange in coloration. 

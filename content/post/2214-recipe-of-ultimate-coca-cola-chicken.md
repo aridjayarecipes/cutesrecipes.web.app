@@ -21,7 +21,7 @@ recipeingredient:
 - "200 ml cocacola"
 - "1/4 cup oil for frying"
 recipeinstructions:
-- "Combine chicken, salt, pepper, garlic powder and wait for about 5 minutes. (It&#39;s best to store it in the fridge for about an hour)"
+- "Combine chicken, salt, pepper, garlic powder and wait for about 5 minutes. (It's best to store it in the fridge for about an hour)"
 - "Add flour, katakuriko, and egg to the chicken. Mix well."
 - "Heat oil in a pan. For better results, fry in two or three batches until golden brown. I was feeling lazy, so I just pour all into the pan."
 - "Flip occasionally until the chicken are half-cooked."
@@ -77,7 +77,7 @@ To begin with this recipe, we have to prepare a few components. You can cook coc
 
 ##### Steps to make Coca-Cola Chicken:
 
-1. Combine chicken, salt, pepper, garlic powder and wait for about 5 minutes. (It&#39;s best to store it in the fridge for about an hour)
+1. Combine chicken, salt, pepper, garlic powder and wait for about 5 minutes. (It's best to store it in the fridge for about an hour)
 1. Add flour, katakuriko, and egg to the chicken. Mix well.
 1. Heat oil in a pan. For better results, fry in two or three batches until golden brown. I was feeling lazy, so I just pour all into the pan.
 1. Flip occasionally until the chicken are half-cooked.

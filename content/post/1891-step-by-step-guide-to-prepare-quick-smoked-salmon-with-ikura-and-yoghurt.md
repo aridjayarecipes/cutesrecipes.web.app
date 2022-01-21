@@ -26,7 +26,7 @@ recipeinstructions:
 - "Now slice the salmon, start with deskinning the filet afterwards you can cut of the belly (reserve for tartare)"
 - "Now that you have a clean salmon filet you can cut thin slices approx. 70 mm thick or a combined weight of 125 grams"
 - "Return to the yoghurt en look if it has stiffened up if so you can continue otherwise you need to wait a short while"
-- "Start by whisking the za&#39;atar and the olive oil through the yoghurt"
+- "Start by whisking the za'atar and the olive oil through the yoghurt"
 - "Finish with salt and lime zeste to taste"
 - "When Al is done you can start plating up"
 categories:
@@ -53,7 +53,7 @@ Hello everybody, hope you're having an amazing day today. Today, we're going to 
 
 Smoked salmon with ikura and yoghurt is one of the most well liked of recent trending meals in the world. It is appreciated by millions every day. It's simple, it is quick, it tastes yummy. Smoked salmon with ikura and yoghurt is something which I've loved my entire life. They're fine and they look fantastic.
 
-Now slice the salmon, start with deskinning the filet afterwards you can cut of the belly (reserve for tartare). Now that you have a clean salmon filet Return to the yoghurt en look if it has stiffened up if so you can continue otherwise you need to wait a short while. Start by whisking the za&#39;atar and the. PagesBusinessesFood &amp; drinkRestaurantAsian RestaurantJapanese Restauranto ya - NYCVideosSmoking Smoked Salmon with ikura, pickled daikon and fermented.
+Now slice the salmon, start with deskinning the filet afterwards you can cut of the belly (reserve for tartare). Now that you have a clean salmon filet Return to the yoghurt en look if it has stiffened up if so you can continue otherwise you need to wait a short while. Start by whisking the za'atar and the. PagesBusinessesFood & drinkRestaurantAsian RestaurantJapanese Restauranto ya - NYCVideosSmoking Smoked Salmon with ikura, pickled daikon and fermented.
 
 
 To get started with this recipe, we must first prepare a few components. You can cook smoked salmon with ikura and yoghurt using 8 ingredients and 10 steps. Here is how you can achieve it.
@@ -63,7 +63,7 @@ To get started with this recipe, we must first prepare a few components. You can
 ##### The ingredients needed to make Smoked salmon with ikura and yoghurt:
 
 1. Take 100 grams yoghurt
-1. Make ready 15 grams za&#39;atar
+1. Make ready 15 grams za'atar
 1. Make ready 10 grams olive oil
 1. Take  Proteïne
 1. Get 125 grams smoked salmon
@@ -85,7 +85,7 @@ Smoked Salmon Spread With Greek Yogurt and Fresh DillThe Kitchen Girl. Simple to
 1. Now slice the salmon, start with deskinning the filet afterwards you can cut of the belly (reserve for tartare)
 1. Now that you have a clean salmon filet you can cut thin slices approx. 70 mm thick or a combined weight of 125 grams
 1. Return to the yoghurt en look if it has stiffened up if so you can continue otherwise you need to wait a short while
-1. Start by whisking the za&#39;atar and the olive oil through the yoghurt
+1. Start by whisking the za'atar and the olive oil through the yoghurt
 1. Finish with salt and lime zeste to taste
 1. When Al is done you can start plating up
 

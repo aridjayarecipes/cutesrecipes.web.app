@@ -18,8 +18,8 @@ recipeinstructions:
 - "Remove the pits from the plums and roughly chop the flesh. When cutting out the pits, be careful not to cut into them."
 - "In a saucepan, place the chopped plums from Step 2, sprinkle with sugar and lemon juice, and let sit for about 10 minutes to blend."
 - "Bring the saucepan to a boil, then reduce to low heat. Simmer for about 5-10 minutes while occasionally stirring to prevent it from burning."
-- "After about 5 minutes, it will start to thicken. Once it falls off right the spatula when stirred, turn off the heat and it&#39;s ready."
-- "Transfer to the jar while still hot. It&#39;s delicious served on yogurt."
+- "After about 5 minutes, it will start to thicken. Once it falls off right the spatula when stirred, turn off the heat and it's ready."
+- "Transfer to the jar while still hot. It's delicious served on yogurt."
 - "I was told by another user that the plums will not gel. If your jam is lacking in sugar, pectin, or acid, it will not gel. This is a low-sugar umeshu (plum) jam."
 - "If your jam is not gelling together, add powdered pectin or sugar. And be sure to not to forget the lemon juice."
 categories:
@@ -70,8 +70,8 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 1. Remove the pits from the plums and roughly chop the flesh. When cutting out the pits, be careful not to cut into them.
 1. In a saucepan, place the chopped plums from Step 2, sprinkle with sugar and lemon juice, and let sit for about 10 minutes to blend.
 1. Bring the saucepan to a boil, then reduce to low heat. Simmer for about 5-10 minutes while occasionally stirring to prevent it from burning.
-1. After about 5 minutes, it will start to thicken. Once it falls off right the spatula when stirred, turn off the heat and it&#39;s ready.
-1. Transfer to the jar while still hot. It&#39;s delicious served on yogurt.
+1. After about 5 minutes, it will start to thicken. Once it falls off right the spatula when stirred, turn off the heat and it's ready.
+1. Transfer to the jar while still hot. It's delicious served on yogurt.
 1. I was told by another user that the plums will not gel. If your jam is lacking in sugar, pectin, or acid, it will not gel. This is a low-sugar umeshu (plum) jam.
 1. If your jam is not gelling together, add powdered pectin or sugar. And be sure to not to forget the lemon juice.
 

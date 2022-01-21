@@ -19,7 +19,7 @@ recipeinstructions:
 - "Combine beans, cilantro, lime juice in a sauce pan until warm."
 - "Fill flour tortillas with black bean mixture evenly. Sprinkle with half of cheddar cheese."
 - "Heat up enchilada sauce in a sauce pan."
-- "Spread enough sauce in the pan to cover the bottom. Don&#39;t use all of the sauce though."
+- "Spread enough sauce in the pan to cover the bottom. Don't use all of the sauce though."
 - "Now roll up the enchiladas and place them side by side in the pan."
 - "Dump the rest of the sauce over enchiladas. Finally spread the cheese over top. Bake at 350° for 30 minutes."
 categories:
@@ -71,7 +71,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 1. Combine beans, cilantro, lime juice in a sauce pan until warm.
 1. Fill flour tortillas with black bean mixture evenly. Sprinkle with half of cheddar cheese.
 1. Heat up enchilada sauce in a sauce pan.
-1. Spread enough sauce in the pan to cover the bottom. Don&#39;t use all of the sauce though.
+1. Spread enough sauce in the pan to cover the bottom. Don't use all of the sauce though.
 1. Now roll up the enchiladas and place them side by side in the pan.
 1. Dump the rest of the sauce over enchiladas. Finally spread the cheese over top. Bake at 350° for 30 minutes.
 

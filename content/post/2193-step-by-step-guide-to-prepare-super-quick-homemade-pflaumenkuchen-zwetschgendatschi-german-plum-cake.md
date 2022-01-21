@@ -25,7 +25,7 @@ recipeingredient:
 - "1 baking tray I used a 8 x 11 in22 x 28 cm pan or pietart dish 89 inches Something similar will work"
 recipeinstructions:
 - "In a bowl, mix the flour, yeast, sugar, and salt."
-- "Add milk and butter and mix until the dough can be formed into a ball. If it&#39;s too wet to handle, add a little more flour. If it&#39;s too dry and powdery, add a little bit of milk."
+- "Add milk and butter and mix until the dough can be formed into a ball. If it's too wet to handle, add a little more flour. If it's too dry and powdery, add a little bit of milk."
 - "Dust a surface and your hands with flour. Knead the dough a couple minutes until the ball is smooth."
 - "Cover and let sit in a warm place for about 60 minutes."
 - "It should get almost double in size after 1 hour."
@@ -91,7 +91,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 ##### Instructions to make Pflaumenkuchen / Zwetschgendatschi: German Plum Cake:
 
 1. In a bowl, mix the flour, yeast, sugar, and salt.
-1. Add milk and butter and mix until the dough can be formed into a ball. If it&#39;s too wet to handle, add a little more flour. If it&#39;s too dry and powdery, add a little bit of milk.
+1. Add milk and butter and mix until the dough can be formed into a ball. If it's too wet to handle, add a little more flour. If it's too dry and powdery, add a little bit of milk.
 1. Dust a surface and your hands with flour. Knead the dough a couple minutes until the ball is smooth.
 1. Cover and let sit in a warm place for about 60 minutes.
 1. It should get almost double in size after 1 hour.

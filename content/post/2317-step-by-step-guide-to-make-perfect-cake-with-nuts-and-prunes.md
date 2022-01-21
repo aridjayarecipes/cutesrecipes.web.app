@@ -21,7 +21,7 @@ recipeingredient:
 recipeinstructions:
 - "Beat well eggs with sugar and cinnamon."
 - "Put in coffee and beat until dissolved."
-- "Coarse nuts, cut prunes and put all into the egg&#39;s mass. Mix well."
+- "Coarse nuts, cut prunes and put all into the egg's mass. Mix well."
 - "Add flour and baking powder. Knead the soft dough thick."
 - "Cover buttom of the form with oiled paper. Put your dough and bake 15-20 minutes at 200-220 C."
 - "Cool, cut and eat. Good with doppio."
@@ -76,7 +76,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 1. Beat well eggs with sugar and cinnamon.
 1. Put in coffee and beat until dissolved.
-1. Coarse nuts, cut prunes and put all into the egg&#39;s mass. Mix well.
+1. Coarse nuts, cut prunes and put all into the egg's mass. Mix well.
 1. Add flour and baking powder. Knead the soft dough thick.
 1. Cover buttom of the form with oiled paper. Put your dough and bake 15-20 minutes at 200-220 C.
 1. Cool, cut and eat. Good with doppio.

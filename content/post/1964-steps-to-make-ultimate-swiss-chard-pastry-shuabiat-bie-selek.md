@@ -82,7 +82,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Take 1/4 cup raisins
 1. Get 1/4 cup walnuts
 1. Get 2 tablespoons sesame (optional)
-1. Prepare  Shuabiat&#39;s dough :
+1. Prepare  Shuabiat's dough :
 1. Make ready 6 cups flour
 1. Prepare 1 teaspoon salt
 1. Get 1 1/2 tablespoon sugar

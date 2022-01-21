@@ -23,8 +23,8 @@ recipeingredient:
 recipeinstructions:
 - "Cut the fish into bite-sized pieces. Thinly slice the onion along the grain. Julienne the carrot. Remove the seeds from the chili peppers and slice into thin rounds."
 - "Mix the seasoning ingredients in a bowl with the water. Add the chili pepper, onions, and carrot."
-- "Dust the fish with flour and deep fry. While it&#39;s still hot, put it in the marinade from Step 2."
-- "Let the flavors mingle for 10 -15 minutes, and it&#39;s ready."
+- "Dust the fish with flour and deep fry. While it's still hot, put it in the marinade from Step 2."
+- "Let the flavors mingle for 10 -15 minutes, and it's ready."
 categories:
 - Recipe
 tags:
@@ -78,8 +78,8 @@ To begin with this particular recipe, we must prepare a few components. You can 
 
 1. Cut the fish into bite-sized pieces. Thinly slice the onion along the grain. Julienne the carrot. Remove the seeds from the chili peppers and slice into thin rounds.
 1. Mix the seasoning ingredients in a bowl with the water. Add the chili pepper, onions, and carrot.
-1. Dust the fish with flour and deep fry. While it&#39;s still hot, put it in the marinade from Step 2.
-1. Let the flavors mingle for 10 -15 minutes, and it&#39;s ready.
+1. Dust the fish with flour and deep fry. While it's still hot, put it in the marinade from Step 2.
+1. Let the flavors mingle for 10 -15 minutes, and it's ready.
 
 
 

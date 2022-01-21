@@ -66,7 +66,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Prepare  Chopped fresh parsley or chopped fresh dill for garnish
 
 
-Serve any excess sauce at the table. Check out wife of the Cake Boss Lisa&#39;s delicious one-pot meal, salmon in pink sauce with bowtie pasta! It&#39;s a tasty, fast, and easy recipe the whole family. Rosé&#39;s pretty colour is perfect with pale-pink fish and rosy peppercorns. 
+Serve any excess sauce at the table. Check out wife of the Cake Boss Lisa's delicious one-pot meal, salmon in pink sauce with bowtie pasta! It's a tasty, fast, and easy recipe the whole family. Rosé's pretty colour is perfect with pale-pink fish and rosy peppercorns. 
 
 <!--inarticleads2-->
 
@@ -78,6 +78,6 @@ Serve any excess sauce at the table. Check out wife of the Cake Boss Lisa&#39;s 
 1. Carefully peel the skin off the salmon fillets and lay them back in the pan with the sauce. Sprinkle in the cherry tomatoes and let cook 1 more minute. Garnish with chopped fresh herbs.
 
 
-It&#39;s a tasty, fast, and easy recipe the whole family. Rosé&#39;s pretty colour is perfect with pale-pink fish and rosy peppercorns. Relish the flavours in our gluten-free salmon in rosé sauce recipe. This classic cocktail dressing is not just for prawns; it works fantastically well with salmon, in a burger or simply served Add the brandy and lemon juice to the bowl and stir them in before seasoning well with salt and pepper to taste. Transfer the Marie Rose sauce to a serving bowl and sprinkle over a. 
+It's a tasty, fast, and easy recipe the whole family. Rosé's pretty colour is perfect with pale-pink fish and rosy peppercorns. Relish the flavours in our gluten-free salmon in rosé sauce recipe. This classic cocktail dressing is not just for prawns; it works fantastically well with salmon, in a burger or simply served Add the brandy and lemon juice to the bowl and stir them in before seasoning well with salt and pepper to taste. Transfer the Marie Rose sauce to a serving bowl and sprinkle over a. 
 
 So that is going to wrap this up for this exceptional food salmon in rose sauce recipe. Thanks so much for reading. I'm confident that you can make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

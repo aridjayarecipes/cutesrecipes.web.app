@@ -60,7 +60,7 @@ To begin with this recipe, we must prepare a few ingredients. You can cook carro
 1. Prepare 3 Cardamom
 
 
-Be the first to rate &amp; review! Carrot Cake Shake. this link is to an external site that may or may not meet accessibility guidelines. carrot shake nutrition facts and nutritional information. Carrot Milkshake I Summer special shake I Gajar ka Milkshake I Healthy Milkhshare. க ரட ல இந த ம த ர ம ல க ஷ க ச ஞ ச எல ல ர க க ம ப ட க க ம Carrot Milkshake recipe in Tamil. The Carrot Shake recipe out of our category Vegetable! 
+Be the first to rate & review! Carrot Cake Shake. this link is to an external site that may or may not meet accessibility guidelines. carrot shake nutrition facts and nutritional information. Carrot Milkshake I Summer special shake I Gajar ka Milkshake I Healthy Milkhshare. க ரட ல இந த ம த ர ம ல க ஷ க ச ஞ ச எல ல ர க க ம ப ட க க ம Carrot Milkshake recipe in Tamil. The Carrot Shake recipe out of our category Vegetable! 
 
 <!--inarticleads2-->
 

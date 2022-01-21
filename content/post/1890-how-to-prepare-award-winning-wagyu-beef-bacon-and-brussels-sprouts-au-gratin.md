@@ -71,7 +71,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Make ready 1 TBSP Hot Sauce
 1. Make ready 8 OZ White Cheddar Cheese (shredded)
 1. Make ready 4 OZ Parmesan Cheese (shredded)
-1. Get  Kosher Salt &amp; Freshly Ground Black Pepper (to season)
+1. Get  Kosher Salt & Freshly Ground Black Pepper (to season)
 
 
 

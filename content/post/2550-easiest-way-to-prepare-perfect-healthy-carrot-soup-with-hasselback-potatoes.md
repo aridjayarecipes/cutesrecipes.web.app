@@ -21,8 +21,8 @@ recipeinstructions:
 - "Add 1 and half cups water, carrots and mints leaves in a sause pan"
 - "Add little salt and ginger.Cover lid and cook on low flame"
 - "After 10 mints check your carrots if they are tender then turn off flame"
-- "Now you need a hand mixer or a blender..put these carrots and coriander leaves in it and blend only for few seconds..don&#39;t make complete paste"
-- "Now put this mixture again in the pan and cook for 2 to 3 minutes. Add a little water to set it&#39;s consistency."
+- "Now you need a hand mixer or a blender..put these carrots and coriander leaves in it and blend only for few seconds..don't make complete paste"
+- "Now put this mixture again in the pan and cook for 2 to 3 minutes. Add a little water to set it's consistency."
 - "Sprinkle salt and pepper garnish with coriander leaves and serve hot.."
 categories:
 - Recipe
@@ -65,7 +65,7 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Prepare  Few leaves of Mint
 
 
-Watch how to make the best carrot soup in this short recipe video! It&#39;s lusciously creamy (yet cream-less) and full of caramelized roasted carrot flavor. Upgrade your roast side with these healthy hasselback carrots, seasoned with warming cumin and fennel. Find more Sunday roast recipes at Tesco Real Food. 
+Watch how to make the best carrot soup in this short recipe video! It's lusciously creamy (yet cream-less) and full of caramelized roasted carrot flavor. Upgrade your roast side with these healthy hasselback carrots, seasoned with warming cumin and fennel. Find more Sunday roast recipes at Tesco Real Food. 
 
 <!--inarticleads2-->
 
@@ -75,8 +75,8 @@ Watch how to make the best carrot soup in this short recipe video! It&#39;s lusc
 1. Add 1 and half cups water, carrots and mints leaves in a sause pan
 1. Add little salt and ginger.Cover lid and cook on low flame
 1. After 10 mints check your carrots if they are tender then turn off flame
-1. Now you need a hand mixer or a blender..put these carrots and coriander leaves in it and blend only for few seconds..don&#39;t make complete paste
-1. Now put this mixture again in the pan and cook for 2 to 3 minutes. Add a little water to set it&#39;s consistency.
+1. Now you need a hand mixer or a blender..put these carrots and coriander leaves in it and blend only for few seconds..don't make complete paste
+1. Now put this mixture again in the pan and cook for 2 to 3 minutes. Add a little water to set it's consistency.
 1. Sprinkle salt and pepper garnish with coriander leaves and serve hot..
 
 

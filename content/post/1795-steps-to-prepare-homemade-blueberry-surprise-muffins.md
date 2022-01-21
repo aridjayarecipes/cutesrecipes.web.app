@@ -16,7 +16,7 @@ recipeingredient:
 - "1 package Jiffy Corn Muffin mix"
 recipeinstructions:
 - "Mix all ingredients (except the blueberries) in a bowl until slightly lumpy"
-- "Cover the bottom of the Muffin pan with a little bit of the corn muffin mixture(if you&#39;re using baking cups, use 2)"
+- "Cover the bottom of the Muffin pan with a little bit of the corn muffin mixture(if you're using baking cups, use 2)"
 - "Put 3 blueberries on the mixture, then cover them with more corn muffin mixture."
 - "Cook the muffins for 15-20 minutes, then take them out"
 - "Clean the muffin pan. Repeat steps 1-5 until you made 10 muffins"
@@ -60,14 +60,14 @@ To begin with this recipe, we have to first prepare a few ingredients. You can h
 1. Prepare 1 package Jiffy Corn Muffin mix
 
 
-Come blueberry season every year, I make dozens and dozens of blueberry muffins. I know, I know, I&#39;m so disappointingly predictable. These healthy blueberry muffins are light, fluffy, and bursting with fresh blueberries. Bursting with ripe, sweet, juicy blueberries, these soft and super healthy blueberry muffins are completely. 
+Come blueberry season every year, I make dozens and dozens of blueberry muffins. I know, I know, I'm so disappointingly predictable. These healthy blueberry muffins are light, fluffy, and bursting with fresh blueberries. Bursting with ripe, sweet, juicy blueberries, these soft and super healthy blueberry muffins are completely. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Blueberry surprise muffins:
 
 1. Mix all ingredients (except the blueberries) in a bowl until slightly lumpy
-1. Cover the bottom of the Muffin pan with a little bit of the corn muffin mixture(if you&#39;re using baking cups, use 2)
+1. Cover the bottom of the Muffin pan with a little bit of the corn muffin mixture(if you're using baking cups, use 2)
 1. Put 3 blueberries on the mixture, then cover them with more corn muffin mixture.
 1. Cook the muffins for 15-20 minutes, then take them out
 1. Clean the muffin pan. Repeat steps 1-5 until you made 10 muffins

@@ -19,8 +19,8 @@ recipeingredient:
 - "1 tsp sesame oil"
 - " Salt  peppa"
 recipeinstructions:
-- "Preheat your oven to 425F. Pat dry your salmon. Season w salt &amp; pepper and cover with another piece of foil. Bake for 10mins. Set aside."
-- "In a pan over medium heat, add a tbsp of oil. Then the rest of the ingredients. Mix constantly until nice &amp; bubbly."
+- "Preheat your oven to 425F. Pat dry your salmon. Season w salt & pepper and cover with another piece of foil. Bake for 10mins. Set aside."
+- "In a pan over medium heat, add a tbsp of oil. Then the rest of the ingredients. Mix constantly until nice & bubbly."
 - "Uncover your salmon. Coat with the sriracha mixture. Bake again for another 8-10mins. Heck, go ahead and broil for 1 min if you fancy."
 - "Feel free to top with green onions and/or sesame seeds. Serve w a side of rice + veggies. Enjoy! (Could’ve made this w gochujang tho)"
 categories:
@@ -62,7 +62,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have no
 1. Get 1 garlic clove; minced
 1. Make ready .5 tbsp vinegar +.5 tbsp water
 1. Get 1 tsp sesame oil
-1. Get  Salt &amp; peppa
+1. Get  Salt & peppa
 
 
 
@@ -71,8 +71,8 @@ To begin with this recipe, we have to prepare a few ingredients. You can have no
 
 ##### Instructions to make Not-exactly-gochujang Salmon:
 
-1. Preheat your oven to 425F. Pat dry your salmon. Season w salt &amp; pepper and cover with another piece of foil. Bake for 10mins. Set aside.
-1. In a pan over medium heat, add a tbsp of oil. Then the rest of the ingredients. Mix constantly until nice &amp; bubbly.
+1. Preheat your oven to 425F. Pat dry your salmon. Season w salt & pepper and cover with another piece of foil. Bake for 10mins. Set aside.
+1. In a pan over medium heat, add a tbsp of oil. Then the rest of the ingredients. Mix constantly until nice & bubbly.
 1. Uncover your salmon. Coat with the sriracha mixture. Bake again for another 8-10mins. Heck, go ahead and broil for 1 min if you fancy.
 1. Feel free to top with green onions and/or sesame seeds. Serve w a side of rice + veggies. Enjoy! (Could’ve made this w gochujang tho)
 

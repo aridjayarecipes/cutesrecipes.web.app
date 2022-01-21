@@ -20,7 +20,7 @@ recipeinstructions:
 - "Add the oats and mix"
 - "At the honey amd cinnamon then mix"
 - "Add chocolate chips or raisins and mix"
-- "Cover the place you&#39;ll put the cookies in with butter or oil, use butter paper and cover it too. Take a tbsp and shape them and then out them in the pan."
+- "Cover the place you'll put the cookies in with butter or oil, use butter paper and cover it too. Take a tbsp and shape them and then out them in the pan."
 - "Bake for 15min at the temperature 180/350"
 - "You can also not shape it and just bake it after putting it in a pan like a cake"
 - "You can add some apple slices on top if you didnt use chocolate chip cookies"
@@ -74,12 +74,12 @@ Reviews for Photos of Banana Oatmeal Cookie. Centenarians in Loma Linda follow a
 1. Add the oats and mix
 1. At the honey amd cinnamon then mix
 1. Add chocolate chips or raisins and mix
-1. Cover the place you&#39;ll put the cookies in with butter or oil, use butter paper and cover it too. Take a tbsp and shape them and then out them in the pan.
+1. Cover the place you'll put the cookies in with butter or oil, use butter paper and cover it too. Take a tbsp and shape them and then out them in the pan.
 1. Bake for 15min at the temperature 180/350
 1. You can also not shape it and just bake it after putting it in a pan like a cake
 1. You can add some apple slices on top if you didnt use chocolate chip cookies
 
 
-Their top foods include avocados, nuts, beans, whole wheat bread, soy milk. Vegan and easily made gluten-free, these cookies are perfect for breakfast, dessert, or a snack. Kids will love these banana oatmeal breakfast cookies. Who says you can&#39;t have cookies for breakfast? These bite-sized treats are filled with mashed banana, rolled oats, and chopped walnuts. 
+Their top foods include avocados, nuts, beans, whole wheat bread, soy milk. Vegan and easily made gluten-free, these cookies are perfect for breakfast, dessert, or a snack. Kids will love these banana oatmeal breakfast cookies. Who says you can't have cookies for breakfast? These bite-sized treats are filled with mashed banana, rolled oats, and chopped walnuts. 
 
 So that's going to wrap it up with this exceptional food oatmeal banana cookies recipe. Thank you very much for your time. I am confident that you can make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

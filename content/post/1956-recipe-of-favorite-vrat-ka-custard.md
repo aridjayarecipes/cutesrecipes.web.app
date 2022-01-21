@@ -18,7 +18,7 @@ recipeingredient:
 - "5-6 strands Kesar"
 - "1 cup mixed fruits chopped I used red and green grapes pomegranate red apple  banana"
 recipeinstructions:
-- "First grind samak rice with milk  Take a pan and add mixture of milk &amp; milk powder."
+- "First grind samak rice with milk  Take a pan and add mixture of milk & milk powder."
 - "Add cardamom powder and saffron  Keep stirring   Let it boil  Now add samak milk ground mixture."
 - "Keep stirring and cooking fr 5-7 minutes."
 - "Add sugar and mix till it dissolves You will get a thick consistency of custard"
@@ -63,16 +63,16 @@ To begin with this recipe, we must prepare a few components. You can cook vrat k
 1. Take  Sugar as per taste (I used 4tbsp)
 1. Make ready 1 tsp cardamom powder
 1. Prepare 5-6 strands Kesar
-1. Prepare 1 cup mixed fruits chopped (I used red and green grapes, pomegranate, red apple &amp; banana)
+1. Prepare 1 cup mixed fruits chopped (I used red and green grapes, pomegranate, red apple & banana)
 
 
-Vrat ke kadhi chawal, Vrat ka Khana, singhare ki kadhi, navratri chawal, farali kadhi, vrat kadhi How To Make Custard Fruit Custard Healthy Dessert Recipes Desserts Custard Recipes Recipe Recipe. Once you&#39;ve cracked your own technique for silky smooth vanilla custard, you&#39;ll never go back to tinned, from BBC Good Food. Define &amp; Shine Custard helps reduce hair bulk, elongates curls and provides enough hold for long lasting styles that stay. Vrat Special Fruit custard II No cornflour Custard II Homemade Custard Powder se Fruit Custard. 
+Vrat ke kadhi chawal, Vrat ka Khana, singhare ki kadhi, navratri chawal, farali kadhi, vrat kadhi How To Make Custard Fruit Custard Healthy Dessert Recipes Desserts Custard Recipes Recipe Recipe. Once you've cracked your own technique for silky smooth vanilla custard, you'll never go back to tinned, from BBC Good Food. Define & Shine Custard helps reduce hair bulk, elongates curls and provides enough hold for long lasting styles that stay. Vrat Special Fruit custard II No cornflour Custard II Homemade Custard Powder se Fruit Custard. 
 
 <!--inarticleads2-->
 
 ##### Steps to make Vrat ka custard:
 
-1. First grind samak rice with milk  - Take a pan and add mixture of milk &amp; milk powder.
+1. First grind samak rice with milk  - Take a pan and add mixture of milk & milk powder.
 1. Add cardamom powder and saffron  - Keep stirring  -  - Let it boil  - Now add samak milk ground mixture.
 1. Keep stirring and cooking fr 5-7 minutes.
 1. Add sugar and mix till it dissolves - You will get a thick consistency of custard
@@ -80,6 +80,6 @@ Vrat ke kadhi chawal, Vrat ka Khana, singhare ki kadhi, navratri chawal, farali 
 1. Serve chilled after adding chopped fruits of your choice  - Tasty custard is ready
 
 
-Define &amp; Shine Custard helps reduce hair bulk, elongates curls and provides enough hold for long lasting styles that stay. Vrat Special Fruit custard II No cornflour Custard II Homemade Custard Powder se Fruit Custard. Recipe Navratri ka Khana Vrat ka khana recipes without salt Navratri Sweets Recipes Navratri. Vrat Ka Khaana Recipes/Dishes and Articles about Food on NDTV Food. Potatoes mashed with singhare ka atta, green chillies, coriander leaves, rock salt and shallow fried. 
+Define & Shine Custard helps reduce hair bulk, elongates curls and provides enough hold for long lasting styles that stay. Vrat Special Fruit custard II No cornflour Custard II Homemade Custard Powder se Fruit Custard. Recipe Navratri ka Khana Vrat ka khana recipes without salt Navratri Sweets Recipes Navratri. Vrat Ka Khaana Recipes/Dishes and Articles about Food on NDTV Food. Potatoes mashed with singhare ka atta, green chillies, coriander leaves, rock salt and shallow fried. 
 
 So that is going to wrap this up with this exceptional food vrat ka custard recipe. Thanks so much for your time. I am confident that you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

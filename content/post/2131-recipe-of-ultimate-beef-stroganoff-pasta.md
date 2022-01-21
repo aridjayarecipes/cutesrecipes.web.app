@@ -25,7 +25,7 @@ recipeingredient:
 recipeinstructions:
 - "Cook pasta to almost al dente. Pasta will continue cook with sauce. Save 1 cup of pasta water to use in sauce if needed."
 - "Use your fist (or rolling pin) to flatten the steaks to about 3-4cm thick. Slice into 5mm strips (cut long ones in half), discarding excess fat. Sprinkle with a pinch of salt and pepper."
-- "Heat oil and butter in a large skillet over high heat. Scatter half the beef in the skillet, QUICKLY spread it with tongs. Leave untouched for 30 seconds until browned. Turn beef quickly (as best you can!). Leave untouched for 30 seconds to brown. Immediately remove onto a plate. Don&#39;t worry about pink bits and that it will be raw inside. Repeat with remaining beef. Set aside."
+- "Heat oil and butter in a large skillet over high heat. Scatter half the beef in the skillet, QUICKLY spread it with tongs. Leave untouched for 30 seconds until browned. Turn beef quickly (as best you can!). Leave untouched for 30 seconds to brown. Immediately remove onto a plate. Don't worry about pink bits and that it will be raw inside. Repeat with remaining beef. Set aside."
 - "Turn heat down to medium high. Add onions, paprika, cook for 1 minute, then add mushrooms, season with salt and pepper. Cook mushrooms until golden. Deglaze with white wine to get all golden bits off the bottom of the pan (this is flavor!). Add cream, bring to simmer, then reduce heat to medium low. Add more pasta water or cream if you want more sauce. Once the sauce thickens to the consistency of pouring cream, adjust salt and pepper to taste."
 - "Add pasta and beef back in. Stir for 3-4 minutes, then remove from stove immediately. Sprinkled with parsley, chives or spring onions if desired."
 categories:
@@ -83,7 +83,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 1. Cook pasta to almost al dente. Pasta will continue cook with sauce. Save 1 cup of pasta water to use in sauce if needed.
 1. Use your fist (or rolling pin) to flatten the steaks to about 3-4cm thick. Slice into 5mm strips (cut long ones in half), discarding excess fat. Sprinkle with a pinch of salt and pepper.
-1. Heat oil and butter in a large skillet over high heat. Scatter half the beef in the skillet, QUICKLY spread it with tongs. Leave untouched for 30 seconds until browned. Turn beef quickly (as best you can!). Leave untouched for 30 seconds to brown. Immediately remove onto a plate. Don&#39;t worry about pink bits and that it will be raw inside. Repeat with remaining beef. Set aside.
+1. Heat oil and butter in a large skillet over high heat. Scatter half the beef in the skillet, QUICKLY spread it with tongs. Leave untouched for 30 seconds until browned. Turn beef quickly (as best you can!). Leave untouched for 30 seconds to brown. Immediately remove onto a plate. Don't worry about pink bits and that it will be raw inside. Repeat with remaining beef. Set aside.
 1. Turn heat down to medium high. Add onions, paprika, cook for 1 minute, then add mushrooms, season with salt and pepper. Cook mushrooms until golden. Deglaze with white wine to get all golden bits off the bottom of the pan (this is flavor!). Add cream, bring to simmer, then reduce heat to medium low. Add more pasta water or cream if you want more sauce. Once the sauce thickens to the consistency of pouring cream, adjust salt and pepper to taste.
 1. Add pasta and beef back in. Stir for 3-4 minutes, then remove from stove immediately. Sprinkled with parsley, chives or spring onions if desired.
 

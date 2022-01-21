@@ -40,7 +40,7 @@ recipeinstructions:
 - "Heat 1 tsp ghee in a pan, add in cloves, cinnamon and star anise, stir once and add in chopped cashew nuts, almonds, walnuts, raisins and capsicum and saute till capsicum becomes little soft"
 - "Now add in blanched french beans and carrot, mix everything well"
 - "In the same pan make some space in the centre (like shown in the pieces below) and add in 1/2 tsp of ghee, let it become hot, then add in black pepper powder and mix everything well by adding required amount of salt (at this stage add salt required only for vegetables and nuts)"
-- "Now add in both the portions of cooked rice, fruits and required amount of salt (here add salt required for rice &amp; fruits), keep low flame"
+- "Now add in both the portions of cooked rice, fruits and required amount of salt (here add salt required for rice & fruits), keep low flame"
 - "Stir well while combining everything on high flame for 1 minute"
 - "Remove from the heat and serve with yellow dal"
 categories:
@@ -112,7 +112,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 1. Heat 1 tsp ghee in a pan, add in cloves, cinnamon and star anise, stir once and add in chopped cashew nuts, almonds, walnuts, raisins and capsicum and saute till capsicum becomes little soft
 1. Now add in blanched french beans and carrot, mix everything well
 1. In the same pan make some space in the centre (like shown in the pieces below) and add in 1/2 tsp of ghee, let it become hot, then add in black pepper powder and mix everything well by adding required amount of salt (at this stage add salt required only for vegetables and nuts)
-1. Now add in both the portions of cooked rice, fruits and required amount of salt (here add salt required for rice &amp; fruits), keep low flame
+1. Now add in both the portions of cooked rice, fruits and required amount of salt (here add salt required for rice & fruits), keep low flame
 1. Stir well while combining everything on high flame for 1 minute
 1. Remove from the heat and serve with yellow dal
 

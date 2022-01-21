@@ -17,7 +17,7 @@ recipeingredient:
 recipeinstructions:
 - "Soak the dried prunes in red wine overnight."
 - "Add the wine soaked dried prunes, sugar, and lemon juice into a pot. Simmer while mashing with a wooden spatula."
-- "When it becomes your preferred thickness, it&#39;s done! Pour it into a clean bottle, and store."
+- "When it becomes your preferred thickness, it's done! Pour it into a clean bottle, and store."
 categories:
 - Recipe
 tags:
@@ -65,7 +65,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 
 1. Soak the dried prunes in red wine overnight.
 1. Add the wine soaked dried prunes, sugar, and lemon juice into a pot. Simmer while mashing with a wooden spatula.
-1. When it becomes your preferred thickness, it&#39;s done! Pour it into a clean bottle, and store.
+1. When it becomes your preferred thickness, it's done! Pour it into a clean bottle, and store.
 
 
 

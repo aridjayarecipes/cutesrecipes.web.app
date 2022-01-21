@@ -81,7 +81,7 @@ To begin with this recipe, we have to prepare a few components. You can cook spi
 1. Prepare 5-6 garlic cloves sliced
 
 
-They can be found on Bionis&#39; Leg. According to their description, they are packed with nutrients, but they are tricky to prepare properly as they are complex vegetables. This spiced up cabbage sabzi makes a healthy, flavoursome side dish for rotis and chapatis. Spicy Cabbage Sabzi - Healthy Cabbage Recipes. 
+They can be found on Bionis' Leg. According to their description, they are packed with nutrients, but they are tricky to prepare properly as they are complex vegetables. This spiced up cabbage sabzi makes a healthy, flavoursome side dish for rotis and chapatis. Spicy Cabbage Sabzi - Healthy Cabbage Recipes. 
 
 <!--inarticleads2-->
 
@@ -93,6 +93,6 @@ They can be found on Bionis&#39; Leg. According to their description, they are p
 1. Enjoy after garnishing coriander leaves.stay safe stay healthy and happy with me.
 
 
-This spiced up cabbage sabzi makes a healthy, flavoursome side dish for rotis and chapatis. Spicy Cabbage Sabzi - Healthy Cabbage Recipes. Download stock pictures of Spicy cabbage on Depositphotos Photo stock for commercial use - millions of. Royalty-free Images of Spicy cabbage, Spicy cabbage Stock Photos &amp; Pictures. With cool, crunchy cabbage and a zesty Asian dressing, this is not your ordinary chicken salad. 
+This spiced up cabbage sabzi makes a healthy, flavoursome side dish for rotis and chapatis. Spicy Cabbage Sabzi - Healthy Cabbage Recipes. Download stock pictures of Spicy cabbage on Depositphotos Photo stock for commercial use - millions of. Royalty-free Images of Spicy cabbage, Spicy cabbage Stock Photos & Pictures. With cool, crunchy cabbage and a zesty Asian dressing, this is not your ordinary chicken salad. 
 
 So that is going to wrap this up for this exceptional food spicy cabbage recipe. Thanks so much for your time. I am sure that you can make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

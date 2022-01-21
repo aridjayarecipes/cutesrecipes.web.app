@@ -63,7 +63,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Make ready 1/3 cup honey
 
 
-Full ingredient &amp; nutrition information of the Honey and Soy Glazed Salmon Calories. Roasted broccoli &amp; jerk-spiced carrot fries, almonds. All ingredients in this recipe: Salmon fillets, Honey-citrus glaze (orange juice, pineapple juice, lime juice, honey, cilantro, granulated garlic, ginger puree [organic ginger], apple cider vinegar [raw and. This salmon could not be easier OR prettier— it doesn&#39;t even need to marinate! 
+Full ingredient & nutrition information of the Honey and Soy Glazed Salmon Calories. Roasted broccoli & jerk-spiced carrot fries, almonds. All ingredients in this recipe: Salmon fillets, Honey-citrus glaze (orange juice, pineapple juice, lime juice, honey, cilantro, granulated garlic, ginger puree [organic ginger], apple cider vinegar [raw and. This salmon could not be easier OR prettier— it doesn't even need to marinate! 
 
 <!--inarticleads2-->
 
@@ -74,6 +74,6 @@ Full ingredient &amp; nutrition information of the Honey and Soy Glazed Salmon C
 1. Carefully peel the skin off the fillets and lay them seared-side up in the pan. Spoon the glaze over the salmon. Let the fish finish cooking as the glaze thickens, about 2 minutes. Serve the salmon atop some simply steamed veg with a side of steamed rice.
 
 
-All ingredients in this recipe: Salmon fillets, Honey-citrus glaze (orange juice, pineapple juice, lime juice, honey, cilantro, granulated garlic, ginger puree [organic ginger], apple cider vinegar [raw and. This salmon could not be easier OR prettier— it doesn&#39;t even need to marinate! Toss together the glaze, pour it on and cut up the citrus in your fruit Cut small slices of your citrus fruits and arrange over the glazed salmon. I used oranges, blood oranges and a lemon. In a bowl mix: soy sauce, sriracha, honey, garlic, smoked paprika and orange juice, mix well. 
+All ingredients in this recipe: Salmon fillets, Honey-citrus glaze (orange juice, pineapple juice, lime juice, honey, cilantro, granulated garlic, ginger puree [organic ginger], apple cider vinegar [raw and. This salmon could not be easier OR prettier— it doesn't even need to marinate! Toss together the glaze, pour it on and cut up the citrus in your fruit Cut small slices of your citrus fruits and arrange over the glazed salmon. I used oranges, blood oranges and a lemon. In a bowl mix: soy sauce, sriracha, honey, garlic, smoked paprika and orange juice, mix well. 
 
 So that's going to wrap it up with this special food citrus and honey glazed salmon recipe. Thank you very much for reading. I am confident you can make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

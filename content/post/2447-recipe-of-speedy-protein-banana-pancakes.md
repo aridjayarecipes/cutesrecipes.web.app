@@ -68,7 +68,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 1. Get  whey protein
 
 
-Plus, they are high in protein and fibre, making for an ultra filling breakfast. Adding oatmeal creates the most "pancakey" consistency. This is a good option if you&#39;re looking to hit your carb goals, or just want to feel fuller for longer. Protein Banana Pancakes! … with extra bananas, blackberries, chocolate chips and a good drizzle of honey on top! 
+Plus, they are high in protein and fibre, making for an ultra filling breakfast. Adding oatmeal creates the most "pancakey" consistency. This is a good option if you're looking to hit your carb goals, or just want to feel fuller for longer. Protein Banana Pancakes! … with extra bananas, blackberries, chocolate chips and a good drizzle of honey on top! 
 
 <!--inarticleads2-->
 
@@ -82,6 +82,6 @@ Plus, they are high in protein and fibre, making for an ultra filling breakfast.
 1. Well done, pour 5 grams of honey and topping on your pancakes!
 
 
-This is a good option if you&#39;re looking to hit your carb goals, or just want to feel fuller for longer. Protein Banana Pancakes! … with extra bananas, blackberries, chocolate chips and a good drizzle of honey on top! Because shouldn&#39;t every pancake creation come with lots of topping goodness? Protein pancakes are a healthy and well-balanced breakfast idea for a healthy lifestyle. I&#39;m going bananas over these High Protein Banana Pancakes! 
+This is a good option if you're looking to hit your carb goals, or just want to feel fuller for longer. Protein Banana Pancakes! … with extra bananas, blackberries, chocolate chips and a good drizzle of honey on top! Because shouldn't every pancake creation come with lots of topping goodness? Protein pancakes are a healthy and well-balanced breakfast idea for a healthy lifestyle. I'm going bananas over these High Protein Banana Pancakes! 
 
 So that is going to wrap this up with this exceptional food protein banana pancakes! recipe. Thank you very much for reading. I am sure that you will make this at home. There's gonna be interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

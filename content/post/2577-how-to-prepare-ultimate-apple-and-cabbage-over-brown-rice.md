@@ -72,7 +72,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 1. Prepare  large deep frying pan
 
 
-I&#39;d had Red Cabbage with Apples in a German restaurant and really loved it. This recipe was so close to it and really good. I used another reviewers suggestion and used apple cider vinegar (instead of white) and brown sugar (instead of white). Brown the meat, then add all of the ingredients, except the cabbage. 
+I'd had Red Cabbage with Apples in a German restaurant and really loved it. This recipe was so close to it and really good. I used another reviewers suggestion and used apple cider vinegar (instead of white) and brown sugar (instead of white). Brown the meat, then add all of the ingredients, except the cabbage. 
 
 <!--inarticleads2-->
 

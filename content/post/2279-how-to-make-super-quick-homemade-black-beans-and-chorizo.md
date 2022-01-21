@@ -57,7 +57,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. Get 2 tsp cooking oil
 
 
-It only takes half an hour to make your own green chorizo, but you can substitute any kind of fresh (uncured) store-bought sausage, as long as it&#39;s got a. I made this with black beans because it is in the spirit of a Mexican Salsa, but any beans would be great. Though if you are planning to use it as a PS I didn&#39;t use Mexican Chorizo because we don&#39;t get them here in Australia. But both Spanish and Mexican Chorizo do pack a similar flavour punch. 
+It only takes half an hour to make your own green chorizo, but you can substitute any kind of fresh (uncured) store-bought sausage, as long as it's got a. I made this with black beans because it is in the spirit of a Mexican Salsa, but any beans would be great. Though if you are planning to use it as a PS I didn't use Mexican Chorizo because we don't get them here in Australia. But both Spanish and Mexican Chorizo do pack a similar flavour punch. 
 
 <!--inarticleads2-->
 
@@ -70,6 +70,6 @@ It only takes half an hour to make your own green chorizo, but you can substitut
 1. Serve alone, on hot dogs or with any entreé that goes with beans.
 
 
-Though if you are planning to use it as a PS I didn&#39;t use Mexican Chorizo because we don&#39;t get them here in Australia. But both Spanish and Mexican Chorizo do pack a similar flavour punch. An easy, colorful combination of cured Spanish chorizo, black beans, and tomatoes with green chiles add big flavor to this one-pot rice dish. Heat olive oil in a pan over medium-high heat. The chorizo in this Instant Pot Black Beans and Chorizo Soup makes this soup a full meal. 
+Though if you are planning to use it as a PS I didn't use Mexican Chorizo because we don't get them here in Australia. But both Spanish and Mexican Chorizo do pack a similar flavour punch. An easy, colorful combination of cured Spanish chorizo, black beans, and tomatoes with green chiles add big flavor to this one-pot rice dish. Heat olive oil in a pan over medium-high heat. The chorizo in this Instant Pot Black Beans and Chorizo Soup makes this soup a full meal. 
 
 So that is going to wrap it up for this special food black beans and chorizo recipe. Thank you very much for reading. I am sure that you can make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

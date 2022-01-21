@@ -16,7 +16,7 @@ recipeinstructions:
 - "Pry open the pomegranate in a bowl of water, and pry away the arils. If you pry away the arils outside of the water, the juice will splatter, so be careful. If it splatters on your clothes, it will stain them."
 - "The arils will sink to the bottom, so skim the floating membranes and discard."
 - "Drain the water, and pat the arils dry with paper towels. The seeds are packed with fiber. Enjoy eating the seeds, too! You can store them in the fridge for 2 to 3 days!"
-- "Storing Method: Spread the arils on a sheet of parchment paper and leave them in the freezer for 2 hours. Take them out and seal them in a zip bag. They won&#39;t stick to each other while stored, so you can conveniently use them as you need."
+- "Storing Method: Spread the arils on a sheet of parchment paper and leave them in the freezer for 2 hours. Take them out and seal them in a zip bag. They won't stick to each other while stored, so you can conveniently use them as you need."
 categories:
 - Recipe
 tags:
@@ -63,7 +63,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Pry open the pomegranate in a bowl of water, and pry away the arils. If you pry away the arils outside of the water, the juice will splatter, so be careful. If it splatters on your clothes, it will stain them.
 1. The arils will sink to the bottom, so skim the floating membranes and discard.
 1. Drain the water, and pat the arils dry with paper towels. The seeds are packed with fiber. Enjoy eating the seeds, too! You can store them in the fridge for 2 to 3 days!
-1. Storing Method: Spread the arils on a sheet of parchment paper and leave them in the freezer for 2 hours. Take them out and seal them in a zip bag. They won&#39;t stick to each other while stored, so you can conveniently use them as you need.
+1. Storing Method: Spread the arils on a sheet of parchment paper and leave them in the freezer for 2 hours. Take them out and seal them in a zip bag. They won't stick to each other while stored, so you can conveniently use them as you need.
 
 
 

@@ -66,7 +66,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Get 2 tbsp Curry Powder Mix (coriander, chilli, cumin, fennel, tumeric, white pepper, cinnamon, black pepper, cardamon, star anise, nutmeg, bay leaf, clove)
 1. Prepare  Chopped Nuts (candlenut, macadamia, cashews or almonds) to thicken
 1. Take  Small amount of water to blend
-1. Make ready  Fruits &amp; Vegetables
+1. Make ready  Fruits & Vegetables
 1. Prepare  Apple chopped
 1. Take  Carrots chopped
 1. Take 1/2 cup water

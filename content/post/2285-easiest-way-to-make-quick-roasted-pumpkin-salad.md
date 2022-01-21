@@ -90,6 +90,6 @@ This recipe for Maple Roasted Pumpkin Salad makes a great fall salad for enterta
 1. Drizzle with vinaigrette. Serve with flat bread and top with smoked tofu
 
 
-This Low-Carb Roasted Pumpkin Salad recipe puts the tastes of fall on your table. This recipe can be a part of a low-carb, keto, Atkins, diabetic, grain-free, gluten-free, dairy-free or Banting Diet. This roasted pumpkin salad with pecans, cranberries and feta is the perfect side dish. It&#39;s colorful and fresh and bursting with flavor. You know that weird thing where some people think salads are boring? 
+This Low-Carb Roasted Pumpkin Salad recipe puts the tastes of fall on your table. This recipe can be a part of a low-carb, keto, Atkins, diabetic, grain-free, gluten-free, dairy-free or Banting Diet. This roasted pumpkin salad with pecans, cranberries and feta is the perfect side dish. It's colorful and fresh and bursting with flavor. You know that weird thing where some people think salads are boring? 
 
 So that is going to wrap this up for this exceptional food roasted pumpkin salad recipe. Thank you very much for reading. I'm confident you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

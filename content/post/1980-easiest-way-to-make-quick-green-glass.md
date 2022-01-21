@@ -69,7 +69,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Prepare 1/2 tsp Sugar
 
 
-I&#39;m going through the green glass doors and I&#39;m bringing Harry Potter, but not Ron Weasley. Have you figured it out yet? The Green Glass Door, frequently played as a drinking game, is also used as an icebreaker, in classrooms, and as a party game. The game requires at least three players. 
+I'm going through the green glass doors and I'm bringing Harry Potter, but not Ron Weasley. Have you figured it out yet? The Green Glass Door, frequently played as a drinking game, is also used as an icebreaker, in classrooms, and as a party game. The game requires at least three players. 
 
 <!--inarticleads2-->
 

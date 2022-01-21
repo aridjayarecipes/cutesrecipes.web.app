@@ -96,6 +96,6 @@ Rolled Plaice fillets with a crab mousse line stuffing fit for the finest dinner
 1. return to oven for 20 minutes or until fish is cooked.
 
 
-Next cut the fish fillets in half lengthways and spread an equal quantity of the mushroom mixture on the skinned side of each piece. Roll up the fillets from the head to the tail end and place closely together. This video shows how easy it is to stuff the fish fillets with the mushroom filling before they go in. Download stock pictures of Plaice fillet on Depositphotos Photo stock for commercial use - millions of high-quality. Royalty-free Images of Plaice fillet, Plaice fillet Stock Photos &amp; Pictures. 
+Next cut the fish fillets in half lengthways and spread an equal quantity of the mushroom mixture on the skinned side of each piece. Roll up the fillets from the head to the tail end and place closely together. This video shows how easy it is to stuff the fish fillets with the mushroom filling before they go in. Download stock pictures of Plaice fillet on Depositphotos Photo stock for commercial use - millions of high-quality. Royalty-free Images of Plaice fillet, Plaice fillet Stock Photos & Pictures. 
 
 So that is going to wrap this up with this special food stuffed plaice fillets recipe. Thanks so much for your time. I am confident that you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

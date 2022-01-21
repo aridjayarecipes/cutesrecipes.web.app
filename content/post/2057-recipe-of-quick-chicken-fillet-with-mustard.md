@@ -43,7 +43,7 @@ Hey everyone, I hope you're having an amazing day today. Today, I'm gonna show y
 
 Chicken fillet with mustard is one of the most favored of current trending foods on earth. It's enjoyed by millions every day. It's easy, it's fast, it tastes delicious. They are fine and they look fantastic. Chicken fillet with mustard is something that I've loved my whole life.
 
-Cooking with Greek chef Petros Kalevrosoglou Today&#39;s Recipe : Chicken fillet with mustard and cream Enjoy. Wash thoroughly the parts of chicken. Combine all the ingredients and put them in a bowl. Use the mixture and spread the chicken fillets with it. Готовлю куриное филе (с французской горчицей)/Cooking chicken fillet (with French mustard)/요리 닭 필레.
+Cooking with Greek chef Petros Kalevrosoglou Today's Recipe : Chicken fillet with mustard and cream Enjoy. Wash thoroughly the parts of chicken. Combine all the ingredients and put them in a bowl. Use the mixture and spread the chicken fillets with it. Готовлю куриное филе (с французской горчицей)/Cooking chicken fillet (with French mustard)/요리 닭 필레.
 
 
 To get started with this recipe, we must first prepare a few components. You can cook chicken fillet with mustard using 6 ingredients and 2 steps. Here is how you cook it.

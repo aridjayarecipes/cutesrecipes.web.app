@@ -25,7 +25,7 @@ recipeinstructions:
 - "Spray your slow cooker with nonstick cooking spray. Add the cubed up Pork chunks and sliced onion. In a small bowl mix together the beef broth, water, onion powder, salt and pepper, and gravy mix til combined and pour over meat and onion. Turn cooker on High and cook for 3-4hours, stirring ever so often."
 - "While cooker is going in large pot add the rice and 6 cups of water and add 1Tbsp. Salt. Bring to a boil stirring occasionally. Once to a boil turn heat to medium low n let simmer til rice is tender, stirring often. Then set aside n keep warm."
 - "In another large pot add the brussel sprouts and some water to cover then add 1tsp. salt. Bring to a boil and cook til tender. Drain and add the butter and lemon pepper seasoning. Mix til combined. Set aside til ready to serve."
-- "Check meat to see if it&#39;s tender. If so turn down to keep warm. To serve: add a couple spoonfuls of rice... Add some of the pork tips and onions over rice with some of the sauce... Then serve with the brussel sprouts. Enjoy."
+- "Check meat to see if it's tender. If so turn down to keep warm. To serve: add a couple spoonfuls of rice... Add some of the pork tips and onions over rice with some of the sauce... Then serve with the brussel sprouts. Enjoy."
 categories:
 - Recipe
 tags:
@@ -81,7 +81,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Spray your slow cooker with nonstick cooking spray. Add the cubed up Pork chunks and sliced onion. In a small bowl mix together the beef broth, water, onion powder, salt and pepper, and gravy mix til combined and pour over meat and onion. Turn cooker on High and cook for 3-4hours, stirring ever so often.
 1. While cooker is going in large pot add the rice and 6 cups of water and add 1Tbsp. Salt. Bring to a boil stirring occasionally. Once to a boil turn heat to medium low n let simmer til rice is tender, stirring often. Then set aside n keep warm.
 1. In another large pot add the brussel sprouts and some water to cover then add 1tsp. salt. Bring to a boil and cook til tender. Drain and add the butter and lemon pepper seasoning. Mix til combined. Set aside til ready to serve.
-1. Check meat to see if it&#39;s tender. If so turn down to keep warm. To serve: add a couple spoonfuls of rice... Add some of the pork tips and onions over rice with some of the sauce... Then serve with the brussel sprouts. Enjoy.
+1. Check meat to see if it's tender. If so turn down to keep warm. To serve: add a couple spoonfuls of rice... Add some of the pork tips and onions over rice with some of the sauce... Then serve with the brussel sprouts. Enjoy.
 
 
 

@@ -22,7 +22,7 @@ recipeingredient:
 - "1/2 cup chopped walnuts"
 recipeinstructions:
 - "Preheat the oven to 375°F. Grease a 9x9" baking pan and set it aside."
-- "In a large bowl, mash the Bananas, then whisk in the eggs, vanilla, brown sugar, cinnamon, baking powder and salt. Then once that&#39;s combined, whisk in the milk. Last, fold in the oats and walnuts. Pour out the mixture into the baking pan."
+- "In a large bowl, mash the Bananas, then whisk in the eggs, vanilla, brown sugar, cinnamon, baking powder and salt. Then once that's combined, whisk in the milk. Last, fold in the oats and walnuts. Pour out the mixture into the baking pan."
 - "Bake for 35-40 minutes, until the edges are golden and the top is set. Let it cool a bit before you slice it into 9 squares. Refrigerate any leftovers."
 categories:
 - Recipe
@@ -76,7 +76,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have banan
 ##### Instructions to make Banana Bread Baked Oatmeal:
 
 1. Preheat the oven to 375°F. Grease a 9x9" baking pan and set it aside.
-1. In a large bowl, mash the Bananas, then whisk in the eggs, vanilla, brown sugar, cinnamon, baking powder and salt. Then once that&#39;s combined, whisk in the milk. Last, fold in the oats and walnuts. Pour out the mixture into the baking pan.
+1. In a large bowl, mash the Bananas, then whisk in the eggs, vanilla, brown sugar, cinnamon, baking powder and salt. Then once that's combined, whisk in the milk. Last, fold in the oats and walnuts. Pour out the mixture into the baking pan.
 1. Bake for 35-40 minutes, until the edges are golden and the top is set. Let it cool a bit before you slice it into 9 squares. Refrigerate any leftovers.
 
 

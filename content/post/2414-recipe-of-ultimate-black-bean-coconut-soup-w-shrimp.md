@@ -27,7 +27,7 @@ recipeinstructions:
 - "Pour in coconut milk and water then stir lightly"
 - "Sprinkle in Sazon, add broccoli, and shrimp. Then lower fire to simmer."
 - "Simmer for about 30 to min."
-- "Option #2: Remove shrimp, puree cooked soup &amp; veggies"
+- "Option #2: Remove shrimp, puree cooked soup & veggies"
 - "Strain soup, then add shrimp back to soup"
 categories:
 - Recipe
@@ -86,7 +86,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Pour in coconut milk and water then stir lightly
 1. Sprinkle in Sazon, add broccoli, and shrimp. Then lower fire to simmer.
 1. Simmer for about 30 to min.
-1. Option #2: Remove shrimp, puree cooked soup &amp; veggies
+1. Option #2: Remove shrimp, puree cooked soup & veggies
 1. Strain soup, then add shrimp back to soup
 
 

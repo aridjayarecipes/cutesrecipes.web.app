@@ -38,7 +38,7 @@ recipecategory: Lunch
 
 Hello everybody, it's Drew, welcome to my recipe site. Today, I'm gonna show you how to prepare a special dish, banana smoothie. It is one of my favorites. This time, I will make it a bit tasty. This is gonna smell and look delicious.
 
-Banana smoothies make excellent breakfasts, mid-day snacks, and hangover cures. Since bananas blend so well with other flavors, it&#39;s easy to create a smoothie to satisfy your particular tastes. Learn how to make the best banana smoothie, with protein and fiber to give you energy for your day! This smoothie recipe is delicious as written, but it can also be used as a base for other smoothie recipes.
+Banana smoothies make excellent breakfasts, mid-day snacks, and hangover cures. Since bananas blend so well with other flavors, it's easy to create a smoothie to satisfy your particular tastes. Learn how to make the best banana smoothie, with protein and fiber to give you energy for your day! This smoothie recipe is delicious as written, but it can also be used as a base for other smoothie recipes.
 
 Banana smoothie is one of the most popular of recent trending meals in the world. It is appreciated by millions every day. It's easy, it is fast, it tastes delicious. They're nice and they look fantastic. Banana smoothie is something that I have loved my entire life.
 

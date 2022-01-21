@@ -1,6 +1,6 @@
 ---
-description: "Steps to Prepare Favorite Vegan Spinach and &amp;#39;Ricotta&amp;#39; Cannelloni"
-title: "Steps to Prepare Favorite Vegan Spinach and &amp;#39;Ricotta&amp;#39; Cannelloni"
+description: "Steps to Prepare Favorite Vegan Spinach and &#39;Ricotta&#39; Cannelloni"
+title: "Steps to Prepare Favorite Vegan Spinach and &#39;Ricotta&#39; Cannelloni"
 slug: 1748-steps-to-prepare-favorite-vegan-spinach-and-and-39-ricotta-and-39-cannelloni
 date: 2022-03-27T15:18:46.597Z
 image: https://img-global.cpcdn.com/recipes/6c2e850e291126cc/680x482cq70/vegan-spinach-and-ricotta-cannelloni-recipe-main-photo.jpg
@@ -41,7 +41,7 @@ recipeinstructions:
 - "Mix pasta ingredients to make a flaky dough...turn out onto floured surface and knead until a ball of smooth pasta dough is achieved (wet hands or sprinkle more flour as required if dough is too dry or too sticky)....rest the dough for 1/2 hour under damp tea towel...cut into manageable pieces and use pasta machine to roll pasta into lasagne sheets....cut sheets into squares and lay out for filling and rolling....Nb. only half of dough needed for this recipe. Store other half for other meals."
 - "Marinate crumbled tofu in onion, garlic, and lemon juice for 1 hour...blend cashews, yeast, yogurt and salt...lightly fry tofu mixture over light heat until onions are clear. Allow to cool slightly before combining with cashew mixture in a medium bowl....add shredded spinach and nutmeg...stir to combine...spoon filling onto the lasagne squares and roll them up."
 - "Saute chopped onion, garlic, and finely chopped silverbeet stems (if using) for 1-2 minutes....put a thin layer of passata sauce along bottom of a rectangular casserole dish...add remainder of passata to the onion mix...shake a bit of water in the jar to remove all sauce and add to frypan...simmer for 5-10 minutes."
-- "Lay filled pasta rolls, seam side down, into the casserole dish and cover with tomato sauce...top with a sprinkling of vegan &#39;parmesan&#39; and bake for 45 min at 180 degrees celcius."
+- "Lay filled pasta rolls, seam side down, into the casserole dish and cover with tomato sauce...top with a sprinkling of vegan 'parmesan' and bake for 45 min at 180 degrees celcius."
 - "To make vegan parmesan blend all ingredients until a fine powder is achieved. Can store in a jar in the fridge or pantry for lifespan of nuts."
 categories:
 - Recipe
@@ -61,26 +61,26 @@ recipecategory: Dinner
 ---
 
 
-![Vegan Spinach and &#39;Ricotta&#39; Cannelloni](https://img-global.cpcdn.com/recipes/6c2e850e291126cc/680x482cq70/vegan-spinach-and-ricotta-cannelloni-recipe-main-photo.jpg)
+![Vegan Spinach and 'Ricotta' Cannelloni](https://img-global.cpcdn.com/recipes/6c2e850e291126cc/680x482cq70/vegan-spinach-and-ricotta-cannelloni-recipe-main-photo.jpg)
 
-Hello everybody, it's Drew, welcome to our recipe page. Today, I'm gonna show you how to prepare a distinctive dish, vegan spinach and &#39;ricotta&#39; cannelloni. It is one of my favorites food recipes. This time, I'm gonna make it a bit unique. This is gonna smell and look delicious.
+Hello everybody, it's Drew, welcome to our recipe page. Today, I'm gonna show you how to prepare a distinctive dish, vegan spinach and 'ricotta' cannelloni. It is one of my favorites food recipes. This time, I'm gonna make it a bit unique. This is gonna smell and look delicious.
 
-Vegan Spinach and &#39;Ricotta&#39; Cannelloni is one of the most favored of recent trending meals in the world. It is appreciated by millions daily. It is easy, it's quick, it tastes yummy. Vegan Spinach and &#39;Ricotta&#39; Cannelloni is something which I've loved my entire life. They are fine and they look wonderful.
-
-
+Vegan Spinach and 'Ricotta' Cannelloni is one of the most favored of recent trending meals in the world. It is appreciated by millions daily. It is easy, it's quick, it tastes yummy. Vegan Spinach and 'Ricotta' Cannelloni is something which I've loved my entire life. They are fine and they look wonderful.
 
 
-To get started with this particular recipe, we must first prepare a few ingredients. You can cook vegan spinach and &#39;ricotta&#39; cannelloni using 27 ingredients and 5 steps. Here is how you cook it.
+
+
+To get started with this particular recipe, we must first prepare a few ingredients. You can cook vegan spinach and 'ricotta' cannelloni using 27 ingredients and 5 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Vegan Spinach and &#39;Ricotta&#39; Cannelloni:
+##### The ingredients needed to make Vegan Spinach and 'Ricotta' Cannelloni:
 
 1. Get  Cannelloni Pasta (or store bought)
 1. Prepare 2 cups high grade flour
 1. Get 1/2 cup reduced aquafaba (chickpea liquid)
 1. Prepare 1 Tbsp virgin olive oil
-1. Take  Spinach and &#39;Ricotta&#39; Filling
+1. Take  Spinach and 'Ricotta' Filling
 1. Take 1 1/2-2 cups hard tofu crumbled
 1. Get 1 onion, finely chopped
 1. Take 3 cloves garlic, crushed
@@ -109,15 +109,15 @@ To get started with this particular recipe, we must first prepare a few ingredie
 
 <!--inarticleads2-->
 
-##### Steps to make Vegan Spinach and &#39;Ricotta&#39; Cannelloni:
+##### Steps to make Vegan Spinach and 'Ricotta' Cannelloni:
 
 1. Mix pasta ingredients to make a flaky dough...turn out onto floured surface and knead until a ball of smooth pasta dough is achieved (wet hands or sprinkle more flour as required if dough is too dry or too sticky)....rest the dough for 1/2 hour under damp tea towel...cut into manageable pieces and use pasta machine to roll pasta into lasagne sheets....cut sheets into squares and lay out for filling and rolling....Nb. only half of dough needed for this recipe. Store other half for other meals.
 1. Marinate crumbled tofu in onion, garlic, and lemon juice for 1 hour...blend cashews, yeast, yogurt and salt...lightly fry tofu mixture over light heat until onions are clear. Allow to cool slightly before combining with cashew mixture in a medium bowl....add shredded spinach and nutmeg...stir to combine...spoon filling onto the lasagne squares and roll them up.
 1. Saute chopped onion, garlic, and finely chopped silverbeet stems (if using) for 1-2 minutes....put a thin layer of passata sauce along bottom of a rectangular casserole dish...add remainder of passata to the onion mix...shake a bit of water in the jar to remove all sauce and add to frypan...simmer for 5-10 minutes.
-1. Lay filled pasta rolls, seam side down, into the casserole dish and cover with tomato sauce...top with a sprinkling of vegan &#39;parmesan&#39; and bake for 45 min at 180 degrees celcius.
+1. Lay filled pasta rolls, seam side down, into the casserole dish and cover with tomato sauce...top with a sprinkling of vegan 'parmesan' and bake for 45 min at 180 degrees celcius.
 1. To make vegan parmesan blend all ingredients until a fine powder is achieved. Can store in a jar in the fridge or pantry for lifespan of nuts.
 
 
 
 
-So that's going to wrap this up for this special food vegan spinach and &#39;ricotta&#39; cannelloni recipe. Thank you very much for reading. I'm sure you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!
+So that's going to wrap this up for this special food vegan spinach and 'ricotta' cannelloni recipe. Thank you very much for reading. I'm sure you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -28,7 +28,7 @@ recipeinstructions:
 - "In a large skillet, heat 1 tbsp. of the oil over medium heat. Once hot, add the peppers and onions and cook, stirring often, until they have begun to soften, about 3-4 minutes. Stir in the garlic and spinach and cook, stirring often, until the spinach wilts."
 - "Add the black beans and seasonings to the skillet and cook just 2 or so minutes more, then remove from heat and transfer the bean mixture to a large bowl."
 - "Stir the cilantro, lime juice and cheese into the bean mixture. Return the skillet to the heat and add the additional 2 tbsp. of oil to it."
-- "Prepare the quesadillas by placing 1/4 of the bean and cheese mixture over one half of each tortilla, then fold the other half over it, so it&#39;s a half circle."
+- "Prepare the quesadillas by placing 1/4 of the bean and cheese mixture over one half of each tortilla, then fold the other half over it, so it's a half circle."
 - "Once the oil is hot and shimmering, add the quesadilla carefully to the skillet. Cook for 2-3 minutes, or until golden, then flip it carefully and cook the other side for 2-3 minutes, until golden and the cheese is all melted."
 - "Slice into thirds using a large, sharp knife and serve immediately."
 categories:
@@ -89,7 +89,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. In a large skillet, heat 1 tbsp. of the oil over medium heat. Once hot, add the peppers and onions and cook, stirring often, until they have begun to soften, about 3-4 minutes. Stir in the garlic and spinach and cook, stirring often, until the spinach wilts.
 1. Add the black beans and seasonings to the skillet and cook just 2 or so minutes more, then remove from heat and transfer the bean mixture to a large bowl.
 1. Stir the cilantro, lime juice and cheese into the bean mixture. Return the skillet to the heat and add the additional 2 tbsp. of oil to it.
-1. Prepare the quesadillas by placing 1/4 of the bean and cheese mixture over one half of each tortilla, then fold the other half over it, so it&#39;s a half circle.
+1. Prepare the quesadillas by placing 1/4 of the bean and cheese mixture over one half of each tortilla, then fold the other half over it, so it's a half circle.
 1. Once the oil is hot and shimmering, add the quesadilla carefully to the skillet. Cook for 2-3 minutes, or until golden, then flip it carefully and cook the other side for 2-3 minutes, until golden and the cheese is all melted.
 1. Slice into thirds using a large, sharp knife and serve immediately.
 

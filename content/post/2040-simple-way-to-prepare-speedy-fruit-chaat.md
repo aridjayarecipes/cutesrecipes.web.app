@@ -64,7 +64,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Get 1 tsp Chaat masala
 
 
-It&#39;s made with seasonal fruits, sugar, orange juice, and chaat masala for a hint of spice. See recipes for Bhelpuri, Fruit chaat (navratri special) too. Pakistani Fruit Chaat is a staple in the month of Ramadan, and is also commonly made throughout the year. It&#39;s a simple fruit salad made with assorted fruits, chaat masala, chickpeas, and orange juice. 
+It's made with seasonal fruits, sugar, orange juice, and chaat masala for a hint of spice. See recipes for Bhelpuri, Fruit chaat (navratri special) too. Pakistani Fruit Chaat is a staple in the month of Ramadan, and is also commonly made throughout the year. It's a simple fruit salad made with assorted fruits, chaat masala, chickpeas, and orange juice. 
 
 <!--inarticleads2-->
 
@@ -75,6 +75,6 @@ It&#39;s made with seasonal fruits, sugar, orange juice, and chaat masala for a 
 1. Serve immediately.
 
 
-Pakistani Fruit Chaat is a staple in the month of Ramadan, and is also commonly made throughout the year. It&#39;s a simple fruit salad made with assorted fruits, chaat masala, chickpeas, and orange juice. Fruit chaat is a popular street food that hails from Punjab and Delhi. The fruit chaat can be a mix of any fruits of your preference with a dash of lemon juice, salt and chaat masala added to it. fruit chaat recipe - this is a Delhi style tasty fruit chaat recipe which is spiced, savory, sweet and tangy. Fruit chaat is made of a mix of fresh seasonal fruits and tubers like potatoes and sweet. 
+Pakistani Fruit Chaat is a staple in the month of Ramadan, and is also commonly made throughout the year. It's a simple fruit salad made with assorted fruits, chaat masala, chickpeas, and orange juice. Fruit chaat is a popular street food that hails from Punjab and Delhi. The fruit chaat can be a mix of any fruits of your preference with a dash of lemon juice, salt and chaat masala added to it. fruit chaat recipe - this is a Delhi style tasty fruit chaat recipe which is spiced, savory, sweet and tangy. Fruit chaat is made of a mix of fresh seasonal fruits and tubers like potatoes and sweet. 
 
 So that's going to wrap it up with this special food fruit chaat recipe. Thank you very much for reading. I'm confident that you will make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

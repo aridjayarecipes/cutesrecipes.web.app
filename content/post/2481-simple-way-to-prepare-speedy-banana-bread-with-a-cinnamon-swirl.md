@@ -49,7 +49,7 @@ recipecategory: Dinner
 
 Hey everyone, it's Jim, welcome to our recipe site. Today, I'm gonna show you how to make a distinctive dish, banana bread with a cinnamon swirl. It is one of my favorites food recipes. This time, I am going to make it a little bit unique. This will be really delicious.
 
-Super-moist banana bread with a thick cinnamon swirl and topped with vanilla glaze. Soon enough, you&#39;ll be graced with an alluring scent wafting through the house and one fine lookin&#39; bread ready in the oven. CINNAMON SWIRL BANANA LOAFCinnamon swirl banana bread is simply the traditional banana bread recipe with delicious twist. Cinnamon Swirl Cream Cheese Banana Bread has a delicious cinnamon swirl and cheesecake filling with walnuts hidden I had some over ripe bananas and my favorite thing to do is to make a fresh loaf of banana bread.
+Super-moist banana bread with a thick cinnamon swirl and topped with vanilla glaze. Soon enough, you'll be graced with an alluring scent wafting through the house and one fine lookin' bread ready in the oven. CINNAMON SWIRL BANANA LOAFCinnamon swirl banana bread is simply the traditional banana bread recipe with delicious twist. Cinnamon Swirl Cream Cheese Banana Bread has a delicious cinnamon swirl and cheesecake filling with walnuts hidden I had some over ripe bananas and my favorite thing to do is to make a fresh loaf of banana bread.
 
 Banana bread with a cinnamon swirl is one of the most popular of current trending foods in the world. It is simple, it is fast, it tastes delicious. It is appreciated by millions every day. Banana bread with a cinnamon swirl is something which I've loved my whole life. They're fine and they look wonderful.
 
@@ -71,7 +71,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Make ready 1/4 cup brown sugar
 
 
-The swirls of cinnamon make it feel extra indulgent, like cinnamon buns in banana bread form. It&#39;s perfect on it&#39;s own, or with a dollop of almond or Pour half of the banana batter into the prepared pan. Drizzle half of the cinnamon mixture on top, then swirl it with a toothpick or tip of a knife. A vegan and moist banana bread made from bananas, a sweet cinnamon-sugar swirl and crunchy cinnamon crumble. 
+The swirls of cinnamon make it feel extra indulgent, like cinnamon buns in banana bread form. It's perfect on it's own, or with a dollop of almond or Pour half of the banana batter into the prepared pan. Drizzle half of the cinnamon mixture on top, then swirl it with a toothpick or tip of a knife. A vegan and moist banana bread made from bananas, a sweet cinnamon-sugar swirl and crunchy cinnamon crumble. 
 
 <!--inarticleads2-->
 

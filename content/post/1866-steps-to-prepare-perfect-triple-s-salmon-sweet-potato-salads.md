@@ -67,7 +67,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 1. Make ready 1 bit Parsley flakes
 
 
-From the broiled salmon and massaged kale to the tender sweet potatoes and creamy avocado - this is next-level amazing! Creamy sweet potato binds with flaky pan-seared salmon to create an uber-healthy sensational meal. And the dill sriracha sauce - you&#39;ll be putting it I love this meal so much because you&#39;ve got the tasty Sweet Potato Salmon Cakes, a healthy flavorful side and the dipping sauce that brings the whole. Try this Asian-inspired salmon supper with a nutty sesame dressing, crisp veg and comforting sweet potato mash. 
+From the broiled salmon and massaged kale to the tender sweet potatoes and creamy avocado - this is next-level amazing! Creamy sweet potato binds with flaky pan-seared salmon to create an uber-healthy sensational meal. And the dill sriracha sauce - you'll be putting it I love this meal so much because you've got the tasty Sweet Potato Salmon Cakes, a healthy flavorful side and the dipping sauce that brings the whole. Try this Asian-inspired salmon supper with a nutty sesame dressing, crisp veg and comforting sweet potato mash. 
 
 <!--inarticleads2-->
 
@@ -78,6 +78,6 @@ From the broiled salmon and massaged kale to the tender sweet potatoes and cream
 1. Turn on the oven around 200’c, prepare the sweet potato (cut it into wedges or desire). Add salt pepper, olive oil (a bit), parsley flakes and bake it around 40 min.
 
 
-And the dill sriracha sauce - you&#39;ll be putting it I love this meal so much because you&#39;ve got the tasty Sweet Potato Salmon Cakes, a healthy flavorful side and the dipping sauce that brings the whole. Try this Asian-inspired salmon supper with a nutty sesame dressing, crisp veg and comforting sweet potato mash. Remove the lime wedges and roughly mash the sweet potato using a fork. Mix in the remaining sesame oil, the chilli and some seasoning. For the salmon: Add the salmon skin side down to a baking sheet. 
+And the dill sriracha sauce - you'll be putting it I love this meal so much because you've got the tasty Sweet Potato Salmon Cakes, a healthy flavorful side and the dipping sauce that brings the whole. Try this Asian-inspired salmon supper with a nutty sesame dressing, crisp veg and comforting sweet potato mash. Remove the lime wedges and roughly mash the sweet potato using a fork. Mix in the remaining sesame oil, the chilli and some seasoning. For the salmon: Add the salmon skin side down to a baking sheet. 
 
 So that's going to wrap this up with this special food triple s (salmon, sweet potato, salads) recipe. Thanks so much for your time. I'm confident that you will make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

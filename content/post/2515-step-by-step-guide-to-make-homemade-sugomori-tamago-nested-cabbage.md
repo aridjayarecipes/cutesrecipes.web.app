@@ -25,7 +25,7 @@ recipeinstructions:
 - "Push the cabbage to the edges of your pan, in a circle shape, like a nest."
 - "Cook the egg in the middle of the cabbage nest as you like. I scramble mine and pour it in; you can crack yours straight in. Season your egg as you like, or with black pepper and a little salt."
 - "After adding the egg, put a lid onto your pan and steam for a minute or two if you can. Add some drops of water if necessary."
-- "Using a spatula, take your nest out. Don&#39;t turn your heat off yet - put a few more drops of olive oil in and cook your sausage. Pre-cooked sausages should only take a minute to heat up. If you&#39;re vegan or just limit your meat intake, try heating up a third of a cup of black beans or so instead. Add this onto your plate."
+- "Using a spatula, take your nest out. Don't turn your heat off yet - put a few more drops of olive oil in and cook your sausage. Pre-cooked sausages should only take a minute to heat up. If you're vegan or just limit your meat intake, try heating up a third of a cup of black beans or so instead. Add this onto your plate."
 - "Turn off your heat. Slice up your tomato cherubs or tomato slices to add on. Feel free to try something different to add on. Enjoy (^-^) !"
 categories:
 - Recipe
@@ -82,7 +82,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Push the cabbage to the edges of your pan, in a circle shape, like a nest.
 1. Cook the egg in the middle of the cabbage nest as you like. I scramble mine and pour it in; you can crack yours straight in. Season your egg as you like, or with black pepper and a little salt.
 1. After adding the egg, put a lid onto your pan and steam for a minute or two if you can. Add some drops of water if necessary.
-1. Using a spatula, take your nest out. Don&#39;t turn your heat off yet - put a few more drops of olive oil in and cook your sausage. Pre-cooked sausages should only take a minute to heat up. If you&#39;re vegan or just limit your meat intake, try heating up a third of a cup of black beans or so instead. Add this onto your plate.
+1. Using a spatula, take your nest out. Don't turn your heat off yet - put a few more drops of olive oil in and cook your sausage. Pre-cooked sausages should only take a minute to heat up. If you're vegan or just limit your meat intake, try heating up a third of a cup of black beans or so instead. Add this onto your plate.
 1. Turn off your heat. Slice up your tomato cherubs or tomato slices to add on. Feel free to try something different to add on. Enjoy (^-^) !
 
 

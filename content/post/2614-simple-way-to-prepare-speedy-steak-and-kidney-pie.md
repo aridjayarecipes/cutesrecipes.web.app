@@ -79,7 +79,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Get 1 beaten egg
 
 
-Add salt, pepper and Worcestershire sauce and allow to cool completely. Place the cooked meat mixture into a pie dish. Play Sound. "Harry had just finished telling Ron what had happened when he&#39;d left the grounds with Professor McGonagall. Ron had a piece of steak and kidney pie halfway to his mouth, but he&#39;d forgotten all about it.". — Description. 
+Add salt, pepper and Worcestershire sauce and allow to cool completely. Place the cooked meat mixture into a pie dish. Play Sound. "Harry had just finished telling Ron what had happened when he'd left the grounds with Professor McGonagall. Ron had a piece of steak and kidney pie halfway to his mouth, but he'd forgotten all about it.". — Description. 
 
 <!--inarticleads2-->
 
@@ -96,6 +96,6 @@ Add salt, pepper and Worcestershire sauce and allow to cool completely. Place th
 1. Serve with mashed potatoes and vegetables.
 
 
-Play Sound. "Harry had just finished telling Ron what had happened when he&#39;d left the grounds with Professor McGonagall. Ron had a piece of steak and kidney pie halfway to his mouth, but he&#39;d forgotten all about it.". — Description. This is Gary Rhodes recipe for a great steak and kidney pie, which also allows you the bonus of making the filling the day before you need it. A good steak &amp; kidney pie. Steak and kidney pie with mustard gravy cooked in slow cooker. 
+Play Sound. "Harry had just finished telling Ron what had happened when he'd left the grounds with Professor McGonagall. Ron had a piece of steak and kidney pie halfway to his mouth, but he'd forgotten all about it.". — Description. This is Gary Rhodes recipe for a great steak and kidney pie, which also allows you the bonus of making the filling the day before you need it. A good steak & kidney pie. Steak and kidney pie with mustard gravy cooked in slow cooker. 
 
 So that's going to wrap this up with this special food steak and kidney pie recipe. Thanks so much for your time. I am confident you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

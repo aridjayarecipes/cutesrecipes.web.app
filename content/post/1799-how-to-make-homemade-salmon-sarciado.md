@@ -21,9 +21,9 @@ recipeingredient:
 - "2 tbsp sugar"
 recipeinstructions:
 - "Add a splash of veg oil to a large nonstick pan on medium-high heat. Season the salmon fillets with salt and pepper and sear them in the pan, skin-side first, for 5 to 6 minutes per side until cooked. Remove the fish to a paper-towel lined plate."
-- "Wipe the oil and any residue from the pan, and add a fresh splash of veg oil. Lay the tomatoes in, flesh-side down, and don&#39;t touch them for 5 minutes. Let them scorch and bubble and release their juice."
+- "Wipe the oil and any residue from the pan, and add a fresh splash of veg oil. Lay the tomatoes in, flesh-side down, and don't touch them for 5 minutes. Let them scorch and bubble and release their juice."
 - "Stir the tomato paste, shallot, garlic, and pepper flakes into the pan. Let fry for 2 minutes. Add the green pepper and fry another 2 minutes."
-- "Add the vinegar, sugar, and a 1/2 cup water to the sauce. Stir, then let simmer 2 or 3 minutes to reduce. Add salt and pepper to taste. Serve the sauce underneath or beside the salmon, so you don&#39;t ruin the beautiful crispy skin."
+- "Add the vinegar, sugar, and a 1/2 cup water to the sauce. Stir, then let simmer 2 or 3 minutes to reduce. Add salt and pepper to taste. Serve the sauce underneath or beside the salmon, so you don't ruin the beautiful crispy skin."
 categories:
 - Recipe
 tags:
@@ -74,9 +74,9 @@ To get started with this recipe, we must prepare a few components. You can have 
 ##### Instructions to make Salmon sarciado:
 
 1. Add a splash of veg oil to a large nonstick pan on medium-high heat. Season the salmon fillets with salt and pepper and sear them in the pan, skin-side first, for 5 to 6 minutes per side until cooked. Remove the fish to a paper-towel lined plate.
-1. Wipe the oil and any residue from the pan, and add a fresh splash of veg oil. Lay the tomatoes in, flesh-side down, and don&#39;t touch them for 5 minutes. Let them scorch and bubble and release their juice.
+1. Wipe the oil and any residue from the pan, and add a fresh splash of veg oil. Lay the tomatoes in, flesh-side down, and don't touch them for 5 minutes. Let them scorch and bubble and release their juice.
 1. Stir the tomato paste, shallot, garlic, and pepper flakes into the pan. Let fry for 2 minutes. Add the green pepper and fry another 2 minutes.
-1. Add the vinegar, sugar, and a 1/2 cup water to the sauce. Stir, then let simmer 2 or 3 minutes to reduce. Add salt and pepper to taste. Serve the sauce underneath or beside the salmon, so you don&#39;t ruin the beautiful crispy skin.
+1. Add the vinegar, sugar, and a 1/2 cup water to the sauce. Stir, then let simmer 2 or 3 minutes to reduce. Add salt and pepper to taste. Serve the sauce underneath or beside the salmon, so you don't ruin the beautiful crispy skin.
 
 
 

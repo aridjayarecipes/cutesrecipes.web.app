@@ -47,7 +47,7 @@ Hello everybody, it's me, Dave, welcome to our recipe site. Today, I will show y
 
 Easy grilled salmon is one of the most well liked of current trending meals on earth. It is simple, it's fast, it tastes yummy. It's enjoyed by millions every day. They are nice and they look fantastic. Easy grilled salmon is something that I have loved my entire life.
 
-I coated the salmon fillet with avocado oil on. It&#39;s super easy to make and is sure to please. Place salmon fillets on grill, flesh side down (skin-side up) first, so that the fillets can get nice grill marks on the hot grill while the fish is still firm. Place salmon on the preheated grill, and discard marinade.
+I coated the salmon fillet with avocado oil on. It's super easy to make and is sure to please. Place salmon fillets on grill, flesh side down (skin-side up) first, so that the fillets can get nice grill marks on the hot grill while the fish is still firm. Place salmon on the preheated grill, and discard marinade.
 
 
 To begin with this recipe, we must first prepare a few components. You can have easy grilled salmon using 9 ingredients and 3 steps. Here is how you cook it.
@@ -67,7 +67,7 @@ To begin with this recipe, we must first prepare a few components. You can have 
 1. Get 2 teaspoons lemon pepper
 
 
-Mexican Grilled Salmon Salad with Avocado Greek Yogurt Ranch Dressing. We&#39;re actually excited to eat salad and now we&#39;re SO confused. Get the recipe from Cooking Classy. Learn how to make delicious easy grilled salmon. 
+Mexican Grilled Salmon Salad with Avocado Greek Yogurt Ranch Dressing. We're actually excited to eat salad and now we're SO confused. Get the recipe from Cooking Classy. Learn how to make delicious easy grilled salmon. 
 
 <!--inarticleads2-->
 
@@ -78,6 +78,6 @@ Mexican Grilled Salmon Salad with Avocado Greek Yogurt Ranch Dressing. We&#39;re
 1. Then cook on other side with pour rest of sauce over and cook 5 more minutes and you are done!
 
 
-Get the recipe from Cooking Classy. Learn how to make delicious easy grilled salmon. With this recipe, Easy Recipe Depot will show you how with just a few ingredients, you can make grilled salmon that&#39;s both appetizing and healthy. Follow these easy grilling tips for THE BEST, easy grilled salmon recipe that&#39;s about to become your new favorite healthy summertime dinner. This recipe is brought to you by Weber Grills. 
+Get the recipe from Cooking Classy. Learn how to make delicious easy grilled salmon. With this recipe, Easy Recipe Depot will show you how with just a few ingredients, you can make grilled salmon that's both appetizing and healthy. Follow these easy grilling tips for THE BEST, easy grilled salmon recipe that's about to become your new favorite healthy summertime dinner. This recipe is brought to you by Weber Grills. 
 
 So that is going to wrap it up with this special food easy grilled salmon recipe. Thank you very much for your time. I'm confident that you can make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

@@ -48,7 +48,7 @@ Hey everyone, it's Louise, welcome to my recipe page. Today, I'm gonna show you 
 
 Chana chaat is one of the most favored of recent trending foods in the world. It's appreciated by millions daily. It is easy, it is quick, it tastes delicious. They're fine and they look fantastic. Chana chaat is something which I have loved my whole life.
 
-Chana Chaat is a popular Indian snack where cooked chickpeas are tossed with fresh cut onions, tomatoes, tamarind chutney, ground aromatic spices and herbs. This easy to make chana chaat is. Chana Chaat Recipe is a light and refreshing Indian salad that&#39;s perfect for summers. Chana Chaat, Kala Chana Chaat Video.
+Chana Chaat is a popular Indian snack where cooked chickpeas are tossed with fresh cut onions, tomatoes, tamarind chutney, ground aromatic spices and herbs. This easy to make chana chaat is. Chana Chaat Recipe is a light and refreshing Indian salad that's perfect for summers. Chana Chaat, Kala Chana Chaat Video.
 
 
 To begin with this recipe, we must prepare a few components. You can have chana chaat using 11 ingredients and 3 steps. Here is how you cook it.
@@ -81,6 +81,6 @@ To make the chana chaat and mint yogurt. Mix the chickpeas with the red onion, t
 1. Ab thora garha hojy to potato b add krdy aur chulha bnd krdy chopd onion hara dhanya podena sy garnish kry mazedaar channa chaat ready hy
 
 
-Add the lemon juice, chopped chillies, ground cumin, chilli powder and chaat masala. For this kala chana chaat, I boiled the black chickpeas in my instant pot. I soaked them overnight This Kala Chana Chaat tastes best when chilled for few hours. That gives time for the flavors to mix in. Chana Chaat Recipe is a light and refreshing salad that&#39;s perfect for summers. 
+Add the lemon juice, chopped chillies, ground cumin, chilli powder and chaat masala. For this kala chana chaat, I boiled the black chickpeas in my instant pot. I soaked them overnight This Kala Chana Chaat tastes best when chilled for few hours. That gives time for the flavors to mix in. Chana Chaat Recipe is a light and refreshing salad that's perfect for summers. 
 
 So that's going to wrap this up with this special food chana chaat recipe. Thanks so much for your time. I am confident that you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

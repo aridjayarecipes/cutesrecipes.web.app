@@ -22,7 +22,7 @@ recipeinstructions:
 - "Break into small pieces"
 - "Add salt to the rice and mix well. And then add in the salmon and mix well"
 - "Cut the nori into strips"
-- "Wrap the rice and it&#39;s done 😊"
+- "Wrap the rice and it's done 😊"
 categories:
 - Recipe
 tags:
@@ -74,7 +74,7 @@ To begin with this recipe, we have to prepare a few components. You can have sal
 1. Break into small pieces
 1. Add salt to the rice and mix well. And then add in the salmon and mix well
 1. Cut the nori into strips
-1. Wrap the rice and it&#39;s done 😊
+1. Wrap the rice and it's done 😊
 
 
 

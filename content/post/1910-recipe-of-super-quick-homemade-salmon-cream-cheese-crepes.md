@@ -29,7 +29,7 @@ recipeingredient:
 - " dill"
 recipeinstructions:
 - "FOR THE CREPES. In a large mixing bowl, whisk together the flour and the egg. Gradually add in the milk, stirring to combine. Add the salt and beat until smooth."
-- "It&#39;s important to use a large pan so the crepes become thin and large. Heat the pan over medium heat and add 1 tbsp butter. When the butter has melted add 1/4 of the crepe mixture to the pan, tilting the pan in a circular motion so that the mixture goes everywhere evenly. Cook the crepe for about 2 minutes, flip and cook for another 2 minutes. Set the crepe aside, and repeat with the rest of the mixture."
+- "It's important to use a large pan so the crepes become thin and large. Heat the pan over medium heat and add 1 tbsp butter. When the butter has melted add 1/4 of the crepe mixture to the pan, tilting the pan in a circular motion so that the mixture goes everywhere evenly. Cook the crepe for about 2 minutes, flip and cook for another 2 minutes. Set the crepe aside, and repeat with the rest of the mixture."
 - "Prepare the Salmon. In a pan over medium-high heat add 1 tbsp butter. Once melted add the salmon fillet, cook for about 2 minutes on each side and start to pull it apart with a fork and a spatula. cook for 2 more minutes and set aside"
 - "For the Filling. In a large pan over medium-high heat add 1 tbsp butter. Once melted, add the leek, the mushrooms and the chopped onion. Saute for about 3 minutes."
 - "Add the garlic and Saute for 3 more minutes."
@@ -98,7 +98,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 ##### Instructions to make Salmon Cream Cheese Crepes:
 
 1. FOR THE CREPES. In a large mixing bowl, whisk together the flour and the egg. - Gradually add in the milk, stirring to combine. - Add the salt and beat until smooth.
-1. It&#39;s important to use a large pan so the crepes become thin and large. Heat the pan over medium heat and add 1 tbsp butter. - When the butter has melted add 1/4 of the crepe mixture to the pan, tilting the pan in a circular motion so that the mixture goes everywhere evenly. - Cook the crepe for about 2 minutes, flip and cook for another 2 minutes. Set the crepe aside, and repeat with the rest of the mixture.
+1. It's important to use a large pan so the crepes become thin and large. Heat the pan over medium heat and add 1 tbsp butter. - When the butter has melted add 1/4 of the crepe mixture to the pan, tilting the pan in a circular motion so that the mixture goes everywhere evenly. - Cook the crepe for about 2 minutes, flip and cook for another 2 minutes. Set the crepe aside, and repeat with the rest of the mixture.
 1. Prepare the Salmon. - In a pan over medium-high heat add 1 tbsp butter. Once melted add the salmon fillet, cook for about 2 minutes on each side and start to pull it apart with a fork and a spatula. cook for 2 more minutes and set aside
 1. For the Filling. - In a large pan over medium-high heat add 1 tbsp butter. Once melted, add the leek, the mushrooms and the chopped onion. - Saute for about 3 minutes.
 1. Add the garlic and Saute for 3 more minutes.

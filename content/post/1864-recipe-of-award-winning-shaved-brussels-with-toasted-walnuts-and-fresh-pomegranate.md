@@ -22,8 +22,8 @@ recipeingredient:
 - "5 tbsp Good Olive Oil May need more depending on your taste"
 - "4 1/2 tbsp Freshly Squeezed Meyer Lemon Juice Again according to your taste"
 recipeinstructions:
-- "Toast walnuts in oven at 350° until slightly golden. DO NOT over cook them. Once you can smell them, they&#39;re done. Often only 3-6 minutes. Watch closely! (Set aside to cool)"
-- "Trim the ends off of the Brussels and remove outer leaves. Cut in half and slice thinly to create a &#39;shaved&#39; texture. You can use a mandoline if needed, however Brussels are often too small to use a mandoline efficiently."
+- "Toast walnuts in oven at 350° until slightly golden. DO NOT over cook them. Once you can smell them, they're done. Often only 3-6 minutes. Watch closely! (Set aside to cool)"
+- "Trim the ends off of the Brussels and remove outer leaves. Cut in half and slice thinly to create a 'shaved' texture. You can use a mandoline if needed, however Brussels are often too small to use a mandoline efficiently."
 - "Toss Brussels into a bowl with cooled Walnuts, Pomegranate seeds, parsley and celery."
 - "In a mason jar mix together ingredients for vinaigrette and shake until well combined. (You could also use a bowl and whisk for this, I just think the jar method is quick and easy)"
 - "Dress the salad to your liking and transfer to serving platter. Sprinkle the top with crumbled Feta and enjoy!!"
@@ -79,8 +79,8 @@ To get started with this recipe, we have to prepare a few components. You can ha
 
 ##### Instructions to make Shaved Brussels with Toasted Walnuts and Fresh Pomegranate.:
 
-1. Toast walnuts in oven at 350° until slightly golden. DO NOT over cook them. Once you can smell them, they&#39;re done. Often only 3-6 minutes. Watch closely! (Set aside to cool)
-1. Trim the ends off of the Brussels and remove outer leaves. Cut in half and slice thinly to create a &#39;shaved&#39; texture. You can use a mandoline if needed, however Brussels are often too small to use a mandoline efficiently.
+1. Toast walnuts in oven at 350° until slightly golden. DO NOT over cook them. Once you can smell them, they're done. Often only 3-6 minutes. Watch closely! (Set aside to cool)
+1. Trim the ends off of the Brussels and remove outer leaves. Cut in half and slice thinly to create a 'shaved' texture. You can use a mandoline if needed, however Brussels are often too small to use a mandoline efficiently.
 1. Toss Brussels into a bowl with cooled Walnuts, Pomegranate seeds, parsley and celery.
 1. In a mason jar mix together ingredients for vinaigrette and shake until well combined. (You could also use a bowl and whisk for this, I just think the jar method is quick and easy)
 1. Dress the salad to your liking and transfer to serving platter. Sprinkle the top with crumbled Feta and enjoy!!

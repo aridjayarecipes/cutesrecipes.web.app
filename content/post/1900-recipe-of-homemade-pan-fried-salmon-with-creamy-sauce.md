@@ -77,7 +77,7 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Prepare  Salt and pepper
 
 
-The salmon does most of the cooking in the sauce, which means it will be lovely and tender, and it&#39;s actually quite difficult to overcook, so you haven&#39;t got. You can use fresh or frozen salmon. Pan-sear salmon in a creamy ghee sauce for a dish that&#39;s crispy on the outside and oh-so tender on the inside. In the mood for pan-seared salmon? 
+The salmon does most of the cooking in the sauce, which means it will be lovely and tender, and it's actually quite difficult to overcook, so you haven't got. You can use fresh or frozen salmon. Pan-sear salmon in a creamy ghee sauce for a dish that's crispy on the outside and oh-so tender on the inside. In the mood for pan-seared salmon? 
 
 <!--inarticleads2-->
 
@@ -94,6 +94,6 @@ The salmon does most of the cooking in the sauce, which means it will be lovely 
 1. It is best to squeeze the lemon on the fish before eating. Delicious!
 
 
-Pan-sear salmon in a creamy ghee sauce for a dish that&#39;s crispy on the outside and oh-so tender on the inside. In the mood for pan-seared salmon? Try this simple recipe with buttery ghee, creamy coconut milk, and ground turmeric. Crispy on the outside and tender on the inside, these fish fillets are. Skillet Seared Salmon with Garlic Lemon Butter Sauce - yields a perfectly crisp seared exterior while the interior stays nice and tender. 
+Pan-sear salmon in a creamy ghee sauce for a dish that's crispy on the outside and oh-so tender on the inside. In the mood for pan-seared salmon? Try this simple recipe with buttery ghee, creamy coconut milk, and ground turmeric. Crispy on the outside and tender on the inside, these fish fillets are. Skillet Seared Salmon with Garlic Lemon Butter Sauce - yields a perfectly crisp seared exterior while the interior stays nice and tender. 
 
 So that is going to wrap this up with this special food pan fried salmon with creamy sauce recipe. Thank you very much for your time. I am confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

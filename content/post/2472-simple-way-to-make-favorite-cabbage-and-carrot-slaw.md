@@ -49,7 +49,7 @@ Hey everyone, it's Jim, welcome to our recipe page. Today, I'm gonna show you ho
 
 Cabbage and carrot slaw is one of the most popular of recent trending meals on earth. It's appreciated by millions daily. It is easy, it is quick, it tastes yummy. Cabbage and carrot slaw is something which I've loved my whole life. They are nice and they look wonderful.
 
-Cabbage Slaw and homemade moonshine, friends! In this recipe I used STAR&#39;s brand new Unfiltered Organic Apple Cider Vinegar which is made with organically grown apples, and it is a perfect way to add delicious flavor to any salad, including this Red Cabbage and Carrot Slaw. Be the first to rate &amp; review! Carrot-Cabbage Slaw Recipe. , Change Store.
+Cabbage Slaw and homemade moonshine, friends! In this recipe I used STAR's brand new Unfiltered Organic Apple Cider Vinegar which is made with organically grown apples, and it is a perfect way to add delicious flavor to any salad, including this Red Cabbage and Carrot Slaw. Be the first to rate & review! Carrot-Cabbage Slaw Recipe. , Change Store.
 
 
 To get started with this particular recipe, we must first prepare a few ingredients. You can have cabbage and carrot slaw using 11 ingredients and 3 steps. Here is how you can achieve it.

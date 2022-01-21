@@ -18,7 +18,7 @@ recipeingredient:
 recipeinstructions:
 - "Fill a large pan with water, put the Joule sous vide inside and set the temperature (50º). Make some cuts in the salmon. Squeeze the lemon juice over the fish and rub in with your hands. Then grate the ginger and stuff it into the cuts."
 - "Stuff the butter into the cuts too. Sprinkle some salt and grind some pepper over the fish and on the board. Then put the fish on top of the board salt and pepper so that both sides are seasoned."
-- "Put the salmon in a sealable bag (I used a zipper one because I didn&#39;t have any special vacuum sous vide bags - it worked fine) and gently lower it into the water, making sure no air is left inside before sealing. Set the time at 45 minutes."
+- "Put the salmon in a sealable bag (I used a zipper one because I didn't have any special vacuum sous vide bags - it worked fine) and gently lower it into the water, making sure no air is left inside before sealing. Set the time at 45 minutes."
 - "I also put some mangetout in with a pinch of salt and some olive oil."
 - "The bag kept floating to the top so I had to weigh it down with a pan lid. Have since learned that the best way to cook veg sous vide is to put a metal spoon inside the bag so it acts like a weight. I finished them off in a wok."
 - "When the time is up, carefully take the salmon out. Put the juices in the bag in a pan and let them bubble on maximum heat for a couple of minutes and then use that as the sauce."
@@ -45,7 +45,7 @@ recipecategory: Dessert
 
 Hey everyone, I hope you're having an amazing day today. Today, we're going to make a distinctive dish, sous vide salmon in a butter, ginger and lemon sauce. It is one of my favorites food recipes. This time, I will make it a bit unique. This is gonna smell and look delicious.
 
-Make some cuts in the salmon. Squeeze the lemon juice over the fish and rub in with your hands. In this recipe, the salmon is cooked to perfection using a sous vide, then covered in a delicious garlic lemon butter sauce. Cooking fish sous vide yields a unique texture that you can&#39;t achieve through other cooking methods, and is worth trying.
+Make some cuts in the salmon. Squeeze the lemon juice over the fish and rub in with your hands. In this recipe, the salmon is cooked to perfection using a sous vide, then covered in a delicious garlic lemon butter sauce. Cooking fish sous vide yields a unique texture that you can't achieve through other cooking methods, and is worth trying.
 
 Sous vide salmon in a butter, ginger and lemon sauce is one of the most favored of recent trending meals on earth. It is simple, it is fast, it tastes yummy. It's enjoyed by millions every day. Sous vide salmon in a butter, ginger and lemon sauce is something that I have loved my whole life. They are nice and they look fantastic.
 
@@ -63,7 +63,7 @@ To begin with this recipe, we must prepare a few ingredients. You can cook sous 
 1. Take  salt and pepper
 
 
-Then grate the ginger and stuff it into the cuts. Put the salmon in a sealable bag (I used a zipper one because I didn&#39;t have any special vacuum sous vide bags - it worked fine) and gently lower it into. Skillet Seared Salmon with Garlic Lemon Butter Sauce - yields a perfectly crisp seared exterior while the interior stays nice and tender. Sous Vide Salmon with Lemon Beurre Blanc 
+Then grate the ginger and stuff it into the cuts. Put the salmon in a sealable bag (I used a zipper one because I didn't have any special vacuum sous vide bags - it worked fine) and gently lower it into. Skillet Seared Salmon with Garlic Lemon Butter Sauce - yields a perfectly crisp seared exterior while the interior stays nice and tender. Sous Vide Salmon with Lemon Beurre Blanc 
 
 <!--inarticleads2-->
 
@@ -71,7 +71,7 @@ Then grate the ginger and stuff it into the cuts. Put the salmon in a sealable b
 
 1. Fill a large pan with water, put the Joule sous vide inside and set the temperature (50º). Make some cuts in the salmon. Squeeze the lemon juice over the fish and rub in with your hands. Then grate the ginger and stuff it into the cuts.
 1. Stuff the butter into the cuts too. Sprinkle some salt and grind some pepper over the fish and on the board. Then put the fish on top of the board salt and pepper so that both sides are seasoned.
-1. Put the salmon in a sealable bag (I used a zipper one because I didn&#39;t have any special vacuum sous vide bags - it worked fine) and gently lower it into the water, making sure no air is left inside before sealing. Set the time at 45 minutes.
+1. Put the salmon in a sealable bag (I used a zipper one because I didn't have any special vacuum sous vide bags - it worked fine) and gently lower it into the water, making sure no air is left inside before sealing. Set the time at 45 minutes.
 1. I also put some mangetout in with a pinch of salt and some olive oil.
 1. The bag kept floating to the top so I had to weigh it down with a pan lid. Have since learned that the best way to cook veg sous vide is to put a metal spoon inside the bag so it acts like a weight. I finished them off in a wok.
 1. When the time is up, carefully take the salmon out. Put the juices in the bag in a pan and let them bubble on maximum heat for a couple of minutes and then use that as the sauce.

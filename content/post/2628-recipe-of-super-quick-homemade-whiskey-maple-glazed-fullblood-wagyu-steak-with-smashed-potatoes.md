@@ -72,7 +72,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 1. Make ready 2 Double 8 Cattle Company Fullblood Wagyu Teres Major (Chuck Tender) Filets
 1. Get 3 TBSP Grapeseed Oil
-1. Get  Kosher Salt &amp; Freshly Ground Black Pepper (to season)
+1. Get  Kosher Salt & Freshly Ground Black Pepper (to season)
 1. Prepare  Glaze
 1. Make ready 3/4 CUP White Sugar
 1. Make ready 1/4 CUP Maple Syrup

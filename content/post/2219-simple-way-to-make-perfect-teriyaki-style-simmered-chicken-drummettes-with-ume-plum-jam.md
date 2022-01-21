@@ -19,11 +19,11 @@ recipeingredient:
 - "3 leaves Shiso leaves"
 recipeinstructions:
 - "I used a soft jam made from well-ripened ume plums."
-- "Slice into the drumettes along the bone. It&#39;ll shorten the cooking time and make them easier to eat."
+- "Slice into the drumettes along the bone. It'll shorten the cooking time and make them easier to eat."
 - "Add the seasonings marked with ■ to a pan and bring to a boil. Place the drumettes into the pan as well, cover with a lid and simmer on medium-low heat."
 - "Once the surface of the chicken meat has cooked, turn them over, cover with a lid and simmer for a further 1-2 minutes. Pierce the chicken with chopsticks, and if the juices run clear, the chicken is done!"
 - "Remove the lid off and coat the drumettes with the sauce. Serve on a plate and use a pair of kitchen scissors or similar to cut up the shiso leaves to garnish. The tart plums and fragrant shiso leaves are perfect together."
-- "★If you use chicken thigh meat, then it&#39;ll be easy to simmer and easier for kids to eat."
+- "★If you use chicken thigh meat, then it'll be easy to simmer and easier for kids to eat."
 categories:
 - Recipe
 tags:
@@ -73,11 +73,11 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 ##### Instructions to make Teriyaki-Style Simmered Chicken Drummettes with Ume Plum Jam:
 
 1. I used a soft jam made from well-ripened ume plums.
-1. Slice into the drumettes along the bone. It&#39;ll shorten the cooking time and make them easier to eat.
+1. Slice into the drumettes along the bone. It'll shorten the cooking time and make them easier to eat.
 1. Add the seasonings marked with ■ to a pan and bring to a boil. Place the drumettes into the pan as well, cover with a lid and simmer on medium-low heat.
 1. Once the surface of the chicken meat has cooked, turn them over, cover with a lid and simmer for a further 1-2 minutes. Pierce the chicken with chopsticks, and if the juices run clear, the chicken is done!
 1. Remove the lid off and coat the drumettes with the sauce. Serve on a plate and use a pair of kitchen scissors or similar to cut up the shiso leaves to garnish. The tart plums and fragrant shiso leaves are perfect together.
-1. ★If you use chicken thigh meat, then it&#39;ll be easy to simmer and easier for kids to eat.
+1. ★If you use chicken thigh meat, then it'll be easy to simmer and easier for kids to eat.
 
 
 

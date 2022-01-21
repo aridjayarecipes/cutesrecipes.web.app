@@ -50,7 +50,7 @@ recipecategory: Dinner
 
 Hey everyone, I hope you are having an incredible day today. Today, I'm gonna show you how to prepare a distinctive dish, fried chicken fillet with bell pepper and parsley. One of my favorites. For mine, I will make it a bit unique. This is gonna smell and look delicious.
 
-Stir in broth, scraping pan to loosen browned bits. Serve bell pepper mixture over chicken. Chicken and Bell Peppers Skillet is one of those dishes that will go to your family dinner rotation because it happens to please everyone. For a unique spin on classic fried rice, we&#39;re swapping in quinoa, whose hearty texture complements a flavorful combination of sambal-spiced chicken Meanwhile, pat the chicken dry with paper towels; season with salt and pepper.
+Stir in broth, scraping pan to loosen browned bits. Serve bell pepper mixture over chicken. Chicken and Bell Peppers Skillet is one of those dishes that will go to your family dinner rotation because it happens to please everyone. For a unique spin on classic fried rice, we're swapping in quinoa, whose hearty texture complements a flavorful combination of sambal-spiced chicken Meanwhile, pat the chicken dry with paper towels; season with salt and pepper.
 
 Fried chicken fillet with bell pepper and parsley is one of the most favored of recent trending meals in the world. It's enjoyed by millions daily. It is simple, it is quick, it tastes yummy. They're nice and they look fantastic. Fried chicken fillet with bell pepper and parsley is something which I have loved my whole life.
 

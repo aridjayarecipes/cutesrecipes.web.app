@@ -63,7 +63,7 @@ To begin with this recipe, we have to prepare a few components. You can cook fri
 1. Take  Lemon and salad to serve
 
 
-Download all free or royalty-free photos and vectors. Use them in commercial designs under lifetime, perpetual &amp; worldwide rights. Divide the fried bread among six serving bowls. Spoon some of the mussels into each bowl, then ladle over some of the cooking juices, chickpeas and chorizo. 
+Download all free or royalty-free photos and vectors. Use them in commercial designs under lifetime, perpetual & worldwide rights. Divide the fried bread among six serving bowls. Spoon some of the mussels into each bowl, then ladle over some of the cooking juices, chickpeas and chorizo. 
 
 <!--inarticleads2-->
 

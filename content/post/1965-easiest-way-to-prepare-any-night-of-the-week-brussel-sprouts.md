@@ -18,7 +18,7 @@ recipeingredient:
 recipeinstructions:
 - "First, cut off the hard bottoms of the sprouts, and then cut each brussel sprout in half."
 - "Heat coconut oil in a large frying/saute pan over medium high heat."
-- "Add trimmed brussel sprouts to pan, and season with salt and pepper (I season right when I put them in the pan, halfway through cooking, and then again at the end; just keep taking small tastes to make sure they don&#39;t get too salty!)"
+- "Add trimmed brussel sprouts to pan, and season with salt and pepper (I season right when I put them in the pan, halfway through cooking, and then again at the end; just keep taking small tastes to make sure they don't get too salty!)"
 - "Saute in pan for about 10 minutes or until desired consistency is reached."
 - "About halfway through cooking, add the hot sauce and other seasoning if so desired."
 - "Serve on the side of a protein and enjoy!"
@@ -69,7 +69,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 1. First, cut off the hard bottoms of the sprouts, and then cut each brussel sprout in half.
 1. Heat coconut oil in a large frying/saute pan over medium high heat.
-1. Add trimmed brussel sprouts to pan, and season with salt and pepper (I season right when I put them in the pan, halfway through cooking, and then again at the end; just keep taking small tastes to make sure they don&#39;t get too salty!)
+1. Add trimmed brussel sprouts to pan, and season with salt and pepper (I season right when I put them in the pan, halfway through cooking, and then again at the end; just keep taking small tastes to make sure they don't get too salty!)
 1. Saute in pan for about 10 minutes or until desired consistency is reached.
 1. About halfway through cooking, add the hot sauce and other seasoning if so desired.
 1. Serve on the side of a protein and enjoy!

@@ -23,7 +23,7 @@ recipeinstructions:
 - "Line the Brussel sprout leaves a large cookie sheet with parchment paper. Divide leaves evenly in a single layer."
 - "Bake for 8-10 mins or until crispy and brown on the edges."
 - "Add some lemon zest and extra salt over the chips (optional)"
-- "Eat while warm. Doesn&#39;t save well."
+- "Eat while warm. Doesn't save well."
 categories:
 - Recipe
 tags:
@@ -77,7 +77,7 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Line the Brussel sprout leaves a large cookie sheet with parchment paper. Divide leaves evenly in a single layer.
 1. Bake for 8-10 mins or until crispy and brown on the edges.
 1. Add some lemon zest and extra salt over the chips (optional)
-1. Eat while warm. Doesn&#39;t save well.
+1. Eat while warm. Doesn't save well.
 
 
 

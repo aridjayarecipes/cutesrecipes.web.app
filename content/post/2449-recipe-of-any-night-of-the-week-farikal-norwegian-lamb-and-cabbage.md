@@ -46,7 +46,7 @@ recipecategory: Dinner
 
 Hello everybody, I hope you are having an incredible day today. Today, I will show you a way to make a special dish, fårikål, norwegian lamb and cabbage. It is one of my favorites. For mine, I will make it a little bit tasty. This will be really delicious.
 
-Fårikål (Norwegian Lamb &amp; Cabbage Stew). The form which is used in Norwegian fårikål is meat and cabbage, which are added alternately to a pot. Fårikål - Faarikaal - Lamb and Cabbage Stew. Fårikål Recipe - Norwegian Lamb and Cabbage Stew.
+Fårikål (Norwegian Lamb & Cabbage Stew). The form which is used in Norwegian fårikål is meat and cabbage, which are added alternately to a pot. Fårikål - Faarikaal - Lamb and Cabbage Stew. Fårikål Recipe - Norwegian Lamb and Cabbage Stew.
 
 Fårikål, Norwegian Lamb and Cabbage is one of the most popular of current trending meals in the world. It is appreciated by millions daily. It's easy, it's quick, it tastes yummy. They are fine and they look wonderful. Fårikål, Norwegian Lamb and Cabbage is something that I've loved my entire life.
 

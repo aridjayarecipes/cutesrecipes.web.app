@@ -19,7 +19,7 @@ recipeingredient:
 - "1 tsp red pepper flakes"
 recipeinstructions:
 - "Put sprouts in Ziploc baggie. Drizzle the olive oil over, close and toss to coat."
-- "In cold pan, cook bacon till 2-3 Tbsp&#39;s bacon fat renders. Place bacon on paper towels to drain."
+- "In cold pan, cook bacon till 2-3 Tbsp's bacon fat renders. Place bacon on paper towels to drain."
 - "Place coated Brussels sprouts in same pan as bacon fat. Stir in seasonings and a splash of Apple cider vinegar. Add squeezed juice from one orange."
 - "Cook till sprouts are fork tender. Squeeze additional juice of orange over sprouts and serve."
 categories:
@@ -57,10 +57,10 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 
 1. Make ready 2 lb Brussels sprouts, halved
 1. Prepare 3 Bacon slices
-1. Prepare 2 Tbsp&#39;s olive oil
-1. Prepare 2 Tbsp&#39;s Italian seasoning
-1. Prepare 2 Tbsp&#39;s thyme
-1. Make ready 2 Tbsp&#39;s dried parsley
+1. Prepare 2 Tbsp's olive oil
+1. Prepare 2 Tbsp's Italian seasoning
+1. Prepare 2 Tbsp's thyme
+1. Make ready 2 Tbsp's dried parsley
 1. Get 1 tsp red pepper flakes
 
 
@@ -71,7 +71,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 ##### Instructions to make Bacon Citrus Brussels Sprouts:
 
 1. Put sprouts in Ziploc baggie. Drizzle the olive oil over, close and toss to coat.
-1. In cold pan, cook bacon till 2-3 Tbsp&#39;s bacon fat renders. Place bacon on paper towels to drain.
+1. In cold pan, cook bacon till 2-3 Tbsp's bacon fat renders. Place bacon on paper towels to drain.
 1. Place coated Brussels sprouts in same pan as bacon fat. Stir in seasonings and a splash of Apple cider vinegar. Add squeezed juice from one orange.
 1. Cook till sprouts are fork tender. Squeeze additional juice of orange over sprouts and serve.
 

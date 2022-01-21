@@ -72,8 +72,8 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Make ready 1 cup pumpkin (canned)
 1. Take 1 egg
 1. Prepare 1 tsp vanilla
-1. Prepare 1 cup chopped pecans or walnuts (optional - I don&#39;t like nuts so I skip this)
-1. Prepare 1 cup chopped raisins (I don&#39;t think we actually ever chop them though)
+1. Prepare 1 cup chopped pecans or walnuts (optional - I don't like nuts so I skip this)
+1. Prepare 1 cup chopped raisins (I don't think we actually ever chop them though)
 
 
 

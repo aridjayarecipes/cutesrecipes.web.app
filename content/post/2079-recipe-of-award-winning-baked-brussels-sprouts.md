@@ -22,7 +22,7 @@ recipeinstructions:
 - "combine Brussels sprouts, scallions, garlic, and olive oil in an oven safe pan of preference. stir together, and make sure there is a generous coat of oil on veggies. add more olive oil if necessary."
 - "sprinkle desired amount of salt and pepper over veggie concoction."
 - "place in oven and bake for 10 minutes, or until tender."
-- "don&#39;t forget to remove the food from the oven when it is done cooking!"
+- "don't forget to remove the food from the oven when it is done cooking!"
 - "opt to dribble coconut animos (or soy sauce) over finished dish for a pop of flavor."
 categories:
 - Recipe
@@ -76,7 +76,7 @@ To get started with this recipe, we must prepare a few components. You can have 
 1. combine Brussels sprouts, scallions, garlic, and olive oil in an oven safe pan of preference. stir together, and make sure there is a generous coat of oil on veggies. add more olive oil if necessary.
 1. sprinkle desired amount of salt and pepper over veggie concoction.
 1. place in oven and bake for 10 minutes, or until tender.
-1. don&#39;t forget to remove the food from the oven when it is done cooking!
+1. don't forget to remove the food from the oven when it is done cooking!
 1. opt to dribble coconut animos (or soy sauce) over finished dish for a pop of flavor.
 
 

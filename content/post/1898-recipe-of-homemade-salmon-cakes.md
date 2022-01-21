@@ -73,6 +73,6 @@ As long as you have I make these crispy salmon cakes about once a week. They are
 1. Pour 1 tablespoon of batter and pan fry on medium heat, flipping once or twice.
 
 
-Salmon cakes are one of my go-to emergency meals. Every once in a while I like to use fresh For a week we had salmon every which way we could think of. I&#39;m not a fan of fish or crab cakes. . . but. Classic Salmon Cakes are so tasty, they don&#39;t even need a sauce. A simple squeeze of lemon or lime does the trick for these fantastic Salmon Cakes. 
+Salmon cakes are one of my go-to emergency meals. Every once in a while I like to use fresh For a week we had salmon every which way we could think of. I'm not a fan of fish or crab cakes. . . but. Classic Salmon Cakes are so tasty, they don't even need a sauce. A simple squeeze of lemon or lime does the trick for these fantastic Salmon Cakes. 
 
 So that's going to wrap this up for this special food salmon cakes recipe. Thank you very much for reading. I am sure that you can make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

@@ -79,7 +79,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Make ready 2/3 cup oil
 
 
-Plum Cake Recipe, Learn how to make Plum Cake (absolutely delicious recipe of Plum Cake This Plum Cake recipe is Excellent and find more Great recipes, tried &amp; tested recipes from NDTV Food. A plum cake that you can make quickly and safely. Photos and step-by-step instructions help you bake. Plum Cake Recipe, a nostalgic Fruit Cake with Sponge Dough. 
+Plum Cake Recipe, Learn how to make Plum Cake (absolutely delicious recipe of Plum Cake This Plum Cake recipe is Excellent and find more Great recipes, tried & tested recipes from NDTV Food. A plum cake that you can make quickly and safely. Photos and step-by-step instructions help you bake. Plum Cake Recipe, a nostalgic Fruit Cake with Sponge Dough. 
 
 <!--inarticleads2-->
 
@@ -95,6 +95,6 @@ Plum Cake Recipe, Learn how to make Plum Cake (absolutely delicious recipe of Pl
 1. 
 
 
-Photos and step-by-step instructions help you bake. Plum Cake Recipe, a nostalgic Fruit Cake with Sponge Dough. A homemade butter cake batter is topped with sliced fresh plums and baked, for a simple yet special cake. Plum Coffee Cake Recipe &amp; Video. Fresh Plums look so pretty sitting on top of a cake. 
+Photos and step-by-step instructions help you bake. Plum Cake Recipe, a nostalgic Fruit Cake with Sponge Dough. A homemade butter cake batter is topped with sliced fresh plums and baked, for a simple yet special cake. Plum Coffee Cake Recipe & Video. Fresh Plums look so pretty sitting on top of a cake. 
 
 So that is going to wrap this up for this special food plum cake recipe. Thanks so much for reading. I'm sure you can make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

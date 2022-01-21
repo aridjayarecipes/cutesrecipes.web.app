@@ -70,6 +70,6 @@ Light and laid-back salad with Peking cabbage and tuna is ideal for breakfast, l
 1. Add sugar, ponzu, mayonnaise and tuna in a bowl and mix well. Add cabbage and mix well. Add sesame seed.
 
 
-Indulge yourself with a delicious salad, because it gives a good mood and positive emotions. 白菜（hakusai, Chinese cabbage) is one of the most consumed vegetables in Japan. With such healthy hakusai, this salad tastes creamy but refreshing, nutritious, and healthy. This salad with Chinese cabbage with tuna is verylight and low-calorie, but at the same time very nutritious and tasty. So, let&#39;s proceed to its preparation. Put all the ingredients in a salad bowl, sprinkle with lemon juice and. 
+Indulge yourself with a delicious salad, because it gives a good mood and positive emotions. 白菜（hakusai, Chinese cabbage) is one of the most consumed vegetables in Japan. With such healthy hakusai, this salad tastes creamy but refreshing, nutritious, and healthy. This salad with Chinese cabbage with tuna is verylight and low-calorie, but at the same time very nutritious and tasty. So, let's proceed to its preparation. Put all the ingredients in a salad bowl, sprinkle with lemon juice and. 
 
 So that's going to wrap this up with this special food chinese cabbage and tuna salad recipe. Thank you very much for your time. I am confident you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

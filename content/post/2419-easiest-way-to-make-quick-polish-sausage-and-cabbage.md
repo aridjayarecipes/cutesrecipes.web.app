@@ -17,10 +17,10 @@ recipeingredient:
 - "2 caps of vegetable oil"
 - " Salt black pepper and garlic"
 recipeinstructions:
-- "Cut up cabbage and dice 1/2 onion or full onion(optional). Add to a large pan with lid. Pour in 1 cup of water, 2 caps vegetable oil, and add your seasonings-salt, black pepper, and garlic. I just sprinkle it over top and if i think it needs more, after it steams a little bit, i&#39;ll add a little more. Let it steam over medium heat with lid on, stirring occasionally."
+- "Cut up cabbage and dice 1/2 onion or full onion(optional). Add to a large pan with lid. Pour in 1 cup of water, 2 caps vegetable oil, and add your seasonings-salt, black pepper, and garlic. I just sprinkle it over top and if i think it needs more, after it steams a little bit, i'll add a little more. Let it steam over medium heat with lid on, stirring occasionally."
 - "In a skillet, cut up polish sausage links, and let it slightly brown. Add 1 cap of oil, to prevent sticking. I have non-stick skillets and no oil is nessesary."
 - "After polish sausage slightly browns, pour it into the large pan with the cabbage and onion."
-- "Let it continue steaming with lid on, stirring occasionally, until cabbage and onion is soft and not hard. Then turn it off, it&#39;s done. Serve it hot or let it cool a little bit."
+- "Let it continue steaming with lid on, stirring occasionally, until cabbage and onion is soft and not hard. Then turn it off, it's done. Serve it hot or let it cool a little bit."
 categories:
 - Recipe
 tags:
@@ -68,10 +68,10 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 
 ##### Instructions to make Polish Sausage and Cabbage:
 
-1. Cut up cabbage and dice 1/2 onion or full onion(optional). Add to a large pan with lid. Pour in 1 cup of water, 2 caps vegetable oil, and add your seasonings-salt, black pepper, and garlic. I just sprinkle it over top and if i think it needs more, after it steams a little bit, i&#39;ll add a little more. Let it steam over medium heat with lid on, stirring occasionally.
+1. Cut up cabbage and dice 1/2 onion or full onion(optional). Add to a large pan with lid. Pour in 1 cup of water, 2 caps vegetable oil, and add your seasonings-salt, black pepper, and garlic. I just sprinkle it over top and if i think it needs more, after it steams a little bit, i'll add a little more. Let it steam over medium heat with lid on, stirring occasionally.
 1. In a skillet, cut up polish sausage links, and let it slightly brown. Add 1 cap of oil, to prevent sticking. I have non-stick skillets and no oil is nessesary.
 1. After polish sausage slightly browns, pour it into the large pan with the cabbage and onion.
-1. Let it continue steaming with lid on, stirring occasionally, until cabbage and onion is soft and not hard. Then turn it off, it&#39;s done. Serve it hot or let it cool a little bit.
+1. Let it continue steaming with lid on, stirring occasionally, until cabbage and onion is soft and not hard. Then turn it off, it's done. Serve it hot or let it cool a little bit.
 
 
 

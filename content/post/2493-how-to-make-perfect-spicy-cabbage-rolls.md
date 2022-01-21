@@ -30,7 +30,7 @@ recipeingredient:
 recipeinstructions:
 - "Take whole cabbage leaves and wash them properly"
 - "Now boil water in a big vessel, add the cabbage leaves and let them cook a little"
-- "Cook them, until it changes it&#39;s colour and becomes little soft, then take them out in a strainer"
+- "Cook them, until it changes it's colour and becomes little soft, then take them out in a strainer"
 - "On the other hand prepare the stuffing, gather all the ingredients at one place like chopped onions, garlic, ginger, green chilli, tricolour bell peppers, oregano, chilli flakes and italian seasoning"
 - "Heat butter in a pan and first put garlic, saute for few seconds, then add ginger and green chilli, saute again for few seconds, then add onions, saute for a minute, then add moong sprouts, saute for 2 - 3 minutes"
 - "Now add tricolour bell peppers, mix nicely, cook for 2 - 3 minutes, then add salt, oregano, chilli flakes and italian seasoning"
@@ -100,7 +100,7 @@ To get started with this recipe, we have to prepare a few components. You can co
 
 1. Take whole cabbage leaves and wash them properly
 1. Now boil water in a big vessel, add the cabbage leaves and let them cook a little
-1. Cook them, until it changes it&#39;s colour and becomes little soft, then take them out in a strainer
+1. Cook them, until it changes it's colour and becomes little soft, then take them out in a strainer
 1. On the other hand prepare the stuffing, gather all the ingredients at one place like chopped onions, garlic, ginger, green chilli, tricolour bell peppers, oregano, chilli flakes and italian seasoning
 1. Heat butter in a pan and first put garlic, saute for few seconds, then add ginger and green chilli, saute again for few seconds, then add onions, saute for a minute, then add moong sprouts, saute for 2 - 3 minutes
 1. Now add tricolour bell peppers, mix nicely, cook for 2 - 3 minutes, then add salt, oregano, chilli flakes and italian seasoning

@@ -22,8 +22,8 @@ recipeingredient:
 - "20 cashews"
 - "1 cup oil"
 recipeinstructions:
-- "Take a utensil heat up oil add cashews to it and fry cashews untill it&#39;s colour changes to brown.remove cashews from oil keep them in a plate."
-- "In the same oil add onion slices to it and cook it untill it&#39;s colour changes to lite brown.then add ginger,chilli and garlic paste."
+- "Take a utensil heat up oil add cashews to it and fry cashews untill it's colour changes to brown.remove cashews from oil keep them in a plate."
+- "In the same oil add onion slices to it and cook it untill it's colour changes to lite brown.then add ginger,chilli and garlic paste."
 - "Now add boiled peas,graded carrot,garam masala and salt to it simmer for 15 minutes on low flame.when carrot cook properly then add boiled rice to it.mix it very well"
 - "Now add cashews in the pulav. Carrot pulav is ready to serve.garnish with coriander leaves and carrot."
 categories:
@@ -77,8 +77,8 @@ How to cookspicy Peas and Carrot Pulav? Carrot Pulav - Its very quick and easy t
 
 ##### Instructions to make Carrot pulav:
 
-1. Take a utensil heat up oil add cashews to it and fry cashews untill it&#39;s colour changes to brown.remove cashews from oil keep them in a plate.
-1. In the same oil add onion slices to it and cook it untill it&#39;s colour changes to lite brown.then add ginger,chilli and garlic paste.
+1. Take a utensil heat up oil add cashews to it and fry cashews untill it's colour changes to brown.remove cashews from oil keep them in a plate.
+1. In the same oil add onion slices to it and cook it untill it's colour changes to lite brown.then add ginger,chilli and garlic paste.
 1. Now add boiled peas,graded carrot,garam masala and salt to it simmer for 15 minutes on low flame.when carrot cook properly then add boiled rice to it.mix it very well
 1. Now add cashews in the pulav. Carrot pulav is ready to serve.garnish with coriander leaves and carrot.
 

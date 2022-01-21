@@ -24,7 +24,7 @@ recipeingredient:
 - " Pasta Rotini or spiral"
 recipeinstructions:
 - "Start the pot of noodles. Cook bacon and then set aside in bowl. Saute brussel sprouts in the bacon grease until golden and then remove and put in the same bowl. Cook the chicken and put in bowl."
-- "Saute minced garlic, onion and 1 Tbs of broth. Slowly add in half &amp;half. Then add cream cheese and let it melt while stirring. Add seasonings."
+- "Saute minced garlic, onion and 1 Tbs of broth. Slowly add in half &half. Then add cream cheese and let it melt while stirring. Add seasonings."
 - "Pour in meats and brussel sprouts from the bowl and mix and add noodles. Slowly pour in chicken broth while mixing until consistency looks good."
 - "Let it cook for about 5 more minutes. Then enjoy!"
 categories:
@@ -66,9 +66,9 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Take  Yellow onion
 1. Prepare 1 Tbs minced garlic
 1. Take 1 c. and 1 Tbs Chicken broth
-1. Get 1 c. Half &amp; half
+1. Get 1 c. Half & half
 1. Take 8 oz cream cheese
-1. Prepare  Salt &amp; pepper
+1. Prepare  Salt & pepper
 1. Make ready  Ground mustard
 1. Get  Onion powder
 1. Take  Pasta (Rotini or spiral)
@@ -81,7 +81,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 ##### Steps to make Chicken Bacon Brussel Sprouts:
 
 1. Start the pot of noodles. Cook bacon and then set aside in bowl. Saute brussel sprouts in the bacon grease until golden and then remove and put in the same bowl. Cook the chicken and put in bowl.
-1. Saute minced garlic, onion and 1 Tbs of broth. Slowly add in half &amp;half. Then add cream cheese and let it melt while stirring. Add seasonings.
+1. Saute minced garlic, onion and 1 Tbs of broth. Slowly add in half &half. Then add cream cheese and let it melt while stirring. Add seasonings.
 1. Pour in meats and brussel sprouts from the bowl and mix and add noodles. Slowly pour in chicken broth while mixing until consistency looks good.
 1. Let it cook for about 5 more minutes. Then enjoy!
 

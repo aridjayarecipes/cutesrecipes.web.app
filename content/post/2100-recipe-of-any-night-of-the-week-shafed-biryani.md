@@ -49,8 +49,8 @@ recipeinstructions:
 - "Meanwhile soak basmati rice."
 - "In a pressure cooker put the marinated chicken and add water and ghee (if you want it you can add more ghee), mix everything properly again"
 - "Also add the two prepared potlis to the pressure cooker"
-- "Cover the lid of the pressure cooker and cook on very slow flame for 15 minutes.(don&#39;t wait for whistle any whistle)"
-- "Once it&#39;s 15 min take chicken off the pressure and open the lid now squeeze and remove the to potlis and keep aside."
+- "Cover the lid of the pressure cooker and cook on very slow flame for 15 minutes.(don't wait for whistle any whistle)"
+- "Once it's 15 min take chicken off the pressure and open the lid now squeeze and remove the to potlis and keep aside."
 - "Lightly give a mix to the chicken and the delicious creamy rich gravy and keep the cooker aside"
 - "Take another vessel and boil water to half cook the rice."
 - "Add the two potlis that we remove from the pressure cooker earlier and add them to the water."
@@ -135,8 +135,8 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Meanwhile soak basmati rice.
 1. In a pressure cooker put the marinated chicken and add water and ghee (if you want it you can add more ghee), mix everything properly again
 1. Also add the two prepared potlis to the pressure cooker
-1. Cover the lid of the pressure cooker and cook on very slow flame for 15 minutes.(don&#39;t wait for whistle any whistle)
-1. Once it&#39;s 15 min take chicken off the pressure and open the lid now squeeze and remove the to potlis and keep aside.
+1. Cover the lid of the pressure cooker and cook on very slow flame for 15 minutes.(don't wait for whistle any whistle)
+1. Once it's 15 min take chicken off the pressure and open the lid now squeeze and remove the to potlis and keep aside.
 1. Lightly give a mix to the chicken and the delicious creamy rich gravy and keep the cooker aside
 1. Take another vessel and boil water to half cook the rice.
 1. Add the two potlis that we remove from the pressure cooker earlier and add them to the water.

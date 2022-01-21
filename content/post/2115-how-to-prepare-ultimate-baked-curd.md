@@ -46,7 +46,7 @@ recipecategory: Dessert
 
 Hey everyone, I hope you are having an incredible day today. Today, we're going to prepare a distinctive dish, baked curd. It is one of my favorites. For mine, I am going to make it a bit unique. This will be really delicious.
 
-Your Baked Curd stock images are ready. Download all free or royalty-free photos and images. Use them in commercial designs under lifetime, perpetual &amp; worldwide rights. Store-bought lemon curd doesn&#39;t even deserve to share the same name as homemade.
+Your Baked Curd stock images are ready. Download all free or royalty-free photos and images. Use them in commercial designs under lifetime, perpetual & worldwide rights. Store-bought lemon curd doesn't even deserve to share the same name as homemade.
 
 Baked curd is one of the most well liked of recent trending foods on earth. It's easy, it's quick, it tastes yummy. It's enjoyed by millions every day. They're fine and they look wonderful. Baked curd is something which I have loved my whole life.
 

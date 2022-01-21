@@ -94,7 +94,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Take  Lime wedges
 
 
-Nowadays Thai restaurants are everywhere, and Thai curries are regular features on even the most British of pub menus. I for one am loving the Thai food boom! This recipe is not only delicious, but it&#39;s. Pad Thai is a Thai noodle stir fry with a sweet-savoury-sour sauce scattered with crushed peanuts. 
+Nowadays Thai restaurants are everywhere, and Thai curries are regular features on even the most British of pub menus. I for one am loving the Thai food boom! This recipe is not only delicious, but it's. Pad Thai is a Thai noodle stir fry with a sweet-savoury-sour sauce scattered with crushed peanuts. 
 
 <!--inarticleads2-->
 
@@ -110,6 +110,6 @@ Nowadays Thai restaurants are everywhere, and Thai curries are regular features 
 1. Plate noodles and garnish with cilantro, scallions, and peanuts. Squeeze more fresh lime juice over the top. Plate salmon on top of the noodles. Serve immediately. Enjoy.
 
 
-This recipe is not only delicious, but it&#39;s. Pad Thai is a Thai noodle stir fry with a sweet-savoury-sour sauce scattered with crushed peanuts. For my Pad Thai recipe, Salmon was going to be the star with the co-star being the sauce. My noodles are regular spaghetti noodles (Tinkyada Pasta Joy Gluten Free) and I skipped the egg. Need to whip something up for dinner in a hurry? 
+This recipe is not only delicious, but it's. Pad Thai is a Thai noodle stir fry with a sweet-savoury-sour sauce scattered with crushed peanuts. For my Pad Thai recipe, Salmon was going to be the star with the co-star being the sauce. My noodles are regular spaghetti noodles (Tinkyada Pasta Joy Gluten Free) and I skipped the egg. Need to whip something up for dinner in a hurry? 
 
 So that's going to wrap this up for this special food salmon pad thai recipe. Thank you very much for your time. I'm confident you can make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

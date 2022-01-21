@@ -35,7 +35,7 @@ recipeingredient:
 recipeinstructions:
 - "Add water, dash of salt, and butter to a small pot and bring to a rolling boil. Turn burner off, add rice, cover and let sit until water is absorbed."
 - "Once water is absorbed, add parsley, cayenne pepper, and lemon juice then fluff with fork. Set aside."
-- "Dice red bell pepper, and onion. Mince garlic. If you don&#39;t have a mincer, finely chop the garlic."
+- "Dice red bell pepper, and onion. Mince garlic. If you don't have a mincer, finely chop the garlic."
 - "Drain and rinse can of black beans and set aside."
 - "Carefully crack 4 eggs into a medium sized bowl. Add milk, and cayenne pepper then whisk until thoroughly mixed. Set aside."
 - "In large frying pan or sauce pan, heat the olive oil on medium to medium low heat. Once heated, add peppers and onion and cook until the onions are translucent, about 5 minutes. Add garlic and cook for another 30 seconds before adding the eggs."
@@ -105,7 +105,7 @@ To get started with this recipe, we must first prepare a few components. You can
 
 1. Add water, dash of salt, and butter to a small pot and bring to a rolling boil. Turn burner off, add rice, cover and let sit until water is absorbed.
 1. Once water is absorbed, add parsley, cayenne pepper, and lemon juice then fluff with fork. Set aside.
-1. Dice red bell pepper, and onion. Mince garlic. If you don&#39;t have a mincer, finely chop the garlic.
+1. Dice red bell pepper, and onion. Mince garlic. If you don't have a mincer, finely chop the garlic.
 1. Drain and rinse can of black beans and set aside.
 1. Carefully crack 4 eggs into a medium sized bowl. Add milk, and cayenne pepper then whisk until thoroughly mixed. Set aside.
 1. In large frying pan or sauce pan, heat the olive oil on medium to medium low heat. Once heated, add peppers and onion and cook until the onions are translucent, about 5 minutes. Add garlic and cook for another 30 seconds before adding the eggs.

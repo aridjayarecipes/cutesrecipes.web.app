@@ -1,6 +1,6 @@
 ---
-description: "Simple Way to Prepare Award-winning Fried Cabbage &amp;amp; Bacon"
-title: "Simple Way to Prepare Award-winning Fried Cabbage &amp;amp; Bacon"
+description: "Simple Way to Prepare Award-winning Fried Cabbage &amp; Bacon"
+title: "Simple Way to Prepare Award-winning Fried Cabbage &amp; Bacon"
 slug: 2438-simple-way-to-prepare-award-winning-fried-cabbage-and-amp-bacon
 date: 2022-01-15T14:37:01.025Z
 image: https://img-global.cpcdn.com/recipes/e91d7946a8127de8/680x482cq70/fried-cabbage-bacon-recipe-main-photo.jpg
@@ -41,20 +41,20 @@ recipecategory: Dinner
 ---
 
 
-![Fried Cabbage &amp; Bacon](https://img-global.cpcdn.com/recipes/e91d7946a8127de8/680x482cq70/fried-cabbage-bacon-recipe-main-photo.jpg)
+![Fried Cabbage & Bacon](https://img-global.cpcdn.com/recipes/e91d7946a8127de8/680x482cq70/fried-cabbage-bacon-recipe-main-photo.jpg)
 
-Hey everyone, it's Drew, welcome to our recipe site. Today, we're going to make a special dish, fried cabbage &amp; bacon. It is one of my favorites food recipes. For mine, I am going to make it a bit tasty. This is gonna smell and look delicious.
-
-
-
-Fried Cabbage &amp; Bacon is one of the most well liked of recent trending meals on earth. It is simple, it's quick, it tastes delicious. It's enjoyed by millions every day. They are fine and they look fantastic. Fried Cabbage &amp; Bacon is something that I've loved my whole life.
+Hey everyone, it's Drew, welcome to our recipe site. Today, we're going to make a special dish, fried cabbage & bacon. It is one of my favorites food recipes. For mine, I am going to make it a bit tasty. This is gonna smell and look delicious.
 
 
-To begin with this recipe, we have to first prepare a few ingredients. You can have fried cabbage &amp; bacon using 8 ingredients and 4 steps. Here is how you cook that.
+
+Fried Cabbage & Bacon is one of the most well liked of recent trending meals on earth. It is simple, it's quick, it tastes delicious. It's enjoyed by millions every day. They are fine and they look fantastic. Fried Cabbage & Bacon is something that I've loved my whole life.
+
+
+To begin with this recipe, we have to first prepare a few ingredients. You can have fried cabbage & bacon using 8 ingredients and 4 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Fried Cabbage &amp; Bacon:
+##### The ingredients needed to make Fried Cabbage & Bacon:
 
 1. Prepare 1 Head Cabbage
 1. Get 6-8 Slices if thick cut bacon
@@ -70,7 +70,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can h
 
 <!--inarticleads2-->
 
-##### Steps to make Fried Cabbage &amp; Bacon:
+##### Steps to make Fried Cabbage & Bacon:
 
 1. Core your cabbage and slice it up. Put in a strainer or colander or whatever and wash it. Let it drain for a bit.
 1. Start cooking down the bacon with the garlic. You don’t have to incinerate it. You’re just trying to get the fat out of it to pan fry the cabbage.
@@ -80,4 +80,4 @@ To begin with this recipe, we have to first prepare a few ingredients. You can h
 
 
 
-So that is going to wrap this up with this special food fried cabbage &amp; bacon recipe. Thanks so much for your time. I'm confident you will make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!
+So that is going to wrap this up with this special food fried cabbage & bacon recipe. Thanks so much for your time. I'm confident you will make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

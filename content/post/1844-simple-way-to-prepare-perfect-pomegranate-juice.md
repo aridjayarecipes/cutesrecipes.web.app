@@ -17,7 +17,7 @@ recipeinstructions:
 - "Take the outer layer of pomegranate off"
 - "But the seeds in the juicer and take the juice offf"
 - "Add sugar and black salt in it"
-- "It&#39;s ready to serveeee🍎"
+- "It's ready to serveeee🍎"
 categories:
 - Recipe
 tags:
@@ -64,7 +64,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Take the outer layer of pomegranate off
 1. But the seeds in the juicer and take the juice offf
 1. Add sugar and black salt in it
-1. It&#39;s ready to serveeee🍎
+1. It's ready to serveeee🍎
 
 
 

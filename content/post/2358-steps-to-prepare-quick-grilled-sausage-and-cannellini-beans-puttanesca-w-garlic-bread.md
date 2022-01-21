@@ -33,7 +33,7 @@ recipeinstructions:
 - "Stir in artichoke hearts, olives and capers"
 - "Heat up Grill Pan or exterior grill till hot add Sausages cook till thoroughly cooked inside set aside."
 - "Make Garlic bread: Pre-heat oven to 400 degrees F. Slice baguette in half length wise to create four 5 or 6 inch sections place pieces cut side up on a baking sheet."
-- "In a small sauce pan add butter on medium heat add tsp of Garlic saute until fragrant 1 or 2 mins,, don&#39;t burn,, remove from heat and put in a small bowl add oregano and red pepper flakes stir to combine."
+- "In a small sauce pan add butter on medium heat add tsp of Garlic saute until fragrant 1 or 2 mins,, don't burn,, remove from heat and put in a small bowl add oregano and red pepper flakes stir to combine."
 - "Using a pastry brush dip in butter and top baguette slices bake 7 to 10 minutes Serve immediately put bean mixture in 4 bowls top with sliced sausage, fresh basil and parmesan cheese."
 categories:
 - Recipe
@@ -98,7 +98,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Stir in artichoke hearts, olives and capers
 1. Heat up Grill Pan or exterior grill till hot add Sausages cook till thoroughly cooked inside set aside.
 1. Make Garlic bread: Pre-heat oven to 400 degrees F. Slice baguette in half length wise to create four 5 or 6 inch sections place pieces cut side up on a baking sheet.
-1. In a small sauce pan add butter on medium heat add tsp of Garlic saute until fragrant 1 or 2 mins,, don&#39;t burn,, remove from heat and put in a small bowl add oregano and red pepper flakes stir to combine.
+1. In a small sauce pan add butter on medium heat add tsp of Garlic saute until fragrant 1 or 2 mins,, don't burn,, remove from heat and put in a small bowl add oregano and red pepper flakes stir to combine.
 1. Using a pastry brush dip in butter and top baguette slices bake 7 to 10 minutes Serve immediately put bean mixture in 4 bowls top with sliced sausage, fresh basil and parmesan cheese.
 
 

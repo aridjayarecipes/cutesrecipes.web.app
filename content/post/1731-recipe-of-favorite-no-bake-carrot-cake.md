@@ -34,8 +34,8 @@ recipeinstructions:
 - "Prepare all the dry ingredients for the cake. Combine flour, salt, baking soda, cinnamon, nutmeg, and all spice in a bowl and mix."
 - "Prepare all wet ingredients in a separate bowl: brown sugar, oil, 2 tablespoons melted butter (leave about 1 tbsp to brush the inside of the pot/cooker), yogurt, vanilla extract, and mix well. Add beaten eggs slowly while mixing."
 - "Combine wet ingredients with the dry ingredients and mix. Add shredded carrots and chopped walnuts."
-- "Brush melted butter along the insides of the rice cooker&#39;s pot. Pour batter and press cook. Once it pops to warm, wait for about 10-15 minutes and press button back to cook. One might also need to flip the cake upside down using a plate to cook the other side. Depending on how hot the cooker gets, it might take a few more presses of the cook button for the cake to be fully ready. Make sure to check with a toothpick or a fork to see if it comes out clean. Once done, put on a rack to cool."
-- "While the cake cools, make the cream cheese frosting. In a bowl add softened cream cheese, confectioner&#39;s sugar, half a cup of yogurt, vanilla extract and lemon juice and mix well."
+- "Brush melted butter along the insides of the rice cooker's pot. Pour batter and press cook. Once it pops to warm, wait for about 10-15 minutes and press button back to cook. One might also need to flip the cake upside down using a plate to cook the other side. Depending on how hot the cooker gets, it might take a few more presses of the cook button for the cake to be fully ready. Make sure to check with a toothpick or a fork to see if it comes out clean. Once done, put on a rack to cool."
+- "While the cake cools, make the cream cheese frosting. In a bowl add softened cream cheese, confectioner's sugar, half a cup of yogurt, vanilla extract and lemon juice and mix well."
 - "Once cake has cooled down, top it with the cream cheese frosting and serve."
 categories:
 - Recipe
@@ -86,7 +86,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Take 1/2 cup plain yogurt
 1. Get  Frosting
 1. Get 100 g cream cheese softened
-1. Get 2 tablespoons confectioner&#39;s sugar
+1. Get 2 tablespoons confectioner's sugar
 1. Take 2 tablespoons lemon/calamansi juice
 1. Take 1/2 cup plain yogurt
 1. Take 1 teaspoon vanilla extract
@@ -101,8 +101,8 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Prepare all the dry ingredients for the cake. Combine flour, salt, baking soda, cinnamon, nutmeg, and all spice in a bowl and mix.
 1. Prepare all wet ingredients in a separate bowl: brown sugar, oil, 2 tablespoons melted butter (leave about 1 tbsp to brush the inside of the pot/cooker), yogurt, vanilla extract, and mix well. Add beaten eggs slowly while mixing.
 1. Combine wet ingredients with the dry ingredients and mix. Add shredded carrots and chopped walnuts.
-1. Brush melted butter along the insides of the rice cooker&#39;s pot. Pour batter and press cook. Once it pops to warm, wait for about 10-15 minutes and press button back to cook. One might also need to flip the cake upside down using a plate to cook the other side. Depending on how hot the cooker gets, it might take a few more presses of the cook button for the cake to be fully ready. Make sure to check with a toothpick or a fork to see if it comes out clean. Once done, put on a rack to cool.
-1. While the cake cools, make the cream cheese frosting. In a bowl add softened cream cheese, confectioner&#39;s sugar, half a cup of yogurt, vanilla extract and lemon juice and mix well.
+1. Brush melted butter along the insides of the rice cooker's pot. Pour batter and press cook. Once it pops to warm, wait for about 10-15 minutes and press button back to cook. One might also need to flip the cake upside down using a plate to cook the other side. Depending on how hot the cooker gets, it might take a few more presses of the cook button for the cake to be fully ready. Make sure to check with a toothpick or a fork to see if it comes out clean. Once done, put on a rack to cool.
+1. While the cake cools, make the cream cheese frosting. In a bowl add softened cream cheese, confectioner's sugar, half a cup of yogurt, vanilla extract and lemon juice and mix well.
 1. Once cake has cooled down, top it with the cream cheese frosting and serve.
 
 

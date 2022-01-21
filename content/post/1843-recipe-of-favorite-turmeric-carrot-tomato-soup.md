@@ -20,12 +20,12 @@ recipeingredient:
 - "1 Cup Water"
 - "1 tbsp Coriander leaves for garnishing"
 recipeinstructions:
-- "Clean all veggies. Remove skin of turmeric and cut in small pieces. Cut tomatoes and carrots too. It&#39;s fine if you cut them a but big as we will be cooking them in pressure cooker."
+- "Clean all veggies. Remove skin of turmeric and cut in small pieces. Cut tomatoes and carrots too. It's fine if you cut them a but big as we will be cooking them in pressure cooker."
 - "Put everything in pressure cooker along with water and very little salt. Pressure cook for 3 whistles."
 - "Once done let it cook for 10 minutes. Strain out the stock and keep aside."
 - "Put the cooked veggies in a blender and make a nice puree."
 - "Now strain this puree into the stock."
-- "It&#39;s time to boil the soup with seasoning of pepper, salt and sugar."
+- "It's time to boil the soup with seasoning of pepper, salt and sugar."
 - "Pour hot soup into bowl top it with fresh cream and garnish with coriander leaves."
 categories:
 - Recipe
@@ -77,12 +77,12 @@ To begin with this particular recipe, we must prepare a few components. You can 
 
 ##### Instructions to make Turmeric Carrot Tomato Soup:
 
-1. Clean all veggies. Remove skin of turmeric and cut in small pieces. Cut tomatoes and carrots too. It&#39;s fine if you cut them a but big as we will be cooking them in pressure cooker.
+1. Clean all veggies. Remove skin of turmeric and cut in small pieces. Cut tomatoes and carrots too. It's fine if you cut them a but big as we will be cooking them in pressure cooker.
 1. Put everything in pressure cooker along with water and very little salt. Pressure cook for 3 whistles.
 1. Once done let it cook for 10 minutes. Strain out the stock and keep aside.
 1. Put the cooked veggies in a blender and make a nice puree.
 1. Now strain this puree into the stock.
-1. It&#39;s time to boil the soup with seasoning of pepper, salt and sugar.
+1. It's time to boil the soup with seasoning of pepper, salt and sugar.
 1. Pour hot soup into bowl top it with fresh cream and garnish with coriander leaves.
 
 

@@ -76,7 +76,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Get 1/2 cup chopped or crushed walnuts
 
 
-The bananas need to be very ripe - I buy mine from a market stall and wait a couple of days until brown spots cover the skin. Gluten-free banana loaf - looks a lot like a brick. I&#39;ve been craving banana cake (gluten-free, of course) for days, since I dreamt - yes dreamt - about eating a massive slice after an entire day of throwing up. Our little family has been struck down with the &#39;flu for the past week, you see. 
+The bananas need to be very ripe - I buy mine from a market stall and wait a couple of days until brown spots cover the skin. Gluten-free banana loaf - looks a lot like a brick. I've been craving banana cake (gluten-free, of course) for days, since I dreamt - yes dreamt - about eating a massive slice after an entire day of throwing up. Our little family has been struck down with the 'flu for the past week, you see. 
 
 <!--inarticleads2-->
 
@@ -96,6 +96,6 @@ The bananas need to be very ripe - I buy mine from a market stall and wait a cou
 1. When done, remove from oven and aloe to rest in pan about 5 minutes. Demould loaf onto wire cooling rack. Allow to cool fully at room temperature (about 3-4 hours). Store in airtight container up to 4 days... if it last that long!
 
 
-I&#39;ve been craving banana cake (gluten-free, of course) for days, since I dreamt - yes dreamt - about eating a massive slice after an entire day of throwing up. Our little family has been struck down with the &#39;flu for the past week, you see. Preparation. a) Consume While Its Chilled b) Remove From The Pack And Place Into A Microwaveable Bowl. Leftover bananas that need eating up? There is no better solution than whipping up this banana loaf recipe - a sweet treat that everyone will love. 
+I've been craving banana cake (gluten-free, of course) for days, since I dreamt - yes dreamt - about eating a massive slice after an entire day of throwing up. Our little family has been struck down with the 'flu for the past week, you see. Preparation. a) Consume While Its Chilled b) Remove From The Pack And Place Into A Microwaveable Bowl. Leftover bananas that need eating up? There is no better solution than whipping up this banana loaf recipe - a sweet treat that everyone will love. 
 
 So that is going to wrap this up for this special food joyce’s gluten-free banana loaf recipe. Thank you very much for reading. I'm confident that you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

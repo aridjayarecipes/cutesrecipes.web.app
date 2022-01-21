@@ -22,9 +22,9 @@ recipeingredient:
 - "1 cup chopped walnuts optional"
 - " butter for greasing mini muffin pan"
 recipeinstructions:
-- "Preheat oven to 350 degrees. Lightly grease your mini muffin pan with butter &amp; a dusting of flour"
+- "Preheat oven to 350 degrees. Lightly grease your mini muffin pan with butter & a dusting of flour"
 - "Over a low flame melt the coconut oil using a small saucepan. Beat eggs, in a large mixing bowl, with a hand mixer until frothy."
-- "Add in sugar, melted coconut oil &amp; vanilla. Beat until blended.   Add in shredded carrots, salt, flour, baking powder &amp; cinnamon and combine ingredients well with the hand mixer.   NOTE: the carrots will not all breakdown. If you prefer the carrots well-blended, then chop them in advance of blending."
+- "Add in sugar, melted coconut oil & vanilla. Beat until blended.   Add in shredded carrots, salt, flour, baking powder & cinnamon and combine ingredients well with the hand mixer.   NOTE: the carrots will not all breakdown. If you prefer the carrots well-blended, then chop them in advance of blending."
 - "Spoon your mixture into your muffin pan and place in the oven. Bake 45-55 minutes.   After the muffins have baked for 45 minutes use a toothpick to test them. When the toothpick comes out dry – the muffins are done!"
 categories:
 - Recipe
@@ -78,9 +78,9 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 
 ##### Instructions to make Carrot Mini Muffins:
 
-1. Preheat oven to 350 degrees. - Lightly grease your mini muffin pan with butter &amp; a dusting of flour
+1. Preheat oven to 350 degrees. - Lightly grease your mini muffin pan with butter & a dusting of flour
 1. Over a low flame melt the coconut oil using a small saucepan. Beat eggs, in a large mixing bowl, with a hand mixer until frothy.
-1. Add in sugar, melted coconut oil &amp; vanilla. Beat until blended.  -  - Add in shredded carrots, salt, flour, baking powder &amp; cinnamon and combine ingredients well with the hand mixer.  -  - NOTE: the carrots will not all breakdown. If you prefer the carrots well-blended, then chop them in advance of blending.
+1. Add in sugar, melted coconut oil & vanilla. Beat until blended.  -  - Add in shredded carrots, salt, flour, baking powder & cinnamon and combine ingredients well with the hand mixer.  -  - NOTE: the carrots will not all breakdown. If you prefer the carrots well-blended, then chop them in advance of blending.
 1. Spoon your mixture into your muffin pan and place in the oven. Bake 45-55 minutes.  -  - After the muffins have baked for 45 minutes use a toothpick to test them. When the toothpick comes out dry – the muffins are done!
 
 

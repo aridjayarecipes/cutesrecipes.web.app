@@ -66,7 +66,7 @@ To begin with this recipe, we have to prepare a few components. You can cook plu
 1. Take 400 grams victoria plums quartered
 
 
-Plum Cake Recipe, Learn how to make Plum Cake (absolutely delicious recipe of Plum Cake This Plum Cake recipe is Excellent and find more Great recipes, tried &amp; tested recipes from NDTV Food. A plum cake that you can make quickly and safely. Photos and step-by-step instructions help you bake. Plum Cake Recipe, a nostalgic Fruit Cake with Sponge Dough. 
+Plum Cake Recipe, Learn how to make Plum Cake (absolutely delicious recipe of Plum Cake This Plum Cake recipe is Excellent and find more Great recipes, tried & tested recipes from NDTV Food. A plum cake that you can make quickly and safely. Photos and step-by-step instructions help you bake. Plum Cake Recipe, a nostalgic Fruit Cake with Sponge Dough. 
 
 <!--inarticleads2-->
 
@@ -79,6 +79,6 @@ Plum Cake Recipe, Learn how to make Plum Cake (absolutely delicious recipe of Pl
 1. Bake at 180 C for 40-45 minutes.  Cool in the tin for 15 minutes then turn to wire rack to cool completely
 
 
-Photos and step-by-step instructions help you bake. Plum Cake Recipe, a nostalgic Fruit Cake with Sponge Dough. A homemade butter cake batter is topped with sliced fresh plums and baked, for a simple yet special cake. Plum Coffee Cake Recipe &amp; Video. Fresh Plums look so pretty sitting on top of a cake. 
+Photos and step-by-step instructions help you bake. Plum Cake Recipe, a nostalgic Fruit Cake with Sponge Dough. A homemade butter cake batter is topped with sliced fresh plums and baked, for a simple yet special cake. Plum Coffee Cake Recipe & Video. Fresh Plums look so pretty sitting on top of a cake. 
 
 So that is going to wrap it up for this exceptional food plum cake recipe. Thank you very much for reading. I am sure that you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

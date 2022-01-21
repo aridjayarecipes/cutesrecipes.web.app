@@ -20,11 +20,11 @@ recipeingredient:
 - "1 tsp Ground Black Pepper"
 - "1 tsp Celery salt or very tiny chopped celery"
 recipeinstructions:
-- "Preheat your oven at 400&#39;F."
+- "Preheat your oven at 400'F."
 - "Mix all ingredients (except the swai fillet). You will get a thin spread with a few lumps."
 - "Spray a glass baking dish (or oven-safe pan) with cooking spray (or use butter/margarine). Put your thawed swai fillet inside the dish/pan; then, spread the already mixed ingredients over the swai fillet, covering the whole fish."
 - "Put the dish/pan inside your already preheated oven (or marinate for 30 minutes if you prefer)."
-- "Bake for 20 minutes, turning once (remember, at 400&#39;F)."
+- "Bake for 20 minutes, turning once (remember, at 400'F)."
 categories:
 - Recipe
 tags:
@@ -75,11 +75,11 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 ##### Instructions to make Baked Parmesan Swai Fish Fillet:
 
-1. Preheat your oven at 400&#39;F.
+1. Preheat your oven at 400'F.
 1. Mix all ingredients (except the swai fillet). You will get a thin spread with a few lumps.
 1. Spray a glass baking dish (or oven-safe pan) with cooking spray (or use butter/margarine). Put your thawed swai fillet inside the dish/pan; then, spread the already mixed ingredients over the swai fillet, covering the whole fish.
 1. Put the dish/pan inside your already preheated oven (or marinate for 30 minutes if you prefer).
-1. Bake for 20 minutes, turning once (remember, at 400&#39;F).
+1. Bake for 20 minutes, turning once (remember, at 400'F).
 
 
 

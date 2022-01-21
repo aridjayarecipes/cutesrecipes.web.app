@@ -57,7 +57,7 @@ Hello everybody, hope you are having an amazing day today. Today, we're going to
 
 Cinnamon rolls w/ Banana is one of the most well liked of recent trending meals in the world. It is easy, it is quick, it tastes delicious. It is appreciated by millions daily. They're fine and they look fantastic. Cinnamon rolls w/ Banana is something that I have loved my whole life.
 
-Leave dough to proof under a tea towel in a warm spot for. The BEST cinnamon rolls in the WORLD. Big, fluffy, soft and absolutely delicious. You&#39;ll never go back to any other recipe once you try this one!
+Leave dough to proof under a tea towel in a warm spot for. The BEST cinnamon rolls in the WORLD. Big, fluffy, soft and absolutely delicious. You'll never go back to any other recipe once you try this one!
 
 
 To get started with this particular recipe, we must prepare a few components. You can have cinnamon rolls w/ banana using 13 ingredients and 9 steps. Here is how you cook it.

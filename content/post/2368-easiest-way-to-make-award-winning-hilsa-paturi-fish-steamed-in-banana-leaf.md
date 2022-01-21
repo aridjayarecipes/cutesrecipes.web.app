@@ -46,7 +46,7 @@ recipecategory: Lunch
 
 Hello everybody, it's Drew, welcome to our recipe page. Today, we're going to make a special dish, hilsa paturi (fish steamed in banana leaf). It is one of my favorites. For mine, I will make it a little bit unique. This is gonna smell and look delicious.
 
-Ilish Macher Paturi combines three of Bengal&#39;s greatest loves—the Hilsa fish, the banana plant, and mustard. The very mention of ilish paturi makes my mouth water. I am in love with the smell of banana leaves in which the fish is wrapped. Ilish paturi when served with steamed rice is match made in heaven.
+Ilish Macher Paturi combines three of Bengal's greatest loves—the Hilsa fish, the banana plant, and mustard. The very mention of ilish paturi makes my mouth water. I am in love with the smell of banana leaves in which the fish is wrapped. Ilish paturi when served with steamed rice is match made in heaven.
 
 Hilsa paturi (fish steamed in banana leaf) is one of the most favored of current trending meals in the world. It's simple, it's fast, it tastes delicious. It is enjoyed by millions daily. Hilsa paturi (fish steamed in banana leaf) is something which I've loved my whole life. They're fine and they look wonderful.
 

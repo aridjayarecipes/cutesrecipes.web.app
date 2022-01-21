@@ -26,7 +26,7 @@ recipeinstructions:
 - "Turn to low speed and gradually add the flour. Mix until combined or start to form a dough."
 - "Using a half-tablespoon measuring spoon, scoop the dough and roll into smooth balls. Then place them on your baking sheet about 1 inches apart."
 - "Make the indentations by using the back of a ¼ teaspoon measuring spoon. Press down gently. (some cracks are normal. just smooth them back using your fingers). Place the tray of unbaked cookies into the refrigerator for at least 10 minutes."
-- "Using a small spoon, fill each cookie with jam (don&#39;t overfill or it will spill out during baking)."
+- "Using a small spoon, fill each cookie with jam (don't overfill or it will spill out during baking)."
 - "Bake in the oven for 15 minutes or until lightly golden brown. Remove from oven and let cool on cooling rack for 10-15 minutes before serving. Dust with powdered sugar if desired."
 categories:
 - Recipe
@@ -84,7 +84,7 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Turn to low speed and gradually add the flour. Mix until combined or start to form a dough.
 1. Using a half-tablespoon measuring spoon, scoop the dough and roll into smooth balls. Then place them on your baking sheet about 1 inches apart.
 1. Make the indentations by using the back of a ¼ teaspoon measuring spoon. Press down gently. (some cracks are normal. just smooth them back using your fingers). Place the tray of unbaked cookies into the refrigerator for at least 10 minutes.
-1. Using a small spoon, fill each cookie with jam (don&#39;t overfill or it will spill out during baking).
+1. Using a small spoon, fill each cookie with jam (don't overfill or it will spill out during baking).
 1. Bake in the oven for 15 minutes or until lightly golden brown. Remove from oven and let cool on cooling rack for 10-15 minutes before serving. Dust with powdered sugar if desired.
 
 

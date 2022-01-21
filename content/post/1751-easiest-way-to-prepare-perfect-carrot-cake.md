@@ -69,7 +69,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 ##### The ingredients needed to make Carrot Cake:
 
 1. Get  Carrot Cake:
-1. Take 1 cup pecans or walnuts- lightly baked &amp; coarsely chopped
+1. Take 1 cup pecans or walnuts- lightly baked & coarsely chopped
 1. Take 340 g raw carrots (about 2 1/2 cups finely grated)
 1. Get 2 cups all-purpose flour
 1. Get 1 teaspoon baking soda

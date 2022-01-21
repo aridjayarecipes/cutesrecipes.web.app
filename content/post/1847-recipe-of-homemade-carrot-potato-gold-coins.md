@@ -27,9 +27,9 @@ recipeinstructions:
 - "Mix it and keep it aside."
 - "Now cut the bread in round shape."
 - "In another bowl mix grated coriander leaves, grated carrots and sesame seeds."
-- "Now take bread slice, slightly make it wet on top part. Now take some potato mixture and spread it evenly on the bread. Don&#39;t apply too much pressure."
+- "Now take bread slice, slightly make it wet on top part. Now take some potato mixture and spread it evenly on the bread. Don't apply too much pressure."
 - "Now on top of the potato mixture spread the carrot mixture and softly press it on the potatoes."
-- "Now take a nonstick pan, pour about 3 tbsp of oil &amp; heat on low flame."
+- "Now take a nonstick pan, pour about 3 tbsp of oil & heat on low flame."
 - "Now place the ready bread slices on the pan with the potato side up. Cook this on low flame till the bread turns nice and crispy."
 - "Once the base is done turn and cook the other side till it turns golden brown. Pour 3 tbs oil on the pan. Continue cooking on low flame."
 - "Yummy crispy carrot potato GoldCoins are ready. Serve them hot with coriander-pudina chutney. Serve them as whole round or make half and serve."
@@ -66,7 +66,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 ##### The ingredients needed to make Carrot Potato Gold Coins:
 
-1. Prepare 1 cup Boiled &amp; Mashed potatoes
+1. Prepare 1 cup Boiled & Mashed potatoes
 1. Make ready 1/4 cup Finely chopped capsicum
 1. Take 1/2 cup Finely chopped onion
 1. Take 1 tbsp Grated garlic
@@ -90,9 +90,9 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Mix it and keep it aside.
 1. Now cut the bread in round shape.
 1. In another bowl mix grated coriander leaves, grated carrots and sesame seeds.
-1. Now take bread slice, slightly make it wet on top part. Now take some potato mixture and spread it evenly on the bread. Don&#39;t apply too much pressure.
+1. Now take bread slice, slightly make it wet on top part. Now take some potato mixture and spread it evenly on the bread. Don't apply too much pressure.
 1. Now on top of the potato mixture spread the carrot mixture and softly press it on the potatoes.
-1. Now take a nonstick pan, pour about 3 tbsp of oil &amp; heat on low flame.
+1. Now take a nonstick pan, pour about 3 tbsp of oil & heat on low flame.
 1. Now place the ready bread slices on the pan with the potato side up. Cook this on low flame till the bread turns nice and crispy.
 1. Once the base is done turn and cook the other side till it turns golden brown. Pour 3 tbs oil on the pan. Continue cooking on low flame.
 1. Yummy crispy carrot potato GoldCoins are ready. Serve them hot with coriander-pudina chutney. Serve them as whole round or make half and serve.

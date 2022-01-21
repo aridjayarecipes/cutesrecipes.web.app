@@ -1,6 +1,6 @@
 ---
-description: "Steps to Prepare Homemade Cajun Style - Chicken, Black Beans &amp;amp; Brown Rice"
-title: "Steps to Prepare Homemade Cajun Style - Chicken, Black Beans &amp;amp; Brown Rice"
+description: "Steps to Prepare Homemade Cajun Style - Chicken, Black Beans &amp; Brown Rice"
+title: "Steps to Prepare Homemade Cajun Style - Chicken, Black Beans &amp; Brown Rice"
 slug: 2378-steps-to-prepare-homemade-cajun-style-chicken-black-beans-and-amp-brown-rice
 date: 2022-03-02T21:12:18.377Z
 image: https://img-global.cpcdn.com/recipes/6144832501186560/680x482cq70/cajun-style-chicken-black-beans-brown-rice-recipe-main-photo.jpg
@@ -46,30 +46,30 @@ recipecategory: Lunch
 ---
 
 
-![Cajun Style - Chicken, Black Beans &amp; Brown Rice](https://img-global.cpcdn.com/recipes/6144832501186560/680x482cq70/cajun-style-chicken-black-beans-brown-rice-recipe-main-photo.jpg)
+![Cajun Style - Chicken, Black Beans & Brown Rice](https://img-global.cpcdn.com/recipes/6144832501186560/680x482cq70/cajun-style-chicken-black-beans-brown-rice-recipe-main-photo.jpg)
 
-Hey everyone, it's John, welcome to our recipe page. Today, I'm gonna show you how to make a special dish, cajun style - chicken, black beans &amp; brown rice. It is one of my favorites. This time, I'm gonna make it a bit tasty. This will be really delicious.
-
-
-
-Cajun Style - Chicken, Black Beans &amp; Brown Rice is one of the most popular of recent trending foods in the world. It's enjoyed by millions daily. It's easy, it is quick, it tastes yummy. They are fine and they look wonderful. Cajun Style - Chicken, Black Beans &amp; Brown Rice is something which I have loved my entire life.
+Hey everyone, it's John, welcome to our recipe page. Today, I'm gonna show you how to make a special dish, cajun style - chicken, black beans & brown rice. It is one of my favorites. This time, I'm gonna make it a bit tasty. This will be really delicious.
 
 
-To get started with this particular recipe, we have to first prepare a few ingredients. You can cook cajun style - chicken, black beans &amp; brown rice using 12 ingredients and 5 steps. Here is how you cook that.
+
+Cajun Style - Chicken, Black Beans & Brown Rice is one of the most popular of recent trending foods in the world. It's enjoyed by millions daily. It's easy, it is quick, it tastes yummy. They are fine and they look wonderful. Cajun Style - Chicken, Black Beans & Brown Rice is something which I have loved my entire life.
+
+
+To get started with this particular recipe, we have to first prepare a few ingredients. You can cook cajun style - chicken, black beans & brown rice using 12 ingredients and 5 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Cajun Style - Chicken, Black Beans &amp; Brown Rice:
+##### The ingredients needed to make Cajun Style - Chicken, Black Beans & Brown Rice:
 
 1. Make ready 1 tbsp olive oil, extra virgin
-1. Prepare 1 cup Uncle Ben&#39;s Brown Rice
+1. Prepare 1 cup Uncle Ben's Brown Rice
 1. Get 1 tsp Chipotle Chile Powder
 1. Prepare 1 tsp Cajun Seasoning
 1. Prepare 1 clove garlic
 1. Get 1 1/2 cup Chicken Broth from (Wylers Granules)
-1. Make ready 1 can (15 oz) Bush&#39;s Black Beans, Rinsed
+1. Make ready 1 can (15 oz) Bush's Black Beans, Rinsed
 1. Prepare 1 can (14.5 oz) Del Monte Dices Tomatoes- Zesty Italian
-1. Prepare 1 can 10 oz Ro*Tel Diced Tomatoes &amp; Green Chilies, Drained
+1. Prepare 1 can 10 oz Ro*Tel Diced Tomatoes & Green Chilies, Drained
 1. Make ready 1 large Chicken Breast, Diced
 1. Make ready 1/2 tbsp olive oil, extra virgin
 1. Get 1/2 tsp Cajun Seasoning
@@ -79,7 +79,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 
 <!--inarticleads2-->
 
-##### Instructions to make Cajun Style - Chicken, Black Beans &amp; Brown Rice:
+##### Instructions to make Cajun Style - Chicken, Black Beans & Brown Rice:
 
 1. Heat a large non-stick skillet and  (1 Tbs.) of the oil over a medium heat.
 1. Add Rice, Chili powder and (1 teaspoon) Cajun Seasoning to Skillet: cook for 2 minutes or until golden brown, stirring continually.
@@ -90,4 +90,4 @@ To get started with this particular recipe, we have to first prepare a few ingre
 
 
 
-So that's going to wrap it up with this exceptional food cajun style - chicken, black beans &amp; brown rice recipe. Thanks so much for reading. I'm confident you can make this at home. There's gonna be interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!
+So that's going to wrap it up with this exceptional food cajun style - chicken, black beans & brown rice recipe. Thanks so much for reading. I'm confident you can make this at home. There's gonna be interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

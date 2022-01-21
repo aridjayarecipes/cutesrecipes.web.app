@@ -47,7 +47,7 @@ recipecategory: Dinner
 
 Hello everybody, hope you're having an incredible day today. Today, we're going to make a special dish, beans and carrots stir fry. It is one of my favorites. This time, I am going to make it a bit unique. This is gonna smell and look delicious.
 
-Let ½ tsp cumin ¼ mustard splutter in hot oil. Green beans and carrot stir fry. మా ఫంక్షన్లో కేటరింగ్ వాళ్ళు చేసిన రెండవ రెసిపీ Catering Style beans carrot fry. This easy stir-fry brings together tender bites of chicken, green beans, and carrots with a unique sauce made with soy glaze, sesame oil, and our own black bean-chile sauce—for savory flavor and a layer of subtle heat in every bite. It&#39;s all balanced by a bed of fluffy jasmine rice.
+Let ½ tsp cumin ¼ mustard splutter in hot oil. Green beans and carrot stir fry. మా ఫంక్షన్లో కేటరింగ్ వాళ్ళు చేసిన రెండవ రెసిపీ Catering Style beans carrot fry. This easy stir-fry brings together tender bites of chicken, green beans, and carrots with a unique sauce made with soy glaze, sesame oil, and our own black bean-chile sauce—for savory flavor and a layer of subtle heat in every bite. It's all balanced by a bed of fluffy jasmine rice.
 
 Beans and carrots stir fry is one of the most popular of current trending foods on earth. It's simple, it's quick, it tastes delicious. It is appreciated by millions daily. They are nice and they look fantastic. Beans and carrots stir fry is something that I have loved my whole life.
 

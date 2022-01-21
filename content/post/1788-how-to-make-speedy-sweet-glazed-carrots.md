@@ -41,7 +41,7 @@ Hey everyone, it is John, welcome to our recipe page. Today, I will show you a w
 
 Sweet glazed carrots is one of the most popular of recent trending foods on earth. It is enjoyed by millions daily. It is simple, it is quick, it tastes delicious. Sweet glazed carrots is something that I've loved my whole life. They are fine and they look fantastic.
 
-Best carrots to use for Glazed Carrots - Any! Baby carrots, dutch carrots, standard carrots Well, these are Glazed Carrots so they are sweet! Carrots are glazed with a butter and brown sugar glaze in this simple but delicious side dish. I don&#39;t think I would use fresh from the garden carrots for this, as they are usually pretty sweet.
+Best carrots to use for Glazed Carrots - Any! Baby carrots, dutch carrots, standard carrots Well, these are Glazed Carrots so they are sweet! Carrots are glazed with a butter and brown sugar glaze in this simple but delicious side dish. I don't think I would use fresh from the garden carrots for this, as they are usually pretty sweet.
 
 
 To get started with this particular recipe, we have to first prepare a few ingredients. You can have sweet glazed carrots using 5 ingredients and 1 steps. Here is how you cook it.
@@ -57,7 +57,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 1. Get Pinch salt
 
 
-As for what you use, that part is dependent on your own tastes. These honey glazed carrots are an easy sheet pan recipe that transforms the everyday carrot into a show-stopping sweet and savory side dish (that&#39;s also highly addictive). Glazed carrots are a classic side dish for all kinds of special occasions. Carrots and radishes give color and crunch to this sweet, spicy side. 
+As for what you use, that part is dependent on your own tastes. These honey glazed carrots are an easy sheet pan recipe that transforms the everyday carrot into a show-stopping sweet and savory side dish (that's also highly addictive). Glazed carrots are a classic side dish for all kinds of special occasions. Carrots and radishes give color and crunch to this sweet, spicy side. 
 
 <!--inarticleads2-->
 

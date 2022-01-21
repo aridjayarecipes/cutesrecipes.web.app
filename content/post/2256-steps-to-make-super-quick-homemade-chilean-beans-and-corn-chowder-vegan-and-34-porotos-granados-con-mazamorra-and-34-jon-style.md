@@ -39,7 +39,7 @@ recipeinstructions:
 - "Weigh, measure and cut all the necessary ingredients for the recipe . Check that the dried beans do not have pebbles. Put the beans in a pot and cover them with the water. Bring it to a boil. Lower the heat and let it cook slowly for about 1 hour until soft ."
 - "In a small pot, put the squash with water to cook. Puree the squash with the liquid.  Put 3/4 of the corn kennels in a blender and pure it."
 - "In a deep pot , fry the onion with the garlic . Add green pepper, red pepper, carrots and make them sweat. Add the cooked beans with the liquid, corn pure, the corn kernels that were not crushed, pumpkin puree, basil, salt and pepper"
-- "Bring to a boil, lower the heat, cover and cook slowly for about 20 minutes. Stir occasionally so they don&#39;t stick to the bottom of the pot."
+- "Bring to a boil, lower the heat, cover and cook slowly for about 20 minutes. Stir occasionally so they don't stick to the bottom of the pot."
 - "PEBRE In a bowl mix all the ingredients together. Decorate the beans and corn chowder with it."
 - "Serve the beans and corn chowder with Pebre and drizzle olive oil with paprika. https://youtu.be/JVTrzbpcJ2w"
 categories:
@@ -111,7 +111,7 @@ Other common ingredients are onions, and herbs such as cumin, basil and oregano.
 1. Weigh, measure and cut all the necessary ingredients for the recipe . - Check that the dried beans do not have pebbles. - Put the beans in a pot and cover them with the water. Bring it to a boil. Lower the heat and let it cook slowly for about 1 hour until soft .
 1. In a small pot, put the squash with water to cook. Puree the squash with the liquid.  - Put 3/4 of the corn kennels in a blender and pure it.
 1. In a deep pot , fry the onion with the garlic . - Add green pepper, red pepper, carrots and make them sweat. - Add the cooked beans with the liquid, corn pure, the corn kernels that were not crushed, pumpkin puree, basil, salt and pepper
-1. Bring to a boil, lower the heat, cover and cook slowly for about 20 minutes. Stir occasionally so they don&#39;t stick to the bottom of the pot.
+1. Bring to a boil, lower the heat, cover and cook slowly for about 20 minutes. Stir occasionally so they don't stick to the bottom of the pot.
 1. PEBRE - In a bowl mix all the ingredients together. - Decorate the beans and corn chowder with it.
 1. Serve the beans and corn chowder with Pebre and drizzle olive oil with paprika. - https://youtu.be/JVTrzbpcJ2w
 

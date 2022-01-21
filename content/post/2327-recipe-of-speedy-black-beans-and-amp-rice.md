@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Speedy Black Beans &amp;amp; Rice"
-title: "Recipe of Speedy Black Beans &amp;amp; Rice"
+description: "Recipe of Speedy Black Beans &amp; Rice"
+title: "Recipe of Speedy Black Beans &amp; Rice"
 slug: 2327-recipe-of-speedy-black-beans-and-amp-rice
 date: 2021-12-29T12:51:26.389Z
 image: https://img-global.cpcdn.com/recipes/a37047de842aa615/680x482cq70/black-beans-rice-recipe-main-photo.jpg
@@ -48,20 +48,20 @@ recipecategory: Dinner
 ---
 
 
-![Black Beans &amp; Rice](https://img-global.cpcdn.com/recipes/a37047de842aa615/680x482cq70/black-beans-rice-recipe-main-photo.jpg)
+![Black Beans & Rice](https://img-global.cpcdn.com/recipes/a37047de842aa615/680x482cq70/black-beans-rice-recipe-main-photo.jpg)
 
-Hello everybody, it's Brad, welcome to my recipe page. Today, we're going to prepare a special dish, black beans &amp; rice. One of my favorites. For mine, I will make it a little bit unique. This is gonna smell and look delicious.
-
-
-
-Black Beans &amp; Rice is one of the most favored of recent trending foods in the world. It is enjoyed by millions every day. It is easy, it is quick, it tastes yummy. Black Beans &amp; Rice is something that I've loved my entire life. They are nice and they look wonderful.
+Hello everybody, it's Brad, welcome to my recipe page. Today, we're going to prepare a special dish, black beans & rice. One of my favorites. For mine, I will make it a little bit unique. This is gonna smell and look delicious.
 
 
-To begin with this recipe, we must prepare a few components. You can cook black beans &amp; rice using 11 ingredients and 8 steps. Here is how you can achieve that.
+
+Black Beans & Rice is one of the most favored of recent trending foods in the world. It is enjoyed by millions every day. It is easy, it is quick, it tastes yummy. Black Beans & Rice is something that I've loved my entire life. They are nice and they look wonderful.
+
+
+To begin with this recipe, we must prepare a few components. You can cook black beans & rice using 11 ingredients and 8 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Black Beans &amp; Rice:
+##### The ingredients needed to make Black Beans & Rice:
 
 1. Take 1 C rice
 1. Take 2 C + 1 T beef stock
@@ -73,14 +73,14 @@ To begin with this recipe, we must prepare a few components. You can cook black 
 1. Get 1 t paprika
 1. Make ready 2 T butter
 1. Prepare as needed vegetable oil
-1. Prepare 1 pinch kosher salt &amp; black pepper
+1. Prepare 1 pinch kosher salt & black pepper
 
 
 
 
 <!--inarticleads2-->
 
-##### Steps to make Black Beans &amp; Rice:
+##### Steps to make Black Beans & Rice:
 
 1. Heat beef stock seperately in a small saucepot.
 1. Heat enough vegetable oil to cover the bottom of a small sauce pot.
@@ -94,4 +94,4 @@ To begin with this recipe, we must prepare a few components. You can cook black 
 
 
 
-So that is going to wrap this up for this exceptional food black beans &amp; rice recipe. Thanks so much for reading. I am confident you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!
+So that is going to wrap this up for this exceptional food black beans & rice recipe. Thanks so much for reading. I am confident you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

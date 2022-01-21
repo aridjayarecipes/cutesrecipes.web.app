@@ -1,6 +1,6 @@
 ---
-description: "Steps to Make Speedy My Quick Healthy Chicken &amp;amp; Barley Soup 😉"
-title: "Steps to Make Speedy My Quick Healthy Chicken &amp;amp; Barley Soup 😉"
+description: "Steps to Make Speedy My Quick Healthy Chicken &amp; Barley Soup 😉"
+title: "Steps to Make Speedy My Quick Healthy Chicken &amp; Barley Soup 😉"
 slug: 2523-steps-to-make-speedy-my-quick-healthy-chicken-and-amp-barley-soup
 date: 2022-01-28T21:30:12.407Z
 image: https://img-global.cpcdn.com/recipes/15886a3cff7d82e8/680x482cq70/my-quick-healthy-chicken-barley-soup-recipe-main-photo.jpg
@@ -45,20 +45,20 @@ recipecategory: Lunch
 ---
 
 
-![My Quick Healthy Chicken &amp; Barley Soup 😉](https://img-global.cpcdn.com/recipes/15886a3cff7d82e8/680x482cq70/my-quick-healthy-chicken-barley-soup-recipe-main-photo.jpg)
+![My Quick Healthy Chicken & Barley Soup 😉](https://img-global.cpcdn.com/recipes/15886a3cff7d82e8/680x482cq70/my-quick-healthy-chicken-barley-soup-recipe-main-photo.jpg)
 
-Hello everybody, it's me, Dave, welcome to my recipe site. Today, I will show you a way to prepare a special dish, my quick healthy chicken &amp; barley soup 😉. One of my favorites. This time, I am going to make it a bit unique. This will be really delicious.
-
-
-
-My Quick Healthy Chicken &amp; Barley Soup 😉 is one of the most favored of recent trending foods on earth. It is simple, it is quick, it tastes yummy. It's appreciated by millions daily. They're nice and they look wonderful. My Quick Healthy Chicken &amp; Barley Soup 😉 is something that I've loved my whole life.
+Hello everybody, it's me, Dave, welcome to my recipe site. Today, I will show you a way to prepare a special dish, my quick healthy chicken & barley soup 😉. One of my favorites. This time, I am going to make it a bit unique. This will be really delicious.
 
 
-To get started with this recipe, we must first prepare a few ingredients. You can cook my quick healthy chicken &amp; barley soup 😉 using 11 ingredients and 5 steps. Here is how you cook that.
+
+My Quick Healthy Chicken & Barley Soup 😉 is one of the most favored of recent trending foods on earth. It is simple, it is quick, it tastes yummy. It's appreciated by millions daily. They're nice and they look wonderful. My Quick Healthy Chicken & Barley Soup 😉 is something that I've loved my whole life.
+
+
+To get started with this recipe, we must first prepare a few ingredients. You can cook my quick healthy chicken & barley soup 😉 using 11 ingredients and 5 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make My Quick Healthy Chicken &amp; Barley Soup 😉:
+##### The ingredients needed to make My Quick Healthy Chicken & Barley Soup 😉:
 
 1. Make ready 1 Cup Barley
 1. Take 1/2 Medium sized onion diced
@@ -77,7 +77,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 <!--inarticleads2-->
 
-##### Instructions to make My Quick Healthy Chicken &amp; Barley Soup 😉:
+##### Instructions to make My Quick Healthy Chicken & Barley Soup 😉:
 
 1. Just add everything to a large pan all together and stir in the Boiling water.
 1. 
@@ -88,4 +88,4 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 
 
-So that's going to wrap it up with this exceptional food my quick healthy chicken &amp; barley soup 😉 recipe. Thank you very much for reading. I am sure that you can make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!
+So that's going to wrap it up with this exceptional food my quick healthy chicken & barley soup 😉 recipe. Thank you very much for reading. I am sure that you can make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

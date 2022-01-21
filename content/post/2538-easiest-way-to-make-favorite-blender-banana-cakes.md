@@ -43,7 +43,7 @@ Hey everyone, it's Brad, welcome to our recipe site. Today, I will show you a wa
 
 Blender banana cakes is one of the most popular of current trending foods in the world. It's appreciated by millions every day. It's easy, it is fast, it tastes delicious. Blender banana cakes is something that I have loved my whole life. They are nice and they look wonderful.
 
-for every like on this video i&#39;ll give a banana to Suzanne patreon: https Me, who knows absolutely nothing about blender but watching this anyway: "I like your funny words magic man"..cake in blender,yummy,blender cake recipe by yummy,chocolate banana cake by yummy. WELCOME TO YUMMY TODAY&#39;S RECIPE IS Chocolate Banana Cake In Blender Naturally-sweetened, dairy-free, and gluten-free, they&#39;re the perfect weekend / weekday breakfast treat! Banana oatmeal pancakes made right in the blender!
+for every like on this video i'll give a banana to Suzanne patreon: https Me, who knows absolutely nothing about blender but watching this anyway: "I like your funny words magic man"..cake in blender,yummy,blender cake recipe by yummy,chocolate banana cake by yummy. WELCOME TO YUMMY TODAY'S RECIPE IS Chocolate Banana Cake In Blender Naturally-sweetened, dairy-free, and gluten-free, they're the perfect weekend / weekday breakfast treat! Banana oatmeal pancakes made right in the blender!
 
 
 To begin with this recipe, we must prepare a few components. You can have blender banana cakes using 5 ingredients and 3 steps. Here is how you cook that.
@@ -70,6 +70,6 @@ Naturally sweetened, dairy-free, and gluten-free, they make the Simply throw the
 1. Enjoy with nutella or pancake syrup.
 
 
-If I never see another cough drop again it will still be too soon. This one-bowl Chocolate Banana Applesauce Cake is made without oil, eggs, or butter and is perfect for snacking! My traditional &#39;Banana Blender Pancakes&#39; with a healthier &#39;flax egg swap&#39;. You won&#39;t taste or see a difference. This is a perfect cake when you don&#39;t want to waste too much time in the kitchen or you have your mixer broken, as well as you have a chance to use your blender in order to cook this gorgeous cake. 
+If I never see another cough drop again it will still be too soon. This one-bowl Chocolate Banana Applesauce Cake is made without oil, eggs, or butter and is perfect for snacking! My traditional 'Banana Blender Pancakes' with a healthier 'flax egg swap'. You won't taste or see a difference. This is a perfect cake when you don't want to waste too much time in the kitchen or you have your mixer broken, as well as you have a chance to use your blender in order to cook this gorgeous cake. 
 
 So that's going to wrap this up for this special food blender banana cakes recipe. Thanks so much for your time. I'm sure you can make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

@@ -32,7 +32,7 @@ recipeinstructions:
 - "In a medium bowl, mash the banana with a fork until mostly mashed but still a bit chunky. Whisk in the sugar, egg, butter, and vanilla."
 - "Add the wet ingredients and walnuts to the dry ingredients all at once and fold together only until combined - be careful not to over mix."
 - "Bake for 20 minutes, or until the edges are golden brown and a toothpick inserted into one of their centre comes out clean."
-- "In a small bowl, whisk yogurt, sugar, and vanilla together until smooth. Put in the fridge to chill for at least 30 minutes. When your muffins are completely cool and you&#39;re ready to serve them, you can spread a bit of the icing on each one. Sprinkle some chopped walnuts on top, or just leave them plain. Enjoy!"
+- "In a small bowl, whisk yogurt, sugar, and vanilla together until smooth. Put in the fridge to chill for at least 30 minutes. When your muffins are completely cool and you're ready to serve them, you can spread a bit of the icing on each one. Sprinkle some chopped walnuts on top, or just leave them plain. Enjoy!"
 categories:
 - Recipe
 tags:
@@ -95,7 +95,7 @@ To begin with this recipe, we have to first prepare a few components. You can co
 1. In a medium bowl, mash the banana with a fork until mostly mashed but still a bit chunky. Whisk in the sugar, egg, butter, and vanilla.
 1. Add the wet ingredients and walnuts to the dry ingredients all at once and fold together only until combined - be careful not to over mix.
 1. Bake for 20 minutes, or until the edges are golden brown and a toothpick inserted into one of their centre comes out clean.
-1. In a small bowl, whisk yogurt, sugar, and vanilla together until smooth. Put in the fridge to chill for at least 30 minutes. When your muffins are completely cool and you&#39;re ready to serve them, you can spread a bit of the icing on each one. Sprinkle some chopped walnuts on top, or just leave them plain. Enjoy!
+1. In a small bowl, whisk yogurt, sugar, and vanilla together until smooth. Put in the fridge to chill for at least 30 minutes. When your muffins are completely cool and you're ready to serve them, you can spread a bit of the icing on each one. Sprinkle some chopped walnuts on top, or just leave them plain. Enjoy!
 
 
 

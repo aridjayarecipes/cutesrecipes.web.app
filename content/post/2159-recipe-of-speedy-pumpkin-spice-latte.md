@@ -68,7 +68,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 1. Prepare  Vanilla essence (optional)
 
 
-We&#39;d be remiss not to mention one more advantage of making the PSL at home: Our version actually has pumpkin in it. When we originally created this recipe, Starbucks&#39; version of the PSL didn&#39;t contain any real pumpkin. Just be sure to reheat before adding your espresso. We fell hard for the Pumpkin Spice Latte from Starbucks, we won&#39;t deny it and you probably did too. 
+We'd be remiss not to mention one more advantage of making the PSL at home: Our version actually has pumpkin in it. When we originally created this recipe, Starbucks' version of the PSL didn't contain any real pumpkin. Just be sure to reheat before adding your espresso. We fell hard for the Pumpkin Spice Latte from Starbucks, we won't deny it and you probably did too. 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ We&#39;d be remiss not to mention one more advantage of making the PSL at home: 
 1. 
 
 
-Just be sure to reheat before adding your espresso. We fell hard for the Pumpkin Spice Latte from Starbucks, we won&#39;t deny it and you probably did too. The pumpkin spice craze takes over between August and November and by now every recipe has a pumpkin spice version. Pumpkin Spice Latte tastes best with Whole Milk, but you can use whatever you prefer. Add sugar to taste; if you like a sweeter coffee, stir in more sugar after you&#39;ve heated up the milk mixture. 
+Just be sure to reheat before adding your espresso. We fell hard for the Pumpkin Spice Latte from Starbucks, we won't deny it and you probably did too. The pumpkin spice craze takes over between August and November and by now every recipe has a pumpkin spice version. Pumpkin Spice Latte tastes best with Whole Milk, but you can use whatever you prefer. Add sugar to taste; if you like a sweeter coffee, stir in more sugar after you've heated up the milk mixture. 
 
 So that's going to wrap it up with this special food pumpkin spice latte recipe. Thank you very much for your time. I'm confident you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

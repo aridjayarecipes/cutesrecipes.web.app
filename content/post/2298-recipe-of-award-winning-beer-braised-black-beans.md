@@ -45,7 +45,7 @@ recipecategory: Dinner
 
 Hey everyone, I hope you're having an incredible day today. Today, I will show you a way to make a special dish, beer braised black beans. It is one of my favorites. For mine, I'm gonna make it a little bit tasty. This will be really delicious.
 
-Add evo and sauté onion until really soft and add garlic until fragrant. Braised black beans (geomeun-kongjorim) is a popular and easy side dish. Sweet and a little nutty, it goes well with beer, but usually we serve it with rice. Korean housewives make it on a regular basis and keep it in the fridge so it&#39;s available any time, because children love it.
+Add evo and sauté onion until really soft and add garlic until fragrant. Braised black beans (geomeun-kongjorim) is a popular and easy side dish. Sweet and a little nutty, it goes well with beer, but usually we serve it with rice. Korean housewives make it on a regular basis and keep it in the fridge so it's available any time, because children love it.
 
 Beer braised black beans is one of the most well liked of recent trending foods on earth. It is appreciated by millions daily. It's simple, it's fast, it tastes delicious. They are fine and they look wonderful. Beer braised black beans is something that I've loved my whole life.
 

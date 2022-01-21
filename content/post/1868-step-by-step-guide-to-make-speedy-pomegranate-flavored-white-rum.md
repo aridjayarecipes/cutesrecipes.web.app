@@ -15,11 +15,11 @@ recipeingredient:
 - "100 grams Crystal rock sugar"
 - "2 Lemon"
 recipeinstructions:
-- "Remove the seeds of the pomegranate carefully without crushing them. Rinse them while picking away anything that&#39;s not a seed and dry well."
+- "Remove the seeds of the pomegranate carefully without crushing them. Rinse them while picking away anything that's not a seed and dry well."
 - "Peel the lemons and cut into 2-4 equal pieces. (This time I steeped everything in a bottle with quite a narrow neck so cut the lemons into eighths.)"
-- "Add the pomegranate seeds and the lemon to a bottle and then sprinkle the crystal rock sugar over the top. Finally pour in the white rum. This time I used an empty bottle that used to be filled with dark rum so I didn&#39;t have to sterilize it. However, make sure you usually sterilize the container that you&#39;re going to steep everything in, either with alcohol or boiling water. Remove the fruit after 2-3 months."
-- "I took a photo after 3 weeks had passed (4th Nov.). It&#39;s become such a cute pink colour, though in time the red colour will probably fade."
-- "I took the fruit out in Feb. 2007 and am leaving it to mature. The flavour doesn&#39;t really stand out so much but it has a gentle tartness to it. This alcohol isn&#39;t so sweet so you can look forward to drinking it straight. The colour has faded from a pink to a light brown here. Updated 1.6.2007."
+- "Add the pomegranate seeds and the lemon to a bottle and then sprinkle the crystal rock sugar over the top. Finally pour in the white rum. This time I used an empty bottle that used to be filled with dark rum so I didn't have to sterilize it. However, make sure you usually sterilize the container that you're going to steep everything in, either with alcohol or boiling water. Remove the fruit after 2-3 months."
+- "I took a photo after 3 weeks had passed (4th Nov.). It's become such a cute pink colour, though in time the red colour will probably fade."
+- "I took the fruit out in Feb. 2007 and am leaving it to mature. The flavour doesn't really stand out so much but it has a gentle tartness to it. This alcohol isn't so sweet so you can look forward to drinking it straight. The colour has faded from a pink to a light brown here. Updated 1.6.2007."
 categories:
 - Recipe
 tags:
@@ -65,11 +65,11 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 ##### Steps to make Pomegranate Flavored White Rum:
 
-1. Remove the seeds of the pomegranate carefully without crushing them. Rinse them while picking away anything that&#39;s not a seed and dry well.
+1. Remove the seeds of the pomegranate carefully without crushing them. Rinse them while picking away anything that's not a seed and dry well.
 1. Peel the lemons and cut into 2-4 equal pieces. (This time I steeped everything in a bottle with quite a narrow neck so cut the lemons into eighths.)
-1. Add the pomegranate seeds and the lemon to a bottle and then sprinkle the crystal rock sugar over the top. Finally pour in the white rum. This time I used an empty bottle that used to be filled with dark rum so I didn&#39;t have to sterilize it. However, make sure you usually sterilize the container that you&#39;re going to steep everything in, either with alcohol or boiling water. Remove the fruit after 2-3 months.
-1. I took a photo after 3 weeks had passed (4th Nov.). It&#39;s become such a cute pink colour, though in time the red colour will probably fade.
-1. I took the fruit out in Feb. 2007 and am leaving it to mature. The flavour doesn&#39;t really stand out so much but it has a gentle tartness to it. This alcohol isn&#39;t so sweet so you can look forward to drinking it straight. The colour has faded from a pink to a light brown here. Updated 1.6.2007.
+1. Add the pomegranate seeds and the lemon to a bottle and then sprinkle the crystal rock sugar over the top. Finally pour in the white rum. This time I used an empty bottle that used to be filled with dark rum so I didn't have to sterilize it. However, make sure you usually sterilize the container that you're going to steep everything in, either with alcohol or boiling water. Remove the fruit after 2-3 months.
+1. I took a photo after 3 weeks had passed (4th Nov.). It's become such a cute pink colour, though in time the red colour will probably fade.
+1. I took the fruit out in Feb. 2007 and am leaving it to mature. The flavour doesn't really stand out so much but it has a gentle tartness to it. This alcohol isn't so sweet so you can look forward to drinking it straight. The colour has faded from a pink to a light brown here. Updated 1.6.2007.
 
 
 

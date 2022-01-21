@@ -22,7 +22,7 @@ recipeingredient:
 - "2 tsp malai"
 - "1 bread cut in to small pieces"
 recipeinstructions:
-- "First take a pressure cooker add tomatoes,potatoes onion,carrots and add 2 cups of water add seasoning give 4 whistles open the lid when it&#39;s cool down grind all the material in a mixi and strain it"
+- "First take a pressure cooker add tomatoes,potatoes onion,carrots and add 2 cups of water add seasoning give 4 whistles open the lid when it's cool down grind all the material in a mixi and strain it"
 - "Now boil all Soup and add seasoning accd to ur taste add sugar in the end and serve with fried bread and add 2 3 drops of malai and serve it"
 categories:
 - Recipe
@@ -76,7 +76,7 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 
 ##### Instructions to make Healthy Veggie Tomato Soup:
 
-1. First take a pressure cooker add tomatoes,potatoes onion,carrots and add 2 cups of water add seasoning give 4 whistles open the lid when it&#39;s cool down grind all the material in a mixi and strain it
+1. First take a pressure cooker add tomatoes,potatoes onion,carrots and add 2 cups of water add seasoning give 4 whistles open the lid when it's cool down grind all the material in a mixi and strain it
 1. Now boil all Soup and add seasoning accd to ur taste add sugar in the end and serve with fried bread and add 2 3 drops of malai and serve it
 
 

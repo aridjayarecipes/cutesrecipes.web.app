@@ -19,7 +19,7 @@ recipeingredient:
 recipeinstructions:
 - "Use A Grill Pan or A Skillet"
 - "Add All Ingredients, under medium fire."
-- "Sautee&#39; Until Tender"
+- "Sautee' Until Tender"
 - "Enjoy 😋Yummy Goodness 😋"
 categories:
 - Recipe
@@ -70,7 +70,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook sa
 
 1. Use A Grill Pan or A Skillet
 1. Add All Ingredients, under medium fire.
-1. Sautee&#39; Until Tender
+1. Sautee' Until Tender
 1. Enjoy 😋Yummy Goodness 😋
 
 

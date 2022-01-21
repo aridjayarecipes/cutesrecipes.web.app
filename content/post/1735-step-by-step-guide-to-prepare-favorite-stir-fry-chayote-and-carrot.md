@@ -44,7 +44,7 @@ Hello everybody, hope you are having an incredible day today. Today, I'm gonna s
 
 Stir fry Chayote and Carrot is one of the most favored of current trending foods on earth. It's easy, it's fast, it tastes delicious. It is appreciated by millions daily. Stir fry Chayote and Carrot is something that I've loved my entire life. They are fine and they look fantastic.
 
-Wash and peel the skin of chayote and carrot. Stir-fried carrot &amp; chayote is a very popular and simple formula you can use to put together a quick dish like this chayote squash carrot and snowpea Stir fried chicken, celery, carrots and cashew are coated with a thick and clear sauce. This Chicken Stir Fry recipe was no doubt originated from. Stir-fried carrot &amp; chayote is a very popular and simple formula you can use to put together a quick dish like this chayote squash carrot and snowpea stir fry.
+Wash and peel the skin of chayote and carrot. Stir-fried carrot & chayote is a very popular and simple formula you can use to put together a quick dish like this chayote squash carrot and snowpea Stir fried chicken, celery, carrots and cashew are coated with a thick and clear sauce. This Chicken Stir Fry recipe was no doubt originated from. Stir-fried carrot & chayote is a very popular and simple formula you can use to put together a quick dish like this chayote squash carrot and snowpea stir fry.
 
 
 To begin with this particular recipe, we have to first prepare a few components. You can cook stir fry chayote and carrot using 6 ingredients and 3 steps. Here is how you cook it.

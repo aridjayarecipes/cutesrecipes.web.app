@@ -17,9 +17,9 @@ recipeingredient:
 - "1 tbsp Soy Sauce or as salty as you like"
 - "pinch Red Pepper Flakes"
 recipeinstructions:
-- "Dice, cook the bacon til crispy in skillet &amp; remove when done."
+- "Dice, cook the bacon til crispy in skillet & remove when done."
 - "Stir fry the Brussel Sprouts in drippings."
-- "Add garlic, honey, soy sauce &amp; red pepper. Stir to coat. Then drop the bacon back in.  Heat through."
+- "Add garlic, honey, soy sauce & red pepper. Stir to coat. Then drop the bacon back in.  Heat through."
 categories:
 - Recipe
 tags:
@@ -67,9 +67,9 @@ To get started with this recipe, we must prepare a few ingredients. You can cook
 
 ##### Steps to make Cast Iron Brussel Sprouts w/ Bacon:
 
-1. Dice, cook the bacon til crispy in skillet &amp; remove when done.
+1. Dice, cook the bacon til crispy in skillet & remove when done.
 1. Stir fry the Brussel Sprouts in drippings.
-1. Add garlic, honey, soy sauce &amp; red pepper. Stir to coat. Then drop the bacon back in.  Heat through.
+1. Add garlic, honey, soy sauce & red pepper. Stir to coat. Then drop the bacon back in.  Heat through.
 
 
 

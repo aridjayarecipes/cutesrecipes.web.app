@@ -42,7 +42,7 @@ Hello everybody, I hope you're having an amazing day today. Today, I will show y
 
 Rava pudlas (leftover cabbage) is one of the most well liked of current trending foods in the world. It is simple, it is quick, it tastes yummy. It is enjoyed by millions daily. They're fine and they look fantastic. Rava pudlas (leftover cabbage) is something that I have loved my entire life.
 
-Food preparation Rava pudlas (leftover cabbage) is an enjoyable thing, in addition it becomes a lot more special worth if you cook it on your own. Moreover, if it&#39;s healthy it would be a cherry on the cake. So, in this video we are going to make such snack "Rava. Pudlas are a very popular Gujarati dish.
+Food preparation Rava pudlas (leftover cabbage) is an enjoyable thing, in addition it becomes a lot more special worth if you cook it on your own. Moreover, if it's healthy it would be a cherry on the cake. So, in this video we are going to make such snack "Rava. Pudlas are a very popular Gujarati dish.
 
 
 To begin with this particular recipe, we must first prepare a few components. You can cook rava pudlas (leftover cabbage) using 6 ingredients and 1 steps. Here is how you cook that.

@@ -63,7 +63,7 @@ To begin with this recipe, we have to prepare a few components. You can cook ban
 1. Take As needed Powdered sugar, honey or syrup (if you prefer)
 
 
-Since then I&#39;m totally sold to these pancakes and I&#39;ve made. Pour the banana/milk mixture into the dry ingredients and stir until just combined. Heat a few teaspoons of coconut oil in a large skillet over medium heat. Simple recipe for Banana- Pecan Pancakes with mashed banana mixed into the batter. 
+Since then I'm totally sold to these pancakes and I've made. Pour the banana/milk mixture into the dry ingredients and stir until just combined. Heat a few teaspoons of coconut oil in a large skillet over medium heat. Simple recipe for Banana- Pecan Pancakes with mashed banana mixed into the batter. 
 
 <!--inarticleads2-->
 

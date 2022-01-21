@@ -22,9 +22,9 @@ recipeingredient:
 - "1/2 tsp sugar"
 - "1 tbsp oil"
 recipeinstructions:
-- "Heat the oil in a pan. Add chicken and stir occasionally until it&#39;s firm. Add onion and garlic, stir until the onion is a bit transparent."
+- "Heat the oil in a pan. Add chicken and stir occasionally until it's firm. Add onion and garlic, stir until the onion is a bit transparent."
 - "Add tomato and bell pepper. Stir well. Stir occasionally for about five minutes."
-- "Add the remaining of the ingredients. Lower the heat. Stir occasionally. After ten minutes or so, it&#39;s done."
+- "Add the remaining of the ingredients. Lower the heat. Stir occasionally. After ten minutes or so, it's done."
 categories:
 - Recipe
 tags:
@@ -76,9 +76,9 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 
 ##### Instructions to make Red Chicken:
 
-1. Heat the oil in a pan. Add chicken and stir occasionally until it&#39;s firm. Add onion and garlic, stir until the onion is a bit transparent.
+1. Heat the oil in a pan. Add chicken and stir occasionally until it's firm. Add onion and garlic, stir until the onion is a bit transparent.
 1. Add tomato and bell pepper. Stir well. Stir occasionally for about five minutes.
-1. Add the remaining of the ingredients. Lower the heat. Stir occasionally. After ten minutes or so, it&#39;s done.
+1. Add the remaining of the ingredients. Lower the heat. Stir occasionally. After ten minutes or so, it's done.
 
 
 

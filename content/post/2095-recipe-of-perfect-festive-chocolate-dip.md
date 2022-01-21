@@ -41,7 +41,7 @@ Hey everyone, it is John, welcome to our recipe site. Today, I'm gonna show you 
 
 Festive chocolate dip is one of the most favored of current trending foods in the world. It is appreciated by millions every day. It's simple, it's fast, it tastes delicious. Festive chocolate dip is something which I have loved my whole life. They're fine and they look wonderful.
 
-Festive chocolate dip. milk chocolate•Bread stick, biscuits or fruit that you can find in your cupboard, marshmallows•Some edible decorations like hundreds and thousands, star, Christmas shapes sugar. For this week&#39;s recipe, we will be sharing with you a fun festive dessert idea! A delicious yet nutritious combination of apples and dark chocolate! The recipe for these delicious festive chocolate dipped stars biscuits are on the blog. · Our chocolate-dipped honeycomb is the perfect Christmas gift.
+Festive chocolate dip. milk chocolate•Bread stick, biscuits or fruit that you can find in your cupboard, marshmallows•Some edible decorations like hundreds and thousands, star, Christmas shapes sugar. For this week's recipe, we will be sharing with you a fun festive dessert idea! A delicious yet nutritious combination of apples and dark chocolate! The recipe for these delicious festive chocolate dipped stars biscuits are on the blog. · Our chocolate-dipped honeycomb is the perfect Christmas gift.
 
 
 To begin with this recipe, we have to prepare a few components. You can have festive chocolate dip using 3 ingredients and 3 steps. Here is how you can achieve that.

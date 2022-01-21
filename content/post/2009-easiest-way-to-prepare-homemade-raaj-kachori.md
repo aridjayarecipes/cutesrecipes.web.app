@@ -27,11 +27,11 @@ recipeingredient:
 - "1/2 cup Grapes smash into small pieces"
 recipeinstructions:
 - "Preparation for kachori:-Add Sooji,maida,salt in a bowl and mix it well."
-- "Knead flour with water and cover it for half an hour.Now it&#39;s ready to make kachori."
+- "Knead flour with water and cover it for half an hour.Now it's ready to make kachori."
 - "Heat oil and take small portions of dough roll it and put in pan for frying."
 - "Fry it on low flame and let it cool down.After that now for stuffing:-Now break kachori from centre side and put all ingredients for stuffing that mention in ingredients column."
 - "4 to 5 pieces potato,moong,cumin powder,red chilli powder,sweet chutney,grapes,pomogrante,curd in it."
-- "Now it&#39;s ready to eat."
+- "Now it's ready to eat."
 categories:
 - Recipe
 tags:
@@ -88,11 +88,11 @@ Top it with Karakaydaar Kurkure and enjoy the flavorsome bite. Raj Kachori is a 
 ##### Steps to make Raaj kachori:
 
 1. Preparation for kachori:-Add Sooji,maida,salt in a bowl and mix it well.
-1. Knead flour with water and cover it for half an hour.Now it&#39;s ready to make kachori.
+1. Knead flour with water and cover it for half an hour.Now it's ready to make kachori.
 1. Heat oil and take small portions of dough roll it and put in pan for frying.
 1. Fry it on low flame and let it cool down.After that now for stuffing:-Now break kachori from centre side and put all ingredients for stuffing that mention in ingredients column.
 1. 4 to 5 pieces potato,moong,cumin powder,red chilli powder,sweet chutney,grapes,pomogrante,curd in it.
-1. Now it&#39;s ready to eat.
+1. Now it's ready to eat.
 
 
 Raj Kachori can pretty much be called the Queen-bee of the Chaat family and has quite an apt, royal name to signify that as well Raj Kachori is crispy, crunchy, sweet, spicy. Fry it on low flame and let it cool down. After that now for stuffing:-Now break kachori from centre side and put all ingredients for stuffing that mention in ingredients column. One such dish is Raj Kachori which is loved as an evening time snack. When it comes to having evening time snacks and street food, Raj Kachori has no match. 

@@ -20,7 +20,7 @@ recipeinstructions:
 - "Seasoned your fish lightly with salt"
 - "Then mix it in your seasoned flour."
 - "Then put it on your egg. Mix your bread crumbs and dill. Then put it on a frying pan. 3 mins on each side."
-- "Then it&#39;s done"
+- "Then it's done"
 categories:
 - Recipe
 tags:
@@ -70,7 +70,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Seasoned your fish lightly with salt
 1. Then mix it in your seasoned flour.
 1. Then put it on your egg. Mix your bread crumbs and dill. Then put it on a frying pan. 3 mins on each side.
-1. Then it&#39;s done
+1. Then it's done
 
 
 

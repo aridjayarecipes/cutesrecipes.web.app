@@ -66,6 +66,6 @@ Transfer the brussels sprouts to a stoneware Yes, brussels sprouts are a low car
 1. Awesome! Add salt if you prefer. I dont😎
 
 
-I package bacon, halves fresh brussel sprouts or whole. The salty bacon and brussel sprouts is an irresistible combination but then to add the amazing mustard dip takes these appetizers to the next level. I don&#39;t serve these Low Carb Bacon Wrapped Brussel Sprouts just as appetizers, I also serve them along side different entrees. On my latest trip to Costco, I picked up a huge pack of bacon. I have a big household and bacon fits within all of our meal plans. 
+I package bacon, halves fresh brussel sprouts or whole. The salty bacon and brussel sprouts is an irresistible combination but then to add the amazing mustard dip takes these appetizers to the next level. I don't serve these Low Carb Bacon Wrapped Brussel Sprouts just as appetizers, I also serve them along side different entrees. On my latest trip to Costco, I picked up a huge pack of bacon. I have a big household and bacon fits within all of our meal plans. 
 
 So that's going to wrap it up with this special food low carb bacon wrapped brussel sprouts recipe. Thank you very much for reading. I am sure you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

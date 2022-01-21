@@ -42,9 +42,9 @@ recipeinstructions:
 - "Preheat the oven to 375 degrees F. Drizzle butter into 3 pie pans (or a larger baking dish) and smear it all over the bottom of the pans."
 - "Turn out the dough onto a floured surface and press it into a rectangular shape. If it is overly sticky, sprinkle generously with flour until easier to handle. Flour a rolling pin and roll the dough into a large rectangle about 18 inches by 24 inches."
 - "For the filling: Drizzle the melted butter over the dough and smear it all over the surface with your fingers. Mix together the brown sugar, granulated sugar, cinnamon, ginger and nutmeg in a medium bowl. Sprinkle this mixture all over the surface of the dough, covering all the melted butter. Sprinkle with 1/2 cup to 3/4 cup chopped pecans."
-- "Starting at the top, roll the dough toward you into a large log, moving back and forth down the line of dough (in a "typewriter" motion) and always rolling toward you. Roll it tightly as you go so the rolls with be nice and neat. When it&#39;s all rolled, pinch the seam closed and turn the roll over so that the seam is facing down. Slice into 1/2- to 3/4-inch slices and place the slices in the buttered pan(s). Allow to rise for 20 minutes."
+- "Starting at the top, roll the dough toward you into a large log, moving back and forth down the line of dough (in a "typewriter" motion) and always rolling toward you. Roll it tightly as you go so the rolls with be nice and neat. When it's all rolled, pinch the seam closed and turn the roll over so that the seam is facing down. Slice into 1/2- to 3/4-inch slices and place the slices in the buttered pan(s). Allow to rise for 20 minutes."
 - "Bake until the rolls are nice and golden brown around the edges, 15 to 18 minutes."
-- "For the frosting: While the rolls are baking, make the frosting by combining the cream cheese, powdered sugar, milk, butter and salt in the bowl of an electric mixer. Beat until fluffy, adding more milk if you&#39;d like a thinner frosting."
+- "For the frosting: While the rolls are baking, make the frosting by combining the cream cheese, powdered sugar, milk, butter and salt in the bowl of an electric mixer. Beat until fluffy, adding more milk if you'd like a thinner frosting."
 - "Frost the rolls the second they come out of the oven. Sprinkle the extra pecans over the frosting, then allow them to sit for 15 minutes before serving."
 categories:
 - Recipe
@@ -68,7 +68,7 @@ recipecategory: Dinner
 
 Hey everyone, I hope you are having an amazing day today. Today, we're going to make a special dish, pumpkin cinnamon rolls. It is one of my favorites. This time, I am going to make it a bit tasty. This is gonna smell and look delicious.
 
-Wake up to pumpkin cinnamon rolls on chilly fall mornings. Cinnamon rolls should keep covered at room temp for up to a few days, though best when fresh. These pumpkin rolls are so fluffy, so delicious and aromatic and perfect for fall! They&#39;re made with a soft and spicy pumpkin yeast dough, filled with cinnamon sugar and more pumpkin puree.
+Wake up to pumpkin cinnamon rolls on chilly fall mornings. Cinnamon rolls should keep covered at room temp for up to a few days, though best when fresh. These pumpkin rolls are so fluffy, so delicious and aromatic and perfect for fall! They're made with a soft and spicy pumpkin yeast dough, filled with cinnamon sugar and more pumpkin puree.
 
 Pumpkin cinnamon rolls is one of the most well liked of recent trending foods on earth. It's enjoyed by millions every day. It is easy, it is fast, it tastes yummy. Pumpkin cinnamon rolls is something that I have loved my entire life. They are fine and they look wonderful.
 
@@ -106,7 +106,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Prepare Dash salt
 
 
-These pumpkin cinnamon rolls are perfectly soft and chewy and topped with a heavenly maple cream cheese frosting. Pumpkin Cinnamon Rolls recipe: Warm the milk in a small measuring bowl. These pumpkin cinnamon rolls are absolutely scrumptious. Soft cinnamon rolls are filled with real pumpkin &amp; pumpkin pie spice. 
+These pumpkin cinnamon rolls are perfectly soft and chewy and topped with a heavenly maple cream cheese frosting. Pumpkin Cinnamon Rolls recipe: Warm the milk in a small measuring bowl. These pumpkin cinnamon rolls are absolutely scrumptious. Soft cinnamon rolls are filled with real pumpkin & pumpkin pie spice. 
 
 <!--inarticleads2-->
 
@@ -118,12 +118,12 @@ These pumpkin cinnamon rolls are perfectly soft and chewy and topped with a heav
 1. Preheat the oven to 375 degrees F. Drizzle butter into 3 pie pans (or a larger baking dish) and smear it all over the bottom of the pans.
 1. Turn out the dough onto a floured surface and press it into a rectangular shape. If it is overly sticky, sprinkle generously with flour until easier to handle. Flour a rolling pin and roll the dough into a large rectangle about 18 inches by 24 inches.
 1. For the filling: Drizzle the melted butter over the dough and smear it all over the surface with your fingers. Mix together the brown sugar, granulated sugar, cinnamon, ginger and nutmeg in a medium bowl. Sprinkle this mixture all over the surface of the dough, covering all the melted butter. Sprinkle with 1/2 cup to 3/4 cup chopped pecans.
-1. Starting at the top, roll the dough toward you into a large log, moving back and forth down the line of dough (in a "typewriter" motion) and always rolling toward you. Roll it tightly as you go so the rolls with be nice and neat. When it&#39;s all rolled, pinch the seam closed and turn the roll over so that the seam is facing down. Slice into 1/2- to 3/4-inch slices and place the slices in the buttered pan(s). Allow to rise for 20 minutes.
+1. Starting at the top, roll the dough toward you into a large log, moving back and forth down the line of dough (in a "typewriter" motion) and always rolling toward you. Roll it tightly as you go so the rolls with be nice and neat. When it's all rolled, pinch the seam closed and turn the roll over so that the seam is facing down. Slice into 1/2- to 3/4-inch slices and place the slices in the buttered pan(s). Allow to rise for 20 minutes.
 1. Bake until the rolls are nice and golden brown around the edges, 15 to 18 minutes.
-1. For the frosting: While the rolls are baking, make the frosting by combining the cream cheese, powdered sugar, milk, butter and salt in the bowl of an electric mixer. Beat until fluffy, adding more milk if you&#39;d like a thinner frosting.
+1. For the frosting: While the rolls are baking, make the frosting by combining the cream cheese, powdered sugar, milk, butter and salt in the bowl of an electric mixer. Beat until fluffy, adding more milk if you'd like a thinner frosting.
 1. Frost the rolls the second they come out of the oven. Sprinkle the extra pecans over the frosting, then allow them to sit for 15 minutes before serving.
 
 
-These pumpkin cinnamon rolls are absolutely scrumptious. Soft cinnamon rolls are filled with real pumpkin &amp; pumpkin pie spice. Step-by-step photos teach you how to bake this cinnamon roll recipe. How to make pumpkin cinnamon rolls. Start out by making a yeast bath: Combine almond milk, yeast, and a sprinkle of sugar. 
+These pumpkin cinnamon rolls are absolutely scrumptious. Soft cinnamon rolls are filled with real pumpkin & pumpkin pie spice. Step-by-step photos teach you how to bake this cinnamon roll recipe. How to make pumpkin cinnamon rolls. Start out by making a yeast bath: Combine almond milk, yeast, and a sprinkle of sugar. 
 
 So that's going to wrap this up with this exceptional food pumpkin cinnamon rolls recipe. Thanks so much for reading. I am confident you can make this at home. There is gonna be more interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

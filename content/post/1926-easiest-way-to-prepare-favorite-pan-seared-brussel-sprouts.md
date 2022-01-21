@@ -18,7 +18,7 @@ recipeingredient:
 - "5 shakes Mrs Dashs garlic  onion seasoning"
 recipeinstructions:
 - "Cut brussel sprouts in half. Add to olive to pan, warm over medium-high heat. Transfer sprouts to pan."
-- "Sprinkle with red wine vinegar, garlic salt, mrs. Dashes &amp; parmesan cheese."
+- "Sprinkle with red wine vinegar, garlic salt, mrs. Dashes & parmesan cheese."
 - "Occasionally toss in pan, let cook 5-7 minutes. Finish off with parmesan cheese."
 categories:
 - Recipe
@@ -58,7 +58,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Prepare  Drizzle of red wine vinegar
 1. Prepare 5 shakes parmesan cheese
 1. Prepare to taste Garlic salt
-1. Make ready 5 shakes Mrs. Dash&#39;s garlic &amp; onion seasoning
+1. Make ready 5 shakes Mrs. Dash's garlic & onion seasoning
 
 
 
@@ -68,7 +68,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 ##### Instructions to make Pan seared brussel sprouts:
 
 1. Cut brussel sprouts in half. Add to olive to pan, warm over medium-high heat. Transfer sprouts to pan.
-1. Sprinkle with red wine vinegar, garlic salt, mrs. Dashes &amp; parmesan cheese.
+1. Sprinkle with red wine vinegar, garlic salt, mrs. Dashes & parmesan cheese.
 1. Occasionally toss in pan, let cook 5-7 minutes. Finish off with parmesan cheese.
 
 

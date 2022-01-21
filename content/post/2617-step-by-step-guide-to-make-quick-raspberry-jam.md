@@ -57,7 +57,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Prepare 1 1/2 tablespoon lemon juice
 
 
-Raspberry Jam is a deliciously simple treat that takes any breakfast to the next level. Raspberry Jam has disabled new messages. What is this message about? "No, he ain&#39;t the Mr. Raspberry Jam I knew and loved." — Floyd. "He brought great joy to a lonely man." — Trevor. 
+Raspberry Jam is a deliciously simple treat that takes any breakfast to the next level. Raspberry Jam has disabled new messages. What is this message about? "No, he ain't the Mr. Raspberry Jam I knew and loved." — Floyd. "He brought great joy to a lonely man." — Trevor. 
 
 <!--inarticleads2-->
 
@@ -71,6 +71,6 @@ Raspberry Jam is a deliciously simple treat that takes any breakfast to the next
 1. Pour the jam into the jar while it’s still hot, then close the lid, turn it upside down, and let it cool.
 
 
-What is this message about? "No, he ain&#39;t the Mr. Raspberry Jam I knew and loved." — Floyd. "He brought great joy to a lonely man." — Trevor. Raspberry Jam is a stuffed teddy bear owned initially by Floyd Hebert, and later on by Trevor Philips, in Grand Theft Auto V. He is first seen in the mission Scouting the Port. Download vector images of Raspberry jam on Depositphotos Vector stock with millions of royalty-free. 
+What is this message about? "No, he ain't the Mr. Raspberry Jam I knew and loved." — Floyd. "He brought great joy to a lonely man." — Trevor. Raspberry Jam is a stuffed teddy bear owned initially by Floyd Hebert, and later on by Trevor Philips, in Grand Theft Auto V. He is first seen in the mission Scouting the Port. Download vector images of Raspberry jam on Depositphotos Vector stock with millions of royalty-free. 
 
 So that is going to wrap this up with this special food raspberry jam recipe. Thanks so much for your time. I am confident that you can make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

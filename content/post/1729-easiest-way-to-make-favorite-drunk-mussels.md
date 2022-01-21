@@ -58,7 +58,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Get Glass beer at room temperature. I used Heineken
 
 
-Use them in commercial designs under lifetime, perpetual &amp; worldwide rights. "Drunk" mussels. Steamed mussels are a classic drinking food and are equally great with wine or beer. Choose one or the other based on what is used to steam the mussels and, of course, your own preference. Bring to a boil, and dump in the mussels. 
+Use them in commercial designs under lifetime, perpetual & worldwide rights. "Drunk" mussels. Steamed mussels are a classic drinking food and are equally great with wine or beer. Choose one or the other based on what is used to steam the mussels and, of course, your own preference. Bring to a boil, and dump in the mussels. 
 
 <!--inarticleads2-->
 

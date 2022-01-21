@@ -29,7 +29,7 @@ recipeinstructions:
 - "Make the Muerbeteig crust and refrigerate."
 - "Preheat oven to 375 degrees Fahrenheit"
 - "Peel and remove the pit of the peaches"
-- "It&#39;s easier to cut reverse wedges from the pit."
+- "It's easier to cut reverse wedges from the pit."
 - "Add the blueberries to the bowl."
 - "Add half the salt, and sugar cinnamon mixture, to the peaches"
 - "Take the blueberries and mash them, mix with the rest of the salt and cornstarch."
@@ -101,7 +101,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Make the Muerbeteig crust and refrigerate.
 1. Preheat oven to 375 degrees Fahrenheit
 1. Peel and remove the pit of the peaches
-1. It&#39;s easier to cut reverse wedges from the pit.
+1. It's easier to cut reverse wedges from the pit.
 1. Add the blueberries to the bowl.
 1. Add half the salt, and sugar cinnamon mixture, to the peaches
 1. Take the blueberries and mash them, mix with the rest of the salt and cornstarch.

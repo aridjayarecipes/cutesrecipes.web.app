@@ -47,7 +47,7 @@ Hey everyone, I hope you're having an incredible day today. Today, I will show y
 
 Beef and Cabbage is one of the most popular of recent trending meals in the world. It is easy, it's quick, it tastes delicious. It's enjoyed by millions every day. They're nice and they look fantastic. Beef and Cabbage is something which I have loved my whole life.
 
-Combine cabbage, tomatoes with juice, onion, Italian seasoning, salt, and black pepper in a large pot over low heat. Bring cabbage mixture to a simmer and crumble ground beef into the pot. Here&#39;s the BEST Corned Beef and Cabbage for your St. Tender corned beef and tangy cabbage is a feast for the senses and a great way to celebrate St.
+Combine cabbage, tomatoes with juice, onion, Italian seasoning, salt, and black pepper in a large pot over low heat. Bring cabbage mixture to a simmer and crumble ground beef into the pot. Here's the BEST Corned Beef and Cabbage for your St. Tender corned beef and tangy cabbage is a feast for the senses and a great way to celebrate St.
 
 
 To begin with this particular recipe, we have to first prepare a few components. You can have beef and cabbage using 9 ingredients and 3 steps. Here is how you cook it.
@@ -67,7 +67,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Take 1/2 cup Cabernet Sauvignon, I used Shutter Home
 
 
-If you are asking - What&#39;s for dinner, then I got you covered! I tried Corned Beef last year on St. Patrick&#39;s Day and I LOVED IT! Corned beef and cabbage is an Irish-American dish that has long been a favorite for St. 
+If you are asking - What's for dinner, then I got you covered! I tried Corned Beef last year on St. Patrick's Day and I LOVED IT! Corned beef and cabbage is an Irish-American dish that has long been a favorite for St. 
 
 <!--inarticleads2-->
 
@@ -78,6 +78,6 @@ If you are asking - What&#39;s for dinner, then I got you covered! I tried Corne
 1. Add the Cabernet Sauvignon, stir and cover let simmer for 15 minutes. Let rest covered for 8 minutes. Serve add jalapeno peppers if you want. I hope you enjoy!!!!!
 
 
-Patrick&#39;s Day and I LOVED IT! Corned beef and cabbage is an Irish-American dish that has long been a favorite for St. While, historically, the Irish produced corned beef, they were more likely to eat more affordable bacon. Bacon and cabbage (Irish: bagún agus cabáiste) is a dish traditionally associated with Ireland. The dish consists of sliced back bacon boiled with cabbage and potatoes. 
+Patrick's Day and I LOVED IT! Corned beef and cabbage is an Irish-American dish that has long been a favorite for St. While, historically, the Irish produced corned beef, they were more likely to eat more affordable bacon. Bacon and cabbage (Irish: bagún agus cabáiste) is a dish traditionally associated with Ireland. The dish consists of sliced back bacon boiled with cabbage and potatoes. 
 
 So that is going to wrap this up for this special food beef and cabbage recipe. Thank you very much for reading. I am confident you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

@@ -32,7 +32,7 @@ recipeinstructions:
 - "Spread oil on plates or boards or tray or thalis work very well."
 - "Also mix the chopped coriander leaves and grated coconut keep aside."
 - "Pour the batter in a sauce pan.switch on the stove top and keep the flame to the lowest begin to stir."
-- "Keep on stirring when the khandvi batter is getting heated up.lumps begin to form and you have to continuously stir so that the lumps don&#39;t form."
+- "Keep on stirring when the khandvi batter is getting heated up.lumps begin to form and you have to continuously stir so that the lumps don't form."
 - "The batter would thicken and keep on thickening.keep on stirring."
 - "The batter also should not be allowed to stick at the bottom.so you have to stir continue."
 - "Do a plate test when the batter has thickened well."
@@ -69,7 +69,7 @@ Hello everybody, I hope you're having an amazing day today. Today, I'm gonna sho
 
 Khandavi (Gujarati snakes) is one of the most favored of recent trending foods on earth. It is simple, it's quick, it tastes delicious. It's enjoyed by millions daily. Khandavi (Gujarati snakes) is something that I have loved my entire life. They are nice and they look fantastic.
 
-Learn How To Make Khandvi, a Gujarati Snack Recipe only on Ruchi&#39;s Kitchen by Rajshri Food. Khandvi is Gujarati snack popular in Gujarat and Maharashtra. gujarati khandvi recipe in pressure cooker video finally, gujarati khandvi is ready to serve with hot chai. notes: firstly, sieve the besan before adding to avoid from lump formation. Khandvi is a great tea time Gujarati snack. Khandvi is a delicious savoury made with gram flour (besan) and curds tempered with sesame seeds Khandvi, Gujarati Snack Recipe by Tarla Dalal.
+Learn How To Make Khandvi, a Gujarati Snack Recipe only on Ruchi's Kitchen by Rajshri Food. Khandvi is Gujarati snack popular in Gujarat and Maharashtra. gujarati khandvi recipe in pressure cooker video finally, gujarati khandvi is ready to serve with hot chai. notes: firstly, sieve the besan before adding to avoid from lump formation. Khandvi is a great tea time Gujarati snack. Khandvi is a delicious savoury made with gram flour (besan) and curds tempered with sesame seeds Khandvi, Gujarati Snack Recipe by Tarla Dalal.
 
 
 To get started with this particular recipe, we must prepare a few components. You can cook khandavi (gujarati snakes) using 15 ingredients and 19 steps. Here is how you can achieve it.
@@ -107,7 +107,7 @@ Besan khandvi, also known as Gujarati khandvi, is a popular snack among the othe
 1. Spread oil on plates or boards or tray or thalis work very well.
 1. Also mix the chopped coriander leaves and grated coconut keep aside.
 1. Pour the batter in a sauce pan.switch on the stove top and keep the flame to the lowest begin to stir.
-1. Keep on stirring when the khandvi batter is getting heated up.lumps begin to form and you have to continuously stir so that the lumps don&#39;t form.
+1. Keep on stirring when the khandvi batter is getting heated up.lumps begin to form and you have to continuously stir so that the lumps don't form.
 1. The batter would thicken and keep on thickening.keep on stirring.
 1. The batter also should not be allowed to stick at the bottom.so you have to stir continue.
 1. Do a plate test when the batter has thickened well.

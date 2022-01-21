@@ -22,7 +22,7 @@ recipeinstructions:
 - "In a medium skillet sautéing the onions and green peppers with a little vegetable oil"
 - "Add just a little cayenne pepper"
 - "When the green peppers and onions are tender add the hamburger meat"
-- "When that&#39;s cooking add the garlic salt and just a little more cayenne pepper"
+- "When that's cooking add the garlic salt and just a little more cayenne pepper"
 - "When the meat is throughly cook add the black beans make sure the can was drained first"
 - "Add the red crush peppers add alot if you like it spicy. Keep it simmering in the pan on medium for 5 minutes"
 - "When you plate garnish with black ground peppers"
@@ -78,7 +78,7 @@ The use of the black bean burgers reduces the time it. These beans also make a t
 1. In a medium skillet sautéing the onions and green peppers with a little vegetable oil
 1. Add just a little cayenne pepper
 1. When the green peppers and onions are tender add the hamburger meat
-1. When that&#39;s cooking add the garlic salt and just a little more cayenne pepper
+1. When that's cooking add the garlic salt and just a little more cayenne pepper
 1. When the meat is throughly cook add the black beans make sure the can was drained first
 1. Add the red crush peppers add alot if you like it spicy. Keep it simmering in the pan on medium for 5 minutes
 1. When you plate garnish with black ground peppers

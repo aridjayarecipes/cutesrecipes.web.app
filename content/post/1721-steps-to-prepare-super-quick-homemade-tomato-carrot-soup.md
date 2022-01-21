@@ -62,7 +62,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Make ready As needed Water
 
 
-A creamy vegetable soup flavoured with bay and natural sweetness from the carrots. Roasted Carrot Soup is an easy carrot soup recipe with tomatoes, garlic, cumin, and Greek yogurt to make it creamy and filling. This tomato-based vegetarian soup recipe is simple, healthy, and the. That&#39;s what this Tomato-Carrot Soup tastes like! 
+A creamy vegetable soup flavoured with bay and natural sweetness from the carrots. Roasted Carrot Soup is an easy carrot soup recipe with tomatoes, garlic, cumin, and Greek yogurt to make it creamy and filling. This tomato-based vegetarian soup recipe is simple, healthy, and the. That's what this Tomato-Carrot Soup tastes like! 
 
 <!--inarticleads2-->
 
@@ -74,6 +74,6 @@ A creamy vegetable soup flavoured with bay and natural sweetness from the carrot
 1. Super healthy no need to add anything for thickness. tastes yum. Very nice for kids and dinner for us.
 
 
-This tomato-based vegetarian soup recipe is simple, healthy, and the. That&#39;s what this Tomato-Carrot Soup tastes like! On the other hand, I don&#39;t have the words to describe how happy I am that it finally rained today! Make the tomato carrot soup for a quick meal anytime! It&#39;s quick to make and naturally paleo and Creamy dreamy oh so delicious carrot-tomato soup. 
+This tomato-based vegetarian soup recipe is simple, healthy, and the. That's what this Tomato-Carrot Soup tastes like! On the other hand, I don't have the words to describe how happy I am that it finally rained today! Make the tomato carrot soup for a quick meal anytime! It's quick to make and naturally paleo and Creamy dreamy oh so delicious carrot-tomato soup. 
 
 So that is going to wrap it up for this special food tomato carrot soup recipe. Thanks so much for your time. I'm sure you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

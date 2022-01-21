@@ -80,7 +80,7 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Make ready 1 salt and pepper
 
 
-Add shrimp and season with salt and pepper. The Italian plum tomatoes , red hot pepper, basil, and the garlic are much more flavorful. For more on this Italian Cuisine recipe and Some like their clam sauce white but the tomato, red pepper, and basil are much more flavorful. This is The Bald Chef&#39;s favorite Italian recipe Linguini With Red Clam Sauce. 
+Add shrimp and season with salt and pepper. The Italian plum tomatoes , red hot pepper, basil, and the garlic are much more flavorful. For more on this Italian Cuisine recipe and Some like their clam sauce white but the tomato, red pepper, and basil are much more flavorful. This is The Bald Chef's favorite Italian recipe Linguini With Red Clam Sauce. 
 
 <!--inarticleads2-->
 
@@ -98,6 +98,6 @@ Add shrimp and season with salt and pepper. The Italian plum tomatoes , red hot 
 1. Top with Shrimp and 1 tbls parsely.
 
 
-For more on this Italian Cuisine recipe and Some like their clam sauce white but the tomato, red pepper, and basil are much more flavorful. This is The Bald Chef&#39;s favorite Italian recipe Linguini With Red Clam Sauce. Linguini w/shrimp and plum tomatoes is one of the most popular of current trending foods in the world. Rigatoni with Pork Zucchini and Tomatoes Recipe. Today I would like to share with you my Shrimp Linguine with Tomato Sauce recipe. 
+For more on this Italian Cuisine recipe and Some like their clam sauce white but the tomato, red pepper, and basil are much more flavorful. This is The Bald Chef's favorite Italian recipe Linguini With Red Clam Sauce. Linguini w/shrimp and plum tomatoes is one of the most popular of current trending foods in the world. Rigatoni with Pork Zucchini and Tomatoes Recipe. Today I would like to share with you my Shrimp Linguine with Tomato Sauce recipe. 
 
 So that's going to wrap this up with this special food linguini w/shrimp and plum tomatoes recipe. Thanks so much for your time. I am confident that you can make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

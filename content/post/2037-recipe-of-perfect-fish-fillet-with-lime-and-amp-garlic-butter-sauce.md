@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Perfect Fish Fillet with Lime &amp;amp; Garlic Butter Sauce"
-title: "Recipe of Perfect Fish Fillet with Lime &amp;amp; Garlic Butter Sauce"
+description: "Recipe of Perfect Fish Fillet with Lime &amp; Garlic Butter Sauce"
+title: "Recipe of Perfect Fish Fillet with Lime &amp; Garlic Butter Sauce"
 slug: 2037-recipe-of-perfect-fish-fillet-with-lime-and-amp-garlic-butter-sauce
 date: 2021-10-10T20:18:23.866Z
 image: https://img-global.cpcdn.com/recipes/4758024b70f9daf5/680x482cq70/fish-fillet-with-lime-garlic-butter-sauce-recipe-main-photo.jpg
@@ -43,20 +43,20 @@ recipecategory: Dinner
 ---
 
 
-![Fish Fillet with Lime &amp; Garlic Butter Sauce](https://img-global.cpcdn.com/recipes/4758024b70f9daf5/680x482cq70/fish-fillet-with-lime-garlic-butter-sauce-recipe-main-photo.jpg)
+![Fish Fillet with Lime & Garlic Butter Sauce](https://img-global.cpcdn.com/recipes/4758024b70f9daf5/680x482cq70/fish-fillet-with-lime-garlic-butter-sauce-recipe-main-photo.jpg)
 
-Hello everybody, it's me, Dave, welcome to our recipe page. Today, I will show you a way to make a special dish, fish fillet with lime &amp; garlic butter sauce. One of my favorites. For mine, I'm gonna make it a bit tasty. This will be really delicious.
+Hello everybody, it's me, Dave, welcome to our recipe page. Today, I will show you a way to make a special dish, fish fillet with lime & garlic butter sauce. One of my favorites. For mine, I'm gonna make it a bit tasty. This will be really delicious.
 
-Fish Fillet with Lime &amp; Garlic Butter Sauce is one of the most favored of recent trending meals on earth. It's simple, it is quick, it tastes yummy. It is enjoyed by millions daily. They're nice and they look wonderful. Fish Fillet with Lime &amp; Garlic Butter Sauce is something that I've loved my whole life.
-
-
+Fish Fillet with Lime & Garlic Butter Sauce is one of the most favored of recent trending meals on earth. It's simple, it is quick, it tastes yummy. It is enjoyed by millions daily. They're nice and they look wonderful. Fish Fillet with Lime & Garlic Butter Sauce is something that I've loved my whole life.
 
 
-To get started with this particular recipe, we must prepare a few ingredients. You can cook fish fillet with lime &amp; garlic butter sauce using 8 ingredients and 6 steps. Here is how you cook it.
+
+
+To get started with this particular recipe, we must prepare a few ingredients. You can cook fish fillet with lime & garlic butter sauce using 8 ingredients and 6 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Fish Fillet with Lime &amp; Garlic Butter Sauce:
+##### The ingredients needed to make Fish Fillet with Lime & Garlic Butter Sauce:
 
 1. Make ready 2 slices Spanish Mackarel (Tanigue)
 1. Take 1 dozen green limes
@@ -72,7 +72,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 
 <!--inarticleads2-->
 
-##### Steps to make Fish Fillet with Lime &amp; Garlic Butter Sauce:
+##### Steps to make Fish Fillet with Lime & Garlic Butter Sauce:
 
 1. Dress the mackerels with salt and pepper. Squeeze about 4 lemons on each mackerel. Remove the seeds. About 2 limes for every side of the fish.
 1. In a non-stick pan, fry the mackerels with approx. 2 tbsp of butter. Flip each side to brown. Remove from pan once cooked.
@@ -84,4 +84,4 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 
 
 
-So that's going to wrap this up with this special food fish fillet with lime &amp; garlic butter sauce recipe. Thank you very much for your time. I'm confident you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!
+So that's going to wrap this up with this special food fish fillet with lime & garlic butter sauce recipe. Thank you very much for your time. I'm confident you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

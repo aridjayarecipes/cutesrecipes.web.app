@@ -25,7 +25,7 @@ recipeinstructions:
 - "In the same pot, add 1.5 Tablespoons oil, turn the heat up to medium high, and saute the meat for 4 to 5 minutes, until most of the pieces have a dark golden brown sear on them."
 - "Pour in the black bean paste, water, sugar, and starch slurry, and story thoroughly to break up the paste and evenly distribute all the ingredients. Make sure to scrape the bottom to release any fond."
 - "Bring the sauce up to a gentle boil for about 2 minutes, then cover and reduce heat to medium low and simmer for another 5 to 7 minutes, stirring occasionally."
-- "At this point, give the sauce a taste, and if it&#39;s a little too salty, add water in Tablespoonfuls to adjust the flavor. (The salt in such salty condiments as black bean paste can intensify exponentially past a certain point in cooking.) Cut the heat and allow the sauce to cool and set for 5 minutes or so before ladling it over your noodles or rice."
+- "At this point, give the sauce a taste, and if it's a little too salty, add water in Tablespoonfuls to adjust the flavor. (The salt in such salty condiments as black bean paste can intensify exponentially past a certain point in cooking.) Cut the heat and allow the sauce to cool and set for 5 minutes or so before ladling it over your noodles or rice."
 - "Enjoy! :)"
 categories:
 - Recipe
@@ -65,7 +65,7 @@ To get started with this recipe, we must prepare a few components. You can have 
 1. Take 1 large carrot cut into 1/4" cubes (about 1 cup)
 1. Prepare 1 medium zucchini cut into 1/4" cubes (about 1 cup)
 1. Get 1 medium potato cut into 1/4" cubes (about 1 cup)
-1. Make ready 1 lb pork shoulder cut into 1/4" cubes &amp; tossed with 1/2 tsp salt, 1/4 tsp black pepper, 1 Tbsp corn or potato starch
+1. Make ready 1 lb pork shoulder cut into 1/4" cubes & tossed with 1/2 tsp salt, 1/4 tsp black pepper, 1 Tbsp corn or potato starch
 1. Take 1 Tablespoon corn/potato starch slurried in 2.5 Tablespoons cold water
 1. Get 1/3 cup jjajang (Korean black bean paste)
 1. Take 1 3/4 cups unsalted chicken stock (or 1 2/3 cups water)
@@ -82,7 +82,7 @@ To get started with this recipe, we must prepare a few components. You can have 
 1. In the same pot, add 1.5 Tablespoons oil, turn the heat up to medium high, and saute the meat for 4 to 5 minutes, until most of the pieces have a dark golden brown sear on them.
 1. Pour in the black bean paste, water, sugar, and starch slurry, and story thoroughly to break up the paste and evenly distribute all the ingredients. Make sure to scrape the bottom to release any fond.
 1. Bring the sauce up to a gentle boil for about 2 minutes, then cover and reduce heat to medium low and simmer for another 5 to 7 minutes, stirring occasionally.
-1. At this point, give the sauce a taste, and if it&#39;s a little too salty, add water in Tablespoonfuls to adjust the flavor. (The salt in such salty condiments as black bean paste can intensify exponentially past a certain point in cooking.) Cut the heat and allow the sauce to cool and set for 5 minutes or so before ladling it over your noodles or rice.
+1. At this point, give the sauce a taste, and if it's a little too salty, add water in Tablespoonfuls to adjust the flavor. (The salt in such salty condiments as black bean paste can intensify exponentially past a certain point in cooking.) Cut the heat and allow the sauce to cool and set for 5 minutes or so before ladling it over your noodles or rice.
 1. Enjoy! :)
 
 

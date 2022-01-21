@@ -21,7 +21,7 @@ recipeinstructions:
 - "Add the sugar and cinnamon, keep stirring until milk boils over light and turn off stove to let it cool, you can also place it in the fridge to chill it a bit"
 - "Step 4 Once Milk, is cool or chilled, pour banana puree into a container with lid(mason jar or water bottle), add the milk, cover it and shakeeeeeee it all."
 - "Pour into your desired drinkware or drink and enjoy, best served chilled"
-- "NOTE: You can forgo boiling the milk and just use cold milk. Make sure to add your sweetener to the banana then. You can also use a blender to just blend everything together. I choose to mash the banana when it&#39;s overly ripe and I like seeing some chunks of banana in drink. I also boil the milk beforehand because it enhances the flavor but all these also optional."
+- "NOTE: You can forgo boiling the milk and just use cold milk. Make sure to add your sweetener to the banana then. You can also use a blender to just blend everything together. I choose to mash the banana when it's overly ripe and I like seeing some chunks of banana in drink. I also boil the milk beforehand because it enhances the flavor but all these also optional."
 categories:
 - Recipe
 tags:
@@ -56,7 +56,7 @@ To begin with this recipe, we must prepare a few components. You can have banana
 
 1. Take 1 Banana (ripe to the point of spotting)
 1. Make ready 1 cup Whole Milk or your preferred choice of dairy
-1. Get 1 tbs Sugar or Honey, use half if you&#39;re not a fan of sweeteners
+1. Get 1 tbs Sugar or Honey, use half if you're not a fan of sweeteners
 1. Take 1/4 teaspoon Cinnamon (optional, but it enhances the flavor)
 1. Prepare  Mix in some cocoa powder/syrup or nuts to enhance the flavor
 
@@ -72,7 +72,7 @@ To begin with this recipe, we must prepare a few components. You can have banana
 1. Add the sugar and cinnamon, keep stirring until milk boils over light and turn off stove to let it cool, you can also place it in the fridge to chill it a bit
 1. Step 4 Once Milk, is cool or chilled, pour banana puree into a container with lid(mason jar or water bottle), add the milk, cover it and shakeeeeeee it all.
 1. Pour into your desired drinkware or drink and enjoy, best served chilled
-1. NOTE: You can forgo boiling the milk and just use cold milk. Make sure to add your sweetener to the banana then. You can also use a blender to just blend everything together. I choose to mash the banana when it&#39;s overly ripe and I like seeing some chunks of banana in drink. I also boil the milk beforehand because it enhances the flavor but all these also optional.
+1. NOTE: You can forgo boiling the milk and just use cold milk. Make sure to add your sweetener to the banana then. You can also use a blender to just blend everything together. I choose to mash the banana when it's overly ripe and I like seeing some chunks of banana in drink. I also boil the milk beforehand because it enhances the flavor but all these also optional.
 
 
 

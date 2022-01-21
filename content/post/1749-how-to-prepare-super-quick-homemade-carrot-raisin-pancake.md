@@ -42,7 +42,7 @@ recipecategory: Lunch
 
 Hello everybody, hope you're having an incredible day today. Today, I will show you a way to prepare a distinctive dish, carrot raisin pancake. It is one of my favorites food recipes. For mine, I am going to make it a little bit tasty. This will be really delicious.
 
-Today I made easiest breakfast recipe that I&#39;ve often made and enjoy. "Carrot and raisin Pancake". Pancake mix, soy milk, yogurt optional, carrot, raisin, oil or butter. Minced carrot and in your bowl of pancake mix add yogurt (optional) and soy milk how it says on the box how to mix. In low heat pour the mix on the pan how you would normally cook your pancake and flip when it.
+Today I made easiest breakfast recipe that I've often made and enjoy. "Carrot and raisin Pancake". Pancake mix, soy milk, yogurt optional, carrot, raisin, oil or butter. Minced carrot and in your bowl of pancake mix add yogurt (optional) and soy milk how it says on the box how to mix. In low heat pour the mix on the pan how you would normally cook your pancake and flip when it.
 
 Carrot raisin pancake is one of the most well liked of recent trending meals in the world. It's enjoyed by millions daily. It's simple, it is quick, it tastes yummy. Carrot raisin pancake is something which I've loved my entire life. They're nice and they look fantastic.
 
@@ -72,6 +72,6 @@ Stir in the grated carrots and raisins. Cook for a few minutes until bubbles beg
 1. Yumm! Cut it up and serve and enjoy!
 
 
-Flip the pancake and cook for another minute or two on the other side, until cooked through. These carrot pancakes have a fan following. I first created these pancakes over thirty years ago I hope you&#39;ll enjoy these healthier pancakes! The carrots, raisins and nuts are well blended for a. And they&#39;ve got carrots in them…so they must be good for you, right?? 
+Flip the pancake and cook for another minute or two on the other side, until cooked through. These carrot pancakes have a fan following. I first created these pancakes over thirty years ago I hope you'll enjoy these healthier pancakes! The carrots, raisins and nuts are well blended for a. And they've got carrots in them…so they must be good for you, right?? 
 
 So that's going to wrap it up with this exceptional food carrot raisin pancake recipe. Thanks so much for reading. I am sure that you can make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

@@ -71,7 +71,7 @@ To begin with this recipe, we have to first prepare a few components. You can co
 1. Make ready 4 chicken bullion cubes
 1. Get 1/4 cup water
 1. Make ready  To taste Optional Seasoning
-1. Make ready 1 tsp Tony&#39;s Spice and Herbs
+1. Make ready 1 tsp Tony's Spice and Herbs
 1. Get 1 tbs Goya - Perfect Seasoning
 1. Prepare  Himalayan Salt
 

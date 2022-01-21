@@ -59,7 +59,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 ##### The ingredients needed to make Grilled Salmon Recipe:
 
 1. Prepare 6 oz. salmon fillets with no bones or skin
-1. Make ready 7 oz. bimi (sprouting) broccoli (it&#39;s a more branched type of broccoli). You can replace it with ordinary broccoli
+1. Make ready 7 oz. bimi (sprouting) broccoli (it's a more branched type of broccoli). You can replace it with ordinary broccoli
 1. Take 3 tbsps. of extra virgin olive oil from Spain (2 tablespoon for frying the salmon and 1 tablespoon to season the bimi broccoli)
 1. Prepare 1/2 garlic clove, finely chopped
 1. Get 1/4 lemon juice

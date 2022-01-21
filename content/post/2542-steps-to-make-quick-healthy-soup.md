@@ -26,7 +26,7 @@ recipeinstructions:
 - "Pressure cook the tomatoes, onion, garlic, ginger, black pepper, cumin seeds, cardamom and salt for 2 whistles. Once it is done. Open the lid and cool it."
 - "Grind it in a blender."
 - "Heat cooker. Add 1 tbsp butter. Add all the vegetables. Saute it for minutes. Add tomato mixture in vegetables. Add little water and pressure cook for 1 whistles. Once it is done."
-- "Transfer to a serving bowl. Garnish with fresh cream. Ready to serve healthy soup for kid&#39;s."
+- "Transfer to a serving bowl. Garnish with fresh cream. Ready to serve healthy soup for kid's."
 categories:
 - Recipe
 tags:
@@ -82,7 +82,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Pressure cook the tomatoes, onion, garlic, ginger, black pepper, cumin seeds, cardamom and salt for 2 whistles. Once it is done. Open the lid and cool it.
 1. Grind it in a blender.
 1. Heat cooker. Add 1 tbsp butter. Add all the vegetables. Saute it for minutes. Add tomato mixture in vegetables. Add little water and pressure cook for 1 whistles. Once it is done.
-1. Transfer to a serving bowl. Garnish with fresh cream. Ready to serve healthy soup for kid&#39;s.
+1. Transfer to a serving bowl. Garnish with fresh cream. Ready to serve healthy soup for kid's.
 
 
 

@@ -1,6 +1,6 @@
 ---
-description: "How to Prepare Favorite Holmestead Cookin&amp;#39;: Salmon Ball"
-title: "How to Prepare Favorite Holmestead Cookin&amp;#39;: Salmon Ball"
+description: "How to Prepare Favorite Holmestead Cookin&#39;: Salmon Ball"
+title: "How to Prepare Favorite Holmestead Cookin&#39;: Salmon Ball"
 slug: 1965-how-to-prepare-favorite-holmestead-cookin-and-39-salmon-ball
 date: 2021-12-30T05:53:08.821Z
 image: https://img-global.cpcdn.com/recipes/09fa268923f9289d/680x482cq70/holmestead-cookin-salmon-ball-recipe-main-photo.jpg
@@ -42,20 +42,20 @@ recipecategory: Lunch
 ---
 
 
-![Holmestead Cookin&#39;: Salmon Ball](https://img-global.cpcdn.com/recipes/09fa268923f9289d/680x482cq70/holmestead-cookin-salmon-ball-recipe-main-photo.jpg)
+![Holmestead Cookin': Salmon Ball](https://img-global.cpcdn.com/recipes/09fa268923f9289d/680x482cq70/holmestead-cookin-salmon-ball-recipe-main-photo.jpg)
 
-Hey everyone, hope you are having an incredible day today. Today, I'm gonna show you how to make a special dish, holmestead cookin&#39;: salmon ball. It is one of my favorites. For mine, I will make it a bit tasty. This is gonna smell and look delicious.
-
-
-
-Holmestead Cookin&#39;: Salmon Ball is one of the most well liked of current trending meals in the world. It's simple, it is quick, it tastes yummy. It's enjoyed by millions every day. They are nice and they look wonderful. Holmestead Cookin&#39;: Salmon Ball is something which I've loved my whole life.
+Hey everyone, hope you are having an incredible day today. Today, I'm gonna show you how to make a special dish, holmestead cookin': salmon ball. It is one of my favorites. For mine, I will make it a bit tasty. This is gonna smell and look delicious.
 
 
-To get started with this particular recipe, we have to prepare a few components. You can have holmestead cookin&#39;: salmon ball using 6 ingredients and 7 steps. Here is how you can achieve that.
+
+Holmestead Cookin': Salmon Ball is one of the most well liked of current trending meals in the world. It's simple, it is quick, it tastes yummy. It's enjoyed by millions every day. They are nice and they look wonderful. Holmestead Cookin': Salmon Ball is something which I've loved my whole life.
+
+
+To get started with this particular recipe, we have to prepare a few components. You can have holmestead cookin': salmon ball using 6 ingredients and 7 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Holmestead Cookin&#39;: Salmon Ball:
+##### The ingredients needed to make Holmestead Cookin': Salmon Ball:
 
 1. Get 4 cans Sockeye Salmon (4 x 250 grams = 1000 grams total)
 1. Take 5 tablespoons finely chopped red onions
@@ -69,7 +69,7 @@ To get started with this particular recipe, we have to prepare a few components.
 
 <!--inarticleads2-->
 
-##### Instructions to make Holmestead Cookin&#39;: Salmon Ball:
+##### Instructions to make Holmestead Cookin': Salmon Ball:
 
 1. Combine salmon, cream cheese, onion, lemon juice, and horseradish in a large mixing bowl.
 1. With a hand mixer, mix until completely blended together.
@@ -82,4 +82,4 @@ To get started with this particular recipe, we have to prepare a few components.
 
 
 
-So that is going to wrap it up with this exceptional food holmestead cookin&#39;: salmon ball recipe. Thanks so much for reading. I'm confident you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap it up with this exceptional food holmestead cookin': salmon ball recipe. Thanks so much for reading. I'm confident you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

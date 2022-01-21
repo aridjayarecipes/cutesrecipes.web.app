@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Prepare Quick Beef Scotch Fillet &amp;amp; Rocket Salad"
-title: "Step-by-Step Guide to Prepare Quick Beef Scotch Fillet &amp;amp; Rocket Salad"
+description: "Step-by-Step Guide to Prepare Quick Beef Scotch Fillet &amp; Rocket Salad"
+title: "Step-by-Step Guide to Prepare Quick Beef Scotch Fillet &amp; Rocket Salad"
 slug: 2056-step-by-step-guide-to-prepare-quick-beef-scotch-fillet-and-amp-rocket-salad
 date: 2021-10-31T07:57:40.267Z
 image: https://img-global.cpcdn.com/recipes/5526379580358656/680x482cq70/beef-scotch-fillet-rocket-salad-recipe-main-photo.jpg
@@ -50,20 +50,20 @@ recipecategory: Dessert
 ---
 
 
-![Beef Scotch Fillet &amp; Rocket Salad](https://img-global.cpcdn.com/recipes/5526379580358656/680x482cq70/beef-scotch-fillet-rocket-salad-recipe-main-photo.jpg)
+![Beef Scotch Fillet & Rocket Salad](https://img-global.cpcdn.com/recipes/5526379580358656/680x482cq70/beef-scotch-fillet-rocket-salad-recipe-main-photo.jpg)
 
-Hello everybody, hope you're having an amazing day today. Today, we're going to make a distinctive dish, beef scotch fillet &amp; rocket salad. It is one of my favorites food recipes. This time, I will make it a little bit tasty. This will be really delicious.
-
-
-
-Beef Scotch Fillet &amp; Rocket Salad is one of the most well liked of recent trending foods in the world. It's easy, it's quick, it tastes delicious. It's appreciated by millions daily. Beef Scotch Fillet &amp; Rocket Salad is something that I have loved my whole life. They are nice and they look wonderful.
+Hello everybody, hope you're having an amazing day today. Today, we're going to make a distinctive dish, beef scotch fillet & rocket salad. It is one of my favorites food recipes. This time, I will make it a little bit tasty. This will be really delicious.
 
 
-To begin with this particular recipe, we must first prepare a few ingredients. You can have beef scotch fillet &amp; rocket salad using 15 ingredients and 6 steps. Here is how you can achieve it.
+
+Beef Scotch Fillet & Rocket Salad is one of the most well liked of recent trending foods in the world. It's easy, it's quick, it tastes delicious. It's appreciated by millions daily. Beef Scotch Fillet & Rocket Salad is something that I have loved my whole life. They are nice and they look wonderful.
+
+
+To begin with this particular recipe, we must first prepare a few ingredients. You can have beef scotch fillet & rocket salad using 15 ingredients and 6 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Beef Scotch Fillet &amp; Rocket Salad:
+##### The ingredients needed to make Beef Scotch Fillet & Rocket Salad:
 
 1. Take 2 Beef scotch fillets, approx 450g
 1. Take 1 Sprinkle of garlic salt
@@ -86,7 +86,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 <!--inarticleads2-->
 
-##### Instructions to make Beef Scotch Fillet &amp; Rocket Salad:
+##### Instructions to make Beef Scotch Fillet & Rocket Salad:
 
 1. Preheat oven to 200*C.
 1. Chop spuds in half, boil in a pot until softened but still holding together well. Oil spuds, salt spuds and bake until browned.
@@ -98,4 +98,4 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 
 
-So that's going to wrap it up for this special food beef scotch fillet &amp; rocket salad recipe. Thank you very much for your time. I'm confident that you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!
+So that's going to wrap it up for this special food beef scotch fillet & rocket salad recipe. Thank you very much for your time. I'm confident that you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

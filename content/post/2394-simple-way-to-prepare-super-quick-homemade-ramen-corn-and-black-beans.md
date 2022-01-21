@@ -94,6 +94,6 @@ Serve with sautéed portobello mushrooms and gluten-free noodles for the ultimat
 1. Take cornstarch and quarter cup of water mix well add to noodles to thicken add peas,  garnish with chopped green onion
 
 
-Coarsely chop half of the kernels in food processor; spoon into saucepan. Combine milk with remaining kernels, and process to cream; stir into saucepan. Wash and drain beans, add to. I&#39;ll be honest though, I initially hated butter corn ramen. It was this odd image everyone had of The white miso adds some fruity components and pairs really nicely with the butter and corn, highlighting their sweetness. 
+Coarsely chop half of the kernels in food processor; spoon into saucepan. Combine milk with remaining kernels, and process to cream; stir into saucepan. Wash and drain beans, add to. I'll be honest though, I initially hated butter corn ramen. It was this odd image everyone had of The white miso adds some fruity components and pairs really nicely with the butter and corn, highlighting their sweetness. 
 
 So that's going to wrap it up for this exceptional food ramen corn and black beans recipe. Thanks so much for reading. I am sure that you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

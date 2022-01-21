@@ -27,7 +27,7 @@ recipeinstructions:
 - "Prepare the ingredients. Use vegetables of your choice. I used the vegetables listed above."
 - "This is my tomato sauce recipe "Tomato Sauce : Simply Simmer for a Rich, All-Purpose Sauce."."
 - "Cut the vegetables into even sizes."
-- "I use a pressure cooker for this. Put the vegetables and a bay leaf, if you have one, in a pressure cooker. Use a normal pot if you don&#39;t have a pressure cooker."
+- "I use a pressure cooker for this. Put the vegetables and a bay leaf, if you have one, in a pressure cooker. Use a normal pot if you don't have a pressure cooker."
 - "Add the dashi stock sachet or you can make dashi stock beforehand and add to the pot. A bay leaf is optional, but I prefer using it."
 - "Pour 1000 ml of water in the pressure cooker. I like my pressure cooker because it cooks vegetables tender in a short time. It is a clever thing."
 - "Add 200 ml of tomato sauce. You can use a tin of tomato instead, but if you use it, reduce the water by 200 ml."
@@ -92,7 +92,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Prepare the ingredients. Use vegetables of your choice. I used the vegetables listed above.
 1. This is my tomato sauce recipe "Tomato Sauce : Simply Simmer for a Rich, All-Purpose Sauce.".
 1. Cut the vegetables into even sizes.
-1. I use a pressure cooker for this. Put the vegetables and a bay leaf, if you have one, in a pressure cooker. Use a normal pot if you don&#39;t have a pressure cooker.
+1. I use a pressure cooker for this. Put the vegetables and a bay leaf, if you have one, in a pressure cooker. Use a normal pot if you don't have a pressure cooker.
 1. Add the dashi stock sachet or you can make dashi stock beforehand and add to the pot. A bay leaf is optional, but I prefer using it.
 1. Pour 1000 ml of water in the pressure cooker. I like my pressure cooker because it cooks vegetables tender in a short time. It is a clever thing.
 1. Add 200 ml of tomato sauce. You can use a tin of tomato instead, but if you use it, reduce the water by 200 ml.

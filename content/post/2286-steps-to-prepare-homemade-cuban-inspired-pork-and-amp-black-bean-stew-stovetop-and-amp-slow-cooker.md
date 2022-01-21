@@ -1,6 +1,6 @@
 ---
-description: "Steps to Prepare Homemade Cuban-Inspired Pork &amp;amp; Black Bean Stew (Stovetop &amp;amp; Slow Cooker)"
-title: "Steps to Prepare Homemade Cuban-Inspired Pork &amp;amp; Black Bean Stew (Stovetop &amp;amp; Slow Cooker)"
+description: "Steps to Prepare Homemade Cuban-Inspired Pork &amp; Black Bean Stew (Stovetop &amp; Slow Cooker)"
+title: "Steps to Prepare Homemade Cuban-Inspired Pork &amp; Black Bean Stew (Stovetop &amp; Slow Cooker)"
 slug: 2286-steps-to-prepare-homemade-cuban-inspired-pork-and-amp-black-bean-stew-stovetop-and-amp-slow-cooker
 date: 2022-02-10T10:05:05.203Z
 image: https://img-global.cpcdn.com/recipes/09872e53cbcb462d/680x482cq70/cuban-inspired-pork-black-bean-stew-stovetop-slow-cooker-recipe-main-photo.jpg
@@ -27,7 +27,7 @@ recipeinstructions:
 - "STOVETOP INSTRUCTIONS:  In a large pot or Dutch oven (4 to 5 quarts), preheat the olive oil over high heat then brown the pork shoulder pieces in a single layer on two sides, about 4 to 5 minutes per side until they form a golden brown sear."
 - "Add in the onion, bell pepper, garlic, tomato, oregano, cumin and bay leaves, and stir to evenly distribute all the ingredients and to saute the aromatics (onions, peppers, garlic) until the onions begin to turn translucent, about 3 minutes."
 - "Turn the heat down to medium high, add the black beans, additional kosher salt, vinegar and water, stir to evenly distribute all the ingredients, and let the stew come up to a boil for about 2 minutes."
-- "Turn the heat down to medium low and keep it at an active simmer (you can see and hear bubbles, but they&#39;re not splattering), covered, for another 45 minutes. Give the stew a stir every 15 minutes or so. If you can scrape stuff off the bottom of your pot, the heat&#39;s too high, and you should adjust down a little bit."
+- "Turn the heat down to medium low and keep it at an active simmer (you can see and hear bubbles, but they're not splattering), covered, for another 45 minutes. Give the stew a stir every 15 minutes or so. If you can scrape stuff off the bottom of your pot, the heat's too high, and you should adjust down a little bit."
 - "Uncover the stew, give it a stir, and taste to see if seasoning needs adjustment. Adjust if needed and simmer another 5 to 7 minutes uncovered."
 - "Enjoy with steamed rice, baked or boiled potatoes, some crusty bread..."
 - "SLOW COOKER INSTRUCTIONS  Follow steps 1 and 2 above, then pour your meat, veg and spice mixture into the slow cooker along with the rest of the ingredients, decreasing the water to 1+1/4 cups to offset the condensation from the slow cooker lid.  Set slow cooker to low for 8 to 10 hours or high for 4 to 6 hours."
@@ -49,20 +49,20 @@ recipecategory: Dessert
 ---
 
 
-![Cuban-Inspired Pork &amp; Black Bean Stew (Stovetop &amp; Slow Cooker)](https://img-global.cpcdn.com/recipes/09872e53cbcb462d/680x482cq70/cuban-inspired-pork-black-bean-stew-stovetop-slow-cooker-recipe-main-photo.jpg)
+![Cuban-Inspired Pork & Black Bean Stew (Stovetop & Slow Cooker)](https://img-global.cpcdn.com/recipes/09872e53cbcb462d/680x482cq70/cuban-inspired-pork-black-bean-stew-stovetop-slow-cooker-recipe-main-photo.jpg)
 
-Hello everybody, I hope you are having an incredible day today. Today, I'm gonna show you how to make a special dish, cuban-inspired pork &amp; black bean stew (stovetop &amp; slow cooker). It is one of my favorites food recipes. For mine, I will make it a little bit tasty. This will be really delicious.
-
-
-
-Cuban-Inspired Pork &amp; Black Bean Stew (Stovetop &amp; Slow Cooker) is one of the most favored of current trending meals in the world. It's easy, it's quick, it tastes yummy. It is appreciated by millions daily. They're fine and they look wonderful. Cuban-Inspired Pork &amp; Black Bean Stew (Stovetop &amp; Slow Cooker) is something that I have loved my whole life.
+Hello everybody, I hope you are having an incredible day today. Today, I'm gonna show you how to make a special dish, cuban-inspired pork & black bean stew (stovetop & slow cooker). It is one of my favorites food recipes. For mine, I will make it a little bit tasty. This will be really delicious.
 
 
-To get started with this recipe, we must first prepare a few components. You can cook cuban-inspired pork &amp; black bean stew (stovetop &amp; slow cooker) using 13 ingredients and 7 steps. Here is how you can achieve it.
+
+Cuban-Inspired Pork & Black Bean Stew (Stovetop & Slow Cooker) is one of the most favored of current trending meals in the world. It's easy, it's quick, it tastes yummy. It is appreciated by millions daily. They're fine and they look wonderful. Cuban-Inspired Pork & Black Bean Stew (Stovetop & Slow Cooker) is something that I have loved my whole life.
+
+
+To get started with this recipe, we must first prepare a few components. You can cook cuban-inspired pork & black bean stew (stovetop & slow cooker) using 13 ingredients and 7 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Cuban-Inspired Pork &amp; Black Bean Stew (Stovetop &amp; Slow Cooker):
+##### The ingredients needed to make Cuban-Inspired Pork & Black Bean Stew (Stovetop & Slow Cooker):
 
 1. Get 2 pounds pork shoulder, cut into 1-1/2 inch cubes and seasoned with 1 teaspoon kosher salt + 1/2 teaspoon black pepper
 1. Prepare 2 Tablespoons olive oil
@@ -83,12 +83,12 @@ To get started with this recipe, we must first prepare a few components. You can
 
 <!--inarticleads2-->
 
-##### Steps to make Cuban-Inspired Pork &amp; Black Bean Stew (Stovetop &amp; Slow Cooker):
+##### Steps to make Cuban-Inspired Pork & Black Bean Stew (Stovetop & Slow Cooker):
 
 1. STOVETOP INSTRUCTIONS: -  - In a large pot or Dutch oven (4 to 5 quarts), preheat the olive oil over high heat then brown the pork shoulder pieces in a single layer on two sides, about 4 to 5 minutes per side until they form a golden brown sear.
 1. Add in the onion, bell pepper, garlic, tomato, oregano, cumin and bay leaves, and stir to evenly distribute all the ingredients and to saute the aromatics (onions, peppers, garlic) until the onions begin to turn translucent, about 3 minutes.
 1. Turn the heat down to medium high, add the black beans, additional kosher salt, vinegar and water, stir to evenly distribute all the ingredients, and let the stew come up to a boil for about 2 minutes.
-1. Turn the heat down to medium low and keep it at an active simmer (you can see and hear bubbles, but they&#39;re not splattering), covered, for another 45 minutes. Give the stew a stir every 15 minutes or so. If you can scrape stuff off the bottom of your pot, the heat&#39;s too high, and you should adjust down a little bit.
+1. Turn the heat down to medium low and keep it at an active simmer (you can see and hear bubbles, but they're not splattering), covered, for another 45 minutes. Give the stew a stir every 15 minutes or so. If you can scrape stuff off the bottom of your pot, the heat's too high, and you should adjust down a little bit.
 1. Uncover the stew, give it a stir, and taste to see if seasoning needs adjustment. Adjust if needed and simmer another 5 to 7 minutes uncovered.
 1. Enjoy with steamed rice, baked or boiled potatoes, some crusty bread...
 1. SLOW COOKER INSTRUCTIONS -  - Follow steps 1 and 2 above, then pour your meat, veg and spice mixture into the slow cooker along with the rest of the ingredients, decreasing the water to 1+1/4 cups to offset the condensation from the slow cooker lid. -  - Set slow cooker to low for 8 to 10 hours or high for 4 to 6 hours.
@@ -96,4 +96,4 @@ To get started with this recipe, we must first prepare a few components. You can
 
 
 
-So that's going to wrap it up for this exceptional food cuban-inspired pork &amp; black bean stew (stovetop &amp; slow cooker) recipe. Thank you very much for your time. I am confident that you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!
+So that's going to wrap it up for this exceptional food cuban-inspired pork & black bean stew (stovetop & slow cooker) recipe. Thank you very much for your time. I am confident that you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

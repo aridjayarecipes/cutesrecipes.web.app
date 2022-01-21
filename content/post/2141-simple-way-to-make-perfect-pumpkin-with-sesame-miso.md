@@ -42,7 +42,7 @@ recipecategory: Lunch
 
 Hey everyone, hope you are having an incredible day today. Today, I'm gonna show you how to make a distinctive dish, pumpkin with sesame miso. It is one of my favorites food recipes. For mine, I will make it a little bit unique. This is gonna smell and look delicious.
 
-Hallow&#39;d miso roast pumpkin salad with sesame noodles Great for weekday lunches at home, or in a box, because all the ingredients can be prepped in advance. Here is how you achieve that. Place pumpkin, oil, sesame seeds and salt in a bowl and toss to coat. Place on a large baking tray lined with non-stick baking paper.
+Hallow'd miso roast pumpkin salad with sesame noodles Great for weekday lunches at home, or in a box, because all the ingredients can be prepped in advance. Here is how you achieve that. Place pumpkin, oil, sesame seeds and salt in a bowl and toss to coat. Place on a large baking tray lined with non-stick baking paper.
 
 Pumpkin with sesame miso is one of the most favored of recent trending foods on earth. It is appreciated by millions daily. It's simple, it's fast, it tastes yummy. Pumpkin with sesame miso is something that I've loved my whole life. They're fine and they look fantastic.
 
@@ -72,6 +72,6 @@ Especially with miso and sesame paste coating it all. Place pumpkin, olive oil, 
 1. When the pumpkin is soft, discard the excess water, add 2 and mix together.
 
 
-Place on a lined oven tray in a single layer (without pieces touching). Add in the sesame miso dressing and stir to coat. Top with more fresh cilantro and sesame seeds. I&#39;m Liz, and welcome to Pumpkin + Peanut Butter - a mix of (healthy-ish) food, motherhood, travel, and scenes from our extraordinarily ordinary life here in the DC area. This is a messy one to look at but oh my god, the flavours from this dish our incredible. 
+Place on a lined oven tray in a single layer (without pieces touching). Add in the sesame miso dressing and stir to coat. Top with more fresh cilantro and sesame seeds. I'm Liz, and welcome to Pumpkin + Peanut Butter - a mix of (healthy-ish) food, motherhood, travel, and scenes from our extraordinarily ordinary life here in the DC area. This is a messy one to look at but oh my god, the flavours from this dish our incredible. 
 
 So that is going to wrap it up with this exceptional food pumpkin with sesame miso recipe. Thanks so much for reading. I'm confident that you can make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

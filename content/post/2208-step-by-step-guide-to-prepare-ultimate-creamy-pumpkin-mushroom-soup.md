@@ -20,10 +20,10 @@ recipeingredient:
 - " Some water"
 recipeinstructions:
 - "While waiting for rice to cook in rice cooker, clean and prepare the mushrooms. Any mushrooms is okay depending on the flavor you prefer"
-- "Cut pumpkin into cubes. They don&#39;t have to be perfect because they will be all mushy inside the pan later on."
-- "Add pumpkin along with half cup of water in a pan, fish stock, onion powder, garlic powder, pepper (I used dried chilli pepper) and ginger. Add more water (half cup each time) if you think it&#39;s not enough to soften the pumpkin."
-- "When pumpkin softens, add mushrooms along with coconut milk cream. You&#39;ll notice that you didn&#39;t need to add so much water before because once mushrooms are cooked, more liquid will form. Lower the flame and keep stirring until it reaches the point you prefer it to be served. I like extra mushy pumpkin and mushrooms. Add salt if you like."
-- "Serve with warm white rice. I prefer the rice slightly al dente. I also make extra rice for my dog (but don&#39;t give so much, dogs shouldn&#39;t consume too much coconut milk)"
+- "Cut pumpkin into cubes. They don't have to be perfect because they will be all mushy inside the pan later on."
+- "Add pumpkin along with half cup of water in a pan, fish stock, onion powder, garlic powder, pepper (I used dried chilli pepper) and ginger. Add more water (half cup each time) if you think it's not enough to soften the pumpkin."
+- "When pumpkin softens, add mushrooms along with coconut milk cream. You'll notice that you didn't need to add so much water before because once mushrooms are cooked, more liquid will form. Lower the flame and keep stirring until it reaches the point you prefer it to be served. I like extra mushy pumpkin and mushrooms. Add salt if you like."
+- "Serve with warm white rice. I prefer the rice slightly al dente. I also make extra rice for my dog (but don't give so much, dogs shouldn't consume too much coconut milk)"
 categories:
 - Recipe
 tags:
@@ -74,10 +74,10 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 ##### Instructions to make Creamy Pumpkin Mushroom Soup:
 
 1. While waiting for rice to cook in rice cooker, clean and prepare the mushrooms. Any mushrooms is okay depending on the flavor you prefer
-1. Cut pumpkin into cubes. They don&#39;t have to be perfect because they will be all mushy inside the pan later on.
-1. Add pumpkin along with half cup of water in a pan, fish stock, onion powder, garlic powder, pepper (I used dried chilli pepper) and ginger. Add more water (half cup each time) if you think it&#39;s not enough to soften the pumpkin.
-1. When pumpkin softens, add mushrooms along with coconut milk cream. You&#39;ll notice that you didn&#39;t need to add so much water before because once mushrooms are cooked, more liquid will form. Lower the flame and keep stirring until it reaches the point you prefer it to be served. I like extra mushy pumpkin and mushrooms. Add salt if you like.
-1. Serve with warm white rice. I prefer the rice slightly al dente. I also make extra rice for my dog (but don&#39;t give so much, dogs shouldn&#39;t consume too much coconut milk)
+1. Cut pumpkin into cubes. They don't have to be perfect because they will be all mushy inside the pan later on.
+1. Add pumpkin along with half cup of water in a pan, fish stock, onion powder, garlic powder, pepper (I used dried chilli pepper) and ginger. Add more water (half cup each time) if you think it's not enough to soften the pumpkin.
+1. When pumpkin softens, add mushrooms along with coconut milk cream. You'll notice that you didn't need to add so much water before because once mushrooms are cooked, more liquid will form. Lower the flame and keep stirring until it reaches the point you prefer it to be served. I like extra mushy pumpkin and mushrooms. Add salt if you like.
+1. Serve with warm white rice. I prefer the rice slightly al dente. I also make extra rice for my dog (but don't give so much, dogs shouldn't consume too much coconut milk)
 
 
 

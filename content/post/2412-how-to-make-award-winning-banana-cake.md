@@ -67,7 +67,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Take 1 tbsp cinnamon
 
 
-Banana cake, aka banana bread, is one of the easiest cakes to make. This one is plain but it&#39;s only a starting point. Easy to make, but impressive to serve. See recipes for Banana condensed milk cake too. 
+Banana cake, aka banana bread, is one of the easiest cakes to make. This one is plain but it's only a starting point. Easy to make, but impressive to serve. See recipes for Banana condensed milk cake too. 
 
 <!--inarticleads2-->
 
@@ -79,6 +79,6 @@ Banana cake, aka banana bread, is one of the easiest cakes to make. This one is 
 1. Pour cinnamon and sugar on top and add Hershey cocholate syrup.
 
 
-Easy to make, but impressive to serve. See recipes for Banana condensed milk cake too. I told her, &#39;I should have baked for you!&#39; Banana cake without baking is the highlight of our program and a welcome guest on any table. But keep in mind that some options require additional time for. This is one of (if not) the BEST banana cake I have ever tasted! 
+Easy to make, but impressive to serve. See recipes for Banana condensed milk cake too. I told her, 'I should have baked for you!' Banana cake without baking is the highlight of our program and a welcome guest on any table. But keep in mind that some options require additional time for. This is one of (if not) the BEST banana cake I have ever tasted! 
 
 So that's going to wrap this up for this exceptional food banana cake recipe. Thanks so much for reading. I am confident that you can make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

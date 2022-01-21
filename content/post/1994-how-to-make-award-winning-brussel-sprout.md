@@ -55,7 +55,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Prepare 1/2 tsp granulated garlic powder
 
 
-Brussels sprouts are a member of the cabbage family and an excellent source of nutrients. Here&#39;s how to plant, grow, and harvest Brussels sprouts in your garden! Place trimmed Brussels sprouts, olive oil, kosher salt, and pepper in a large resealable plastic bag. Seal tightly, and shake to coat. 
+Brussels sprouts are a member of the cabbage family and an excellent source of nutrients. Here's how to plant, grow, and harvest Brussels sprouts in your garden! Place trimmed Brussels sprouts, olive oil, kosher salt, and pepper in a large resealable plastic bag. Seal tightly, and shake to coat. 
 
 <!--inarticleads2-->
 

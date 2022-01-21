@@ -1,6 +1,6 @@
 ---
-description: "Easiest Way to Prepare Speedy Sweet Potato &amp;amp; Sago Khichadi"
-title: "Easiest Way to Prepare Speedy Sweet Potato &amp;amp; Sago Khichadi"
+description: "Easiest Way to Prepare Speedy Sweet Potato &amp; Sago Khichadi"
+title: "Easiest Way to Prepare Speedy Sweet Potato &amp; Sago Khichadi"
 slug: 2590-easiest-way-to-prepare-speedy-sweet-potato-and-amp-sago-khichadi
 date: 2022-01-25T09:53:35.580Z
 image: https://img-global.cpcdn.com/recipes/d102277261f5de96/680x482cq70/sweet-potato-sago-khichadi-recipe-main-photo.jpg
@@ -43,20 +43,20 @@ recipecategory: Dessert
 ---
 
 
-![Sweet Potato &amp; Sago Khichadi](https://img-global.cpcdn.com/recipes/d102277261f5de96/680x482cq70/sweet-potato-sago-khichadi-recipe-main-photo.jpg)
+![Sweet Potato & Sago Khichadi](https://img-global.cpcdn.com/recipes/d102277261f5de96/680x482cq70/sweet-potato-sago-khichadi-recipe-main-photo.jpg)
 
-Hey everyone, I hope you are having an amazing day today. Today, we're going to make a distinctive dish, sweet potato &amp; sago khichadi. It is one of my favorites food recipes. This time, I am going to make it a bit unique. This is gonna smell and look delicious.
+Hey everyone, I hope you are having an amazing day today. Today, we're going to make a distinctive dish, sweet potato & sago khichadi. It is one of my favorites food recipes. This time, I am going to make it a bit unique. This is gonna smell and look delicious.
 
-Sweet Potato &amp; Sago Khichadi is one of the most well liked of recent trending foods on earth. It's simple, it is quick, it tastes yummy. It's appreciated by millions daily. They are nice and they look wonderful. Sweet Potato &amp; Sago Khichadi is something which I have loved my entire life.
-
-
+Sweet Potato & Sago Khichadi is one of the most well liked of recent trending foods on earth. It's simple, it is quick, it tastes yummy. It's appreciated by millions daily. They are nice and they look wonderful. Sweet Potato & Sago Khichadi is something which I have loved my entire life.
 
 
-To begin with this particular recipe, we must first prepare a few components. You can cook sweet potato &amp; sago khichadi using 9 ingredients and 5 steps. Here is how you cook it.
+
+
+To begin with this particular recipe, we must first prepare a few components. You can cook sweet potato & sago khichadi using 9 ingredients and 5 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Sweet Potato &amp; Sago Khichadi:
+##### The ingredients needed to make Sweet Potato & Sago Khichadi:
 
 1. Get 2 medium sized sweet potatoes, peeled and grated
 1. Take 1 cup sago, soaked in water
@@ -73,7 +73,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 
 <!--inarticleads2-->
 
-##### Instructions to make Sweet Potato &amp; Sago Khichadi:
+##### Instructions to make Sweet Potato & Sago Khichadi:
 
 1. Place the ghee in a pan and add cumin seeds and allow it to temper.
 1. Add green chilli pieces and fry
@@ -84,4 +84,4 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 
 
 
-So that is going to wrap it up for this special food sweet potato &amp; sago khichadi recipe. Thanks so much for your time. I am sure you will make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!
+So that is going to wrap it up for this special food sweet potato & sago khichadi recipe. Thanks so much for your time. I am sure you will make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -30,7 +30,7 @@ recipeinstructions:
 - "Combine flour, baking powder, baking soda, and salt. Sift and set it aside."
 - "Make streusel top: mix grated butter, sugar, and flour with fork. Put in the freezer before use."
 - "With hand mixer, cream the cream cheese, butter, and sugar until fluffy. About 1-2 minutes."
-- "Put the egg in, keep mixing it with slow speed. When it&#39;s Incorporated, add in buttermilk and vanilla. Continue mixing until, well mixed."
+- "Put the egg in, keep mixing it with slow speed. When it's Incorporated, add in buttermilk and vanilla. Continue mixing until, well mixed."
 - "Mix in the dry ingredients all in once. Mix with wooden spoon for about 4 circle then add blueberries and cubbed cheese. Do not over mix the batter or the muffin will be dense."
 - "Fill the prepared muffin tin with the batter until full. Put streusel on top."
 - "Bake for 12-14 minutes. Poke with a skewer to check if the muffins are done. When the skewer comes out clean, the muffins are done."
@@ -84,7 +84,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Make ready 1 tbsp butter, grated
 
 
-See more ideas about blueberry cream cheese muffins, recipes, food. · These keto blueberry muffins are amazing! They are low-carb, gluten-free, big and delicious! When it comes to eating a low-carb diet, we often feel like we give up some of our favorite carb filled recipes. But, it&#39;s super easy to transition them to work with your new. 
+See more ideas about blueberry cream cheese muffins, recipes, food. · These keto blueberry muffins are amazing! They are low-carb, gluten-free, big and delicious! When it comes to eating a low-carb diet, we often feel like we give up some of our favorite carb filled recipes. But, it's super easy to transition them to work with your new. 
 
 <!--inarticleads2-->
 
@@ -94,12 +94,12 @@ See more ideas about blueberry cream cheese muffins, recipes, food. · These ket
 1. Combine flour, baking powder, baking soda, and salt. Sift and set it aside.
 1. Make streusel top: mix grated butter, sugar, and flour with fork. Put in the freezer before use.
 1. With hand mixer, cream the cream cheese, butter, and sugar until fluffy. About 1-2 minutes.
-1. Put the egg in, keep mixing it with slow speed. When it&#39;s Incorporated, add in buttermilk and vanilla. Continue mixing until, well mixed.
+1. Put the egg in, keep mixing it with slow speed. When it's Incorporated, add in buttermilk and vanilla. Continue mixing until, well mixed.
 1. Mix in the dry ingredients all in once. Mix with wooden spoon for about 4 circle then add blueberries and cubbed cheese. Do not over mix the batter or the muffin will be dense.
 1. Fill the prepared muffin tin with the batter until full. Put streusel on top.
 1. Bake for 12-14 minutes. Poke with a skewer to check if the muffins are done. When the skewer comes out clean, the muffins are done.
 
 
-When it comes to eating a low-carb diet, we often feel like we give up some of our favorite carb filled recipes. But, it&#39;s super easy to transition them to work with your new. These homemade blueberry muffins are light, fluffy, and PACKED with blueberries! Muffins are not as easy to get right as one might think. Cottage cheese makes these classic muffins super moist and tender. 
+When it comes to eating a low-carb diet, we often feel like we give up some of our favorite carb filled recipes. But, it's super easy to transition them to work with your new. These homemade blueberry muffins are light, fluffy, and PACKED with blueberries! Muffins are not as easy to get right as one might think. Cottage cheese makes these classic muffins super moist and tender. 
 
 So that's going to wrap this up for this exceptional food blueberry cheese muffins recipe. Thanks so much for your time. I'm confident that you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

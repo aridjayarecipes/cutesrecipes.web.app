@@ -38,7 +38,7 @@ recipeinstructions:
 - "Put the fish in the flour and press well on both sides"
 - "Put it in the egg and turn on both sides"
 - "And then put it in the bread crumbs and press well in both sides"
-- "If you&#39;d like you can put it into egg and then in bread crumbs, if you want them double breaded"
+- "If you'd like you can put it into egg and then in bread crumbs, if you want them double breaded"
 - "Put a pan with oil in a medium-high heat, when it is hot, put in the fish until it is golden brown both sides, put it in a plate with a paper towel to reduce the surplus oil"
 - "You can also bake it, set the oven at 400 degrees temperature and bake it for aproximately 20 minutes or until bread is golden brown"
 categories:
@@ -109,7 +109,7 @@ To begin with this recipe, we have to first prepare a few components. You can co
 1. Put the fish in the flour and press well on both sides
 1. Put it in the egg and turn on both sides
 1. And then put it in the bread crumbs and press well in both sides
-1. If you&#39;d like you can put it into egg and then in bread crumbs, if you want them double breaded
+1. If you'd like you can put it into egg and then in bread crumbs, if you want them double breaded
 1. Put a pan with oil in a medium-high heat, when it is hot, put in the fish until it is golden brown both sides, put it in a plate with a paper towel to reduce the surplus oil
 1. You can also bake it, set the oven at 400 degrees temperature and bake it for aproximately 20 minutes or until bread is golden brown
 

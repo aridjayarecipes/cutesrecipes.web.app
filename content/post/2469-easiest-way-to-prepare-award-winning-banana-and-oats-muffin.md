@@ -74,7 +74,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Prepare  Peanut butter (optional) - for drizzle
 
 
-These delicious banana oatmeal muffins are made with whole grain oatmeal and juicy well ripened, bananas. It&#39;s a delicious moist muffin filled with banana. Banana Oatmeal Muffins. featured in Healthy Breakfast Recipes To Start Your Morning. Let the mixture sit for a few minutes, so the oats soak up the liquid and the consistency is like oatmeal. 
+These delicious banana oatmeal muffins are made with whole grain oatmeal and juicy well ripened, bananas. It's a delicious moist muffin filled with banana. Banana Oatmeal Muffins. featured in Healthy Breakfast Recipes To Start Your Morning. Let the mixture sit for a few minutes, so the oats soak up the liquid and the consistency is like oatmeal. 
 
 <!--inarticleads2-->
 
@@ -84,6 +84,6 @@ These delicious banana oatmeal muffins are made with whole grain oatmeal and jui
 1. Spray some oil in a large muffin pan and put the batter. Top with some chocolate chips. Preheat the oven at 180’C and bake them for around 20 minutes. Drizzle some peanut butter and serve when the muffins are still warm. It will give you a great cozy feelings! Enjoy!
 
 
-Banana Oatmeal Muffins. featured in Healthy Breakfast Recipes To Start Your Morning. Let the mixture sit for a few minutes, so the oats soak up the liquid and the consistency is like oatmeal. Line muffin tins with muffin liners. The fluffiest vegan banana oatmeal muffins you&#39;ll ever make! These easy vegan banana muffins are naturally sweetened with banana and coconut sugar and made extra nutritious with oatmeal. 
+Banana Oatmeal Muffins. featured in Healthy Breakfast Recipes To Start Your Morning. Let the mixture sit for a few minutes, so the oats soak up the liquid and the consistency is like oatmeal. Line muffin tins with muffin liners. The fluffiest vegan banana oatmeal muffins you'll ever make! These easy vegan banana muffins are naturally sweetened with banana and coconut sugar and made extra nutritious with oatmeal. 
 
 So that's going to wrap it up for this exceptional food banana and oats muffin recipe. Thanks so much for your time. I'm sure that you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

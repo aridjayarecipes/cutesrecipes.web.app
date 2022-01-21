@@ -96,6 +96,6 @@ This search takes into account your taste preferences. Cheesy chicken stuffed ca
 1. Serve with steamed rice or pasta.
 
 
-These lovely bundles of joy will melt in your mouth! My point is that you need this Creamy Ricotta Spinach and Chicken Cannelloni in your life. This creamy chicken spinach pasta recipe is a total comfort food dinner! This spinach chicken pasta is great for busy weeknights. The chicken melts in your mouth, and the spinach adds some freshness to a dish that&#39;s otherwise. 
+These lovely bundles of joy will melt in your mouth! My point is that you need this Creamy Ricotta Spinach and Chicken Cannelloni in your life. This creamy chicken spinach pasta recipe is a total comfort food dinner! This spinach chicken pasta is great for busy weeknights. The chicken melts in your mouth, and the spinach adds some freshness to a dish that's otherwise. 
 
 So that is going to wrap it up with this special food creamy spinach-mush chicken fillets recipe. Thanks so much for your time. I am sure you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

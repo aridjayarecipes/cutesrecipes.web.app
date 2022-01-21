@@ -80,6 +80,6 @@ Anna makes a classic breakfast recipe. These light, fluffy blueberry pancakes wi
 1. Serve with berries, maple syrup
 
 
-Audrey was all of ten years old when she showed me how she keeps the blueberries from bleeding into the batter and turning it purple. How to make fluffy blueberry pancakes from scratch with fresh or frozen blueberries. This easy recipe makes pancakes that are light, fluffy, and bursting with blueberries. These blueberry pancakes are soft, fluffy, and bursting with juicy berries. They&#39;re easy to make with pantry ingredients, and, if you don&#39;t dwell too much on the big pour of syrup you&#39;re putting on top. 
+Audrey was all of ten years old when she showed me how she keeps the blueberries from bleeding into the batter and turning it purple. How to make fluffy blueberry pancakes from scratch with fresh or frozen blueberries. This easy recipe makes pancakes that are light, fluffy, and bursting with blueberries. These blueberry pancakes are soft, fluffy, and bursting with juicy berries. They're easy to make with pantry ingredients, and, if you don't dwell too much on the big pour of syrup you're putting on top. 
 
 So that is going to wrap it up with this special food pancakes with blueberries recipe. Thank you very much for your time. I am sure you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

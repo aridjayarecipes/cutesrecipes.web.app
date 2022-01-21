@@ -26,11 +26,11 @@ recipeingredient:
 - "for garnishing Mint leaves"
 recipeinstructions:
 - "For Tacos Shell:Melt dark chocolate in microwave for a minute."
-- "Now add fruit essence in melted chocolate and pour it in your muffin&#39;s paper cup."
+- "Now add fruit essence in melted chocolate and pour it in your muffin's paper cup."
 - "Let it freeze for 2-3 minutes in refrigerator. After that separate the paper from the shell."
 - "Your Chocolate Tacos shell is ready."
 - "Icecream: Mix all the ingredients (of Icecream) simultaneously. Let it freeze in refrigerator for 5-6 hours. Your Icecream is ready!!"
-- "Tacos&#39; Topping: Decorate your Tacos as per your preference."
+- "Tacos' Topping: Decorate your Tacos as per your preference."
 - "Here I put a layer of whipped cream, then Mango Slices, then again whipped cream, then nuts and fruits and at last put a layer of an ice-cream, mango,etc..."
 - "Finally!Your Tacos Treat is ready."
 categories:
@@ -88,11 +88,11 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 ##### Instructions to make Tacos Treat:
 
 1. For Tacos Shell:Melt dark chocolate in microwave for a minute.
-1. Now add fruit essence in melted chocolate and pour it in your muffin&#39;s paper cup.
+1. Now add fruit essence in melted chocolate and pour it in your muffin's paper cup.
 1. Let it freeze for 2-3 minutes in refrigerator. After that separate the paper from the shell.
 1. Your Chocolate Tacos shell is ready.
 1. Icecream: - Mix all the ingredients (of Icecream) simultaneously. Let it freeze in refrigerator for 5-6 hours. - Your Icecream is ready!!
-1. Tacos&#39; Topping: - Decorate your Tacos as per your preference.
+1. Tacos' Topping: - Decorate your Tacos as per your preference.
 1. Here I put a layer of whipped cream, then Mango Slices, then again whipped cream, then nuts and fruits and at last put a layer of an ice-cream, mango,etc...
 1. Finally!Your Tacos Treat is ready.
 
