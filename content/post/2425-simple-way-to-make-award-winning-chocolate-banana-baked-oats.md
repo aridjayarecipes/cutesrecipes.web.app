@@ -44,7 +44,7 @@ recipecategory: Lunch
 
 Hey everyone, it's Louise, welcome to our recipe site. Today, we're going to make a special dish, chocolate banana baked oats. It is one of my favorites. For mine, I am going to make it a little bit tasty. This is gonna smell and look delicious.
 
-These Skillet Baked Oats are ultra chewy and loaded with flavour. They're packed with oats, nut butter, and dark chocolate, and are made with better-for-you. This baked oatmeal starts with a flax egg and mashed ripe banana. It's then naturally sweetened with a little maple syrup, seasoned with Next comes oats, nuts, and dark chocolate!
+These Skillet Baked Oats are ultra chewy and loaded with flavour. They&#39;re packed with oats, nut butter, and dark chocolate, and are made with better-for-you. This baked oatmeal starts with a flax egg and mashed ripe banana. It&#39;s then naturally sweetened with a little maple syrup, seasoned with Next comes oats, nuts, and dark chocolate!
 
 Chocolate banana baked oats is one of the most popular of current trending foods on earth. It is easy, it is quick, it tastes yummy. It's appreciated by millions daily. Chocolate banana baked oats is something which I have loved my entire life. They're fine and they look wonderful.
 

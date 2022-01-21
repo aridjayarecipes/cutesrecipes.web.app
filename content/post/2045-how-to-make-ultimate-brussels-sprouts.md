@@ -17,9 +17,9 @@ recipeingredient:
 - "2 tsp salt"
 - "1 packages Brussels sprouts sliced in half lengthwise"
 recipeinstructions:
-- "Toss Brussels sprouts in evoo and place in a pan over medium low to medium heat.  You don't won't to cook them to fast because you want to draw the sugars out slowly.  Once they start to brown evenly, toss in garlic and stir to mix."
+- "Toss Brussels sprouts in evoo and place in a pan over medium low to medium heat.  You don&#39;t won&#39;t to cook them to fast because you want to draw the sugars out slowly.  Once they start to brown evenly, toss in garlic and stir to mix."
 - "Once the garlic has been in the pan a couple minutes, season with salt and garam masala"
-- "Continue to cook down until Brussels sprouts have a nice browned color (don't burn the garlic though!). Remove from heat."
+- "Continue to cook down until Brussels sprouts have a nice browned color (don&#39;t burn the garlic though!). Remove from heat."
 - "You can serve these hot, warm, or even reheated - always squeeze the lemon over the cooked sprouts right before serving!"
 categories:
 - Recipe
@@ -67,9 +67,9 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 
 ##### Steps to make Brussels Sprouts:
 
-1. Toss Brussels sprouts in evoo and place in a pan over medium low to medium heat.  You don't won't to cook them to fast because you want to draw the sugars out slowly.  Once they start to brown evenly, toss in garlic and stir to mix.
+1. Toss Brussels sprouts in evoo and place in a pan over medium low to medium heat.  You don&#39;t won&#39;t to cook them to fast because you want to draw the sugars out slowly.  Once they start to brown evenly, toss in garlic and stir to mix.
 1. Once the garlic has been in the pan a couple minutes, season with salt and garam masala
-1. Continue to cook down until Brussels sprouts have a nice browned color (don't burn the garlic though!). Remove from heat.
+1. Continue to cook down until Brussels sprouts have a nice browned color (don&#39;t burn the garlic though!). Remove from heat.
 1. You can serve these hot, warm, or even reheated - always squeeze the lemon over the cooked sprouts right before serving!
 
 

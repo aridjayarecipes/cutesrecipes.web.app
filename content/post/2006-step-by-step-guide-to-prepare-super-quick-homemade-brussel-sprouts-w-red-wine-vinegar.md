@@ -57,7 +57,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook br
 ##### The ingredients needed to make Brussel sprouts w/red wine vinegar:
 
 1. Make ready 1 lb Brussel sprouts
-1. Make ready 4 slice thick cut bacon (don't eat pork, you can use beef bacon)
+1. Make ready 4 slice thick cut bacon (don&#39;t eat pork, you can use beef bacon)
 1. Prepare 1/2 cup red wine vinegar
 1. Get 1 salt to taste
 1. Prepare 1 pepper to taste
@@ -66,7 +66,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook br
 1. Prepare 2 tbsp olive oil, extra virgin(only if using beef bacon)
 
 
-I'd asked Rick to pick some up at the store, so that I could make these Balsamic. Roasted Brussels sprouts are not just incredibly easy to prepare, but also, this is one of the most popular holiday side dish recipes on this website! Place roasted brussel sprouts back in bowl. Add remaining tablespoon olive oil, balsamic vinegar and honey and toss to coat evenly. 
+I&#39;d asked Rick to pick some up at the store, so that I could make these Balsamic. Roasted Brussels sprouts are not just incredibly easy to prepare, but also, this is one of the most popular holiday side dish recipes on this website! Place roasted brussel sprouts back in bowl. Add remaining tablespoon olive oil, balsamic vinegar and honey and toss to coat evenly. 
 
 <!--inarticleads2-->
 

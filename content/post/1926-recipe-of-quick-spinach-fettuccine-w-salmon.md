@@ -54,13 +54,13 @@ To get started with this particular recipe, we must prepare a few components. Yo
 ##### The ingredients needed to make SPINACH fettuccine w/salmon:
 
 1. Make ready  FETTUCCINE noodles
-1. Prepare  SPINACH leaf's
+1. Prepare  SPINACH leaf&#39;s
 1. Get  Salmon
 1. Take  Alfredo sauce
 1. Get  Parmesan cheese
 
 
-In the right box you will find recipes and pages of other categories of other recipes. Reader Recipe: Salmon & Spinach Fettuccine. When it came to comfort foods, I was an odd kid. What my mother did with the salmon after she microwaved it (which, in her defense, creates an effect akin to poaching) was flake it into marinara sauce (Prego, obvi), and serve it over. 
+In the right box you will find recipes and pages of other categories of other recipes. Reader Recipe: Salmon &amp; Spinach Fettuccine. When it came to comfort foods, I was an odd kid. What my mother did with the salmon after she microwaved it (which, in her defense, creates an effect akin to poaching) was flake it into marinara sauce (Prego, obvi), and serve it over. 
 
 <!--inarticleads2-->
 

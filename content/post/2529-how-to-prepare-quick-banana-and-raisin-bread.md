@@ -21,7 +21,7 @@ recipeingredient:
 - " Melted butter"
 recipeinstructions:
 - "Dissolve the yeast in a bit of warm water. When it is fluffy mix it. Then combine all the ingredients. And mix properly. Grease the ceramic with butter and pour mixture."
-- "Heat oven at 250°C (480°F) and bake it for 40 mins. Insert a toothpick. If the toothpick comes out clean it's ready."
+- "Heat oven at 250°C (480°F) and bake it for 40 mins. Insert a toothpick. If the toothpick comes out clean it&#39;s ready."
 categories:
 - Recipe
 tags:
@@ -73,7 +73,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 ##### Instructions to make Banana and Raisin Bread:
 
 1. Dissolve the yeast in a bit of warm water. When it is fluffy mix it. Then combine all the ingredients. And mix properly. Grease the ceramic with butter and pour mixture.
-1. Heat oven at 250°C (480°F) and bake it for 40 mins. Insert a toothpick. If the toothpick comes out clean it's ready.
+1. Heat oven at 250°C (480°F) and bake it for 40 mins. Insert a toothpick. If the toothpick comes out clean it&#39;s ready.
 
 
 

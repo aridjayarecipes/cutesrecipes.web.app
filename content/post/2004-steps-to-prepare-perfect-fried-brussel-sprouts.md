@@ -17,7 +17,7 @@ recipeingredient:
 - "1 butter"
 recipeinstructions:
 - "Start frying sausage in frying pan"
-- "Before it's done browning cut Brussel sprouts in halves and place in skillet face down"
+- "Before it&#39;s done browning cut Brussel sprouts in halves and place in skillet face down"
 - "Add butter slowly to keep from scorching as needed"
 - "Add onions let sausage cook throughly after desired browness turn heat low add lid and let steam 5 minute enjoy"
 categories:
@@ -67,7 +67,7 @@ To get started with this particular recipe, we must first prepare a few componen
 ##### Instructions to make Fried Brussel sprouts:
 
 1. Start frying sausage in frying pan
-1. Before it's done browning cut Brussel sprouts in halves and place in skillet face down
+1. Before it&#39;s done browning cut Brussel sprouts in halves and place in skillet face down
 1. Add butter slowly to keep from scorching as needed
 1. Add onions let sausage cook throughly after desired browness turn heat low add lid and let steam 5 minute enjoy
 

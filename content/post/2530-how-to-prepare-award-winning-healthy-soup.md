@@ -66,7 +66,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Prepare 1/6 cup mint leaves
 
 
-Recipes here include healthy beef stews, a restaurant copycat healthy turkey chili, and healthy butternut squash soup, but there's much more. Pick your favorite for dinner tonight. Can someone give me some more recipes for different types of soups? I've tried looking online but I can't seem to find the right one. 
+Recipes here include healthy beef stews, a restaurant copycat healthy turkey chili, and healthy butternut squash soup, but there&#39;s much more. Pick your favorite for dinner tonight. Can someone give me some more recipes for different types of soups? I&#39;ve tried looking online but I can&#39;t seem to find the right one. 
 
 <!--inarticleads2-->
 
@@ -77,6 +77,6 @@ Recipes here include healthy beef stews, a restaurant copycat healthy turkey chi
 1. Stir well and serve hot.
 
 
-Can someone give me some more recipes for different types of soups? I've tried looking online but I can't seem to find the right one. It's a great soup that is cheap, healthy, and adaptable. Nutritious, soothing, flavourful soup recipes to suit everyone - from hearty meat-based soups to tasty broths and creamy vegetable soups Healthy Food Guide has it all. See more ideas about healthy recipes, recipes, healthy. 
+Can someone give me some more recipes for different types of soups? I&#39;ve tried looking online but I can&#39;t seem to find the right one. It&#39;s a great soup that is cheap, healthy, and adaptable. Nutritious, soothing, flavourful soup recipes to suit everyone - from hearty meat-based soups to tasty broths and creamy vegetable soups Healthy Food Guide has it all. See more ideas about healthy recipes, recipes, healthy. 
 
 So that's going to wrap it up for this special food healthy soup recipe. Thanks so much for reading. I am sure that you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

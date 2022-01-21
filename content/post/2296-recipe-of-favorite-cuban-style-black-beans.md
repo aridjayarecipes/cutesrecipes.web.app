@@ -22,10 +22,10 @@ recipeingredient:
 - " Fresh lime wedges for serving"
 - " Sour cream for serving"
 recipeinstructions:
-- "Heat the olive oil in a large skillet over medium heat. Once it's hot, add the peppers and onions. Cook, stirring often, for 5 or so minutes, until they are softened and the onion is translucent."
+- "Heat the olive oil in a large skillet over medium heat. Once it&#39;s hot, add the peppers and onions. Cook, stirring often, for 5 or so minutes, until they are softened and the onion is translucent."
 - "Add the garlic and cook and stir just a minute or so, until fragrant. Then stir in the black beans, seasoning and broth."
 - "Let it come to a simmer and let it cool for 4-5 minutes, until the liquid has mostly cooked off."
-- "That's it. Serve immediately. We like ours over brown rice, but eat however you'd like. Store any leftovers in the fridge."
+- "That&#39;s it. Serve immediately. We like ours over brown rice, but eat however you&#39;d like. Store any leftovers in the fridge."
 categories:
 - Recipe
 tags:
@@ -78,10 +78,10 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 
 ##### Instructions to make Cuban Style Black Beans:
 
-1. Heat the olive oil in a large skillet over medium heat. Once it's hot, add the peppers and onions. Cook, stirring often, for 5 or so minutes, until they are softened and the onion is translucent.
+1. Heat the olive oil in a large skillet over medium heat. Once it&#39;s hot, add the peppers and onions. Cook, stirring often, for 5 or so minutes, until they are softened and the onion is translucent.
 1. Add the garlic and cook and stir just a minute or so, until fragrant. Then stir in the black beans, seasoning and broth.
 1. Let it come to a simmer and let it cool for 4-5 minutes, until the liquid has mostly cooked off.
-1. That's it. Serve immediately. We like ours over brown rice, but eat however you'd like. Store any leftovers in the fridge.
+1. That&#39;s it. Serve immediately. We like ours over brown rice, but eat however you&#39;d like. Store any leftovers in the fridge.
 
 
 

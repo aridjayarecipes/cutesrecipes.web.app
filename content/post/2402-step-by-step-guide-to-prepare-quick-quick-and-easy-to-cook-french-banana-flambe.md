@@ -63,7 +63,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 1. Prepare 5 cl dark rum or Grand Marnier
 
 
-Bananas Flambe: Yes, I know it's Flambé, but ibles won't allow special characters in the title! Few deserts look so complicated, turn as many heads Few deserts look so complicated, turn as many heads, taste as amazing, and are as deceptively easy as flambé.anything. The Banana Flambé is a perfect dessert to serve a party of adults. The bananas are sweetened with brown sugar and covered with flaming brandy. 
+Bananas Flambe: Yes, I know it&#39;s Flambé, but ibles won&#39;t allow special characters in the title! Few deserts look so complicated, turn as many heads Few deserts look so complicated, turn as many heads, taste as amazing, and are as deceptively easy as flambé.anything. The Banana Flambé is a perfect dessert to serve a party of adults. The bananas are sweetened with brown sugar and covered with flaming brandy. 
 
 <!--inarticleads2-->
 

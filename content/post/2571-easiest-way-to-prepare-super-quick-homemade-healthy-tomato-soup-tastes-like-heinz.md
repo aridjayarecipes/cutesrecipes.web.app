@@ -21,7 +21,7 @@ recipeingredient:
 recipeinstructions:
 - "Fry off the garlic and onion for a few minutes and then add the sweet potato. Sweat until softening."
 - "Cover with water and bring to boil. Simmer until the sweet potato is soft."
-- "Add the tomatoes, a splash of apple juice and add stock until you've got your required amount of soup."
+- "Add the tomatoes, a splash of apple juice and add stock until you&#39;ve got your required amount of soup."
 - "Once boiled reduce the heat and then simmer on low for 20-30mins before until smooth. Add milk to give a creamy taste. Season to taste."
 categories:
 - Recipe
@@ -74,10 +74,10 @@ So this is a recipe for like Heniz syn free and speedy tomato soup extremely fil
 
 1. Fry off the garlic and onion for a few minutes and then add the sweet potato. Sweat until softening.
 1. Cover with water and bring to boil. Simmer until the sweet potato is soft.
-1. Add the tomatoes, a splash of apple juice and add stock until you've got your required amount of soup.
+1. Add the tomatoes, a splash of apple juice and add stock until you&#39;ve got your required amount of soup.
 1. Once boiled reduce the heat and then simmer on low for 20-30mins before until smooth. Add milk to give a creamy taste. Season to taste.
 
 
-If you are interested in seeing more Slimming World recipes like the one I have just shared you can find them all here. Let me know if you have tried this soup and what your. We hit on this soup quite by accident when a good friend of ours shared her old recipe. After one mouthful, we glanced up at each other and simultaneously cried, "This tastes just like Heinz tomato soup!" This has become our go-to "feel like I'm back home," "just picked up some Heinz from the. See more ideas about heinz recipe, tomato soup recipes, soup recipes. 
+If you are interested in seeing more Slimming World recipes like the one I have just shared you can find them all here. Let me know if you have tried this soup and what your. We hit on this soup quite by accident when a good friend of ours shared her old recipe. After one mouthful, we glanced up at each other and simultaneously cried, &#34;This tastes just like Heinz tomato soup!&#34; This has become our go-to &#34;feel like I&#39;m back home,&#34; &#34;just picked up some Heinz from the. See more ideas about heinz recipe, tomato soup recipes, soup recipes. 
 
 So that is going to wrap this up for this special food healthy tomato soup - tastes like heinz recipe. Thanks so much for reading. I'm confident that you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

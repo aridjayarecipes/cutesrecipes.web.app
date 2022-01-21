@@ -79,7 +79,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Take 2 tbsp Lemon juice
 
 
-Yah, when it fits in the grocery budget I try to keep heavy cream around. Even with a lemon cream sauce, it's still going to taste like salmon, though. You can try different sources for your salmon, but Pro tip: citrus fruit break down the protein that make it "fishy" so this has lemon in the sauce, so it should help. This creamy buttery lemon butter sauce has a nice lemony kick to it, and a good amount of garlic. 
+Yah, when it fits in the grocery budget I try to keep heavy cream around. Even with a lemon cream sauce, it&#39;s still going to taste like salmon, though. You can try different sources for your salmon, but Pro tip: citrus fruit break down the protein that make it &#34;fishy&#34; so this has lemon in the sauce, so it should help. This creamy buttery lemon butter sauce has a nice lemony kick to it, and a good amount of garlic. 
 
 <!--inarticleads2-->
 
@@ -92,6 +92,6 @@ Yah, when it fits in the grocery budget I try to keep heavy cream around. Even w
 1. Veg Salad: Preheat oven to 350F. Mix broccoli, capsicum and onion with olive oil and bake it for 15-20 mins. Mix this with other ingredients.
 
 
-You can try different sources for your salmon, but Pro tip: citrus fruit break down the protein that make it "fishy" so this has lemon in the sauce, so it should help. This creamy buttery lemon butter sauce has a nice lemony kick to it, and a good amount of garlic. Prepare the lemon butter sauce and asparagus while the salmon is cooking. You can easily add more salmon fillets, as long as you use a larger baking tray to accommodate more salmon, and. CLICK HERE to Get the Recipe. 
+You can try different sources for your salmon, but Pro tip: citrus fruit break down the protein that make it &#34;fishy&#34; so this has lemon in the sauce, so it should help. This creamy buttery lemon butter sauce has a nice lemony kick to it, and a good amount of garlic. Prepare the lemon butter sauce and asparagus while the salmon is cooking. You can easily add more salmon fillets, as long as you use a larger baking tray to accommodate more salmon, and. CLICK HERE to Get the Recipe. 
 
 So that's going to wrap it up for this special food salmon in lemon butter sauce with baked veggies recipe. Thank you very much for your time. I'm sure that you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

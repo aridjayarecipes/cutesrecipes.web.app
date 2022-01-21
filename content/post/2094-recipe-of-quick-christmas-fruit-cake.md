@@ -30,9 +30,9 @@ recipeinstructions:
 - "On the fourth day(after 3 nights of soaking mixed fruits in brandy), Grease and line a 20cm cake tin, preferably with a removable base."
 - "Preheat the oven to 150°C."
 - "With an electric mixer, beat the butter with the sugar and black treacle until paler and fluffy. Gradually add the eggs, beating each one at a time."
-- "Add the flour and mix with spatula. I don't use electric mixer for the flour."
-- "Now add the mixed fruits, almond powder. It might look a bit messy at this point but that's how it would be."
-- "Pour into the pan. Top it with almonds. This will help for good appearance Incase we don't have time to decorate later!"
+- "Add the flour and mix with spatula. I don&#39;t use electric mixer for the flour."
+- "Now add the mixed fruits, almond powder. It might look a bit messy at this point but that&#39;s how it would be."
+- "Pour into the pan. Top it with almonds. This will help for good appearance Incase we don&#39;t have time to decorate later!"
 - "Cover the pan with parchment paper to overturn the top layer. Keep the pan in oven for 3 hours at 140 *C"
 - "Switch off oven. Allow cake to cool down."
 - "Keep in airtight container."
@@ -101,9 +101,9 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. On the fourth day(after 3 nights of soaking mixed fruits in brandy), Grease and line a 20cm cake tin, preferably with a removable base.
 1. Preheat the oven to 150°C.
 1. With an electric mixer, beat the butter with the sugar and black treacle until paler and fluffy. Gradually add the eggs, beating each one at a time.
-1. Add the flour and mix with spatula. I don't use electric mixer for the flour.
-1. Now add the mixed fruits, almond powder. It might look a bit messy at this point but that's how it would be.
-1. Pour into the pan. Top it with almonds. This will help for good appearance Incase we don't have time to decorate later!
+1. Add the flour and mix with spatula. I don&#39;t use electric mixer for the flour.
+1. Now add the mixed fruits, almond powder. It might look a bit messy at this point but that&#39;s how it would be.
+1. Pour into the pan. Top it with almonds. This will help for good appearance Incase we don&#39;t have time to decorate later!
 1. Cover the pan with parchment paper to overturn the top layer. Keep the pan in oven for 3 hours at 140 *C
 1. Switch off oven. Allow cake to cool down.
 1. Keep in airtight container.

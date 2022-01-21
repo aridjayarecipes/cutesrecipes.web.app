@@ -31,7 +31,7 @@ recipeinstructions:
 - "Add the red pepper and stir"
 - "Add the sugar, lemon or lime juice, salt and pepper and stir, let sit one minute"
 - "Add the minced garlic and stir (if you need more olive oil, add a dash)"
-- "At this point, it's all about tasting while you cook. The Brussels sprouts should cook until they are tender and no longer bitter at all. Salt and pepper to taste throughout. Once they are cooked and taste almost buttery, then they are done. Sprinkle with sesame seeds and serve"
+- "At this point, it&#39;s all about tasting while you cook. The Brussels sprouts should cook until they are tender and no longer bitter at all. Salt and pepper to taste throughout. Once they are cooked and taste almost buttery, then they are done. Sprinkle with sesame seeds and serve"
 categories:
 - Recipe
 tags:
@@ -93,7 +93,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 1. Add the red pepper and stir
 1. Add the sugar, lemon or lime juice, salt and pepper and stir, let sit one minute
 1. Add the minced garlic and stir (if you need more olive oil, add a dash)
-1. At this point, it's all about tasting while you cook. The Brussels sprouts should cook until they are tender and no longer bitter at all. Salt and pepper to taste throughout. Once they are cooked and taste almost buttery, then they are done. Sprinkle with sesame seeds and serve
+1. At this point, it&#39;s all about tasting while you cook. The Brussels sprouts should cook until they are tender and no longer bitter at all. Salt and pepper to taste throughout. Once they are cooked and taste almost buttery, then they are done. Sprinkle with sesame seeds and serve
 
 
 

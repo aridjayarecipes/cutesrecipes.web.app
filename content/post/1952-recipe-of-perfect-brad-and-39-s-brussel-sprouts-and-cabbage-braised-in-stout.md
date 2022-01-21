@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Perfect Brad&#39;s Brussel sprouts and cabbage braised in stout"
-title: "Recipe of Perfect Brad&#39;s Brussel sprouts and cabbage braised in stout"
+description: "Recipe of Perfect Brad&amp;#39;s Brussel sprouts and cabbage braised in stout"
+title: "Recipe of Perfect Brad&amp;#39;s Brussel sprouts and cabbage braised in stout"
 slug: 1952-recipe-of-perfect-brad-and-39-s-brussel-sprouts-and-cabbage-braised-in-stout
 date: 2021-10-29T13:48:16.398Z
 image: https://img-global.cpcdn.com/recipes/739739ed3de56f9f/680x482cq70/brads-brussel-sprouts-and-cabbage-braised-in-stout-recipe-main-photo.jpg
@@ -43,20 +43,20 @@ recipecategory: Lunch
 ---
 
 
-![Brad's Brussel sprouts and cabbage braised in stout](https://img-global.cpcdn.com/recipes/739739ed3de56f9f/680x482cq70/brads-brussel-sprouts-and-cabbage-braised-in-stout-recipe-main-photo.jpg)
+![Brad&#39;s Brussel sprouts and cabbage braised in stout](https://img-global.cpcdn.com/recipes/739739ed3de56f9f/680x482cq70/brads-brussel-sprouts-and-cabbage-braised-in-stout-recipe-main-photo.jpg)
 
-Hello everybody, hope you are having an amazing day today. Today, we're going to make a distinctive dish, brad's brussel sprouts and cabbage braised in stout. It is one of my favorites. This time, I'm gonna make it a bit tasty. This will be really delicious.
+Hello everybody, hope you are having an amazing day today. Today, we're going to make a distinctive dish, brad&#39;s brussel sprouts and cabbage braised in stout. It is one of my favorites. This time, I'm gonna make it a bit tasty. This will be really delicious.
 
-Brad's Brussel sprouts and cabbage braised in stout is one of the most favored of current trending foods in the world. It's enjoyed by millions every day. It's easy, it is fast, it tastes yummy. They are fine and they look wonderful. Brad's Brussel sprouts and cabbage braised in stout is something that I have loved my entire life.
-
-
+Brad&#39;s Brussel sprouts and cabbage braised in stout is one of the most favored of current trending foods in the world. It's enjoyed by millions every day. It's easy, it is fast, it tastes yummy. They are fine and they look wonderful. Brad&#39;s Brussel sprouts and cabbage braised in stout is something that I have loved my entire life.
 
 
-To get started with this recipe, we have to first prepare a few components. You can have brad's brussel sprouts and cabbage braised in stout using 10 ingredients and 4 steps. Here is how you can achieve that.
+
+
+To get started with this recipe, we have to first prepare a few components. You can have brad&#39;s brussel sprouts and cabbage braised in stout using 10 ingredients and 4 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Brad's Brussel sprouts and cabbage braised in stout:
+##### The ingredients needed to make Brad&#39;s Brussel sprouts and cabbage braised in stout:
 
 1. Make ready 1-1 1/2 lbs Brussel sprouts, trim end and cut in half
 1. Take 1/2 LG head of cabbage course chopped
@@ -74,7 +74,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 
 <!--inarticleads2-->
 
-##### Steps to make Brad's Brussel sprouts and cabbage braised in stout:
+##### Steps to make Brad&#39;s Brussel sprouts and cabbage braised in stout:
 
 1. Heat butter in a LG wok. Add onion, shallots, bacon, and Brussels. Saute until Brussels start getting soft on the edges.
 1. Add vinegar and cook off 1 minute.
@@ -84,4 +84,4 @@ To get started with this recipe, we have to first prepare a few components. You 
 
 
 
-So that's going to wrap this up with this special food brad's brussel sprouts and cabbage braised in stout recipe. Thanks so much for reading. I'm confident that you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!
+So that's going to wrap this up with this special food brad&#39;s brussel sprouts and cabbage braised in stout recipe. Thanks so much for reading. I'm confident that you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

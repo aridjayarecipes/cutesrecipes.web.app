@@ -27,8 +27,8 @@ recipeinstructions:
 - "Boil eggs"
 - "Cut into quarters. Boil potatoes until fork tender. Make sure to salt the water."
 - "Add mayo to mustard with dry seasonings to potatoes and mix. Be careful not to mash the taters."
-- "Add halved eggs to the salad. Sprinkle with old bay, Tony's with no salt and lemon pepper. You're a boss!"
-- "For effect, Sprinkle the Paprika, Tony's, and lemon pepper over the top. You want more red effect then anything."
+- "Add halved eggs to the salad. Sprinkle with old bay, Tony&#39;s with no salt and lemon pepper. You&#39;re a boss!"
+- "For effect, Sprinkle the Paprika, Tony&#39;s, and lemon pepper over the top. You want more red effect then anything."
 - "Sprinkle with fresh parsley. Cool and enjoy with family because you have a trophy coming!"
 categories:
 - Recipe
@@ -68,7 +68,7 @@ To get started with this recipe, we must prepare a few components. You can cook 
 1. Take  Paprika
 1. Get  Mustard
 1. Take  Mayo
-1. Prepare  Tony's
+1. Prepare  Tony&#39;s
 1. Make ready  Garlic powder
 1. Make ready  Parsley
 1. Get  Red potatoes
@@ -87,8 +87,8 @@ To get started with this recipe, we must prepare a few components. You can cook 
 1. Boil eggs
 1. Cut into quarters. Boil potatoes until fork tender. Make sure to salt the water.
 1. Add mayo to mustard with dry seasonings to potatoes and mix. Be careful not to mash the taters.
-1. Add halved eggs to the salad. Sprinkle with old bay, Tony's with no salt and lemon pepper. You're a boss!
-1. For effect, Sprinkle the Paprika, Tony's, and lemon pepper over the top. You want more red effect then anything.
+1. Add halved eggs to the salad. Sprinkle with old bay, Tony&#39;s with no salt and lemon pepper. You&#39;re a boss!
+1. For effect, Sprinkle the Paprika, Tony&#39;s, and lemon pepper over the top. You want more red effect then anything.
 1. Sprinkle with fresh parsley. Cool and enjoy with family because you have a trophy coming!
 
 

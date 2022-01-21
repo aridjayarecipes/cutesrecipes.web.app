@@ -29,7 +29,7 @@ recipeinstructions:
 - "Heat up the frying pan"
 - "Pour some batter to the pan to cook over medium fire"
 - "Flip over when u see all bubble holes cooked"
-- "Another min... Voila, it's done"
+- "Another min... Voila, it&#39;s done"
 categories:
 - Recipe
 tags:
@@ -53,7 +53,7 @@ Hello everybody, hope you are having an amazing day today. Today, I will show yo
 
 Blueberries pancake is one of the most well liked of current trending foods on earth. It's easy, it is fast, it tastes yummy. It is enjoyed by millions every day. They are nice and they look fantastic. Blueberries pancake is something which I have loved my entire life.
 
-Light, fluffy and fruity, these pancakes are a US classic. Serve them stacked high with syrup and extra fruit, from BBC Good Food. Blueberry pancakes made with buttermilk, and loaded with blueberries! Learn how to make blueberry pancakes that are light and fluffy, and don't turn purple on you.
+Light, fluffy and fruity, these pancakes are a US classic. Serve them stacked high with syrup and extra fruit, from BBC Good Food. Blueberry pancakes made with buttermilk, and loaded with blueberries! Learn how to make blueberry pancakes that are light and fluffy, and don&#39;t turn purple on you.
 
 
 To get started with this recipe, we must prepare a few components. You can have blueberries pancake using 12 ingredients and 7 steps. Here is how you can achieve it.
@@ -76,7 +76,7 @@ To get started with this recipe, we must prepare a few components. You can have 
 1. Make ready  Add blueberries of any amount you like
 
 
-They're fresh, they're juicy, and most importantly - they're finally affordable! This recipe for Ricotta Pancakes with Blueberries is from LA's BLD Restaurant. Adding fresh ricotta to the batter makes them incredibly moist and light. Find the perfect Blueberry Pancake stock illustrations from Getty Images. 
+They&#39;re fresh, they&#39;re juicy, and most importantly - they&#39;re finally affordable! This recipe for Ricotta Pancakes with Blueberries is from LA&#39;s BLD Restaurant. Adding fresh ricotta to the batter makes them incredibly moist and light. Find the perfect Blueberry Pancake stock illustrations from Getty Images. 
 
 <!--inarticleads2-->
 
@@ -88,7 +88,7 @@ They're fresh, they're juicy, and most importantly - they're finally affordable!
 1. Heat up the frying pan
 1. Pour some batter to the pan to cook over medium fire
 1. Flip over when u see all bubble holes cooked
-1. Another min... Voila, it's done
+1. Another min... Voila, it&#39;s done
 
 
 Adding fresh ricotta to the batter makes them incredibly moist and light. Find the perfect Blueberry Pancake stock illustrations from Getty Images. Select from premium Blueberry Pancake images of the highest quality. Download vector images of Blueberry pancakes on Depositphotos Vector stock with millions of royalty-free illustrations at affordable prices. For the blueberry topping, place blueberries in a small bowl with a little bit of maple syrup. 

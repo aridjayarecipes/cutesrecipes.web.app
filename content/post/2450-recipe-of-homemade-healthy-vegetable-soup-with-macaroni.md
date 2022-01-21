@@ -68,7 +68,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Make ready  Some Macaroni
 1. Take 1 liter water
 1. Prepare 1 cube Chicken bouillon
-1. Prepare To taste Salt & Pepper
+1. Prepare To taste Salt &amp; Pepper
 
 
 

@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Prepare Perfect Fried Fresh Salmon w/kale &amp; dandelion greens"
-title: "Step-by-Step Guide to Prepare Perfect Fried Fresh Salmon w/kale &amp; dandelion greens"
+description: "Step-by-Step Guide to Prepare Perfect Fried Fresh Salmon w/kale &amp;amp; dandelion greens"
+title: "Step-by-Step Guide to Prepare Perfect Fried Fresh Salmon w/kale &amp;amp; dandelion greens"
 slug: 1989-step-by-step-guide-to-prepare-perfect-fried-fresh-salmon-w-kale-and-amp-dandelion-greens
 date: 2022-02-20T08:22:46.564Z
 image: https://img-global.cpcdn.com/recipes/10570a78a2c05e6f/680x482cq70/fried-fresh-salmon-wkale-dandelion-greens-recipe-main-photo.jpg
@@ -48,20 +48,20 @@ recipecategory: Dessert
 ---
 
 
-![Fried Fresh Salmon w/kale & dandelion greens](https://img-global.cpcdn.com/recipes/10570a78a2c05e6f/680x482cq70/fried-fresh-salmon-wkale-dandelion-greens-recipe-main-photo.jpg)
+![Fried Fresh Salmon w/kale &amp; dandelion greens](https://img-global.cpcdn.com/recipes/10570a78a2c05e6f/680x482cq70/fried-fresh-salmon-wkale-dandelion-greens-recipe-main-photo.jpg)
 
-Hey everyone, I hope you are having an incredible day today. Today, I will show you a way to prepare a distinctive dish, fried fresh salmon w/kale & dandelion greens. One of my favorites food recipes. This time, I am going to make it a little bit unique. This is gonna smell and look delicious.
-
-
-
-Fried Fresh Salmon w/kale & dandelion greens is one of the most favored of recent trending foods on earth. It is appreciated by millions every day. It is simple, it is quick, it tastes delicious. Fried Fresh Salmon w/kale & dandelion greens is something which I have loved my entire life. They are nice and they look wonderful.
+Hey everyone, I hope you are having an incredible day today. Today, I will show you a way to prepare a distinctive dish, fried fresh salmon w/kale &amp; dandelion greens. One of my favorites food recipes. This time, I am going to make it a little bit unique. This is gonna smell and look delicious.
 
 
-To begin with this recipe, we have to first prepare a few ingredients. You can have fried fresh salmon w/kale & dandelion greens using 15 ingredients and 4 steps. Here is how you can achieve that.
+
+Fried Fresh Salmon w/kale &amp; dandelion greens is one of the most favored of recent trending foods on earth. It is appreciated by millions every day. It is simple, it is quick, it tastes delicious. Fried Fresh Salmon w/kale &amp; dandelion greens is something which I have loved my entire life. They are nice and they look wonderful.
+
+
+To begin with this recipe, we have to first prepare a few ingredients. You can have fried fresh salmon w/kale &amp; dandelion greens using 15 ingredients and 4 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Fried Fresh Salmon w/kale & dandelion greens:
+##### The ingredients needed to make Fried Fresh Salmon w/kale &amp; dandelion greens:
 
 1. Make ready  Fresh Salmon
 1. Make ready  Fresh dill
@@ -84,7 +84,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can h
 
 <!--inarticleads2-->
 
-##### Instructions to make Fried Fresh Salmon w/kale & dandelion greens:
+##### Instructions to make Fried Fresh Salmon w/kale &amp; dandelion greens:
 
 1. Bell peppers, green onions, Bella mushrooms sauteed
 1. Add number 1 to fresh cut up salmon, old bay seasoning, garlic powder, sea salt, panko bread crumbs, and blend together
@@ -94,4 +94,4 @@ To begin with this recipe, we have to first prepare a few ingredients. You can h
 
 
 
-So that is going to wrap it up for this exceptional food fried fresh salmon w/kale & dandelion greens recipe. Thank you very much for your time. I'm sure that you can make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!
+So that is going to wrap it up for this exceptional food fried fresh salmon w/kale &amp; dandelion greens recipe. Thank you very much for your time. I'm sure that you can make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

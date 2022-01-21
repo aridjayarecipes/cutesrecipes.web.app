@@ -29,7 +29,7 @@ recipeinstructions:
 - "Slowly the mixture will get thick and start leaving the bottom and sides of the pan. At this point the mixture is ready."
 - "Now grease any pan with ghee in which you want to set the barfi."
 - "Pour the barfi mixture into this pan and level it properly."
-- "Garnish with grated cashews, it's pieces and saffron. Allow to set at room temperature."
+- "Garnish with grated cashews, it&#39;s pieces and saffron. Allow to set at room temperature."
 - "After it cools and comes down to room temperature cut in desired shape or you can even scoop out and serve in a bowl with more garnishing."
 categories:
 - Recipe
@@ -90,7 +90,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 1. Slowly the mixture will get thick and start leaving the bottom and sides of the pan. At this point the mixture is ready.
 1. Now grease any pan with ghee in which you want to set the barfi.
 1. Pour the barfi mixture into this pan and level it properly.
-1. Garnish with grated cashews, it's pieces and saffron. Allow to set at room temperature.
+1. Garnish with grated cashews, it&#39;s pieces and saffron. Allow to set at room temperature.
 1. After it cools and comes down to room temperature cut in desired shape or you can even scoop out and serve in a bowl with more garnishing.
 
 

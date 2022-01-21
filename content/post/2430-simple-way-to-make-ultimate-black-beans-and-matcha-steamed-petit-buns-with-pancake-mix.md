@@ -19,11 +19,11 @@ recipeinstructions:
 - "Add all ◆ ingredients into a bowl and mix well using a whisk (mix well to avoid the matcha from clumping)."
 - "Add pancake mix to the mixture from Step 1 and whisk."
 - "Evenly pour the dough into 6 cups. Put 3 beans into each of the cups (press them in)."
-- "Steam in a heated steamer for about 10 to 13 minutes over medium heat. It's done when you can poke a hole with a skewer and it comes out clean."
+- "Steam in a heated steamer for about 10 to 13 minutes over medium heat. It&#39;s done when you can poke a hole with a skewer and it comes out clean."
 - "Press in black beans in the center of the finished buns. Cool slightly on a rack to finish."
 - "I used small paper cups."
 - "If you use pudding lining, you can make 3 to 4."
-- "It's a little difficult to eat. Chop the cups with scissors, and peel as you eat, or use a spoon."
+- "It&#39;s a little difficult to eat. Chop the cups with scissors, and peel as you eat, or use a spoon."
 categories:
 - Recipe
 tags:
@@ -73,11 +73,11 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Add all ◆ ingredients into a bowl and mix well using a whisk (mix well to avoid the matcha from clumping).
 1. Add pancake mix to the mixture from Step 1 and whisk.
 1. Evenly pour the dough into 6 cups. Put 3 beans into each of the cups (press them in).
-1. Steam in a heated steamer for about 10 to 13 minutes over medium heat. It's done when you can poke a hole with a skewer and it comes out clean.
+1. Steam in a heated steamer for about 10 to 13 minutes over medium heat. It&#39;s done when you can poke a hole with a skewer and it comes out clean.
 1. Press in black beans in the center of the finished buns. Cool slightly on a rack to finish.
 1. I used small paper cups.
 1. If you use pudding lining, you can make 3 to 4.
-1. It's a little difficult to eat. Chop the cups with scissors, and peel as you eat, or use a spoon.
+1. It&#39;s a little difficult to eat. Chop the cups with scissors, and peel as you eat, or use a spoon.
 
 
 

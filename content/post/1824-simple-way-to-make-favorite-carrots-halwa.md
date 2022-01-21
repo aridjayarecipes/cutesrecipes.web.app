@@ -17,8 +17,8 @@ recipeingredient:
 - "As  required Dryfruits for garnish"
 - "1/2 tsp Elaichi  green cardamom powder"
 recipeinstructions:
-- "Take carrots and wash. Then grated approx 600gms. Now take a pan and heat, add ghee,carrots and saute them for 10 mins.when it's become smooth and transparent now add milk and stir it continuously. Meanwhile add grated dry fruits & elaichi / green cardamom powder. After sometime add milk & mix. When it looks like dough consistency now add sugar & mix well. When it colour is become saffron the halwa is ready"
-- "Then add elaichi powder & stir it, transfer it to grease plate and press with catori to provide equal level garnish with dry fruits. After that cut into pieces &/ store in containers."
+- "Take carrots and wash. Then grated approx 600gms. Now take a pan and heat, add ghee,carrots and saute them for 10 mins.when it&#39;s become smooth and transparent now add milk and stir it continuously. Meanwhile add grated dry fruits &amp; elaichi / green cardamom powder. After sometime add milk &amp; mix. When it looks like dough consistency now add sugar &amp; mix well. When it colour is become saffron the halwa is ready"
+- "Then add elaichi powder &amp; stir it, transfer it to grease plate and press with catori to provide equal level garnish with dry fruits. After that cut into pieces &amp;/ store in containers."
 categories:
 - Recipe
 tags:
@@ -65,8 +65,8 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook ca
 
 ##### Instructions to make Carrots Halwa:
 
-1. Take carrots and wash. Then grated approx 600gms. Now take a pan and heat, add ghee,carrots and saute them for 10 mins.when it's become smooth and transparent now add milk and stir it continuously. Meanwhile add grated dry fruits & elaichi / green cardamom powder. After sometime add milk & mix. When it looks like dough consistency now add sugar & mix well. When it colour is become saffron the halwa is ready
-1. Then add elaichi powder & stir it, transfer it to grease plate and press with catori to provide equal level garnish with dry fruits. After that cut into pieces &/ store in containers.
+1. Take carrots and wash. Then grated approx 600gms. Now take a pan and heat, add ghee,carrots and saute them for 10 mins.when it&#39;s become smooth and transparent now add milk and stir it continuously. Meanwhile add grated dry fruits &amp; elaichi / green cardamom powder. After sometime add milk &amp; mix. When it looks like dough consistency now add sugar &amp; mix well. When it colour is become saffron the halwa is ready
+1. Then add elaichi powder &amp; stir it, transfer it to grease plate and press with catori to provide equal level garnish with dry fruits. After that cut into pieces &amp;/ store in containers.
 
 
 

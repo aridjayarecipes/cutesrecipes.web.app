@@ -25,7 +25,7 @@ recipeinstructions:
 - "Preheat oven to 325º"
 - "Grease two loaf pans"
 - "In a medium bowl, combine dry ingredients"
-- "In a large bowl, beat butter and sugar until just blended. Add the eggs one at a time, beating well after each addition. Continue beating until light and fluffy. Beat in the pumpkin - it will look lumpy, that's ok"
+- "In a large bowl, beat butter and sugar until just blended. Add the eggs one at a time, beating well after each addition. Continue beating until light and fluffy. Beat in the pumpkin - it will look lumpy, that&#39;s ok"
 - "Add flour mixture and mix on low until combined"
 - "Divide batter evenly into prepared pans. Bake 65-75 minutes or until tester toothpick comes out clean."
 - "Leave to cool in the pan for 10 minutes, then turn out onto a rack to cool completely."
@@ -83,7 +83,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Preheat oven to 325º
 1. Grease two loaf pans
 1. In a medium bowl, combine dry ingredients
-1. In a large bowl, beat butter and sugar until just blended. Add the eggs one at a time, beating well after each addition. Continue beating until light and fluffy. Beat in the pumpkin - it will look lumpy, that's ok
+1. In a large bowl, beat butter and sugar until just blended. Add the eggs one at a time, beating well after each addition. Continue beating until light and fluffy. Beat in the pumpkin - it will look lumpy, that&#39;s ok
 1. Add flour mixture and mix on low until combined
 1. Divide batter evenly into prepared pans. Bake 65-75 minutes or until tester toothpick comes out clean.
 1. Leave to cool in the pan for 10 minutes, then turn out onto a rack to cool completely.

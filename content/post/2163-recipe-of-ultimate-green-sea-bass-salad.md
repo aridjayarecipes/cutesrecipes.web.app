@@ -26,7 +26,7 @@ recipeingredient:
 - " Salt"
 recipeinstructions:
 - "Mix lettuce, celery and leeks in a large salad bowl. Sprinkle some apple cider vinegar."
-- "In a different bowl, mix the flour, baking powder and a pinch of salt. Add any seasonings if you'd like to. Then coat the chopped sea bass with the mix. Cook over high heat with vegetable oil until lightly browned. Set aside to cool."
+- "In a different bowl, mix the flour, baking powder and a pinch of salt. Add any seasonings if you&#39;d like to. Then coat the chopped sea bass with the mix. Cook over high heat with vegetable oil until lightly browned. Set aside to cool."
 - "Throw the cabbage in a well-oiled pan over medium heat. Add salt and pepper to taste. Stir and toss until slightly transluscent and/or borders get golden brown. Set aside to cool."
 - "If using frozen peas, cook in boiling water with lemon pepper seasoning and salt to taste. If using fresh peas, sautée with those same seasonings. Set aside to cool."
 - "Add the cooled cabbage, peas and sea bass to the salad bowl. Gently toss and enjoy."
@@ -86,7 +86,7 @@ Delicious sea bass steamed with greens and a salad packed with oriental flavour.
 ##### Steps to make Green sea bass salad:
 
 1. Mix lettuce, celery and leeks in a large salad bowl. Sprinkle some apple cider vinegar.
-1. In a different bowl, mix the flour, baking powder and a pinch of salt. Add any seasonings if you'd like to. Then coat the chopped sea bass with the mix. Cook over high heat with vegetable oil until lightly browned. Set aside to cool.
+1. In a different bowl, mix the flour, baking powder and a pinch of salt. Add any seasonings if you&#39;d like to. Then coat the chopped sea bass with the mix. Cook over high heat with vegetable oil until lightly browned. Set aside to cool.
 1. Throw the cabbage in a well-oiled pan over medium heat. Add salt and pepper to taste. Stir and toss until slightly transluscent and/or borders get golden brown. Set aside to cool.
 1. If using frozen peas, cook in boiling water with lemon pepper seasoning and salt to taste. If using fresh peas, sautée with those same seasonings. Set aside to cool.
 1. Add the cooled cabbage, peas and sea bass to the salad bowl. Gently toss and enjoy.

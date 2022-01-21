@@ -52,7 +52,7 @@ Hello everybody, hope you are having an incredible day today. Today, I will show
 
 Panna cota is one of the most popular of recent trending foods on earth. It is enjoyed by millions every day. It is simple, it's quick, it tastes yummy. Panna cota is something which I have loved my entire life. They're nice and they look fantastic.
 
-Panna cotta (Italian for "cooked cream") is an Italian dessert of sweetened cream thickened with gelatin and molded. The cream may be aromatized with coffee, vanilla, or other flavorings. Panna cotta is a very basic pudding that is made of dairy thickened with gelatin. It originated in Italy and its name literally means "cooked cream," since the earliest versions were made of thick cream.
+Panna cotta (Italian for &#34;cooked cream&#34;) is an Italian dessert of sweetened cream thickened with gelatin and molded. The cream may be aromatized with coffee, vanilla, or other flavorings. Panna cotta is a very basic pudding that is made of dairy thickened with gelatin. It originated in Italy and its name literally means &#34;cooked cream,&#34; since the earliest versions were made of thick cream.
 
 
 To begin with this recipe, we have to first prepare a few components. You can cook panna cota using 9 ingredients and 9 steps. Here is how you cook it.

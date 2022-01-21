@@ -31,7 +31,7 @@ recipeinstructions:
 - "Next add cubed potatoes and beetroot. Mix well and let them cook for about 3 minutes."
 - "Add the chopped tomatoes and salt. Mix well and let it cook for about 5 minutes."
 - "Add about 500 ml of water, mix well and close the pressure cooker. Let it cook for 5 whistles and turn off the heat."
-- "Wait for the pressure cooker to depressurise on it's own. Open the cooker only after it has completely depressurised."
+- "Wait for the pressure cooker to depressurise on it&#39;s own. Open the cooker only after it has completely depressurised."
 - "Allow the veggies to cool and grind them to fine puree."
 - "Place a clean pressure cooker or a wide and deep pan on low heat and strain the ground puree into it."
 - "Add sugar, pepper powder and lemon juice to the boiling puree. Adjust salt if required and being heat one boil and turn off the heat."
@@ -97,7 +97,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Next add cubed potatoes and beetroot. Mix well and let them cook for about 3 minutes.
 1. Add the chopped tomatoes and salt. Mix well and let it cook for about 5 minutes.
 1. Add about 500 ml of water, mix well and close the pressure cooker. Let it cook for 5 whistles and turn off the heat.
-1. Wait for the pressure cooker to depressurise on it's own. Open the cooker only after it has completely depressurised.
+1. Wait for the pressure cooker to depressurise on it&#39;s own. Open the cooker only after it has completely depressurised.
 1. Allow the veggies to cool and grind them to fine puree.
 1. Place a clean pressure cooker or a wide and deep pan on low heat and strain the ground puree into it.
 1. Add sugar, pepper powder and lemon juice to the boiling puree. Adjust salt if required and being heat one boil and turn off the heat.

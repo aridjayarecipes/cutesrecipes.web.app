@@ -62,7 +62,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Make ready  Black pepper
 
 
-With flavored cream cheese, Swiss cheese and a hint of cayenne pepper, they're sure to be popular "I enjoy these crispy pancakes with steak, asparagus and a Caesar salad," writes Otto Woltersdorf Jr. These potato cheese pancakes are super easy to make and perfect to serve as a snack or side dish. Start by peeling, washing and dicing the potatoes. Cheesy potato pancakes recipe - the best way to use up leftover mashed potatoes! 
+With flavored cream cheese, Swiss cheese and a hint of cayenne pepper, they&#39;re sure to be popular &#34;I enjoy these crispy pancakes with steak, asparagus and a Caesar salad,&#34; writes Otto Woltersdorf Jr. These potato cheese pancakes are super easy to make and perfect to serve as a snack or side dish. Start by peeling, washing and dicing the potatoes. Cheesy potato pancakes recipe - the best way to use up leftover mashed potatoes! 
 
 <!--inarticleads2-->
 

@@ -44,7 +44,7 @@ Hey everyone, it is Brad, welcome to our recipe site. Today, I'm gonna show you 
 
 Corn bhel is one of the most popular of recent trending foods in the world. It is appreciated by millions every day. It is easy, it is quick, it tastes delicious. Corn bhel is something that I have loved my whole life. They are nice and they look wonderful.
 
-In the United States, "corn" is the common word for "maize". Learn how to make Sweet Corn Bhel/Chaat Recipe at home by Chef Nupur Sampat only on Rajshri Food. Try this easy Snack Recipe and share it with your family. Corn bhel is a variation to the classic Indian bhel puri recipe!
+In the United States, &#34;corn&#34; is the common word for &#34;maize&#34;. Learn how to make Sweet Corn Bhel/Chaat Recipe at home by Chef Nupur Sampat only on Rajshri Food. Try this easy Snack Recipe and share it with your family. Corn bhel is a variation to the classic Indian bhel puri recipe!
 
 
 To begin with this particular recipe, we have to first prepare a few components. You can have corn bhel using 9 ingredients and 1 steps. Here is how you can achieve that.

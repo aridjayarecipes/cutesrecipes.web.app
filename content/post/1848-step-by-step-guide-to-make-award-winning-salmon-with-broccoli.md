@@ -52,7 +52,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Get  Broccoli 🥦
 
 
-It's made on a single sheet pan, so cleanup is a breeze! You get perfectly golden, Parmesan and breadcrumb crusted salmon with a hint of lemon and herb flavor paired with the deliciousness of crisp tender roasted broccoli. Arrange broccolini and endive on a platter; season with salt. Stir grapefruit juice and vinegar into dressing. 
+It&#39;s made on a single sheet pan, so cleanup is a breeze! You get perfectly golden, Parmesan and breadcrumb crusted salmon with a hint of lemon and herb flavor paired with the deliciousness of crisp tender roasted broccoli. Arrange broccolini and endive on a platter; season with salt. Stir grapefruit juice and vinegar into dressing. 
 
 <!--inarticleads2-->
 
@@ -62,6 +62,6 @@ It's made on a single sheet pan, so cleanup is a breeze! You get perfectly golde
 1. I cut the broccoli 🥦 and boiling it about 5 minutes then baked it about 10 minutes sprinkle salt and lemon 🍋 on the top.
 
 
-Arrange broccolini and endive on a platter; season with salt. Stir grapefruit juice and vinegar into dressing. Great recipe for Creamy salmon pasta with Broccoli. It's favorite pasta of my husband! Pour cream and add Gorgonzola (cut before), add salt and pepper and make the sauce boil. 
+Arrange broccolini and endive on a platter; season with salt. Stir grapefruit juice and vinegar into dressing. Great recipe for Creamy salmon pasta with Broccoli. It&#39;s favorite pasta of my husband! Pour cream and add Gorgonzola (cut before), add salt and pepper and make the sauce boil. 
 
 So that's going to wrap this up for this exceptional food salmon with broccoli 🥦 recipe. Thank you very much for your time. I'm confident you can make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

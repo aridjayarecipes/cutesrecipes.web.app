@@ -25,7 +25,7 @@ recipeinstructions:
 - "Add diced onion to hot pan and carmelize"
 - "Dice apple while onion cooks"
 - "Add apple to pan"
-- "Add S&P to taste"
+- "Add S&amp;P to taste"
 - "Grate ginger into pan and stir well"
 - "Once apples begin to soften, add stock and simmer 2-3 minutes until apples reach desired tenderness"
 - "Add kielbasa and steamed Brussel sprouts to pan"
@@ -87,7 +87,7 @@ To begin with this recipe, we must prepare a few ingredients. You can cook easy 
 1. Add diced onion to hot pan and carmelize
 1. Dice apple while onion cooks
 1. Add apple to pan
-1. Add S&P to taste
+1. Add S&amp;P to taste
 1. Grate ginger into pan and stir well
 1. Once apples begin to soften, add stock and simmer 2-3 minutes until apples reach desired tenderness
 1. Add kielbasa and steamed Brussel sprouts to pan

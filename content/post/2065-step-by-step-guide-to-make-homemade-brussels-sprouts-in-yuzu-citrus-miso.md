@@ -19,7 +19,7 @@ recipeinstructions:
 - "Remove the dirty outer layer and the base of the root of the brussels sprouts. Make about 5 mm cross cut into the roots, then boil in salted water."
 - "Once the brussels sprouts have finished boiling, submerge in cold water to stop from losing color and prevent overcooking. (Keep 2 tablespoons of the water you used to boil.)"
 - "Toss the brussels sprouts water with the yuzu miso to create the yuzu miso sauce. Set aside."
-- "Cut the brussels sprouts into half if you like, and while still warm, mix in with the mixture created in Step 3. Once the flavor has settled, it's finished."
+- "Cut the brussels sprouts into half if you like, and while still warm, mix in with the mixture created in Step 3. Once the flavor has settled, it&#39;s finished."
 categories:
 - Recipe
 tags:
@@ -69,7 +69,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Remove the dirty outer layer and the base of the root of the brussels sprouts. Make about 5 mm cross cut into the roots, then boil in salted water.
 1. Once the brussels sprouts have finished boiling, submerge in cold water to stop from losing color and prevent overcooking. (Keep 2 tablespoons of the water you used to boil.)
 1. Toss the brussels sprouts water with the yuzu miso to create the yuzu miso sauce. Set aside.
-1. Cut the brussels sprouts into half if you like, and while still warm, mix in with the mixture created in Step 3. Once the flavor has settled, it's finished.
+1. Cut the brussels sprouts into half if you like, and while still warm, mix in with the mixture created in Step 3. Once the flavor has settled, it&#39;s finished.
 
 
 

@@ -56,7 +56,7 @@ recipeinstructions:
 - "Take the rib-eye and slice it finely, and again into smaller pieces."
 - "Add into bowl of seasoning and mix well. Cover and refrigerate for 2 hours or overnight"
 - "Heat skillet on medium heat. Cook while stirring to keep moist until desired doneness is reached. Reduce heat to allow to rest for 5-10 minutes."
-- "Set oven rack about 6 inches from the heat sauce and preheat the oven's broiler.  Brush one side of each slice of bread with remaining olive oil. Place bread slices, oiled-side-up, onto a baking sheet."
+- "Set oven rack about 6 inches from the heat sauce and preheat the oven&#39;s broiler.  Brush one side of each slice of bread with remaining olive oil. Place bread slices, oiled-side-up, onto a baking sheet."
 - "Broil until golden brown, about 2 minutes; remove from oven."
 - "Spoon tomato mixture evenly over the top of toasted bread slices. Top with Picada and drizzle Cilantro Lime Sauce over it."
 - "Serve and enjoy!"
@@ -145,7 +145,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 1. Take the rib-eye and slice it finely, and again into smaller pieces.
 1. Add into bowl of seasoning and mix well. Cover and refrigerate for 2 hours or overnight
 1. Heat skillet on medium heat. Cook while stirring to keep moist until desired doneness is reached. Reduce heat to allow to rest for 5-10 minutes.
-1. Set oven rack about 6 inches from the heat sauce and preheat the oven's broiler. -  - Brush one side of each slice of bread with remaining olive oil. Place bread slices, oiled-side-up, onto a baking sheet.
+1. Set oven rack about 6 inches from the heat sauce and preheat the oven&#39;s broiler. -  - Brush one side of each slice of bread with remaining olive oil. Place bread slices, oiled-side-up, onto a baking sheet.
 1. Broil until golden brown, about 2 minutes; remove from oven.
 1. Spoon tomato mixture evenly over the top of toasted bread slices. Top with Picada and drizzle Cilantro Lime Sauce over it.
 1. Serve and enjoy!

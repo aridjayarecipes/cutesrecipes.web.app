@@ -50,7 +50,7 @@ Hey everyone, it's John, welcome to my recipe site. Today, I'm gonna show you ho
 
 Pumpkin cookies is one of the most popular of recent trending foods on earth. It is enjoyed by millions daily. It is easy, it is fast, it tastes yummy. Pumpkin cookies is something that I have loved my entire life. They are nice and they look wonderful.
 
-These easy pumpkin cookie recipes are just the fall dessert you need to celebrate the season. Embrace PSL season with treats that'll fly right off the. These super-soft and cakey pumpkin cookies filled with spices and drizzled with icing are a perfect melt-in-your mouth treat for fall. Pumpkin Cookies have a wonderfully soft and spongy texture and taste of pumpkin and its complementary spices.
+These easy pumpkin cookie recipes are just the fall dessert you need to celebrate the season. Embrace PSL season with treats that&#39;ll fly right off the. These super-soft and cakey pumpkin cookies filled with spices and drizzled with icing are a perfect melt-in-your mouth treat for fall. Pumpkin Cookies have a wonderfully soft and spongy texture and taste of pumpkin and its complementary spices.
 
 
 To get started with this recipe, we must first prepare a few ingredients. You can cook pumpkin cookies using 13 ingredients and 3 steps. Here is how you cook it.
@@ -85,6 +85,6 @@ That is a cookie that I generally shy away. These soft pumpkin cookies are thick
 1. Add choco chips. Stir well. Baked 170°C 15 minute😊
 
 
-The two most beautiful words in the baking language. Well, besides apple pie and chocolate. If you've just been adding chocolate chips, you haven't seen ANYTHING yet. Soft, bakery style pumpkin cookies with a tangy and sweet white frosting that tastes like cream I have been looking for the perfect vegan pumpkin cookie recipe for YEARS, long before I started this. Drool-worthy photos of my favorite pumpkin cookies. 
+The two most beautiful words in the baking language. Well, besides apple pie and chocolate. If you&#39;ve just been adding chocolate chips, you haven&#39;t seen ANYTHING yet. Soft, bakery style pumpkin cookies with a tangy and sweet white frosting that tastes like cream I have been looking for the perfect vegan pumpkin cookie recipe for YEARS, long before I started this. Drool-worthy photos of my favorite pumpkin cookies. 
 
 So that is going to wrap this up for this exceptional food pumpkin cookies recipe. Thanks so much for reading. I'm confident that you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

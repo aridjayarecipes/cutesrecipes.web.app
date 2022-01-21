@@ -16,10 +16,10 @@ recipeingredient:
 - "4 oz salmon filet"
 - " Salt to taste"
 recipeinstructions:
-- "Sauté aliums in olive oil over low heat. When soft & fragrant, add greens. Place a lid on the pan & allow greens to wilt."
+- "Sauté aliums in olive oil over low heat. When soft &amp; fragrant, add greens. Place a lid on the pan &amp; allow greens to wilt."
 - "Heat another pan on medium high. (I used a well seasoned iron skillet.) Use a few drops of olive oil if needed"
-- "Stir greens & aliums while fish pan heats."
-- "Place salmon in hot pan, turn heat down to medium. Cook 2-4 mins per side depending on thickness of fish & how you like your fish cooked."
+- "Stir greens &amp; aliums while fish pan heats."
+- "Place salmon in hot pan, turn heat down to medium. Cook 2-4 mins per side depending on thickness of fish &amp; how you like your fish cooked."
 - "Place greens on plate, fish on top. Sprinkle with salt. Enjoy"
 - "NOTE: Can be doubled, tripled, etc. For each additional portion, cut alium measure in half."
 categories:
@@ -44,7 +44,7 @@ recipecategory: Lunch
 
 Hello everybody, it is Drew, welcome to our recipe page. Today, I'm gonna show you how to make a distinctive dish, salmon over cooked greens. One of my favorites food recipes. For mine, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
 
-Great recipe for Salmon over cooked greens. Stir greens & aliums while fish pan heats. Place salmon in hot pan, turn heat down to medium. This naturally low-FODMAP foil-cooked salmon over green beans is protein and fiber-packed, plus unlikely to trigger IBS symptoms.
+Great recipe for Salmon over cooked greens. Stir greens &amp; aliums while fish pan heats. Place salmon in hot pan, turn heat down to medium. This naturally low-FODMAP foil-cooked salmon over green beans is protein and fiber-packed, plus unlikely to trigger IBS symptoms.
 
 Salmon over cooked greens is one of the most popular of current trending meals on earth. It is simple, it's quick, it tastes delicious. It is enjoyed by millions daily. They're nice and they look wonderful. Salmon over cooked greens is something that I've loved my entire life.
 
@@ -55,23 +55,23 @@ To get started with this recipe, we must first prepare a few components. You can
 
 ##### The ingredients needed to make Salmon over cooked greens:
 
-1. Prepare 2 cups washed & chopped greens (I used arugula & baby spinach.)
-1. Prepare 1/2 cup minced aliums (I used garlic, shallot & onion)
+1. Prepare 2 cups washed &amp; chopped greens (I used arugula &amp; baby spinach.)
+1. Prepare 1/2 cup minced aliums (I used garlic, shallot &amp; onion)
 1. Make ready 2 Tb olive oil
 1. Make ready 4 oz salmon filet
 1. Prepare  Salt to taste
 
 
-Chef Jason Hill shows you how to make smoked salmon in this episode of "Chef Tips." This smoked salmon recipe is a "hot smoked salmon," made by smoking. No more dry or over-cooked salmon here! See below for more on the advantages of this cooking method. Swiss Chard - These colorful greens will cook down to tender underneath the salmon. 
+Chef Jason Hill shows you how to make smoked salmon in this episode of &#34;Chef Tips.&#34; This smoked salmon recipe is a &#34;hot smoked salmon,&#34; made by smoking. No more dry or over-cooked salmon here! See below for more on the advantages of this cooking method. Swiss Chard - These colorful greens will cook down to tender underneath the salmon. 
 
 <!--inarticleads2-->
 
 ##### Steps to make Salmon over cooked greens:
 
-1. Sauté aliums in olive oil over low heat. When soft & fragrant, add greens. Place a lid on the pan & allow greens to wilt.
+1. Sauté aliums in olive oil over low heat. When soft &amp; fragrant, add greens. Place a lid on the pan &amp; allow greens to wilt.
 1. Heat another pan on medium high. (I used a well seasoned iron skillet.) Use a few drops of olive oil if needed
-1. Stir greens & aliums while fish pan heats.
-1. Place salmon in hot pan, turn heat down to medium. Cook 2-4 mins per side depending on thickness of fish & how you like your fish cooked.
+1. Stir greens &amp; aliums while fish pan heats.
+1. Place salmon in hot pan, turn heat down to medium. Cook 2-4 mins per side depending on thickness of fish &amp; how you like your fish cooked.
 1. Place greens on plate, fish on top. Sprinkle with salt. Enjoy
 1. NOTE: Can be doubled, tripled, etc. For each additional portion, cut alium measure in half.
 

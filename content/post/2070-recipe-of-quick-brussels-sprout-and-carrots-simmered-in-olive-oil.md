@@ -20,7 +20,7 @@ recipeingredient:
 recipeinstructions:
 - "Cut the carrot to the same size as the brussel sprouts."
 - "Put the carrot and brussel sprouts in a pan, and add enough water to cover."
-- "Put grated ginger, salt, pepper, and swirl in the olive oil. Cover with a lid that sits right on top of the pan contents or a piece of aluminium foil (a drop lid or otoshibuta), and simmer over low heat until there's no liquid left in the pan."
+- "Put grated ginger, salt, pepper, and swirl in the olive oil. Cover with a lid that sits right on top of the pan contents or a piece of aluminium foil (a drop lid or otoshibuta), and simmer over low heat until there&#39;s no liquid left in the pan."
 categories:
 - Recipe
 tags:
@@ -71,7 +71,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 
 1. Cut the carrot to the same size as the brussel sprouts.
 1. Put the carrot and brussel sprouts in a pan, and add enough water to cover.
-1. Put grated ginger, salt, pepper, and swirl in the olive oil. Cover with a lid that sits right on top of the pan contents or a piece of aluminium foil (a drop lid or otoshibuta), and simmer over low heat until there's no liquid left in the pan.
+1. Put grated ginger, salt, pepper, and swirl in the olive oil. Cover with a lid that sits right on top of the pan contents or a piece of aluminium foil (a drop lid or otoshibuta), and simmer over low heat until there&#39;s no liquid left in the pan.
 
 
 

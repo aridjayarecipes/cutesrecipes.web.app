@@ -23,8 +23,8 @@ recipeinstructions:
 - "Put Oil in pan to cover the bottom."
 - "Get those Onions in! Make sure they get brown!"
 - "Cook the Olives for 1min"
-- "Put the Sofrito in, & stir. Let the Onions, & Olives simmer for 30sec."
-- "Put the Black Beans in, & stir. Let it simmer for 5min with the fire on Medium."
+- "Put the Sofrito in, &amp; stir. Let the Onions, &amp; Olives simmer for 30sec."
+- "Put the Black Beans in, &amp; stir. Let it simmer for 5min with the fire on Medium."
 categories:
 - Recipe
 tags:
@@ -78,8 +78,8 @@ To get started with this recipe, we have to prepare a few components. You can co
 1. Put Oil in pan to cover the bottom.
 1. Get those Onions in! Make sure they get brown!
 1. Cook the Olives for 1min
-1. Put the Sofrito in, & stir. Let the Onions, & Olives simmer for 30sec.
-1. Put the Black Beans in, & stir. Let it simmer for 5min with the fire on Medium.
+1. Put the Sofrito in, &amp; stir. Let the Onions, &amp; Olives simmer for 30sec.
+1. Put the Black Beans in, &amp; stir. Let it simmer for 5min with the fire on Medium.
 
 
 

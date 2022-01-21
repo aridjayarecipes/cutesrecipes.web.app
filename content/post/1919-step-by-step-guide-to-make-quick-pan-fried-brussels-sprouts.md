@@ -17,7 +17,7 @@ recipeingredient:
 - " Salt  pepper"
 recipeinstructions:
 - "Boil Brussels sprouts for 10 min. Rinse in cold water."
-- "Pan fry butter, walnuts & Brussels sprout for a couple of min. Then add bacon & mapple syrup. Add a bit of water to prevent burning."
+- "Pan fry butter, walnuts &amp; Brussels sprout for a couple of min. Then add bacon &amp; mapple syrup. Add a bit of water to prevent burning."
 categories:
 - Recipe
 tags:
@@ -55,7 +55,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Make ready  Bacon
 1. Get  Mapple syrup
 1. Prepare  Walnuts
-1. Get  Salt & pepper
+1. Get  Salt &amp; pepper
 
 
 The vinegar helps to preserve them, and since they are. Pan-Fried Balsamic Glazed Brussels Sprouts are the perfect side dish for your protein. Pan Fried Brussels Sprouts with Bacon - Keto, Low Carb, Gluten Free. These pan fried brussels sprouts with bacon are the perfect side dish for any occasion! 
@@ -65,7 +65,7 @@ The vinegar helps to preserve them, and since they are. Pan-Fried Balsamic Glaze
 ##### Instructions to make Pan fried Brussels sprouts:
 
 1. Boil Brussels sprouts for 10 min. Rinse in cold water.
-1. Pan fry butter, walnuts & Brussels sprout for a couple of min. Then add bacon & mapple syrup. Add a bit of water to prevent burning.
+1. Pan fry butter, walnuts &amp; Brussels sprout for a couple of min. Then add bacon &amp; mapple syrup. Add a bit of water to prevent burning.
 
 
 Pan Fried Brussels Sprouts with Bacon - Keto, Low Carb, Gluten Free. These pan fried brussels sprouts with bacon are the perfect side dish for any occasion! The sprouts are caramelized with bacon and red onion with crispy bits on the edges. Then if you want them a little more fancy, toss them with crunchy candied pumpkin seeds and serve with an easy pomegranate. Brussels sprouts on their own are most definitely an acquired taste. 

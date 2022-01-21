@@ -62,7 +62,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Take 250 gms mawa(optional can get from Indian sweet shops)its made
 1. Get  From reduce milk into thick paste
 1. Make ready  Dry fruits chopped, silver leaf for decorations (silver leaf or
-1. Make ready  Gold leaf n its optional n it's not aluminium)
+1. Make ready  Gold leaf n its optional n it&#39;s not aluminium)
 
 
 

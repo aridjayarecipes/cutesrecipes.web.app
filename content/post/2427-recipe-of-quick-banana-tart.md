@@ -42,12 +42,12 @@ recipeinstructions:
 - "Put an egg in another bowl. Beat it lightly until watery. (You should use an egg of room temperature. Please warm it with hot water if your egg is cold.) Add the egg to the butter in 5 parts. Mix thoroughly after each addition until smooth. (Emulsify it.)"
 - "Sift almond flour and cake flour over the batter. Mix it until combined."
 - "Transfer it into a small bowl and seal it with plastic wrap. Let it sit in a fridge overnight."
-- "【Bake the tart.】Take the tart dough and the almond cream out from the fridge. Leave the dough for 10-15 mins and soften it while pressing. (almond cream; set aside) Shape the dough round and roll it out into 3mm (0.1'') thick."
+- "【Bake the tart.】Take the tart dough and the almond cream out from the fridge. Leave the dough for 10-15 mins and soften it while pressing. (almond cream; set aside) Shape the dough round and roll it out into 3mm (0.1&#39;&#39;) thick."
 - "Sprinkle bread flour lightly over the pastry. Wind the pastry around a rolling pin and lift. Place the pastry on the pan gently and line the pan with it. (I removed the bottom pan to bake it through.)"
 - "Trim the edges. Press the side of the pastry against the pan. Prick bottom of the pastry with a fork."
 - "Mix the almond cream lightly to soften. Put it in the tart pastry and spread it. Let it sit in a fridge for 30 mins. Preheat an oven to 200℃ / 392 F."
-- "Slice bananas into 4mm (0.15'') thick. Take the tart pastry out from the fridge. Layer the banana slices, overlapping slightly, over the top. Bake it at 170℃ / 338 F for 50-55 mins or until light brown."
-- "Mix maple syrup and brandy. Brush the top of the tart with the mixture. Let it cool. Take the tart out from the pan. Sprinkle powdered sugar along the edge of the tart. It's all done!"
+- "Slice bananas into 4mm (0.15&#39;&#39;) thick. Take the tart pastry out from the fridge. Layer the banana slices, overlapping slightly, over the top. Bake it at 170℃ / 338 F for 50-55 mins or until light brown."
+- "Mix maple syrup and brandy. Brush the top of the tart with the mixture. Let it cool. Take the tart out from the pan. Sprinkle powdered sugar along the edge of the tart. It&#39;s all done!"
 categories:
 - Recipe
 tags:
@@ -87,7 +87,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 1. Make ready 20 g (3.3 Tbsp) almond flour
 1. Make ready 120 g (about 1 cup) cake flour
 1. Take 3-4 drops vanilla oil
-1. Get  ■Almond Cream (crème d'amande）
+1. Get  ■Almond Cream (crème d&#39;amande）
 1. Take 70 g (2.5 oz) unsalted butter
 1. Make ready 45 g (1.6 oz) cane sugar
 1. Prepare 1 egg (45-50g, 1.6-1.7 oz)
@@ -119,12 +119,12 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 1. Put an egg in another bowl. Beat it lightly until watery. (You should use an egg of room temperature. Please warm it with hot water if your egg is cold.) Add the egg to the butter in 5 parts. Mix thoroughly after each addition until smooth. (Emulsify it.)
 1. Sift almond flour and cake flour over the batter. Mix it until combined.
 1. Transfer it into a small bowl and seal it with plastic wrap. Let it sit in a fridge overnight.
-1. 【Bake the tart.】Take the tart dough and the almond cream out from the fridge. Leave the dough for 10-15 mins and soften it while pressing. (almond cream; set aside) Shape the dough round and roll it out into 3mm (0.1'') thick.
+1. 【Bake the tart.】Take the tart dough and the almond cream out from the fridge. Leave the dough for 10-15 mins and soften it while pressing. (almond cream; set aside) Shape the dough round and roll it out into 3mm (0.1&#39;&#39;) thick.
 1. Sprinkle bread flour lightly over the pastry. Wind the pastry around a rolling pin and lift. Place the pastry on the pan gently and line the pan with it. (I removed the bottom pan to bake it through.)
 1. Trim the edges. Press the side of the pastry against the pan. Prick bottom of the pastry with a fork.
 1. Mix the almond cream lightly to soften. Put it in the tart pastry and spread it. Let it sit in a fridge for 30 mins. Preheat an oven to 200℃ / 392 F.
-1. Slice bananas into 4mm (0.15'') thick. Take the tart pastry out from the fridge. Layer the banana slices, overlapping slightly, over the top. Bake it at 170℃ / 338 F for 50-55 mins or until light brown.
-1. Mix maple syrup and brandy. Brush the top of the tart with the mixture. Let it cool. Take the tart out from the pan. Sprinkle powdered sugar along the edge of the tart. It's all done!
+1. Slice bananas into 4mm (0.15&#39;&#39;) thick. Take the tart pastry out from the fridge. Layer the banana slices, overlapping slightly, over the top. Bake it at 170℃ / 338 F for 50-55 mins or until light brown.
+1. Mix maple syrup and brandy. Brush the top of the tart with the mixture. Let it cool. Take the tart out from the pan. Sprinkle powdered sugar along the edge of the tart. It&#39;s all done!
 
 
 

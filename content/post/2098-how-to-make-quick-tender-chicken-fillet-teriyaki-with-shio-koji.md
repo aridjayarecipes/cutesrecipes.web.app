@@ -23,7 +23,7 @@ recipeinstructions:
 - "Put the chicken from Step 1 into a plastic bag. Add the shio-koji and rub it in. Let sit for 10 minutes."
 - "Combine the ◎ ingredients."
 - "Coat the chicken tenders from Step 2 with katakuriko. Heat oil in the frying pan and brown the chicken. Once browned, stir in the sauce from Step 3."
-- "It's done ♫"
+- "It&#39;s done ♫"
 categories:
 - Recipe
 tags:
@@ -77,7 +77,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Put the chicken from Step 1 into a plastic bag. Add the shio-koji and rub it in. Let sit for 10 minutes.
 1. Combine the ◎ ingredients.
 1. Coat the chicken tenders from Step 2 with katakuriko. Heat oil in the frying pan and brown the chicken. Once browned, stir in the sauce from Step 3.
-1. It's done ♫
+1. It&#39;s done ♫
 
 
 

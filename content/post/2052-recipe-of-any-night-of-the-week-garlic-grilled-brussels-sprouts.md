@@ -21,7 +21,7 @@ recipeinstructions:
 - "Wash the sprouts and cut off the root ends. Finely chop the shallots and garlic. Preheat the oven to 190 ℃."
 - "Add olive oil and butter to an oven-safe skillet, heat on medium heat, add the shallots and garlic, and cook until fragrant."
 - "Add the brussels sprouts and sauté‎ until the oil is well distributed."
-- "Put the skillet into the oven and grill for 20 minutes. I recommend shaking the pan halfway through grilling and turning over the sprouts.  If you don't have a skillet that can fit in your oven, transfer to an oven-safe dish instead."
+- "Put the skillet into the oven and grill for 20 minutes. I recommend shaking the pan halfway through grilling and turning over the sprouts.  If you don&#39;t have a skillet that can fit in your oven, transfer to an oven-safe dish instead."
 categories:
 - Recipe
 tags:
@@ -73,7 +73,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Wash the sprouts and cut off the root ends. Finely chop the shallots and garlic. Preheat the oven to 190 ℃.
 1. Add olive oil and butter to an oven-safe skillet, heat on medium heat, add the shallots and garlic, and cook until fragrant.
 1. Add the brussels sprouts and sauté‎ until the oil is well distributed.
-1. Put the skillet into the oven and grill for 20 minutes. I recommend shaking the pan halfway through grilling and turning over the sprouts.  If you don't have a skillet that can fit in your oven, transfer to an oven-safe dish instead.
+1. Put the skillet into the oven and grill for 20 minutes. I recommend shaking the pan halfway through grilling and turning over the sprouts.  If you don&#39;t have a skillet that can fit in your oven, transfer to an oven-safe dish instead.
 
 
 

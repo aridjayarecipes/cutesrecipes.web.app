@@ -14,13 +14,13 @@ recipeingredient:
 - "1 bottle  White liquor or clear alcohol 35 alcohol"
 - "700 grams Rock sugar crystals"
 recipeinstructions:
-- "Wash the ume plums in water and drain into a colander. Pat dry each well with a dry cloth. Using a bamboo skewer, pry out the stems of each plum. Nankou-bai variety plums have thin skins and little bitterness, so don't soak them in water. For other varieties of ume plums, soak in water for about an hour before use!"
+- "Wash the ume plums in water and drain into a colander. Pat dry each well with a dry cloth. Using a bamboo skewer, pry out the stems of each plum. Nankou-bai variety plums have thin skins and little bitterness, so don&#39;t soak them in water. For other varieties of ume plums, soak in water for about an hour before use!"
 - "Wash the glass jar with water, and wipe dry. Put in the ume plums and rock sugar crystals in alternating layers. Pour in the white liquor, and keep in a cool dark place."
 - "It will be ready in a year. By letting it mature for a year, the ume plum essence will be completely extracted, making the liqueur have a rich, umami-filled and well balanced flavor."
 - "For long-term storage: You can keep the plums in the alcohol for 1-2 years, but if you plan to store for longer, take them out! Otherwise the liqueur will lose its fragrance and may become cloudy."
 - "Q. How to choose the right preserving jar? A. 4 liter jar: use 1 to 1.2 g of ume plums. 6 liter jar: 1.5 kg of ume plums. 8 liter jar: 2 kg of ume plums (which is double the amount in this recipe)."
-- "Q. Why don't you poke holes into the ume. A. For best results, don't make holes in the plums! Otherwise, the essence of the plums will be absorbed back into them, via holes or cuts."
-- "A. How to make the ume plums in the liqueur stay round?  A. If you want round, plump alcohol-infused ume plums, consider the opposite of the advice I wrote in Step 6, and make holes in the plums so that they absorb back the ume essence. However, the liqueur won't be the best."
+- "Q. Why don&#39;t you poke holes into the ume. A. For best results, don&#39;t make holes in the plums! Otherwise, the essence of the plums will be absorbed back into them, via holes or cuts."
+- "A. How to make the ume plums in the liqueur stay round?  A. If you want round, plump alcohol-infused ume plums, consider the opposite of the advice I wrote in Step 6, and make holes in the plums so that they absorb back the ume essence. However, the liqueur won&#39;t be the best."
 categories:
 - Recipe
 tags:
@@ -65,13 +65,13 @@ To get started with this particular recipe, we must first prepare a few componen
 
 ##### Steps to make Supreme Basic Umeshu Plum Wine:
 
-1. Wash the ume plums in water and drain into a colander. Pat dry each well with a dry cloth. Using a bamboo skewer, pry out the stems of each plum. Nankou-bai variety plums have thin skins and little bitterness, so don't soak them in water. For other varieties of ume plums, soak in water for about an hour before use!
+1. Wash the ume plums in water and drain into a colander. Pat dry each well with a dry cloth. Using a bamboo skewer, pry out the stems of each plum. Nankou-bai variety plums have thin skins and little bitterness, so don&#39;t soak them in water. For other varieties of ume plums, soak in water for about an hour before use!
 1. Wash the glass jar with water, and wipe dry. Put in the ume plums and rock sugar crystals in alternating layers. Pour in the white liquor, and keep in a cool dark place.
 1. It will be ready in a year. By letting it mature for a year, the ume plum essence will be completely extracted, making the liqueur have a rich, umami-filled and well balanced flavor.
 1. For long-term storage: You can keep the plums in the alcohol for 1-2 years, but if you plan to store for longer, take them out! Otherwise the liqueur will lose its fragrance and may become cloudy.
 1. Q. How to choose the right preserving jar? A. 4 liter jar: use 1 to 1.2 g of ume plums. 6 liter jar: 1.5 kg of ume plums. 8 liter jar: 2 kg of ume plums (which is double the amount in this recipe).
-1. Q. Why don't you poke holes into the ume. A. For best results, don't make holes in the plums! Otherwise, the essence of the plums will be absorbed back into them, via holes or cuts.
-1. A. How to make the ume plums in the liqueur stay round?  A. If you want round, plump alcohol-infused ume plums, consider the opposite of the advice I wrote in Step 6, and make holes in the plums so that they absorb back the ume essence. However, the liqueur won't be the best.
+1. Q. Why don&#39;t you poke holes into the ume. A. For best results, don&#39;t make holes in the plums! Otherwise, the essence of the plums will be absorbed back into them, via holes or cuts.
+1. A. How to make the ume plums in the liqueur stay round?  A. If you want round, plump alcohol-infused ume plums, consider the opposite of the advice I wrote in Step 6, and make holes in the plums so that they absorb back the ume essence. However, the liqueur won&#39;t be the best.
 
 
 

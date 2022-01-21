@@ -17,10 +17,10 @@ recipeingredient:
 - "12-15 Mint leaves crushed"
 recipeinstructions:
 - "Wash plums and boil for 5 minutes until it skin leaves."
-- "Now mashed the plums into hot water until it's all pieces are mashed"
+- "Now mashed the plums into hot water until it&#39;s all pieces are mashed"
 - "Now after mashing you have to put again pan in a low flame and cook it for few minutes."
 - "After that add sugar,salt,black pepper powder,crushed mint leaves and cook for 5 minutes."
-- "After that off the gas and pour all the juice in jug.Let it cool and now it's ready to drink."
+- "After that off the gas and pour all the juice in jug.Let it cool and now it&#39;s ready to drink."
 - "Take a glass add ice cubes in it and add plum squash and garnish with mint leaves or as u like."
 categories:
 - Recipe
@@ -68,10 +68,10 @@ Hello everybody, hope you are having an incredible day today. Plum squash is one
 ##### Steps to make Plum squash:
 
 1. Wash plums and boil for 5 minutes until it skin leaves.
-1. Now mashed the plums into hot water until it's all pieces are mashed
+1. Now mashed the plums into hot water until it&#39;s all pieces are mashed
 1. Now after mashing you have to put again pan in a low flame and cook it for few minutes.
 1. After that add sugar,salt,black pepper powder,crushed mint leaves and cook for 5 minutes.
-1. After that off the gas and pour all the juice in jug.Let it cool and now it's ready to drink.
+1. After that off the gas and pour all the juice in jug.Let it cool and now it&#39;s ready to drink.
 1. Take a glass add ice cubes in it and add plum squash and garnish with mint leaves or as u like.
 
 

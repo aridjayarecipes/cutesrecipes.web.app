@@ -18,7 +18,7 @@ recipeingredient:
 - "1 onion"
 recipeinstructions:
 - "Drain and pat dry tofu then slice up and Pan fry prefried tofu then drain and set aside"
-- "For the LG's CARROT PLUM SAUCE please view the,attachments below  https://cookpad.com/us/recipes/336125-carrot-plum-sauce"
+- "For the LG&#39;s CARROT PLUM SAUCE please view the,attachments below  https://cookpad.com/us/recipes/336125-carrot-plum-sauce"
 - "Serve as an appetizer on fresh tomato and top with the grated carrot plum sauce top with some onion"
 categories:
 - Recipe
@@ -54,7 +54,7 @@ To get started with this recipe, we must first prepare a few components. You can
 ##### The ingredients needed to make Tofu Appetizer With Carrot Plum Sauce:
 
 1. Make ready 2 square tofu
-1. Prepare  LG'S CARROT PLUM SAUCE
+1. Prepare  LG&#39;S CARROT PLUM SAUCE
 1. Take 1 cup carrot plum sauce
 1. Get  GARNISH
 1. Make ready 1 large fresh plum tomato
@@ -68,7 +68,7 @@ To get started with this recipe, we must first prepare a few components. You can
 ##### Instructions to make Tofu Appetizer With Carrot Plum Sauce:
 
 1. Drain and pat dry tofu then slice up and Pan fry prefried tofu then drain and set aside
-1. For the LG's CARROT PLUM SAUCE please view the,attachments below -  - https://cookpad.com/us/recipes/336125-carrot-plum-sauce
+1. For the LG&#39;s CARROT PLUM SAUCE please view the,attachments below -  - https://cookpad.com/us/recipes/336125-carrot-plum-sauce
 1. Serve as an appetizer on fresh tomato and top with the grated carrot plum sauce top with some onion
 
 

@@ -22,7 +22,7 @@ recipeingredient:
 recipeinstructions:
 - "Saute meat, onions and garlic in a pot until browned"
 - "Add all other ingredients and bring to a boil."
-- "For the beer, IPA is good if you're going spicy and light beer is good for mild. For the chilis, I like arbol and chipotle, but do whatever you like."
+- "For the beer, IPA is good if you&#39;re going spicy and light beer is good for mild. For the chilis, I like arbol and chipotle, but do whatever you like."
 - "Cover and simmer for at least a half hour, but the longer the better."
 - "Plate, add cheese and sour cream to taste, and serve!"
 categories:
@@ -76,7 +76,7 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 
 1. Saute meat, onions and garlic in a pot until browned
 1. Add all other ingredients and bring to a boil.
-1. For the beer, IPA is good if you're going spicy and light beer is good for mild. For the chilis, I like arbol and chipotle, but do whatever you like.
+1. For the beer, IPA is good if you&#39;re going spicy and light beer is good for mild. For the chilis, I like arbol and chipotle, but do whatever you like.
 1. Cover and simmer for at least a half hour, but the longer the better.
 1. Plate, add cheese and sour cream to taste, and serve!
 

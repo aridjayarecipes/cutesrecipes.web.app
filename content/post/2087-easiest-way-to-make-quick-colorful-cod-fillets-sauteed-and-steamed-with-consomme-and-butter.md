@@ -29,7 +29,7 @@ recipeinstructions:
 - "Pat dry the cod fillets. Lightly season with salt and pepper and coat with flour. Heat olive oil in a pan. Saute both sides of the cod fillets and remove from the pan."
 - "Saute the garlic and bacon with the remaining oil until fragrant. Add in the broccolis and mixed beans."
 - "Add in the cod fillets from Step 3, cherry tomatoes, white wine, 100 ml of water, and consommé granules. Cover and steam over medium heat for about 3 minutes."
-- "Add the butter, and it's ready to be served Season with black pepper to taste."
+- "Add the butter, and it&#39;s ready to be served Season with black pepper to taste."
 categories:
 - Recipe
 tags:
@@ -89,7 +89,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Pat dry the cod fillets. Lightly season with salt and pepper and coat with flour. Heat olive oil in a pan. Saute both sides of the cod fillets and remove from the pan.
 1. Saute the garlic and bacon with the remaining oil until fragrant. Add in the broccolis and mixed beans.
 1. Add in the cod fillets from Step 3, cherry tomatoes, white wine, 100 ml of water, and consommé granules. Cover and steam over medium heat for about 3 minutes.
-1. Add the butter, and it's ready to be served Season with black pepper to taste.
+1. Add the butter, and it&#39;s ready to be served Season with black pepper to taste.
 
 
 

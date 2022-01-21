@@ -69,7 +69,7 @@ Hello everybody, it's me again, Dan, welcome to our recipe site. Today, we're go
 
 Sesame salmon with egg fried rice and paksoy is one of the most favored of recent trending meals on earth. It is simple, it is fast, it tastes yummy. It is enjoyed by millions every day. They're nice and they look wonderful. Sesame salmon with egg fried rice and paksoy is something that I've loved my entire life.
 
-Riced butternut squash replaces rice in this teriyaki salmon meal, for even more flavor, color, and nutrients! The roasted broccoli adds a savory taste that's reminiscent of a stir fry style Everything Bagel Potatoes with Eggs and Avocado Roasted Salmon With Miso Rice and Ginger-Scallion Vinaigrette. Sesame seed oil is derived from sesame seeds.
+Riced butternut squash replaces rice in this teriyaki salmon meal, for even more flavor, color, and nutrients! The roasted broccoli adds a savory taste that&#39;s reminiscent of a stir fry style Everything Bagel Potatoes with Eggs and Avocado Roasted Salmon With Miso Rice and Ginger-Scallion Vinaigrette. Sesame seed oil is derived from sesame seeds.
 
 
 To begin with this recipe, we must first prepare a few components. You can have sesame salmon with egg fried rice and paksoy using 18 ingredients and 16 steps. Here is how you cook it.

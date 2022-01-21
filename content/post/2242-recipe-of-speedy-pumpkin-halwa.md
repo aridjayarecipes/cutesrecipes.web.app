@@ -17,11 +17,11 @@ recipeingredient:
 - "1/4 tsp cardamom powder"
 - "as needed Dry fruit of your choice"
 recipeinstructions:
-- "Peel & chop pumpkin in small pieces, discard seeds."
-- "Heat ghee in non stick pan, add pumpkin & start sauteing."
-- "Once pumpkin wilts & goes limp, add milk & sugar."
-- "Keep sauteing & stirring, at this stage you can keep flame high."
-- "Cook till halva leaves the sides, then add cardamom powder & dry fruits. Turn off heat & serve."
+- "Peel &amp; chop pumpkin in small pieces, discard seeds."
+- "Heat ghee in non stick pan, add pumpkin &amp; start sauteing."
+- "Once pumpkin wilts &amp; goes limp, add milk &amp; sugar."
+- "Keep sauteing &amp; stirring, at this stage you can keep flame high."
+- "Cook till halva leaves the sides, then add cardamom powder &amp; dry fruits. Turn off heat &amp; serve."
 categories:
 - Recipe
 tags:
@@ -62,19 +62,19 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Prepare as needed Dry fruit of your choice
 
 
-Pumpkin Halwa Recipe, Learn how to make Pumpkin Halwa (absolutely delicious This Pumpkin Halwa recipe is Excellent and find more Great recipes, tried & tested recipes from NDTV Food. Pumpkin is popularly known as Kaddu in India. Rich, warm, sweet - the aroma of Pumpkin Halwa or Kaddu Halwa is something most Indian households know and love. Here is a special Pumpkin Halwa Recipe to make yellow pumpkin halwa; a healthy and sweet dish with amazing taste. 
+Pumpkin Halwa Recipe, Learn how to make Pumpkin Halwa (absolutely delicious This Pumpkin Halwa recipe is Excellent and find more Great recipes, tried &amp; tested recipes from NDTV Food. Pumpkin is popularly known as Kaddu in India. Rich, warm, sweet - the aroma of Pumpkin Halwa or Kaddu Halwa is something most Indian households know and love. Here is a special Pumpkin Halwa Recipe to make yellow pumpkin halwa; a healthy and sweet dish with amazing taste. 
 
 <!--inarticleads2-->
 
 ##### Steps to make Pumpkin halwa:
 
-1. Peel & chop pumpkin in small pieces, discard seeds.
-1. Heat ghee in non stick pan, add pumpkin & start sauteing.
-1. Once pumpkin wilts & goes limp, add milk & sugar.
-1. Keep sauteing & stirring, at this stage you can keep flame high.
-1. Cook till halva leaves the sides, then add cardamom powder & dry fruits. Turn off heat & serve.
+1. Peel &amp; chop pumpkin in small pieces, discard seeds.
+1. Heat ghee in non stick pan, add pumpkin &amp; start sauteing.
+1. Once pumpkin wilts &amp; goes limp, add milk &amp; sugar.
+1. Keep sauteing &amp; stirring, at this stage you can keep flame high.
+1. Cook till halva leaves the sides, then add cardamom powder &amp; dry fruits. Turn off heat &amp; serve.
 
 
-Rich, warm, sweet - the aroma of Pumpkin Halwa or Kaddu Halwa is something most Indian households know and love. Here is a special Pumpkin Halwa Recipe to make yellow pumpkin halwa; a healthy and sweet dish with amazing taste. I made it with milk but we can also make it without milk. Kaddu ka halwa / Pumpkin Halwa is an easy and exotic dessert made with the goodness of pumpkin, milk Kaddu a Halwa - Perfect autumn dessert. It's finally time for that beloved fall classic Pumpkin. 
+Rich, warm, sweet - the aroma of Pumpkin Halwa or Kaddu Halwa is something most Indian households know and love. Here is a special Pumpkin Halwa Recipe to make yellow pumpkin halwa; a healthy and sweet dish with amazing taste. I made it with milk but we can also make it without milk. Kaddu ka halwa / Pumpkin Halwa is an easy and exotic dessert made with the goodness of pumpkin, milk Kaddu a Halwa - Perfect autumn dessert. It&#39;s finally time for that beloved fall classic Pumpkin. 
 
 So that's going to wrap this up with this exceptional food pumpkin halwa recipe. Thank you very much for your time. I'm confident that you will make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

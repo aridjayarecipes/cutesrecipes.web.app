@@ -22,9 +22,9 @@ recipeingredient:
 - " Optional 12 pkg cream cheese  vanilla creamer"
 recipeinstructions:
 - "Mix together in a big bowl the cool whip, pudding powders, and yogurt. Tip: If you like your graham crackers soft add some small to medium size crushed different size pieces now and stir in. I personally love them soft, tastes better kind of mushed in the salad. Lol"
-- "Wash and slice strawberries, add to mixture. Stir it all up. Also, if you're adding any of the "OPTIONAL" items, add them now too."
-- "Now the BANANAS. You can add them now, and use the lemon juice method so they don't turn brown, OR you can add them fresh into the salad, and mix in once you're ready to serve. I also add some more crushed graham crackers sprinkled on top, and any leftover fruits just to decorate."
-- "You can also use this as a dip, and just dunk in with some graham crackers. If you don't want to put them inside the salad. But it tastes sooooo much better mixed in. But also is just as good double dunked with graham crackers.🌝"
+- "Wash and slice strawberries, add to mixture. Stir it all up. Also, if you&#39;re adding any of the &#34;OPTIONAL&#34; items, add them now too."
+- "Now the BANANAS. You can add them now, and use the lemon juice method so they don&#39;t turn brown, OR you can add them fresh into the salad, and mix in once you&#39;re ready to serve. I also add some more crushed graham crackers sprinkled on top, and any leftover fruits just to decorate."
+- "You can also use this as a dip, and just dunk in with some graham crackers. If you don&#39;t want to put them inside the salad. But it tastes sooooo much better mixed in. But also is just as good double dunked with graham crackers.🌝"
 - ""
 - ""
 categories:
@@ -66,10 +66,10 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Make ready 1/2 small box Jello instant vanilla pudding mix powder
 1. Prepare As needed Graham crackers honey, or cinnamon flavor
 1. Make ready 16 oz tub of cool whip
-1. Get 2 cups yogurt. I used blueberry & vanilla
-1. Get as needed lemon juice (if you're going to add the bananas right away to the salad, it helps to keep them from turning brown. Just slice bananas and dip in lemon juice or use a basting brush over them
+1. Get 2 cups yogurt. I used blueberry &amp; vanilla
+1. Get as needed lemon juice (if you&#39;re going to add the bananas right away to the salad, it helps to keep them from turning brown. Just slice bananas and dip in lemon juice or use a basting brush over them
 1. Prepare  OPTIONAL: blueberries marshmallows, pralines, granola,pecans
-1. Prepare  Optional 1/2 pkg cream cheese & vanilla creamer
+1. Prepare  Optional 1/2 pkg cream cheese &amp; vanilla creamer
 
 
 
@@ -79,9 +79,9 @@ To get started with this particular recipe, we have to prepare a few ingredients
 ##### Instructions to make Strawberry Banana blueberry Cheesecake Fruit Salad:
 
 1. Mix together in a big bowl the cool whip, pudding powders, and yogurt. Tip: If you like your graham crackers soft add some small to medium size crushed different size pieces now and stir in. I personally love them soft, tastes better kind of mushed in the salad. Lol
-1. Wash and slice strawberries, add to mixture. Stir it all up. Also, if you're adding any of the "OPTIONAL" items, add them now too.
-1. Now the BANANAS. You can add them now, and use the lemon juice method so they don't turn brown, OR you can add them fresh into the salad, and mix in once you're ready to serve. I also add some more crushed graham crackers sprinkled on top, and any leftover fruits just to decorate.
-1. You can also use this as a dip, and just dunk in with some graham crackers. If you don't want to put them inside the salad. But it tastes sooooo much better mixed in. But also is just as good double dunked with graham crackers.🌝
+1. Wash and slice strawberries, add to mixture. Stir it all up. Also, if you&#39;re adding any of the &#34;OPTIONAL&#34; items, add them now too.
+1. Now the BANANAS. You can add them now, and use the lemon juice method so they don&#39;t turn brown, OR you can add them fresh into the salad, and mix in once you&#39;re ready to serve. I also add some more crushed graham crackers sprinkled on top, and any leftover fruits just to decorate.
+1. You can also use this as a dip, and just dunk in with some graham crackers. If you don&#39;t want to put them inside the salad. But it tastes sooooo much better mixed in. But also is just as good double dunked with graham crackers.🌝
 1. 
 1. 
 

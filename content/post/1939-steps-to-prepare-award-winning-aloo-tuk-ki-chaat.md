@@ -74,7 +74,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have al
 1. Get  Salt and blk pepper to taste for baby potatoes
 
 
-Aloo Tuk Recipe, Learn how to make Aloo Tuk (absolutely delicious recipe of Aloo Tuk ingredients and cooking method) Crisp fried potatoes rolled in mango powder and coriander. This Aloo Tuk recipe is Excellent and find more Great recipes, tried & tested recipes from NDTV Food. Chat Patay Aloo Lal Aloo ya Phir Teekhay Aloo ki Recipe in Urdu Hindi - RKK Ye hai meri ek super easy side dish kisi bhi party. Aloo Tuk or Sindhi Tuk is a delicious double-fried potato dish that is quite addictive. 
+Aloo Tuk Recipe, Learn how to make Aloo Tuk (absolutely delicious recipe of Aloo Tuk ingredients and cooking method) Crisp fried potatoes rolled in mango powder and coriander. This Aloo Tuk recipe is Excellent and find more Great recipes, tried &amp; tested recipes from NDTV Food. Chat Patay Aloo Lal Aloo ya Phir Teekhay Aloo ki Recipe in Urdu Hindi - RKK Ye hai meri ek super easy side dish kisi bhi party. Aloo Tuk or Sindhi Tuk is a delicious double-fried potato dish that is quite addictive. 
 
 <!--inarticleads2-->
 

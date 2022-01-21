@@ -63,7 +63,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Get 1/4-1/2 cup diced cilantro
 
 
-Recipe and photo credit: Chelsea Lords from Chelsea's Messy Apron. And I realized when making this Cilantro & Lime Black Beans and Rice recipe for the blog (and dinner and leftovers) that when I commandeer the kitchen … Instead I found myself trying to cut the limes just so. And picking out cilantro stems that looked extra good. Cilantro-Lime Shrimp with Black Bean Rice - a delicious, easy recipe! 
+Recipe and photo credit: Chelsea Lords from Chelsea&#39;s Messy Apron. And I realized when making this Cilantro &amp; Lime Black Beans and Rice recipe for the blog (and dinner and leftovers) that when I commandeer the kitchen … Instead I found myself trying to cut the limes just so. And picking out cilantro stems that looked extra good. Cilantro-Lime Shrimp with Black Bean Rice - a delicious, easy recipe! 
 
 <!--inarticleads2-->
 

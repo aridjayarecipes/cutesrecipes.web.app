@@ -45,7 +45,7 @@ Hello everybody, I hope you are having an amazing day today. Today, we're going 
 
 Green lentil salad is one of the most popular of current trending foods on earth. It's appreciated by millions every day. It is easy, it's fast, it tastes yummy. They are nice and they look wonderful. Green lentil salad is something which I have loved my whole life.
 
-Not just another lentil salad….this is Can't-Stop-Eating-It delish. Made with green lentils, feta, tomatoes, cucumber and drizzled with a beautiful lemon salad dressing. This green lentil salad recipe is healthy, fresh, and totally delicious! It makes a great light meal or side dish.
+Not just another lentil salad….this is Can&#39;t-Stop-Eating-It delish. Made with green lentils, feta, tomatoes, cucumber and drizzled with a beautiful lemon salad dressing. This green lentil salad recipe is healthy, fresh, and totally delicious! It makes a great light meal or side dish.
 
 
 To begin with this recipe, we must first prepare a few components. You can have green lentil salad using 8 ingredients and 2 steps. Here is how you cook it.
@@ -64,7 +64,7 @@ To begin with this recipe, we must first prepare a few components. You can have 
 1. Take 1 tea spoon chopped coriander leaves
 
 
-This is one that my mother in law came up with. She said I could share it with all of you. Green Lentil Salad with Spiced Carrots Julie's Lifestyle. Bless lentils for their capacity to be cheap, healthy and comforting all We have green lentil recipes that can make you feel good all over, from a simple Middle Eastern dish of lentils. 
+This is one that my mother in law came up with. She said I could share it with all of you. Green Lentil Salad with Spiced Carrots Julie&#39;s Lifestyle. Bless lentils for their capacity to be cheap, healthy and comforting all We have green lentil recipes that can make you feel good all over, from a simple Middle Eastern dish of lentils. 
 
 <!--inarticleads2-->
 
@@ -74,6 +74,6 @@ This is one that my mother in law came up with. She said I could share it with a
 1. Serve and enjoy.
 
 
-Green Lentil Salad with Spiced Carrots Julie's Lifestyle. Bless lentils for their capacity to be cheap, healthy and comforting all We have green lentil recipes that can make you feel good all over, from a simple Middle Eastern dish of lentils. Build up your bones with bok choy! This cabbage-like vegetable contains calcium, vitamin K, magnesium and phosphorous - all important for bone health. The Green Lentil Salad has a nice zip to it from the vinegar, garlic, pepper and onions. 
+Green Lentil Salad with Spiced Carrots Julie&#39;s Lifestyle. Bless lentils for their capacity to be cheap, healthy and comforting all We have green lentil recipes that can make you feel good all over, from a simple Middle Eastern dish of lentils. Build up your bones with bok choy! This cabbage-like vegetable contains calcium, vitamin K, magnesium and phosphorous - all important for bone health. The Green Lentil Salad has a nice zip to it from the vinegar, garlic, pepper and onions. 
 
 So that is going to wrap it up for this exceptional food green lentil salad recipe. Thank you very much for reading. I'm sure that you will make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

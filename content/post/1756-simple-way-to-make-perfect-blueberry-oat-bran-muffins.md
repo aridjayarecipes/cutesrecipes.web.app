@@ -27,7 +27,7 @@ recipeinstructions:
 - "Preheat oven to 350°F. Spray a standard size 12 count muffin tin with nonstick spray, including the entire top. Or line cups with paper liners. Either way you will want to spray the top to prevent sticking."
 - "In a medium bowl wisk together flour, oat bran, baking soda, baking powder, salt, and cinnamon. Set aside."
 - "In a large bowl wisk together milk and yogurt until smooth. Add brown sugar, oil, eggs and vanilla. Wisk to combine thoroughly."
-- "Add dry ingredients to wet mixture all at once. Using a wooden spoon stir together until just incorporated, with no dry patches remaining. It will be lumpy and that's okay. You don't want to over mix."
+- "Add dry ingredients to wet mixture all at once. Using a wooden spoon stir together until just incorporated, with no dry patches remaining. It will be lumpy and that&#39;s okay. You don&#39;t want to over mix."
 - "Let batter rest for 5 minutes. Meanwhile gently toss blueberries in 1 tbs flour to coat (this helps keep them from sinking to the bottom of the muffins). Gently fold into batter to distribute as evenly as possible."
 - "Gently spoon batter into prepared muffin tins, filling the wells to the top. I actually ended up with enough to also fill a 12 count mini muffin tin."
 - "Place in oven. Bake 25-35 minutes, or until toothpick inserted in the center (of a muffin in the middle of tin) comes out clean. Mine took about 28 min."
@@ -88,7 +88,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have blueb
 1. Preheat oven to 350°F. Spray a standard size 12 count muffin tin with nonstick spray, including the entire top. Or line cups with paper liners. Either way you will want to spray the top to prevent sticking.
 1. In a medium bowl wisk together flour, oat bran, baking soda, baking powder, salt, and cinnamon. Set aside.
 1. In a large bowl wisk together milk and yogurt until smooth. Add brown sugar, oil, eggs and vanilla. Wisk to combine thoroughly.
-1. Add dry ingredients to wet mixture all at once. Using a wooden spoon stir together until just incorporated, with no dry patches remaining. It will be lumpy and that's okay. You don't want to over mix.
+1. Add dry ingredients to wet mixture all at once. Using a wooden spoon stir together until just incorporated, with no dry patches remaining. It will be lumpy and that&#39;s okay. You don&#39;t want to over mix.
 1. Let batter rest for 5 minutes. Meanwhile gently toss blueberries in 1 tbs flour to coat (this helps keep them from sinking to the bottom of the muffins). Gently fold into batter to distribute as evenly as possible.
 1. Gently spoon batter into prepared muffin tins, filling the wells to the top. I actually ended up with enough to also fill a 12 count mini muffin tin.
 1. Place in oven. Bake 25-35 minutes, or until toothpick inserted in the center (of a muffin in the middle of tin) comes out clean. Mine took about 28 min.

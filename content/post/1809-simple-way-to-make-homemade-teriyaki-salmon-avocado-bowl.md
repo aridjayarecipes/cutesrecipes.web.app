@@ -25,7 +25,7 @@ recipeinstructions:
 - "Add all the Teriyaki sauce ingredients into a separate bowl. Microwave for 15 seconds to warm up the honey and mix well."
 - "Put rice on bottom of the bowl, then top with avocado and salmon. Drizzle as much sauce as you like on top of the bowl. (There should be enough sauce for 2 bowls.)"
 - "Delicious Teriyaki Salmon Avocado Rice bowl ready to serve!"
-- "(Optional) Sprinkle Trader Joe's Nori Komi Furikake Japanese Multi-Purpose Seasoning on the bowl."
+- "(Optional) Sprinkle Trader Joe&#39;s Nori Komi Furikake Japanese Multi-Purpose Seasoning on the bowl."
 categories:
 - Recipe
 tags:
@@ -62,7 +62,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can c
 1. Make ready 2 pieces fresh salmon
 1. Make ready 1 avocado
 1. Make ready 1.5 cup white rice
-1. Take  (Optional) Trader Joe's Nori Komi Furikake Japanese Multi-Purpose Seasoning
+1. Take  (Optional) Trader Joe&#39;s Nori Komi Furikake Japanese Multi-Purpose Seasoning
 1. Make ready  Teriyaki Sauce
 1. Prepare 2 tbsp Mirin
 1. Take 2 tbsp Honey
@@ -81,7 +81,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can c
 1. Add all the Teriyaki sauce ingredients into a separate bowl. Microwave for 15 seconds to warm up the honey and mix well.
 1. Put rice on bottom of the bowl, then top with avocado and salmon. Drizzle as much sauce as you like on top of the bowl. (There should be enough sauce for 2 bowls.)
 1. Delicious Teriyaki Salmon Avocado Rice bowl ready to serve!
-1. (Optional) Sprinkle Trader Joe's Nori Komi Furikake Japanese Multi-Purpose Seasoning on the bowl.
+1. (Optional) Sprinkle Trader Joe&#39;s Nori Komi Furikake Japanese Multi-Purpose Seasoning on the bowl.
 
 
 

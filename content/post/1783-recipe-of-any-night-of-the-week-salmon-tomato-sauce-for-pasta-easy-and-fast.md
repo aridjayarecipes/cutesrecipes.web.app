@@ -50,7 +50,7 @@ Hello everybody, it is Louise, welcome to my recipe site. Today, I'm gonna show 
 
 Salmon tomato sauce (for pasta) easy and fast is one of the most well liked of current trending foods on earth. It's enjoyed by millions every day. It is easy, it is fast, it tastes yummy. They are nice and they look fantastic. Salmon tomato sauce (for pasta) easy and fast is something which I've loved my entire life.
 
-Cut the onion, the tomes and the salmon like on the picture and cover the salmon with flour. Fry the salmon from all sides, Dienstag have to be cooked through. Supplies: - Boiled pasta - A clove of garlic - Olive oil - Small can of natural salmon - Concentrated tomato paste - Warm water - Parsley - Salt We provide a space for makers to share their handmade crafts, home decor projects, fashion and beauty tips, homemade recipes and other life hacks with our. Making your own pasta sauce is so easy that you'll wonder why you needed the jar.
+Cut the onion, the tomes and the salmon like on the picture and cover the salmon with flour. Fry the salmon from all sides, Dienstag have to be cooked through. Supplies: - Boiled pasta - A clove of garlic - Olive oil - Small can of natural salmon - Concentrated tomato paste - Warm water - Parsley - Salt We provide a space for makers to share their handmade crafts, home decor projects, fashion and beauty tips, homemade recipes and other life hacks with our. Making your own pasta sauce is so easy that you&#39;ll wonder why you needed the jar.
 
 
 To begin with this recipe, we have to first prepare a few ingredients. You can cook salmon tomato sauce (for pasta) easy and fast using 9 ingredients and 6 steps. Here is how you cook that.

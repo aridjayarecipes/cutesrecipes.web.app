@@ -23,7 +23,7 @@ recipeinstructions:
 - "Add peanut butter and banana, honey and egg to food processor."
 - "Mix until dough looks uniform."
 - "Turn the dough onto the countertop"
-- "If the dough is too sticky to work with sprinkle the countertop with a tablespoon or 2 of flour and work some of the flour on the countertop in with the dough until it's no longer sticky."
+- "If the dough is too sticky to work with sprinkle the countertop with a tablespoon or 2 of flour and work some of the flour on the countertop in with the dough until it&#39;s no longer sticky."
 - "Roll the dough out to ⅛ thick."
 - "Cut treats out woth a cookie cutter and place on baking sheet. Bake for 16-18 minutes."
 - "Always remember to let treats cool completely before giving them these delicious treats!"
@@ -80,7 +80,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Add peanut butter and banana, honey and egg to food processor.
 1. Mix until dough looks uniform.
 1. Turn the dough onto the countertop
-1. If the dough is too sticky to work with sprinkle the countertop with a tablespoon or 2 of flour and work some of the flour on the countertop in with the dough until it's no longer sticky.
+1. If the dough is too sticky to work with sprinkle the countertop with a tablespoon or 2 of flour and work some of the flour on the countertop in with the dough until it&#39;s no longer sticky.
 1. Roll the dough out to ⅛ thick.
 1. Cut treats out woth a cookie cutter and place on baking sheet. Bake for 16-18 minutes.
 1. Always remember to let treats cool completely before giving them these delicious treats!

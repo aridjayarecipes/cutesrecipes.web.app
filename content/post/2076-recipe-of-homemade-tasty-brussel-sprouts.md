@@ -17,7 +17,7 @@ recipeingredient:
 recipeinstructions:
 - "cut stem off brussel sprouts,cut brussel sprouts in half and remove the first leaf or two and rinse."
 - "cut baby carrots in half or in an angle however you like"
-- "mix brussel sprouts & carrots in a oven safe dish and give them a good coat with olive oil,salt and black pepper."
+- "mix brussel sprouts &amp; carrots in a oven safe dish and give them a good coat with olive oil,salt and black pepper."
 - "cover with foil for 20-30 minutes on a 350°F oven"
 - "while veggies are cooking,cook the bacon but dont crisp it  just cook it enough so its not raw. after the bacon is done chop it up but not finely just give it a good rough chop."
 - "remove veggies from oven and add bacon. put the dish back in the oven and cook until tender."
@@ -60,7 +60,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Take 1 olive oil
 
 
-Brussels sprouts are so misunderstood: They've long been cast aside as a lame bitter vegetable hated by kids and adults alike. Now, they're finally getting their due with creative recipes that turn them into. Watch how to make perfectly roasted Brussels sprouts in this short recipe video! See recipes for Wagyu Beef Bacon and Brussels Sprouts Au Gratin too. 
+Brussels sprouts are so misunderstood: They&#39;ve long been cast aside as a lame bitter vegetable hated by kids and adults alike. Now, they&#39;re finally getting their due with creative recipes that turn them into. Watch how to make perfectly roasted Brussels sprouts in this short recipe video! See recipes for Wagyu Beef Bacon and Brussels Sprouts Au Gratin too. 
 
 <!--inarticleads2-->
 
@@ -68,12 +68,12 @@ Brussels sprouts are so misunderstood: They've long been cast aside as a lame bi
 
 1. cut stem off brussel sprouts,cut brussel sprouts in half and remove the first leaf or two and rinse.
 1. cut baby carrots in half or in an angle however you like
-1. mix brussel sprouts & carrots in a oven safe dish and give them a good coat with olive oil,salt and black pepper.
+1. mix brussel sprouts &amp; carrots in a oven safe dish and give them a good coat with olive oil,salt and black pepper.
 1. cover with foil for 20-30 minutes on a 350°F oven
 1. while veggies are cooking,cook the bacon but dont crisp it  just cook it enough so its not raw. after the bacon is done chop it up but not finely just give it a good rough chop.
 1. remove veggies from oven and add bacon. put the dish back in the oven and cook until tender.
 
 
-Watch how to make perfectly roasted Brussels sprouts in this short recipe video! See recipes for Wagyu Beef Bacon and Brussels Sprouts Au Gratin too. Cook Brussels Sprout In A Proper Way. Cabbage. "Can we call brussels sprouts the. From healthystepsnutrition.com Easy and tasty brussels sprouts recipe! 
+Watch how to make perfectly roasted Brussels sprouts in this short recipe video! See recipes for Wagyu Beef Bacon and Brussels Sprouts Au Gratin too. Cook Brussels Sprout In A Proper Way. Cabbage. &#34;Can we call brussels sprouts the. From healthystepsnutrition.com Easy and tasty brussels sprouts recipe! 
 
 So that's going to wrap this up with this exceptional food tasty brussel sprouts recipe. Thank you very much for reading. I am confident you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

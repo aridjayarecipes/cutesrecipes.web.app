@@ -59,7 +59,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. Make ready 8 rashers of back bacon
 1. Prepare 100 grams gouda cheese
 1. Get 1/2 disk feta
-1. Take  salt&pepper
+1. Take  salt&amp;pepper
 1. Get 2 dash olive oil
 
 

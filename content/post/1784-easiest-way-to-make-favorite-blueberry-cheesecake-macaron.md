@@ -82,6 +82,6 @@ Recipe with video instructions: Better than cheesecake bites, these macarons are
 1. Bake at 150 C for 12-15 min
 
 
-The shells for these are kind of a blue/turquoise/teal colour. I wanted something bluish because these are wild blueberry. We start by making the macarons with a beginner french macaron tutorial, then we make the lemon blueberry cheesecake macaron filling recipe. By the end of this video, you'll have a recipe for lemon. Our gelato filled macarons have the distinction of being made in our laboratory, located just outside Made from cream cheese, fresh whole milk and blueberries in syrup, our Blueberry Cheesecake. 
+The shells for these are kind of a blue/turquoise/teal colour. I wanted something bluish because these are wild blueberry. We start by making the macarons with a beginner french macaron tutorial, then we make the lemon blueberry cheesecake macaron filling recipe. By the end of this video, you&#39;ll have a recipe for lemon. Our gelato filled macarons have the distinction of being made in our laboratory, located just outside Made from cream cheese, fresh whole milk and blueberries in syrup, our Blueberry Cheesecake. 
 
 So that is going to wrap it up for this exceptional food blueberry cheesecake macaron recipe. Thank you very much for reading. I am confident you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

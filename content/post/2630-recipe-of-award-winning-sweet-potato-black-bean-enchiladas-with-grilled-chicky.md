@@ -123,7 +123,7 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Prepare  Mexican cheese
 
 
-In case you forgot like I did up until this past weekend. Say hello to these Sweet Potato, Kale and Black Bean Enchiladas! Okay let's get one thing out of the way up front… I'm a die hard enchilada fan but I'm having a moment with all things Sweet Potatoes, Kale and Black Beans. They all just work so well together, and I thought why not stuff them into some. 
+In case you forgot like I did up until this past weekend. Say hello to these Sweet Potato, Kale and Black Bean Enchiladas! Okay let&#39;s get one thing out of the way up front… I&#39;m a die hard enchilada fan but I&#39;m having a moment with all things Sweet Potatoes, Kale and Black Beans. They all just work so well together, and I thought why not stuff them into some. 
 
 <!--inarticleads2-->
 
@@ -140,6 +140,6 @@ In case you forgot like I did up until this past weekend. Say hello to these Swe
 1. Put all crema ingredients into blender and blend until smooth
 
 
-Okay let's get one thing out of the way up front… I'm a die hard enchilada fan but I'm having a moment with all things Sweet Potatoes, Kale and Black Beans. They all just work so well together, and I thought why not stuff them into some. Vegetarian potato and pinto bean enchiladas smothered in tomatillo salsa and queso fresco. Make it as spicy as you like with the addition of jalapenos to either, or both, sauce and filling. From classic chicken noodle soup to regional specialties, like meat and potato hot dish, these nostalgic dishes are. 
+Okay let&#39;s get one thing out of the way up front… I&#39;m a die hard enchilada fan but I&#39;m having a moment with all things Sweet Potatoes, Kale and Black Beans. They all just work so well together, and I thought why not stuff them into some. Vegetarian potato and pinto bean enchiladas smothered in tomatillo salsa and queso fresco. Make it as spicy as you like with the addition of jalapenos to either, or both, sauce and filling. From classic chicken noodle soup to regional specialties, like meat and potato hot dish, these nostalgic dishes are. 
 
 So that is going to wrap this up with this special food sweet potato black bean enchiladas with grilled chicky recipe. Thank you very much for reading. I am sure you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

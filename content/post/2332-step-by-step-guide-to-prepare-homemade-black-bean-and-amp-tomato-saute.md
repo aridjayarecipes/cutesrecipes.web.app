@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Prepare Homemade Black Bean &amp; Tomato Saute"
-title: "Step-by-Step Guide to Prepare Homemade Black Bean &amp; Tomato Saute"
+description: "Step-by-Step Guide to Prepare Homemade Black Bean &amp;amp; Tomato Saute"
+title: "Step-by-Step Guide to Prepare Homemade Black Bean &amp;amp; Tomato Saute"
 slug: 2332-step-by-step-guide-to-prepare-homemade-black-bean-and-amp-tomato-saute
 date: 2021-12-07T05:34:32.470Z
 image: https://img-global.cpcdn.com/recipes/ddc5205538eeb307/680x482cq70/black-bean-tomato-saute-recipe-main-photo.jpg
@@ -44,20 +44,20 @@ recipecategory: Dinner
 ---
 
 
-![Black Bean & Tomato Saute](https://img-global.cpcdn.com/recipes/ddc5205538eeb307/680x482cq70/black-bean-tomato-saute-recipe-main-photo.jpg)
+![Black Bean &amp; Tomato Saute](https://img-global.cpcdn.com/recipes/ddc5205538eeb307/680x482cq70/black-bean-tomato-saute-recipe-main-photo.jpg)
 
-Hey everyone, it is Jim, welcome to our recipe site. Today, we're going to prepare a distinctive dish, black bean & tomato saute. One of my favorites. For mine, I will make it a bit tasty. This is gonna smell and look delicious.
-
-
-
-Black Bean & Tomato Saute is one of the most well liked of recent trending foods on earth. It's simple, it is quick, it tastes delicious. It's enjoyed by millions every day. Black Bean & Tomato Saute is something which I've loved my entire life. They are nice and they look fantastic.
+Hey everyone, it is Jim, welcome to our recipe site. Today, we're going to prepare a distinctive dish, black bean &amp; tomato saute. One of my favorites. For mine, I will make it a bit tasty. This is gonna smell and look delicious.
 
 
-To get started with this recipe, we must prepare a few ingredients. You can have black bean & tomato saute using 9 ingredients and 6 steps. Here is how you can achieve it.
+
+Black Bean &amp; Tomato Saute is one of the most well liked of recent trending foods on earth. It's simple, it is quick, it tastes delicious. It's enjoyed by millions every day. Black Bean &amp; Tomato Saute is something which I've loved my entire life. They are nice and they look fantastic.
+
+
+To get started with this recipe, we must prepare a few ingredients. You can have black bean &amp; tomato saute using 9 ingredients and 6 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Black Bean & Tomato Saute:
+##### The ingredients needed to make Black Bean &amp; Tomato Saute:
 
 1. Take 15 oz cooked black beans
 1. Get 14.5 oz fire roasted diced tomatoes
@@ -66,7 +66,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 1. Make ready 1 small yellow onion; small dice
 1. Get 1/2 bundle cilantro; chiffonade
 1. Prepare 1/2 lime; cut into wedges
-1. Prepare 1 large pinch kosher salt & black pepper
+1. Prepare 1 large pinch kosher salt &amp; black pepper
 1. Prepare as needed vegetable oil;
 
 
@@ -74,7 +74,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 
 <!--inarticleads2-->
 
-##### Instructions to make Black Bean & Tomato Saute:
+##### Instructions to make Black Bean &amp; Tomato Saute:
 
 1. Heat a large saute pan with enough oil to cover.
 1. Add onion. Cook over medium heat until they begin to soften and caramelize, about 4 minutes .
@@ -86,4 +86,4 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 
 
 
-So that's going to wrap this up with this exceptional food black bean & tomato saute recipe. Thank you very much for reading. I am confident that you can make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!
+So that's going to wrap this up with this exceptional food black bean &amp; tomato saute recipe. Thank you very much for reading. I am confident that you can make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

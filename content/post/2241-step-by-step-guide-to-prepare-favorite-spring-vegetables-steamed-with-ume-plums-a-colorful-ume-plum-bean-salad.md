@@ -33,7 +33,7 @@ recipeinstructions:
 - "Remove the lid (keep on high heat). Add the ● ingredient mixture, then chives, and blend (turn off the heat after less than a minute)."
 - "Transfer to a serving bowl, drizzle with sesame oil, toss, and serve. By the time it cools, most of the liquid should be absorbed."
 - "For garnishing, then sprinkle on some roasted sesame seeds or shiso leaves."
-- "If you're making this during the short spring season, add nanohana (broccoli rabe)."
+- "If you&#39;re making this during the short spring season, add nanohana (broccoli rabe)."
 categories:
 - Recipe
 tags:
@@ -97,7 +97,7 @@ To get started with this recipe, we must prepare a few components. You can cook 
 1. Remove the lid (keep on high heat). Add the ● ingredient mixture, then chives, and blend (turn off the heat after less than a minute).
 1. Transfer to a serving bowl, drizzle with sesame oil, toss, and serve. By the time it cools, most of the liquid should be absorbed.
 1. For garnishing, then sprinkle on some roasted sesame seeds or shiso leaves.
-1. If you're making this during the short spring season, add nanohana (broccoli rabe).
+1. If you&#39;re making this during the short spring season, add nanohana (broccoli rabe).
 
 
 

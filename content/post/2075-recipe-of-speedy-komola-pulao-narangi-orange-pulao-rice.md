@@ -29,12 +29,12 @@ recipeingredient:
 - "4-5 Orange Slices or Rinds Cut into Juliennes"
 - "1 tbsp Saffron Strands Mixed with Warm Water"
 recipeinstructions:
-- "Wash & Soak the measured Rice-Set aside...Keep rest other ingredients handy & readily available"
+- "Wash &amp; Soak the measured Rice-Set aside...Keep rest other ingredients handy &amp; readily available"
 - "Heat a frying pan/heavy bottomed saucepan: Add in the ghee over the medium flame, then goes in the tempering spices to it- gently sauté until it releases its fine aroma, goes in the dry fruits- sauté until lightly brown"
-- "Add in the soaked rice now & sauté until everything is nicely combined- Then, goes in the fresh orange juice mixed with the water (2.5 Cups Liquid), altogether- Mix well very gently"
-- "Cover with the lid once it comes to a boil...When almost done- about 80% open the lid- give it all a really good mix but very carefully ensuring the rice grains aren’t broken- Add in the seasonings: Salt & Sugar and also the saffron diluted water"
-- "Mix everything again, well together until nicely combined and well incorporated...cover its lid again & cook for another 2-3 mins time until well cooked- Turn off the flame now"
-- "Let it sit on the hot oven for the next 10-15 mins time before serving it piping hot, post garnishing it...Dish out & relish it, as is or with whichever condiments you choose to have with it...but nothing’s more required with it, I believe- it’s a complete MEAL 🥘 in itself"
+- "Add in the soaked rice now &amp; sauté until everything is nicely combined- Then, goes in the fresh orange juice mixed with the water (2.5 Cups Liquid), altogether- Mix well very gently"
+- "Cover with the lid once it comes to a boil...When almost done- about 80% open the lid- give it all a really good mix but very carefully ensuring the rice grains aren’t broken- Add in the seasonings: Salt &amp; Sugar and also the saffron diluted water"
+- "Mix everything again, well together until nicely combined and well incorporated...cover its lid again &amp; cook for another 2-3 mins time until well cooked- Turn off the flame now"
+- "Let it sit on the hot oven for the next 10-15 mins time before serving it piping hot, post garnishing it...Dish out &amp; relish it, as is or with whichever condiments you choose to have with it...but nothing’s more required with it, I believe- it’s a complete MEAL 🥘 in itself"
 - "ENJOY...😋💁🏻‍♀️"
 categories:
 - Recipe
@@ -69,12 +69,12 @@ To get started with this recipe, we must prepare a few ingredients. You can cook
 
 ##### The ingredients needed to make Komola Pulao: Narangi/Orange Pulao/Rice:
 
-1. Take 1.5 Cups Basamati Rice: Washed & Soaked in water for about 30 mins time
+1. Take 1.5 Cups Basamati Rice: Washed &amp; Soaked in water for about 30 mins time
 1. Get 2.5 tbsp tsps or To Taste Salt
 1. Prepare 2-3 tbsps or To Taste Sugar
 1. Make ready 1.5 Cups Orange Juice- Freshly Squeezed
 1. Prepare 1 Cup Water (RT)
-1. Get 1/2 Cup Dry Fruits: Cashews, Almonds & Raisins
+1. Get 1/2 Cup Dry Fruits: Cashews, Almonds &amp; Raisins
 1. Get  Tempering Spices:
 1. Make ready 2 Bay Leaves
 1. Prepare 1 Black Cardamom
@@ -95,12 +95,12 @@ To get started with this recipe, we must prepare a few ingredients. You can cook
 
 ##### Instructions to make Komola Pulao: Narangi/Orange Pulao/Rice:
 
-1. Wash & Soak the measured Rice-Set aside...Keep rest other ingredients handy & readily available
+1. Wash &amp; Soak the measured Rice-Set aside...Keep rest other ingredients handy &amp; readily available
 1. Heat a frying pan/heavy bottomed saucepan: Add in the ghee over the medium flame, then goes in the tempering spices to it- gently sauté until it releases its fine aroma, goes in the dry fruits- sauté until lightly brown
-1. Add in the soaked rice now & sauté until everything is nicely combined- Then, goes in the fresh orange juice mixed with the water (2.5 Cups Liquid), altogether- Mix well very gently
-1. Cover with the lid once it comes to a boil...When almost done- about 80% open the lid- give it all a really good mix but very carefully ensuring the rice grains aren’t broken- Add in the seasonings: Salt & Sugar and also the saffron diluted water
-1. Mix everything again, well together until nicely combined and well incorporated...cover its lid again & cook for another 2-3 mins time until well cooked- Turn off the flame now
-1. Let it sit on the hot oven for the next 10-15 mins time before serving it piping hot, post garnishing it...Dish out & relish it, as is or with whichever condiments you choose to have with it...but nothing’s more required with it, I believe- it’s a complete MEAL 🥘 in itself
+1. Add in the soaked rice now &amp; sauté until everything is nicely combined- Then, goes in the fresh orange juice mixed with the water (2.5 Cups Liquid), altogether- Mix well very gently
+1. Cover with the lid once it comes to a boil...When almost done- about 80% open the lid- give it all a really good mix but very carefully ensuring the rice grains aren’t broken- Add in the seasonings: Salt &amp; Sugar and also the saffron diluted water
+1. Mix everything again, well together until nicely combined and well incorporated...cover its lid again &amp; cook for another 2-3 mins time until well cooked- Turn off the flame now
+1. Let it sit on the hot oven for the next 10-15 mins time before serving it piping hot, post garnishing it...Dish out &amp; relish it, as is or with whichever condiments you choose to have with it...but nothing’s more required with it, I believe- it’s a complete MEAL 🥘 in itself
 1. ENJOY...😋💁🏻‍♀️
 
 

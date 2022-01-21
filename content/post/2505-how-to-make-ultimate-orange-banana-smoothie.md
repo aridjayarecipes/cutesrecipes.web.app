@@ -37,7 +37,7 @@ recipecategory: Dessert
 
 Hey everyone, it's me again, Dan, welcome to our recipe site. Today, I will show you a way to prepare a special dish, orange banana smoothie. One of my favorites. For mine, I will make it a little bit tasty. This will be really delicious.
 
-I love smoothie's for breakfast and the combination of orange and banana is wonderful however I tweaked the recipe to my tastes. Combine the orange juice, lime juice, strawberries, and banana in a blender and process until smooth. Today's recipe is my sister favorite smoothie recipe. After drinking a cup of this orange banana smoothie, I understand why she love it so much.
+I love smoothie&#39;s for breakfast and the combination of orange and banana is wonderful however I tweaked the recipe to my tastes. Combine the orange juice, lime juice, strawberries, and banana in a blender and process until smooth. Today&#39;s recipe is my sister favorite smoothie recipe. After drinking a cup of this orange banana smoothie, I understand why she love it so much.
 
 Orange banana smoothie is one of the most well liked of current trending foods on earth. It's appreciated by millions every day. It is simple, it's quick, it tastes yummy. Orange banana smoothie is something which I've loved my entire life. They are nice and they look fantastic.
 

@@ -49,7 +49,7 @@ Hey everyone, it is me again, Dan, welcome to our recipe page. Today, I will sho
 
 Easy salmon recipe is one of the most well liked of recent trending meals in the world. It is enjoyed by millions daily. It is easy, it's fast, it tastes delicious. They are nice and they look wonderful. Easy salmon recipe is something which I have loved my entire life.
 
-Salmon makes the perfect meal: easy to prepare and healthy. One of our favorite easy salmon recipes of all time: this Pistachio Crusted Salmon! Here's an easy baked salmon recipe that works every time! Our recipes include salmon fillets, salads, parcels and tacos.
+Salmon makes the perfect meal: easy to prepare and healthy. One of our favorite easy salmon recipes of all time: this Pistachio Crusted Salmon! Here&#39;s an easy baked salmon recipe that works every time! Our recipes include salmon fillets, salads, parcels and tacos.
 
 
 To begin with this particular recipe, we have to first prepare a few ingredients. You can have easy salmon recipe using 10 ingredients and 4 steps. Here is how you cook that.

@@ -51,7 +51,7 @@ recipecategory: Dessert
 
 Hello everybody, I hope you are having an amazing day today. Today, I'm gonna show you how to make a special dish, breakfast poached egg toast with avocado cream, salmon and hollandaise. It is one of my favorites food recipes. This time, I will make it a little bit unique. This is gonna smell and look delicious.
 
-Isn't it eggs royale if it's smoked salmon (as opposed to ham)? Doesn't matter and looks delicious though. I imagined that you made your own smoked salmon. kinda saw snoop dogg face on salmon there. Smoked Salmon Eggs Benedict - Hollandaise Free Version!
+Isn&#39;t it eggs royale if it&#39;s smoked salmon (as opposed to ham)? Doesn&#39;t matter and looks delicious though. I imagined that you made your own smoked salmon. kinda saw snoop dogg face on salmon there. Smoked Salmon Eggs Benedict - Hollandaise Free Version!
 
 Breakfast poached egg toast with avocado cream, salmon and hollandaise is one of the most favored of recent trending foods on earth. It is appreciated by millions every day. It is easy, it's fast, it tastes delicious. They are fine and they look fantastic. Breakfast poached egg toast with avocado cream, salmon and hollandaise is something which I have loved my whole life.
 
@@ -78,7 +78,7 @@ To get started with this recipe, we must prepare a few components. You can cook 
 1. Get  8 tbsp unsalted butter
 
 
-Avocado toast gets a quick upgrade with poached eggs and McCormick Gourmet™ Organic Citrus Chili & Garlic with Chia Seasoning. Zesty flavor with a touch of crunch (thanks, chia!) perfectly compliment creamy avocado and just-toasted Italian bread. Almost too beautiful to eat - almost. Creamy avocado, silky smoked salmon, homemade hollandaise sauce, and fresh poached eggs, all on top of toasted English muffins. 
+Avocado toast gets a quick upgrade with poached eggs and McCormick Gourmet™ Organic Citrus Chili &amp; Garlic with Chia Seasoning. Zesty flavor with a touch of crunch (thanks, chia!) perfectly compliment creamy avocado and just-toasted Italian bread. Almost too beautiful to eat - almost. Creamy avocado, silky smoked salmon, homemade hollandaise sauce, and fresh poached eggs, all on top of toasted English muffins. 
 
 <!--inarticleads2-->
 

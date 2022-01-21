@@ -21,8 +21,8 @@ recipeingredient:
 - "1/2 tsp garlic powder"
 - "to taste Pepper"
 recipeinstructions:
-- "Heat coconut oil on medium high heat, best to use a dutch oven or rice pot. Add onion & thyme, let cook 5-7min, mix occasionally. In meantime, chop vegetables."
-- "Add garlic to pan, then vegetables. Sprinkle garlic powder & black pepper. Add vegetable broth. Stir. Reduce heat to medium & let cook 15 minutes, covered."
+- "Heat coconut oil on medium high heat, best to use a dutch oven or rice pot. Add onion &amp; thyme, let cook 5-7min, mix occasionally. In meantime, chop vegetables."
+- "Add garlic to pan, then vegetables. Sprinkle garlic powder &amp; black pepper. Add vegetable broth. Stir. Reduce heat to medium &amp; let cook 15 minutes, covered."
 categories:
 - Recipe
 tags:
@@ -62,7 +62,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Make ready 1/2 cabbage (shredded or diced)
 1. Get 2 carrots (shredded)
 1. Take 1/4 c vegetable broth
-1. Make ready 1 scotch bonnet pepper (my store didn't have it, I used habanero
+1. Make ready 1 scotch bonnet pepper (my store didn&#39;t have it, I used habanero
 1. Prepare 2 tbs thyme
 1. Get 1/2 tsp garlic powder
 1. Prepare to taste Pepper
@@ -74,8 +74,8 @@ To get started with this particular recipe, we must first prepare a few componen
 
 ##### Instructions to make Jamaican Style Cabbage:
 
-1. Heat coconut oil on medium high heat, best to use a dutch oven or rice pot. Add onion & thyme, let cook 5-7min, mix occasionally. In meantime, chop vegetables.
-1. Add garlic to pan, then vegetables. Sprinkle garlic powder & black pepper. Add vegetable broth. Stir. Reduce heat to medium & let cook 15 minutes, covered.
+1. Heat coconut oil on medium high heat, best to use a dutch oven or rice pot. Add onion &amp; thyme, let cook 5-7min, mix occasionally. In meantime, chop vegetables.
+1. Add garlic to pan, then vegetables. Sprinkle garlic powder &amp; black pepper. Add vegetable broth. Stir. Reduce heat to medium &amp; let cook 15 minutes, covered.
 
 
 

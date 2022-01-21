@@ -52,7 +52,7 @@ To begin with this recipe, we have to prepare a few components. You can have blu
 
 ##### The ingredients needed to make Blueberry raspberry protein shake:
 
-1. Get 1/3 c dannon light&fit Greek yogurt (blueberry)
+1. Get 1/3 c dannon light&amp;fit Greek yogurt (blueberry)
 1. Take 1 c skim milk
 1. Prepare 1 packet Sprouts whey protein (vanilla)
 1. Get 1 c blueberries
@@ -60,7 +60,7 @@ To begin with this recipe, we have to prepare a few components. You can have blu
 1. Prepare 2 c ice
 
 
-A refreshing and delicious Raspberry Protein Shake - make this one with just a few ingredients and feel good about what you're drinking! I'm excited to partner with Burt's Bees™ to bring you a refreshing and delicious Raspberry Protein Shake! It's super easy and helps start your day on the. Greet the day with the flavor of blissful blueberries and cream in a silky-smooth breakfast-inspired shake, Winner of The American Masters of Taste Gold Medal for SUPERIOR TASTING. 
+A refreshing and delicious Raspberry Protein Shake - make this one with just a few ingredients and feel good about what you&#39;re drinking! I&#39;m excited to partner with Burt&#39;s Bees™ to bring you a refreshing and delicious Raspberry Protein Shake! It&#39;s super easy and helps start your day on the. Greet the day with the flavor of blissful blueberries and cream in a silky-smooth breakfast-inspired shake, Winner of The American Masters of Taste Gold Medal for SUPERIOR TASTING. 
 
 <!--inarticleads2-->
 
@@ -70,6 +70,6 @@ A refreshing and delicious Raspberry Protein Shake - make this one with just a f
 1. Blend until smooth
 
 
-It's super easy and helps start your day on the. Greet the day with the flavor of blissful blueberries and cream in a silky-smooth breakfast-inspired shake, Winner of The American Masters of Taste Gold Medal for SUPERIOR TASTING. Creamy Raspberry Keto Protein Shake is so indulgent you won't believe it's low-carb! Feel free to use other berries such as strawberries or blueberries in this recipe. Jump start your day with a protein-packed shake. 
+It&#39;s super easy and helps start your day on the. Greet the day with the flavor of blissful blueberries and cream in a silky-smooth breakfast-inspired shake, Winner of The American Masters of Taste Gold Medal for SUPERIOR TASTING. Creamy Raspberry Keto Protein Shake is so indulgent you won&#39;t believe it&#39;s low-carb! Feel free to use other berries such as strawberries or blueberries in this recipe. Jump start your day with a protein-packed shake. 
 
 So that's going to wrap this up for this exceptional food blueberry raspberry protein shake recipe. Thank you very much for reading. I'm confident that you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

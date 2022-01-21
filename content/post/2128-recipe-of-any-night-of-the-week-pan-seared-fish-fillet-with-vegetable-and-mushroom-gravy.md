@@ -54,7 +54,7 @@ recipecategory: Dinner
 
 Hello everybody, I hope you're having an incredible day today. Today, I will show you a way to prepare a distinctive dish, pan seared fish fillet with vegetable and mushroom gravy. One of my favorites food recipes. This time, I'm gonna make it a bit unique. This is gonna smell and look delicious.
 
-Pan Seared Fish FilletLeite's Culinaria. fish fillet, sea salt, ghee, lemon, ghee, freshly ground black pepper. Red Palm Oil, Fish Fillet with Mushrooms & Kale. While mushrooms tend to be on the expensive side, they're definitely worth the indulgence. Overall, it's possible to keep the cost of this recipe relatively low If you're feeling adventurous, try experimenting with a variety of mushrooms or adding greens like bok choy or kale.
+Pan Seared Fish FilletLeite&#39;s Culinaria. fish fillet, sea salt, ghee, lemon, ghee, freshly ground black pepper. Red Palm Oil, Fish Fillet with Mushrooms &amp; Kale. While mushrooms tend to be on the expensive side, they&#39;re definitely worth the indulgence. Overall, it&#39;s possible to keep the cost of this recipe relatively low If you&#39;re feeling adventurous, try experimenting with a variety of mushrooms or adding greens like bok choy or kale.
 
 Pan seared fish fillet with vegetable and mushroom gravy is one of the most favored of current trending foods on earth. It is easy, it is quick, it tastes delicious. It is appreciated by millions every day. They are nice and they look fantastic. Pan seared fish fillet with vegetable and mushroom gravy is something which I have loved my whole life.
 

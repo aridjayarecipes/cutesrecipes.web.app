@@ -26,15 +26,15 @@ recipeingredient:
 - "1 Tbsp. dried basil"
 recipeinstructions:
 - "Get the sauce cooking. Melt butter/margarine in medium pot (or slow cooker) on LOW HEAT, mince onions as fine as possible and add to pot with the butter. Let simmer for 2 minutes to blanch onions."
-- "Mix dried basil with a 1/4 cup of water and microwave in a cup for 45 seconds. This will make a basil "tea". Strain and add basil "tea" to the sauce."
-- "Add cans of tomatoes, basil "tea", pepper, sugar and 1/8 tsp. salt to pot and let simmer at least an hour (or two). Add more sugar if you like it sweeter."
+- "Mix dried basil with a 1/4 cup of water and microwave in a cup for 45 seconds. This will make a basil &#34;tea&#34;. Strain and add basil &#34;tea&#34; to the sauce."
+- "Add cans of tomatoes, basil &#34;tea&#34;, pepper, sugar and 1/8 tsp. salt to pot and let simmer at least an hour (or two). Add more sugar if you like it sweeter."
 - "Boil the shells and let cool being careful not to get them torn up."
 - "Mix thourloughly the ricotta, parmesan, eggs, garlic powder, 4 oz. mozzarella and cleaned spinach (remove the stems!). I used about a quarter of a bag of spinach."
 - "Preheat oven to 350 degrees. Add several ladles of the tomato sauce to a casserole dish. Stuff the shells with cheese mixture and line the casserole dish with stuffed shells."
 - "Pour a few more ladles of the tomato sauce over the shells. Cover the dish with foil, poke a hole in the middle to vent. Be careful not to let the tomato sauce get on the foil as it will dissolve the foil! Bake covered for 40 minutes."
 - "Uncover and top cooked shells with the rest of the mozzarella cheese. Cook another 10 minutes."
 - "Let cool 5 minutes then serve!"
-- "I've also made this by adding a half pound of hot sausage (or ground beef or even pepperoni) to the sauce. But, the vegetarian version is remarkable. The only really fattening part is the butter/margarine. I don't like using olive oil as it has a distinctly different taste than the more pungent flavor of butter/margarine. Feel free to use either parmesan or romano cheese. Pecorino romano is by far the best to use if you can."
+- "I&#39;ve also made this by adding a half pound of hot sausage (or ground beef or even pepperoni) to the sauce. But, the vegetarian version is remarkable. The only really fattening part is the butter/margarine. I don&#39;t like using olive oil as it has a distinctly different taste than the more pungent flavor of butter/margarine. Feel free to use either parmesan or romano cheese. Pecorino romano is by far the best to use if you can."
 categories:
 - Recipe
 tags:
@@ -90,15 +90,15 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook st
 ##### Instructions to make Stuffed Shells:
 
 1. Get the sauce cooking. Melt butter/margarine in medium pot (or slow cooker) on LOW HEAT, mince onions as fine as possible and add to pot with the butter. Let simmer for 2 minutes to blanch onions.
-1. Mix dried basil with a 1/4 cup of water and microwave in a cup for 45 seconds. This will make a basil "tea". Strain and add basil "tea" to the sauce.
-1. Add cans of tomatoes, basil "tea", pepper, sugar and 1/8 tsp. salt to pot and let simmer at least an hour (or two). Add more sugar if you like it sweeter.
+1. Mix dried basil with a 1/4 cup of water and microwave in a cup for 45 seconds. This will make a basil &#34;tea&#34;. Strain and add basil &#34;tea&#34; to the sauce.
+1. Add cans of tomatoes, basil &#34;tea&#34;, pepper, sugar and 1/8 tsp. salt to pot and let simmer at least an hour (or two). Add more sugar if you like it sweeter.
 1. Boil the shells and let cool being careful not to get them torn up.
 1. Mix thourloughly the ricotta, parmesan, eggs, garlic powder, 4 oz. mozzarella and cleaned spinach (remove the stems!). I used about a quarter of a bag of spinach.
 1. Preheat oven to 350 degrees. Add several ladles of the tomato sauce to a casserole dish. Stuff the shells with cheese mixture and line the casserole dish with stuffed shells.
 1. Pour a few more ladles of the tomato sauce over the shells. Cover the dish with foil, poke a hole in the middle to vent. Be careful not to let the tomato sauce get on the foil as it will dissolve the foil! Bake covered for 40 minutes.
 1. Uncover and top cooked shells with the rest of the mozzarella cheese. Cook another 10 minutes.
 1. Let cool 5 minutes then serve!
-1. I've also made this by adding a half pound of hot sausage (or ground beef or even pepperoni) to the sauce. But, the vegetarian version is remarkable. The only really fattening part is the butter/margarine. I don't like using olive oil as it has a distinctly different taste than the more pungent flavor of butter/margarine. Feel free to use either parmesan or romano cheese. Pecorino romano is by far the best to use if you can.
+1. I&#39;ve also made this by adding a half pound of hot sausage (or ground beef or even pepperoni) to the sauce. But, the vegetarian version is remarkable. The only really fattening part is the butter/margarine. I don&#39;t like using olive oil as it has a distinctly different taste than the more pungent flavor of butter/margarine. Feel free to use either parmesan or romano cheese. Pecorino romano is by far the best to use if you can.
 
 
 

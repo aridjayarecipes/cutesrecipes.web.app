@@ -110,6 +110,6 @@ Filling Cabbage Leaves how to make vegan cabbage rolls. Stir lemon juice into th
 1. Serve cabbage roll with the tomato sauce and enjoy your vegan cabbage roll!
 
 
-Vegan unstuffed cabbage roll soup with sauerkraut, fresh cabbage, brown rice, tomato and meaty soy curls. This recipe for Stuffed Vegan Cabbage Rolls was by reader request. Hundreds of you asked for it, so here is my version. My version of Stuffed Vegan Cabbage Rolls. Cabbage rolls made with a vegan twist: steamed cabbage stuffed with hearty lentils, brown rice, mushroom, onion, fresh garlic, celery, & tomatoes. 
+Vegan unstuffed cabbage roll soup with sauerkraut, fresh cabbage, brown rice, tomato and meaty soy curls. This recipe for Stuffed Vegan Cabbage Rolls was by reader request. Hundreds of you asked for it, so here is my version. My version of Stuffed Vegan Cabbage Rolls. Cabbage rolls made with a vegan twist: steamed cabbage stuffed with hearty lentils, brown rice, mushroom, onion, fresh garlic, celery, &amp; tomatoes. 
 
 So that's going to wrap this up for this exceptional food vegan cabbage roll recipe. Thanks so much for your time. I am sure you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

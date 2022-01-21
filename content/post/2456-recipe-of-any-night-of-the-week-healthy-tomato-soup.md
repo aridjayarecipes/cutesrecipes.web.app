@@ -26,7 +26,7 @@ recipeinstructions:
 - "Blend it all in the blender."
 - "If the consistency is not to your favor then I suggest you add a little bit of marinara sauce. Any type will do"
 - "Then put about half a hand full of 6 cheese Italian and pop it in the microwave for 1 minute"
-- "If you'd like you can top it off with croutons or bacon"
+- "If you&#39;d like you can top it off with croutons or bacon"
 - "Enjoy"
 categories:
 - Recipe
@@ -84,7 +84,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 1. Blend it all in the blender.
 1. If the consistency is not to your favor then I suggest you add a little bit of marinara sauce. Any type will do
 1. Then put about half a hand full of 6 cheese Italian and pop it in the microwave for 1 minute
-1. If you'd like you can top it off with croutons or bacon
+1. If you&#39;d like you can top it off with croutons or bacon
 1. Enjoy
 
 

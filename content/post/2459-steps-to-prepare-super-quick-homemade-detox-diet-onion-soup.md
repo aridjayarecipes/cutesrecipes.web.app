@@ -16,13 +16,13 @@ recipeingredient:
 recipeinstructions:
 - "Cut the onion into appropriate-sized pieces."
 - "Combine the cut onion, water, and consommé soup stock in a pressure cooker and simmer for 5 minutes (after the pressure rises)."
-- "It'll ultimately become creamy, like this."
+- "It&#39;ll ultimately become creamy, like this."
 - "Top with parsley to taste."
 - "Be sure to drink water as well. (It has a great effect.) Drinking 2 liters of water a day is very effective. I always have water with me at work and on the go."
 - "Bonus tip #1: If using a microwave, combine 1 onion, 1/2 tablespoon consommé soup stock, and 4 tablespoons of water to a heat-resistant dish and microwave for 3-5 minutes. Mix together and eat."
 - "Bonus tip #2: If using a regular pot, combine 1 onion, 1/2 tablespoon consommé soup stock, and 300 ml of water and simmer until creamy. Be careful not to burn it."
-- "To spice it up if you get tired of the same taste:  Lately, I've been making this in a regular pot (Step 7). Add some corn in the end for a sweeter taste."
-- "Spice it up if you get tired of the same taste: This is the version I make most often. It has carrots and bacon. It's just as delicious as your average bowl of soup. And for me, this is the most effective."
+- "To spice it up if you get tired of the same taste:  Lately, I&#39;ve been making this in a regular pot (Step 7). Add some corn in the end for a sweeter taste."
+- "Spice it up if you get tired of the same taste: This is the version I make most often. It has carrots and bacon. It&#39;s just as delicious as your average bowl of soup. And for me, this is the most effective."
 categories:
 - Recipe
 tags:
@@ -69,13 +69,13 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 1. Cut the onion into appropriate-sized pieces.
 1. Combine the cut onion, water, and consommé soup stock in a pressure cooker and simmer for 5 minutes (after the pressure rises).
-1. It'll ultimately become creamy, like this.
+1. It&#39;ll ultimately become creamy, like this.
 1. Top with parsley to taste.
 1. Be sure to drink water as well. (It has a great effect.) Drinking 2 liters of water a day is very effective. I always have water with me at work and on the go.
 1. Bonus tip #1: If using a microwave, combine 1 onion, 1/2 tablespoon consommé soup stock, and 4 tablespoons of water to a heat-resistant dish and microwave for 3-5 minutes. Mix together and eat.
 1. Bonus tip #2: If using a regular pot, combine 1 onion, 1/2 tablespoon consommé soup stock, and 300 ml of water and simmer until creamy. Be careful not to burn it.
-1. To spice it up if you get tired of the same taste:  Lately, I've been making this in a regular pot (Step 7). Add some corn in the end for a sweeter taste.
-1. Spice it up if you get tired of the same taste: This is the version I make most often. It has carrots and bacon. It's just as delicious as your average bowl of soup. And for me, this is the most effective.
+1. To spice it up if you get tired of the same taste:  Lately, I&#39;ve been making this in a regular pot (Step 7). Add some corn in the end for a sweeter taste.
+1. Spice it up if you get tired of the same taste: This is the version I make most often. It has carrots and bacon. It&#39;s just as delicious as your average bowl of soup. And for me, this is the most effective.
 
 
 

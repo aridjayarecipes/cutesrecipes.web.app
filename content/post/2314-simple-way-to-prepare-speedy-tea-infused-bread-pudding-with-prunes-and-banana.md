@@ -24,8 +24,8 @@ recipeinstructions:
 - "Cut the bread and banana into suitable sizes, cut the prune in half. Spread the lemon juice on the banana to stop any discoloration."
 - "Put the teabag (remove the paper label) and milk into a steamer without the lid. Microwave for 1 minute at 500 W, and cover to steam for a minute."
 - "Take the tea bag out and add the maple syrup, mix with chopsticks and add the egg to stir in. Soak the bread and place the fruits."
-- "Cover with a lid and microwave for 3 minutes at 500 W. Take the lid off and microwave for another minute. It's done. Sprinkle on cinnamon as you like."
-- "Here's one made with strawberries.  https://cookpad.com/us/recipes/171200-microwaved-strawberry-bread-pudding"
+- "Cover with a lid and microwave for 3 minutes at 500 W. Take the lid off and microwave for another minute. It&#39;s done. Sprinkle on cinnamon as you like."
+- "Here&#39;s one made with strawberries.  https://cookpad.com/us/recipes/171200-microwaved-strawberry-bread-pudding"
 categories:
 - Recipe
 tags:
@@ -80,8 +80,8 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Cut the bread and banana into suitable sizes, cut the prune in half. Spread the lemon juice on the banana to stop any discoloration.
 1. Put the teabag (remove the paper label) and milk into a steamer without the lid. Microwave for 1 minute at 500 W, and cover to steam for a minute.
 1. Take the tea bag out and add the maple syrup, mix with chopsticks and add the egg to stir in. Soak the bread and place the fruits.
-1. Cover with a lid and microwave for 3 minutes at 500 W. Take the lid off and microwave for another minute. It's done. Sprinkle on cinnamon as you like.
-1. Here's one made with strawberries. -  - https://cookpad.com/us/recipes/171200-microwaved-strawberry-bread-pudding
+1. Cover with a lid and microwave for 3 minutes at 500 W. Take the lid off and microwave for another minute. It&#39;s done. Sprinkle on cinnamon as you like.
+1. Here&#39;s one made with strawberries. -  - https://cookpad.com/us/recipes/171200-microwaved-strawberry-bread-pudding
 
 
 

@@ -14,13 +14,13 @@ recipeingredient:
 - "1 large Sieve"
 - "1 Bricks"
 recipeinstructions:
-- "Store pickled plumsfor  20 or more days. Then dry them outside during three days of good, sunny weather. To dry: place the plums on a sieve so that they aren't touching, then, set outside to dry."
+- "Store pickled plumsfor  20 or more days. Then dry them outside during three days of good, sunny weather. To dry: place the plums on a sieve so that they aren&#39;t touching, then, set outside to dry."
 - "Place a brick under the sieve to give it good ventilation, and start drying mid-morning (around 10).  Flip them over after 2 hours, and lay them flat in a sunny area."
 - "At the same time, place the storage container in the sunshine."
 - "Return the plums to the container with the plum vinegar on the first day while they are still warm, and bring them in the house."
 - "On the second and third days, put them back out in the sun to dry, leaving them overnight. At night, cover them with a net, and let them sit out on the balcony."
 - "After they have dried, transfer to storage jars, or an earthenware pot.  Store the liquid separately."
-- "It's sanitary to cover with a tight mesh laundry net when drying."
+- "It&#39;s sanitary to cover with a tight mesh laundry net when drying."
 categories:
 - Recipe
 tags:
@@ -65,13 +65,13 @@ To begin with this particular recipe, we have to first prepare a few components.
 
 ##### Steps to make Low Sodium Pickled Plums- How to Dry Kanto pickled Plums (White Pickled Plums):
 
-1. Store pickled plumsfor  20 or more days. Then dry them outside during three days of good, sunny weather. To dry: place the plums on a sieve so that they aren't touching, then, set outside to dry.
+1. Store pickled plumsfor  20 or more days. Then dry them outside during three days of good, sunny weather. To dry: place the plums on a sieve so that they aren&#39;t touching, then, set outside to dry.
 1. Place a brick under the sieve to give it good ventilation, and start drying mid-morning (around 10).  Flip them over after 2 hours, and lay them flat in a sunny area.
 1. At the same time, place the storage container in the sunshine.
 1. Return the plums to the container with the plum vinegar on the first day while they are still warm, and bring them in the house.
 1. On the second and third days, put them back out in the sun to dry, leaving them overnight. At night, cover them with a net, and let them sit out on the balcony.
 1. After they have dried, transfer to storage jars, or an earthenware pot.  Store the liquid separately.
-1. It's sanitary to cover with a tight mesh laundry net when drying.
+1. It&#39;s sanitary to cover with a tight mesh laundry net when drying.
 
 
 

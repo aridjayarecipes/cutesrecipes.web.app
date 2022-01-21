@@ -47,7 +47,7 @@ recipecategory: Dessert
 
 Hello everybody, it is Brad, welcome to my recipe site. Today, we're going to make a distinctive dish, dahi kala. It is one of my favorites food recipes. For mine, I am going to make it a bit tasty. This is gonna smell and look delicious.
 
-Vidarbha Special Pak Kala and sanskruti. Savan mas special dahi bhalle with secret masala very soft as cotton spnge box must try IT/dahi vada. Welcome to Lobhasis Kitchen Channel today's video is Shri Krishna Janmashtami special video in this video we are making Gopalkala. Biarkan rambut sedikit terurai di dahi kalian untuk menyembunyikan DAHI yang luas tersebut.
+Vidarbha Special Pak Kala and sanskruti. Savan mas special dahi bhalle with secret masala very soft as cotton spnge box must try IT/dahi vada. Welcome to Lobhasis Kitchen Channel today&#39;s video is Shri Krishna Janmashtami special video in this video we are making Gopalkala. Biarkan rambut sedikit terurai di dahi kalian untuk menyembunyikan DAHI yang luas tersebut.
 
 Dahi kala is one of the most well liked of current trending foods in the world. It's simple, it's fast, it tastes yummy. It is appreciated by millions every day. Dahi kala is something that I've loved my entire life. They are nice and they look fantastic.
 

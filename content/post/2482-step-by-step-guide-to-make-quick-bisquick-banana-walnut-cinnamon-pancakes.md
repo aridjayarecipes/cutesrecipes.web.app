@@ -23,9 +23,9 @@ recipeingredient:
 recipeinstructions:
 - "Mix all ingredients together except banana and walnuts in a medium bowl"
 - "Depending on the size of the pancakes, choose a frying pan you want. I had a bigger one and made bigger pancakes."
-- "Use butter or a spray to lightly coat the pan so the pancakes don't stick."
-- "Pour the batter into the pan and then quickly place pieces of the banana into the batter. Once it's cooked all the way then flip the pancake and then repeat this step until you have no more batter."
-- "Once you've cooked the pancakes place the remaining banana pieces on top of the pancakes and sprinkle chopped walnuts on top and then finish with your choice of syrup"
+- "Use butter or a spray to lightly coat the pan so the pancakes don&#39;t stick."
+- "Pour the batter into the pan and then quickly place pieces of the banana into the batter. Once it&#39;s cooked all the way then flip the pancake and then repeat this step until you have no more batter."
+- "Once you&#39;ve cooked the pancakes place the remaining banana pieces on top of the pancakes and sprinkle chopped walnuts on top and then finish with your choice of syrup"
 categories:
 - Recipe
 tags:
@@ -67,7 +67,7 @@ To begin with this recipe, we must prepare a few components. You can have bisqui
 1. Take 1 tablespoon oil
 1. Make ready 1/2 teaspoon vanilla extract
 1. Prepare 1/2 teaspoon ground cinnamon
-1. Prepare 1-2 bananas cut up and on the side (how much you'd like)
+1. Prepare 1-2 bananas cut up and on the side (how much you&#39;d like)
 1. Get 1/2 cup chopped walnuts (to sprinkle on top)
 
 
@@ -79,9 +79,9 @@ To begin with this recipe, we must prepare a few components. You can have bisqui
 
 1. Mix all ingredients together except banana and walnuts in a medium bowl
 1. Depending on the size of the pancakes, choose a frying pan you want. I had a bigger one and made bigger pancakes.
-1. Use butter or a spray to lightly coat the pan so the pancakes don't stick.
-1. Pour the batter into the pan and then quickly place pieces of the banana into the batter. Once it's cooked all the way then flip the pancake and then repeat this step until you have no more batter.
-1. Once you've cooked the pancakes place the remaining banana pieces on top of the pancakes and sprinkle chopped walnuts on top and then finish with your choice of syrup
+1. Use butter or a spray to lightly coat the pan so the pancakes don&#39;t stick.
+1. Pour the batter into the pan and then quickly place pieces of the banana into the batter. Once it&#39;s cooked all the way then flip the pancake and then repeat this step until you have no more batter.
+1. Once you&#39;ve cooked the pancakes place the remaining banana pieces on top of the pancakes and sprinkle chopped walnuts on top and then finish with your choice of syrup
 
 
 

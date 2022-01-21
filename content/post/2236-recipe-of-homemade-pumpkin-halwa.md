@@ -64,7 +64,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have pu
 1. Get  Cardamom powder (elaichi powder)
 
 
-Pumpkin Halwa Recipe, Learn how to make Pumpkin Halwa (absolutely delicious This Pumpkin Halwa recipe is Excellent and find more Great recipes, tried & tested recipes from NDTV Food. Pumpkin is popularly known as Kaddu in India. Rich, warm, sweet - the aroma of Pumpkin Halwa or Kaddu Halwa is something most Indian households know and love. Here is a special Pumpkin Halwa Recipe to make yellow pumpkin halwa; a healthy and sweet dish with amazing taste. 
+Pumpkin Halwa Recipe, Learn how to make Pumpkin Halwa (absolutely delicious This Pumpkin Halwa recipe is Excellent and find more Great recipes, tried &amp; tested recipes from NDTV Food. Pumpkin is popularly known as Kaddu in India. Rich, warm, sweet - the aroma of Pumpkin Halwa or Kaddu Halwa is something most Indian households know and love. Here is a special Pumpkin Halwa Recipe to make yellow pumpkin halwa; a healthy and sweet dish with amazing taste. 
 
 <!--inarticleads2-->
 
@@ -77,6 +77,6 @@ Pumpkin Halwa Recipe, Learn how to make Pumpkin Halwa (absolutely delicious This
 1. Pumpkin halwa is ready 👌👌👌. Serve it after the main course as dessert.
 
 
-Rich, warm, sweet - the aroma of Pumpkin Halwa or Kaddu Halwa is something most Indian households know and love. Here is a special Pumpkin Halwa Recipe to make yellow pumpkin halwa; a healthy and sweet dish with amazing taste. I made it with milk but we can also make it without milk. Kaddu ka halwa / Pumpkin Halwa is an easy and exotic dessert made with the goodness of pumpkin, milk Kaddu a Halwa - Perfect autumn dessert. It's finally time for that beloved fall classic Pumpkin. 
+Rich, warm, sweet - the aroma of Pumpkin Halwa or Kaddu Halwa is something most Indian households know and love. Here is a special Pumpkin Halwa Recipe to make yellow pumpkin halwa; a healthy and sweet dish with amazing taste. I made it with milk but we can also make it without milk. Kaddu ka halwa / Pumpkin Halwa is an easy and exotic dessert made with the goodness of pumpkin, milk Kaddu a Halwa - Perfect autumn dessert. It&#39;s finally time for that beloved fall classic Pumpkin. 
 
 So that's going to wrap this up for this exceptional food pumpkin halwa recipe. Thanks so much for your time. I'm sure you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

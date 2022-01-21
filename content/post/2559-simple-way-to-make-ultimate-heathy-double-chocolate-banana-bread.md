@@ -24,8 +24,8 @@ recipeingredient:
 - "1/2 tsp salt"
 - "170 g chocolate chips plus more to sprinkle on top"
 recipeinstructions:
-- "Preheat your oven to 350°F and spray a 9x5" loaf pan with olive oil spray."
-- "In a big mixing bowl mix wet ingredients: sugar, milk, oil, honey, egg & mashed banana."
+- "Preheat your oven to 350°F and spray a 9x5&#34; loaf pan with olive oil spray."
+- "In a big mixing bowl mix wet ingredients: sugar, milk, oil, honey, egg &amp; mashed banana."
 - "Sift in dry ingredients:the flour, cocoa powder, baking powder, baking soda, and salt and gently incorporate with the wet. Stir in the chocolate chips."
 - "Pour batter into your prepared loaf pan, top with extra chocolate chips."
 - "Bake at 350°F for 45-55 minutes or until a toothpick inserted into the loaf comes out clean. (If bread starts to brown too much on the top, cover with foil and continue to bake until cooked through)."
@@ -85,8 +85,8 @@ Lovely and sweet, yet still separate and distinct. After a while both want somet
 
 ##### Instructions to make Heathy double chocolate banana bread:
 
-1. Preheat your oven to 350°F and spray a 9x5" loaf pan with olive oil spray.
-1. In a big mixing bowl mix wet ingredients: sugar, milk, oil, honey, egg & mashed banana.
+1. Preheat your oven to 350°F and spray a 9x5&#34; loaf pan with olive oil spray.
+1. In a big mixing bowl mix wet ingredients: sugar, milk, oil, honey, egg &amp; mashed banana.
 1. Sift in dry ingredients:the flour, cocoa powder, baking powder, baking soda, and salt and gently incorporate with the wet. Stir in the chocolate chips.
 1. Pour batter into your prepared loaf pan, top with extra chocolate chips.
 1. Bake at 350°F for 45-55 minutes or until a toothpick inserted into the loaf comes out clean. (If bread starts to brown too much on the top, cover with foil and continue to bake until cooked through).
@@ -94,6 +94,6 @@ Lovely and sweet, yet still separate and distinct. After a while both want somet
 1. Slice into thick slices and serve.
 
 
-Double Chocolate Banana Bread is the chocolate lovers version of the ultra moist banana bread. Chocolate chips and cocoa powder are key players When you add chocolate and cocoa powder to the best banana bread, you get the best chocolatey banana bread! It satisfies your sweet tooth like a. A double dose of chocolate, peanut butter and banana…what's there not to like? Deliciously moist and decadent, but…it has no refined flour Two ingredients go into this bread to make it extra moist: Sour cream and coconut oil. 
+Double Chocolate Banana Bread is the chocolate lovers version of the ultra moist banana bread. Chocolate chips and cocoa powder are key players When you add chocolate and cocoa powder to the best banana bread, you get the best chocolatey banana bread! It satisfies your sweet tooth like a. A double dose of chocolate, peanut butter and banana…what&#39;s there not to like? Deliciously moist and decadent, but…it has no refined flour Two ingredients go into this bread to make it extra moist: Sour cream and coconut oil. 
 
 So that's going to wrap this up with this special food heathy double chocolate banana bread recipe. Thanks so much for your time. I'm sure that you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

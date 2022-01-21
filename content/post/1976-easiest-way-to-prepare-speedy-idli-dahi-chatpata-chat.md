@@ -28,7 +28,7 @@ recipeinstructions:
 - "Put into oil do deep fry until it gets golden colour."
 - "Take all fried idlis,then take a serving plate pour hung curd(beat) over fried idli pieces"
 - "Then sprinkle salt,chilli powder,cumin powder,chat masala,green chutney"
-- "Then add onion,sev,pour curd and pour tamarind chutney and decorate pomegranate seeds,coriander leaves and it's ready to serve."
+- "Then add onion,sev,pour curd and pour tamarind chutney and decorate pomegranate seeds,coriander leaves and it&#39;s ready to serve."
 categories:
 - Recipe
 tags:
@@ -87,9 +87,9 @@ The bread slices are cut into circular shapes and stuffed with potatoes and spic
 1. Put into oil do deep fry until it gets golden colour.
 1. Take all fried idlis,then take a serving plate pour hung curd(beat) over fried idli pieces
 1. Then sprinkle salt,chilli powder,cumin powder,chat masala,green chutney
-1. Then add onion,sev,pour curd and pour tamarind chutney and decorate pomegranate seeds,coriander leaves and it's ready to serve.
+1. Then add onion,sev,pour curd and pour tamarind chutney and decorate pomegranate seeds,coriander leaves and it&#39;s ready to serve.
 
 
-Dahi Idlis Chat - Steamed idlis topped with yogurt, The original chaat is a mixture of potato pieces, crisp fried dahi idli, or dahi bhalla, gram or chickpeas and tangy-salty spices, with sour Indian chili. Dahi Idlis chat ingredients are mini idlis, curd, chat masala, pepper powder, Salt, Mustard seeds. If you love Idlis & Chaat then this recipe is a must try. Soft spongy Idlis dunked in yogurt & chaat chutneys, refreshing and healthy chaat with a south Indian touch of idlis & Idli Milagai Podi. This Dahi Idli Chaat is one of the easiest chaat recipe and can be prepared in no time if you chaat. 
+Dahi Idlis Chat - Steamed idlis topped with yogurt, The original chaat is a mixture of potato pieces, crisp fried dahi idli, or dahi bhalla, gram or chickpeas and tangy-salty spices, with sour Indian chili. Dahi Idlis chat ingredients are mini idlis, curd, chat masala, pepper powder, Salt, Mustard seeds. If you love Idlis &amp; Chaat then this recipe is a must try. Soft spongy Idlis dunked in yogurt &amp; chaat chutneys, refreshing and healthy chaat with a south Indian touch of idlis &amp; Idli Milagai Podi. This Dahi Idli Chaat is one of the easiest chaat recipe and can be prepared in no time if you chaat. 
 
 So that's going to wrap this up for this special food idli dahi chatpata chat recipe. Thanks so much for your time. I am sure that you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

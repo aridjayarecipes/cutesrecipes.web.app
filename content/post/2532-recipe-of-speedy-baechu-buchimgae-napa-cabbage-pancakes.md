@@ -58,7 +58,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 
 ##### The ingredients needed to make Baechu Buchimgae (Napa Cabbage Pancakes):
 
-1. Get 2/3 cup Crispy & Savory Golden Pancake Mix
+1. Get 2/3 cup Crispy &amp; Savory Golden Pancake Mix
 1. Make ready 2/3 and 1 TBS of water
 1. Make ready  Napa cabbage
 1. Take  Oil to pan fry

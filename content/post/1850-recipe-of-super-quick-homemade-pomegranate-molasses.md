@@ -14,13 +14,13 @@ recipeingredient:
 - "1/2 cup cane sugar"
 - "1 tablespoon lemon juice  approx 1 small "
 recipeinstructions:
-- "Grab a lemon and roll it against your palm and hard surface(It will maximize juice output). Cut in half and squeeze into a bowl by any means necessary. Make sure it's fresh 100% juice. Put aside for the moment."
+- "Grab a lemon and roll it against your palm and hard surface(It will maximize juice output). Cut in half and squeeze into a bowl by any means necessary. Make sure it&#39;s fresh 100% juice. Put aside for the moment."
 - "In a 4 quart saucepan set over medium add the Pomegranate juice. Warm it for 3 - 5 mins."
-- "Once it's warmed up add the sugar and stir until the sugar dissolves completely."
+- "Once it&#39;s warmed up add the sugar and stir until the sugar dissolves completely."
 - "Now that the juice and sugar are one, toss in the lemon juice and stir it in well."
 - "Turn the heat to medium-low and walk away from the pan(not too far)."
-- "Let the mixture simmer and reduce for approximately 70 minutes or until its volume has reduced to a cup or cup and a quarter(depending how syrupy you want your grenadine). DO NOT STIR!!While it's reducing. For me about 70 mins is plenty of time."
-- "After it's reduced to the consistency of your liking. Take the saucepan off the heat and let cool in the pan 20-30 minutes."
+- "Let the mixture simmer and reduce for approximately 70 minutes or until its volume has reduced to a cup or cup and a quarter(depending how syrupy you want your grenadine). DO NOT STIR!!While it&#39;s reducing. For me about 70 mins is plenty of time."
+- "After it&#39;s reduced to the consistency of your liking. Take the saucepan off the heat and let cool in the pan 20-30 minutes."
 - "Transfer to a clean, sanitized glass jar and allow to cool completely before covering and storing it in the fridge."
 - "Enjoy for up to 6 months if well stored. I prefer Mason Jars."
 - "I should mention I made this to add to my pomegranate mixture for homemade Grenadine. I use it at the bar I work at. Everyone loves it!"
@@ -67,13 +67,13 @@ To get started with this particular recipe, we must first prepare a few ingredie
 
 ##### Steps to make Pomegranate Molasses:
 
-1. Grab a lemon and roll it against your palm and hard surface(It will maximize juice output). Cut in half and squeeze into a bowl by any means necessary. Make sure it's fresh 100% juice. Put aside for the moment.
+1. Grab a lemon and roll it against your palm and hard surface(It will maximize juice output). Cut in half and squeeze into a bowl by any means necessary. Make sure it&#39;s fresh 100% juice. Put aside for the moment.
 1. In a 4 quart saucepan set over medium add the Pomegranate juice. Warm it for 3 - 5 mins.
-1. Once it's warmed up add the sugar and stir until the sugar dissolves completely.
+1. Once it&#39;s warmed up add the sugar and stir until the sugar dissolves completely.
 1. Now that the juice and sugar are one, toss in the lemon juice and stir it in well.
 1. Turn the heat to medium-low and walk away from the pan(not too far).
-1. Let the mixture simmer and reduce for approximately 70 minutes or until its volume has reduced to a cup or cup and a quarter(depending how syrupy you want your grenadine). DO NOT STIR!!While it's reducing. For me about 70 mins is plenty of time.
-1. After it's reduced to the consistency of your liking. Take the saucepan off the heat and let cool in the pan 20-30 minutes.
+1. Let the mixture simmer and reduce for approximately 70 minutes or until its volume has reduced to a cup or cup and a quarter(depending how syrupy you want your grenadine). DO NOT STIR!!While it&#39;s reducing. For me about 70 mins is plenty of time.
+1. After it&#39;s reduced to the consistency of your liking. Take the saucepan off the heat and let cool in the pan 20-30 minutes.
 1. Transfer to a clean, sanitized glass jar and allow to cool completely before covering and storing it in the fridge.
 1. Enjoy for up to 6 months if well stored. I prefer Mason Jars.
 1. I should mention I made this to add to my pomegranate mixture for homemade Grenadine. I use it at the bar I work at. Everyone loves it!

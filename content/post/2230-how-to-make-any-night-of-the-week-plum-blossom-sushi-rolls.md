@@ -20,11 +20,11 @@ recipeingredient:
 recipeinstructions:
 - "Cut one sheet of nori into 5 even strips. Cut another into four even strips, and set aside one of those 1/4 sheet strips together with the first 5 strips. Prepare a small bowl of water for wetting your fingers. Set aside these items together with the ingredients marked with ☆. Drain the tuna very well, and mix with the mayonnaise."
 - "Spread a layer of the cooked white rice evenly over the sheet of uncut nori, and mix the remaining rice with the ingredients marked with ☆."
-- "Using a sushi rolling mat, fill the 5 nori strips with the pink rice, and roll to make 5 rolls. (Don't roll into completely closed tubes. Leave them open a little as shown.)"
+- "Using a sushi rolling mat, fill the 5 nori strips with the pink rice, and roll to make 5 rolls. (Don&#39;t roll into completely closed tubes. Leave them open a little as shown.)"
 - "Spread the tuna mixture onto the 1/4-sheet strip of nori and roll it up tightly."
 - "Set 2 of the rolls of pink rice in the center of the sheet of nori spread with white rice, and then set the tuna roll on top."
 - "Place the remaining 3 pink rice rolls so that the tuna roll is in the center and the pink rice rolls form flower petals around it."
-- "Wrap up the whole roll in the sushi rolling mat, pressing together firmly. Use a wet knife to cut the roll into slices, and you're done."
+- "Wrap up the whole roll in the sushi rolling mat, pressing together firmly. Use a wet knife to cut the roll into slices, and you&#39;re done."
 - "There will be a little bit of the pink sushi rice left over, so you can press that into a moistened cookie cutter and then push it out again to form cute shapes."
 categories:
 - Recipe
@@ -76,11 +76,11 @@ To begin with this recipe, we must first prepare a few components. You can have 
 
 1. Cut one sheet of nori into 5 even strips. Cut another into four even strips, and set aside one of those 1/4 sheet strips together with the first 5 strips. Prepare a small bowl of water for wetting your fingers. Set aside these items together with the ingredients marked with ☆. Drain the tuna very well, and mix with the mayonnaise.
 1. Spread a layer of the cooked white rice evenly over the sheet of uncut nori, and mix the remaining rice with the ingredients marked with ☆.
-1. Using a sushi rolling mat, fill the 5 nori strips with the pink rice, and roll to make 5 rolls. (Don't roll into completely closed tubes. Leave them open a little as shown.)
+1. Using a sushi rolling mat, fill the 5 nori strips with the pink rice, and roll to make 5 rolls. (Don&#39;t roll into completely closed tubes. Leave them open a little as shown.)
 1. Spread the tuna mixture onto the 1/4-sheet strip of nori and roll it up tightly.
 1. Set 2 of the rolls of pink rice in the center of the sheet of nori spread with white rice, and then set the tuna roll on top.
 1. Place the remaining 3 pink rice rolls so that the tuna roll is in the center and the pink rice rolls form flower petals around it.
-1. Wrap up the whole roll in the sushi rolling mat, pressing together firmly. Use a wet knife to cut the roll into slices, and you're done.
+1. Wrap up the whole roll in the sushi rolling mat, pressing together firmly. Use a wet knife to cut the roll into slices, and you&#39;re done.
 1. There will be a little bit of the pink sushi rice left over, so you can press that into a moistened cookie cutter and then push it out again to form cute shapes.
 
 

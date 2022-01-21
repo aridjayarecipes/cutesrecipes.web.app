@@ -19,7 +19,7 @@ recipeingredient:
 recipeinstructions:
 - "Fillet fish as best as you can, you can get 2 fillets per side"
 - "Make sure you skin the fish afterwards"
-- "Wash thoroughly, let drain and season with salt & pepper"
+- "Wash thoroughly, let drain and season with salt &amp; pepper"
 - "Mix Italian breadcrumbs with panko"
 - "Place fillets on large platter, beat eggs and pour on top of fillets and coat thoroughly. One by one coat with breadcrumb mix and fry on med high for 5 min on each side. Enjoy with steamed mixed vegetables"
 - "It is one of the most delicious fish I have ever eaten in my life"
@@ -71,7 +71,7 @@ To get started with this recipe, we must prepare a few ingredients. You can cook
 
 1. Fillet fish as best as you can, you can get 2 fillets per side
 1. Make sure you skin the fish afterwards
-1. Wash thoroughly, let drain and season with salt & pepper
+1. Wash thoroughly, let drain and season with salt &amp; pepper
 1. Mix Italian breadcrumbs with panko
 1. Place fillets on large platter, beat eggs and pour on top of fillets and coat thoroughly. One by one coat with breadcrumb mix and fry on med high for 5 min on each side. Enjoy with steamed mixed vegetables
 1. It is one of the most delicious fish I have ever eaten in my life

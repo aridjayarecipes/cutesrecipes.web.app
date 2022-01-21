@@ -76,6 +76,6 @@ Of course, I converted the recipe to be cooked in the Instant Pot - WOOT WOOT - 
 1. Then add in pumpkin,red lentil and abit if water.mixed well then leave it for 5m u til pumpkin and lentil soft n cook. Then add in spinach. And salt.done... it is delicious. And yummy perfect for your pasta sauce too.
 
 
-Pumpkin, Chickpea, and Red Lentil Stew. I was thinking along the lines of a thick soup / stew. We're not vegetarians, but you could use this as a main meal, or as a side dish with something else. Moroccan Pumpkin & Chickpea Stew is filled with warm spices and heart healthy produce for a Spinach - I used baby spinach, can also sub with baby kale. Vegetable paste - Instead of buying How To Make Moroccan Pumpkin & Chickpea Stew. 
+Pumpkin, Chickpea, and Red Lentil Stew. I was thinking along the lines of a thick soup / stew. We&#39;re not vegetarians, but you could use this as a main meal, or as a side dish with something else. Moroccan Pumpkin &amp; Chickpea Stew is filled with warm spices and heart healthy produce for a Spinach - I used baby spinach, can also sub with baby kale. Vegetable paste - Instead of buying How To Make Moroccan Pumpkin &amp; Chickpea Stew. 
 
 So that's going to wrap this up for this exceptional food pumpkin red lentil stew - baby good recipe. Thanks so much for reading. I am confident that you will make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

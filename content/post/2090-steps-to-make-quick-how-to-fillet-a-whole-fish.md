@@ -12,7 +12,7 @@ reviewcount: 8687
 recipeingredient:
 - "1 Fish I have a mackerel in the picture"
 recipeinstructions:
-- "Remove the scales. I have a mackerel in the picture so I don't really need to, but I listed the step here."
+- "Remove the scales. I have a mackerel in the picture so I don&#39;t really need to, but I listed the step here."
 - "Make an incision into the gills to make it easier to remove them."
 - "Slit open the belly."
 - "Remove the gills and the guts."
@@ -74,7 +74,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 
 ##### Steps to make How to Fillet a Whole Fish:
 
-1. Remove the scales. I have a mackerel in the picture so I don't really need to, but I listed the step here.
+1. Remove the scales. I have a mackerel in the picture so I don&#39;t really need to, but I listed the step here.
 1. Make an incision into the gills to make it easier to remove them.
 1. Slit open the belly.
 1. Remove the gills and the guts.

@@ -16,7 +16,7 @@ recipeingredient:
 - "2 tablespoons honey"
 - "1/4 teaspoon vanilla extract"
 recipeinstructions:
-- "Blend together your strawberry's and milk."
+- "Blend together your strawberry&#39;s and milk."
 - "Cut up banana into slices. Then, add into blender. And blend."
 - "Add in the honey and vanilla extract. Then blend"
 - "Your done!"
@@ -66,7 +66,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 
 ##### Steps to make Strawberry and Banana Smoothie:
 
-1. Blend together your strawberry's and milk.
+1. Blend together your strawberry&#39;s and milk.
 1. Cut up banana into slices. Then, add into blender. And blend.
 1. Add in the honey and vanilla extract. Then blend
 1. Your done!

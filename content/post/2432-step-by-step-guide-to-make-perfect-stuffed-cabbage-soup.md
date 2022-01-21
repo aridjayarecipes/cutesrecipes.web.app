@@ -26,8 +26,8 @@ recipeingredient:
 - "3 tbs brown sugar"
 - " Optionalparsley"
 recipeinstructions:
-- "Pour olive oil into pot over medium high heat. Add ground beef, garlic, salt, pepper, & Italian seasoning. Break up meat with spatula & let cook 5 minutes. Then add onion & cook 2-3 minutes."
-- "Note: you may want to switch to a bigger pot* Add your remaining ingredients to the pot, stir & bring to simmer. Add salt, pepper and more minced garlic if desired. Turn heat down to medium-low and let cook with lid on for 25-30 minutes. Stir occasionally, and reduce heat to low for the last 10 minutes. You can add parsley or parmesan cheese for garnish. Enjoy!"
+- "Pour olive oil into pot over medium high heat. Add ground beef, garlic, salt, pepper, &amp; Italian seasoning. Break up meat with spatula &amp; let cook 5 minutes. Then add onion &amp; cook 2-3 minutes."
+- "Note: you may want to switch to a bigger pot* Add your remaining ingredients to the pot, stir &amp; bring to simmer. Add salt, pepper and more minced garlic if desired. Turn heat down to medium-low and let cook with lid on for 25-30 minutes. Stir occasionally, and reduce heat to low for the last 10 minutes. You can add parsley or parmesan cheese for garnish. Enjoy!"
 - "."
 categories:
 - Recipe
@@ -64,7 +64,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 
 1. Prepare 2 tbs olive oil
 1. Get to taste Salt, pepper, Italian seasoning
-1. Make ready 1 tsp garlic & herb seasoning
+1. Make ready 1 tsp garlic &amp; herb seasoning
 1. Make ready 1.25 pounds ground beef (90/10)
 1. Get 1 yellow onion diced
 1. Take 2 tbs minced garlic
@@ -85,8 +85,8 @@ To begin with this particular recipe, we must prepare a few components. You can 
 
 ##### Steps to make Stuffed Cabbage Soup:
 
-1. Pour olive oil into pot over medium high heat. Add ground beef, garlic, salt, pepper, & Italian seasoning. Break up meat with spatula & let cook 5 minutes. Then add onion & cook 2-3 minutes.
-1. Note: you may want to switch to a bigger pot* Add your remaining ingredients to the pot, stir & bring to simmer. Add salt, pepper and more minced garlic if desired. Turn heat down to medium-low and let cook with lid on for 25-30 minutes. Stir occasionally, and reduce heat to low for the last 10 minutes. You can add parsley or parmesan cheese for garnish. Enjoy!
+1. Pour olive oil into pot over medium high heat. Add ground beef, garlic, salt, pepper, &amp; Italian seasoning. Break up meat with spatula &amp; let cook 5 minutes. Then add onion &amp; cook 2-3 minutes.
+1. Note: you may want to switch to a bigger pot* Add your remaining ingredients to the pot, stir &amp; bring to simmer. Add salt, pepper and more minced garlic if desired. Turn heat down to medium-low and let cook with lid on for 25-30 minutes. Stir occasionally, and reduce heat to low for the last 10 minutes. You can add parsley or parmesan cheese for garnish. Enjoy!
 1. .
 
 

@@ -26,7 +26,7 @@ recipeingredient:
 recipeinstructions:
 - "Clean your sprouts, remove bad outer leaves, cut excessive stems. Dry them off."
 - "I used the cutter/slicing blade in my food processor, you can cut them with a knife also."
-- "For the food processor, use a feed tube. Put a small amount of pressure on the sprouts, then hold pulse until the feed tube is empty. Repeat as needed until all are done. This gives a better cut than just dropping in while it's running."
+- "For the food processor, use a feed tube. Put a small amount of pressure on the sprouts, then hold pulse until the feed tube is empty. Repeat as needed until all are done. This gives a better cut than just dropping in while it&#39;s running."
 - "In a bowl large enough to hold and mix all the cut sprouts, add the mustard, lemon juice and salt."
 - "Dice onion/shallot add it to the bowl. Whisk it."
 - "Add 1 Tbl oil, whisk it in, repeat 1 Tlb at a time whisking each in until all 6 have been incorporated."
@@ -92,7 +92,7 @@ To begin with this recipe, we have to prepare a few components. You can have bru
 
 1. Clean your sprouts, remove bad outer leaves, cut excessive stems. Dry them off.
 1. I used the cutter/slicing blade in my food processor, you can cut them with a knife also.
-1. For the food processor, use a feed tube. Put a small amount of pressure on the sprouts, then hold pulse until the feed tube is empty. Repeat as needed until all are done. This gives a better cut than just dropping in while it's running.
+1. For the food processor, use a feed tube. Put a small amount of pressure on the sprouts, then hold pulse until the feed tube is empty. Repeat as needed until all are done. This gives a better cut than just dropping in while it&#39;s running.
 1. In a bowl large enough to hold and mix all the cut sprouts, add the mustard, lemon juice and salt.
 1. Dice onion/shallot add it to the bowl. Whisk it.
 1. Add 1 Tbl oil, whisk it in, repeat 1 Tlb at a time whisking each in until all 6 have been incorporated.

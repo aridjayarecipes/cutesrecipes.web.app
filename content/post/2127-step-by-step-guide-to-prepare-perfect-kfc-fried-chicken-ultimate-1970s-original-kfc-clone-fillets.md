@@ -56,7 +56,7 @@ recipeinstructions:
 - "turn off heat, move cooker off heat, disperse pressure via valve but be very carefull of hot steam. remove lid and place chicken on rack"
 - "allow chicken to drain for at least 5 minutes."
 - "if you got the weights and timing correct, the chicken will be a golden brown colour. too far and it will burn and go dark brown ala many of these other clone recipes"
-- "you will now have kfc that you may remember eating as a child. their recipe has 'evolved' now to include cheaper ingredients and so tastes different to how it used to. btw msg can be omitted but in small quantities it can enhance the taste of the spices to great effect."
+- "you will now have kfc that you may remember eating as a child. their recipe has &#39;evolved&#39; now to include cheaper ingredients and so tastes different to how it used to. btw msg can be omitted but in small quantities it can enhance the taste of the spices to great effect."
 categories:
 - Recipe
 tags:
@@ -143,7 +143,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. turn off heat, move cooker off heat, disperse pressure via valve but be very carefull of hot steam. remove lid and place chicken on rack
 1. allow chicken to drain for at least 5 minutes.
 1. if you got the weights and timing correct, the chicken will be a golden brown colour. too far and it will burn and go dark brown ala many of these other clone recipes
-1. you will now have kfc that you may remember eating as a child. their recipe has 'evolved' now to include cheaper ingredients and so tastes different to how it used to. btw msg can be omitted but in small quantities it can enhance the taste of the spices to great effect.
+1. you will now have kfc that you may remember eating as a child. their recipe has &#39;evolved&#39; now to include cheaper ingredients and so tastes different to how it used to. btw msg can be omitted but in small quantities it can enhance the taste of the spices to great effect.
 
 
 

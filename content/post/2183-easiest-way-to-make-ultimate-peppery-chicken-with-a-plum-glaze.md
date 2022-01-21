@@ -58,7 +58,7 @@ recipecategory: Dinner
 
 Hey everyone, it's me again, Dan, welcome to my recipe site. Today, I'm gonna show you how to make a special dish, peppery chicken with a plum glaze. It is one of my favorites. This time, I am going to make it a little bit tasty. This is gonna smell and look delicious.
 
-Chicken with Plum Glaze Fit&Healthy Mom. See recipes for Plum Torte (Coffeecake) too. Peppery chicken with a plum glaze. Plum Chicken Recipes containing ingredients almond, almonds, apple cider vinegar, apricot preserves, bacon, balsamic vinegar, basil, black olives, boneless chic.
+Chicken with Plum Glaze Fit&amp;Healthy Mom. See recipes for Plum Torte (Coffeecake) too. Peppery chicken with a plum glaze. Plum Chicken Recipes containing ingredients almond, almonds, apple cider vinegar, apricot preserves, bacon, balsamic vinegar, basil, black olives, boneless chic.
 
 Peppery chicken with a plum glaze is one of the most well liked of recent trending meals in the world. It is enjoyed by millions every day. It's simple, it's quick, it tastes delicious. They are fine and they look fantastic. Peppery chicken with a plum glaze is something that I have loved my whole life.
 
@@ -81,7 +81,7 @@ To begin with this recipe, we must prepare a few components. You can have pepper
 1. Prepare 1/2 cup butter
 
 
-Season the chicken pieces with salt and pepper to taste and place Recipe Note. A simple Asian dish with a savory-sweet bite. If you don't have plum jam, you can. Season the chicken pieces with salt and pepper to taste, and place skin-side-up onto the prepared baking tray. 
+Season the chicken pieces with salt and pepper to taste and place Recipe Note. A simple Asian dish with a savory-sweet bite. If you don&#39;t have plum jam, you can. Season the chicken pieces with salt and pepper to taste, and place skin-side-up onto the prepared baking tray. 
 
 <!--inarticleads2-->
 
@@ -104,6 +104,6 @@ Season the chicken pieces with salt and pepper to taste and place Recipe Note. A
 1. 
 
 
-If you don't have plum jam, you can. Season the chicken pieces with salt and pepper to taste, and place skin-side-up onto the prepared baking tray. I would suggest marinating the chicken in the plum sauce mixture instead of merely brushing it on top, to really get the flavour into the meat. This chicken dish gets its flavor from first rubbing it with a spice mixture, and then basting it with a juice and plum mixture. Black Pepper Chicken With Gravy Black pepper chicken is a delicious and easy recipe to make at home, with only a few ingredients: black pepper, chicken. 
+If you don&#39;t have plum jam, you can. Season the chicken pieces with salt and pepper to taste, and place skin-side-up onto the prepared baking tray. I would suggest marinating the chicken in the plum sauce mixture instead of merely brushing it on top, to really get the flavour into the meat. This chicken dish gets its flavor from first rubbing it with a spice mixture, and then basting it with a juice and plum mixture. Black Pepper Chicken With Gravy Black pepper chicken is a delicious and easy recipe to make at home, with only a few ingredients: black pepper, chicken. 
 
 So that is going to wrap this up for this special food peppery chicken with a plum glaze recipe. Thanks so much for reading. I'm confident that you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

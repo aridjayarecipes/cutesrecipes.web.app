@@ -24,7 +24,7 @@ recipeingredient:
 - "1/4 cup orange juice"
 - "2/3 cup semisweet chocolate chips"
 recipeinstructions:
-- "Adjust your oven rack to the lower third position and preheat the oven to 350°F. Grease a 9x5" loaf pan and set aside. In a large bowl, whisk together the flour, granulated sugar, brown sugar, baking soda, cinnamon, nutmeg, cloves and salt. Set this aside."
+- "Adjust your oven rack to the lower third position and preheat the oven to 350°F. Grease a 9x5&#34; loaf pan and set aside. In a large bowl, whisk together the flour, granulated sugar, brown sugar, baking soda, cinnamon, nutmeg, cloves and salt. Set this aside."
 - "In a seperate, medium bowl, whisk together the eggs, pumpkin, vegetable oil and juice. Pour the wet ingredients into the dry and use a rubber spatula to mix them together until just combined. Then fold in the chocolate chips."
 - "Bake for 60-65 minutes, or until a toothpick inserted into the center comes out clean. Check the bread about halfway through bake time and if its browning too quickly, then loosely cover the bread pan with foil to prevent the top from getting too brown."
 - "Allow the bread to cool in the pan on a wire rack. Once completely cooled to room temperature, remove the loaf and slice. Store the bread in a tightly sealed container."
@@ -82,7 +82,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 
 ##### Steps to make Pumpkin Chocolate Chip Bread:
 
-1. Adjust your oven rack to the lower third position and preheat the oven to 350°F. Grease a 9x5" loaf pan and set aside. In a large bowl, whisk together the flour, granulated sugar, brown sugar, baking soda, cinnamon, nutmeg, cloves and salt. Set this aside.
+1. Adjust your oven rack to the lower third position and preheat the oven to 350°F. Grease a 9x5&#34; loaf pan and set aside. In a large bowl, whisk together the flour, granulated sugar, brown sugar, baking soda, cinnamon, nutmeg, cloves and salt. Set this aside.
 1. In a seperate, medium bowl, whisk together the eggs, pumpkin, vegetable oil and juice. Pour the wet ingredients into the dry and use a rubber spatula to mix them together until just combined. Then fold in the chocolate chips.
 1. Bake for 60-65 minutes, or until a toothpick inserted into the center comes out clean. Check the bread about halfway through bake time and if its browning too quickly, then loosely cover the bread pan with foil to prevent the top from getting too brown.
 1. Allow the bread to cool in the pan on a wire rack. Once completely cooled to room temperature, remove the loaf and slice. Store the bread in a tightly sealed container.

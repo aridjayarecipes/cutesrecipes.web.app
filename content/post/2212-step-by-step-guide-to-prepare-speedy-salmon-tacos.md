@@ -55,7 +55,7 @@ Hello everybody, it is me again, Dan, welcome to our recipe page. Today, I will 
 
 Salmon tacos is one of the most popular of recent trending meals in the world. It is enjoyed by millions daily. It is simple, it's fast, it tastes yummy. They're fine and they look fantastic. Salmon tacos is something that I have loved my whole life.
 
-Salmon Tacos from Delish.com only get better with fresh pineapple avocado salsa. The first thing you might think of when you hear the words "fish tacos" are probably Baja-style tacos filled with. Another veg packed recipe from Me & Tesco for you guys! This is a paid ad by Tesco. (AVAILABLE IN UK ONLY)This aromatic cajun-spiced salmon taco is one to.
+Salmon Tacos from Delish.com only get better with fresh pineapple avocado salsa. The first thing you might think of when you hear the words &#34;fish tacos&#34; are probably Baja-style tacos filled with. Another veg packed recipe from Me &amp; Tesco for you guys! This is a paid ad by Tesco. (AVAILABLE IN UK ONLY)This aromatic cajun-spiced salmon taco is one to.
 
 
 To begin with this recipe, we must first prepare a few ingredients. You can have salmon tacos using 16 ingredients and 5 steps. Here is how you cook that.
@@ -82,7 +82,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can have
 1. Take 1 pkg small flour tortillas
 
 
-These salmon tacos are pretty tasty as they are but there are a few easy additions you can make to suit To assemble tacos, break salmon into small pieces and layer over the center of tortillas, add. Cajun spice, mango, sweet cherry tomatoes & lime. The fresh rainbow salsa paired with crispy salmon skin is a total joy. With juicy tomatoes, soft mango, creamy avocado, and. 
+These salmon tacos are pretty tasty as they are but there are a few easy additions you can make to suit To assemble tacos, break salmon into small pieces and layer over the center of tortillas, add. Cajun spice, mango, sweet cherry tomatoes &amp; lime. The fresh rainbow salsa paired with crispy salmon skin is a total joy. With juicy tomatoes, soft mango, creamy avocado, and. 
 
 <!--inarticleads2-->
 

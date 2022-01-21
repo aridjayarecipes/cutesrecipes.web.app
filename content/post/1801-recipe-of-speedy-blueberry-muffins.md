@@ -21,7 +21,7 @@ recipeingredient:
 - "1 tsp vanilla extract"
 - "1 1/2 cups blueberries"
 recipeinstructions:
-- "Mix batter well, but don't over mix. Add blueberries. Pour into muffin papers in muffin tins."
+- "Mix batter well, but don&#39;t over mix. Add blueberries. Pour into muffin papers in muffin tins."
 - "Bake at 425 for 5 minutes then at 375 for 25-30 minutes."
 categories:
 - Recipe
@@ -73,7 +73,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 
 ##### Instructions to make Blueberry Muffins:
 
-1. Mix batter well, but don't over mix. Add blueberries. Pour into muffin papers in muffin tins.
+1. Mix batter well, but don&#39;t over mix. Add blueberries. Pour into muffin papers in muffin tins.
 1. Bake at 425 for 5 minutes then at 375 for 25-30 minutes.
 
 

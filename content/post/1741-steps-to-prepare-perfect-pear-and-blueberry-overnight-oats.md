@@ -18,7 +18,7 @@ recipeingredient:
 - "1/2 Cup chopped pear"
 - "1 tablespoon sweetener of prefrence"
 recipeinstructions:
-- "In a Mason jar, add oats, seed of choice, milk, vanilla, blueberries, pears and preferred sweetener. (I honestly think it doesn't need it, but go for it if you've got that sweet tooth 😉)"
+- "In a Mason jar, add oats, seed of choice, milk, vanilla, blueberries, pears and preferred sweetener. (I honestly think it doesn&#39;t need it, but go for it if you&#39;ve got that sweet tooth 😉)"
 - "If preferred, mix together. Keep refrigerated till morning. Enjoy!"
 categories:
 - Recipe
@@ -68,7 +68,7 @@ To begin with this recipe, we must first prepare a few components. You can have 
 
 ##### Instructions to make Pear and Blueberry Overnight Oats:
 
-1. In a Mason jar, add oats, seed of choice, milk, vanilla, blueberries, pears and preferred sweetener. (I honestly think it doesn't need it, but go for it if you've got that sweet tooth 😉)
+1. In a Mason jar, add oats, seed of choice, milk, vanilla, blueberries, pears and preferred sweetener. (I honestly think it doesn&#39;t need it, but go for it if you&#39;ve got that sweet tooth 😉)
 1. If preferred, mix together. Keep refrigerated till morning. Enjoy!
 
 

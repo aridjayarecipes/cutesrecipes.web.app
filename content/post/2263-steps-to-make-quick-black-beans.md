@@ -26,7 +26,7 @@ recipeingredient:
 recipeinstructions:
 - "Soak the black beans overnight. Drain and look over the beans remove any foriegn objects. Add new water to beans and put on the heat."
 - "Dice the onion add the summer savory and pour into the beans along with the butter."
-- "Dice the hog jawls add to the beans. When it has simmered for 1 hour add the rest of the ingredients. Simmer for 45 minutes more. Now it's ready to serve. I hope you enjoy!!!!"
+- "Dice the hog jawls add to the beans. When it has simmered for 1 hour add the rest of the ingredients. Simmer for 45 minutes more. Now it&#39;s ready to serve. I hope you enjoy!!!!"
 categories:
 - Recipe
 tags:
@@ -82,7 +82,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 1. Soak the black beans overnight. Drain and look over the beans remove any foriegn objects. Add new water to beans and put on the heat.
 1. Dice the onion add the summer savory and pour into the beans along with the butter.
-1. Dice the hog jawls add to the beans. When it has simmered for 1 hour add the rest of the ingredients. Simmer for 45 minutes more. Now it's ready to serve. I hope you enjoy!!!!
+1. Dice the hog jawls add to the beans. When it has simmered for 1 hour add the rest of the ingredients. Simmer for 45 minutes more. Now it&#39;s ready to serve. I hope you enjoy!!!!
 
 
 

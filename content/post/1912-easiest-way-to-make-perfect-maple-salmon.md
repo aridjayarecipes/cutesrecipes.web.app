@@ -19,8 +19,8 @@ recipeingredient:
 - "2 tbs coarse black pepper"
 - "1 1/2 tbs cracked pink peppercorns"
 recipeinstructions:
-- "Mix dry brine ingredients together & then cover the salmon in the brown sugar mixture for 1-4 hours in the fridge."
-- "Pull the salmon out of the dry brine mix & rinse them in cold water until completely clean. Once clean, dab the fish dry with paper towels."
+- "Mix dry brine ingredients together &amp; then cover the salmon in the brown sugar mixture for 1-4 hours in the fridge."
+- "Pull the salmon out of the dry brine mix &amp; rinse them in cold water until completely clean. Once clean, dab the fish dry with paper towels."
 - "Start Grilling at around 350-400 degrees making sure to flip the salmon if it’s skinless. If it’s skin on leave skin side down the whole time."
 - "5 minutes before the salmon is finished glaze it with a coat of maple syrup."
 categories:
@@ -71,8 +71,8 @@ To get started with this particular recipe, we have to first prepare a few compo
 
 ##### Instructions to make Maple Salmon:
 
-1. Mix dry brine ingredients together & then cover the salmon in the brown sugar mixture for 1-4 hours in the fridge.
-1. Pull the salmon out of the dry brine mix & rinse them in cold water until completely clean. Once clean, dab the fish dry with paper towels.
+1. Mix dry brine ingredients together &amp; then cover the salmon in the brown sugar mixture for 1-4 hours in the fridge.
+1. Pull the salmon out of the dry brine mix &amp; rinse them in cold water until completely clean. Once clean, dab the fish dry with paper towels.
 1. Start Grilling at around 350-400 degrees making sure to flip the salmon if it’s skinless. If it’s skin on leave skin side down the whole time.
 1. 5 minutes before the salmon is finished glaze it with a coat of maple syrup.
 

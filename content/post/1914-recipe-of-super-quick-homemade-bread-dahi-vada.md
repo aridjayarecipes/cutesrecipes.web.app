@@ -82,6 +82,6 @@ Bread dahi vada is a quick and delicious version of the original dal - lentil va
 1. Pour the curd over the vadas. Pour the tamarind chutney on top. Sprinkle roasted cumin powder and red chilli powder. Garnish with fresh coriander and pomegranate seeds. Serve chilled.
 
 
-Dahi vada is a type of chaat (snack) originating from the Indian subcontinent and popular throughout South Asia. It is prepared by soaking vadas (fried flour balls) in thick dahi (yogurt). Dahi vada is also known as "dahi vade" (दही वडे) in Marathi, dahi vada (दही वड़ा) in Hindi, "dahi bhalla" in Punjabi. Instant Bread Dahi Vada recipe that is Non fried, quick and easy to make. Soft, melt in mouth and rich like Shahi Dahi Vada. 
+Dahi vada is a type of chaat (snack) originating from the Indian subcontinent and popular throughout South Asia. It is prepared by soaking vadas (fried flour balls) in thick dahi (yogurt). Dahi vada is also known as &#34;dahi vade&#34; (दही वडे) in Marathi, dahi vada (दही वड़ा) in Hindi, &#34;dahi bhalla&#34; in Punjabi. Instant Bread Dahi Vada recipe that is Non fried, quick and easy to make. Soft, melt in mouth and rich like Shahi Dahi Vada. 
 
 So that's going to wrap this up with this special food bread dahi vada recipe. Thank you very much for your time. I'm sure that you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

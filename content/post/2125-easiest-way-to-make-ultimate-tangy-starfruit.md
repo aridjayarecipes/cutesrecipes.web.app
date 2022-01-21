@@ -26,10 +26,10 @@ recipeingredient:
 - "1 tbsp oil"
 - "2 cup water"
 recipeinstructions:
-- "Cut all the starfruits into thick slices. Heat oil in a pan. Splutter mustard, cumin, fennel, fenugreek, black cumin, red chilli and curry leaves. Add starfruit slices. Saute for some time till it's colour changes a little."
+- "Cut all the starfruits into thick slices. Heat oil in a pan. Splutter mustard, cumin, fennel, fenugreek, black cumin, red chilli and curry leaves. Add starfruit slices. Saute for some time till it&#39;s colour changes a little."
 - "Then add salt, turmeric powder, red chilli powder, roasted mustard-cumin-fennel powder."
 - "Then add jaggery powder and water. Boil it for sometime till the fruits become soft and the water become thick."
-- "Then it's ready to serve. Serve it with rice or chapatti."
+- "Then it&#39;s ready to serve. Serve it with rice or chapatti."
 categories:
 - Recipe
 tags:
@@ -85,10 +85,10 @@ To begin with this particular recipe, we have to first prepare a few components.
 
 ##### Steps to make Tangy Starfruit:
 
-1. Cut all the starfruits into thick slices. Heat oil in a pan. Splutter mustard, cumin, fennel, fenugreek, black cumin, red chilli and curry leaves. Add starfruit slices. Saute for some time till it's colour changes a little.
+1. Cut all the starfruits into thick slices. Heat oil in a pan. Splutter mustard, cumin, fennel, fenugreek, black cumin, red chilli and curry leaves. Add starfruit slices. Saute for some time till it&#39;s colour changes a little.
 1. Then add salt, turmeric powder, red chilli powder, roasted mustard-cumin-fennel powder.
 1. Then add jaggery powder and water. Boil it for sometime till the fruits become soft and the water become thick.
-1. Then it's ready to serve. Serve it with rice or chapatti.
+1. Then it&#39;s ready to serve. Serve it with rice or chapatti.
 
 
 

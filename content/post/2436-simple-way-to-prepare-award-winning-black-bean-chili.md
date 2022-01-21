@@ -28,7 +28,7 @@ recipeingredient:
 - "1 chopped scallions"
 - "1 sour cream for garnish"
 recipeinstructions:
-- "recipe was based on recipe from cookbook  'Inter  Courses' by martha hopkins and randall lockridge"
+- "recipe was based on recipe from cookbook  &#39;Inter  Courses&#39; by martha hopkins and randall lockridge"
 - "rinse then drain soaked beans"
 - "combine beans with water in large pot"
 - "bring to boil over medium heat"
@@ -96,7 +96,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 
 ##### Steps to make Black Bean Chili:
 
-1. recipe was based on recipe from cookbook  'Inter  Courses' by martha hopkins and randall lockridge
+1. recipe was based on recipe from cookbook  &#39;Inter  Courses&#39; by martha hopkins and randall lockridge
 1. rinse then drain soaked beans
 1. combine beans with water in large pot
 1. bring to boil over medium heat

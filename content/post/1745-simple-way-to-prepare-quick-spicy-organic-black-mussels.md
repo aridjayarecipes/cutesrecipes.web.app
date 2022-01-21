@@ -24,7 +24,7 @@ recipeingredient:
 - "1 litter seafood stock"
 recipeinstructions:
 - "Blended together chilli, shallots, garlic and tomato. Heat 2 tablespoon of olive oil in large pot. Add the seasoning that already blended, and lemon grass and kaffir lime leaves and stir until fragrant."
-- "Add 1 tablespoon tomato paste and some seafood stock (1 litter), lemon juice and bring to boil, then lower temperature and simmer for approximately 10 minute. Add the mussels to the pot and cover and cook for approximately 5 minute until all the mussels is open. Don't forget to taste"
+- "Add 1 tablespoon tomato paste and some seafood stock (1 litter), lemon juice and bring to boil, then lower temperature and simmer for approximately 10 minute. Add the mussels to the pot and cover and cook for approximately 5 minute until all the mussels is open. Don&#39;t forget to taste"
 - "Serve your spicy chilli mussels in deep noodle bowls, sprinkle with parsley or spring onions and served with your favorite crusty bread 🥰👍"
 categories:
 - Recipe
@@ -80,7 +80,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 ##### Instructions to make Spicy Organic Black Mussels:
 
 1. Blended together chilli, shallots, garlic and tomato. Heat 2 tablespoon of olive oil in large pot. Add the seasoning that already blended, and lemon grass and kaffir lime leaves and stir until fragrant.
-1. Add 1 tablespoon tomato paste and some seafood stock (1 litter), lemon juice and bring to boil, then lower temperature and simmer for approximately 10 minute. Add the mussels to the pot and cover and cook for approximately 5 minute until all the mussels is open. Don't forget to taste
+1. Add 1 tablespoon tomato paste and some seafood stock (1 litter), lemon juice and bring to boil, then lower temperature and simmer for approximately 10 minute. Add the mussels to the pot and cover and cook for approximately 5 minute until all the mussels is open. Don&#39;t forget to taste
 1. Serve your spicy chilli mussels in deep noodle bowls, sprinkle with parsley or spring onions and served with your favorite crusty bread 🥰👍
 
 

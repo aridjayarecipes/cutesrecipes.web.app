@@ -68,7 +68,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Prepare  Optional 4 slices bacon (pre cooked and cut into tiny bite size chunks)
 
 
-Air Fryer Roasted Brussels Sprouts - Crispy, Tender & Delicious! Learn how to cook brussels sprouts perfectly in the Air Fryer! Easy and quick to make, roasted Brussels sprouts are a classic that can easily be customized. These Brussels Sprouts make a delicious, easy side dish that goes well with almost any meal! 
+Air Fryer Roasted Brussels Sprouts - Crispy, Tender &amp; Delicious! Learn how to cook brussels sprouts perfectly in the Air Fryer! Easy and quick to make, roasted Brussels sprouts are a classic that can easily be customized. These Brussels Sprouts make a delicious, easy side dish that goes well with almost any meal! 
 
 <!--inarticleads2-->
 

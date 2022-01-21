@@ -42,7 +42,7 @@ Hello everybody, it's Louise, welcome to our recipe site. Today, I'm gonna show 
 
 Blueberry yogurt popsicles with fresh strawberries is one of the most well liked of current trending foods on earth. It's easy, it is quick, it tastes yummy. It's enjoyed by millions daily. Blueberry yogurt popsicles with fresh strawberries is something that I've loved my whole life. They are fine and they look fantastic.
 
-Pour into popsicle containers and freeze overnight. Just because the days are getting longer doesn't mean you have time to waste! Let's start with fresh succulent strawberries and ripe, juicy blueberries, and let's not forget the creamy, dreamy organic goodness of Stonyfield yogurt. Can we make tastier popsicles with fresh or frozen fruit?
+Pour into popsicle containers and freeze overnight. Just because the days are getting longer doesn&#39;t mean you have time to waste! Let&#39;s start with fresh succulent strawberries and ripe, juicy blueberries, and let&#39;s not forget the creamy, dreamy organic goodness of Stonyfield yogurt. Can we make tastier popsicles with fresh or frozen fruit?
 
 
 To get started with this recipe, we must prepare a few ingredients. You can cook blueberry yogurt popsicles with fresh strawberries using 4 ingredients and 3 steps. Here is how you can achieve that.

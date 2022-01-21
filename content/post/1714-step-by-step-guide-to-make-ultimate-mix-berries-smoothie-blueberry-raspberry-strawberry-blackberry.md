@@ -62,7 +62,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Prepare 6-7 - mint leaves
 
 
-The mixed berries I'll use in today's smoothie are blueberries, raspberries, blackberry. Thick mixed berry smoothie recipe is loaded with raspberries, strawberries, blueberries, banana, vanilla Greek yogurt. Absolutely wonderful fruit smoothie with raspberries, blueberries, strawberries and more! I have this for breakfast every morning. 
+The mixed berries I&#39;ll use in today&#39;s smoothie are blueberries, raspberries, blackberry. Thick mixed berry smoothie recipe is loaded with raspberries, strawberries, blueberries, banana, vanilla Greek yogurt. Absolutely wonderful fruit smoothie with raspberries, blueberries, strawberries and more! I have this for breakfast every morning. 
 
 <!--inarticleads2-->
 

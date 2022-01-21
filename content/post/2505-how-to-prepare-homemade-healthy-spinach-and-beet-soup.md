@@ -18,7 +18,7 @@ recipeingredient:
 - "1/2 tsp Lemon juice"
 - "1 amla"
 recipeinstructions:
-- "Take 100 gram spinach n half chop bit,ambala n haldar n crush it in mixture we'll.take water in it"
+- "Take 100 gram spinach n half chop bit,ambala n haldar n crush it in mixture we&#39;ll.take water in it"
 - "Than put salt,chaat masala n half lemon Juice in it.mix well n pure in glass"
 categories:
 - Recipe
@@ -68,7 +68,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 
 ##### Steps to make Healthy Spinach and beet soup:
 
-1. Take 100 gram spinach n half chop bit,ambala n haldar n crush it in mixture we'll.take water in it
+1. Take 100 gram spinach n half chop bit,ambala n haldar n crush it in mixture we&#39;ll.take water in it
 1. Than put salt,chaat masala n half lemon Juice in it.mix well n pure in glass
 
 

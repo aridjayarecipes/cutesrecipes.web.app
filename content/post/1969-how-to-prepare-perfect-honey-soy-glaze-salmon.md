@@ -19,9 +19,9 @@ recipeingredient:
 - " Olive oil"
 - "Pinch salt and pepper"
 recipeinstructions:
-- "Rub olive oil, salt and pepper on both side of salmon, pan grill over medium heat until cooked. Don't need to wash pan."
+- "Rub olive oil, salt and pepper on both side of salmon, pan grill over medium heat until cooked. Don&#39;t need to wash pan."
 - "Combine ingredient for sauce in a bowl, mix evenly"
-- "Pour mixed sauce ingredients into the pan, it will have some leftover oil from the salmon you grilled earlier, that's the good stuff. Let it simmer over low heat and stir constantly until sauce thickens, pour over salmon."
+- "Pour mixed sauce ingredients into the pan, it will have some leftover oil from the salmon you grilled earlier, that&#39;s the good stuff. Let it simmer over low heat and stir constantly until sauce thickens, pour over salmon."
 categories:
 - Recipe
 tags:
@@ -71,9 +71,9 @@ To begin with this particular recipe, we must prepare a few components. You can 
 
 ##### Instructions to make Honey Soy Glaze Salmon:
 
-1. Rub olive oil, salt and pepper on both side of salmon, pan grill over medium heat until cooked. Don't need to wash pan.
+1. Rub olive oil, salt and pepper on both side of salmon, pan grill over medium heat until cooked. Don&#39;t need to wash pan.
 1. Combine ingredient for sauce in a bowl, mix evenly
-1. Pour mixed sauce ingredients into the pan, it will have some leftover oil from the salmon you grilled earlier, that's the good stuff. Let it simmer over low heat and stir constantly until sauce thickens, pour over salmon.
+1. Pour mixed sauce ingredients into the pan, it will have some leftover oil from the salmon you grilled earlier, that&#39;s the good stuff. Let it simmer over low heat and stir constantly until sauce thickens, pour over salmon.
 
 
 

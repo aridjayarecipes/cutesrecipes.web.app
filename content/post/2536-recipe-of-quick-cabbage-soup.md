@@ -22,7 +22,7 @@ recipeinstructions:
 - "Wash and Cut all vegetables"
 - "In a cooking pot add 4 cups of water"
 - "Add all your ingredients"
-- "Cook for 30 minutes or until it's tender enjoy while still hot"
+- "Cook for 30 minutes or until it&#39;s tender enjoy while still hot"
 - "3 times a week have 1 bowl of cabbage soup"
 categories:
 - Recipe
@@ -75,7 +75,7 @@ Simple Ingredients for Simple Cabbage Soup. Have you ever looked in your fridge 
 1. Wash and Cut all vegetables
 1. In a cooking pot add 4 cups of water
 1. Add all your ingredients
-1. Cook for 30 minutes or until it's tender enjoy while still hot
+1. Cook for 30 minutes or until it&#39;s tender enjoy while still hot
 1. 3 times a week have 1 bowl of cabbage soup
 
 

@@ -53,7 +53,7 @@ Banana Oatmeal Breakfast Cookies
 
 3-Ingredient is something that I've loved my whole life.
 
-This versatile recipe requires no egg, no flour, is gluten-free (if using They're so good for you, you can happily eat three (or six, for that matter) of these banana bread cookies. Carefree and guiltless cookies that double as. Watch my Story about Making these healthy. They're so useful for you, you can cheerfully eat three (or six, besides) of these banana bread treats.
+This versatile recipe requires no egg, no flour, is gluten-free (if using They&#39;re so good for you, you can happily eat three (or six, for that matter) of these banana bread cookies. Carefree and guiltless cookies that double as. Watch my Story about Making these healthy. They&#39;re so useful for you, you can cheerfully eat three (or six, besides) of these banana bread treats.
 
 
 To begin with this recipe, we have to prepare a few components. You can have banana oatmeal breakfast cookies
@@ -88,7 +88,7 @@ Banana Oatmeal Cookies, Banana oatmeal gluten free cookies, banana oatmeal yogur
 1. Use ripe bananas.The riper, the more brown-speckled, the better your cookies will taste. I also recommend using fresh, not previously frozen, thawed bananas. - These cookies freeze well for up to 3 months. Refrigerate overnight to thaw before enjoying. - Try your favorite mix-ins! About a 1/4 cup sliced almonds or dried fruit would be great options.
 
 
-These gluten free and naturally vegan banana oatmeal breakfast cookies can be enjoyed for breakfast or as a little sweet and healthy treat. Salt - optional, to balance the flavors. Healthy & easy chocolate chip banana oatmeal breakfast cookies. I love to have all the ingredients in these. Mix oats with bananas and a handful of other ingredients to make these delicious and healthy cookies that are naturally sweet. 
+These gluten free and naturally vegan banana oatmeal breakfast cookies can be enjoyed for breakfast or as a little sweet and healthy treat. Salt - optional, to balance the flavors. Healthy &amp; easy chocolate chip banana oatmeal breakfast cookies. I love to have all the ingredients in these. Mix oats with bananas and a handful of other ingredients to make these delicious and healthy cookies that are naturally sweet. 
 
 So that is going to wrap it up with this exceptional food banana oatmeal breakfast cookies
 

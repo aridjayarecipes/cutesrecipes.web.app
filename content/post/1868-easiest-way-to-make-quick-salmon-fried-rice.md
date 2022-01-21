@@ -41,7 +41,7 @@ recipeinstructions:
 - "Add rice and the remaining sauce mixture. Mix em well"
 - "Keep stiring and add 1 teaspoon of blackpepper"
 - "Give it a taste. Feel free to adjust the taste with sauce mixture, salt, and blackpepper"
-- "Voila you're done"
+- "Voila you&#39;re done"
 categories:
 - Recipe
 tags:
@@ -113,7 +113,7 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Add rice and the remaining sauce mixture. Mix em well
 1. Keep stiring and add 1 teaspoon of blackpepper
 1. Give it a taste. Feel free to adjust the taste with sauce mixture, salt, and blackpepper
-1. Voila you're done
+1. Voila you&#39;re done
 
 
 

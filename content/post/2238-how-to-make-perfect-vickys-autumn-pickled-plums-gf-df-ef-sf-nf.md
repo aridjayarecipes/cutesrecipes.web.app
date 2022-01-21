@@ -27,7 +27,7 @@ recipeinstructions:
 - "Let cool uncovered then put on the lids and refrigerate for at least 8 hours"
 - "Will keep refrigerated for a week"
 - "Enjoy as you would chutney or salsa, as a side or as a dip. Goes great with pork and grilled meats"
-- "This makes lot to use within a week so adjust as you need to, I like to give the extra to my parents, sister & neighbours. I've set the serving size as 4 for 4 x 300 jars so you can adjust the amount of servings by the number of jars you want to make"
+- "This makes lot to use within a week so adjust as you need to, I like to give the extra to my parents, sister &amp; neighbours. I&#39;ve set the serving size as 4 for 4 x 300 jars so you can adjust the amount of servings by the number of jars you want to make"
 categories:
 - Recipe
 tags:
@@ -85,7 +85,7 @@ To begin with this recipe, we have to prepare a few components. You can cook vic
 1. Let cool uncovered then put on the lids and refrigerate for at least 8 hours
 1. Will keep refrigerated for a week
 1. Enjoy as you would chutney or salsa, as a side or as a dip. Goes great with pork and grilled meats
-1. This makes lot to use within a week so adjust as you need to, I like to give the extra to my parents, sister & neighbours. I've set the serving size as 4 for 4 x 300 jars so you can adjust the amount of servings by the number of jars you want to make
+1. This makes lot to use within a week so adjust as you need to, I like to give the extra to my parents, sister &amp; neighbours. I&#39;ve set the serving size as 4 for 4 x 300 jars so you can adjust the amount of servings by the number of jars you want to make
 
 
 

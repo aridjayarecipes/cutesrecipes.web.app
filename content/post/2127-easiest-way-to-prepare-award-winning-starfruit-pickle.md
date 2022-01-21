@@ -63,7 +63,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can have
 1. Make ready 2 tbsp oil
 
 
-Star fruit or Carambola sweet and spicy pickle also known as karmalache goad mel is a traditional Goan recipe. "Starfruit" redirects here. In Australia, they may be cooked as a vegetable, pickled, or made into jams. Star fruit or carambola is cooked with jaggery and spices to make this chutney. Chips Recipe Delicious Chips Food Starfruit Foodie Recipes Healthy Snacks Star Fruit Recipes. 
+Star fruit or Carambola sweet and spicy pickle also known as karmalache goad mel is a traditional Goan recipe. &#34;Starfruit&#34; redirects here. In Australia, they may be cooked as a vegetable, pickled, or made into jams. Star fruit or carambola is cooked with jaggery and spices to make this chutney. Chips Recipe Delicious Chips Food Starfruit Foodie Recipes Healthy Snacks Star Fruit Recipes. 
 
 <!--inarticleads2-->
 

@@ -25,7 +25,7 @@ recipeinstructions:
 - "In a bowl by itself mix washed and halved brussel sprouts, Canola oil except for 1 tablespoon, And chopped garlic except for 1 tablespoon."
 - "In a flat dish Make the marinade For the salmon. Mix the remaining ingredients together. Marinate the salmon for about 15 minutes."
 - "On a flat rimmed baking sheet Spray vegetable oil. Arrange brussel sprouts completely flat. Roast In oven for 5 to 7 minutes."
-- "Push brussel sprouts to pan's center Then lay marinated salmon On top of brussel sprouts And roast for 10  more minutes. Garnish with a little of the extra marinade."
+- "Push brussel sprouts to pan&#39;s center Then lay marinated salmon On top of brussel sprouts And roast for 10  more minutes. Garnish with a little of the extra marinade."
 categories:
 - Recipe
 tags:
@@ -64,7 +64,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Get 2 tbsp rice vinegar
 1. Take 1 tbsp ginger sesame sauce
 1. Take 5 tbsp canola oil
-1. Get 6 salmon fillets about 1 & half pounds
+1. Get 6 salmon fillets about 1 &amp; half pounds
 1. Take 1 vegetable oil cooking spray
 1. Prepare 1 Salt and pepper to taste
 1. Prepare 3 tbsp Finely chopped garlic
@@ -81,7 +81,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. In a bowl by itself mix washed and halved brussel sprouts, Canola oil except for 1 tablespoon, And chopped garlic except for 1 tablespoon.
 1. In a flat dish Make the marinade For the salmon. Mix the remaining ingredients together. Marinate the salmon for about 15 minutes.
 1. On a flat rimmed baking sheet Spray vegetable oil. Arrange brussel sprouts completely flat. Roast In oven for 5 to 7 minutes.
-1. Push brussel sprouts to pan's center Then lay marinated salmon On top of brussel sprouts And roast for 10  more minutes. Garnish with a little of the extra marinade.
+1. Push brussel sprouts to pan&#39;s center Then lay marinated salmon On top of brussel sprouts And roast for 10  more minutes. Garnish with a little of the extra marinade.
 
 
 

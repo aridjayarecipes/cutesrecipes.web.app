@@ -21,7 +21,7 @@ recipeinstructions:
 - "Cut the banana(which was put on aside) and put the banana pieces on the designed peel."
 - "And set left and right design as per picture."
 - "Cut the top, for the mouth shape and insert one clove for the eye."
-- "Put blue Barry on the mouth and it's ready."
+- "Put blue Barry on the mouth and it&#39;s ready."
 categories:
 - Recipe
 tags:
@@ -60,7 +60,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Get 1 blueberry
 
 
-Your Banana Chaat stock images are ready. Download all free or royalty-free photos and vectors. Use them in commercial designs under lifetime, perpetual & worldwide rights. how to make spiced fruit chaat masala recipe with detailed photo and video recipe. a unique, sweet and. 
+Your Banana Chaat stock images are ready. Download all free or royalty-free photos and vectors. Use them in commercial designs under lifetime, perpetual &amp; worldwide rights. how to make spiced fruit chaat masala recipe with detailed photo and video recipe. a unique, sweet and. 
 
 <!--inarticleads2-->
 
@@ -73,9 +73,9 @@ Your Banana Chaat stock images are ready. Download all free or royalty-free phot
 1. Cut the banana(which was put on aside) and put the banana pieces on the designed peel.
 1. And set left and right design as per picture.
 1. Cut the top, for the mouth shape and insert one clove for the eye.
-1. Put blue Barry on the mouth and it's ready.
+1. Put blue Barry on the mouth and it&#39;s ready.
 
 
-Use them in commercial designs under lifetime, perpetual & worldwide rights. how to make spiced fruit chaat masala recipe with detailed photo and video recipe. a unique, sweet and. Banana Leaf Plates Banana Leaves Organic Packaging Food Packaging Leaf Crafts Vegetable Garden Design Food Decoration Chaat Hindus. Banana chaat is one such amazing and excellent chaat prepared with a slight difference. To prepare this excellent Banana chaat with a different, peel and slice the bananas into medium sized pieces. 
+Use them in commercial designs under lifetime, perpetual &amp; worldwide rights. how to make spiced fruit chaat masala recipe with detailed photo and video recipe. a unique, sweet and. Banana Leaf Plates Banana Leaves Organic Packaging Food Packaging Leaf Crafts Vegetable Garden Design Food Decoration Chaat Hindus. Banana chaat is one such amazing and excellent chaat prepared with a slight difference. To prepare this excellent Banana chaat with a different, peel and slice the bananas into medium sized pieces. 
 
 So that is going to wrap this up for this special food banana chaat decoration recipe. Thank you very much for your time. I'm confident that you will make this at home. There's gonna be interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

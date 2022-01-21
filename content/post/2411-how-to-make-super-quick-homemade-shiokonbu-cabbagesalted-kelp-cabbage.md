@@ -58,7 +58,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Take  some Shiokonbu (Salted kelp)
 
 
-Cabbage (Brassica oleracea or variants) is a leafy green or purple biennial plant, grown as an annual vegetable crop for its dense-leaved heads. These salted cabbages are commonly known as "addictive" or "yamitsuki" (やみつき)" cabbage and served in izakaya restaurants and yakiniku restaurants (where beer drinkers tend to go). Get new ideas for how to cook cabbage! Many Russian dishes feature cabbage, and soup is no exception. 
+Cabbage (Brassica oleracea or variants) is a leafy green or purple biennial plant, grown as an annual vegetable crop for its dense-leaved heads. These salted cabbages are commonly known as &#34;addictive&#34; or &#34;yamitsuki&#34; (やみつき)&#34; cabbage and served in izakaya restaurants and yakiniku restaurants (where beer drinkers tend to go). Get new ideas for how to cook cabbage! Many Russian dishes feature cabbage, and soup is no exception. 
 
 <!--inarticleads2-->
 

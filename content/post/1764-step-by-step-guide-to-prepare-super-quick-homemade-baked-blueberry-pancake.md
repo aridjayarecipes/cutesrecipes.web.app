@@ -71,7 +71,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can have
 1. Take  Whipped cream to serve
 
 
-Learn how to make blueberry pancakes that are light and fluffy, and don't turn purple on you. Light, fluffy and fruity, these pancakes are an American classic. Fresh or frozen blueberries are equally good. This baked pancake is made in a casserole dish, and becomes the fluffiest pancake that breakfast dreams are made of. 
+Learn how to make blueberry pancakes that are light and fluffy, and don&#39;t turn purple on you. Light, fluffy and fruity, these pancakes are an American classic. Fresh or frozen blueberries are equally good. This baked pancake is made in a casserole dish, and becomes the fluffiest pancake that breakfast dreams are made of. 
 
 <!--inarticleads2-->
 
@@ -86,6 +86,6 @@ Learn how to make blueberry pancakes that are light and fluffy, and don't turn p
 1. Serve warm with whipped creme / blueberry jam. Enjoy!
 
 
-Fresh or frozen blueberries are equally good. This baked pancake is made in a casserole dish, and becomes the fluffiest pancake that breakfast dreams are made of. A gluten-free oven baked blueberry pancake makes for an easy breakfast or brunch, just blend and bake! If you love pancakes for breakfast but don't love all the fussing at the stove then this recipe is. Sour Cream Blueberry Pancakes are supremely fluffy and loaded with plump juicy blueberries. 
+Fresh or frozen blueberries are equally good. This baked pancake is made in a casserole dish, and becomes the fluffiest pancake that breakfast dreams are made of. A gluten-free oven baked blueberry pancake makes for an easy breakfast or brunch, just blend and bake! If you love pancakes for breakfast but don&#39;t love all the fussing at the stove then this recipe is. Sour Cream Blueberry Pancakes are supremely fluffy and loaded with plump juicy blueberries. 
 
 So that's going to wrap this up for this special food baked blueberry pancake recipe. Thanks so much for your time. I'm confident that you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

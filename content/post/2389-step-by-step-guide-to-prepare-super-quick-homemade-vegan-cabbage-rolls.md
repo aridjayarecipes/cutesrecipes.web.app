@@ -55,7 +55,7 @@ recipecategory: Dinner
 
 Hello everybody, it is Brad, welcome to my recipe page. Today, I'm gonna show you how to prepare a special dish, vegan cabbage rolls. It is one of my favorites food recipes. This time, I am going to make it a bit tasty. This will be really delicious.
 
-These Asian-inspired vegan cabbage rolls are made up of tender cabbage leaves, stuffed with a rice and veggie filling, and served alongside a Chinese brown garlic sauce. These vegan cabbage rolls are stuffed with lentils, grains, and seasonings, and taste similar to Vegan Cabbage Rolls. Cabbage rolls are typically made with minced meat; however, this vegan recipe is made with vegetables, rice, lentils, herbs, served with a simple tomato sauce. This is an easy vegan and Asian take on Grandma's popular stuffed cabbage rolls recipe!
+These Asian-inspired vegan cabbage rolls are made up of tender cabbage leaves, stuffed with a rice and veggie filling, and served alongside a Chinese brown garlic sauce. These vegan cabbage rolls are stuffed with lentils, grains, and seasonings, and taste similar to Vegan Cabbage Rolls. Cabbage rolls are typically made with minced meat; however, this vegan recipe is made with vegetables, rice, lentils, herbs, served with a simple tomato sauce. This is an easy vegan and Asian take on Grandma&#39;s popular stuffed cabbage rolls recipe!
 
 Vegan cabbage rolls is one of the most well liked of current trending meals on earth. It's enjoyed by millions every day. It is simple, it's fast, it tastes delicious. Vegan cabbage rolls is something that I have loved my entire life. They're nice and they look fantastic.
 

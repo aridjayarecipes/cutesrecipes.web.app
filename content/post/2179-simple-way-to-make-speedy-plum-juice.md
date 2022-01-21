@@ -41,7 +41,7 @@ recipecategory: Lunch
 
 Hello everybody, it is Jim, welcome to my recipe site. Today, I'm gonna show you how to prepare a distinctive dish, plum juice. One of my favorites. This time, I'm gonna make it a little bit unique. This is gonna smell and look delicious.
 
-He adores listening to the opera and singing classic tunes. His voice can often be heard echoing in the streets. Plum Juice was a royal soup enjoyed by emperors & later being to the public. The sweet and sour flavor of Plum Juice is refreshing and thirst-quenching.
+He adores listening to the opera and singing classic tunes. His voice can often be heard echoing in the streets. Plum Juice was a royal soup enjoyed by emperors &amp; later being to the public. The sweet and sour flavor of Plum Juice is refreshing and thirst-quenching.
 
 Plum juice is one of the most popular of recent trending meals on earth. It is easy, it's quick, it tastes delicious. It's enjoyed by millions every day. They are fine and they look wonderful. Plum juice is something which I've loved my whole life.
 

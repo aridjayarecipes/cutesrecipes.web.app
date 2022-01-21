@@ -43,7 +43,7 @@ Hello everybody, it's Brad, welcome to our recipe page. Today, I'm gonna show yo
 
 Strawberry banana milkshake is one of the most well liked of recent trending foods on earth. It is enjoyed by millions daily. It's easy, it's quick, it tastes yummy. They are fine and they look wonderful. Strawberry banana milkshake is something which I have loved my entire life.
 
-Strawberry Banana Milkshake prepared with this recipe is an ultimate summer cooler. Creamy shake of calcium and energy rich banana, milk and vitamin C rich strawberry is a celestial fresh fruit. Strawberry banana milkshakes are easy to make, and they are somewhat healthier than the average milkshake thanks to the addition of strawberries and bananas. Milkshakes are seriously one of my family's favorite treats!
+Strawberry Banana Milkshake prepared with this recipe is an ultimate summer cooler. Creamy shake of calcium and energy rich banana, milk and vitamin C rich strawberry is a celestial fresh fruit. Strawberry banana milkshakes are easy to make, and they are somewhat healthier than the average milkshake thanks to the addition of strawberries and bananas. Milkshakes are seriously one of my family&#39;s favorite treats!
 
 
 To get started with this particular recipe, we must prepare a few ingredients. You can cook strawberry banana milkshake using 5 ingredients and 3 steps. Here is how you can achieve it.

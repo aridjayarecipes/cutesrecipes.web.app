@@ -46,7 +46,7 @@ Hey everyone, it's Brad, welcome to my recipe page. Today, I will show you a way
 
 Salmon Quick and Easy is one of the most popular of recent trending foods in the world. It is enjoyed by millions every day. It's simple, it is fast, it tastes delicious. They are fine and they look wonderful. Salmon Quick and Easy is something which I've loved my entire life.
 
-Canned salmon makes for a quick and healthy dinner. Hi Everyone! (づ｡◕‿‿◕｡)づWelcome back to my Channel! For today's video I made a very quick and easy recipe, BAKED SALMON! (っ˘ڡ˘ς) Hope you enjoy it‿HAPPY. Sourdough bread is the key to the crunch of this quick and easy salmon dinner.
+Canned salmon makes for a quick and healthy dinner. Hi Everyone! (づ｡◕‿‿◕｡)づWelcome back to my Channel! For today&#39;s video I made a very quick and easy recipe, BAKED SALMON! (っ˘ڡ˘ς) Hope you enjoy it‿HAPPY. Sourdough bread is the key to the crunch of this quick and easy salmon dinner.
 
 
 To begin with this recipe, we have to first prepare a few ingredients. You can cook salmon quick and easy using 6 ingredients and 5 steps. Here is how you cook that.

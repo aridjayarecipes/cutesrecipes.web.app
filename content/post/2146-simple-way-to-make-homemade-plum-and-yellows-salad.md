@@ -43,7 +43,7 @@ recipecategory: Dessert
 
 Hello everybody, it is Jim, welcome to my recipe site. Today, we're going to make a distinctive dish, plum and yellows salad. One of my favorites food recipes. For mine, I will make it a little bit tasty. This will be really delicious.
 
-Couldn't find golden beets, yellow plums or the yellow tomatoes so used the red variety. I'm not a goat cheese fan so I used macedonian feta. Yellow Plum Salad. this link is to an external site that may or may not meet accessibility guidelines. Plum and Yellows Salad is one of the most popular of recent trending meals on earth.
+Couldn&#39;t find golden beets, yellow plums or the yellow tomatoes so used the red variety. I&#39;m not a goat cheese fan so I used macedonian feta. Yellow Plum Salad. this link is to an external site that may or may not meet accessibility guidelines. Plum and Yellows Salad is one of the most popular of recent trending meals on earth.
 
 Plum and Yellows Salad is one of the most well liked of current trending meals in the world. It's simple, it is fast, it tastes yummy. It's enjoyed by millions every day. Plum and Yellows Salad is something which I've loved my entire life. They are nice and they look wonderful.
 

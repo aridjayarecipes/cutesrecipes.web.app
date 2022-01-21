@@ -55,7 +55,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Make ready 15 oz can pinto beans
 
 
-Pingback: Crock Pot Chicken & Black Bean Salad with Avocado Buttermilk Dressing. It's a favorite in our house. In a pinch I have even made this on the stove. I love this time of year! 
+Pingback: Crock Pot Chicken &amp; Black Bean Salad with Avocado Buttermilk Dressing. It&#39;s a favorite in our house. In a pinch I have even made this on the stove. I love this time of year! 
 
 <!--inarticleads2-->
 

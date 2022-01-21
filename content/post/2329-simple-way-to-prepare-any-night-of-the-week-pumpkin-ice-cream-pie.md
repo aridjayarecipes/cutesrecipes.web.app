@@ -71,7 +71,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Make ready 2 tbsp low fat cream cheese
 
 
-It's a good way to eat pumpkin in the summer! It's ice cream- themed pumpkin pie! You'll love this delicious dessert, and it's super quick to make. Pumpkin cookies, pumpkin bars, pumpkin lattes, pumpkin cupcakes, pumpkin bread, but HELLO what about pumpkin pie?? 
+It&#39;s a good way to eat pumpkin in the summer! It&#39;s ice cream- themed pumpkin pie! You&#39;ll love this delicious dessert, and it&#39;s super quick to make. Pumpkin cookies, pumpkin bars, pumpkin lattes, pumpkin cupcakes, pumpkin bread, but HELLO what about pumpkin pie?? 
 
 <!--inarticleads2-->
 
@@ -92,6 +92,6 @@ It's a good way to eat pumpkin in the summer! It's ice cream- themed pumpkin pie
 1. Here is the nutrition information if you track
 
 
-You'll love this delicious dessert, and it's super quick to make. Pumpkin cookies, pumpkin bars, pumpkin lattes, pumpkin cupcakes, pumpkin bread, but HELLO what about pumpkin pie?? Heavy cream makes pumpkin pie luxurious and silky smooth. It's thick, creamy, and absolutely heavenly in this pumpkin pie recipe. HomeDishes & BeveragesIce Cream & Frozen TreatsIce Cream Pies. 
+You&#39;ll love this delicious dessert, and it&#39;s super quick to make. Pumpkin cookies, pumpkin bars, pumpkin lattes, pumpkin cupcakes, pumpkin bread, but HELLO what about pumpkin pie?? Heavy cream makes pumpkin pie luxurious and silky smooth. It&#39;s thick, creamy, and absolutely heavenly in this pumpkin pie recipe. HomeDishes &amp; BeveragesIce Cream &amp; Frozen TreatsIce Cream Pies. 
 
 So that's going to wrap it up with this special food pumpkin ice cream pie recipe. Thank you very much for reading. I am confident that you can make this at home. There is gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

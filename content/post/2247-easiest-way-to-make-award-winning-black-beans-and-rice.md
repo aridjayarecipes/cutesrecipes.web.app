@@ -61,7 +61,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 
 1. Take 1 pound dried black beans, soaked in water overnight, drain
 1. Take 2 cups brown rice
-1. Prepare 3 &1/2 cups water plus salt to taste to cook rice
+1. Prepare 3 &amp;1/2 cups water plus salt to taste to cook rice
 1. Prepare 1 large onion, chopped well
 1. Make ready 4 cloves garlic, rough chop
 1. Prepare 2 tablespoons olive oil

@@ -39,7 +39,7 @@ recipecategory: Dinner
 
 Hey everyone, hope you are having an amazing day today. Today, I'm gonna show you how to prepare a distinctive dish, cabbage with ham. One of my favorites food recipes. For mine, I will make it a bit tasty. This will be really delicious.
 
-Smothered Cabbage with Ham. this link is to an external site that may or may not meet accessibility guidelines. Ham, potatoes and cabbage. you just can't go wrong! You must start this dish in the morning. You can make the dish faster by using water and turning up the heat, but then you lose all the flavor.
+Smothered Cabbage with Ham. this link is to an external site that may or may not meet accessibility guidelines. Ham, potatoes and cabbage. you just can&#39;t go wrong! You must start this dish in the morning. You can make the dish faster by using water and turning up the heat, but then you lose all the flavor.
 
 Cabbage with Ham is one of the most popular of recent trending foods in the world. It's simple, it's fast, it tastes yummy. It is enjoyed by millions daily. Cabbage with Ham is something which I've loved my entire life. They are fine and they look fantastic.
 

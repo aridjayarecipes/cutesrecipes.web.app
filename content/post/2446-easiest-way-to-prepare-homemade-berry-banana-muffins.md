@@ -14,7 +14,7 @@ recipeingredient:
 - "1/3 Cup Nut Butter"
 - "1/3 Cup Berries"
 recipeinstructions:
-- "Oven at 350. 2 Banana's to bowl"
+- "Oven at 350. 2 Banana&#39;s to bowl"
 - "Mash Banana"
 - "Add 1/3 cup Nut Butter- Mix"
 - "Add 1/3 cup berries of choosing- mix"
@@ -54,7 +54,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 ##### The ingredients needed to make Berry Banana Muffins:
 
-1. Take 2 Banana's
+1. Take 2 Banana&#39;s
 1. Prepare 1/3 Cup Nut Butter
 1. Take 1/3 Cup Berries
 
@@ -65,7 +65,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 ##### Instructions to make Berry Banana Muffins:
 
-1. Oven at 350. 2 Banana's to bowl
+1. Oven at 350. 2 Banana&#39;s to bowl
 1. Mash Banana
 1. Add 1/3 cup Nut Butter- Mix
 1. Add 1/3 cup berries of choosing- mix

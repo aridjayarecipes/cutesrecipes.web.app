@@ -37,7 +37,7 @@ recipecategory: Dinner
 
 Hello everybody, it's me, Dave, welcome to my recipe page. Today, we're going to prepare a special dish, fruit custard. One of my favorites. For mine, I am going to make it a little bit unique. This is gonna smell and look delicious.
 
-Fruit custard is a simple summer dessert made with mixed fruits, milk & custard powder. Custard apple is a common name for a fruit, and the tree which bears it, Annona reticulata. The fruits vary in shape, heart-shaped, spherical, oblong or irregular. Learn how to make Fruit Custard at home with Chef Ruchi on Rajshri Food.
+Fruit custard is a simple summer dessert made with mixed fruits, milk &amp; custard powder. Custard apple is a common name for a fruit, and the tree which bears it, Annona reticulata. The fruits vary in shape, heart-shaped, spherical, oblong or irregular. Learn how to make Fruit Custard at home with Chef Ruchi on Rajshri Food.
 
 Fruit custard is one of the most well liked of current trending foods in the world. It is simple, it is fast, it tastes delicious. It is enjoyed by millions daily. Fruit custard is something which I have loved my whole life. They're fine and they look wonderful.
 

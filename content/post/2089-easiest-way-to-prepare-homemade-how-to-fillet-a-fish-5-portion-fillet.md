@@ -23,7 +23,7 @@ recipeinstructions:
 - "Fillet the other half, and now you have three pieces."
 - "Flip the fish over and repeat the above steps. Now you have 5 pieces."
 - "Finally, insert the knife between the flesh and skin, pulling on the skin to fillet completely. Hold one end of the skin, and slice off along the skin."
-- "You're finished."
+- "You&#39;re finished."
 categories:
 - Recipe
 tags:
@@ -77,7 +77,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Fillet the other half, and now you have three pieces.
 1. Flip the fish over and repeat the above steps. Now you have 5 pieces.
 1. Finally, insert the knife between the flesh and skin, pulling on the skin to fillet completely. Hold one end of the skin, and slice off along the skin.
-1. You're finished.
+1. You&#39;re finished.
 
 
 

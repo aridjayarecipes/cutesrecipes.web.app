@@ -18,8 +18,8 @@ recipeingredient:
 - " Soy sauce"
 - " Cooking oil"
 recipeinstructions:
-- "Wash the fish n set a side. Put ginger inside of stomach,then put spring onion under the fish. I put spring onion under the fish to prevent fishy taste after it's cooked. Spread black bean paste over the fish."
-- "Boil water to steam the fish, make sure the water boiling then put in the fish then cover. Steam for 7 minutes depends how big the fish. Don't open the lid let it sit inside wok for another 5 minutes."
+- "Wash the fish n set a side. Put ginger inside of stomach,then put spring onion under the fish. I put spring onion under the fish to prevent fishy taste after it&#39;s cooked. Spread black bean paste over the fish."
+- "Boil water to steam the fish, make sure the water boiling then put in the fish then cover. Steam for 7 minutes depends how big the fish. Don&#39;t open the lid let it sit inside wok for another 5 minutes."
 - "Take away fish from inside wok, change another plate. To prevent from fishy taste, put spring onions over the fish. Make hot oil pour over spring onions,put some soy sauce. Ready to serve"
 categories:
 - Recipe
@@ -69,8 +69,8 @@ To get started with this recipe, we must first prepare a few components. You can
 
 ##### Steps to make Steam Pomfret with spicy black bean paste:
 
-1. Wash the fish n set a side. Put ginger inside of stomach,then put spring onion under the fish. I put spring onion under the fish to prevent fishy taste after it's cooked. Spread black bean paste over the fish.
-1. Boil water to steam the fish, make sure the water boiling then put in the fish then cover. Steam for 7 minutes depends how big the fish. Don't open the lid let it sit inside wok for another 5 minutes.
+1. Wash the fish n set a side. Put ginger inside of stomach,then put spring onion under the fish. I put spring onion under the fish to prevent fishy taste after it&#39;s cooked. Spread black bean paste over the fish.
+1. Boil water to steam the fish, make sure the water boiling then put in the fish then cover. Steam for 7 minutes depends how big the fish. Don&#39;t open the lid let it sit inside wok for another 5 minutes.
 1. Take away fish from inside wok, change another plate. To prevent from fishy taste, put spring onions over the fish. Make hot oil pour over spring onions,put some soy sauce. Ready to serve
 
 

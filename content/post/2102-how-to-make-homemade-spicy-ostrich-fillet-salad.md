@@ -58,7 +58,7 @@ recipecategory: Dessert
 
 Hey everyone, it's Drew, welcome to our recipe page. Today, we're going to prepare a special dish, spicy ostrich fillet salad. It is one of my favorites. This time, I will make it a little bit tasty. This will be really delicious.
 
-If on any normal day you can't get hold of ostrich fillet for this recipe, just use normal beef fillet and braai it medium rare. Recipe extract from Jan Braai's Red Hot cookbook, published by Bookstorm. The Spicy Ostrich Fillet recipe out of our category fruit-vegetable! Pour the peanut oil into the peppercorm mixture and rub the ostrich fillets with it.
+If on any normal day you can&#39;t get hold of ostrich fillet for this recipe, just use normal beef fillet and braai it medium rare. Recipe extract from Jan Braai&#39;s Red Hot cookbook, published by Bookstorm. The Spicy Ostrich Fillet recipe out of our category fruit-vegetable! Pour the peanut oil into the peppercorm mixture and rub the ostrich fillets with it.
 
 SPICY OSTRICH FILLET SALAD is one of the most popular of current trending meals on earth. It is enjoyed by millions daily. It's simple, it's quick, it tastes yummy. They're nice and they look fantastic. SPICY OSTRICH FILLET SALAD is something which I've loved my whole life.
 
@@ -80,7 +80,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Make ready 180 grams CHOPED/ROASTED NUTS OF CHOICE
 1. Make ready 300 grams CHERRY TOMATOS
 1. Prepare 15 ml SESAME SEAD OIL
-1. Make ready 2 small RED CHILI'S FOR GARNISH
+1. Make ready 2 small RED CHILI&#39;S FOR GARNISH
 1. Take 2 small LIMES FOR GARNISH
 1. Take 1 SALT AND PEPPER TO TASTE
 1. Get 1 dash CHILI FLAKES TO TASTE

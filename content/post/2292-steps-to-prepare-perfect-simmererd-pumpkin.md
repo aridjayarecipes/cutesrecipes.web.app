@@ -58,7 +58,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Get 150 cc water
 
 
-This video will show you how to make Kabocha no Nimono (simmered pumpkin), healthy but tasty side dish. Vegetable dishes boiled or simmered in seasoned broth are called Nimono. Japanese pumpkin, Kabocha, is very dense and sweet, different from pumpkin in the US. The pumpkin is not simply boiled in water, it's simmered in a mixture of Japanese condiments such as soy sauce, mirin and sake. 
+This video will show you how to make Kabocha no Nimono (simmered pumpkin), healthy but tasty side dish. Vegetable dishes boiled or simmered in seasoned broth are called Nimono. Japanese pumpkin, Kabocha, is very dense and sweet, different from pumpkin in the US. The pumpkin is not simply boiled in water, it&#39;s simmered in a mixture of Japanese condiments such as soy sauce, mirin and sake. 
 
 <!--inarticleads2-->
 
@@ -69,6 +69,6 @@ This video will show you how to make Kabocha no Nimono (simmered pumpkin), healt
 1. Add soy sauce in the pan. Simmer them for about 5 minutes.
 
 
-Japanese pumpkin, Kabocha, is very dense and sweet, different from pumpkin in the US. The pumpkin is not simply boiled in water, it's simmered in a mixture of Japanese condiments such as soy sauce, mirin and sake. Your Simmered Pumpkin stock images are ready. Download all free or royalty-free photos and vectors. Use them in commercial designs under lifetime, perpetual & worldwide rights. 
+Japanese pumpkin, Kabocha, is very dense and sweet, different from pumpkin in the US. The pumpkin is not simply boiled in water, it&#39;s simmered in a mixture of Japanese condiments such as soy sauce, mirin and sake. Your Simmered Pumpkin stock images are ready. Download all free or royalty-free photos and vectors. Use them in commercial designs under lifetime, perpetual &amp; worldwide rights. 
 
 So that's going to wrap this up with this exceptional food simmererd pumpkin recipe. Thank you very much for your time. I'm confident you will make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

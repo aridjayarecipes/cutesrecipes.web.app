@@ -15,7 +15,7 @@ recipeingredient:
 - "1/4 tsp salt"
 recipeinstructions:
 - "Put all ingredients into a bowl of an electric mixer. Using the dough hook, knead the dough until it is smooth and elastic. Add water one tablespoon at a time if the dough looks dry or add flour one tablespoon at a time if the dough is still sticky. Wrap in plastic wrap, and let sit for 30 minutes at room temperature"
-- "Divide dough into 4 equal parts. With a large rolling pin or a pasta machine (I use a machine because it's faster and easier), roll the dough out into a long shape to fit into the pasta machine. Dust with flour to keep the dough from sticking."
+- "Divide dough into 4 equal parts. With a large rolling pin or a pasta machine (I use a machine because it&#39;s faster and easier), roll the dough out into a long shape to fit into the pasta machine. Dust with flour to keep the dough from sticking."
 - "On the machine, turn the knob to 1 for the first roll. Fold the dough back on itself and put the dough through the pasta machine again. Repeat the process a few times until the sheet looks smooth. Sprinkle some flour on the sheet before each roll. Crank up the knob to larger numbers and roll out the sheet until you get to number 4."
 - "If you do not cook the noodle right away, hang them onto a drying rack to dry for at least 2 hours. To cook, bring water to a rapid boil. Add a little bit of oil to the water, drop noodles into water and cook until tender but not soft, about 7-10 minutes."
 categories:
@@ -63,7 +63,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 ##### Instructions to make Homemade Pumpkin Noodles:
 
 1. Put all ingredients into a bowl of an electric mixer. Using the dough hook, knead the dough until it is smooth and elastic. Add water one tablespoon at a time if the dough looks dry or add flour one tablespoon at a time if the dough is still sticky. Wrap in plastic wrap, and let sit for 30 minutes at room temperature
-1. Divide dough into 4 equal parts. With a large rolling pin or a pasta machine (I use a machine because it's faster and easier), roll the dough out into a long shape to fit into the pasta machine. Dust with flour to keep the dough from sticking.
+1. Divide dough into 4 equal parts. With a large rolling pin or a pasta machine (I use a machine because it&#39;s faster and easier), roll the dough out into a long shape to fit into the pasta machine. Dust with flour to keep the dough from sticking.
 1. On the machine, turn the knob to 1 for the first roll. Fold the dough back on itself and put the dough through the pasta machine again. Repeat the process a few times until the sheet looks smooth. Sprinkle some flour on the sheet before each roll. Crank up the knob to larger numbers and roll out the sheet until you get to number 4.
 1. If you do not cook the noodle right away, hang them onto a drying rack to dry for at least 2 hours. To cook, bring water to a rapid boil. Add a little bit of oil to the water, drop noodles into water and cook until tender but not soft, about 7-10 minutes.
 

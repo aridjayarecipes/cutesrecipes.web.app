@@ -74,7 +74,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Get 1/2 cup walnuts
 
 
-These banana and blueberry buckwheat bars divided opinion in my house with two of us loving them, two of us not liking them and one sitting on the fence. Banana-sweetened, and studded with sweet-tart blueberries, these breakfast bars are put in the I like to place the blueberries on top so they burst and form a topping, but you can also mix them into. These tasty banana blueberry bars are perfect for breakfast, a snack, or desert (or on a bike ride). It's full of whole food carbohydrates to give you a lasting energy and unrefined sugars for a healthy. 
+These banana and blueberry buckwheat bars divided opinion in my house with two of us loving them, two of us not liking them and one sitting on the fence. Banana-sweetened, and studded with sweet-tart blueberries, these breakfast bars are put in the I like to place the blueberries on top so they burst and form a topping, but you can also mix them into. These tasty banana blueberry bars are perfect for breakfast, a snack, or desert (or on a bike ride). It&#39;s full of whole food carbohydrates to give you a lasting energy and unrefined sugars for a healthy. 
 
 <!--inarticleads2-->
 
@@ -92,6 +92,6 @@ These banana and blueberry buckwheat bars divided opinion in my house with two o
 1. Cool at room temperature for 5-10 minutes before cutting and serving.
 
 
-These tasty banana blueberry bars are perfect for breakfast, a snack, or desert (or on a bike ride). It's full of whole food carbohydrates to give you a lasting energy and unrefined sugars for a healthy. These healthy, soft blueberry banana oat bars are a delicious gluten-free snack or breakfast on the go. This healthy recipe make your house smell amazing! Skinny Banana Blueberry Oatmeal Crumble Bars - Fast, easy, blueberry bars that great for breakfast, snacks, or a healthy dessert! 
+These tasty banana blueberry bars are perfect for breakfast, a snack, or desert (or on a bike ride). It&#39;s full of whole food carbohydrates to give you a lasting energy and unrefined sugars for a healthy. These healthy, soft blueberry banana oat bars are a delicious gluten-free snack or breakfast on the go. This healthy recipe make your house smell amazing! Skinny Banana Blueberry Oatmeal Crumble Bars - Fast, easy, blueberry bars that great for breakfast, snacks, or a healthy dessert! 
 
 So that's going to wrap it up for this special food banana blueberry bars recipe. Thanks so much for your time. I'm sure you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

@@ -20,9 +20,9 @@ recipeingredient:
 - "As per taste Paprika"
 - "As per taste Rock salt Optional"
 recipeinstructions:
-- "For preparation, cut spinach and cabbage into shreds roughly. Wash chicken thoroughly and using a flat base and heavy object press chicken pieces firmly if it's thick so that it can cook softly and juicy."
+- "For preparation, cut spinach and cabbage into shreds roughly. Wash chicken thoroughly and using a flat base and heavy object press chicken pieces firmly if it&#39;s thick so that it can cook softly and juicy."
 - "Marinate chicken with the ingredients."
-- "Bring a pan on high flame and heat it for couple of minutes before adding oil. Lower the flame and add chicken pieces gently. Wait for 4 minutes before flipping it to other side. Make sure it's golden brown before the flip. Cook for another 3 minutes on the other side."
+- "Bring a pan on high flame and heat it for couple of minutes before adding oil. Lower the flame and add chicken pieces gently. Wait for 4 minutes before flipping it to other side. Make sure it&#39;s golden brown before the flip. Cook for another 3 minutes on the other side."
 - "Use the same pan and add another tsp of cooking oil. Once heated add cabbage and let it simmer for couple of minutes. Add spinach to it and cook for another 2 minutes sprinkle salt on top."
 - "Enjoy this combo of tender soft chicken and tasty spinach. You can have as is or pair it up with salad."
 categories:
@@ -75,9 +75,9 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 ##### Instructions to make Chicken Breast Roast with Sauteed Spinach and Cabbage 🥬:
 
-1. For preparation, cut spinach and cabbage into shreds roughly. Wash chicken thoroughly and using a flat base and heavy object press chicken pieces firmly if it's thick so that it can cook softly and juicy.
+1. For preparation, cut spinach and cabbage into shreds roughly. Wash chicken thoroughly and using a flat base and heavy object press chicken pieces firmly if it&#39;s thick so that it can cook softly and juicy.
 1. Marinate chicken with the ingredients.
-1. Bring a pan on high flame and heat it for couple of minutes before adding oil. Lower the flame and add chicken pieces gently. Wait for 4 minutes before flipping it to other side. Make sure it's golden brown before the flip. Cook for another 3 minutes on the other side.
+1. Bring a pan on high flame and heat it for couple of minutes before adding oil. Lower the flame and add chicken pieces gently. Wait for 4 minutes before flipping it to other side. Make sure it&#39;s golden brown before the flip. Cook for another 3 minutes on the other side.
 1. Use the same pan and add another tsp of cooking oil. Once heated add cabbage and let it simmer for couple of minutes. Add spinach to it and cook for another 2 minutes sprinkle salt on top.
 1. Enjoy this combo of tender soft chicken and tasty spinach. You can have as is or pair it up with salad.
 

@@ -29,9 +29,9 @@ recipeinstructions:
 - "Add the remaining flour to the butter mixture and just mix until everything is combined, but don’t over mix."
 - "Gently fold in the blueberries making sure not to burst them."
 - "Using a large ice cream scoop or two spoons, scoop even amounts in your prepared pan, sprinkle a few blueberries on top of each muffin and bake for 25-30 minutes or until a toothpick inserted in the center comes out clean."
-- "Super moist and delicious:) And you can always substitute blueberries with chocolate chips, nuts or raisins if you'd like."
+- "Super moist and delicious:) And you can always substitute blueberries with chocolate chips, nuts or raisins if you&#39;d like."
 - "The regular size muffin pans come with either 6 or 12 cups (each with 1/2-cup capacity), while the jumbo ones have 6 cups (each with a 1-cup capacity). This recipe would make 12 regular size muffins."
-- "You could certainly add more sugar to the batter if it's not sweet enough for you."
+- "You could certainly add more sugar to the batter if it&#39;s not sweet enough for you."
 - "I prefer using unsalted butter since it is easier to control the amount of salt in the recipe. If using salted butter, no need for more salt."
 categories:
 - Recipe
@@ -92,9 +92,9 @@ Try the best blueberry muffin recipe. This Blueberry Muffin Recipe is so yummy. 
 1. Add the remaining flour to the butter mixture and just mix until everything is combined, but don’t over mix.
 1. Gently fold in the blueberries making sure not to burst them.
 1. Using a large ice cream scoop or two spoons, scoop even amounts in your prepared pan, sprinkle a few blueberries on top of each muffin and bake for 25-30 minutes or until a toothpick inserted in the center comes out clean.
-1. Super moist and delicious:) And you can always substitute blueberries with chocolate chips, nuts or raisins if you'd like.
+1. Super moist and delicious:) And you can always substitute blueberries with chocolate chips, nuts or raisins if you&#39;d like.
 1. The regular size muffin pans come with either 6 or 12 cups (each with 1/2-cup capacity), while the jumbo ones have 6 cups (each with a 1-cup capacity). This recipe would make 12 regular size muffins.
-1. You could certainly add more sugar to the batter if it's not sweet enough for you.
+1. You could certainly add more sugar to the batter if it&#39;s not sweet enough for you.
 1. I prefer using unsalted butter since it is easier to control the amount of salt in the recipe. If using salted butter, no need for more salt.
 
 

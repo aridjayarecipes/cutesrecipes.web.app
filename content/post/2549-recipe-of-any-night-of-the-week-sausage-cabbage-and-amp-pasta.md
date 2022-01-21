@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Any-night-of-the-week Sausage, Cabbage, &amp; Pasta"
-title: "Recipe of Any-night-of-the-week Sausage, Cabbage, &amp; Pasta"
+description: "Recipe of Any-night-of-the-week Sausage, Cabbage, &amp;amp; Pasta"
+title: "Recipe of Any-night-of-the-week Sausage, Cabbage, &amp;amp; Pasta"
 slug: 2549-recipe-of-any-night-of-the-week-sausage-cabbage-and-amp-pasta
 date: 2021-10-29T00:58:56.073Z
 image: https://img-global.cpcdn.com/recipes/913dc96642b91f19/680x482cq70/sausage-cabbage-pasta-recipe-main-photo.jpg
@@ -43,20 +43,20 @@ recipecategory: Dinner
 ---
 
 
-![Sausage, Cabbage, & Pasta](https://img-global.cpcdn.com/recipes/913dc96642b91f19/680x482cq70/sausage-cabbage-pasta-recipe-main-photo.jpg)
+![Sausage, Cabbage, &amp; Pasta](https://img-global.cpcdn.com/recipes/913dc96642b91f19/680x482cq70/sausage-cabbage-pasta-recipe-main-photo.jpg)
 
-Hey everyone, I hope you're having an incredible day today. Today, I will show you a way to prepare a distinctive dish, sausage, cabbage, & pasta. One of my favorites. For mine, I will make it a bit tasty. This is gonna smell and look delicious.
+Hey everyone, I hope you're having an incredible day today. Today, I will show you a way to prepare a distinctive dish, sausage, cabbage, &amp; pasta. One of my favorites. For mine, I will make it a bit tasty. This is gonna smell and look delicious.
 
 Hello Everyone today we have a quick but fulfilling meal. Give it a try, it was truly delicious. Thank you so much for watching. This search takes into account your taste preferences.
 
-Sausage, Cabbage, & Pasta is one of the most well liked of current trending meals in the world. It is enjoyed by millions every day. It is easy, it is fast, it tastes yummy. Sausage, Cabbage, & Pasta is something which I have loved my whole life. They're fine and they look fantastic.
+Sausage, Cabbage, &amp; Pasta is one of the most well liked of current trending meals in the world. It is enjoyed by millions every day. It is easy, it is fast, it tastes yummy. Sausage, Cabbage, &amp; Pasta is something which I have loved my whole life. They're fine and they look fantastic.
 
 
-To get started with this particular recipe, we have to first prepare a few components. You can cook sausage, cabbage, & pasta using 9 ingredients and 5 steps. Here is how you can achieve that.
+To get started with this particular recipe, we have to first prepare a few components. You can cook sausage, cabbage, &amp; pasta using 9 ingredients and 5 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Sausage, Cabbage, & Pasta:
+##### The ingredients needed to make Sausage, Cabbage, &amp; Pasta:
 
 1. Take 1 medium head red cabbage
 1. Take 24 oz hot Italian sausage
@@ -69,11 +69,11 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Take  Couple glugs Merlot
 
 
-This Sausage and Cabbage Cabbage is a great vegetable. It's firm texture holds up well to dressings making it perfect for salads. Cabbage and sausage is a classic pairing that's enhanced with a simple spice blend. While cabbage and sausage is a fairly straightforward + simple recipe, this dish doesn't Cabbage And Sausage Ingredients. (Note: the full ingredients list, including measurements, is provided in the. 
+This Sausage and Cabbage Cabbage is a great vegetable. It&#39;s firm texture holds up well to dressings making it perfect for salads. Cabbage and sausage is a classic pairing that&#39;s enhanced with a simple spice blend. While cabbage and sausage is a fairly straightforward + simple recipe, this dish doesn&#39;t Cabbage And Sausage Ingredients. (Note: the full ingredients list, including measurements, is provided in the. 
 
 <!--inarticleads2-->
 
-##### Instructions to make Sausage, Cabbage, & Pasta:
+##### Instructions to make Sausage, Cabbage, &amp; Pasta:
 
 1. Brown sausage in Dutch oven, remove. (Start tall pot of salted water for pasta)
 1. Chop and add onions along with herbs
@@ -82,6 +82,6 @@ This Sausage and Cabbage Cabbage is a great vegetable. It's firm texture holds u
 1. Cook until tender. Return sausage to pan. Olive oil and salt to taste. Serve over pasta
 
 
-Cabbage and sausage is a classic pairing that's enhanced with a simple spice blend. While cabbage and sausage is a fairly straightforward + simple recipe, this dish doesn't Cabbage And Sausage Ingredients. (Note: the full ingredients list, including measurements, is provided in the. Cabbage and Sausage Casserole Adapted from Jane Grigson, by way of Tamasin Day-Lewis, by My husband made almost this exact dish yesterday. Only we cooked the sausage and cabbage down. See recipes for Cabbage, Smoked Sausage, and Carrot too. 
+Cabbage and sausage is a classic pairing that&#39;s enhanced with a simple spice blend. While cabbage and sausage is a fairly straightforward + simple recipe, this dish doesn&#39;t Cabbage And Sausage Ingredients. (Note: the full ingredients list, including measurements, is provided in the. Cabbage and Sausage Casserole Adapted from Jane Grigson, by way of Tamasin Day-Lewis, by My husband made almost this exact dish yesterday. Only we cooked the sausage and cabbage down. See recipes for Cabbage, Smoked Sausage, and Carrot too. 
 
-So that's going to wrap this up with this special food sausage, cabbage, & pasta recipe. Thanks so much for reading. I am sure that you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!
+So that's going to wrap this up with this special food sausage, cabbage, &amp; pasta recipe. Thanks so much for reading. I am sure that you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

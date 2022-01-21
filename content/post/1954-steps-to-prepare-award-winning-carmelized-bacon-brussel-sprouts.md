@@ -21,7 +21,7 @@ recipeinstructions:
 - "In a large pan add your water and a pinch of salt."
 - "Trim all of your brussel sprouts."
 - "Boil the water and place the brussel sprout in the pan covered for 2 to 3 minutes. Just long enough to make tender."
-- "Strain the brussel sprout's and cool them off in some cold water. Cut them all in half once cooled."
+- "Strain the brussel sprout&#39;s and cool them off in some cold water. Cut them all in half once cooled."
 - "In the same large pan cook your cut bacon until nice and cripy."
 - "Once your bacon is done remove it from the pan, leaving the greese then add your onions and parboiled brussel sprouts cut side down. Add the butter and garlic powder and carmilize them."
 - "Place the bacon back into the pan. Toss all together in the pan. Finish off with salt and pepper. Remove any unwanted liquids. Plate them and enjoy."
@@ -76,7 +76,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. In a large pan add your water and a pinch of salt.
 1. Trim all of your brussel sprouts.
 1. Boil the water and place the brussel sprout in the pan covered for 2 to 3 minutes. Just long enough to make tender.
-1. Strain the brussel sprout's and cool them off in some cold water. Cut them all in half once cooled.
+1. Strain the brussel sprout&#39;s and cool them off in some cold water. Cut them all in half once cooled.
 1. In the same large pan cook your cut bacon until nice and cripy.
 1. Once your bacon is done remove it from the pan, leaving the greese then add your onions and parboiled brussel sprouts cut side down. Add the butter and garlic powder and carmilize them.
 1. Place the bacon back into the pan. Toss all together in the pan. Finish off with salt and pepper. Remove any unwanted liquids. Plate them and enjoy.

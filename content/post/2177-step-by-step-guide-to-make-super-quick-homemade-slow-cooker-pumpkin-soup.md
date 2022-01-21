@@ -47,7 +47,7 @@ recipecategory: Dinner
 
 Hey everyone, it's me again, Dan, welcome to our recipe site. Today, I will show you a way to prepare a special dish, slow cooker pumpkin soup. One of my favorites food recipes. For mine, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
 
-This slow cooker pumpkin soup manages to check several boxes at once. Not only is it simple to make and so satisfying on a cold night, but it's also vegan Pumpkin is a nutritional superstar: it's low in calories, high in fiber, and provides more than double your daily dose of Vitamin A in just one serving. A simple soup with pumpkin, chicken broth, onion and some select herbs. This easy soup will really warm you up on a winter evening!
+This slow cooker pumpkin soup manages to check several boxes at once. Not only is it simple to make and so satisfying on a cold night, but it&#39;s also vegan Pumpkin is a nutritional superstar: it&#39;s low in calories, high in fiber, and provides more than double your daily dose of Vitamin A in just one serving. A simple soup with pumpkin, chicken broth, onion and some select herbs. This easy soup will really warm you up on a winter evening!
 
 Slow cooker pumpkin soup is one of the most favored of recent trending meals on earth. It is appreciated by millions daily. It is simple, it's quick, it tastes yummy. They're nice and they look fantastic. Slow cooker pumpkin soup is something which I've loved my whole life.
 

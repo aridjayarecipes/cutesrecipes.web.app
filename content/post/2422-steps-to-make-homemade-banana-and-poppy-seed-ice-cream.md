@@ -70,7 +70,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 1. Get 1/4 lime juice
 
 
-Mashed bananas and poppy seeds are mixed with whole wheat flour and wheat bran in these wonderful, hearty muffins. I should have paid more attention - so many positive ratings were to MODIFIED recipes. We'll smear these in cream cheese and honey and eat the dozen but I'll never. Lemon Poppy Seed Ice Cream - vegan, dairy-free and low carb. 
+Mashed bananas and poppy seeds are mixed with whole wheat flour and wheat bran in these wonderful, hearty muffins. I should have paid more attention - so many positive ratings were to MODIFIED recipes. We&#39;ll smear these in cream cheese and honey and eat the dozen but I&#39;ll never. Lemon Poppy Seed Ice Cream - vegan, dairy-free and low carb. 
 
 <!--inarticleads2-->
 
@@ -86,6 +86,6 @@ Mashed bananas and poppy seeds are mixed with whole wheat flour and wheat bran i
 1. Freeze overnight and then server with fruit toppings
 
 
-We'll smear these in cream cheese and honey and eat the dozen but I'll never. Lemon Poppy Seed Ice Cream - vegan, dairy-free and low carb. Chunky Monkey Ice Cream Sandwiches (vegan + gluten free + raw option). These ice cream sandwiches are a compilation of some of my favorite things: ice cream, chocolate, dates, bananas, Ben & Jerry's, brownies, healthy. Poppy seed is an oilseed obtained from the opium poppy (Papaver somniferum). 
+We&#39;ll smear these in cream cheese and honey and eat the dozen but I&#39;ll never. Lemon Poppy Seed Ice Cream - vegan, dairy-free and low carb. Chunky Monkey Ice Cream Sandwiches (vegan + gluten free + raw option). These ice cream sandwiches are a compilation of some of my favorite things: ice cream, chocolate, dates, bananas, Ben &amp; Jerry&#39;s, brownies, healthy. Poppy seed is an oilseed obtained from the opium poppy (Papaver somniferum). 
 
 So that's going to wrap this up with this special food banana and poppy seed ice cream recipe. Thanks so much for reading. I'm confident that you can make this at home. There's gonna be interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

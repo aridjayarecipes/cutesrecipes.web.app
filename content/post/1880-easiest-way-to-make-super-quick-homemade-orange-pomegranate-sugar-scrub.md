@@ -46,7 +46,7 @@ Hey everyone, I hope you're having an amazing day today. Today, I'm gonna show y
 
 orange pomegranate sugar scrub is one of the most popular of recent trending foods on earth. It's enjoyed by millions every day. It is easy, it's quick, it tastes delicious. They're fine and they look fantastic. orange pomegranate sugar scrub is something that I've loved my entire life.
 
-Sugar Scrub, Sugar Scrub recipe, homemade sugar scrub, diy beauty products, how to reduce stress, Sams Club, Healthy Living, Stress-Free Holiday Home » DIY » Homemade Beauty Products » Orange and Pomegranate Sugar Scrub and a Stress Free Holiday with Sams Club #SimplyHealthy. orange pomegranate sugar scrub. sugar•baby oil•drops of desired scented oil. I used orange•dawn dish soap woth olay. I used pomegranate•mason jar•ribbon for decoration if you'd like. The following pomegranate orange scrub is incredibly easy to make!
+Sugar Scrub, Sugar Scrub recipe, homemade sugar scrub, diy beauty products, how to reduce stress, Sams Club, Healthy Living, Stress-Free Holiday Home » DIY » Homemade Beauty Products » Orange and Pomegranate Sugar Scrub and a Stress Free Holiday with Sams Club #SimplyHealthy. orange pomegranate sugar scrub. sugar•baby oil•drops of desired scented oil. I used orange•dawn dish soap woth olay. I used pomegranate•mason jar•ribbon for decoration if you&#39;d like. The following pomegranate orange scrub is incredibly easy to make!
 
 
 To get started with this recipe, we have to first prepare a few components. You can have orange pomegranate sugar scrub using 6 ingredients and 5 steps. Here is how you cook that.
@@ -60,7 +60,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Get 2 drops of desired scented oil. I used orange
 1. Make ready 1/4 cup dawn dish soap woth olay. I used pomegranate
 1. Prepare 1 mason jar
-1. Prepare 1 ribbon for decoration if you'd like
+1. Prepare 1 ribbon for decoration if you&#39;d like
 
 
 DIY Peppermint Sugar Scrub - Homemade Body Scrub Recipe with Essential Oil + Free Printable Label. See how to make easy DIY mint sugar scrub This creamy whipped sugary soap is just what your body is looking for! It is so fluffy and moisturizing which makes it perfect for the hands, feet, arms. Today I am sharing my Pomegranate Sugar Scrub. 

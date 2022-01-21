@@ -53,7 +53,7 @@ recipeinstructions:
 - "Strain it with a flour sifter."
 - "【Cream】Add granulated sugar to heavy cream. Whip it to soft-peak stage. Add rum and vanilla essence and mix well."
 - "【Assemble Mont Blanc.】Squeeze a small amount of whipped cream on the dacquoise. Place one pumpkin glace on it. Then squeeze the whipped cream to a dome shape."
-- "Smooth the side of the whipped cream with a spatula. Squeeze the pumpkin cream around the whipped cream. Put 2 pumpkin seeds on the top. It's all done!"
+- "Smooth the side of the whipped cream with a spatula. Squeeze the pumpkin cream around the whipped cream. Put 2 pumpkin seeds on the top. It&#39;s all done!"
 categories:
 - Recipe
 tags:
@@ -137,7 +137,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Strain it with a flour sifter.
 1. 【Cream】Add granulated sugar to heavy cream. Whip it to soft-peak stage. Add rum and vanilla essence and mix well.
 1. 【Assemble Mont Blanc.】Squeeze a small amount of whipped cream on the dacquoise. Place one pumpkin glace on it. Then squeeze the whipped cream to a dome shape.
-1. Smooth the side of the whipped cream with a spatula. Squeeze the pumpkin cream around the whipped cream. Put 2 pumpkin seeds on the top. It's all done!
+1. Smooth the side of the whipped cream with a spatula. Squeeze the pumpkin cream around the whipped cream. Put 2 pumpkin seeds on the top. It&#39;s all done!
 
 
 

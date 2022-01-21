@@ -46,7 +46,7 @@ recipecategory: Dessert
 
 Hello everybody, hope you are having an incredible day today. Today, we're going to prepare a distinctive dish, shrimp tempura with green salad. It is one of my favorites. This time, I am going to make it a little bit tasty. This will be really delicious.
 
-Shrimp, salt & pepper, batter, thai tempura mix, egg, breadcrumbs, green salad, lettuce, pomegranate, onion, cheese. Dip the shrimp on the batter and then fry. Shrimp Salt & pepper Batter Thai tempura mix Egg Breadcrumbs Green salad Lettuce Pomegranate Onion Cheese Steps. To get started with this particular recipe, we have to first prepare a few components.
+Shrimp, salt &amp; pepper, batter, thai tempura mix, egg, breadcrumbs, green salad, lettuce, pomegranate, onion, cheese. Dip the shrimp on the batter and then fry. Shrimp Salt &amp; pepper Batter Thai tempura mix Egg Breadcrumbs Green salad Lettuce Pomegranate Onion Cheese Steps. To get started with this particular recipe, we have to first prepare a few components.
 
 Shrimp tempura with green salad is one of the most well liked of recent trending meals on earth. It is simple, it is fast, it tastes delicious. It's enjoyed by millions daily. They're fine and they look fantastic. Shrimp tempura with green salad is something that I've loved my whole life.
 
@@ -58,7 +58,7 @@ To get started with this recipe, we must first prepare a few components. You can
 ##### The ingredients needed to make Shrimp tempura with green salad:
 
 1. Prepare  Shrimp
-1. Take  Salt & pepper
+1. Take  Salt &amp; pepper
 1. Make ready  Batter
 1. Make ready  Thai tempura mix
 1. Make ready  Egg

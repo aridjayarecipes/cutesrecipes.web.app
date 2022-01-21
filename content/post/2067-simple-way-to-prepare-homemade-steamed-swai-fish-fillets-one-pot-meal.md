@@ -85,7 +85,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have st
 1. Prepare 1 tsp garlic, minced
 1. Take 1/2 tsp lemon juice
 1. Prepare  worcestershire sauce
-1. Prepare 1 DON'T USE AS MUCH WATER OR RICE WILL BE SOGGY
+1. Prepare 1 DON&#39;T USE AS MUCH WATER OR RICE WILL BE SOGGY
 
 
 

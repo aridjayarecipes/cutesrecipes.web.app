@@ -39,7 +39,7 @@ recipecategory: Dinner
 
 Hello everybody, I hope you are having an incredible day today. Today, I will show you a way to prepare a special dish, pumpkin dump cake. It is one of my favorites food recipes. For mine, I will make it a little bit tasty. This is gonna smell and look delicious.
 
-This pumpkin dump cake is just as easy as the classic. With spiced cake mix and pumpkin puree, you'll have a tasty fall treat ready in a jiff. This Easy PUMPKIN DUMP CAKE recipe will quickly become your go-to fall dessert! It's a pumpkin dump cake recipe with yellow cake mix, evaporated milk and a few other easy ingredient.
+This pumpkin dump cake is just as easy as the classic. With spiced cake mix and pumpkin puree, you&#39;ll have a tasty fall treat ready in a jiff. This Easy PUMPKIN DUMP CAKE recipe will quickly become your go-to fall dessert! It&#39;s a pumpkin dump cake recipe with yellow cake mix, evaporated milk and a few other easy ingredient.
 
 Pumpkin dump cake is one of the most favored of recent trending foods on earth. It is simple, it's quick, it tastes yummy. It is appreciated by millions daily. They are fine and they look wonderful. Pumpkin dump cake is something which I've loved my entire life.
 

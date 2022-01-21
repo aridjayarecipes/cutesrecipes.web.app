@@ -18,7 +18,7 @@ recipeingredient:
 - "1 as required Pepper"
 recipeinstructions:
 - "Rinse the Brussels sprouts and make a crisscross cut on each bottom.  Cut the large ones in half. Cut the larger mushrooms in half as well."
-- "Place the Brussels sprouts in a heatproof dish.  Sprinkle on the olive oil and a hint of salt and mix them evenly.  It's better to coat the inside of the heatproof dish as well."
+- "Place the Brussels sprouts in a heatproof dish.  Sprinkle on the olive oil and a hint of salt and mix them evenly.  It&#39;s better to coat the inside of the heatproof dish as well."
 - "Bake in the oven at 220℃ for about 10 minutes.  Take it out of the oven and add the mushrooms.  Sprinkle on the olive oil and a little salt again and bake 10 more minutes."
 - "Once the vegetables are tender, top with the cheese and bake until bubbly and it is done.  Grind a desirable amount of pepper on top and enjoy.  Sprinkle some herbs on if you prefer."
 categories:
@@ -69,7 +69,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 ##### Steps to make Brussels Sprouts and Mushrooms with Cheese:
 
 1. Rinse the Brussels sprouts and make a crisscross cut on each bottom.  Cut the large ones in half. Cut the larger mushrooms in half as well.
-1. Place the Brussels sprouts in a heatproof dish.  Sprinkle on the olive oil and a hint of salt and mix them evenly.  It's better to coat the inside of the heatproof dish as well.
+1. Place the Brussels sprouts in a heatproof dish.  Sprinkle on the olive oil and a hint of salt and mix them evenly.  It&#39;s better to coat the inside of the heatproof dish as well.
 1. Bake in the oven at 220℃ for about 10 minutes.  Take it out of the oven and add the mushrooms.  Sprinkle on the olive oil and a little salt again and bake 10 more minutes.
 1. Once the vegetables are tender, top with the cheese and bake until bubbly and it is done.  Grind a desirable amount of pepper on top and enjoy.  Sprinkle some herbs on if you prefer.
 

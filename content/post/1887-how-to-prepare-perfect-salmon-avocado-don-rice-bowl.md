@@ -18,13 +18,13 @@ recipeingredient:
 - "1 tsp Wasabi paste"
 - "to taste Roasted sesame seeds"
 recipeinstructions:
-- "Chop or slice salmon & avocado into bite size pieces. Use very fresh salmon as used for sushi. If you don't like uncooked fish, lightly cooked salmon will be ok too."
-- "Put salmon & avocado on cooked rice."
-- "Hontsuyu is the soup base which is a mixture of soy sauce, sugar, fish & seaweed broth. You can get it at Amazon or International Markets like Jungle Jim's in Ohio."
-- "Please make sure to use "Japanese" sesame oil. The one you can get at the local grocery store is a different one. The smell and texture are completely different. You can also get a Japanese sesame oil at Amazon or the Jungle Jim's. KADOYA is very popular in Japan, and the price isn't so expensive in the US."
-- "Mix hontsuxu, sesame oil and wasabi well in a bowl. Pour this sauce over salmon & avocado."
+- "Chop or slice salmon &amp; avocado into bite size pieces. Use very fresh salmon as used for sushi. If you don&#39;t like uncooked fish, lightly cooked salmon will be ok too."
+- "Put salmon &amp; avocado on cooked rice."
+- "Hontsuyu is the soup base which is a mixture of soy sauce, sugar, fish &amp; seaweed broth. You can get it at Amazon or International Markets like Jungle Jim&#39;s in Ohio."
+- "Please make sure to use &#34;Japanese&#34; sesame oil. The one you can get at the local grocery store is a different one. The smell and texture are completely different. You can also get a Japanese sesame oil at Amazon or the Jungle Jim&#39;s. KADOYA is very popular in Japan, and the price isn&#39;t so expensive in the US."
+- "Mix hontsuxu, sesame oil and wasabi well in a bowl. Pour this sauce over salmon &amp; avocado."
 - "Sprinkle roasted sesame seeds on top."
-- "Richer!! → Soak salmon & avocado in sauce mixture and keep it in the refrigerator at least 30 mins. Next day the taste becomes even richer!"
+- "Richer!! → Soak salmon &amp; avocado in sauce mixture and keep it in the refrigerator at least 30 mins. Next day the taste becomes even richer!"
 - "It also goes well as a salad topping or enjoy it with crackers."
 categories:
 - Recipe
@@ -74,13 +74,13 @@ To get started with this recipe, we must prepare a few ingredients. You can cook
 
 ##### Steps to make Salmon Avocado Don Rice Bowl:
 
-1. Chop or slice salmon & avocado into bite size pieces. Use very fresh salmon as used for sushi. If you don't like uncooked fish, lightly cooked salmon will be ok too.
-1. Put salmon & avocado on cooked rice.
-1. Hontsuyu is the soup base which is a mixture of soy sauce, sugar, fish & seaweed broth. You can get it at Amazon or International Markets like Jungle Jim's in Ohio.
-1. Please make sure to use "Japanese" sesame oil. The one you can get at the local grocery store is a different one. The smell and texture are completely different. You can also get a Japanese sesame oil at Amazon or the Jungle Jim's. KADOYA is very popular in Japan, and the price isn't so expensive in the US.
-1. Mix hontsuxu, sesame oil and wasabi well in a bowl. Pour this sauce over salmon & avocado.
+1. Chop or slice salmon &amp; avocado into bite size pieces. Use very fresh salmon as used for sushi. If you don&#39;t like uncooked fish, lightly cooked salmon will be ok too.
+1. Put salmon &amp; avocado on cooked rice.
+1. Hontsuyu is the soup base which is a mixture of soy sauce, sugar, fish &amp; seaweed broth. You can get it at Amazon or International Markets like Jungle Jim&#39;s in Ohio.
+1. Please make sure to use &#34;Japanese&#34; sesame oil. The one you can get at the local grocery store is a different one. The smell and texture are completely different. You can also get a Japanese sesame oil at Amazon or the Jungle Jim&#39;s. KADOYA is very popular in Japan, and the price isn&#39;t so expensive in the US.
+1. Mix hontsuxu, sesame oil and wasabi well in a bowl. Pour this sauce over salmon &amp; avocado.
 1. Sprinkle roasted sesame seeds on top.
-1. Richer!! → Soak salmon & avocado in sauce mixture and keep it in the refrigerator at least 30 mins. Next day the taste becomes even richer!
+1. Richer!! → Soak salmon &amp; avocado in sauce mixture and keep it in the refrigerator at least 30 mins. Next day the taste becomes even richer!
 1. It also goes well as a salad topping or enjoy it with crackers.
 
 

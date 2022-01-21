@@ -87,7 +87,7 @@ ASIAN STYLE COOKING:
 1. Make ready 1 cup pineapple
 
 
-Marinated and Baked Tofu over Crunchy Greens, Peppers, Cucumber and carrots. We had this for lunch & added cooked & cooled rice noodles - yum! Will be making again very soon. Raw Asian Carrot Avocado Salad [Vegan]. 
+Marinated and Baked Tofu over Crunchy Greens, Peppers, Cucumber and carrots. We had this for lunch &amp; added cooked &amp; cooled rice noodles - yum! Will be making again very soon. Raw Asian Carrot Avocado Salad [Vegan]. 
 
 <!--inarticleads2-->
 
@@ -100,7 +100,7 @@ ASIAN STYLE COOKING:
 1. add Romania salad and pineapple and starfruits then mix well
 
 
-Will be making again very soon. Raw Asian Carrot Avocado Salad [Vegan]. This is absolutely, by far, one of my favorite salads!!! · Cuban black beans and rice is a simple vegan recipe that's full of flavor and cheap to make. Learn how to make an easy japanese style vegan yakisoba noodles stir fry recipe!lay ho ma! We serve a variety of salads. 
+Will be making again very soon. Raw Asian Carrot Avocado Salad [Vegan]. This is absolutely, by far, one of my favorite salads!!! · Cuban black beans and rice is a simple vegan recipe that&#39;s full of flavor and cheap to make. Learn how to make an easy japanese style vegan yakisoba noodles stir fry recipe!lay ho ma! We serve a variety of salads. 
 
 So that's going to wrap this up for this exceptional food lg beanburd puff salad
 ( vegan )

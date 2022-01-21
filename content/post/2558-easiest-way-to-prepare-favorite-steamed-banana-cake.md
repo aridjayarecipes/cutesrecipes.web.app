@@ -27,7 +27,7 @@ recipeingredient:
 recipeinstructions:
 - "Mix wet ingredients (banana, eggs, oil, vanilla, butter, milk)"
 - "Combine dry ingredients (flour, sugar, baking powder, baking soda, salt, chocolates, nuts). Mix well."
-- "Combine wet & dry ingredients."
+- "Combine wet &amp; dry ingredients."
 - "Grease mold with vegetable oil."
 - "Pour batter to mould."
 - "Put 5 pcs of whole nuts on top of the batter."
@@ -91,7 +91,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 
 1. Mix wet ingredients (banana, eggs, oil, vanilla, butter, milk)
 1. Combine dry ingredients (flour, sugar, baking powder, baking soda, salt, chocolates, nuts). Mix well.
-1. Combine wet & dry ingredients.
+1. Combine wet &amp; dry ingredients.
 1. Grease mold with vegetable oil.
 1. Pour batter to mould.
 1. Put 5 pcs of whole nuts on top of the batter.

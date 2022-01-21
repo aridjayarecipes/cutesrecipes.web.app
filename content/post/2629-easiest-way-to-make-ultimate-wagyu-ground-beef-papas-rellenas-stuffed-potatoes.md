@@ -105,7 +105,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Make ready 1 1/2 TSP Kosher Salt
 1. Get 2 TBSP Arrowroot Powder
 1. Prepare 1 Egg
-1. Get  Kosher Salt & Freshly Ground Black Pepper (to taste)
+1. Get  Kosher Salt &amp; Freshly Ground Black Pepper (to taste)
 1. Get  Avocado Sauce
 1. Make ready 1 Large Ripe Avocado (mashed)
 1. Take 3/4 CUP Sour Cream

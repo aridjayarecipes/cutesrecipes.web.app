@@ -25,7 +25,7 @@ recipeinstructions:
 - "Preheat oven to 180° celcius. Line a muffin tin with patty pans."
 - "In a large bowl, mash bananas, mix in the, egg, 1/2 cup of water, oil. Add in sifted flours, baking soda. Mix well, until nice and smooth, lumps from the banana is fine. Fold in blueberries."
 - "Pour mixture evenly into the prepared patty pans. Cook for 12-15 minutes (skewer test), if it comes out clean they are cooked."
-- "Whilst muffins are cooking, in a small bowl combine cacao & 3-4 Tablespoons of water. Mix really well, you are looking for an icing thickness."
+- "Whilst muffins are cooking, in a small bowl combine cacao &amp; 3-4 Tablespoons of water. Mix really well, you are looking for an icing thickness."
 - "Once muffins have cooked, place onto a wire rack to cool."
 - "Once cooled place onto a plate, and pour cacao over the top of the muffin."
 categories:
@@ -83,7 +83,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Preheat oven to 180° celcius. Line a muffin tin with patty pans.
 1. In a large bowl, mash bananas, mix in the, egg, 1/2 cup of water, oil. Add in sifted flours, baking soda. Mix well, until nice and smooth, lumps from the banana is fine. Fold in blueberries.
 1. Pour mixture evenly into the prepared patty pans. Cook for 12-15 minutes (skewer test), if it comes out clean they are cooked.
-1. Whilst muffins are cooking, in a small bowl combine cacao & 3-4 Tablespoons of water. Mix really well, you are looking for an icing thickness.
+1. Whilst muffins are cooking, in a small bowl combine cacao &amp; 3-4 Tablespoons of water. Mix really well, you are looking for an icing thickness.
 1. Once muffins have cooked, place onto a wire rack to cool.
 1. Once cooled place onto a plate, and pour cacao over the top of the muffin.
 

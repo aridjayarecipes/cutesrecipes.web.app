@@ -49,7 +49,7 @@ Hey everyone, I hope you are having an incredible day today. Today, we're going 
 
 Chicken with plum chutney is one of the most popular of current trending foods in the world. It is appreciated by millions every day. It's simple, it is quick, it tastes delicious. They are fine and they look wonderful. Chicken with plum chutney is something that I have loved my entire life.
 
-It's plum season here on the East Coast, and today I'm using this ripe fruit in a super-simple chutney. Stewed with red onions and half of a jalapeno, this. Serve chicken with chutney spooned on top. In addition to being high in vitamin C and fiber, plums pack potent antioxidants, which may help protect against heart disease and cancer.
+It&#39;s plum season here on the East Coast, and today I&#39;m using this ripe fruit in a super-simple chutney. Stewed with red onions and half of a jalapeno, this. Serve chicken with chutney spooned on top. In addition to being high in vitamin C and fiber, plums pack potent antioxidants, which may help protect against heart disease and cancer.
 
 
 To begin with this recipe, we have to first prepare a few components. You can have chicken with plum chutney using 10 ingredients and 4 steps. Here is how you can achieve that.

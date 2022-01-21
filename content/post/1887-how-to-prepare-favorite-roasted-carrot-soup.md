@@ -53,7 +53,7 @@ Hey everyone, I hope you're having an incredible day today. Today, we're going t
 
 Roasted carrot soup is one of the most favored of recent trending meals in the world. It is simple, it is quick, it tastes delicious. It is appreciated by millions every day. They're fine and they look fantastic. Roasted carrot soup is something that I have loved my entire life.
 
-Watch how to make the best carrot soup in this short recipe video! It's lusciously creamy (yet cream-less) and full of caramelized roasted carrot flavor. Roasted Carrot Soup is a simple yet delicious soup that is very easy to prepare. Combined with chicken stock and garlic.
+Watch how to make the best carrot soup in this short recipe video! It&#39;s lusciously creamy (yet cream-less) and full of caramelized roasted carrot flavor. Roasted Carrot Soup is a simple yet delicious soup that is very easy to prepare. Combined with chicken stock and garlic.
 
 
 To begin with this particular recipe, we must prepare a few ingredients. You can have roasted carrot soup using 10 ingredients and 8 steps. Here is how you cook it.
@@ -90,6 +90,6 @@ Peel and roughly chop the carrots and sweet potatoes and place on a baking sheet
 1. Use emulsion blender until smooth
 
 
-This satisfying and healthy roasted carrot soup has the perfect hint of ginger and gets an additional flavor boost from roasted garlic and onions. Roasted + Clean Carrot Soup. goop. The idea here is to slow roast and caramelize half the carrots and keep the other half super clean. Roasted carrot soup sounds fancy, right? While this looks very fancy and pretty in a bowl, it's definitely not hard to make on your own. 
+This satisfying and healthy roasted carrot soup has the perfect hint of ginger and gets an additional flavor boost from roasted garlic and onions. Roasted + Clean Carrot Soup. goop. The idea here is to slow roast and caramelize half the carrots and keep the other half super clean. Roasted carrot soup sounds fancy, right? While this looks very fancy and pretty in a bowl, it&#39;s definitely not hard to make on your own. 
 
 So that's going to wrap this up for this special food roasted carrot soup recipe. Thank you very much for reading. I'm confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

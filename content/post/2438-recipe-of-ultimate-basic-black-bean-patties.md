@@ -21,15 +21,15 @@ recipeingredient:
 - "2 eggs"
 - "1 olive oil"
 recipeinstructions:
-- "*** The basic recipe is the beans, bread crumbs & eggs. Season however you would like - seasoning listed is just how I made it this time and it happened to be a quick dinner kinda night lol. I usually use lots of fresh ingredients - whatever i have on hand. Fresh cilantro, fresh herbs, sweet onions, peppers, garlic, lime - whatever you enjoy will taste great."
+- "*** The basic recipe is the beans, bread crumbs &amp; eggs. Season however you would like - seasoning listed is just how I made it this time and it happened to be a quick dinner kinda night lol. I usually use lots of fresh ingredients - whatever i have on hand. Fresh cilantro, fresh herbs, sweet onions, peppers, garlic, lime - whatever you enjoy will taste great."
 - "Preheat oven to 375."
 - "In a medium bowl - mix together black beans and seasonings of your choice."
 - "With a potato masher or fork - mash bean mixture."
-- "Add in bread crumbs & eggs. MIX WELL - everything should be well blended and moist."
+- "Add in bread crumbs &amp; eggs. MIX WELL - everything should be well blended and moist."
 - "Form mixture into 4-5 patties."
 - "Grease a baking dish with a drizzle of olive oil and brush a bit of olive oil on top of each patty."
 - "Bake for 16 - 20 minutes - depending on thickness - flip patty halfway thru baking- tops should be lightly browned."
-- "There are so many ways of serving these patties...you can serve them as burgers w/cheese and the normal burger fixings, or top with salsa & sour cream or tahini sauce or fresh herbs or lime...however you would prefer. Enjoy...XOXO...psychobetty."
+- "There are so many ways of serving these patties...you can serve them as burgers w/cheese and the normal burger fixings, or top with salsa &amp; sour cream or tahini sauce or fresh herbs or lime...however you would prefer. Enjoy...XOXO...psychobetty."
 categories:
 - Recipe
 tags:
@@ -63,7 +63,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 
 ##### The ingredients needed to make Basic Black Bean Patties:
 
-1. Take 1 can black beans - rinsed well & drained
+1. Take 1 can black beans - rinsed well &amp; drained
 1. Get 1 tsp garlic powder
 1. Prepare 1 tsp cumin
 1. Make ready 1 tsp granulated onion / onion powder
@@ -81,15 +81,15 @@ To get started with this recipe, we have to prepare a few components. You can ha
 
 ##### Instructions to make Basic Black Bean Patties:
 
-1. *** The basic recipe is the beans, bread crumbs & eggs. Season however you would like - seasoning listed is just how I made it this time and it happened to be a quick dinner kinda night lol. I usually use lots of fresh ingredients - whatever i have on hand. Fresh cilantro, fresh herbs, sweet onions, peppers, garlic, lime - whatever you enjoy will taste great.
+1. *** The basic recipe is the beans, bread crumbs &amp; eggs. Season however you would like - seasoning listed is just how I made it this time and it happened to be a quick dinner kinda night lol. I usually use lots of fresh ingredients - whatever i have on hand. Fresh cilantro, fresh herbs, sweet onions, peppers, garlic, lime - whatever you enjoy will taste great.
 1. Preheat oven to 375.
 1. In a medium bowl - mix together black beans and seasonings of your choice.
 1. With a potato masher or fork - mash bean mixture.
-1. Add in bread crumbs & eggs. MIX WELL - everything should be well blended and moist.
+1. Add in bread crumbs &amp; eggs. MIX WELL - everything should be well blended and moist.
 1. Form mixture into 4-5 patties.
 1. Grease a baking dish with a drizzle of olive oil and brush a bit of olive oil on top of each patty.
 1. Bake for 16 - 20 minutes - depending on thickness - flip patty halfway thru baking- tops should be lightly browned.
-1. There are so many ways of serving these patties...you can serve them as burgers w/cheese and the normal burger fixings, or top with salsa & sour cream or tahini sauce or fresh herbs or lime...however you would prefer. Enjoy...XOXO...psychobetty.
+1. There are so many ways of serving these patties...you can serve them as burgers w/cheese and the normal burger fixings, or top with salsa &amp; sour cream or tahini sauce or fresh herbs or lime...however you would prefer. Enjoy...XOXO...psychobetty.
 
 
 

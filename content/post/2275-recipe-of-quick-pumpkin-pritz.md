@@ -57,7 +57,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 1. Get 60 g Cake flour
 1. Get 1.5 tbsp Butter
 1. Take 1 tsp Granulated consume
-1. Take to taste Salt & pepper
+1. Take to taste Salt &amp; pepper
 
 
 

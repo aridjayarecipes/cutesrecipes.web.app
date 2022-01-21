@@ -15,10 +15,10 @@ recipeingredient:
 - "200 grams Cake flour"
 recipeinstructions:
 - "Combine the jam with the margarine, and mix using a spatula."
-- "Add the cake flour, and mix the margarine and the flour with your hands until it's crumbly."
+- "Add the cake flour, and mix the margarine and the flour with your hands until it&#39;s crumbly."
 - "Bring the dough together, and shape it into a 2-cm thick block. Cut it in lengthwise in half, then cut into 2-mm thick slices."
 - "Place on a baking tray lined with parchment paper. Bake for 25 minutes in a 150℃ preheated oven (adjust the time and temperature to your oven)."
-- "Once they're baked, let cool on a rack."
+- "Once they&#39;re baked, let cool on a rack."
 categories:
 - Recipe
 tags:
@@ -64,10 +64,10 @@ To begin with this particular recipe, we have to first prepare a few components.
 ##### Instructions to make Plum Jam Cookies (crispy and low-cal):
 
 1. Combine the jam with the margarine, and mix using a spatula.
-1. Add the cake flour, and mix the margarine and the flour with your hands until it's crumbly.
+1. Add the cake flour, and mix the margarine and the flour with your hands until it&#39;s crumbly.
 1. Bring the dough together, and shape it into a 2-cm thick block. Cut it in lengthwise in half, then cut into 2-mm thick slices.
 1. Place on a baking tray lined with parchment paper. Bake for 25 minutes in a 150℃ preheated oven (adjust the time and temperature to your oven).
-1. Once they're baked, let cool on a rack.
+1. Once they&#39;re baked, let cool on a rack.
 
 
 

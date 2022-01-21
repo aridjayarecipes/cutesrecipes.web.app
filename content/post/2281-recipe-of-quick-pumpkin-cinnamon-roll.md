@@ -33,7 +33,7 @@ recipeingredient:
 recipeinstructions:
 - "Preheat the oven to 375, and spray 6 cups in a muffin pan with cooking spray (or use extra melted butter)."
 - "Combine the dry ingredients in a medium bowl. In a small measuring cup, combine the wet ingredients. Add the wet ingredients to the dry, and stir until a soft dough forms."
-- "Sprinkle a work surface with flour, and roll the dough out into a rectangle about 6"x 6". Spread the melted butter on top of the dough. Combine the filling ingredients. Press the mixture lightly into the butter on top of the dough. Roll the dough up starting with the long side. Roll away from you. Cut the dough into 6 equal pieces. Put them into greased muffin cups, and bake for 14-15 min."
+- "Sprinkle a work surface with flour, and roll the dough out into a rectangle about 6&#34;x 6&#34;. Spread the melted butter on top of the dough. Combine the filling ingredients. Press the mixture lightly into the butter on top of the dough. Roll the dough up starting with the long side. Roll away from you. Cut the dough into 6 equal pieces. Put them into greased muffin cups, and bake for 14-15 min."
 - "Stir together the powdered sugar, cream cheese and milk. Add enough milk to achieve a pourable consistency."
 - "When the cinnamon rolls come out of the oven, let them for 5 minutes then drizzle with the glaze."
 categories:
@@ -99,7 +99,7 @@ To get started with this recipe, we must first prepare a few components. You can
 
 1. Preheat the oven to 375, and spray 6 cups in a muffin pan with cooking spray (or use extra melted butter).
 1. Combine the dry ingredients in a medium bowl. - In a small measuring cup, combine the wet ingredients. - Add the wet ingredients to the dry, and stir until a soft dough forms.
-1. Sprinkle a work surface with flour, and roll the dough out into a rectangle about 6"x 6". Spread the melted butter on top of the dough. - Combine the filling ingredients. Press the mixture lightly into the butter on top of the dough. Roll the dough up starting with the long side. Roll away from you. Cut the dough into 6 equal pieces. Put them into greased muffin cups, and bake for 14-15 min.
+1. Sprinkle a work surface with flour, and roll the dough out into a rectangle about 6&#34;x 6&#34;. Spread the melted butter on top of the dough. - Combine the filling ingredients. Press the mixture lightly into the butter on top of the dough. Roll the dough up starting with the long side. Roll away from you. Cut the dough into 6 equal pieces. Put them into greased muffin cups, and bake for 14-15 min.
 1. Stir together the powdered sugar, cream cheese and milk. Add enough milk to achieve a pourable consistency.
 1. When the cinnamon rolls come out of the oven, let them for 5 minutes then drizzle with the glaze.
 

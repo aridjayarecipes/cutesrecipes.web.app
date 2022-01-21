@@ -23,7 +23,7 @@ recipeinstructions:
 - "Add Beetroot, carrot, 1-1/2 cup water and salt."
 - "Close the lid and do 6-7 whistle after that close the flame."
 - "If u have hand mixer u blend it or u can do in mixer also for make smoth paste."
-- "After done smoth paste add some butter and for garnish u can cream (it's optional)"
+- "After done smoth paste add some butter and for garnish u can cream (it&#39;s optional)"
 categories:
 - Recipe
 tags:
@@ -77,7 +77,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Add Beetroot, carrot, 1-1/2 cup water and salt.
 1. Close the lid and do 6-7 whistle after that close the flame.
 1. If u have hand mixer u blend it or u can do in mixer also for make smoth paste.
-1. After done smoth paste add some butter and for garnish u can cream (it's optional)
+1. After done smoth paste add some butter and for garnish u can cream (it&#39;s optional)
 
 
 

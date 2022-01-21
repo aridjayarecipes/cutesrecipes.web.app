@@ -63,7 +63,7 @@ To begin with this recipe, we have to prepare a few components. You can cook sal
 1. Make ready 1 tbsp honey
 
 
-Long, curling ribbons of zucchini are shaved with a vegetable peeler and dressed with lemon, olive oil, honey, mint and basil, with Parmesan and hazelnuts sprinkled on top. Learn how to make Teriyaki Salmon with Zucchini. Toast sesame seeds in a large nonstick skillet over medium heat, and. Our house-made tomatillo verde sauce adds brightness, zest, and a tangy "yum" factor to pan-cooked salmon and fresh vegetables. 
+Long, curling ribbons of zucchini are shaved with a vegetable peeler and dressed with lemon, olive oil, honey, mint and basil, with Parmesan and hazelnuts sprinkled on top. Learn how to make Teriyaki Salmon with Zucchini. Toast sesame seeds in a large nonstick skillet over medium heat, and. Our house-made tomatillo verde sauce adds brightness, zest, and a tangy &#34;yum&#34; factor to pan-cooked salmon and fresh vegetables. 
 
 <!--inarticleads2-->
 
@@ -74,6 +74,6 @@ Long, curling ribbons of zucchini are shaved with a vegetable peeler and dressed
 1. Add the zucchini, oyster sauce, rice vinegar, and 1/2 cup water to the pan. Turn the heat down to medium and let simmer for 5 minutes. Remove the salmon skins and carefully flip the fillets over once more. Let simmer another 5 minutes. Add salt and black pepper to taste, then serve with freshly steamed rice.
 
 
-Toast sesame seeds in a large nonstick skillet over medium heat, and. Our house-made tomatillo verde sauce adds brightness, zest, and a tangy "yum" factor to pan-cooked salmon and fresh vegetables. Cut the zucchini in half lengthwise, then crosswise into ½-inch-thick half-moons. Trim the root ends from the scallions; thinly slice the scallions on the diagonal for garnish. Crunchy vegetable stir, peel the silk squash; leave zucchini unpeeled. cut the squash in half lengthwise and into twoinch pieces Recipe of quick salmon and zucchini braised in oyster sauce, this is an easy chicken stirfry recipe with veggies and oyster sauce. 
+Toast sesame seeds in a large nonstick skillet over medium heat, and. Our house-made tomatillo verde sauce adds brightness, zest, and a tangy &#34;yum&#34; factor to pan-cooked salmon and fresh vegetables. Cut the zucchini in half lengthwise, then crosswise into ½-inch-thick half-moons. Trim the root ends from the scallions; thinly slice the scallions on the diagonal for garnish. Crunchy vegetable stir, peel the silk squash; leave zucchini unpeeled. cut the squash in half lengthwise and into twoinch pieces Recipe of quick salmon and zucchini braised in oyster sauce, this is an easy chicken stirfry recipe with veggies and oyster sauce. 
 
 So that is going to wrap this up with this special food salmon and zucchini braised in oyster sauce recipe. Thank you very much for reading. I'm confident that you will make this at home. There is gonna be interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

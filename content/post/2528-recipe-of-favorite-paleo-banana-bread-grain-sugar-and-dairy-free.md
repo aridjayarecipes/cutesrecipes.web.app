@@ -25,7 +25,7 @@ recipeinstructions:
 - "In a large bowl combine last 6 ingredients and beat with an electric mixer till well blended"
 - "Pour dry ingredients on top of liquid and blend for 3 minutes on med high speed."
 - "Use 2 small loaf pans, lone with parchment paper and cook at 350 for approximately 30 to 40 minutes, checking after 30 minutes with a toothpic."
-- "You could probably use this as a pancake recipe as well but it's not tested."
+- "You could probably use this as a pancake recipe as well but it&#39;s not tested."
 categories:
 - Recipe
 tags:
@@ -81,7 +81,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. In a large bowl combine last 6 ingredients and beat with an electric mixer till well blended
 1. Pour dry ingredients on top of liquid and blend for 3 minutes on med high speed.
 1. Use 2 small loaf pans, lone with parchment paper and cook at 350 for approximately 30 to 40 minutes, checking after 30 minutes with a toothpic.
-1. You could probably use this as a pancake recipe as well but it's not tested.
+1. You could probably use this as a pancake recipe as well but it&#39;s not tested.
 
 
 

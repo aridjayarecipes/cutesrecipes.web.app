@@ -68,7 +68,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Make ready 1/2 cup condensed milk
 
 
-It consists of a pumpkin-based custard baked in a single pie shell. This pie is traditionally served with whipped cream. The pumpkin pie is an essential dessert for the fall and winter holidays. You don't have to be into baking to make many of these delicious homemade pumpkin pies. 
+It consists of a pumpkin-based custard baked in a single pie shell. This pie is traditionally served with whipped cream. The pumpkin pie is an essential dessert for the fall and winter holidays. You don&#39;t have to be into baking to make many of these delicious homemade pumpkin pies. 
 
 <!--inarticleads2-->
 
@@ -81,6 +81,6 @@ It consists of a pumpkin-based custard baked in a single pie shell. This pie is 
 1. Now greased the tart mould put the sheet in that cut out the excess sheet then pour the pumpkin mixture in it now bake it at preheated oven at 356 degree Fahrenheit for 20 minutes or until golden crust formed..
 
 
-The pumpkin pie is an essential dessert for the fall and winter holidays. You don't have to be into baking to make many of these delicious homemade pumpkin pies. These easy pumpkin pie recipes are perfect for Thanksgiving. You'll find pies with classic ingredients and fun additions like chocolate, pecans and more. Creamy, homemade healthier pumpkin pie made from scratch and naturally sweetened with pure maple syrup. 
+The pumpkin pie is an essential dessert for the fall and winter holidays. You don&#39;t have to be into baking to make many of these delicious homemade pumpkin pies. These easy pumpkin pie recipes are perfect for Thanksgiving. You&#39;ll find pies with classic ingredients and fun additions like chocolate, pecans and more. Creamy, homemade healthier pumpkin pie made from scratch and naturally sweetened with pure maple syrup. 
 
 So that is going to wrap it up with this special food pumpkin pie recipe. Thank you very much for reading. I'm sure you can make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

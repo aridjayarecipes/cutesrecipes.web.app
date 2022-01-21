@@ -50,7 +50,7 @@ Hey everyone, hope you're having an amazing day today. Today, I will show you a 
 
 Banana apple butter low sugar muffins is one of the most well liked of recent trending meals in the world. It's easy, it's fast, it tastes yummy. It is appreciated by millions daily. Banana apple butter low sugar muffins is something which I've loved my entire life. They are nice and they look wonderful.
 
-Here is how you cook that. You need of Mini chocolate chips or granola for garnish. Banana apple butter low sugar muffins instructions. They're buttery, soft, and spiced with cinnamon.
+Here is how you cook that. You need of Mini chocolate chips or granola for garnish. Banana apple butter low sugar muffins instructions. They&#39;re buttery, soft, and spiced with cinnamon.
 
 
 To begin with this recipe, we must first prepare a few ingredients. You can cook banana apple butter low sugar muffins using 12 ingredients and 3 steps. Here is how you cook it.

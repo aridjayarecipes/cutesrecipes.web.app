@@ -17,7 +17,7 @@ recipeingredient:
 - "1 tbsp cooking wine"
 - "1 tbsp corn starch"
 recipeinstructions:
-- "Soak clam in salt water for 1hour to remove sand from inside the clam. Wash clam for few time, then boil with hot water for 2 minutes until it's open set a side."
+- "Soak clam in salt water for 1hour to remove sand from inside the clam. Wash clam for few time, then boil with hot water for 2 minutes until it&#39;s open set a side."
 - "Fry garlic and Black bean paste untill fragrance. Then put clam, wine, oyster sauce stir up few seconds. Mix corn starch with water and some sesame oil mix together,pour in to clam stir it. Off the fire ready to serve."
 categories:
 - Recipe
@@ -54,19 +54,19 @@ To get started with this recipe, we must first prepare a few components. You can
 
 1. Take 1,5 kg clam
 1. Get 1 tbsp black bean paste
-1. Make ready 3 PC's garlic crush small piece
+1. Make ready 3 PC&#39;s garlic crush small piece
 1. Prepare 2 tbsp Oyster sauce
 1. Make ready 1 tbsp cooking wine
 1. Get 1 tbsp corn starch
 
 
-Chinese Stir-fried fresh clams in black bean sauce with garlic, ginger, scallion and cilantro is a classic fermented black bean dish that is perfect for the summer. We haven't had a good black bean recipe yet either so this should cover at least two omissions in our recipe collection. Clam with garlic black bean paste Recipe by Emiliani. Steamed prawns with garlic is quick and easy to whip up without any fuss. 
+Chinese Stir-fried fresh clams in black bean sauce with garlic, ginger, scallion and cilantro is a classic fermented black bean dish that is perfect for the summer. We haven&#39;t had a good black bean recipe yet either so this should cover at least two omissions in our recipe collection. Clam with garlic black bean paste Recipe by Emiliani. Steamed prawns with garlic is quick and easy to whip up without any fuss. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Clam with garlic black bean paste:
 
-1. Soak clam in salt water for 1hour to remove sand from inside the clam. Wash clam for few time, then boil with hot water for 2 minutes until it's open set a side.
+1. Soak clam in salt water for 1hour to remove sand from inside the clam. Wash clam for few time, then boil with hot water for 2 minutes until it&#39;s open set a side.
 1. Fry garlic and Black bean paste untill fragrance. Then put clam, wine, oyster sauce stir up few seconds. Mix corn starch with water and some sesame oil mix together,pour in to clam stir it. Off the fire ready to serve.
 
 

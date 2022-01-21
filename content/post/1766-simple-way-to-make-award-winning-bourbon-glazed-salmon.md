@@ -27,7 +27,7 @@ recipeinstructions:
 - "Lay salmon(skin side down) on top of foil, sprinkle with salt and pepper and rub into flesh. Brush all the glaze on top of salmon."
 - "Fold the sides of the foil up and roll down loosely to completely enclose the salmon into a packet and allow air to circulate."
 - "Bake 15 -18 minutes until almost cooked thru (still a bit pink). Remove pan from oven and roll back foil to expose salmon."
-- "Change oven setting to broil and place pan under broiler on upper third of oven. Broil 3-4 minutes. Watch as fish can quickly go from perfect to overcooked. Fish is cooked at 145 degrees. Pull it a few degrees sooner and allow it to rest with foil over it to finish cooking. You don't want to let it sit very long as it will continue to cook and become overdone and dry."
+- "Change oven setting to broil and place pan under broiler on upper third of oven. Broil 3-4 minutes. Watch as fish can quickly go from perfect to overcooked. Fish is cooked at 145 degrees. Pull it a few degrees sooner and allow it to rest with foil over it to finish cooking. You don&#39;t want to let it sit very long as it will continue to cook and become overdone and dry."
 categories:
 - Recipe
 tags:
@@ -85,7 +85,7 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Lay salmon(skin side down) on top of foil, sprinkle with salt and pepper and rub into flesh. Brush all the glaze on top of salmon.
 1. Fold the sides of the foil up and roll down loosely to completely enclose the salmon into a packet and allow air to circulate.
 1. Bake 15 -18 minutes until almost cooked thru (still a bit pink). Remove pan from oven and roll back foil to expose salmon.
-1. Change oven setting to broil and place pan under broiler on upper third of oven. Broil 3-4 minutes. Watch as fish can quickly go from perfect to overcooked. Fish is cooked at 145 degrees. Pull it a few degrees sooner and allow it to rest with foil over it to finish cooking. You don't want to let it sit very long as it will continue to cook and become overdone and dry.
+1. Change oven setting to broil and place pan under broiler on upper third of oven. Broil 3-4 minutes. Watch as fish can quickly go from perfect to overcooked. Fish is cooked at 145 degrees. Pull it a few degrees sooner and allow it to rest with foil over it to finish cooking. You don&#39;t want to let it sit very long as it will continue to cook and become overdone and dry.
 
 
 

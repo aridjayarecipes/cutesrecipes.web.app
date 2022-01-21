@@ -69,7 +69,7 @@ recipecategory: Dinner
 
 Hello everybody, it's John, welcome to my recipe site. Today, we're going to make a special dish, duck pancakes with hoi sin and cucumber. It is one of my favorites food recipes. This time, I will make it a little bit unique. This is gonna smell and look delicious.
 
-Remove the duck breast from the bag. Then roll it like sushi into a tube shape. Never thought of making duck pancakes at home? Our recipe will make you realize it's not that difficult but simple and ingenious.
+Remove the duck breast from the bag. Then roll it like sushi into a tube shape. Never thought of making duck pancakes at home? Our recipe will make you realize it&#39;s not that difficult but simple and ingenious.
 
 Duck pancakes with hoi sin and cucumber is one of the most well liked of recent trending meals on earth. It's enjoyed by millions every day. It's simple, it's quick, it tastes yummy. Duck pancakes with hoi sin and cucumber is something which I've loved my whole life. They are nice and they look wonderful.
 

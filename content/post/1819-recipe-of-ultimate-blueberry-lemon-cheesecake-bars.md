@@ -101,7 +101,7 @@ To get started with this recipe, we have to prepare a few components. You can co
 1. Make ready 1 1/2 cups fresh blueberries
 1. Make ready  For Whipped Cream Topping
 1. Prepare 1 cup heavy whipping cream
-1. Get 1/4 cup confectioner's sugar
+1. Get 1/4 cup confectioner&#39;s sugar
 1. Make ready 1 teaspoon vanilla extract
 1. Make ready  For Garnish
 1. Make ready as needed fresh blueberries,

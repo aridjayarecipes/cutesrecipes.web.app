@@ -41,7 +41,7 @@ recipecategory: Dessert
 
 Hey everyone, it's John, welcome to our recipe site. Today, I will show you a way to prepare a distinctive dish, blueberry cheesecake. One of my favorites food recipes. This time, I'm gonna make it a bit tasty. This is gonna smell and look delicious.
 
-Swirling blueberry puree into cheesecake batter isn't only beautiful, it's extremely delicious. The cheesecake stays extra-creamy and has the perfect tartness to it that will have you saying. Blueberry Cheesecake Angel Lois Santiago..easy Blueberry Cheesecake recipe: This Blueberry Cheesecake recipe is surprisingly versatile! Then you probably wouldn't be checking out a blieberry cheesecake recipe … These Mini Lemon Blueberry Cheesecakes feature an easy homemade graham cracker crust, smooth and creamy lemon cheesecake filling, and a simple blueberry swirl!
+Swirling blueberry puree into cheesecake batter isn&#39;t only beautiful, it&#39;s extremely delicious. The cheesecake stays extra-creamy and has the perfect tartness to it that will have you saying. Blueberry Cheesecake Angel Lois Santiago..easy Blueberry Cheesecake recipe: This Blueberry Cheesecake recipe is surprisingly versatile! Then you probably wouldn&#39;t be checking out a blieberry cheesecake recipe … These Mini Lemon Blueberry Cheesecakes feature an easy homemade graham cracker crust, smooth and creamy lemon cheesecake filling, and a simple blueberry swirl!
 
 Blueberry cheesecake is one of the most popular of recent trending foods in the world. It is easy, it's fast, it tastes yummy. It's enjoyed by millions daily. They're nice and they look wonderful. Blueberry cheesecake is something which I have loved my entire life.
 

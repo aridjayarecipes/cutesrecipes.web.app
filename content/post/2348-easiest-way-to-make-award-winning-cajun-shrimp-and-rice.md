@@ -24,7 +24,7 @@ recipeingredient:
 - "1 lemon cut in wedges for serving"
 - "1 1/2 C white rice"
 recipeinstructions:
-- "Cook the rice according to the package. Heat the butter, oil and garlic in a large skillet over medium-high heat until fragrant, about 1 minute. Add the Cajun seasoning and shrimp and cook, stirring until the shrimp begin to curl, about 1 minute. Season with S&P."
+- "Cook the rice according to the package. Heat the butter, oil and garlic in a large skillet over medium-high heat until fragrant, about 1 minute. Add the Cajun seasoning and shrimp and cook, stirring until the shrimp begin to curl, about 1 minute. Season with S&amp;P."
 - "Add the tomatoes, scallions, shallot and asparagus and cook, stirring for 4 minutes so shrimp are opaque. Stir in the parsley and serve over rice. Serve lemon wedges on the side."
 categories:
 - Recipe
@@ -64,7 +64,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook ca
 1. Take 3 garlic cloves, minced
 1. Take 2 tsp Cajun seasoning
 1. Make ready 1 # shrimp, large, peeled and deveined
-1. Get  s&p
+1. Get  s&amp;p
 1. Prepare 4 plum tomatoes, chopped
 1. Prepare 1 bunch scallions, chopped
 1. Prepare 1/2 bunch asparagus, chopped
@@ -80,7 +80,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook ca
 
 ##### Instructions to make Cajun Shrimp and rice:
 
-1. Cook the rice according to the package. Heat the butter, oil and garlic in a large skillet over medium-high heat until fragrant, about 1 minute. Add the Cajun seasoning and shrimp and cook, stirring until the shrimp begin to curl, about 1 minute. Season with S&P.
+1. Cook the rice according to the package. Heat the butter, oil and garlic in a large skillet over medium-high heat until fragrant, about 1 minute. Add the Cajun seasoning and shrimp and cook, stirring until the shrimp begin to curl, about 1 minute. Season with S&amp;P.
 1. Add the tomatoes, scallions, shallot and asparagus and cook, stirring for 4 minutes so shrimp are opaque. Stir in the parsley and serve over rice. Serve lemon wedges on the side.
 
 

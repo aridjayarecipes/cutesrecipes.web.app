@@ -53,7 +53,7 @@ Hey everyone, hope you are having an amazing day today. Today, I will show you a
 
 Potatoes, pumpkin and pointed gourd curry is one of the most popular of recent trending meals on earth. It is enjoyed by millions every day. It is easy, it is fast, it tastes yummy. Potatoes, pumpkin and pointed gourd curry is something which I've loved my entire life. They are nice and they look fantastic.
 
-How to Make Potatoes, pumpkin and pointed gourd curry : Heat A Wok And Add Oilsaute All The Vegetables With Salt And Turmeric Powder And Remove As It Gets Softnow Add More Oil And Temper Cumin Seeds And Bay L. It is a Traditional Bengali vegetable curry. Which curry is popular in West Bengal ( A state of India ). Alu Potol Kumro is also popular in Bangladesh's.
+How to Make Potatoes, pumpkin and pointed gourd curry : Heat A Wok And Add Oilsaute All The Vegetables With Salt And Turmeric Powder And Remove As It Gets Softnow Add More Oil And Temper Cumin Seeds And Bay L. It is a Traditional Bengali vegetable curry. Which curry is popular in West Bengal ( A state of India ). Alu Potol Kumro is also popular in Bangladesh&#39;s.
 
 
 To get started with this particular recipe, we have to first prepare a few ingredients. You can cook potatoes, pumpkin and pointed gourd curry using 12 ingredients and 6 steps. Here is how you cook it.

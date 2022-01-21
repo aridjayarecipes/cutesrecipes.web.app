@@ -65,7 +65,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Make ready as needed Ice cubes
 
 
-This drink uses pomegranate juice that is loaded with antioxidants and key to lowering blood pressure. If you're looking for an equally delicious and easy holiday drink, I've got you covered with this pomegranate lime spritzer mocktail + a couple alcohol suggestions for an equally easy adult. This Pomegranate Ginger Mocktail is so perfect if you want something fancy to enjoy without the alcohol. Pomegranate cocktails and mocktails are sure to be a hit! 
+This drink uses pomegranate juice that is loaded with antioxidants and key to lowering blood pressure. If you&#39;re looking for an equally delicious and easy holiday drink, I&#39;ve got you covered with this pomegranate lime spritzer mocktail + a couple alcohol suggestions for an equally easy adult. This Pomegranate Ginger Mocktail is so perfect if you want something fancy to enjoy without the alcohol. Pomegranate cocktails and mocktails are sure to be a hit! 
 
 <!--inarticleads2-->
 

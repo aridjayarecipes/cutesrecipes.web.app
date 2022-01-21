@@ -24,11 +24,11 @@ recipeingredient:
 - "as per need some  coriander leaves"
 recipeinstructions:
 - "Chop all the veggies"
-- "Heat oil in a cooker add garlic ginger & chilli sauté it"
-- "Then add onion sauté it & add all the veggies and salt"
+- "Heat oil in a cooker add garlic ginger &amp; chilli sauté it"
+- "Then add onion sauté it &amp; add all the veggies and salt"
 - "Cook for a minute then add 2-3 cups of water and cook till 2-3 whistles"
 - "As the pressure release open cooker and churn/blend it"
-- "Transfer to a pan..& add black pepper powder..:cook till 2-3 boils"
+- "Transfer to a pan..&amp; add black pepper powder..:cook till 2-3 boils"
 - "Add coriander leaves and serve hot"
 categories:
 - Recipe
@@ -84,11 +84,11 @@ To begin with this recipe, we must prepare a few ingredients. You can cook healt
 ##### Steps to make Healthy Soup-weight loss soup:
 
 1. Chop all the veggies
-1. Heat oil in a cooker add garlic ginger & chilli sauté it
-1. Then add onion sauté it & add all the veggies and salt
+1. Heat oil in a cooker add garlic ginger &amp; chilli sauté it
+1. Then add onion sauté it &amp; add all the veggies and salt
 1. Cook for a minute then add 2-3 cups of water and cook till 2-3 whistles
 1. As the pressure release open cooker and churn/blend it
-1. Transfer to a pan..& add black pepper powder..:cook till 2-3 boils
+1. Transfer to a pan..&amp; add black pepper powder..:cook till 2-3 boils
 1. Add coriander leaves and serve hot
 
 

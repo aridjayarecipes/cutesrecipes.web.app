@@ -45,7 +45,7 @@ recipecategory: Lunch
 
 Hello everybody, I hope you are having an amazing day today. Today, we're going to make a special dish, mudakathan keerai healthy soup. It is one of my favorites. For mine, I am going to make it a little bit tasty. This is gonna smell and look delicious.
 
-Making soup with Balloon vine leaves is really healthy and tasty if you make it this way I believe you would love this tasty and healthy mudakathan keerai dish. Do try it for sure and I am sure you will enjoy it. Unfortunately I don't get it here. I definitely need to try them when I come to India next time.
+Making soup with Balloon vine leaves is really healthy and tasty if you make it this way I believe you would love this tasty and healthy mudakathan keerai dish. Do try it for sure and I am sure you will enjoy it. Unfortunately I don&#39;t get it here. I definitely need to try them when I come to India next time.
 
 Mudakathan keerai healthy soup is one of the most favored of recent trending foods in the world. It's easy, it's quick, it tastes yummy. It's enjoyed by millions every day. They're fine and they look wonderful. Mudakathan keerai healthy soup is something that I've loved my whole life.
 

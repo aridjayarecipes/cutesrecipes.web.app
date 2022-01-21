@@ -20,9 +20,9 @@ recipeingredient:
 - "2 tbsp olive oil"
 - " Chopped cilantro to garnish"
 recipeinstructions:
-- "In large sauce pan add olive oil, onions & garlic, sauté. Add canned tomatoes & coconut milk, cook 15 minutes."
-- "Season salmon steaks with Cajun spice. Heat separate saucepan with olive oil & add salmon steaks to blacken. Remove from heat and carefully remove skin."
-- "Add salmon steaks to sauce pan & garnish with cilantro. Serve alone, with green beans or long grain rice."
+- "In large sauce pan add olive oil, onions &amp; garlic, sauté. Add canned tomatoes &amp; coconut milk, cook 15 minutes."
+- "Season salmon steaks with Cajun spice. Heat separate saucepan with olive oil &amp; add salmon steaks to blacken. Remove from heat and carefully remove skin."
+- "Add salmon steaks to sauce pan &amp; garnish with cilantro. Serve alone, with green beans or long grain rice."
 categories:
 - Recipe
 tags:
@@ -73,9 +73,9 @@ To get started with this recipe, we must prepare a few components. You can cook 
 
 ##### Instructions to make Blackened Cajun Salmon in Creamy Fire Roasted Tomato Coconut Sauce:
 
-1. In large sauce pan add olive oil, onions & garlic, sauté. Add canned tomatoes & coconut milk, cook 15 minutes.
-1. Season salmon steaks with Cajun spice. Heat separate saucepan with olive oil & add salmon steaks to blacken. Remove from heat and carefully remove skin.
-1. Add salmon steaks to sauce pan & garnish with cilantro. Serve alone, with green beans or long grain rice.
+1. In large sauce pan add olive oil, onions &amp; garlic, sauté. Add canned tomatoes &amp; coconut milk, cook 15 minutes.
+1. Season salmon steaks with Cajun spice. Heat separate saucepan with olive oil &amp; add salmon steaks to blacken. Remove from heat and carefully remove skin.
+1. Add salmon steaks to sauce pan &amp; garnish with cilantro. Serve alone, with green beans or long grain rice.
 
 
 

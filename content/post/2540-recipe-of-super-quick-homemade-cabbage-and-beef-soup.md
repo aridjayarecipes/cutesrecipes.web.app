@@ -92,6 +92,6 @@ Ground beef and cabbage soup can be prepared be on a slow cooker or stovetop. It
 1. Add cabbage, carrots, and celery to mixture. Simmer on low for 30 minutes.
 
 
-It gives the awesome taste of homemade cabbage. Leftover corned beef is transformed into a delicious barley and vegetable soup. If you don't have leftovers, use thick deli slices of corned beef. You probably have most of the ingredients on hand, and some of them can be swapped out or omitted. Soup is one of those versatile dishes that can be. 
+It gives the awesome taste of homemade cabbage. Leftover corned beef is transformed into a delicious barley and vegetable soup. If you don&#39;t have leftovers, use thick deli slices of corned beef. You probably have most of the ingredients on hand, and some of them can be swapped out or omitted. Soup is one of those versatile dishes that can be. 
 
 So that's going to wrap it up with this special food cabbage and beef soup recipe. Thank you very much for reading. I'm confident you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

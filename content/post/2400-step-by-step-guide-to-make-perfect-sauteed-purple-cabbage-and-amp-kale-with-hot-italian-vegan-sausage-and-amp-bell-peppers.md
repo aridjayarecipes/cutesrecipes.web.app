@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Make Perfect Sautéed Purple Cabbage &amp; Kale with Hot Italian Vegan Sausage &amp; Bell Peppers"
-title: "Step-by-Step Guide to Make Perfect Sautéed Purple Cabbage &amp; Kale with Hot Italian Vegan Sausage &amp; Bell Peppers"
+description: "Step-by-Step Guide to Make Perfect Sautéed Purple Cabbage &amp;amp; Kale with Hot Italian Vegan Sausage &amp;amp; Bell Peppers"
+title: "Step-by-Step Guide to Make Perfect Sautéed Purple Cabbage &amp;amp; Kale with Hot Italian Vegan Sausage &amp;amp; Bell Peppers"
 slug: 2400-step-by-step-guide-to-make-perfect-sauteed-purple-cabbage-and-amp-kale-with-hot-italian-vegan-sausage-and-amp-bell-peppers
 date: 2021-12-26T11:16:18.919Z
 image: https://img-global.cpcdn.com/recipes/24b9b2d056d3a383/680x482cq70/sauteed-purple-cabbage-kale-with-hot-italian-vegan-sausage-bell-peppers-recipe-main-photo.jpg
@@ -46,20 +46,20 @@ recipecategory: Dinner
 ---
 
 
-![Sautéed Purple Cabbage & Kale with Hot Italian Vegan Sausage & Bell Peppers](https://img-global.cpcdn.com/recipes/24b9b2d056d3a383/680x482cq70/sauteed-purple-cabbage-kale-with-hot-italian-vegan-sausage-bell-peppers-recipe-main-photo.jpg)
+![Sautéed Purple Cabbage &amp; Kale with Hot Italian Vegan Sausage &amp; Bell Peppers](https://img-global.cpcdn.com/recipes/24b9b2d056d3a383/680x482cq70/sauteed-purple-cabbage-kale-with-hot-italian-vegan-sausage-bell-peppers-recipe-main-photo.jpg)
 
-Hey everyone, I hope you're having an amazing day today. Today, I will show you a way to make a special dish, sautéed purple cabbage & kale with hot italian vegan sausage & bell peppers. One of my favorites food recipes. For mine, I will make it a little bit unique. This is gonna smell and look delicious.
-
-
-
-Sautéed Purple Cabbage & Kale with Hot Italian Vegan Sausage & Bell Peppers is one of the most well liked of current trending foods on earth. It's simple, it is quick, it tastes yummy. It's appreciated by millions every day. They're nice and they look wonderful. Sautéed Purple Cabbage & Kale with Hot Italian Vegan Sausage & Bell Peppers is something which I've loved my entire life.
+Hey everyone, I hope you're having an amazing day today. Today, I will show you a way to make a special dish, sautéed purple cabbage &amp; kale with hot italian vegan sausage &amp; bell peppers. One of my favorites food recipes. For mine, I will make it a little bit unique. This is gonna smell and look delicious.
 
 
-To begin with this particular recipe, we must first prepare a few ingredients. You can have sautéed purple cabbage & kale with hot italian vegan sausage & bell peppers using 12 ingredients and 5 steps. Here is how you can achieve that.
+
+Sautéed Purple Cabbage &amp; Kale with Hot Italian Vegan Sausage &amp; Bell Peppers is one of the most well liked of current trending foods on earth. It's simple, it is quick, it tastes yummy. It's appreciated by millions every day. They're nice and they look wonderful. Sautéed Purple Cabbage &amp; Kale with Hot Italian Vegan Sausage &amp; Bell Peppers is something which I've loved my entire life.
+
+
+To begin with this particular recipe, we must first prepare a few ingredients. You can have sautéed purple cabbage &amp; kale with hot italian vegan sausage &amp; bell peppers using 12 ingredients and 5 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Sautéed Purple Cabbage & Kale with Hot Italian Vegan Sausage & Bell Peppers:
+##### The ingredients needed to make Sautéed Purple Cabbage &amp; Kale with Hot Italian Vegan Sausage &amp; Bell Peppers:
 
 1. Get 1 head purple cabbage (washed and chopped)
 1. Prepare 1/2 Yellow Bell Pepper
@@ -71,7 +71,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Take 1 tablespoon Minced Garlic
 1. Make ready 1 tablespoon Parsley
 1. Prepare 1 tablespoon basil
-1. Prepare to taste Salt & Pepper
+1. Prepare to taste Salt &amp; Pepper
 1. Prepare  Red Pepper flakes (optional)
 
 
@@ -79,7 +79,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 <!--inarticleads2-->
 
-##### Steps to make Sautéed Purple Cabbage & Kale with Hot Italian Vegan Sausage & Bell Peppers:
+##### Steps to make Sautéed Purple Cabbage &amp; Kale with Hot Italian Vegan Sausage &amp; Bell Peppers:
 
 1. Heat two pans each with one tablespoon of oil.
 1. Cut up the sausage into round slices. Place in the pan. Cook until lightly brown on all sides.
@@ -90,4 +90,4 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 
 
-So that's going to wrap it up for this special food sautéed purple cabbage & kale with hot italian vegan sausage & bell peppers recipe. Thank you very much for your time. I am sure you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!
+So that's going to wrap it up for this special food sautéed purple cabbage &amp; kale with hot italian vegan sausage &amp; bell peppers recipe. Thank you very much for your time. I am sure you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

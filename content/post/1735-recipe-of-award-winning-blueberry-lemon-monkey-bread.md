@@ -33,7 +33,7 @@ recipeinstructions:
 - "Fold in all blueberries and juice to cream cheese mixture. Set aside."
 - "Melt butter and make sugar and cinnamon mixture in separate bowls.Set aside"
 - "Cut all biscuits into 8 Pieces, set aside in big bowl."
-- "Coat all pieces butter, then sugar & cinnamon mixture. (you may need to make more melted butter and sugar cinnamon mixture) this takes time, try to work fast. (they don’t have to be perfect)"
+- "Coat all pieces butter, then sugar &amp; cinnamon mixture. (you may need to make more melted butter and sugar cinnamon mixture) this takes time, try to work fast. (they don’t have to be perfect)"
 - "Set aside after coating each one."
 - "Add to cream cheese mixture. Fold in easy till all is cover with the blueberries mixture."
 - "Spray pan"
@@ -98,7 +98,7 @@ To begin with this recipe, we have to first prepare a few components. You can co
 1. Get  Mix 1/2 cup of sugar and 1 tablespoon of cinnamon
 
 
-Why it's called "monkey bread" no one really seems to know but out of. This Blueberry Lemon Monkey Bread is pretty much the perfect Spring breakfast, brunch, or even dessert to make. This monkey bread takes on the fun and delicious twist of blueberries and lemon baked right in! Perfect for Spring weekend brunches to share. 
+Why it&#39;s called &#34;monkey bread&#34; no one really seems to know but out of. This Blueberry Lemon Monkey Bread is pretty much the perfect Spring breakfast, brunch, or even dessert to make. This monkey bread takes on the fun and delicious twist of blueberries and lemon baked right in! Perfect for Spring weekend brunches to share. 
 
 <!--inarticleads2-->
 
@@ -109,7 +109,7 @@ Why it's called "monkey bread" no one really seems to know but out of. This Blue
 1. Fold in all blueberries and juice to cream cheese mixture. Set aside.
 1. Melt butter and make sugar and cinnamon mixture in separate bowls.Set aside
 1. Cut all biscuits into 8 Pieces, set aside in big bowl.
-1. Coat all pieces butter, then sugar & cinnamon mixture. (you may need to make more melted butter and sugar cinnamon mixture) this takes time, try to work fast. (they don’t have to be perfect)
+1. Coat all pieces butter, then sugar &amp; cinnamon mixture. (you may need to make more melted butter and sugar cinnamon mixture) this takes time, try to work fast. (they don’t have to be perfect)
 1. Set aside after coating each one.
 1. Add to cream cheese mixture. Fold in easy till all is cover with the blueberries mixture.
 1. Spray pan
@@ -124,6 +124,6 @@ Why it's called "monkey bread" no one really seems to know but out of. This Blue
 1. Can skip the biscuits and coating them in the sugar mixture, and just get 2-3 cans of cinnamon rolls and cut them up 6 pieces, and you can use the glaze it comes with and just add lemon zest or lemon juice to it. This would be a time saver, but will still take about an hr to cook.
 
 
-This monkey bread takes on the fun and delicious twist of blueberries and lemon baked right in! Perfect for Spring weekend brunches to share. Monkey bread is not a quick "wham bam" situation. There is a macerating of deliciously tart blueberries, zesting of a lemon, a Monkey bread is inverted onto a plate where warm blueberries fall every which way. A quick cream cheese icing is made; the very last. 
+This monkey bread takes on the fun and delicious twist of blueberries and lemon baked right in! Perfect for Spring weekend brunches to share. Monkey bread is not a quick &#34;wham bam&#34; situation. There is a macerating of deliciously tart blueberries, zesting of a lemon, a Monkey bread is inverted onto a plate where warm blueberries fall every which way. A quick cream cheese icing is made; the very last. 
 
 So that is going to wrap this up for this special food blueberry lemon monkey bread recipe. Thank you very much for your time. I am sure that you can make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

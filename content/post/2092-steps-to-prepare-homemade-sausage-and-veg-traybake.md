@@ -49,7 +49,7 @@ recipecategory: Dessert
 
 Hey everyone, hope you are having an incredible day today. Today, I will show you a way to make a special dish, sausage and veg traybake. One of my favorites food recipes. This time, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
 
-Bangers and mash tasting a bit bland? Revolutionise a British classic by swapping potatoes for root veg, slicing up your sausages and slathering in fragrant. With a rainbow of earthy root veg and succulent pork sausages, this tasty traybake recipe is the perfect winter comfort food. Mary's sausage and potato traybake will become a firm family favourite as it can be cooked in one dish and is so quick and easy to put together.
+Bangers and mash tasting a bit bland? Revolutionise a British classic by swapping potatoes for root veg, slicing up your sausages and slathering in fragrant. With a rainbow of earthy root veg and succulent pork sausages, this tasty traybake recipe is the perfect winter comfort food. Mary&#39;s sausage and potato traybake will become a firm family favourite as it can be cooked in one dish and is so quick and easy to put together.
 
 Sausage and Veg Traybake is one of the most popular of current trending foods in the world. It's easy, it is fast, it tastes yummy. It's enjoyed by millions every day. Sausage and Veg Traybake is something which I have loved my whole life. They are fine and they look wonderful.
 
@@ -73,7 +73,7 @@ To begin with this recipe, we must prepare a few components. You can cook sausag
 1. Prepare 2 tablespoons olive oil
 
 
-Vegetables - I'm using classic Christmas dinner vegetables such as sprouts, parsnips and carrot. But feel free to add other vegetables you have handy (this recipe is a great Veggie sausages - I love using frozen Linda McCartney sausages since they are so handy, but use whatever brand you enjoy. Alongside classic traybakes such as chicken, sausage and fish, we also have veggie versions. For a comforting, laid-back dinner that also packs in plenty of veg, try our sausage & maple swede traybake. 
+Vegetables - I&#39;m using classic Christmas dinner vegetables such as sprouts, parsnips and carrot. But feel free to add other vegetables you have handy (this recipe is a great Veggie sausages - I love using frozen Linda McCartney sausages since they are so handy, but use whatever brand you enjoy. Alongside classic traybakes such as chicken, sausage and fish, we also have veggie versions. For a comforting, laid-back dinner that also packs in plenty of veg, try our sausage &amp; maple swede traybake. 
 
 <!--inarticleads2-->
 
@@ -86,6 +86,6 @@ Vegetables - I'm using classic Christmas dinner vegetables such as sprouts, pars
 1. Roast in oven for 35-40 minutes. Take out of oven, grab another beer or two, and enjoy!  -  - *Tip: You can also place each brat in a bun and top with the veggies.
 
 
-Alongside classic traybakes such as chicken, sausage and fish, we also have veggie versions. For a comforting, laid-back dinner that also packs in plenty of veg, try our sausage & maple swede traybake. The satisfying combination of hearty sausages, caramelised red onions and zingy apple. Sausage traybake recipe from The Joyful Home Cook by Rosie Birkett. A traybake loaded with veg and high in fibre, this recipe is a real crowd pleaser. 
+Alongside classic traybakes such as chicken, sausage and fish, we also have veggie versions. For a comforting, laid-back dinner that also packs in plenty of veg, try our sausage &amp; maple swede traybake. The satisfying combination of hearty sausages, caramelised red onions and zingy apple. Sausage traybake recipe from The Joyful Home Cook by Rosie Birkett. A traybake loaded with veg and high in fibre, this recipe is a real crowd pleaser. 
 
 So that is going to wrap this up for this special food sausage and veg traybake recipe. Thanks so much for reading. I am sure you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

@@ -20,11 +20,11 @@ recipeingredient:
 recipeinstructions:
 - "Microwave the plums left over from umeshu for 3-5 minutes in a silicon steamer to soften them."
 - "Cool, remove the pits and mince. Soak the plums in the umeshu. The plums in the photo are too big, so please cut them into smaller pieces."
-- "Stir the cream cheese, brought to room temperature, until it's smooth and creamy."
+- "Stir the cream cheese, brought to room temperature, until it&#39;s smooth and creamy."
 - "Add the sugar to the heavy cream and whip until soft peaks form, then combine it with the cream cheese."
 - "Add the chopped plums, nuts, and the chocolate bar to the mixture in Step 4. (Lightly crush the nuts and the chocolate bar while still in the packages.)"
 - "Spread it into a container and freeze."
-- "Slice into 1-2 cm slices and it's ready to eat."
+- "Slice into 1-2 cm slices and it&#39;s ready to eat."
 - "These are the mixed nuts I used. This time I used dark chocolate, but white chocolate is also delicious!"
 categories:
 - Recipe
@@ -76,11 +76,11 @@ To begin with this recipe, we have to first prepare a few components. You can co
 
 1. Microwave the plums left over from umeshu for 3-5 minutes in a silicon steamer to soften them.
 1. Cool, remove the pits and mince. Soak the plums in the umeshu. The plums in the photo are too big, so please cut them into smaller pieces.
-1. Stir the cream cheese, brought to room temperature, until it's smooth and creamy.
+1. Stir the cream cheese, brought to room temperature, until it&#39;s smooth and creamy.
 1. Add the sugar to the heavy cream and whip until soft peaks form, then combine it with the cream cheese.
 1. Add the chopped plums, nuts, and the chocolate bar to the mixture in Step 4. (Lightly crush the nuts and the chocolate bar while still in the packages.)
 1. Spread it into a container and freeze.
-1. Slice into 1-2 cm slices and it's ready to eat.
+1. Slice into 1-2 cm slices and it&#39;s ready to eat.
 1. These are the mixed nuts I used. This time I used dark chocolate, but white chocolate is also delicious!
 
 

@@ -22,7 +22,7 @@ recipeinstructions:
 - "Blend together all of the wet ingredients."
 - "Add spices and dry milk."
 - "Slowly add flour and mix thoroughly."
-- "Roll out dough half at a time on floured surface to 1/8" thick. Cut and place on ungreased cookie sheets. They won't spread so they can be close together on the sheet."
+- "Roll out dough half at a time on floured surface to 1/8&#34; thick. Cut and place on ungreased cookie sheets. They won&#39;t spread so they can be close together on the sheet."
 - "Bake for 20 minutes or until hard. I leave mine in the oven after they are done and the oven is off to help dry them even more without further browning them."
 - "Refrigerate or freeze until needed. These will mold if not stored properly! (Experience talking here!)"
 categories:
@@ -77,7 +77,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Blend together all of the wet ingredients.
 1. Add spices and dry milk.
 1. Slowly add flour and mix thoroughly.
-1. Roll out dough half at a time on floured surface to 1/8" thick. Cut and place on ungreased cookie sheets. They won't spread so they can be close together on the sheet.
+1. Roll out dough half at a time on floured surface to 1/8&#34; thick. Cut and place on ungreased cookie sheets. They won&#39;t spread so they can be close together on the sheet.
 1. Bake for 20 minutes or until hard. I leave mine in the oven after they are done and the oven is off to help dry them even more without further browning them.
 1. Refrigerate or freeze until needed. These will mold if not stored properly! (Experience talking here!)
 

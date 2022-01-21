@@ -76,7 +76,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Take 2 tablespoons fresh cilantro leaves, torn for garnish
 
 
-Quinoa, Sweet Potato and Black Bean Bowls with Yogurt Dressing. Assemble the Quinoa Bowls: Add Quinoa, sweet potatoes, black beans, roasted red pepper, red onion, avocado, corn and then drizzle with crema Keywords: quinoa bowls, quinoa bowl, quinoa bowl recipe, sweet potato black bean, black bean sweet potato, vegetarian quinoa bowl, easy. I've taken the black bean and quinoa mixture and put it in a bowl and topped it with some diced avocado and feta cheese. This quinoa bowl recipe features chickpeas, veggies, roasted sweet potatoes, and feta. 
+Quinoa, Sweet Potato and Black Bean Bowls with Yogurt Dressing. Assemble the Quinoa Bowls: Add Quinoa, sweet potatoes, black beans, roasted red pepper, red onion, avocado, corn and then drizzle with crema Keywords: quinoa bowls, quinoa bowl, quinoa bowl recipe, sweet potato black bean, black bean sweet potato, vegetarian quinoa bowl, easy. I&#39;ve taken the black bean and quinoa mixture and put it in a bowl and topped it with some diced avocado and feta cheese. This quinoa bowl recipe features chickpeas, veggies, roasted sweet potatoes, and feta. 
 
 <!--inarticleads2-->
 
@@ -88,6 +88,6 @@ Quinoa, Sweet Potato and Black Bean Bowls with Yogurt Dressing. Assemble the Qui
 1. Remove the pan from the heat. Stir in corn and black beans crumble feta and garnish with cilantro
 
 
-I've taken the black bean and quinoa mixture and put it in a bowl and topped it with some diced avocado and feta cheese. This quinoa bowl recipe features chickpeas, veggies, roasted sweet potatoes, and feta. A great meal prep lunch or dinner, it's easy, healthy, and delicious! Make a southwestern bowl by swapping the chickpeas for black beans, the lemon juice for lime juice, and finishing it with a drizzle of chipotle. I present to you: Black Bean, Feta & Quinoa Mess. (makes one serving). 
+I&#39;ve taken the black bean and quinoa mixture and put it in a bowl and topped it with some diced avocado and feta cheese. This quinoa bowl recipe features chickpeas, veggies, roasted sweet potatoes, and feta. A great meal prep lunch or dinner, it&#39;s easy, healthy, and delicious! Make a southwestern bowl by swapping the chickpeas for black beans, the lemon juice for lime juice, and finishing it with a drizzle of chipotle. I present to you: Black Bean, Feta &amp; Quinoa Mess. (makes one serving). 
 
 So that's going to wrap it up for this exceptional food black bean feta quinoa bowl recipe. Thank you very much for your time. I'm confident that you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -61,7 +61,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Prepare 1 teaspoon sweet sake(mirin)
 
 
-For the times when you realize you've eaten too much white rice. And the thought of eating more white. Steamed Rice with Pickled Japanese Plums. All Reviews for Steamed Rice with Pickled Japanese Plums. 
+For the times when you realize you&#39;ve eaten too much white rice. And the thought of eating more white. Steamed Rice with Pickled Japanese Plums. All Reviews for Steamed Rice with Pickled Japanese Plums. 
 
 <!--inarticleads2-->
 

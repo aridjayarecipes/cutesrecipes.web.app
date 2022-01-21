@@ -16,7 +16,7 @@ recipeingredient:
 recipeinstructions:
 - "Combine all ingredients into a non-reactive pan."
 - "Simmer on medium, STIRRING FREQUENTLY, for 15-20 minutes until syrupy and the kick from the vinegar has dissipated."
-- "You're all done! You can strain if you're looking for a smooth, gel-like consistency. The candied blueberries go insanely well with a soft crumbly cheese."
+- "You&#39;re all done! You can strain if you&#39;re looking for a smooth, gel-like consistency. The candied blueberries go insanely well with a soft crumbly cheese."
 categories:
 - Recipe
 tags:
@@ -62,9 +62,9 @@ A gastrique is a simple sauce that can be made with any fruit or fruit juice. St
 
 1. Combine all ingredients into a non-reactive pan.
 1. Simmer on medium, STIRRING FREQUENTLY, for 15-20 minutes until syrupy and the kick from the vinegar has dissipated.
-1. You're all done! You can strain if you're looking for a smooth, gel-like consistency. The candied blueberries go insanely well with a soft crumbly cheese.
+1. You&#39;re all done! You can strain if you&#39;re looking for a smooth, gel-like consistency. The candied blueberries go insanely well with a soft crumbly cheese.
 
 
-Return to the heat and whisk until well blended. This blueberry gastrique recipe comes from Ryan Rector who knows fresh produce. He works at the famous Pike's Place Market in Seattle, WA. In a nutshell, a basic gastrique is a reduction of vinegar. The best thing about learning how to make a gastrique is that it's extremely easy for the clueless chef to do. 
+Return to the heat and whisk until well blended. This blueberry gastrique recipe comes from Ryan Rector who knows fresh produce. He works at the famous Pike&#39;s Place Market in Seattle, WA. In a nutshell, a basic gastrique is a reduction of vinegar. The best thing about learning how to make a gastrique is that it&#39;s extremely easy for the clueless chef to do. 
 
 So that's going to wrap this up with this special food blueberry gastrique recipe. Thank you very much for your time. I am confident that you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

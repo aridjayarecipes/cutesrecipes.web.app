@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Ultimate Black Bean &amp; Avocado Burgers"
-title: "Recipe of Ultimate Black Bean &amp; Avocado Burgers"
+description: "Recipe of Ultimate Black Bean &amp;amp; Avocado Burgers"
+title: "Recipe of Ultimate Black Bean &amp;amp; Avocado Burgers"
 slug: 2395-recipe-of-ultimate-black-bean-and-amp-avocado-burgers
 date: 2022-03-28T05:19:58.504Z
 image: https://img-global.cpcdn.com/recipes/4887059137298432/680x482cq70/black-bean-avocado-burgers-recipe-main-photo.jpg
@@ -38,7 +38,7 @@ recipeingredient:
 recipeinstructions:
 - "You will need:"
 - "Rinse black beans and split half into a large mixing bowl."
-- "For the second half of black beans- crush using a mortar & pestle or food processor."
+- "For the second half of black beans- crush using a mortar &amp; pestle or food processor."
 - "Add to the mixing bowl."
 - "Crush the garlic cloves and red pepper flakes and add to mixing bowl"
 - "Crush the jalapeño slices and add to mixing bowl."
@@ -68,20 +68,20 @@ recipecategory: Dinner
 ---
 
 
-![Black Bean & Avocado Burgers](https://img-global.cpcdn.com/recipes/4887059137298432/680x482cq70/black-bean-avocado-burgers-recipe-main-photo.jpg)
+![Black Bean &amp; Avocado Burgers](https://img-global.cpcdn.com/recipes/4887059137298432/680x482cq70/black-bean-avocado-burgers-recipe-main-photo.jpg)
 
-Hello everybody, hope you're having an amazing day today. Today, we're going to prepare a special dish, black bean & avocado burgers. It is one of my favorites food recipes. For mine, I will make it a little bit tasty. This is gonna smell and look delicious.
+Hello everybody, hope you're having an amazing day today. Today, we're going to prepare a special dish, black bean &amp; avocado burgers. It is one of my favorites food recipes. For mine, I will make it a little bit tasty. This is gonna smell and look delicious.
 
-Black Bean & Avocado Burgers is one of the most popular of recent trending foods on earth. It is appreciated by millions daily. It's easy, it's quick, it tastes delicious. Black Bean & Avocado Burgers is something that I've loved my whole life. They are nice and they look wonderful.
-
-
+Black Bean &amp; Avocado Burgers is one of the most popular of recent trending foods on earth. It is appreciated by millions daily. It's easy, it's quick, it tastes delicious. Black Bean &amp; Avocado Burgers is something that I've loved my whole life. They are nice and they look wonderful.
 
 
-To begin with this recipe, we have to prepare a few ingredients. You can cook black bean & avocado burgers using 25 ingredients and 14 steps. Here is how you can achieve that.
+
+
+To begin with this recipe, we have to prepare a few ingredients. You can cook black bean &amp; avocado burgers using 25 ingredients and 14 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Black Bean & Avocado Burgers:
+##### The ingredients needed to make Black Bean &amp; Avocado Burgers:
 
 1. Take  Black Bean Patties
 1. Take 15 1/2 oz can of black beans, rinsed
@@ -102,7 +102,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook bl
 1. Prepare 1 each Avocado
 1. Make ready 1/2 tbsp lemon juice
 1. Make ready 1 tbsp mayonnaise
-1. Make ready  Sammich & Fixins
+1. Make ready  Sammich &amp; Fixins
 1. Make ready 8 each bread slices
 1. Take 4 tomato slice
 1. Prepare 4 leaf of lettuce
@@ -114,11 +114,11 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook bl
 
 <!--inarticleads2-->
 
-##### Steps to make Black Bean & Avocado Burgers:
+##### Steps to make Black Bean &amp; Avocado Burgers:
 
 1. You will need:
 1. Rinse black beans and split half into a large mixing bowl.
-1. For the second half of black beans- crush using a mortar & pestle or food processor.
+1. For the second half of black beans- crush using a mortar &amp; pestle or food processor.
 1. Add to the mixing bowl.
 1. Crush the garlic cloves and red pepper flakes and add to mixing bowl
 1. Crush the jalapeño slices and add to mixing bowl.
@@ -134,4 +134,4 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook bl
 
 
 
-So that's going to wrap it up for this special food black bean & avocado burgers recipe. Thanks so much for your time. I'm sure that you can make this at home. There is gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!
+So that's going to wrap it up for this special food black bean &amp; avocado burgers recipe. Thanks so much for your time. I'm sure that you can make this at home. There is gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

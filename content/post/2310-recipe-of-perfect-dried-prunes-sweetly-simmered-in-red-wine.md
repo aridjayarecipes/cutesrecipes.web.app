@@ -17,7 +17,7 @@ recipeingredient:
 recipeinstructions:
 - "Put the ■ ingredients in a saucepan and turn on the heat. When it comes to the boil, turn it down to low heat and simmer for about 20 minutes. ※until most of the liquid has evaporated"
 - "Take out the cinnamon stick and put the prunes in a sterilized jar to store in the fridge. You can eat them as is You can also use them for cooking."
-- "I also use these for "Chicken Simmered With Prunes""
+- "I also use these for &#34;Chicken Simmered With Prunes&#34;"
 categories:
 - Recipe
 tags:
@@ -65,7 +65,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 
 1. Put the ■ ingredients in a saucepan and turn on the heat. When it comes to the boil, turn it down to low heat and simmer for about 20 minutes. ※until most of the liquid has evaporated
 1. Take out the cinnamon stick and put the prunes in a sterilized jar to store in the fridge. You can eat them as is You can also use them for cooking.
-1. I also use these for "Chicken Simmered With Prunes"
+1. I also use these for &#34;Chicken Simmered With Prunes&#34;
 
 
 

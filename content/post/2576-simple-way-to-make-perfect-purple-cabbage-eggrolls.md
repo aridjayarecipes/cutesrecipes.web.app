@@ -40,7 +40,7 @@ recipecategory: Dinner
 
 Hey everyone, I hope you're having an amazing day today. Today, I'm gonna show you how to make a special dish, purple cabbage eggrolls. One of my favorites food recipes. For mine, I am going to make it a bit unique. This is gonna smell and look delicious.
 
-Purple cabbage eggrolls recipe perhaps the one you are trying to find. These purple cabbages Egg rolls flavored with pork, ginger and garlic are enveloped in a light crunchy phyllo. I remember, like it was yesterday, dipping my eggrolls into this sweet and sour sauce until I couldn't breath anymore. The Best Purple Cabbage Recipes on Yummly
+Purple cabbage eggrolls recipe perhaps the one you are trying to find. These purple cabbages Egg rolls flavored with pork, ginger and garlic are enveloped in a light crunchy phyllo. I remember, like it was yesterday, dipping my eggrolls into this sweet and sour sauce until I couldn&#39;t breath anymore. The Best Purple Cabbage Recipes on Yummly
 
 Purple cabbage eggrolls is one of the most favored of current trending meals on earth. It's simple, it's quick, it tastes delicious. It's appreciated by millions daily. They're nice and they look fantastic. Purple cabbage eggrolls is something which I have loved my entire life.
 

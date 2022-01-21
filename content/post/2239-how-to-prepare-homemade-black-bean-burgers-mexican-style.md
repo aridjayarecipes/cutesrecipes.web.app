@@ -26,9 +26,9 @@ recipeingredient:
 - "pinch salt  pepper"
 - "1 can black beans drained rinsed patted dry"
 recipeinstructions:
-- "Preheat oven to 375 F. Spread beans evenly onto a lined baking sheet & bake for 15 mins until slightly dried out (this is important to reduce mushiness of the beans)"
-- "Meanwhile saute olive oil, red pepper, mushrooms, green onion & minced garlic until soft. Gently blot some of the moisture out."
-- "Place sauteed mixture in a large bowl with the remaining ingredients (except beans). Stir together & then add the black beans. Mash with a fork, leaving some larger chunks of beans."
+- "Preheat oven to 375 F. Spread beans evenly onto a lined baking sheet &amp; bake for 15 mins until slightly dried out (this is important to reduce mushiness of the beans)"
+- "Meanwhile saute olive oil, red pepper, mushrooms, green onion &amp; minced garlic until soft. Gently blot some of the moisture out."
+- "Place sauteed mixture in a large bowl with the remaining ingredients (except beans). Stir together &amp; then add the black beans. Mash with a fork, leaving some larger chunks of beans."
 - "Form into patties. Bake at 375 F for 10 mins each side or grill 8 mins each side. Melt cheddar or Monterey Jack cheese on top."
 categories:
 - Recipe
@@ -68,15 +68,15 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Make ready 1/2 cup roasted red pepper (I used store bought), finely chopped
 1. Prepare 1/2 cup fresh mushrooms, finely chopped
 1. Prepare 1 tsp minced garlic
-1. Take 1 &1/2 tsp cumin
+1. Take 1 &amp;1/2 tsp cumin
 1. Prepare 1 tsp chili powder
 1. Make ready 1/2 tsp garlic powder
 1. Prepare 1/2 cup bread crumbs
 1. Make ready 2 lg eggs
 1. Get 1 tbsp Worcestershire sauce
 1. Make ready 1 tbsp taco sauce
-1. Take 1 &1/2 tsp Montreal steak spice
-1. Get pinch salt & pepper
+1. Take 1 &amp;1/2 tsp Montreal steak spice
+1. Get pinch salt &amp; pepper
 1. Take 1 can black beans, drained, rinsed, patted dry
 
 
@@ -86,9 +86,9 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 
 ##### Steps to make Black Bean Burgers (Mexican style):
 
-1. Preheat oven to 375 F. Spread beans evenly onto a lined baking sheet & bake for 15 mins until slightly dried out (this is important to reduce mushiness of the beans)
-1. Meanwhile saute olive oil, red pepper, mushrooms, green onion & minced garlic until soft. Gently blot some of the moisture out.
-1. Place sauteed mixture in a large bowl with the remaining ingredients (except beans). Stir together & then add the black beans. Mash with a fork, leaving some larger chunks of beans.
+1. Preheat oven to 375 F. Spread beans evenly onto a lined baking sheet &amp; bake for 15 mins until slightly dried out (this is important to reduce mushiness of the beans)
+1. Meanwhile saute olive oil, red pepper, mushrooms, green onion &amp; minced garlic until soft. Gently blot some of the moisture out.
+1. Place sauteed mixture in a large bowl with the remaining ingredients (except beans). Stir together &amp; then add the black beans. Mash with a fork, leaving some larger chunks of beans.
 1. Form into patties. Bake at 375 F for 10 mins each side or grill 8 mins each side. Melt cheddar or Monterey Jack cheese on top.
 
 

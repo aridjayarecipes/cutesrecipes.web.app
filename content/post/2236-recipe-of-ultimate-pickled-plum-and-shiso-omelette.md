@@ -19,7 +19,7 @@ recipeingredient:
 - "1 tbsp Mayonnaise"
 recipeinstructions:
 - "Mince the plum and finely chop the shiso."
-- "Beat the egg, add all the ingredients and mix. Make sure the mayonnaise isn't lumpy."
+- "Beat the egg, add all the ingredients and mix. Make sure the mayonnaise isn&#39;t lumpy."
 - "Pour the egg mixture into an omelette pan in 2 batches. Cook through on a low to medium heat slowly. Be careful not to burn it."
 categories:
 - Recipe
@@ -70,7 +70,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 ##### Steps to make Pickled Plum and Shiso Omelette:
 
 1. Mince the plum and finely chop the shiso.
-1. Beat the egg, add all the ingredients and mix. Make sure the mayonnaise isn't lumpy.
+1. Beat the egg, add all the ingredients and mix. Make sure the mayonnaise isn&#39;t lumpy.
 1. Pour the egg mixture into an omelette pan in 2 batches. Cook through on a low to medium heat slowly. Be careful not to burn it.
 
 

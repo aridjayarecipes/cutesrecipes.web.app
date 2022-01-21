@@ -39,7 +39,7 @@ recipecategory: Lunch
 
 Hello everybody, hope you are having an incredible day today. Today, I'm gonna show you how to prepare a distinctive dish, brussel sprouts and sausage casserole. It is one of my favorites. This time, I'm gonna make it a bit unique. This will be really delicious.
 
-Also I'm confused, brussel sprouts casserole or brussels sprouts casserole? The correct spelling is "Brussels Sprouts", but I get it if This Brussels Sprouts Casserole can be served with almost any dinner. Easy, make ahead, crazy flavored casserole. How to Make Sausage and Brussels Sprouts Casserole.
+Also I&#39;m confused, brussel sprouts casserole or brussels sprouts casserole? The correct spelling is &#34;Brussels Sprouts&#34;, but I get it if This Brussels Sprouts Casserole can be served with almost any dinner. Easy, make ahead, crazy flavored casserole. How to Make Sausage and Brussels Sprouts Casserole.
 
 Brussel sprouts and sausage casserole is one of the most popular of current trending meals on earth. It's easy, it's fast, it tastes delicious. It's appreciated by millions every day. Brussel sprouts and sausage casserole is something that I have loved my whole life. They're fine and they look fantastic.
 

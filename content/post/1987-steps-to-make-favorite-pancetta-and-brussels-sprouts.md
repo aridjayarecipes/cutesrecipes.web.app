@@ -21,7 +21,7 @@ recipeingredient:
 recipeinstructions:
 - "Clean and wash brussel sprouts. Remove discolored leaves and cut off the stems."
 - "Then cut them into quarters."
-- "Place the Brussels sprouts in a microwave safe dish. Add a few tablespoons of water. Put saran wrap over the dish and microwave from 4 to 6 minutes depending on the softness you're trying to reach. remember do you still need to be sauteed with a pancetta so slightly less time may work better."
+- "Place the Brussels sprouts in a microwave safe dish. Add a few tablespoons of water. Put saran wrap over the dish and microwave from 4 to 6 minutes depending on the softness you&#39;re trying to reach. remember do you still need to be sauteed with a pancetta so slightly less time may work better."
 - "Add olive oil to the frying pan; take the pan out of the package and saute under medium heat."
 - "Add some salt and some pepper not all of it just a pinch."
 - "Once the puzzles. So done steaming and the pancetta has reached almost the crunchiness add the brussel sprouts in with the pancetta into the frying pan."
@@ -78,7 +78,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can c
 
 1. Clean and wash brussel sprouts. Remove discolored leaves and cut off the stems.
 1. Then cut them into quarters.
-1. Place the Brussels sprouts in a microwave safe dish. Add a few tablespoons of water. Put saran wrap over the dish and microwave from 4 to 6 minutes depending on the softness you're trying to reach. remember do you still need to be sauteed with a pancetta so slightly less time may work better.
+1. Place the Brussels sprouts in a microwave safe dish. Add a few tablespoons of water. Put saran wrap over the dish and microwave from 4 to 6 minutes depending on the softness you&#39;re trying to reach. remember do you still need to be sauteed with a pancetta so slightly less time may work better.
 1. Add olive oil to the frying pan; take the pan out of the package and saute under medium heat.
 1. Add some salt and some pepper not all of it just a pinch.
 1. Once the puzzles. So done steaming and the pancetta has reached almost the crunchiness add the brussel sprouts in with the pancetta into the frying pan.

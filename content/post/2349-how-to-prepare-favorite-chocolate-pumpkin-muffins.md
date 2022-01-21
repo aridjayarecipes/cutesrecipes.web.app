@@ -80,7 +80,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 1. Prepare 1/2 cup chocolate chips
 
 
-You can't taste the pumpkin at all and they are so good. Pumpkin is so delicious and I want to load it into every possible recipe once fall rolls around because there's just something so festive about it! See more ideas about chocolate pumpkin muffins, pumpkin muffins, pumpkin chocolate. Pumpkin Chocolate Muffins - These deliciously moist pumpkin muffins are swirled with chocolate and perfectly spiced. 
+You can&#39;t taste the pumpkin at all and they are so good. Pumpkin is so delicious and I want to load it into every possible recipe once fall rolls around because there&#39;s just something so festive about it! See more ideas about chocolate pumpkin muffins, pumpkin muffins, pumpkin chocolate. Pumpkin Chocolate Muffins - These deliciously moist pumpkin muffins are swirled with chocolate and perfectly spiced. 
 
 <!--inarticleads2-->
 
@@ -92,6 +92,6 @@ You can't taste the pumpkin at all and they are so good. Pumpkin is so delicious
 1. Grease muffin tins and bake at 350 for 23-25 minutes.
 
 
-See more ideas about chocolate pumpkin muffins, pumpkin muffins, pumpkin chocolate. Pumpkin Chocolate Muffins - These deliciously moist pumpkin muffins are swirled with chocolate and perfectly spiced. Enjoy with your morning tea or coffee this autumn! These chocolate pumpkin muffins are all about the sneaky veggies, hiding in plain sight under the guise of deep, dark chocolate indulgence. Despite the vegetable boost, like my mom's pumpkin. 
+See more ideas about chocolate pumpkin muffins, pumpkin muffins, pumpkin chocolate. Pumpkin Chocolate Muffins - These deliciously moist pumpkin muffins are swirled with chocolate and perfectly spiced. Enjoy with your morning tea or coffee this autumn! These chocolate pumpkin muffins are all about the sneaky veggies, hiding in plain sight under the guise of deep, dark chocolate indulgence. Despite the vegetable boost, like my mom&#39;s pumpkin. 
 
 So that is going to wrap it up for this exceptional food chocolate pumpkin muffins recipe. Thank you very much for reading. I'm confident that you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

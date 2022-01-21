@@ -76,7 +76,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Make ready 1/4 tsp ichimi togarashi(Japanese chili pepper)
 
 
-I recently purchased a pack of two at my local Japanese … This easy Stir-Fried Burdock root recipe is so easy to prepare and flavorful, burdock root or gobo, cut into matchsticks and stir-fried with carrot sticks with a sweet. While burdock root may seem like a crazy wild edible, it's actually a cultivated edible in many parts I actually like the flavor of the skin, as I find it adds a certain nuttiness that is really amazing. That leaves the sweet and tender core, which is the best part of the burdock. This video is a great tutorial. 
+I recently purchased a pack of two at my local Japanese … This easy Stir-Fried Burdock root recipe is so easy to prepare and flavorful, burdock root or gobo, cut into matchsticks and stir-fried with carrot sticks with a sweet. While burdock root may seem like a crazy wild edible, it&#39;s actually a cultivated edible in many parts I actually like the flavor of the skin, as I find it adds a certain nuttiness that is really amazing. That leaves the sweet and tender core, which is the best part of the burdock. This video is a great tutorial. 
 
 <!--inarticleads2-->
 

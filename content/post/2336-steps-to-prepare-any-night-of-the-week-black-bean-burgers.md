@@ -21,7 +21,7 @@ recipeinstructions:
 - "Use chopper on beans until no whole beans are left."
 - "Add rest of ingredients to beans"
 - "Form into very thin patties and refrigerate 10 minutes"
-- "Cook in light butter and oil for about 6 minutes on each side (It's important to cook them through otherwise they'll stay mushy)."
+- "Cook in light butter and oil for about 6 minutes on each side (It&#39;s important to cook them through otherwise they&#39;ll stay mushy)."
 - "Enjoy!"
 categories:
 - Recipe
@@ -74,7 +74,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Use chopper on beans until no whole beans are left.
 1. Add rest of ingredients to beans
 1. Form into very thin patties and refrigerate 10 minutes
-1. Cook in light butter and oil for about 6 minutes on each side (It's important to cook them through otherwise they'll stay mushy).
+1. Cook in light butter and oil for about 6 minutes on each side (It&#39;s important to cook them through otherwise they&#39;ll stay mushy).
 1. Enjoy!
 
 

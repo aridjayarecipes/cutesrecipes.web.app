@@ -44,7 +44,7 @@ Hey everyone, hope you are having an amazing day today. Today, I will show you a
 
 Rice with salmon,edamame,and cheese is one of the most favored of recent trending foods on earth. It is enjoyed by millions every day. It's easy, it is quick, it tastes delicious. Rice with salmon,edamame,and cheese is something that I've loved my entire life. They're nice and they look fantastic.
 
-Remove the bone and skin and flake the fish. Oil edamame and remove from the pod. Shira Bocar shares a healthy, one-pot recipe that's ideal for a family dinner. Top with salmon, then place tomato, cucumber, avocado, edamame and radish in piles around it.
+Remove the bone and skin and flake the fish. Oil edamame and remove from the pod. Shira Bocar shares a healthy, one-pot recipe that&#39;s ideal for a family dinner. Top with salmon, then place tomato, cucumber, avocado, edamame and radish in piles around it.
 
 
 To get started with this recipe, we have to prepare a few components. You can have rice with salmon,edamame,and cheese using 5 ingredients and 4 steps. Here is how you can achieve that.

@@ -25,7 +25,7 @@ recipeingredient:
 recipeinstructions:
 - "Mix all the dry ingredients"
 - "Mix all the wet ingredients"
-- "Mix the dry and the wet, but don't overdue it."
+- "Mix the dry and the wet, but don&#39;t overdue it."
 - "Put in a greased up bread pan and bake at 345 for 45 minutes."
 categories:
 - Recipe
@@ -82,7 +82,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can h
 
 1. Mix all the dry ingredients
 1. Mix all the wet ingredients
-1. Mix the dry and the wet, but don't overdue it.
+1. Mix the dry and the wet, but don&#39;t overdue it.
 1. Put in a greased up bread pan and bake at 345 for 45 minutes.
 
 

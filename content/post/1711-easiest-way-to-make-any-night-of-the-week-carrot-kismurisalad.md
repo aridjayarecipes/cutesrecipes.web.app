@@ -20,7 +20,7 @@ recipeingredient:
 - "1 tspoon roasted peanuts"
 recipeinstructions:
 - "Grate carrots in bowl,chop spinach leaves and coriander leaves"
-- "Mix grated carrot, grated coconut, chopped coriander leaves and spinach leaves.add salt and lemon juice, roasted peanuts. Mix well and serve.in this lockdown it's y better option for dinner.tastes yum without oil.very healthy"
+- "Mix grated carrot, grated coconut, chopped coriander leaves and spinach leaves.add salt and lemon juice, roasted peanuts. Mix well and serve.in this lockdown it&#39;s y better option for dinner.tastes yum without oil.very healthy"
 categories:
 - Recipe
 tags:
@@ -44,7 +44,7 @@ Hey everyone, it's Louise, welcome to my recipe site. Today, I will show you a w
 
 Carrot kismuri(salad) is one of the most popular of current trending meals in the world. It is enjoyed by millions every day. It is simple, it is quick, it tastes delicious. They're fine and they look fantastic. Carrot kismuri(salad) is something which I have loved my whole life.
 
-Simple and quick recipe Carrot Kismuri, carrot recipe,quick recipe,konkani recipe,amchi recipe,gsb recipes. Grate carrots in bowl, chop spinach leaves and coriander leaves. In our Konkani cooking we make many " kismuris" and "pachadis", which are really what you might call salads of one form or the other. Let carrot take centre stage with these fresh, vibrant salads.
+Simple and quick recipe Carrot Kismuri, carrot recipe,quick recipe,konkani recipe,amchi recipe,gsb recipes. Grate carrots in bowl, chop spinach leaves and coriander leaves. In our Konkani cooking we make many &#34; kismuris&#34; and &#34;pachadis&#34;, which are really what you might call salads of one form or the other. Let carrot take centre stage with these fresh, vibrant salads.
 
 
 To begin with this recipe, we have to first prepare a few components. You can cook carrot kismuri(salad) using 8 ingredients and 2 steps. Here is how you can achieve it.
@@ -63,16 +63,16 @@ To begin with this recipe, we have to first prepare a few components. You can co
 1. Get 1 tspoon roasted peanuts
 
 
-Recipes for carrot salad vary widely by regional cuisine. Shredded carrot salads are often used as a topping for other dishes. Carrot raisin salad is a traditional dish in the Southern United States. Carrot Kismuri is a classic #salad from Malnad's #Gowda #cuisine. 
+Recipes for carrot salad vary widely by regional cuisine. Shredded carrot salads are often used as a topping for other dishes. Carrot raisin salad is a traditional dish in the Southern United States. Carrot Kismuri is a classic #salad from Malnad&#39;s #Gowda #cuisine. 
 
 <!--inarticleads2-->
 
 ##### Steps to make Carrot kismuri(salad):
 
 1. Grate carrots in bowl,chop spinach leaves and coriander leaves
-1. Mix grated carrot, grated coconut, chopped coriander leaves and spinach leaves.add salt and lemon juice, roasted peanuts. Mix well and serve.in this lockdown it's y better option for dinner.tastes yum without oil.very healthy
+1. Mix grated carrot, grated coconut, chopped coriander leaves and spinach leaves.add salt and lemon juice, roasted peanuts. Mix well and serve.in this lockdown it&#39;s y better option for dinner.tastes yum without oil.very healthy
 
 
-Carrot raisin salad is a traditional dish in the Southern United States. Carrot Kismuri is a classic #salad from Malnad's #Gowda #cuisine. RELATED ARTICLES: Beef salads, recipes for delicious and simple salads with photos. Moroccan carrot salad is a great and easy side-dish with a beautiful presentation. Moroccan carrot salad is a Holiday treat on our families' table, even though it is really easy to make and it took us too. 
+Carrot raisin salad is a traditional dish in the Southern United States. Carrot Kismuri is a classic #salad from Malnad&#39;s #Gowda #cuisine. RELATED ARTICLES: Beef salads, recipes for delicious and simple salads with photos. Moroccan carrot salad is a great and easy side-dish with a beautiful presentation. Moroccan carrot salad is a Holiday treat on our families&#39; table, even though it is really easy to make and it took us too. 
 
 So that's going to wrap it up for this special food carrot kismuri(salad) recipe. Thanks so much for reading. I am confident you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

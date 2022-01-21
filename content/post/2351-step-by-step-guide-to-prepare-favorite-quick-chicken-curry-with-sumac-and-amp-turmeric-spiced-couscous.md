@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Prepare Favorite Quick Chicken Curry with Sumac &amp; Turmeric Spiced Couscous"
-title: "Step-by-Step Guide to Prepare Favorite Quick Chicken Curry with Sumac &amp; Turmeric Spiced Couscous"
+description: "Step-by-Step Guide to Prepare Favorite Quick Chicken Curry with Sumac &amp;amp; Turmeric Spiced Couscous"
+title: "Step-by-Step Guide to Prepare Favorite Quick Chicken Curry with Sumac &amp;amp; Turmeric Spiced Couscous"
 slug: 2351-step-by-step-guide-to-prepare-favorite-quick-chicken-curry-with-sumac-and-amp-turmeric-spiced-couscous
 date: 2022-03-09T15:12:55.342Z
 image: https://img-global.cpcdn.com/recipes/b358c74aabe2eb27/680x482cq70/quick-chicken-curry-with-sumac-turmeric-spiced-couscous-recipe-main-photo.jpg
@@ -53,20 +53,20 @@ recipecategory: Dinner
 ---
 
 
-![Quick Chicken Curry with Sumac & Turmeric Spiced Couscous](https://img-global.cpcdn.com/recipes/b358c74aabe2eb27/680x482cq70/quick-chicken-curry-with-sumac-turmeric-spiced-couscous-recipe-main-photo.jpg)
+![Quick Chicken Curry with Sumac &amp; Turmeric Spiced Couscous](https://img-global.cpcdn.com/recipes/b358c74aabe2eb27/680x482cq70/quick-chicken-curry-with-sumac-turmeric-spiced-couscous-recipe-main-photo.jpg)
 
-Hey everyone, hope you're having an amazing day today. Today, I will show you a way to make a special dish, quick chicken curry with sumac & turmeric spiced couscous. One of my favorites food recipes. This time, I am going to make it a bit tasty. This will be really delicious.
-
-
-
-Quick Chicken Curry with Sumac & Turmeric Spiced Couscous is one of the most well liked of current trending meals in the world. It's simple, it's quick, it tastes yummy. It is appreciated by millions daily. Quick Chicken Curry with Sumac & Turmeric Spiced Couscous is something which I have loved my whole life. They are nice and they look fantastic.
+Hey everyone, hope you're having an amazing day today. Today, I will show you a way to make a special dish, quick chicken curry with sumac &amp; turmeric spiced couscous. One of my favorites food recipes. This time, I am going to make it a bit tasty. This will be really delicious.
 
 
-To get started with this recipe, we must first prepare a few components. You can have quick chicken curry with sumac & turmeric spiced couscous using 19 ingredients and 5 steps. Here is how you cook it.
+
+Quick Chicken Curry with Sumac &amp; Turmeric Spiced Couscous is one of the most well liked of current trending meals in the world. It's simple, it's quick, it tastes yummy. It is appreciated by millions daily. Quick Chicken Curry with Sumac &amp; Turmeric Spiced Couscous is something which I have loved my whole life. They are nice and they look fantastic.
+
+
+To get started with this recipe, we must first prepare a few components. You can have quick chicken curry with sumac &amp; turmeric spiced couscous using 19 ingredients and 5 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Quick Chicken Curry with Sumac & Turmeric Spiced Couscous:
+##### The ingredients needed to make Quick Chicken Curry with Sumac &amp; Turmeric Spiced Couscous:
 
 1. Get 2 chicken breasts
 1. Take 2 carrots
@@ -93,7 +93,7 @@ To get started with this recipe, we must first prepare a few components. You can
 
 <!--inarticleads2-->
 
-##### Steps to make Quick Chicken Curry with Sumac & Turmeric Spiced Couscous:
+##### Steps to make Quick Chicken Curry with Sumac &amp; Turmeric Spiced Couscous:
 
 1. In a pan add a good glug of oil and fry off onion, add all the spices and fry off for a few mins. Then add the garlic and the chicken until the chicken is seeled
 1. Add the plum tomatoes to the chicken curry mix and mush up the toms, then refill the can with water and top up.
@@ -104,4 +104,4 @@ To get started with this recipe, we must first prepare a few components. You can
 
 
 
-So that's going to wrap this up with this exceptional food quick chicken curry with sumac & turmeric spiced couscous recipe. Thanks so much for reading. I am confident that you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!
+So that's going to wrap this up with this exceptional food quick chicken curry with sumac &amp; turmeric spiced couscous recipe. Thanks so much for reading. I am confident that you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

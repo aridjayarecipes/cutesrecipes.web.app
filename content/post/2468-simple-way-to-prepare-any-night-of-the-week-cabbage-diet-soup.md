@@ -19,10 +19,10 @@ recipeingredient:
 - "1 bunch carrots"
 - "2 each fresh corn"
 recipeinstructions:
-- "in large pot heat oil & stir garlic & onions to brown slightly"
-- "add both cans of diced tomatoes & water"
-- "add cabbage, carrots, celery, corn. cover with lid & bring to simmer."
-- "you can add any vegetable or pasta to your liking. i use diced tomatoes with jalepeno because it has a nice kick with flavor. once carrots & celery are tender, soup is cooked. can be eaten heated or chilled. you can also cook in large batches and freeze it to make it last longer."
+- "in large pot heat oil &amp; stir garlic &amp; onions to brown slightly"
+- "add both cans of diced tomatoes &amp; water"
+- "add cabbage, carrots, celery, corn. cover with lid &amp; bring to simmer."
+- "you can add any vegetable or pasta to your liking. i use diced tomatoes with jalepeno because it has a nice kick with flavor. once carrots &amp; celery are tender, soup is cooked. can be eaten heated or chilled. you can also cook in large batches and freeze it to make it last longer."
 categories:
 - Recipe
 tags:
@@ -59,7 +59,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Take 2 clove garlic
 1. Take 1 each onion
 1. Prepare 1 can diced tomatoes with jalapeno peppers
-1. Make ready 1 can diced tomatoes with garlic & onion
+1. Make ready 1 can diced tomatoes with garlic &amp; onion
 1. Get 5 can water
 1. Get 1 bunch celery
 1. Prepare 1 bunch carrots
@@ -72,10 +72,10 @@ Your daily values may be higher or lower depending on. The cabbage soup diet is 
 
 ##### Instructions to make Cabbage diet soup:
 
-1. in large pot heat oil & stir garlic & onions to brown slightly
-1. add both cans of diced tomatoes & water
-1. add cabbage, carrots, celery, corn. cover with lid & bring to simmer.
-1. you can add any vegetable or pasta to your liking. i use diced tomatoes with jalepeno because it has a nice kick with flavor. once carrots & celery are tender, soup is cooked. can be eaten heated or chilled. you can also cook in large batches and freeze it to make it last longer.
+1. in large pot heat oil &amp; stir garlic &amp; onions to brown slightly
+1. add both cans of diced tomatoes &amp; water
+1. add cabbage, carrots, celery, corn. cover with lid &amp; bring to simmer.
+1. you can add any vegetable or pasta to your liking. i use diced tomatoes with jalepeno because it has a nice kick with flavor. once carrots &amp; celery are tender, soup is cooked. can be eaten heated or chilled. you can also cook in large batches and freeze it to make it last longer.
 
 
 Promising users a quick weight loss if they follow the plan. Ancient Britons were eating dairy, peas, cabbage and oats, according to gunk trapped in their teeth. Scientists analysed dental plaque found on the teeth of skeletons from the Iron Age to. My family will have this for. The Cabbage Soup Diet has been a popular fad diet for quite some time, one reason being that Fad diets pop up every now and then, but the Cabbage Soup Diet has stayed with us for some time. 

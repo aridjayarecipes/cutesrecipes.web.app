@@ -21,7 +21,7 @@ recipeinstructions:
 - "Add the cream slowly to the pumpkin while smashing it to make the pumpkin cream. Also add salt and black pepper while doing it."
 - "Peel the potatoes and chop them into slices, being thick as a finger or so. Then boil untill softens."
 - "Chop the onion into very thin slices and fry it together with the bacon, aprox 5 minutes with high heat."
-- "To serve, put the potato slices vertically in the center of the dishes, add the pumpkin cream around it gently with a kitchen spoon and finally add the fried bacon & onion on top of the potato."
+- "To serve, put the potato slices vertically in the center of the dishes, add the pumpkin cream around it gently with a kitchen spoon and finally add the fried bacon &amp; onion on top of the potato."
 - "Enjoy!!"
 categories:
 - Recipe
@@ -45,7 +45,7 @@ recipecategory: Dinner
 
 Hey everyone, it is Brad, welcome to my recipe page. Today, we're going to make a special dish, potato island on a pumpkin sea. It is one of my favorites. For mine, I will make it a little bit unique. This is gonna smell and look delicious.
 
-Peel and chop the pumpkin, then boil it untill softens. Add the cream slowly to the pumpkin while smashing it to make the pumpkin cream. Also add salt and black pepper while doing it. Here is a guide on how to get to the island behind Rockhopper's Ship.
+Peel and chop the pumpkin, then boil it untill softens. Add the cream slowly to the pumpkin while smashing it to make the pumpkin cream. Also add salt and black pepper while doing it. Here is a guide on how to get to the island behind Rockhopper&#39;s Ship.
 
 Potato island on a pumpkin sea is one of the most favored of current trending foods in the world. It is appreciated by millions daily. It is simple, it's quick, it tastes delicious. Potato island on a pumpkin sea is something which I've loved my entire life. They're fine and they look fantastic.
 
@@ -74,7 +74,7 @@ The house on Potato Island is worthy of dropping anchor and settling in for a bi
 1. Add the cream slowly to the pumpkin while smashing it to make the pumpkin cream. Also add salt and black pepper while doing it.
 1. Peel the potatoes and chop them into slices, being thick as a finger or so. Then boil untill softens.
 1. Chop the onion into very thin slices and fry it together with the bacon, aprox 5 minutes with high heat.
-1. To serve, put the potato slices vertically in the center of the dishes, add the pumpkin cream around it gently with a kitchen spoon and finally add the fried bacon & onion on top of the potato.
+1. To serve, put the potato slices vertically in the center of the dishes, add the pumpkin cream around it gently with a kitchen spoon and finally add the fried bacon &amp; onion on top of the potato.
 1. Enjoy!!
 
 

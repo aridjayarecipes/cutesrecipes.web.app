@@ -22,7 +22,7 @@ recipeingredient:
 recipeinstructions:
 - "Core the bottom of cabbage being careful not to cut the leaves. You want to just take out the large stem holding the leaves together so when you cook the cabbage in water the leaves will soften but not break."
 - "While the cabbage cooks in boiling water, cook the rice 🍚 in the rice cooker. This will make easier for you to get take care of other dishes while rice cooks in the cooker."
-- "In a bowl mix the ground meat with the sazon (I'll publish my sazon again) set aside."
+- "In a bowl mix the ground meat with the sazon (I&#39;ll publish my sazon again) set aside."
 - "When the leaves from the cabbage start to fall off from the head, take them out gently as to not break them. Place the leaves in a bowl to cool. Once all of the leaves you need from the cabbage have fallen off and have cooled, cut ✂️ part of the rib (long stem) from each of them. This will make easy to roll the cabbage."
 - "In a sauce pan add the crushed tomatoes and tomato sauce with the basil leaves, garlic and sugar. Let it simmer and adjust seasoning to your taste."
 - "Once your rice has cooked, in a large bowl add the rice and uncooked meat mixture. After mixing it well, you can start adding this to the cabbage leaves and roll like a burrito tucking in the sides of the cabbage as you roll."
@@ -50,7 +50,7 @@ recipecategory: Lunch
 
 Hey everyone, it's Louise, welcome to my recipe page. Today, we're going to make a special dish, niños envueltos (stuffed cabbage rolls). It is one of my favorites food recipes. For mine, I'm gonna make it a bit tasty. This will be really delicious.
 
-These stuffed cabbage rolls make a great dinner for a crowd. Hey everyone, I hope you're having an amazing day today. It is easy, it is fast, it tastes delicious. Niños envueltos (stuffed cabbage rolls) is something which I have loved my entire life.
+These stuffed cabbage rolls make a great dinner for a crowd. Hey everyone, I hope you&#39;re having an amazing day today. It is easy, it is fast, it tastes delicious. Niños envueltos (stuffed cabbage rolls) is something which I have loved my entire life.
 
 Niños envueltos (stuffed cabbage rolls) is one of the most favored of recent trending meals in the world. It's easy, it's fast, it tastes delicious. It's enjoyed by millions every day. Niños envueltos (stuffed cabbage rolls) is something that I've loved my entire life. They're nice and they look fantastic.
 
@@ -80,7 +80,7 @@ Repeat to form remaining niños envueltos. Before you jump to Niños envueltos (
 
 1. Core the bottom of cabbage being careful not to cut the leaves. You want to just take out the large stem holding the leaves together so when you cook the cabbage in water the leaves will soften but not break.
 1. While the cabbage cooks in boiling water, cook the rice 🍚 in the rice cooker. This will make easier for you to get take care of other dishes while rice cooks in the cooker.
-1. In a bowl mix the ground meat with the sazon (I'll publish my sazon again) set aside.
+1. In a bowl mix the ground meat with the sazon (I&#39;ll publish my sazon again) set aside.
 1. When the leaves from the cabbage start to fall off from the head, take them out gently as to not break them. Place the leaves in a bowl to cool. Once all of the leaves you need from the cabbage have fallen off and have cooled, cut ✂️ part of the rib (long stem) from each of them. This will make easy to roll the cabbage.
 1. In a sauce pan add the crushed tomatoes and tomato sauce with the basil leaves, garlic and sugar. Let it simmer and adjust seasoning to your taste.
 1. Once your rice has cooked, in a large bowl add the rice and uncooked meat mixture. After mixing it well, you can start adding this to the cabbage leaves and roll like a burrito tucking in the sides of the cabbage as you roll.

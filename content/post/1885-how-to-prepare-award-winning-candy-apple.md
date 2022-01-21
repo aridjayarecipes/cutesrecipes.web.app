@@ -16,10 +16,10 @@ recipeingredient:
 - "2 spoon water"
 - "2 spoon syrup pomegranate"
 recipeinstructions:
-- "Wash y'r apple  Then Put to melt sugar in y'r fry pan"
+- "Wash y&#39;r apple  Then Put to melt sugar in y&#39;r fry pan"
 - "Add water Then add a red colour"
 - "Enter your apple in piques"
-- "Finally cover y'r apple with a syrup or with a candy melted....😉"
+- "Finally cover y&#39;r apple with a syrup or with a candy melted....😉"
 categories:
 - Recipe
 tags:
@@ -53,8 +53,8 @@ To begin with this particular recipe, we have to prepare a few components. You c
 ##### The ingredients needed to make Candy Apple🍎:
 
 1. Get 100 g sugar
-1. Make ready 1 spoon red colour ''special food''
-1. Take 2 apple's
+1. Make ready 1 spoon red colour &#39;&#39;special food&#39;&#39;
+1. Take 2 apple&#39;s
 1. Get 2 spoon water
 1. Prepare 2 spoon syrup pomegranate
 
@@ -65,10 +65,10 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 ##### Steps to make Candy Apple🍎:
 
-1. Wash y'r apple  - Then Put to melt sugar in y'r fry pan
+1. Wash y&#39;r apple  - Then Put to melt sugar in y&#39;r fry pan
 1. Add water - Then add a red colour
 1. Enter your apple in piques
-1. Finally cover y'r apple with a syrup or with a candy melted....😉
+1. Finally cover y&#39;r apple with a syrup or with a candy melted....😉
 
 
 

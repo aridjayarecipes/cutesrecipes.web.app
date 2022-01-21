@@ -40,7 +40,7 @@ recipeinstructions:
 - "Then chop them all and drain them in a fine filter. after that, add them to the rice"
 - "Add lemon juice and pomegranate molasses, spices and olive oil to the filling then mix them very well"
 - "On a solid board spread the grape leaves and add 1tsp filling on top and wrap starting from sides then cylindrical shape (like sandwish)"
-- "Squeeze well while wrapping so that the rice won't come out during cooking"
+- "Squeeze well while wrapping so that the rice won&#39;t come out during cooking"
 - "Repeat the procedure on all grape leaves"
 - "Wash the potatoes and tomatoes and cut them in circles place them in bottom of cooking pot"
 - "Add the wrapped grape leaves press tightly next to each other in a circular way"
@@ -51,7 +51,7 @@ recipeinstructions:
 - "Reduce the heat and leave it to be cooked"
 - "Remove the pot wait until it cools down"
 - "Flip over in a suitable serving dish"
-- "Note: incase od using the compressed grape leaves add lemon juice and pomegranate molasses on the last minutes before it's totally cooked"
+- "Note: incase od using the compressed grape leaves add lemon juice and pomegranate molasses on the last minutes before it&#39;s totally cooked"
 - "Made by:Tala Odaymat"
 categories:
 - Recipe
@@ -123,7 +123,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Then chop them all and drain them in a fine filter. after that, add them to the rice
 1. Add lemon juice and pomegranate molasses, spices and olive oil to the filling then mix them very well
 1. On a solid board spread the grape leaves and add 1tsp filling on top and wrap starting from sides then cylindrical shape (like sandwish)
-1. Squeeze well while wrapping so that the rice won't come out during cooking
+1. Squeeze well while wrapping so that the rice won&#39;t come out during cooking
 1. Repeat the procedure on all grape leaves
 1. Wash the potatoes and tomatoes and cut them in circles place them in bottom of cooking pot
 1. Add the wrapped grape leaves press tightly next to each other in a circular way
@@ -134,7 +134,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Reduce the heat and leave it to be cooked
 1. Remove the pot wait until it cools down
 1. Flip over in a suitable serving dish
-1. Note: incase od using the compressed grape leaves add lemon juice and pomegranate molasses on the last minutes before it's totally cooked
+1. Note: incase od using the compressed grape leaves add lemon juice and pomegranate molasses on the last minutes before it&#39;s totally cooked
 1. Made by:Tala Odaymat
 
 

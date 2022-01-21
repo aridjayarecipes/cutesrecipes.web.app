@@ -54,8 +54,8 @@ To get started with this recipe, we must first prepare a few components. You can
 
 1. Get  Salmon
 1. Take  Shrimp peeled and deveined (raw or cooked)
-1. Prepare  McCormick's Lemon Butter Dill Sauce
-1. Take  Morton's All Purpose Seasoning
+1. Prepare  McCormick&#39;s Lemon Butter Dill Sauce
+1. Take  Morton&#39;s All Purpose Seasoning
 1. Prepare  Old Bay Seafood Seasoning
 
 

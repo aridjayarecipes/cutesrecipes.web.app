@@ -59,7 +59,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 1. Prepare 4-6 large garden fresh potatoes (purple, red) are my preference
 1. Get 1 sweet onion chopped
 1. Take 2 tbsp olive oil or lemon olive oil
-1. Take 2 pinch’s sea salt & black pepper
+1. Take 2 pinch’s sea salt &amp; black pepper
 1. Make ready 2 pinch’s of fresh chopped rosemary
 1. Make ready 3-5 leaves fresh chopped basil
 1. Get 1/2 cup pancetta or bacon cooked add in to heat.. (optional)

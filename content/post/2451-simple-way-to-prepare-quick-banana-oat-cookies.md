@@ -59,12 +59,12 @@ To begin with this particular recipe, we must prepare a few components. You can 
 ##### The ingredients needed to make Banana Oat Cookies:
 
 1. Get 1-1 1/2 Cups Oats
-1. Get 2 Banana's
+1. Get 2 Banana&#39;s
 1. Take 1/2 Tbsp Coconut OR Chocolate Chips
 1. Prepare 1 Tbsp Chai/Hemp/Nuts
 
 
-I've made these cookies dairy-free, but I haven't made them without the egg or without oats. Chocolate Chip Coconut Oat Cookies Lisa Drayer. Banana oat cookies = The simplest + easiest cookies, ever! These easy and Healthy Banana Oat Cookies have no added sugar or flour! 
+I&#39;ve made these cookies dairy-free, but I haven&#39;t made them without the egg or without oats. Chocolate Chip Coconut Oat Cookies Lisa Drayer. Banana oat cookies = The simplest + easiest cookies, ever! These easy and Healthy Banana Oat Cookies have no added sugar or flour! 
 
 <!--inarticleads2-->
 

@@ -21,7 +21,7 @@ recipeinstructions:
 - "Boil water in a pot. Cut the brussels sprouts in half lengthwise. Drain the canned tuna well. Once the water boils, add salt and cook pasta."
 - "Add ◎ into a frying pan, and evenly distribute the yuzu pepper in oil. Once heated, place the cut parts of the brussels sprouts cut-side down and cook."
 - "Once they start to brown, flip them over, and combine well with the tuna."
-- "Add about 30 ml of pasta water and cooked pasta into the frying pan and mix. Adjust taste with salt and black pepper. It's done."
+- "Add about 30 ml of pasta water and cooked pasta into the frying pan and mix. Adjust taste with salt and black pepper. It&#39;s done."
 - "The pictures in the steps were taken when made for 3 servings."
 categories:
 - Recipe
@@ -74,7 +74,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. Boil water in a pot. Cut the brussels sprouts in half lengthwise. Drain the canned tuna well. Once the water boils, add salt and cook pasta.
 1. Add ◎ into a frying pan, and evenly distribute the yuzu pepper in oil. Once heated, place the cut parts of the brussels sprouts cut-side down and cook.
 1. Once they start to brown, flip them over, and combine well with the tuna.
-1. Add about 30 ml of pasta water and cooked pasta into the frying pan and mix. Adjust taste with salt and black pepper. It's done.
+1. Add about 30 ml of pasta water and cooked pasta into the frying pan and mix. Adjust taste with salt and black pepper. It&#39;s done.
 1. The pictures in the steps were taken when made for 3 servings.
 
 

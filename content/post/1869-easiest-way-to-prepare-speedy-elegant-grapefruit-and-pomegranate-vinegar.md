@@ -14,7 +14,7 @@ recipeingredient:
 - "2 to 3 segments Grapefruit"
 - "150 ml Water"
 recipeinstructions:
-- "Mix all the ingredients together and it's done. Adjust the amount of red potato vinegar and grapefruit to taste."
+- "Mix all the ingredients together and it&#39;s done. Adjust the amount of red potato vinegar and grapefruit to taste."
 - "Refer to this ultimate method for peeling grapefruit.  https://cookpad.com/us/recipes/145829-the-absolutely-best-way-to-peel-grapefruit"
 categories:
 - Recipe
@@ -60,7 +60,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 
 ##### Instructions to make Elegant Grapefruit and Pomegranate Vinegar:
 
-1. Mix all the ingredients together and it's done. Adjust the amount of red potato vinegar and grapefruit to taste.
+1. Mix all the ingredients together and it&#39;s done. Adjust the amount of red potato vinegar and grapefruit to taste.
 1. Refer to this ultimate method for peeling grapefruit. -  - https://cookpad.com/us/recipes/145829-the-absolutely-best-way-to-peel-grapefruit
 
 

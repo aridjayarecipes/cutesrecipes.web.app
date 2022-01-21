@@ -55,7 +55,7 @@ Hello everybody, I hope you are having an incredible day today. Today, I'm gonna
 
 Salmon burgers 🥬🥑🐟🧀🍅 is one of the most well liked of current trending foods on earth. It's simple, it is fast, it tastes delicious. It is appreciated by millions every day. They're fine and they look fantastic. Salmon burgers 🥬🥑🐟🧀🍅 is something that I've loved my entire life.
 
-Check for bones in the fish. If you're looking for the perfect Canadian recipe to celebrate Canada Day, this is is! Salmon is a staple food on the west coast, and I love smoking it on. Remove any bones from the salmon, dice it, and then finely chop it.
+Check for bones in the fish. If you&#39;re looking for the perfect Canadian recipe to celebrate Canada Day, this is is! Salmon is a staple food on the west coast, and I love smoking it on. Remove any bones from the salmon, dice it, and then finely chop it.
 
 
 To get started with this particular recipe, we must prepare a few components. You can have salmon burgers 🥬🥑🐟🧀🍅 using 16 ingredients and 5 steps. Here is how you can achieve that.
@@ -82,7 +82,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Prepare  avocado+lemon juice
 
 
-These burgers are so impressive and are loaded with. It's never just about salmon burgers. The same is true for or your business. Today we must innovate and inspire. 
+These burgers are so impressive and are loaded with. It&#39;s never just about salmon burgers. The same is true for or your business. Today we must innovate and inspire. 
 
 <!--inarticleads2-->
 

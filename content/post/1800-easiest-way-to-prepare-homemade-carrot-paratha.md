@@ -49,7 +49,7 @@ recipecategory: Dinner
 
 Hello everybody, I hope you are having an incredible day today. Today, we're going to prepare a special dish, carrot paratha. One of my favorites. This time, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
 
-Carrot Paratha - one of the healthy delicious paratha recipe for breakfast & dinners! See recipes for Cabbage Carrot Paratha too. A healthy and delicious Paneer Carrot Stuffed Paratha is a recipe that you cannot resist. Makes for a satisfying breakfast, lunch or dinner.
+Carrot Paratha - one of the healthy delicious paratha recipe for breakfast &amp; dinners! See recipes for Cabbage Carrot Paratha too. A healthy and delicious Paneer Carrot Stuffed Paratha is a recipe that you cannot resist. Makes for a satisfying breakfast, lunch or dinner.
 
 Carrot paratha is one of the most well liked of recent trending foods in the world. It's enjoyed by millions every day. It's easy, it's quick, it tastes delicious. They're nice and they look wonderful. Carrot paratha is something that I have loved my entire life.
 

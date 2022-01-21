@@ -93,6 +93,6 @@ Eggplant Salad or Ensaladang Talong is a simple Filipino Salad composed of grill
 1. Mix all ingredients of the dressing add on top of the vegetables when you ready to eat
 
 
-Eggplant salad It is a delicious snack. Eggplant Many different salads can be made with. Below "how about the eggplant salad?" answering the question, delicious than each other "Eggplant Salad. The traditional way of dressing the eggplant salad, the way most Romanians always did it, was with sunflower oil, diced onions, salt, and lemon juice or vinegar. Vinegar was used in the past. 
+Eggplant salad It is a delicious snack. Eggplant Many different salads can be made with. Below &#34;how about the eggplant salad?&#34; answering the question, delicious than each other &#34;Eggplant Salad. The traditional way of dressing the eggplant salad, the way most Romanians always did it, was with sunflower oil, diced onions, salt, and lemon juice or vinegar. Vinegar was used in the past. 
 
 So that is going to wrap it up with this exceptional food eggplant salad recipe. Thank you very much for your time. I'm sure you will make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

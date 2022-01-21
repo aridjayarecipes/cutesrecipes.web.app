@@ -41,7 +41,7 @@ recipecategory: Dessert
 
 Hello everybody, hope you're having an amazing day today. Today, I will show you a way to prepare a special dish, pumpkin ka healthy soup. One of my favorites food recipes. This time, I will make it a bit tasty. This is gonna smell and look delicious.
 
-See below for the best pumpkin to use and recipe notes for canned pureed pumpkin option Pumpkin carrot soup is a healthy & tasty recipe. Pumpkin & carrot is very rich in vitamin A. Soups like healthy broccoli cheese soup, sun dried tomato soup and healthy wild rice chicken soup have made it into our family's recipe binder. And soups taste delicious, I promise!
+See below for the best pumpkin to use and recipe notes for canned pureed pumpkin option Pumpkin carrot soup is a healthy &amp; tasty recipe. Pumpkin &amp; carrot is very rich in vitamin A. Soups like healthy broccoli cheese soup, sun dried tomato soup and healthy wild rice chicken soup have made it into our family&#39;s recipe binder. And soups taste delicious, I promise!
 
 Pumpkin ka healthy Soup is one of the most well liked of recent trending foods in the world. It's appreciated by millions every day. It's simple, it's quick, it tastes yummy. Pumpkin ka healthy Soup is something which I've loved my whole life. They're fine and they look wonderful.
 
@@ -70,6 +70,6 @@ Pumpkin season is in full swing, and this pumpkin sage soup is the perfect first
 1. Corns dal ke oiye.
 
 
-This soup can be made ahead and reheated when ready to serve. This rich creamy and warm soup can be prepared several days ahead and stored in a refrigerator in an airtight container. Vegetable pumpkin stir fry is vegan, simple, healthy as it has all the vegetables and it's a comforting recipe because it takes only thirty minutes for. Cream of Pumpkin soup. pumpkin, peeled and chopped into large pieces•water (for boil;ing pumpkins)•salt•onion, finely chopped•garlic, finely chopped•veg oil•small carrots, roughly chopped•rosemarty leaves. Quick and easy spiced pumpkin soup made with pumpkin purée, onions, fresh ginger, chicken stock, cream, and a mixture of curry, cumin, and coriander. 
+This soup can be made ahead and reheated when ready to serve. This rich creamy and warm soup can be prepared several days ahead and stored in a refrigerator in an airtight container. Vegetable pumpkin stir fry is vegan, simple, healthy as it has all the vegetables and it&#39;s a comforting recipe because it takes only thirty minutes for. Cream of Pumpkin soup. pumpkin, peeled and chopped into large pieces•water (for boil;ing pumpkins)•salt•onion, finely chopped•garlic, finely chopped•veg oil•small carrots, roughly chopped•rosemarty leaves. Quick and easy spiced pumpkin soup made with pumpkin purée, onions, fresh ginger, chicken stock, cream, and a mixture of curry, cumin, and coriander. 
 
 So that is going to wrap this up for this exceptional food pumpkin ka healthy soup recipe. Thank you very much for reading. I am sure that you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

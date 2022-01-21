@@ -56,7 +56,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 1. Make ready 6 Tbsp water
 1. Make ready 1/4 cup sugar
-1. Make ready 1 Tbsp fresh ginger, peeled & cut into chunks
+1. Make ready 1 Tbsp fresh ginger, peeled &amp; cut into chunks
 1. Get 1 1/2 cups blueberries
 1. Take  Zest of 1/2 lemon
 

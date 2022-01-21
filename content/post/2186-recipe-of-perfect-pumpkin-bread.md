@@ -20,7 +20,7 @@ recipeingredient:
 - "1 cup canola oil or veggetable oil"
 - " Optional cinnamon powderginger powdernutmeg powder"
 recipeinstructions:
-- "Preheat oven to 325°f. Lightly coat a 9x5" loaf pan with nonstick spray. Line bottom of pan with parchment, leaving a generous overhang on both long sides."
+- "Preheat oven to 325°f. Lightly coat a 9x5&#34; loaf pan with nonstick spray. Line bottom of pan with parchment, leaving a generous overhang on both long sides."
 - "Whisk flour, cinnamon, kosher salt, baking powder, baking soda, nutmeg, and in a medium bowl."
 - "Whisk eggs, pumpkin purée, ginger, and 1½ cups sugar in a large bowl. Stream in oil, whisking constantly until mixture is homogeneous. Gently fold half of dry ingredients into egg mixture until no dry spots remain. Repeat with remaining dry ingredients, stirring to combine but being careful not to overmix."
 - "Transfer batter to prepared pan; smooth top with a spatula. Scatter pumpkin seeds over batter if you like i dont have pumpkin seeds so.., pressing lightly to adhere. Sprinkle seeds with remaining 1 Tbsp. sugar. Bake bread, rotating pan once halfway through, until a tester inserted into the center comes out clean, 80–90 minutes."
@@ -69,13 +69,13 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Prepare  Optional cinnamon powder,ginger powder,nutmeg powder
 
 
-Homemade pumpkin bread is a favorite fall recipe packed with cinnamon spice, chocolate chips, and tons of pumpkin flavor. The days of bland pumpkin bread are behind us! Healthy Pumpkin BreadToday I'm going to show you how to make pumpkin bread from scratch. It's a healthier twist on traditional pumpkin bread. 
+Homemade pumpkin bread is a favorite fall recipe packed with cinnamon spice, chocolate chips, and tons of pumpkin flavor. The days of bland pumpkin bread are behind us! Healthy Pumpkin BreadToday I&#39;m going to show you how to make pumpkin bread from scratch. It&#39;s a healthier twist on traditional pumpkin bread. 
 
 <!--inarticleads2-->
 
 ##### Steps to make Pumpkin bread:
 
-1. Preheat oven to 325°f. Lightly coat a 9x5" loaf pan with nonstick spray. Line bottom of pan with parchment, leaving a generous overhang on both long sides.
+1. Preheat oven to 325°f. Lightly coat a 9x5&#34; loaf pan with nonstick spray. Line bottom of pan with parchment, leaving a generous overhang on both long sides.
 1. Whisk flour, cinnamon, kosher salt, baking powder, baking soda, nutmeg, and in a medium bowl.
 1. Whisk eggs, pumpkin purée, ginger, and 1½ cups sugar in a large bowl. Stream in oil, whisking constantly until mixture is homogeneous. Gently fold half of dry ingredients into egg mixture until no dry spots remain. Repeat with remaining dry ingredients, stirring to combine but being careful not to overmix.
 1. Transfer batter to prepared pan; smooth top with a spatula. Scatter pumpkin seeds over batter if you like i dont have pumpkin seeds so.., pressing lightly to adhere. Sprinkle seeds with remaining 1 Tbsp. sugar. Bake bread, rotating pan once halfway through, until a tester inserted into the center comes out clean, 80–90 minutes.
@@ -83,6 +83,6 @@ Homemade pumpkin bread is a favorite fall recipe packed with cinnamon spice, cho
 1. Bread can be baked 4 days ahead. Cover tightly with plastic wrap and keep at room temperature.
 
 
-Healthy Pumpkin BreadToday I'm going to show you how to make pumpkin bread from scratch. It's a healthier twist on traditional pumpkin bread. Pumpkin bread that's turned into cornbread, monkey bread, and bread pudding? Try our favorite easy, updated pumpkin bread recipes all autumn long, and then try out some of the best. Unfortunately, since most are high in added sugars, the Pumpkin season comes only once a year, so we want to eat as much pumpkin bread as we can, as. 
+Healthy Pumpkin BreadToday I&#39;m going to show you how to make pumpkin bread from scratch. It&#39;s a healthier twist on traditional pumpkin bread. Pumpkin bread that&#39;s turned into cornbread, monkey bread, and bread pudding? Try our favorite easy, updated pumpkin bread recipes all autumn long, and then try out some of the best. Unfortunately, since most are high in added sugars, the Pumpkin season comes only once a year, so we want to eat as much pumpkin bread as we can, as. 
 
 So that's going to wrap it up with this exceptional food pumpkin bread recipe. Thanks so much for your time. I am confident you will make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

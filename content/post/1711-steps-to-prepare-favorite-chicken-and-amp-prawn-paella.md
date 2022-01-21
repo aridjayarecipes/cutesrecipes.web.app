@@ -1,6 +1,6 @@
 ---
-description: "Steps to Prepare Favorite CHICKEN &amp; PRAWN PAELLA"
-title: "Steps to Prepare Favorite CHICKEN &amp; PRAWN PAELLA"
+description: "Steps to Prepare Favorite CHICKEN &amp;amp; PRAWN PAELLA"
+title: "Steps to Prepare Favorite CHICKEN &amp;amp; PRAWN PAELLA"
 slug: 1711-steps-to-prepare-favorite-chicken-and-amp-prawn-paella
 date: 2021-11-01T18:22:13.501Z
 image: //assets-global.cpcdn.com/assets/blank-4e0bea6785e03f5e602ec562f230caae08da540cada707380b4fe1bbebba43da.png
@@ -37,7 +37,7 @@ recipeinstructions:
 - "•	Heat a Spanish paella pan with a splash of olive oil."
 - "•	Add the onioh, garlic and chicken, cook out gently for a couple of minutes unti the onion is soft and the chicken is sealed, season with salt and pepper"
 - "•	Add the bacon and chorizo, continue to try for 2-3 miss"
-- "•	Add rice and stir so that rice is coated in the oil, cook for a few seconds then to add the rest of the ingredients; saffron (and saffron soaking water), papri chillies, capsicum, fresh tomatoes, tomato paste & tinned tomatoes"
+- "•	Add rice and stir so that rice is coated in the oil, cook for a few seconds then to add the rest of the ingredients; saffron (and saffron soaking water), papri chillies, capsicum, fresh tomatoes, tomato paste &amp; tinned tomatoes"
 - "•	Now stir to combine"
 - "•	Add all the boiling stock to the pan, season"
 - "•	Reduce heat and leave paella to cook slowly on a low simmer occasion shaking the pan and giving it the odd stir"
@@ -61,20 +61,20 @@ recipecategory: Dinner
 ---
 
 
-![CHICKEN & PRAWN PAELLA](//assets-global.cpcdn.com/assets/blank-4e0bea6785e03f5e602ec562f230caae08da540cada707380b4fe1bbebba43da.png)
+![CHICKEN &amp; PRAWN PAELLA](//assets-global.cpcdn.com/assets/blank-4e0bea6785e03f5e602ec562f230caae08da540cada707380b4fe1bbebba43da.png)
 
-Hey everyone, hope you're having an incredible day today. Today, we're going to prepare a distinctive dish, chicken & prawn paella. It is one of my favorites. For mine, I'm gonna make it a little bit tasty. This will be really delicious.
+Hey everyone, hope you're having an incredible day today. Today, we're going to prepare a distinctive dish, chicken &amp; prawn paella. It is one of my favorites. For mine, I'm gonna make it a little bit tasty. This will be really delicious.
 
-The chicken (Gallus gallus domesticus), a subspecies of the red junglefowl, is a type of domesticated fowl, originally from Asia. Rooster or cock is a term for an adult male bird. Перевод слова chicken, американское и британское произношение, транскрипция, словосочетания, примеры использования. (Received Pronunciation, General American) enPR: chĭk'ĭn, IPA(key): /ˈtʃɪkɪn/. From Middle English chiken (also as chike > English chick), from Old English ċicen, ċycen ("chicken"), of uncertain origin. A common domesticated fowl widely raised for meat and eggs and.
+The chicken (Gallus gallus domesticus), a subspecies of the red junglefowl, is a type of domesticated fowl, originally from Asia. Rooster or cock is a term for an adult male bird. Перевод слова chicken, американское и британское произношение, транскрипция, словосочетания, примеры использования. (Received Pronunciation, General American) enPR: chĭk&#39;ĭn, IPA(key): /ˈtʃɪkɪn/. From Middle English chiken (also as chike &gt; English chick), from Old English ċicen, ċycen (&#34;chicken&#34;), of uncertain origin. A common domesticated fowl widely raised for meat and eggs and.
 
-CHICKEN & PRAWN PAELLA is one of the most well liked of current trending meals on earth. It is appreciated by millions daily. It is easy, it is fast, it tastes yummy. They're nice and they look fantastic. CHICKEN & PRAWN PAELLA is something which I have loved my entire life.
+CHICKEN &amp; PRAWN PAELLA is one of the most well liked of current trending meals on earth. It is appreciated by millions daily. It is easy, it is fast, it tastes yummy. They're nice and they look fantastic. CHICKEN &amp; PRAWN PAELLA is something which I have loved my entire life.
 
 
-To get started with this recipe, we must first prepare a few components. You can cook chicken & prawn paella using 23 ingredients and 9 steps. Here is how you can achieve that.
+To get started with this recipe, we must first prepare a few components. You can cook chicken &amp; prawn paella using 23 ingredients and 9 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make CHICKEN & PRAWN PAELLA:
+##### The ingredients needed to make CHICKEN &amp; PRAWN PAELLA:
 
 1. Get 1 Extra virgin olive oil
 1. Get 2 Brown onions
@@ -91,11 +91,11 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Make ready 1 yellow capsicum, deseeded and roughly chopped
 1. Take 1 red capsicum, deseeded and roughly chopped
 1. Get 1 green capsicum. deseeded and roughly chopped
-1. Make ready 2 tsp "La Chinata" smoked paprika
+1. Make ready 2 tsp &#34;La Chinata&#34; smoked paprika
 1. Make ready 1 bunch fresh parsley, roughly chopped
 1. Take 2 tsp organic tomato paste
 1. Get 1 tin of chopped tomatoes, 400g
-1. Take 375 grams "Calasparra" paella rice
+1. Take 375 grams &#34;Calasparra&#34; paella rice
 1. Get 1 litre fresh chicken stock (hot)
 1. Make ready 2 lemon cut into wedges
 1. Make ready 1 jar of Aioli
@@ -105,12 +105,12 @@ Chicken definition, a domestic fowl, Gallus domesticus, descended from various j
 
 <!--inarticleads2-->
 
-##### Steps to make CHICKEN & PRAWN PAELLA:
+##### Steps to make CHICKEN &amp; PRAWN PAELLA:
 
 1. •	Heat a Spanish paella pan with a splash of olive oil.
 1. •	Add the onioh, garlic and chicken, cook out gently for a couple of minutes unti the onion is soft and the chicken is sealed, season with salt and pepper
 1. •	Add the bacon and chorizo, continue to try for 2-3 miss
-1. •	Add rice and stir so that rice is coated in the oil, cook for a few seconds then to add the rest of the ingredients; saffron (and saffron soaking water), papri chillies, capsicum, fresh tomatoes, tomato paste & tinned tomatoes
+1. •	Add rice and stir so that rice is coated in the oil, cook for a few seconds then to add the rest of the ingredients; saffron (and saffron soaking water), papri chillies, capsicum, fresh tomatoes, tomato paste &amp; tinned tomatoes
 1. •	Now stir to combine
 1. •	Add all the boiling stock to the pan, season
 1. •	Reduce heat and leave paella to cook slowly on a low simmer occasion shaking the pan and giving it the odd stir
@@ -120,4 +120,4 @@ Chicken definition, a domestic fowl, Gallus domesticus, descended from various j
 
 When a cockerel apparently flies into a chicken farm. 
 
-So that's going to wrap it up with this exceptional food chicken & prawn paella recipe. Thanks so much for your time. I'm sure that you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
+So that's going to wrap it up with this exceptional food chicken &amp; prawn paella recipe. Thanks so much for your time. I'm sure that you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

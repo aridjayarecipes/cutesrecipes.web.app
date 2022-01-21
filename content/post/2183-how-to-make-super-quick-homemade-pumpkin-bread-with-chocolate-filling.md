@@ -34,7 +34,7 @@ recipeinstructions:
 - "Take the dough out and put it on the counter dust a little flour on it and knead with your clean hands. Form into a ball shape and put it in a container and seal with a plastic layer and cover with kitchen towel. Let the dough proof for 1 hour."
 - "After 1 hour of proofing, punch the dough let the air out. On the counter,dust a little flour and knead the dough before you equally cut it into 8 pieces"
 - "Shape the individual dough into a ball size and put the chocolate filling in and cover by folding the dough and re-shape it into ball again using your palm."
-- "Put the ball into an aluminium baking pan and let it proof for another 30 minutes. 10 minutes into the last proofing, preheat your oven to 392'F or 200'c both top and bottom heat"
+- "Put the ball into an aluminium baking pan and let it proof for another 30 minutes. 10 minutes into the last proofing, preheat your oven to 392&#39;F or 200&#39;c both top and bottom heat"
 - "When your dough is done proofing, brush the surface with evaporated milk and sprinkle with sesame seeds. Put it in the oven and bake for 15 minutes using bottom heat and then some 5 minutes using top heat."
 - "Final step when your bread is done, brush it with margarine while its hot. Let it cool before serving."
 categories:
@@ -89,7 +89,7 @@ To begin with this recipe, we have to prepare a few components. You can cook pum
 1. Take  Sesame seeds
 
 
-Pumpkin Bread with Chocolate Chips & Pecans. This easy, one-bowl pumpkin bread is crazy moist, loaded with spices, chocolate chips, and pecans, and freezes beautifully. It is a perfect bread to put out for company, serve on Thanksgiving, or bake up in small loaf pans for holiday gifts. A thick slice of moist pumpkin bread Starbucks®-style is the perfect companion for your morning cup of joe! 
+Pumpkin Bread with Chocolate Chips &amp; Pecans. This easy, one-bowl pumpkin bread is crazy moist, loaded with spices, chocolate chips, and pecans, and freezes beautifully. It is a perfect bread to put out for company, serve on Thanksgiving, or bake up in small loaf pans for holiday gifts. A thick slice of moist pumpkin bread Starbucks®-style is the perfect companion for your morning cup of joe! 
 
 <!--inarticleads2-->
 
@@ -101,11 +101,11 @@ Pumpkin Bread with Chocolate Chips & Pecans. This easy, one-bowl pumpkin bread i
 1. Take the dough out and put it on the counter dust a little flour on it and knead with your clean hands. Form into a ball shape and put it in a container and seal with a plastic layer and cover with kitchen towel. Let the dough proof for 1 hour.
 1. After 1 hour of proofing, punch the dough let the air out. On the counter,dust a little flour and knead the dough before you equally cut it into 8 pieces
 1. Shape the individual dough into a ball size and put the chocolate filling in and cover by folding the dough and re-shape it into ball again using your palm.
-1. Put the ball into an aluminium baking pan and let it proof for another 30 minutes. 10 minutes into the last proofing, preheat your oven to 392'F or 200'c both top and bottom heat
+1. Put the ball into an aluminium baking pan and let it proof for another 30 minutes. 10 minutes into the last proofing, preheat your oven to 392&#39;F or 200&#39;c both top and bottom heat
 1. When your dough is done proofing, brush the surface with evaporated milk and sprinkle with sesame seeds. Put it in the oven and bake for 15 minutes using bottom heat and then some 5 minutes using top heat.
 1. Final step when your bread is done, brush it with margarine while its hot. Let it cool before serving.
 
 
-It is a perfect bread to put out for company, serve on Thanksgiving, or bake up in small loaf pans for holiday gifts. A thick slice of moist pumpkin bread Starbucks®-style is the perfect companion for your morning cup of joe! Many other pumpkin bread recipes produce sad, squat loaves - but not this clone. You'll be glad you made this recipe for pumpkin muffins with a cream cheese filling and a streusel topping. This ultra moist healthy pumpkin bread with chocolate chips is a top fan favorite. 
+It is a perfect bread to put out for company, serve on Thanksgiving, or bake up in small loaf pans for holiday gifts. A thick slice of moist pumpkin bread Starbucks®-style is the perfect companion for your morning cup of joe! Many other pumpkin bread recipes produce sad, squat loaves - but not this clone. You&#39;ll be glad you made this recipe for pumpkin muffins with a cream cheese filling and a streusel topping. This ultra moist healthy pumpkin bread with chocolate chips is a top fan favorite. 
 
 So that's going to wrap it up for this special food pumpkin bread with chocolate filling recipe. Thank you very much for reading. I am confident you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -28,7 +28,7 @@ recipeinstructions:
 - "Once the oats have soaked for at least 1 hour, preheat the oven to 350°F. Line a muffin pan with liners or spray the pan with non-stick cooking spray and set aside."
 - "In a small bowl, whisk together the flours, baking powder, baking soda, salt and cinnamon. Set aside."
 - "Stir in the beaten egg, brown sugar and the melted butter to the milk and oats. Then add the dry ingredients to the wet and stir until just combined."
-- "Fold in the chopped pecans (or alternative nut) and the blueberries (or alternative fruit). If using frozen blueberries, don't thaw."
+- "Fold in the chopped pecans (or alternative nut) and the blueberries (or alternative fruit). If using frozen blueberries, don&#39;t thaw."
 - "Pour the batter into the muffin tins and place the pan in the oven. Bake for 15-18 minutes or until a toothpick inserted into the center of the muffins comes out clean. Careful not to overbake, as they will be dry if you do."
 - "Transfer the muffins to a wire rack to cool. Store muffins covered at room temperature for 3-4 days."
 categories:
@@ -89,7 +89,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Once the oats have soaked for at least 1 hour, preheat the oven to 350°F. Line a muffin pan with liners or spray the pan with non-stick cooking spray and set aside.
 1. In a small bowl, whisk together the flours, baking powder, baking soda, salt and cinnamon. Set aside.
 1. Stir in the beaten egg, brown sugar and the melted butter to the milk and oats. Then add the dry ingredients to the wet and stir until just combined.
-1. Fold in the chopped pecans (or alternative nut) and the blueberries (or alternative fruit). If using frozen blueberries, don't thaw.
+1. Fold in the chopped pecans (or alternative nut) and the blueberries (or alternative fruit). If using frozen blueberries, don&#39;t thaw.
 1. Pour the batter into the muffin tins and place the pan in the oven. Bake for 15-18 minutes or until a toothpick inserted into the center of the muffins comes out clean. Careful not to overbake, as they will be dry if you do.
 1. Transfer the muffins to a wire rack to cool. Store muffins covered at room temperature for 3-4 days.
 

@@ -49,7 +49,7 @@ recipecategory: Lunch
 
 Hey everyone, it is John, welcome to our recipe page. Today, we're going to make a distinctive dish, cabbage curry. One of my favorites. For mine, I will make it a little bit unique. This is gonna smell and look delicious.
 
-Cabbage curry recipe - A simple cabbage masala curry made with cabbage, peas & spices. Cabbage is used to make a variety of Indian recipes like paratha, curry, stir fry, raita, kootu, chutney. there are several ways the cabbage curry can be prepared but this recipe post belongs to north indian style. while the recipe for cabbage sabzi or cabbage curry is extremely simple, yet i would like to add. How to make a classic curry cabbage recipe from Trinidad and Tobago. Enjoyed throughout the Caribbean, this vegetarian dish using cabbage.
+Cabbage curry recipe - A simple cabbage masala curry made with cabbage, peas &amp; spices. Cabbage is used to make a variety of Indian recipes like paratha, curry, stir fry, raita, kootu, chutney. there are several ways the cabbage curry can be prepared but this recipe post belongs to north indian style. while the recipe for cabbage sabzi or cabbage curry is extremely simple, yet i would like to add. How to make a classic curry cabbage recipe from Trinidad and Tobago. Enjoyed throughout the Caribbean, this vegetarian dish using cabbage.
 
 Cabbage curry is one of the most favored of recent trending foods on earth. It's simple, it's quick, it tastes yummy. It's appreciated by millions every day. Cabbage curry is something that I have loved my whole life. They're fine and they look fantastic.
 
@@ -74,7 +74,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 1. Prepare 1-2 Red chillies dry
 
 
-Curried cabbage, seasoned with the pungent flavors of turmeric, mustard, and curry powder, is a View image. Curried Cabbage. this link is to an external site that may or may not meet accessibility. This Cabbage Curry is a deliciously rich and flavorful vegan dish. You'll love the sweet and savory blend of creamy coconut milk, tender cabbage, and fresh herbs. 
+Curried cabbage, seasoned with the pungent flavors of turmeric, mustard, and curry powder, is a View image. Curried Cabbage. this link is to an external site that may or may not meet accessibility. This Cabbage Curry is a deliciously rich and flavorful vegan dish. You&#39;ll love the sweet and savory blend of creamy coconut milk, tender cabbage, and fresh herbs. 
 
 <!--inarticleads2-->
 
@@ -87,6 +87,6 @@ Curried cabbage, seasoned with the pungent flavors of turmeric, mustard, and cur
 1. Our instant and amazing cabbage curry is ready in a jiffy. Serve with warm phulkas
 
 
-This Cabbage Curry is a deliciously rich and flavorful vegan dish. You'll love the sweet and savory blend of creamy coconut milk, tender cabbage, and fresh herbs. Indian cabbage curry recipe is a vegan and gluten-free. Made with onion and tomato in Andhra This Indian cabbage curry is spicy and still have all the textures of cabbage. And this is the only recipe. 
+This Cabbage Curry is a deliciously rich and flavorful vegan dish. You&#39;ll love the sweet and savory blend of creamy coconut milk, tender cabbage, and fresh herbs. Indian cabbage curry recipe is a vegan and gluten-free. Made with onion and tomato in Andhra This Indian cabbage curry is spicy and still have all the textures of cabbage. And this is the only recipe. 
 
 So that is going to wrap this up for this exceptional food cabbage curry recipe. Thank you very much for reading. I am confident that you can make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

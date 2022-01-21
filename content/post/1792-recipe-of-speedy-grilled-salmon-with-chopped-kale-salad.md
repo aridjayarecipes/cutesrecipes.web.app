@@ -22,7 +22,7 @@ recipeingredient:
 - "to taste Salt and pepper"
 recipeinstructions:
 - "Spray large skillet with cooking spray. Heat over high heat."
-- "Season salon with S&P and paprika"
+- "Season salon with S&amp;P and paprika"
 - "Add the salmon to the pan and allow to cook 4 minutes and flip for another for 2 minutes or until cooked through."
 - "While salmon cooks toss all salad ingredients together. Drizzle poppy seed dressing and toss."
 - "Enjoy!"
@@ -78,7 +78,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have grill
 ##### Steps to make Grilled Salmon with chopped kale salad:
 
 1. Spray large skillet with cooking spray. Heat over high heat.
-1. Season salon with S&P and paprika
+1. Season salon with S&amp;P and paprika
 1. Add the salmon to the pan and allow to cook 4 minutes and flip for another for 2 minutes or until cooked through.
 1. While salmon cooks toss all salad ingredients together. Drizzle poppy seed dressing and toss.
 1. Enjoy!

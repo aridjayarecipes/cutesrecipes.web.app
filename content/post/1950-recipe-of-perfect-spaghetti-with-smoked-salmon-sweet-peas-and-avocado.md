@@ -20,7 +20,7 @@ recipeingredient:
 recipeinstructions:
 - "Drop the spaghetti into a pot of boiling salted water. Move on to making the sauce."
 - "Put a medium pan on medium-high heat. Add a good splash of extra virgin olive oil and throw in the onions and garlic. Sweat for 2 minutes until the onions are just softened."
-- "Add the salmon and give the pan a stir. Be gentle, you don't want to break up the beautiful fish. After another 2 minutes, add the peas. After 1 minute more, stir in the cream. Add salt and pepper to taste, then turn the heat down to low. Return to the pasta, the noodles should be close to done."
+- "Add the salmon and give the pan a stir. Be gentle, you don&#39;t want to break up the beautiful fish. After another 2 minutes, add the peas. After 1 minute more, stir in the cream. Add salt and pepper to taste, then turn the heat down to low. Return to the pasta, the noodles should be close to done."
 - "Once the noodles are cooked, add them to the pan of sauce. Be sure to drag a little pasta water with the spaghetti. Sprinkle on the cubes of avocado and toss everything gently."
 categories:
 - Recipe
@@ -72,7 +72,7 @@ Drain the spaghetti, retaining a very small amount of the pasta water. Stir thro
 
 1. Drop the spaghetti into a pot of boiling salted water. Move on to making the sauce.
 1. Put a medium pan on medium-high heat. Add a good splash of extra virgin olive oil and throw in the onions and garlic. Sweat for 2 minutes until the onions are just softened.
-1. Add the salmon and give the pan a stir. Be gentle, you don't want to break up the beautiful fish. After another 2 minutes, add the peas. After 1 minute more, stir in the cream. Add salt and pepper to taste, then turn the heat down to low. Return to the pasta, the noodles should be close to done.
+1. Add the salmon and give the pan a stir. Be gentle, you don&#39;t want to break up the beautiful fish. After another 2 minutes, add the peas. After 1 minute more, stir in the cream. Add salt and pepper to taste, then turn the heat down to low. Return to the pasta, the noodles should be close to done.
 1. Once the noodles are cooked, add them to the pan of sauce. Be sure to drag a little pasta water with the spaghetti. Sprinkle on the cubes of avocado and toss everything gently.
 
 

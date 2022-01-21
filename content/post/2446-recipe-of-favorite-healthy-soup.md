@@ -64,7 +64,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Get 1/2 tsp Mint leaves
 
 
-Recipes here include healthy beef stews, a restaurant copycat healthy turkey chili, and healthy butternut squash soup, but there's much more. Pick your favorite for dinner tonight. Can someone give me some more recipes for different types of soups? I've tried looking online but I can't seem to find the right one. 
+Recipes here include healthy beef stews, a restaurant copycat healthy turkey chili, and healthy butternut squash soup, but there&#39;s much more. Pick your favorite for dinner tonight. Can someone give me some more recipes for different types of soups? I&#39;ve tried looking online but I can&#39;t seem to find the right one. 
 
 <!--inarticleads2-->
 
@@ -75,6 +75,6 @@ Recipes here include healthy beef stews, a restaurant copycat healthy turkey chi
 1. Now turn off the gas and serve in to Bowl and garnishing for cream and mint leaves
 
 
-Can someone give me some more recipes for different types of soups? I've tried looking online but I can't seem to find the right one. It's a great soup that is cheap, healthy, and adaptable. Nutritious, soothing, flavourful soup recipes to suit everyone - from hearty meat-based soups to tasty broths and creamy vegetable soups Healthy Food Guide has it all. See more ideas about healthy recipes, recipes, healthy. 
+Can someone give me some more recipes for different types of soups? I&#39;ve tried looking online but I can&#39;t seem to find the right one. It&#39;s a great soup that is cheap, healthy, and adaptable. Nutritious, soothing, flavourful soup recipes to suit everyone - from hearty meat-based soups to tasty broths and creamy vegetable soups Healthy Food Guide has it all. See more ideas about healthy recipes, recipes, healthy. 
 
 So that is going to wrap this up for this exceptional food healthy soup recipe. Thank you very much for your time. I am confident that you can make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

@@ -51,7 +51,7 @@ Hey everyone, hope you're having an amazing day today. Today, we're going to pre
 
 Blueberry cheese cake :) is one of the most well liked of current trending meals in the world. It's simple, it's fast, it tastes yummy. It is enjoyed by millions every day. Blueberry cheese cake :) is something which I have loved my entire life. They are nice and they look wonderful.
 
-[ENG SUB] 달지않고 촉촉한 도시락케이크 만들기 By Sunday baking 미니 레터링케이크 레시피 korean popular lunch box cake. No-bake blueberry cheesecake recipe. easy to make, delicate and delicious cake that you must try! I had to give some away! Swirling blueberry puree into cheesecake batter isn't only beautiful, it's extremely delicious.
+[ENG SUB] 달지않고 촉촉한 도시락케이크 만들기 By Sunday baking 미니 레터링케이크 레시피 korean popular lunch box cake. No-bake blueberry cheesecake recipe. easy to make, delicate and delicious cake that you must try! I had to give some away! Swirling blueberry puree into cheesecake batter isn&#39;t only beautiful, it&#39;s extremely delicious.
 
 
 To get started with this particular recipe, we have to first prepare a few ingredients. You can cook blueberry cheese cake :) using 12 ingredients and 4 steps. Here is how you can achieve it.

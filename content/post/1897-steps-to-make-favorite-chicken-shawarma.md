@@ -45,7 +45,7 @@ recipecategory: Dinner
 
 Hey everyone, hope you're having an amazing day today. Today, I'm gonna show you how to prepare a special dish, chicken shawarma. It is one of my favorites food recipes. For mine, I'm gonna make it a little bit unique. This is gonna smell and look delicious.
 
-This Chicken Shawarma recipe is going to knock your socks off! Just a handful of every day spices makes an incredible Chicken Shawarma marinade that infuses the chicken with exotic Middle. Shawarma, one of the world's most popular street foods. Shawarma (/ʃəˈwɑːrmə/; Arabic: شاورما‎) is a Levantine Arab dish consisting of meat cut into thin slices, stacked in a cone-like shape, and roasted on a slowly-turning vertical rotisserie or spit.
+This Chicken Shawarma recipe is going to knock your socks off! Just a handful of every day spices makes an incredible Chicken Shawarma marinade that infuses the chicken with exotic Middle. Shawarma, one of the world&#39;s most popular street foods. Shawarma (/ʃəˈwɑːrmə/; Arabic: شاورما‎) is a Levantine Arab dish consisting of meat cut into thin slices, stacked in a cone-like shape, and roasted on a slowly-turning vertical rotisserie or spit.
 
 Chicken shawarma is one of the most popular of current trending foods on earth. It is appreciated by millions daily. It's simple, it is quick, it tastes delicious. Chicken shawarma is something which I have loved my entire life. They are nice and they look wonderful.
 
@@ -79,6 +79,6 @@ Featured in: Chicken Shawarma Deluxe, No Rotisserie Required. Shawarma is a Midd
 1. 
 
 
-This chicken version is flavored with a savory yogurt sauce. This quick and easy chicken recipe is one the whole family will. Chicken Shawarma is bursting with a delicious blend of spices, and it's golden Chicken Shawarma is all of my dinner dreams come true! This Middle Eastern-inspired chicken is bursting with a delicious. You might know shawarma by one of its other names—maybe doner kebab, or gyro? 
+This chicken version is flavored with a savory yogurt sauce. This quick and easy chicken recipe is one the whole family will. Chicken Shawarma is bursting with a delicious blend of spices, and it&#39;s golden Chicken Shawarma is all of my dinner dreams come true! This Middle Eastern-inspired chicken is bursting with a delicious. You might know shawarma by one of its other names—maybe doner kebab, or gyro? 
 
 So that's going to wrap it up with this special food chicken shawarma recipe. Thanks so much for your time. I am sure you will make this at home. There is gonna be interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

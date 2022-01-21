@@ -17,11 +17,11 @@ recipeinstructions:
 - "Soak the ume plums in plenty of water for 2 to 3 hours or overnight to remove their bitterness."
 - "Divide the ume plums into 500 g each, one batch with the greener unripe plums and the other with the ripe plums."
 - "Put plenty of water in two pans, add a lot of plums in each. Then, start cooking over medium heat. If the plums start to foam up in the water with bubbles on their surface, throw away the water and put in fresh water. Repeat 2-3 times. If you let the water come to a boil the plum skins will tear, so if the water becomes hot to the touch, drain it off and add fresh water."
-- "When the plums are tender, drain them and crush with a spatula to remove their pits. Puree the plums in a food processor. You can chop it up with a knife, or pass it through a sieve to make it smoother...whichever method you'd prefer. Please do this after letting the plums cool down."
+- "When the plums are tender, drain them and crush with a spatula to remove their pits. Puree the plums in a food processor. You can chop it up with a knife, or pass it through a sieve to make it smoother...whichever method you&#39;d prefer. Please do this after letting the plums cool down."
 - "If you process the plums in a food processor, it will become smooth as if you passed it through a sieve. The skins add a pretty color."
 - "Place the puree in an enameled pan and simmer. When it starts to bubble, add the sugar in 2 to 3 batches Scum will rise from the unripe plums, so skim it off as you simmer."
-- "As you keep simmering it over medium heat while removing the scum, in about 10 minutes the color will change to apricot. When the puree becomes translucent and thick, it's done. Pour into sterilized jars while still hot. The upper jar is the one with ripe plums, and the bottom jar is the one with unripe plums."
-- "Here's a hamburger steak made with this ume plum jam. The sweet-and-sour flavor really goes well with the hamburger and it's delicious."
+- "As you keep simmering it over medium heat while removing the scum, in about 10 minutes the color will change to apricot. When the puree becomes translucent and thick, it&#39;s done. Pour into sterilized jars while still hot. The upper jar is the one with ripe plums, and the bottom jar is the one with unripe plums."
+- "Here&#39;s a hamburger steak made with this ume plum jam. The sweet-and-sour flavor really goes well with the hamburger and it&#39;s delicious."
 categories:
 - Recipe
 tags:
@@ -69,11 +69,11 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Soak the ume plums in plenty of water for 2 to 3 hours or overnight to remove their bitterness.
 1. Divide the ume plums into 500 g each, one batch with the greener unripe plums and the other with the ripe plums.
 1. Put plenty of water in two pans, add a lot of plums in each. Then, start cooking over medium heat. If the plums start to foam up in the water with bubbles on their surface, throw away the water and put in fresh water. Repeat 2-3 times. If you let the water come to a boil the plum skins will tear, so if the water becomes hot to the touch, drain it off and add fresh water.
-1. When the plums are tender, drain them and crush with a spatula to remove their pits. Puree the plums in a food processor. You can chop it up with a knife, or pass it through a sieve to make it smoother...whichever method you'd prefer. Please do this after letting the plums cool down.
+1. When the plums are tender, drain them and crush with a spatula to remove their pits. Puree the plums in a food processor. You can chop it up with a knife, or pass it through a sieve to make it smoother...whichever method you&#39;d prefer. Please do this after letting the plums cool down.
 1. If you process the plums in a food processor, it will become smooth as if you passed it through a sieve. The skins add a pretty color.
 1. Place the puree in an enameled pan and simmer. When it starts to bubble, add the sugar in 2 to 3 batches Scum will rise from the unripe plums, so skim it off as you simmer.
-1. As you keep simmering it over medium heat while removing the scum, in about 10 minutes the color will change to apricot. When the puree becomes translucent and thick, it's done. Pour into sterilized jars while still hot. The upper jar is the one with ripe plums, and the bottom jar is the one with unripe plums.
-1. Here's a hamburger steak made with this ume plum jam. The sweet-and-sour flavor really goes well with the hamburger and it's delicious.
+1. As you keep simmering it over medium heat while removing the scum, in about 10 minutes the color will change to apricot. When the puree becomes translucent and thick, it&#39;s done. Pour into sterilized jars while still hot. The upper jar is the one with ripe plums, and the bottom jar is the one with unripe plums.
+1. Here&#39;s a hamburger steak made with this ume plum jam. The sweet-and-sour flavor really goes well with the hamburger and it&#39;s delicious.
 
 
 

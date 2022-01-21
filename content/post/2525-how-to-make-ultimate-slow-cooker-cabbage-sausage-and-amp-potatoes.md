@@ -1,6 +1,6 @@
 ---
-description: "How to Make Ultimate Slow Cooker cabbage, sausage, &amp; potatoes"
-title: "How to Make Ultimate Slow Cooker cabbage, sausage, &amp; potatoes"
+description: "How to Make Ultimate Slow Cooker cabbage, sausage, &amp;amp; potatoes"
+title: "How to Make Ultimate Slow Cooker cabbage, sausage, &amp;amp; potatoes"
 slug: 2525-how-to-make-ultimate-slow-cooker-cabbage-sausage-and-amp-potatoes
 date: 2021-12-23T10:36:30.879Z
 image: https://img-global.cpcdn.com/recipes/a94167a580b6f8c3/680x482cq70/slow-cooker-cabbage-sausage-potatoes-recipe-main-photo.jpg
@@ -39,23 +39,23 @@ recipecategory: Dessert
 ---
 
 
-![Slow Cooker cabbage, sausage, & potatoes](https://img-global.cpcdn.com/recipes/a94167a580b6f8c3/680x482cq70/slow-cooker-cabbage-sausage-potatoes-recipe-main-photo.jpg)
+![Slow Cooker cabbage, sausage, &amp; potatoes](https://img-global.cpcdn.com/recipes/a94167a580b6f8c3/680x482cq70/slow-cooker-cabbage-sausage-potatoes-recipe-main-photo.jpg)
 
-Hello everybody, it's Louise, welcome to my recipe page. Today, I'm gonna show you how to prepare a special dish, slow cooker cabbage, sausage, & potatoes. It is one of my favorites food recipes. For mine, I will make it a little bit tasty. This will be really delicious.
-
-
-
-Slow Cooker cabbage, sausage, & potatoes is one of the most well liked of current trending meals on earth. It's appreciated by millions every day. It is easy, it's fast, it tastes delicious. Slow Cooker cabbage, sausage, & potatoes is something which I've loved my whole life. They are nice and they look fantastic.
+Hello everybody, it's Louise, welcome to my recipe page. Today, I'm gonna show you how to prepare a special dish, slow cooker cabbage, sausage, &amp; potatoes. It is one of my favorites food recipes. For mine, I will make it a little bit tasty. This will be really delicious.
 
 
-To get started with this particular recipe, we must prepare a few components. You can cook slow cooker cabbage, sausage, & potatoes using 8 ingredients and 2 steps. Here is how you can achieve that.
+
+Slow Cooker cabbage, sausage, &amp; potatoes is one of the most well liked of current trending meals on earth. It's appreciated by millions every day. It is easy, it's fast, it tastes delicious. Slow Cooker cabbage, sausage, &amp; potatoes is something which I've loved my whole life. They are nice and they look fantastic.
+
+
+To get started with this particular recipe, we must prepare a few components. You can cook slow cooker cabbage, sausage, &amp; potatoes using 8 ingredients and 2 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Slow Cooker cabbage, sausage, & potatoes:
+##### The ingredients needed to make Slow Cooker cabbage, sausage, &amp; potatoes:
 
 1. Make ready 1.5 pounds potatoes, quartered
-1. Get 2 packages kielbasa, smoked sausage or whatever you prefer - uncooked & sliced
+1. Get 2 packages kielbasa, smoked sausage or whatever you prefer - uncooked &amp; sliced
 1. Prepare 1 head or approx. 6 cups of cabbage
 1. Get 4 cups stock - chicken, vegetable, or ham
 1. Take  Salt and pepper to your liking
@@ -68,7 +68,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 
 <!--inarticleads2-->
 
-##### Instructions to make Slow Cooker cabbage, sausage, & potatoes:
+##### Instructions to make Slow Cooker cabbage, sausage, &amp; potatoes:
 
 1. Add ingredients by layers into a 6-quart slow cooker.
 1. Cook on low for 6-8 hours. How easy is that?!
@@ -76,4 +76,4 @@ To get started with this particular recipe, we must prepare a few components. Yo
 
 
 
-So that's going to wrap it up with this exceptional food slow cooker cabbage, sausage, & potatoes recipe. Thanks so much for reading. I am sure that you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!
+So that's going to wrap it up with this exceptional food slow cooker cabbage, sausage, &amp; potatoes recipe. Thanks so much for reading. I am sure that you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

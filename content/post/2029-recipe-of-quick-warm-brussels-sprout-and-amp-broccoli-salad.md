@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Quick Warm Brussels Sprout &amp; Broccoli Salad"
-title: "Recipe of Quick Warm Brussels Sprout &amp; Broccoli Salad"
+description: "Recipe of Quick Warm Brussels Sprout &amp;amp; Broccoli Salad"
+title: "Recipe of Quick Warm Brussels Sprout &amp;amp; Broccoli Salad"
 slug: 2029-recipe-of-quick-warm-brussels-sprout-and-amp-broccoli-salad
 date: 2021-11-04T04:16:21.724Z
 image: https://img-global.cpcdn.com/recipes/6750144608337920/680x482cq70/warm-brussels-sprout-broccoli-salad-recipe-main-photo.jpg
@@ -23,7 +23,7 @@ recipeinstructions:
 - "Add some olive oil to a frying pan. Stir-fry the garlic until fragrant."
 - "Cook the brussels sprouts, cut side down, until browned."
 - "After the brussels sprouts have browned, add the broccoli, wiener sausages, and a little water (as needed) to the pan. Cover with the lid and steam-cook."
-- "Remove the lid and cook off the excess water. Adjust the flavoring with the soy sauce and it's all done."
+- "Remove the lid and cook off the excess water. Adjust the flavoring with the soy sauce and it&#39;s all done."
 categories:
 - Recipe
 tags:
@@ -42,20 +42,20 @@ recipecategory: Lunch
 ---
 
 
-![Warm Brussels Sprout & Broccoli Salad](https://img-global.cpcdn.com/recipes/6750144608337920/680x482cq70/warm-brussels-sprout-broccoli-salad-recipe-main-photo.jpg)
+![Warm Brussels Sprout &amp; Broccoli Salad](https://img-global.cpcdn.com/recipes/6750144608337920/680x482cq70/warm-brussels-sprout-broccoli-salad-recipe-main-photo.jpg)
 
-Hello everybody, I hope you're having an amazing day today. Today, I will show you a way to prepare a distinctive dish, warm brussels sprout & broccoli salad. One of my favorites food recipes. For mine, I'm gonna make it a little bit unique. This will be really delicious.
+Hello everybody, I hope you're having an amazing day today. Today, I will show you a way to prepare a distinctive dish, warm brussels sprout &amp; broccoli salad. One of my favorites food recipes. For mine, I'm gonna make it a little bit unique. This will be really delicious.
 
-Warm Brussels Sprout & Broccoli Salad is one of the most well liked of recent trending meals on earth. It is appreciated by millions daily. It's easy, it's quick, it tastes delicious. Warm Brussels Sprout & Broccoli Salad is something that I have loved my entire life. They're fine and they look fantastic.
-
-
+Warm Brussels Sprout &amp; Broccoli Salad is one of the most well liked of recent trending meals on earth. It is appreciated by millions daily. It's easy, it's quick, it tastes delicious. Warm Brussels Sprout &amp; Broccoli Salad is something that I have loved my entire life. They're fine and they look fantastic.
 
 
-To begin with this recipe, we have to prepare a few ingredients. You can cook warm brussels sprout & broccoli salad using 5 ingredients and 8 steps. Here is how you cook it.
+
+
+To begin with this recipe, we have to prepare a few ingredients. You can cook warm brussels sprout &amp; broccoli salad using 5 ingredients and 8 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Warm Brussels Sprout & Broccoli Salad:
+##### The ingredients needed to make Warm Brussels Sprout &amp; Broccoli Salad:
 
 1. Get 10 Brussels sprouts
 1. Take 1 Broccoli
@@ -68,7 +68,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook wa
 
 <!--inarticleads2-->
 
-##### Steps to make Warm Brussels Sprout & Broccoli Salad:
+##### Steps to make Warm Brussels Sprout &amp; Broccoli Salad:
 
 1. Cut the brussels sprouts in half and rinse to remove any dirt.
 1. Separate the broccoli florets and rinse.
@@ -77,9 +77,9 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook wa
 1. Add some olive oil to a frying pan. Stir-fry the garlic until fragrant.
 1. Cook the brussels sprouts, cut side down, until browned.
 1. After the brussels sprouts have browned, add the broccoli, wiener sausages, and a little water (as needed) to the pan. Cover with the lid and steam-cook.
-1. Remove the lid and cook off the excess water. Adjust the flavoring with the soy sauce and it's all done.
+1. Remove the lid and cook off the excess water. Adjust the flavoring with the soy sauce and it&#39;s all done.
 
 
 
 
-So that is going to wrap this up with this special food warm brussels sprout & broccoli salad recipe. Thanks so much for your time. I'm confident that you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap this up with this special food warm brussels sprout &amp; broccoli salad recipe. Thanks so much for your time. I'm confident that you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

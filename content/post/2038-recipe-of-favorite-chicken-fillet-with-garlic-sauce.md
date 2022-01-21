@@ -24,8 +24,8 @@ recipeinstructions:
 - "After that You should Mixed them after you mixed them, Marinate the Chicken in 20-40 min"
 - "After you Marinate, prepare the egg in a bowl, And The flour in another bowl put a lil bit salt, simple Rules:Dry and wet take a one pieces of Chicken, Put it on the Flour, and Egg."
 - "Start the Stove put the frying pan and Put a Olive oil, 1 bottle cause for a deep fry"
-- "After You put it in the flour and egg, let's start to fry, make it a deep fry, until it makes a golden brown so on and so fort."
-- "For our Garlic Sauce............slice the garlic First and wash the frying pan and put it in the stove again, Put a little Olive oil and saute the Garlic, Till it's color brown next put the 1/2 cup flour and mixed it after you mixed it, Put the 1 cup of water mixed it until the Brewing Flour Is Gone, Mixed it and after that put the 2 Boston pepper, after that put it in the mini Bowl and Viola! You have the Chicken Fillet with Garlic Sauce"
+- "After You put it in the flour and egg, let&#39;s start to fry, make it a deep fry, until it makes a golden brown so on and so fort."
+- "For our Garlic Sauce............slice the garlic First and wash the frying pan and put it in the stove again, Put a little Olive oil and saute the Garlic, Till it&#39;s color brown next put the 1/2 cup flour and mixed it after you mixed it, Put the 1 cup of water mixed it until the Brewing Flour Is Gone, Mixed it and after that put the 2 Boston pepper, after that put it in the mini Bowl and Viola! You have the Chicken Fillet with Garlic Sauce"
 categories:
 - Recipe
 tags:
@@ -80,8 +80,8 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. After that You should Mixed them after you mixed them, Marinate the Chicken in 20-40 min
 1. After you Marinate, prepare the egg in a bowl, And The flour in another bowl put a lil bit salt, simple Rules:Dry and wet take a one pieces of Chicken, Put it on the Flour, and Egg.
 1. Start the Stove put the frying pan and Put a Olive oil, 1 bottle cause for a deep fry
-1. After You put it in the flour and egg, let's start to fry, make it a deep fry, until it makes a golden brown so on and so fort.
-1. For our Garlic Sauce............slice the garlic First and wash the frying pan and put it in the stove again, Put a little Olive oil and saute the Garlic, Till it's color brown next put the 1/2 cup flour and mixed it after you mixed it, Put the 1 cup of water mixed it until the Brewing Flour Is Gone, Mixed it and after that put the 2 Boston pepper, after that put it in the mini Bowl and Viola! You have the Chicken Fillet with Garlic Sauce
+1. After You put it in the flour and egg, let&#39;s start to fry, make it a deep fry, until it makes a golden brown so on and so fort.
+1. For our Garlic Sauce............slice the garlic First and wash the frying pan and put it in the stove again, Put a little Olive oil and saute the Garlic, Till it&#39;s color brown next put the 1/2 cup flour and mixed it after you mixed it, Put the 1 cup of water mixed it until the Brewing Flour Is Gone, Mixed it and after that put the 2 Boston pepper, after that put it in the mini Bowl and Viola! You have the Chicken Fillet with Garlic Sauce
 
 
 

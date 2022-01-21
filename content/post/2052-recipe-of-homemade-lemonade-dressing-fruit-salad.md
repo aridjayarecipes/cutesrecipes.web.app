@@ -18,7 +18,7 @@ recipeingredient:
 - "1 tsp Rock salt"
 recipeinstructions:
 - "Assalamualaikum cut the apple and pomegranate,now add sugar and lemon mix well."
-- "Decorative the plate with fruit of your choice, it's ready to serve."
+- "Decorative the plate with fruit of your choice, it&#39;s ready to serve."
 categories:
 - Recipe
 tags:
@@ -67,7 +67,7 @@ This is always sure to be a crowd favorite! Fruit salad is a simple Paleo-friend
 ##### Steps to make Lemonade dressing fruit salad:
 
 1. Assalamualaikum cut the apple and pomegranate,now add sugar and lemon mix well.
-1. Decorative the plate with fruit of your choice, it's ready to serve.
+1. Decorative the plate with fruit of your choice, it&#39;s ready to serve.
 
 
 This one is full of different colors and gives you a chance to play with Try it as an after-school snack or an easy dessert that you can just pull out of the fridge when dinner is over and enjoy. Fruit Salad With Lemon Dressing Recipe. Sometimes called Punchbowl Salad, this Fruit Salad can be made ahead with the fruit refrigerated in separate zip bags. I took it to a recent family Neither flavor dominates the dressing. The lemonade concentrate keeps the fruit looking its best. 

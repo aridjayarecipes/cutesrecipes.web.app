@@ -43,7 +43,7 @@ recipecategory: Dessert
 
 Hey everyone, hope you are having an incredible day today. Today, I'm gonna show you how to prepare a special dish, plain pumpkin soup. One of my favorites. This time, I will make it a little bit unique. This will be really delicious.
 
-While plain pumpkin soup is my favourite and the way I serve it most often, sometimes it's nice to change things up by adding other flavours! Here are a few suggestions: Curried pumpkin soup - stir. Great recipe for Plain pumpkin soup. Tag along with my fried egg,to make it fast I just make Check your soup,taste it.if you like stronger taste can add in your salt n fish sauce.some people like extra.
+While plain pumpkin soup is my favourite and the way I serve it most often, sometimes it&#39;s nice to change things up by adding other flavours! Here are a few suggestions: Curried pumpkin soup - stir. Great recipe for Plain pumpkin soup. Tag along with my fried egg,to make it fast I just make Check your soup,taste it.if you like stronger taste can add in your salt n fish sauce.some people like extra.
 
 Plain pumpkin soup is one of the most favored of current trending foods in the world. It is enjoyed by millions daily. It is simple, it is quick, it tastes delicious. They are nice and they look fantastic. Plain pumpkin soup is something which I've loved my whole life.
 

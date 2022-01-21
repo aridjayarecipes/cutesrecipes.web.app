@@ -55,7 +55,7 @@ recipecategory: Dessert
 
 Hey everyone, it is John, welcome to my recipe site. Today, I'm gonna show you how to prepare a distinctive dish, japanese-inspired steamed vegetables and baked salmon with a miso-soy-mirin-garlic-ginger sauce. It is one of my favorites food recipes. For mine, I will make it a little bit unique. This will be really delicious.
 
-The salmon marinade is classic Japanese flavours - soy sauce, mirin and sake. It doesn't get anymore "Japanese" than that! Wild salmon fillet marinated in a sweet and savory miso marinade, garnish with sesame seeds and Enjoy with Japanese ginger rice! Imagine baking the salmon with some ginger, garlic, honey, soy sauce, and oyster sauce.
+The salmon marinade is classic Japanese flavours - soy sauce, mirin and sake. It doesn&#39;t get anymore &#34;Japanese&#34; than that! Wild salmon fillet marinated in a sweet and savory miso marinade, garnish with sesame seeds and Enjoy with Japanese ginger rice! Imagine baking the salmon with some ginger, garlic, honey, soy sauce, and oyster sauce.
 
 Japanese-inspired steamed vegetables and baked salmon with a miso-soy-mirin-garlic-ginger sauce is one of the most favored of recent trending meals in the world. It's easy, it is quick, it tastes yummy. It is enjoyed by millions every day. Japanese-inspired steamed vegetables and baked salmon with a miso-soy-mirin-garlic-ginger sauce is something which I've loved my whole life. They're nice and they look fantastic.
 
@@ -98,6 +98,6 @@ Salmon Marinade Marinated Salmon Baked Salmon Salmon And Broccoli Salmon And Ric
 1. Remove salmon from oven. Place salmon over steamed white short-grain rice. Serve vegetables and salmon with the heated sauce in a separate bowl for dipping.
 
 
-Japanese style-broiled salmon just like the restaurants. Easy recipe I came up with at the request of my family. Serve with sticky white rice and a light salad. This sauce has a wonderful flavour! I followed the ingredients exactly but didn't poach the salmon and left the skin on while I was baking it. 
+Japanese style-broiled salmon just like the restaurants. Easy recipe I came up with at the request of my family. Serve with sticky white rice and a light salad. This sauce has a wonderful flavour! I followed the ingredients exactly but didn&#39;t poach the salmon and left the skin on while I was baking it. 
 
 So that's going to wrap it up for this special food japanese-inspired steamed vegetables and baked salmon with a miso-soy-mirin-garlic-ginger sauce recipe. Thanks so much for your time. I'm confident that you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

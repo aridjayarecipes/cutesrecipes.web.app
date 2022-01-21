@@ -38,7 +38,7 @@ recipecategory: Dinner
 
 Hello everybody, it's Louise, welcome to my recipe page. Today, we're going to prepare a special dish, banana, spinach and blueberry smoothie. One of my favorites. This time, I am going to make it a bit tasty. This is gonna smell and look delicious.
 
-Place the blueberries, spinach, and banana in a blender or food processor and blend until just combined. Add in the ice and continue to blend until the mixture is smooth. This blueberry banana spinach smoothie recipe is creamy scrumptiousness! It's also a fun way to get more fruits and vegetables in your diet.
+Place the blueberries, spinach, and banana in a blender or food processor and blend until just combined. Add in the ice and continue to blend until the mixture is smooth. This blueberry banana spinach smoothie recipe is creamy scrumptiousness! It&#39;s also a fun way to get more fruits and vegetables in your diet.
 
 Banana, spinach and blueberry smoothie is one of the most favored of current trending meals on earth. It's enjoyed by millions daily. It's simple, it is fast, it tastes yummy. Banana, spinach and blueberry smoothie is something which I've loved my whole life. They're fine and they look fantastic.
 

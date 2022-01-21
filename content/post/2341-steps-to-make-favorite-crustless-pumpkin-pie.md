@@ -42,7 +42,7 @@ recipecategory: Dinner
 
 Hello everybody, it is Louise, welcome to our recipe site. Today, we're going to prepare a distinctive dish, crustless pumpkin pie. One of my favorites. This time, I'm gonna make it a little bit tasty. This will be really delicious.
 
-For those that can't have gluten or think the pie crust is just a vessel to get the best part of the pie, this pumpkin pie is for you. Punkin' pie in a crock pot, y'all! Add some pie crust cookies with this and every bite is like the first, best bite EVER!!! This creamy, crustless pumpkin pie uses egg substitute, sweetener, and fat-free milk.
+For those that can&#39;t have gluten or think the pie crust is just a vessel to get the best part of the pie, this pumpkin pie is for you. Punkin&#39; pie in a crock pot, y&#39;all! Add some pie crust cookies with this and every bite is like the first, best bite EVER!!! This creamy, crustless pumpkin pie uses egg substitute, sweetener, and fat-free milk.
 
 Crustless pumpkin pie is one of the most well liked of recent trending meals on earth. It is enjoyed by millions daily. It's simple, it is fast, it tastes yummy. They're fine and they look wonderful. Crustless pumpkin pie is something that I've loved my entire life.
 
@@ -72,6 +72,6 @@ How Do I Make This Crustless Pumpkin Pie? This crustless pumpkin pie is filled w
 1. Cut and enjoy.
 
 
-Easy Crustless Pumpkin Pie (Gluten-Free, Dairy-Free) Crustless Pumpkin Pie. Use a spoon to dip up servings. Make this easy crustless pumpkin pie from scratch for fall or Thanksgiving dinner or homemade dessert. See more ideas about crustless pumpkin pie recipe, crustless pumpkin pie, pumpkin pie recipes. This is officially the easiest pumpkin pie ever — everything comes together in the blender and there's no need to roll out a crust. 
+Easy Crustless Pumpkin Pie (Gluten-Free, Dairy-Free) Crustless Pumpkin Pie. Use a spoon to dip up servings. Make this easy crustless pumpkin pie from scratch for fall or Thanksgiving dinner or homemade dessert. See more ideas about crustless pumpkin pie recipe, crustless pumpkin pie, pumpkin pie recipes. This is officially the easiest pumpkin pie ever — everything comes together in the blender and there&#39;s no need to roll out a crust. 
 
 So that's going to wrap it up with this special food crustless pumpkin pie recipe. Thanks so much for reading. I am sure you will make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

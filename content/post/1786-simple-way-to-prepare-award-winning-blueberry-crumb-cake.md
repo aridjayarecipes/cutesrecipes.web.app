@@ -28,14 +28,14 @@ recipeingredient:
 - "2 Cups Fresh Blueberries"
 recipeinstructions:
 - "Preheat oven to 350°."
-- "Grease & flour a 9 inch baking pan."
-- "Crumb topping: Mix the flour, sugar & lemon zest together in a small bowl. Add melted butter, stir with fork until the mixture is crumbly; set aside."
-- "For the cake: Combine the dry ingredients together in a small bowl & set aside."
-- "In a large mixing bowl, beat together the eggs, sour cream & vanilla extract until well blended."
-- "Add the dry mixture into the wet ingredients & mix until smooth."
-- "Spoon & spread batter evenly into prepared pan."
-- "Cover batter with blueberries & sprinkle crumb topping over the blueberries evenly."
-- "Bake for 45-50 minutes, topping should be golden brown & a toothpick inserted in the center should come out clean."
+- "Grease &amp; flour a 9 inch baking pan."
+- "Crumb topping: Mix the flour, sugar &amp; lemon zest together in a small bowl. Add melted butter, stir with fork until the mixture is crumbly; set aside."
+- "For the cake: Combine the dry ingredients together in a small bowl &amp; set aside."
+- "In a large mixing bowl, beat together the eggs, sour cream &amp; vanilla extract until well blended."
+- "Add the dry mixture into the wet ingredients &amp; mix until smooth."
+- "Spoon &amp; spread batter evenly into prepared pan."
+- "Cover batter with blueberries &amp; sprinkle crumb topping over the blueberries evenly."
+- "Bake for 45-50 minutes, topping should be golden brown &amp; a toothpick inserted in the center should come out clean."
 categories:
 - Recipe
 tags:
@@ -94,14 +94,14 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 ##### Steps to make Blueberry Crumb Cake:
 
 1. Preheat oven to 350°.
-1. Grease & flour a 9 inch baking pan.
-1. Crumb topping: Mix the flour, sugar & lemon zest together in a small bowl. Add melted butter, stir with fork until the mixture is crumbly; set aside.
-1. For the cake: Combine the dry ingredients together in a small bowl & set aside.
-1. In a large mixing bowl, beat together the eggs, sour cream & vanilla extract until well blended.
-1. Add the dry mixture into the wet ingredients & mix until smooth.
-1. Spoon & spread batter evenly into prepared pan.
-1. Cover batter with blueberries & sprinkle crumb topping over the blueberries evenly.
-1. Bake for 45-50 minutes, topping should be golden brown & a toothpick inserted in the center should come out clean.
+1. Grease &amp; flour a 9 inch baking pan.
+1. Crumb topping: Mix the flour, sugar &amp; lemon zest together in a small bowl. Add melted butter, stir with fork until the mixture is crumbly; set aside.
+1. For the cake: Combine the dry ingredients together in a small bowl &amp; set aside.
+1. In a large mixing bowl, beat together the eggs, sour cream &amp; vanilla extract until well blended.
+1. Add the dry mixture into the wet ingredients &amp; mix until smooth.
+1. Spoon &amp; spread batter evenly into prepared pan.
+1. Cover batter with blueberries &amp; sprinkle crumb topping over the blueberries evenly.
+1. Bake for 45-50 minutes, topping should be golden brown &amp; a toothpick inserted in the center should come out clean.
 
 
 

@@ -17,7 +17,7 @@ recipeingredient:
 - "1/3 cup sugar"
 recipeinstructions:
 - "Heat a skillet. Cut the Brussels sprouts in half. Toss with salt and ghee. Add to the skillet and sauté. Sauté 5 minutes and add sugar. Sauté till almost fork tender."
-- "Squeeze in the juice of half a lemon. Sauté for 7 minutes stirring only to flip the sprouts. Don't allow to go too far past fork tender, or it may become a lemony sulfuric mush."
+- "Squeeze in the juice of half a lemon. Sauté for 7 minutes stirring only to flip the sprouts. Don&#39;t allow to go too far past fork tender, or it may become a lemony sulfuric mush."
 - "Turn off heat and cover. Allow to rest 8 minutes and serve. I hope you enjoy!!!"
 categories:
 - Recipe
@@ -65,7 +65,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 ##### Steps to make Brussels Sprouts:
 
 1. Heat a skillet. Cut the Brussels sprouts in half. Toss with salt and ghee. Add to the skillet and sauté. Sauté 5 minutes and add sugar. Sauté till almost fork tender.
-1. Squeeze in the juice of half a lemon. Sauté for 7 minutes stirring only to flip the sprouts. Don't allow to go too far past fork tender, or it may become a lemony sulfuric mush.
+1. Squeeze in the juice of half a lemon. Sauté for 7 minutes stirring only to flip the sprouts. Don&#39;t allow to go too far past fork tender, or it may become a lemony sulfuric mush.
 1. Turn off heat and cover. Allow to rest 8 minutes and serve. I hope you enjoy!!!
 
 

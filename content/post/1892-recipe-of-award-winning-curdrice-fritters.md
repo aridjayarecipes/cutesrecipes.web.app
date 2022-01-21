@@ -22,7 +22,7 @@ recipeingredient:
 - " Pomegranate if you like to add optional"
 recipeinstructions:
 - "Grind the boiled rice in your mixer without water in a consistency of making a ball shape with it. Add curd, salt and mix in a spoon with the grind rice. Keep it aside"
-- "Now take the mustard seed,jeera seed & Chana dal for seasoning the curd rice  Season it with a little oil and mix it with curd rice kept aside"
+- "Now take the mustard seed,jeera seed &amp; Chana dal for seasoning the curd rice  Season it with a little oil and mix it with curd rice kept aside"
 - "Mix all purpose flour with a pinch salt and pepper powder with water in watery consistency"
 - "Now take the curd rice and make it in ball shape in your comfortable size and make a hole and fill it with your favorite pickle."
 - "Now dip the ball in all purpose flour and then coat it with bread crumbs repeat the same process one more time and keep the balls aside"
@@ -79,7 +79,7 @@ To begin with this recipe, we have to prepare a few components. You can cook cur
 ##### Instructions to make Curdrice fritters:
 
 1. Grind the boiled rice in your mixer without water in a consistency of making a ball shape with it. - Add curd, salt and mix in a spoon with the grind rice. Keep it aside
-1. Now take the mustard seed,jeera seed & Chana dal for seasoning the curd rice  - Season it with a little oil and mix it with curd rice kept aside
+1. Now take the mustard seed,jeera seed &amp; Chana dal for seasoning the curd rice  - Season it with a little oil and mix it with curd rice kept aside
 1. Mix all purpose flour with a pinch salt and pepper powder with water in watery consistency
 1. Now take the curd rice and make it in ball shape in your comfortable size and make a hole and fill it with your favorite pickle.
 1. Now dip the ball in all purpose flour and then coat it with bread crumbs repeat the same process one more time and keep the balls aside

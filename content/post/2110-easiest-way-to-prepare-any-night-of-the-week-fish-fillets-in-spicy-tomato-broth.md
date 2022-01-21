@@ -26,7 +26,7 @@ recipeingredient:
 recipeinstructions:
 - "For Broth"
 - "In a saucepan, heat 2 tablespoons of the olive oil, add shallot,garlic, salt and pepper and red pepper flakes cook just until soft"
-- "Add tomato's and cook until they begin to give off their juice,add 1/2 of the basil add wine and lemon and reduce at medium heat until reduced by 1/2"
+- "Add tomato&#39;s and cook until they begin to give off their juice,add 1/2 of the basil add wine and lemon and reduce at medium heat until reduced by 1/2"
 - "Add chicken stock,reduce heat to a simmer while preparing fish"
 - "Heat 1 tablespoon olive oil in skillet large enough to hold fish in 1 layer, season fish with salt and pepper, sear fish for about 3 minutes on one side until golden, turn over, reduce heat pour tomato broth over fish, add remaining basil, and hot sauce cover and cook on very low about 7 minutes more depending on thickness of fish"
 - "Serve each fillet in a shallow soup bowl, dividing broth among bowls"
@@ -87,7 +87,7 @@ To begin with this recipe, we must prepare a few components. You can cook fish f
 
 1. For Broth
 1. In a saucepan, heat 2 tablespoons of the olive oil, add shallot,garlic, salt and pepper and red pepper flakes cook just until soft
-1. Add tomato's and cook until they begin to give off their juice,add 1/2 of the basil add wine and lemon and reduce at medium heat until reduced by 1/2
+1. Add tomato&#39;s and cook until they begin to give off their juice,add 1/2 of the basil add wine and lemon and reduce at medium heat until reduced by 1/2
 1. Add chicken stock,reduce heat to a simmer while preparing fish
 1. Heat 1 tablespoon olive oil in skillet large enough to hold fish in 1 layer, season fish with salt and pepper, sear fish for about 3 minutes on one side until golden, turn over, reduce heat pour tomato broth over fish, add remaining basil, and hot sauce cover and cook on very low about 7 minutes more depending on thickness of fish
 1. Serve each fillet in a shallow soup bowl, dividing broth among bowls

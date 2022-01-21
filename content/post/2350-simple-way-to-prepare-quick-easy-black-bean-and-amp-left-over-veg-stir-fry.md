@@ -1,6 +1,6 @@
 ---
-description: "Simple Way to Prepare Quick Easy Black Bean &amp; Left-over Veg Stir-fry"
-title: "Simple Way to Prepare Quick Easy Black Bean &amp; Left-over Veg Stir-fry"
+description: "Simple Way to Prepare Quick Easy Black Bean &amp;amp; Left-over Veg Stir-fry"
+title: "Simple Way to Prepare Quick Easy Black Bean &amp;amp; Left-over Veg Stir-fry"
 slug: 2350-simple-way-to-prepare-quick-easy-black-bean-and-amp-left-over-veg-stir-fry
 date: 2021-11-05T21:30:52.383Z
 image: https://img-global.cpcdn.com/recipes/5269316653547520/680x482cq70/easy-black-bean-left-over-veg-stir-fry-recipe-main-photo.jpg
@@ -46,20 +46,20 @@ recipecategory: Dinner
 ---
 
 
-![Easy Black Bean & Left-over Veg Stir-fry](https://img-global.cpcdn.com/recipes/5269316653547520/680x482cq70/easy-black-bean-left-over-veg-stir-fry-recipe-main-photo.jpg)
+![Easy Black Bean &amp; Left-over Veg Stir-fry](https://img-global.cpcdn.com/recipes/5269316653547520/680x482cq70/easy-black-bean-left-over-veg-stir-fry-recipe-main-photo.jpg)
 
-Hey everyone, I hope you are having an amazing day today. Today, we're going to make a distinctive dish, easy black bean & left-over veg stir-fry. One of my favorites food recipes. For mine, I am going to make it a little bit tasty. This is gonna smell and look delicious.
-
-
-
-Easy Black Bean & Left-over Veg Stir-fry is one of the most popular of current trending foods in the world. It is appreciated by millions daily. It is simple, it is fast, it tastes delicious. They are nice and they look wonderful. Easy Black Bean & Left-over Veg Stir-fry is something that I've loved my entire life.
+Hey everyone, I hope you are having an amazing day today. Today, we're going to make a distinctive dish, easy black bean &amp; left-over veg stir-fry. One of my favorites food recipes. For mine, I am going to make it a little bit tasty. This is gonna smell and look delicious.
 
 
-To get started with this particular recipe, we have to prepare a few ingredients. You can cook easy black bean & left-over veg stir-fry using 12 ingredients and 5 steps. Here is how you cook it.
+
+Easy Black Bean &amp; Left-over Veg Stir-fry is one of the most popular of current trending foods in the world. It is appreciated by millions daily. It is simple, it is fast, it tastes delicious. They are nice and they look wonderful. Easy Black Bean &amp; Left-over Veg Stir-fry is something that I've loved my entire life.
+
+
+To get started with this particular recipe, we have to prepare a few ingredients. You can cook easy black bean &amp; left-over veg stir-fry using 12 ingredients and 5 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Easy Black Bean & Left-over Veg Stir-fry:
+##### The ingredients needed to make Easy Black Bean &amp; Left-over Veg Stir-fry:
 
 1. Take 1 Black beans - small tin
 1. Prepare 1 Garlic glove
@@ -79,7 +79,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 <!--inarticleads2-->
 
-##### Steps to make Easy Black Bean & Left-over Veg Stir-fry:
+##### Steps to make Easy Black Bean &amp; Left-over Veg Stir-fry:
 
 1. Saute onions and garlic in a little water
 1. Add other left-over chopped veggies, squirt over as much soy sauce as desired and a little more water if needed
@@ -90,4 +90,4 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 
 
-So that is going to wrap this up for this exceptional food easy black bean & left-over veg stir-fry recipe. Thank you very much for your time. I am confident that you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!
+So that is going to wrap this up for this exceptional food easy black bean &amp; left-over veg stir-fry recipe. Thank you very much for your time. I am confident that you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

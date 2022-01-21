@@ -32,7 +32,7 @@ recipeinstructions:
 - "Using your paddle attachment to work up to medium speed, beat butter with dry ingredients until butter has crumbled into smaller pieces and mixture is consistent. This might take a few minutes- be patient! You can stop halfway through, use a fork to scrape down the sides of the bowl and mix up the butter a bit more if needed."
 - "Stir in milk, vanilla, lemon juice, and lemon zest until moistened."
 - "Pat dough out onto a lightly floured counter. Gently fold in blueberries, being careful not to squish too much."
-- "By hand, shape dough into a rectangle, about one inch thick. Cut roughly down the middle to divide into two squares. Cut a criss cross diagonally through both squares to get 8 large scones. *To get 16 smaller scones, cut each triangle in half. The scones will bake up slightly bigger, and they're the perfect size for a snack or with breakfast."
+- "By hand, shape dough into a rectangle, about one inch thick. Cut roughly down the middle to divide into two squares. Cut a criss cross diagonally through both squares to get 8 large scones. *To get 16 smaller scones, cut each triangle in half. The scones will bake up slightly bigger, and they&#39;re the perfect size for a snack or with breakfast."
 - "Place onto parchment-lined cookie sheet, about one to two inches apart."
 - "For 8 large scones, bake 15-17 min or until golden brown."
 - "For 16 small scones, adjust baking time to 11-13 min or until golden brown."
@@ -99,7 +99,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Using your paddle attachment to work up to medium speed, beat butter with dry ingredients until butter has crumbled into smaller pieces and mixture is consistent. This might take a few minutes- be patient! You can stop halfway through, use a fork to scrape down the sides of the bowl and mix up the butter a bit more if needed.
 1. Stir in milk, vanilla, lemon juice, and lemon zest until moistened.
 1. Pat dough out onto a lightly floured counter. Gently fold in blueberries, being careful not to squish too much.
-1. By hand, shape dough into a rectangle, about one inch thick. Cut roughly down the middle to divide into two squares. Cut a criss cross diagonally through both squares to get 8 large scones. *To get 16 smaller scones, cut each triangle in half. The scones will bake up slightly bigger, and they're the perfect size for a snack or with breakfast.
+1. By hand, shape dough into a rectangle, about one inch thick. Cut roughly down the middle to divide into two squares. Cut a criss cross diagonally through both squares to get 8 large scones. *To get 16 smaller scones, cut each triangle in half. The scones will bake up slightly bigger, and they&#39;re the perfect size for a snack or with breakfast.
 1. Place onto parchment-lined cookie sheet, about one to two inches apart.
 1. For 8 large scones, bake 15-17 min or until golden brown.
 1. For 16 small scones, adjust baking time to 11-13 min or until golden brown.

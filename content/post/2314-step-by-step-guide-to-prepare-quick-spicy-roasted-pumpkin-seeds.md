@@ -62,7 +62,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. Prepare 2 tablespoons cayenne pepper or to your desired amount
 
 
-If you're not a spicy food lover, opt for smoked paprika instead. Same deal for roasting: throw the seeds in one layer on a parchment-lined. Spicy Cajun Roasted Pumpkin Seeds: Spread the cleaned and dried pumpkin seeds on the prepared baking sheet. Add a dash of cayenne pepper for spicier seeds. 
+If you&#39;re not a spicy food lover, opt for smoked paprika instead. Same deal for roasting: throw the seeds in one layer on a parchment-lined. Spicy Cajun Roasted Pumpkin Seeds: Spread the cleaned and dried pumpkin seeds on the prepared baking sheet. Add a dash of cayenne pepper for spicier seeds. 
 
 <!--inarticleads2-->
 
@@ -74,6 +74,6 @@ If you're not a spicy food lover, opt for smoked paprika instead. Same deal for 
 1. Enjoy! (Keep covered when storing to prevent staleness.)
 
 
-Spicy Cajun Roasted Pumpkin Seeds: Spread the cleaned and dried pumpkin seeds on the prepared baking sheet. Add a dash of cayenne pepper for spicier seeds. Spicy roasted pumpkin seeds are seasoned with olive oil, smoked paprika, garlic, and cayenne. My kids get so excited every Baked pumpkin seeds are so good! It's not just the kids who like them - I enjoy them too. 
+Spicy Cajun Roasted Pumpkin Seeds: Spread the cleaned and dried pumpkin seeds on the prepared baking sheet. Add a dash of cayenne pepper for spicier seeds. Spicy roasted pumpkin seeds are seasoned with olive oil, smoked paprika, garlic, and cayenne. My kids get so excited every Baked pumpkin seeds are so good! It&#39;s not just the kids who like them - I enjoy them too. 
 
 So that is going to wrap it up with this special food spicy roasted pumpkin seeds recipe. Thank you very much for your time. I am confident that you can make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

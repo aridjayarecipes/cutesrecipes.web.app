@@ -26,13 +26,13 @@ recipeinstructions:
 - "Blend the first 7 ingredients together on medium speed in a mixer"
 - "Pour into greased 11×15 inch pan"
 - "Bake for 35 minutes"
-- "While that is cooling, blend the softened butter & cream cheese together"
-- "Add the milk & vanilla"
+- "While that is cooling, blend the softened butter &amp; cream cheese together"
+- "Add the milk &amp; vanilla"
 - "Blend that in til smooth"
-- "Add powdered sugar on low speed, be careful it don't blow up on you...poof! Lol"
+- "Add powdered sugar on low speed, be careful it don&#39;t blow up on you...poof! Lol"
 - "Now once moistened, speed it up to a medium speed until smooth."
 - "Spread onto pumpkin bars"
-- "Chill 'til serving time"
+- "Chill &#39;til serving time"
 categories:
 - Recipe
 tags:
@@ -88,13 +88,13 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Blend the first 7 ingredients together on medium speed in a mixer
 1. Pour into greased 11×15 inch pan
 1. Bake for 35 minutes
-1. While that is cooling, blend the softened butter & cream cheese together
-1. Add the milk & vanilla
+1. While that is cooling, blend the softened butter &amp; cream cheese together
+1. Add the milk &amp; vanilla
 1. Blend that in til smooth
-1. Add powdered sugar on low speed, be careful it don't blow up on you...poof! Lol
+1. Add powdered sugar on low speed, be careful it don&#39;t blow up on you...poof! Lol
 1. Now once moistened, speed it up to a medium speed until smooth.
 1. Spread onto pumpkin bars
-1. Chill 'til serving time
+1. Chill &#39;til serving time
 
 
 

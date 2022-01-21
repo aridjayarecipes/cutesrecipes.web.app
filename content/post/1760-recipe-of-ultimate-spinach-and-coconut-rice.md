@@ -26,7 +26,7 @@ recipeinstructions:
 - "Bring to boil, then reduce heat to a low simmer, put the lid on the pan, and cook for 20 minutes."
 - "Add the buttery spinach to the rice 5 minutes before the end of the cooking time."
 - "As above, this is delicious served simply with some toasted sesame seeds, soy sauce, and deep-fried shallots, but is also great with a simply cooked piece of fish or some prawns, also dressed with sesame, soy, and shallots."
-- "Otherwise, I serve it with either my version of Mary Berry's Sticky Chicken or my famous Cornflake-crusted Chicken Karaage."
+- "Otherwise, I serve it with either my version of Mary Berry&#39;s Sticky Chicken or my famous Cornflake-crusted Chicken Karaage."
 categories:
 - Recipe
 tags:
@@ -61,7 +61,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 ##### The ingredients needed to make Spinach and coconut rice:
 
 1. Prepare 1 onion brown , finely chopped
-1. Take 2 cloves garlic , crushed with the flat of a chef's knife and finely chopped
+1. Take 2 cloves garlic , crushed with the flat of a chef&#39;s knife and finely chopped
 1. Take 2 cups rice long-grain
 1. Take 1/2 cup coconut shredded
 1. Get 1 can coconut cream
@@ -71,7 +71,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 1. Prepare  peanut oil groundnut or  oil
 
 
-Once rice is fully cooked and has used up all the coconut milk/vegetable broth mixture add spinach mixture, turmeric and salt & pepper to taste and. You could take advantage of the other greens around at the moment, using them to replace the spinach. Purple kale, cavolo nero, spring cabbage or mustard greens, should be lightly cooked before being. Spinach Rice Toasted Coconut Chips Green Rice Recipe Vegan Ribs Food Rice Pilaf Cooking Together Whole Food Recipes Veggie Recipes. 
+Once rice is fully cooked and has used up all the coconut milk/vegetable broth mixture add spinach mixture, turmeric and salt &amp; pepper to taste and. You could take advantage of the other greens around at the moment, using them to replace the spinach. Purple kale, cavolo nero, spring cabbage or mustard greens, should be lightly cooked before being. Spinach Rice Toasted Coconut Chips Green Rice Recipe Vegan Ribs Food Rice Pilaf Cooking Together Whole Food Recipes Veggie Recipes. 
 
 <!--inarticleads2-->
 
@@ -83,7 +83,7 @@ Once rice is fully cooked and has used up all the coconut milk/vegetable broth m
 1. Bring to boil, then reduce heat to a low simmer, put the lid on the pan, and cook for 20 minutes.
 1. Add the buttery spinach to the rice 5 minutes before the end of the cooking time.
 1. As above, this is delicious served simply with some toasted sesame seeds, soy sauce, and deep-fried shallots, but is also great with a simply cooked piece of fish or some prawns, also dressed with sesame, soy, and shallots.
-1. Otherwise, I serve it with either my version of Mary Berry's Sticky Chicken or my famous Cornflake-crusted Chicken Karaage.
+1. Otherwise, I serve it with either my version of Mary Berry&#39;s Sticky Chicken or my famous Cornflake-crusted Chicken Karaage.
 
 
 Purple kale, cavolo nero, spring cabbage or mustard greens, should be lightly cooked before being. Spinach Rice Toasted Coconut Chips Green Rice Recipe Vegan Ribs Food Rice Pilaf Cooking Together Whole Food Recipes Veggie Recipes. Measure out ½ cup coconut milk; set aside the rest for the chicken. Remove from the heat and season to taste with salt and pepper. When the chicken korma is almost done, prepare the naan and the garnish. 

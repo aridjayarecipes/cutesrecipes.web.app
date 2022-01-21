@@ -67,7 +67,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Make ready 1/2 C Castor sugar
 1. Get 1/2 C Dark Brown Sugar
 1. Get 1/2 tsp fine salt
-1. Make ready  B. Combined & Sifted together
+1. Make ready  B. Combined &amp; Sifted together
 1. Take 2 C Self Raising flour
 1. Prepare 2 tbsp Full Cream Milk Powder
 1. Prepare 1 tsp Baking Soda

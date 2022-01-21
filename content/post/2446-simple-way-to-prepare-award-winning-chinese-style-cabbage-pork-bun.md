@@ -27,7 +27,7 @@ recipeinstructions:
 - "Keep mixing it until you see the dough already round in shape. Now you can add the veggie oil into the dough. Mix it well again! (*You might feel the dough cannot absorb the oil at first, but keep mixing it til the dough finally absorb the veggie oil)"
 - "Now the dough becomes round and smooth, you can put excessive flour on the bottom of the bowl and put the dough inside and start the first resting! (You are suggested to put a plastic wipe or wet clean towel cover the dough to keep the moisture)"
 - "How do we know the first resting done? Obviously, you will see the dough become 2 times bigger after resting. Or you can press the dough down with one finger, if you see the hole did not pump back, you will realize the first resting is done."
-- "During the first resting time, you can prepare the filling! Chop the pork into small pieces or blend it, put little bit of salt & pepper and mix it well. Clean the cabbage and chop it into small pieces. Get your pan nice and hot, and fry the pork first and then add cabbage and keep mixing it. When it almost done, all little bit of soy sauce and keep cooking it until it goes dry. (*It is ok to make the pork more salty than normal; because it tastes fine after adding into the dough and steam it.)"
+- "During the first resting time, you can prepare the filling! Chop the pork into small pieces or blend it, put little bit of salt &amp; pepper and mix it well. Clean the cabbage and chop it into small pieces. Get your pan nice and hot, and fry the pork first and then add cabbage and keep mixing it. When it almost done, all little bit of soy sauce and keep cooking it until it goes dry. (*It is ok to make the pork more salty than normal; because it tastes fine after adding into the dough and steam it.)"
 - "After cooking the filling, we can start knead the dough! Get your table ready, put some flour on it. Use you dominant hand to press the dough and gently push it away from your body and fold, repeat it a few times."
 - "Keep kneading the dough to remove excessive air, fold it and press down. until the dough becomes round and smooth again. Cut it into several pieces, and ready to put the filling on the small dough."
 - "Make the dough thin and gently put the filling and fold the dough into a round shape or any shapes you want. (Make sure the dough covers all the fillings) Then rest for 15-30mins as second resting."
@@ -73,7 +73,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can h
 1. Make ready  Filling:
 1. Take 15-30 g Pork
 1. Get 30-50 g Cabbage
-1. Prepare  Salt & Pepper little
+1. Prepare  Salt &amp; Pepper little
 1. Make ready  Soy sauce little
 
 
@@ -89,7 +89,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can h
 1. Keep mixing it until you see the dough already round in shape. Now you can add the veggie oil into the dough. Mix it well again! (*You might feel the dough cannot absorb the oil at first, but keep mixing it til the dough finally absorb the veggie oil)
 1. Now the dough becomes round and smooth, you can put excessive flour on the bottom of the bowl and put the dough inside and start the first resting! (You are suggested to put a plastic wipe or wet clean towel cover the dough to keep the moisture)
 1. How do we know the first resting done? Obviously, you will see the dough become 2 times bigger after resting. Or you can press the dough down with one finger, if you see the hole did not pump back, you will realize the first resting is done.
-1. During the first resting time, you can prepare the filling! Chop the pork into small pieces or blend it, put little bit of salt & pepper and mix it well. Clean the cabbage and chop it into small pieces. Get your pan nice and hot, and fry the pork first and then add cabbage and keep mixing it. When it almost done, all little bit of soy sauce and keep cooking it until it goes dry. (*It is ok to make the pork more salty than normal; because it tastes fine after adding into the dough and steam it.)
+1. During the first resting time, you can prepare the filling! Chop the pork into small pieces or blend it, put little bit of salt &amp; pepper and mix it well. Clean the cabbage and chop it into small pieces. Get your pan nice and hot, and fry the pork first and then add cabbage and keep mixing it. When it almost done, all little bit of soy sauce and keep cooking it until it goes dry. (*It is ok to make the pork more salty than normal; because it tastes fine after adding into the dough and steam it.)
 1. After cooking the filling, we can start knead the dough! Get your table ready, put some flour on it. Use you dominant hand to press the dough and gently push it away from your body and fold, repeat it a few times.
 1. Keep kneading the dough to remove excessive air, fold it and press down. until the dough becomes round and smooth again. Cut it into several pieces, and ready to put the filling on the small dough.
 1. Make the dough thin and gently put the filling and fold the dough into a round shape or any shapes you want. (Make sure the dough covers all the fillings) Then rest for 15-30mins as second resting.

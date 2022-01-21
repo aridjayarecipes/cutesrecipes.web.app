@@ -44,7 +44,7 @@ recipecategory: Dinner
 
 Hey everyone, it's Louise, welcome to my recipe site. Today, I will show you a way to make a special dish, white cocktail. One of my favorites. For mine, I am going to make it a bit unique. This will be really delicious.
 
-A White Russian (Russian: Белый Русский, romanized: Vel'iy Russkiy) is a cocktail made with vodka, coffee liqueur (e.g., Kahlúa or Tia Maria) and cream served with ice in an Old Fashioned glass. White Lady (also known as a Delilah, or Chelsea Side-car) is a classic cocktail that is made with gin, cointreau or Triple Sec, fresh lemon juice and an optional egg white. It belongs to the sidecar family, made with gin in place of brandy. It originally featured crème de menthe. Дорого vs Дёшево — БЕЛЫЙ РУССКИЙ / White Russian.
+A White Russian (Russian: Белый Русский, romanized: Vel&#39;iy Russkiy) is a cocktail made with vodka, coffee liqueur (e.g., Kahlúa or Tia Maria) and cream served with ice in an Old Fashioned glass. White Lady (also known as a Delilah, or Chelsea Side-car) is a classic cocktail that is made with gin, cointreau or Triple Sec, fresh lemon juice and an optional egg white. It belongs to the sidecar family, made with gin in place of brandy. It originally featured crème de menthe. Дорого vs Дёшево — БЕЛЫЙ РУССКИЙ / White Russian.
 
 White cocktail is one of the most well liked of recent trending foods in the world. It's enjoyed by millions daily. It is simple, it's fast, it tastes delicious. They're nice and they look wonderful. White cocktail is something which I've loved my whole life.
 

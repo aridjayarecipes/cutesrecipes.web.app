@@ -40,7 +40,7 @@ Hey everyone, it is Jim, welcome to my recipe site. Today, I will show you a way
 
 Pomegranate milkshake is one of the most favored of recent trending foods on earth. It is easy, it's fast, it tastes yummy. It's enjoyed by millions daily. They're nice and they look fantastic. Pomegranate milkshake is something which I've loved my whole life.
 
-Pomegranate Milkshake recipe is a healthy and delicious milkshake using pomegranates. Pomegranate milkshake is a simple milkshake with pomegranate seeds, milk and vanilla ice cream. If you don't like to eat the pomegranate seeds as such like me. Pomegranate Milkshake is a delicious and yummy shake.
+Pomegranate Milkshake recipe is a healthy and delicious milkshake using pomegranates. Pomegranate milkshake is a simple milkshake with pomegranate seeds, milk and vanilla ice cream. If you don&#39;t like to eat the pomegranate seeds as such like me. Pomegranate Milkshake is a delicious and yummy shake.
 
 
 To get started with this recipe, we have to first prepare a few components. You can cook pomegranate milkshake using 4 ingredients and 2 steps. Here is how you cook it.

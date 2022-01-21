@@ -16,11 +16,11 @@ recipeingredient:
 - "1 glass water"
 - "1 big pomegranate"
 recipeinstructions:
-- "Cut the pomegranate & take the seeds in a bowl."
-- "Put the seeds the mixer.Add 1 glass of water & blend 2-3 times."
-- "Stain with stainer& keep the juice aside."
+- "Cut the pomegranate &amp; take the seeds in a bowl."
+- "Put the seeds the mixer.Add 1 glass of water &amp; blend 2-3 times."
+- "Stain with stainer&amp; keep the juice aside."
 - "Grind the beetroot with 1/4 cup of water to a smooth paste.Stain using a stainer.press as much as possible. Beetroot juice is ready."
-- "Now mix pomegranate,beetroot & lemon juice together. Add ice cubes according to need.Serve chilled."
+- "Now mix pomegranate,beetroot &amp; lemon juice together. Add ice cubes according to need.Serve chilled."
 categories:
 - Recipe
 tags:
@@ -54,7 +54,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have po
 
 ##### The ingredients needed to make Pomegranates Beetroot Juice:
 
-1. Take 1 peeled & chopped beetroot
+1. Take 1 peeled &amp; chopped beetroot
 1. Get 2 tsp lemon juice
 1. Prepare to taste Ice cubes
 1. Take 1 glass water
@@ -67,11 +67,11 @@ To begin with this recipe, we have to prepare a few ingredients. You can have po
 
 ##### Steps to make Pomegranates Beetroot Juice:
 
-1. Cut the pomegranate & take the seeds in a bowl.
-1. Put the seeds the mixer.Add 1 glass of water & blend 2-3 times.
-1. Stain with stainer& keep the juice aside.
+1. Cut the pomegranate &amp; take the seeds in a bowl.
+1. Put the seeds the mixer.Add 1 glass of water &amp; blend 2-3 times.
+1. Stain with stainer&amp; keep the juice aside.
 1. Grind the beetroot with 1/4 cup of water to a smooth paste.Stain using a stainer.press as much as possible. Beetroot juice is ready.
-1. Now mix pomegranate,beetroot & lemon juice together. Add ice cubes according to need.Serve chilled.
+1. Now mix pomegranate,beetroot &amp; lemon juice together. Add ice cubes according to need.Serve chilled.
 
 
 

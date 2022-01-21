@@ -1,6 +1,6 @@
 ---
-description: "Easiest Way to Prepare Any-night-of-the-week Black bean &amp; spinach couscous with baked shrimp"
-title: "Easiest Way to Prepare Any-night-of-the-week Black bean &amp; spinach couscous with baked shrimp"
+description: "Easiest Way to Prepare Any-night-of-the-week Black bean &amp;amp; spinach couscous with baked shrimp"
+title: "Easiest Way to Prepare Any-night-of-the-week Black bean &amp;amp; spinach couscous with baked shrimp"
 slug: 2392-easiest-way-to-prepare-any-night-of-the-week-black-bean-and-amp-spinach-couscous-with-baked-shrimp
 date: 2021-10-08T21:47:50.485Z
 image: https://img-global.cpcdn.com/recipes/5415290058833920/680x482cq70/black-bean-spinach-couscous-with-baked-shrimp-recipe-main-photo.jpg
@@ -47,20 +47,20 @@ recipecategory: Dinner
 ---
 
 
-![Black bean & spinach couscous with baked shrimp](https://img-global.cpcdn.com/recipes/5415290058833920/680x482cq70/black-bean-spinach-couscous-with-baked-shrimp-recipe-main-photo.jpg)
+![Black bean &amp; spinach couscous with baked shrimp](https://img-global.cpcdn.com/recipes/5415290058833920/680x482cq70/black-bean-spinach-couscous-with-baked-shrimp-recipe-main-photo.jpg)
 
-Hello everybody, it is Louise, welcome to our recipe site. Today, we're going to make a special dish, black bean & spinach couscous with baked shrimp. One of my favorites. For mine, I'm gonna make it a little bit unique. This is gonna smell and look delicious.
+Hello everybody, it is Louise, welcome to our recipe site. Today, we're going to make a special dish, black bean &amp; spinach couscous with baked shrimp. One of my favorites. For mine, I'm gonna make it a little bit unique. This is gonna smell and look delicious.
 
-Black bean & spinach couscous with baked shrimp is one of the most well liked of current trending foods on earth. It's appreciated by millions daily. It is simple, it's fast, it tastes delicious. Black bean & spinach couscous with baked shrimp is something that I've loved my whole life. They are fine and they look fantastic.
+Black bean &amp; spinach couscous with baked shrimp is one of the most well liked of current trending foods on earth. It's appreciated by millions daily. It is simple, it's fast, it tastes delicious. Black bean &amp; spinach couscous with baked shrimp is something that I've loved my whole life. They are fine and they look fantastic.
 
 Black bean may refer to: Black adzuki bean, a variety of adzuki bean in Korean cuisine. Black gram (Vigna mungo), a variety of gram (lentil) in South Asian cuisine. Black soybean, in East Asian cuisine. Fermented black beans (douchi) used in Chinese cuisine.
 
 
-To get started with this recipe, we have to prepare a few components. You can cook black bean & spinach couscous with baked shrimp using 11 ingredients and 7 steps. Here is how you can achieve that.
+To get started with this recipe, we have to prepare a few components. You can cook black bean &amp; spinach couscous with baked shrimp using 11 ingredients and 7 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Black bean & spinach couscous with baked shrimp:
+##### The ingredients needed to make Black bean &amp; spinach couscous with baked shrimp:
 
 1. Make ready  For the shrimp
 1. Make ready 1 lb peeled and deveined shrimp (raw)
@@ -79,7 +79,7 @@ Black beans make a great addition to salads and chili or on their own as a side 
 
 <!--inarticleads2-->
 
-##### Steps to make Black bean & spinach couscous with baked shrimp:
+##### Steps to make Black bean &amp; spinach couscous with baked shrimp:
 
 1. Preheat oven to 350°
 1. Melt butter in microwave and pour onto foil lined cookie sheet. Place sliced lemon on top followed by shrimp.
@@ -92,4 +92,4 @@ Black beans make a great addition to salads and chili or on their own as a side 
 
 A dried seed of a black bean plant. A dried black seed of certain varieties of the common bean, Phaseolus vulgaris. A fermented soybean, used in Asian cooking. Black beans stand out from other common varieties like cannellini beans and chickpeas not just because of their striking color, but also because of how rich and practically meaty they are. Black beans have a satisfying texture and mildly sweet flavor. 
 
-So that is going to wrap it up with this exceptional food black bean & spinach couscous with baked shrimp recipe. Thanks so much for reading. I'm sure you will make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!
+So that is going to wrap it up with this exceptional food black bean &amp; spinach couscous with baked shrimp recipe. Thanks so much for reading. I'm sure you will make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

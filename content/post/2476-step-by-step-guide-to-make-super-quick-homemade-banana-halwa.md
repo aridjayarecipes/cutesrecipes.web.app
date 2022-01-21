@@ -23,7 +23,7 @@ recipeinstructions:
 - "In the same pan, add the banana paste and cook for 5-7 mins."
 - "In a glass, mix corn flour with 1/4 cup water to make thin paste. Add this mixture to the banana pan and stir well continuously without forming lumps."
 - "Add jaggery and cook it until the halwa becomes thick. Add the roasted nuts, cardomom powder,2 tbsp ghee and mix well."
-- "Once it is reduced to half quantity and doesn't stick to the sides, switch off the flame."
+- "Once it is reduced to half quantity and doesn&#39;t stick to the sides, switch off the flame."
 - "Apply ghee on a tray and pour the halwa into it. Use a spoon with ghee on back side and level it nicely to get perfect shape."
 - "Once it is cooled down for 30 mins,cut them into small pieces and serve the most Delicious Tasty n Healthy Banana Halwa to your family 😊😋"
 categories:
@@ -78,7 +78,7 @@ To begin with this recipe, we must prepare a few components. You can cook banana
 1. In the same pan, add the banana paste and cook for 5-7 mins.
 1. In a glass, mix corn flour with 1/4 cup water to make thin paste. Add this mixture to the banana pan and stir well continuously without forming lumps.
 1. Add jaggery and cook it until the halwa becomes thick. Add the roasted nuts, cardomom powder,2 tbsp ghee and mix well.
-1. Once it is reduced to half quantity and doesn't stick to the sides, switch off the flame.
+1. Once it is reduced to half quantity and doesn&#39;t stick to the sides, switch off the flame.
 1. Apply ghee on a tray and pour the halwa into it. Use a spoon with ghee on back side and level it nicely to get perfect shape.
 1. Once it is cooled down for 30 mins,cut them into small pieces and serve the most Delicious Tasty n Healthy Banana Halwa to your family 😊😋
 

@@ -47,7 +47,7 @@ recipecategory: Dinner
 
 Hello everybody, it's Drew, welcome to my recipe site. Today, I'm gonna show you how to make a distinctive dish, brussels sprouts in veggie sauce and egg, with basil. It is one of my favorites. This time, I will make it a bit unique. This is gonna smell and look delicious.
 
-Prepare the Veggie sauce: cut the eggplant is slices and fry it on a little oil, salt it. Rustle up tasty Brussels sprout dishes, like roasted Brussels sprouts and Brussels sprouts with bacon, with our top recipes for a very healthy, versatile veggie. Make slouchy basil a thing of the past — here's how to store it so it stays fresh for as long as possible. My favorite classic Roasted Brussels Sprouts recipe!
+Prepare the Veggie sauce: cut the eggplant is slices and fry it on a little oil, salt it. Rustle up tasty Brussels sprout dishes, like roasted Brussels sprouts and Brussels sprouts with bacon, with our top recipes for a very healthy, versatile veggie. Make slouchy basil a thing of the past — here&#39;s how to store it so it stays fresh for as long as possible. My favorite classic Roasted Brussels Sprouts recipe!
 
 Brussels Sprouts in Veggie Sauce and Egg, with Basil is one of the most popular of recent trending foods on earth. It is easy, it is quick, it tastes delicious. It is appreciated by millions daily. Brussels Sprouts in Veggie Sauce and Egg, with Basil is something which I've loved my entire life. They are fine and they look wonderful.
 

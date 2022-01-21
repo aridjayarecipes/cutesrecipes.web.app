@@ -67,7 +67,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Get  Pani has be zarurat
 
 
-Nothing says comfort like a warm bowl of soup, and you'll be comforted to know that these healthy soup recipes won't contribute to a winter bulge. Homemade soup is a better choice than canned soup, however, because canned soup often A warm bowl of soup can hit the spot on a cold day. It can also be a healthy way to start off a meal. Healthy Soup are chock-full of nutrients if cooked wisely with quality ingredients and smart cooking techniques. 
+Nothing says comfort like a warm bowl of soup, and you&#39;ll be comforted to know that these healthy soup recipes won&#39;t contribute to a winter bulge. Homemade soup is a better choice than canned soup, however, because canned soup often A warm bowl of soup can hit the spot on a cold day. It can also be a healthy way to start off a meal. Healthy Soup are chock-full of nutrients if cooked wisely with quality ingredients and smart cooking techniques. 
 
 <!--inarticleads2-->
 

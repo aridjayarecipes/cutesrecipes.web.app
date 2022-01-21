@@ -53,7 +53,7 @@ Hello everybody, I hope you're having an incredible day today. Today, I'm gonna 
 
 Cheesy banana chickpeas Paratha with peanut chutney is one of the most favored of current trending meals on earth. It is appreciated by millions daily. It is easy, it's fast, it tastes delicious. They're fine and they look fantastic. Cheesy banana chickpeas Paratha with peanut chutney is something that I've loved my entire life.
 
-A satisfying, plant-based treat with plenty of fiber. Learn how to make Chicken Paratha Roll with White Sauce (Chatni). Very easy step by step video recipe. Enjoy this homemade roll paratha with it's special white sauce and ketchup.
+A satisfying, plant-based treat with plenty of fiber. Learn how to make Chicken Paratha Roll with White Sauce (Chatni). Very easy step by step video recipe. Enjoy this homemade roll paratha with it&#39;s special white sauce and ketchup.
 
 
 To begin with this recipe, we have to prepare a few components. You can have cheesy banana chickpeas paratha with peanut chutney using 13 ingredients and 5 steps. Here is how you cook that.
@@ -63,7 +63,7 @@ To begin with this recipe, we have to prepare a few components. You can have che
 ##### The ingredients needed to make Cheesy banana chickpeas Paratha with peanut chutney:
 
 1. Take 1 cup flour
-1. Take 2 boiled & smashed bananas
+1. Take 2 boiled &amp; smashed bananas
 1. Prepare 1 cup chickpeas (soaked for 12 hours and then boiled)
 1. Get 4 green chillies
 1. Prepare 1 tsp chat Masala
@@ -77,7 +77,7 @@ To begin with this recipe, we have to prepare a few components. You can have che
 1. Take 4 cubes Cheese
 
 
-Here is how you cook it. Crush the peanuts with icing sugar in a mixer. Make sure not to over pulse as peanuts may leave it's oil. Put sugar in a non stick pan on medium. 
+Here is how you cook it. Crush the peanuts with icing sugar in a mixer. Make sure not to over pulse as peanuts may leave it&#39;s oil. Put sugar in a non stick pan on medium. 
 
 <!--inarticleads2-->
 
@@ -90,6 +90,6 @@ Here is how you cook it. Crush the peanuts with icing sugar in a mixer. Make sur
 1. Chickpeas peanut cheese banana paratha is ready.
 
 
-Make sure not to over pulse as peanuts may leave it's oil. Put sugar in a non stick pan on medium. Red chickpea salad High protein salad Corn and peas creamy salad Sprouted Horsegram sundal. Crispy paneer dosa Dhirdi(G) Blueberry banana pineseed pancake (G) Tomato cheela Onion oats Onion paratha Onion cheese paratha Mughlai paratha Corn Paratha (G) Rajma Paratha Chana dal. Fresh Chickpeas Paratha Recipe Author: Prathibha 
+Make sure not to over pulse as peanuts may leave it&#39;s oil. Put sugar in a non stick pan on medium. Red chickpea salad High protein salad Corn and peas creamy salad Sprouted Horsegram sundal. Crispy paneer dosa Dhirdi(G) Blueberry banana pineseed pancake (G) Tomato cheela Onion oats Onion paratha Onion cheese paratha Mughlai paratha Corn Paratha (G) Rajma Paratha Chana dal. Fresh Chickpeas Paratha Recipe Author: Prathibha 
 
 So that is going to wrap this up with this exceptional food cheesy banana chickpeas paratha with peanut chutney recipe. Thanks so much for reading. I am sure that you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -18,7 +18,7 @@ recipeingredient:
 - " Pomegranate"
 - " Pine nuts"
 recipeinstructions:
-- "Season the salmon with salt & pepper then sear"
+- "Season the salmon with salt &amp; pepper then sear"
 - "Prepare the salad"
 categories:
 - Recipe
@@ -54,7 +54,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 ##### The ingredients needed to make Seared Salmon Steak:
 
 1. Get  Salmon Steak
-1. Prepare  Salt & pepper
+1. Prepare  Salt &amp; pepper
 1. Take  Butter and olive oil
 1. Make ready  Salad
 1. Take  Arugula
@@ -68,7 +68,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 
 ##### Instructions to make Seared Salmon Steak:
 
-1. Season the salmon with salt & pepper then sear
+1. Season the salmon with salt &amp; pepper then sear
 1. Prepare the salad
 
 

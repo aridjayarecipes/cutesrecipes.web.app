@@ -54,9 +54,9 @@ recipeinstructions:
 - "Add tomatoes and fry till cooked well."
 - "Add boiled chana and mix."
 - "In a thick bottom pan or a cooker we will have to cook the biryani on low flame. I am using my 5 litre cooker for this."
-- "Grease the bottom of the cooker with some oil. So masalas doesn't burn from bottom."
+- "Grease the bottom of the cooker with some oil. So masalas doesn&#39;t burn from bottom."
 - "Layer chana masala, rice, ghee, mint leaves and saffron milk. Cover the cooker and cook for 8-10 minutes."
-- "There is no particular order. You may layer as you wish to. Also if you don't have a heavy bottom pan. Keep a skillet on the burner and place you biryani pot over it."
+- "There is no particular order. You may layer as you wish to. Also if you don&#39;t have a heavy bottom pan. Keep a skillet on the burner and place you biryani pot over it."
 - "I arranged in 2 layers. So that last layer is of rice. You can also mix some food colour with milk and pour it.over the rice. So you will get colourful biryani. But is for add any."
 - "Your biryani is ready to serve. Enjoy your Shahi Chana Masala Biryani with salted buttermilk and salad."
 - "I served in earthen pots to give earthy look. They can also be kept in oven for heating."
@@ -146,9 +146,9 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Add tomatoes and fry till cooked well.
 1. Add boiled chana and mix.
 1. In a thick bottom pan or a cooker we will have to cook the biryani on low flame. I am using my 5 litre cooker for this.
-1. Grease the bottom of the cooker with some oil. So masalas doesn't burn from bottom.
+1. Grease the bottom of the cooker with some oil. So masalas doesn&#39;t burn from bottom.
 1. Layer chana masala, rice, ghee, mint leaves and saffron milk. Cover the cooker and cook for 8-10 minutes.
-1. There is no particular order. You may layer as you wish to. Also if you don't have a heavy bottom pan. Keep a skillet on the burner and place you biryani pot over it.
+1. There is no particular order. You may layer as you wish to. Also if you don&#39;t have a heavy bottom pan. Keep a skillet on the burner and place you biryani pot over it.
 1. I arranged in 2 layers. So that last layer is of rice. You can also mix some food colour with milk and pour it.over the rice. So you will get colourful biryani. But is for add any.
 1. Your biryani is ready to serve. Enjoy your Shahi Chana Masala Biryani with salted buttermilk and salad.
 1. I served in earthen pots to give earthy look. They can also be kept in oven for heating.

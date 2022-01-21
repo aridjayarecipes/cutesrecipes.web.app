@@ -1,6 +1,6 @@
 ---
-description: "How to Prepare Ultimate Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit &amp; Mint"
-title: "How to Prepare Ultimate Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit &amp; Mint"
+description: "How to Prepare Ultimate Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit &amp;amp; Mint"
+title: "How to Prepare Ultimate Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit &amp;amp; Mint"
 slug: 2261-how-to-prepare-ultimate-spicy-tamarind-glazed-wagyu-top-sirloin-with-stone-fruit-and-amp-mint
 date: 2021-11-11T01:45:18.304Z
 image: https://img-global.cpcdn.com/recipes/d7516f697eefb348/680x482cq70/spicy-tamarind-glazed-wagyu-top-sirloin-with-stone-fruit-mint-recipe-main-photo.jpg
@@ -52,20 +52,20 @@ recipecategory: Dessert
 ---
 
 
-![Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit & Mint](https://img-global.cpcdn.com/recipes/d7516f697eefb348/680x482cq70/spicy-tamarind-glazed-wagyu-top-sirloin-with-stone-fruit-mint-recipe-main-photo.jpg)
+![Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit &amp; Mint](https://img-global.cpcdn.com/recipes/d7516f697eefb348/680x482cq70/spicy-tamarind-glazed-wagyu-top-sirloin-with-stone-fruit-mint-recipe-main-photo.jpg)
 
-Hey everyone, I hope you are having an incredible day today. Today, I will show you a way to make a special dish, spicy tamarind glazed wagyu top sirloin with stone fruit & mint. One of my favorites food recipes. This time, I am going to make it a little bit unique. This is gonna smell and look delicious.
-
-
-
-Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit & Mint is one of the most popular of recent trending foods in the world. It's easy, it is fast, it tastes delicious. It's appreciated by millions daily. Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit & Mint is something that I've loved my entire life. They're fine and they look wonderful.
+Hey everyone, I hope you are having an incredible day today. Today, I will show you a way to make a special dish, spicy tamarind glazed wagyu top sirloin with stone fruit &amp; mint. One of my favorites food recipes. This time, I am going to make it a little bit unique. This is gonna smell and look delicious.
 
 
-To begin with this recipe, we have to first prepare a few components. You can have spicy tamarind glazed wagyu top sirloin with stone fruit & mint using 18 ingredients and 5 steps. Here is how you can achieve it.
+
+Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit &amp; Mint is one of the most popular of recent trending foods in the world. It's easy, it is fast, it tastes delicious. It's appreciated by millions daily. Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit &amp; Mint is something that I've loved my entire life. They're fine and they look wonderful.
+
+
+To begin with this recipe, we have to first prepare a few components. You can have spicy tamarind glazed wagyu top sirloin with stone fruit &amp; mint using 18 ingredients and 5 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit & Mint:
+##### The ingredients needed to make Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit &amp; Mint:
 
 1. Make ready 1 Double 8 Cattle Company Top Sirloin Steak
 1. Make ready 1/2 CUP Tamarind Concentrate
@@ -91,7 +91,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 
 <!--inarticleads2-->
 
-##### Steps to make Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit & Mint:
+##### Steps to make Spicy Tamarind Glazed Wagyu Top Sirloin with Stone Fruit &amp; Mint:
 
 1. PREPARING THE SPICY TAMARIND GLAZE - Combine the tamarind concentrate, brown sugar, soy sauce, sesame oil, chili flake, rice vinegar, ground ginger, and minced garlic together in a bowl. Mix until combined, and set aside. This is your glaze that will be used while the steak is cooking/grilling.
 1. COOKING THE FULLBLOOD WAGYU TOP SIRLOIN STEAK - Preheat your grill to 400°F degrees. Season the steak generously with salt and freshly ground black pepper. Lightly brush the grill grates with oil, and place the steak on the grill. Cook the steak for 10-12 minutes per side or until an internal temperature of at least 120°F degrees is reached. While the steak is cooking, glaze the top and bottom of the steak constantly by brushing the glaze on the steak.
@@ -102,4 +102,4 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 
 
 
-So that's going to wrap this up with this exceptional food spicy tamarind glazed wagyu top sirloin with stone fruit & mint recipe. Thanks so much for your time. I am sure that you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!
+So that's going to wrap this up with this exceptional food spicy tamarind glazed wagyu top sirloin with stone fruit &amp; mint recipe. Thanks so much for your time. I am sure that you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

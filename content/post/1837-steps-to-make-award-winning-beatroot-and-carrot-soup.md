@@ -48,7 +48,7 @@ Hello everybody, it is John, welcome to my recipe page. Today, I will show you a
 
 Beatroot and carrot soup is one of the most popular of current trending foods in the world. It is easy, it's quick, it tastes yummy. It is enjoyed by millions daily. They are nice and they look wonderful. Beatroot and carrot soup is something which I have loved my entire life.
 
-See recipes for Chinese Beetroot & Carrot Soup too. The rich colour and satisfying flavour of this elegant wintry soup make it the perfect choice for Christmas Day. It's really easy to make and best of all it'. Wearing gloves, peel and chop beetroot.
+See recipes for Chinese Beetroot &amp; Carrot Soup too. The rich colour and satisfying flavour of this elegant wintry soup make it the perfect choice for Christmas Day. It&#39;s really easy to make and best of all it&#39;. Wearing gloves, peel and chop beetroot.
 
 
 To begin with this particular recipe, we must prepare a few components. You can have beatroot and carrot soup using 10 ingredients and 3 steps. Here is how you cook that.
@@ -69,7 +69,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Prepare 1 tsp olive oil
 
 
-A perfect winter soup recipe, rich in vitamins and minerals. Both carrot and beetroot are winter-special foods, so you'll get them all-fresh this season. Learn how to make Healthy Beetroot Carrot Soup at home with Chef Slurp on this hot Beetroot & Carrot soup on a winter evening. Hello everybody, hope you are having an incredible day today. 
+A perfect winter soup recipe, rich in vitamins and minerals. Both carrot and beetroot are winter-special foods, so you&#39;ll get them all-fresh this season. Learn how to make Healthy Beetroot Carrot Soup at home with Chef Slurp on this hot Beetroot &amp; Carrot soup on a winter evening. Hello everybody, hope you are having an incredible day today. 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ A perfect winter soup recipe, rich in vitamins and minerals. Both carrot and bee
 1. Put you hand blender into the cooker blend it all into a fine paste. All some lime juice or cream. Serve it hot.
 
 
-Learn how to make Healthy Beetroot Carrot Soup at home with Chef Slurp on this hot Beetroot & Carrot soup on a winter evening. Hello everybody, hope you are having an incredible day today. This easy soup recipe is made with beetroot, cumin and carrots for a hearty and warming winter meal. For more soup recipes, head to Tesco Real Food. Put the carrot, beetroot, onion and garlic in a shallow roasting tray. 
+Learn how to make Healthy Beetroot Carrot Soup at home with Chef Slurp on this hot Beetroot &amp; Carrot soup on a winter evening. Hello everybody, hope you are having an incredible day today. This easy soup recipe is made with beetroot, cumin and carrots for a hearty and warming winter meal. For more soup recipes, head to Tesco Real Food. Put the carrot, beetroot, onion and garlic in a shallow roasting tray. 
 
 So that is going to wrap it up with this special food beatroot and carrot soup recipe. Thank you very much for your time. I am confident that you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

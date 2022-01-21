@@ -90,7 +90,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Prepare  Hot salsa. Check my recipes           (see recipe)
 
 
-Betty Crocker™ No-Bake Cookie Dough Bites, Betty Crocker™ Dessert Decorating & Specialty Products. Brined Half Chicken pan roasted until golden brown served with sweet corn succotash, roasted zucchini and savory roasted chicken pan jus. Savory Omelette filled with slow roasted rosemary ham and crescenza cheese served with arugula and tomato salad and crispy hash potatoes. Serve eggs over reheated leftover Roasted Sweet Potato Salsa. 
+Betty Crocker™ No-Bake Cookie Dough Bites, Betty Crocker™ Dessert Decorating &amp; Specialty Products. Brined Half Chicken pan roasted until golden brown served with sweet corn succotash, roasted zucchini and savory roasted chicken pan jus. Savory Omelette filled with slow roasted rosemary ham and crescenza cheese served with arugula and tomato salad and crispy hash potatoes. Serve eggs over reheated leftover Roasted Sweet Potato Salsa. 
 
 <!--inarticleads2-->
 

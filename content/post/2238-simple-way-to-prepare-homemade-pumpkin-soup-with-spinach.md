@@ -46,7 +46,7 @@ recipecategory: Dessert
 
 Hello everybody, it is John, welcome to our recipe page. Today, I'm gonna show you how to prepare a distinctive dish, pumpkin soup with spinach. One of my favorites food recipes. This time, I am going to make it a little bit unique. This is gonna smell and look delicious.
 
-A classic, super easy pumpkin soup that's fast to make. Thick, creamy and dreamy, with sweet pumpkin flavour and great savoury undertones! It's just a great EASY Pumpkin Soup recipe, a classic version that has everything it needs and nothing it doesn't to be can't-stop-eating-it delicious! The perfect pumpkin - spinach - soup recipe with a picture and simple step-by-step instructions.
+A classic, super easy pumpkin soup that&#39;s fast to make. Thick, creamy and dreamy, with sweet pumpkin flavour and great savoury undertones! It&#39;s just a great EASY Pumpkin Soup recipe, a classic version that has everything it needs and nothing it doesn&#39;t to be can&#39;t-stop-eating-it delicious! The perfect pumpkin - spinach - soup recipe with a picture and simple step-by-step instructions.
 
 Pumpkin soup with spinach is one of the most popular of recent trending meals on earth. It's easy, it's quick, it tastes delicious. It's enjoyed by millions every day. They're fine and they look fantastic. Pumpkin soup with spinach is something that I've loved my whole life.
 

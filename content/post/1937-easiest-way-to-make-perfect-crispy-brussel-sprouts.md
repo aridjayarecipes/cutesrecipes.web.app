@@ -17,7 +17,7 @@ recipeingredient:
 recipeinstructions:
 - "Rinse Brussels"
 - "Cut brussels in half and cut off stocks"
-- "Put in a bowl add olive oil (or oil of choice) I also add a little butter for flavor. Little goes a long way... Don't want them soggy"
+- "Put in a bowl add olive oil (or oil of choice) I also add a little butter for flavor. Little goes a long way... Don&#39;t want them soggy"
 - "Add seasoning, sea salt, pepper and garlic powder. Cook in oven preaheated to 475° for 15 min"
 - "Cut up lemon for garnish and squeeze lemon juice. Flips brussels over. Cook till liking I usually add another ten minutes"
 - "Enjoy😊"
@@ -45,7 +45,7 @@ Hey everyone, it is Drew, welcome to my recipe site. Today, we're going to prepa
 
 Crispy brussel sprouts is one of the most popular of current trending meals on earth. It is appreciated by millions daily. It is easy, it's quick, it tastes yummy. They are nice and they look wonderful. Crispy brussel sprouts is something which I have loved my entire life.
 
-The most amazing Roasted Brussels Sprouts are golden and CRISPY with a crunchy garlic parmesan crust! Ridiculously easy and mouthwateringly good, this is sure to become your. Here's my secret to making crispy brussel sprouts! I received a lot of requests for this recipe and I am glad to finally share it with you.
+The most amazing Roasted Brussels Sprouts are golden and CRISPY with a crunchy garlic parmesan crust! Ridiculously easy and mouthwateringly good, this is sure to become your. Here&#39;s my secret to making crispy brussel sprouts! I received a lot of requests for this recipe and I am glad to finally share it with you.
 
 
 To begin with this particular recipe, we must prepare a few ingredients. You can cook crispy brussel sprouts using 4 ingredients and 6 steps. Here is how you cook that.
@@ -68,12 +68,12 @@ This tasty recipe is a great side While the croutons cook, place the Brussels sp
 
 1. Rinse Brussels
 1. Cut brussels in half and cut off stocks
-1. Put in a bowl add olive oil (or oil of choice) I also add a little butter for flavor. Little goes a long way... Don't want them soggy
+1. Put in a bowl add olive oil (or oil of choice) I also add a little butter for flavor. Little goes a long way... Don&#39;t want them soggy
 1. Add seasoning, sea salt, pepper and garlic powder. Cook in oven preaheated to 475° for 15 min
 1. Cut up lemon for garnish and squeeze lemon juice. Flips brussels over. Cook till liking I usually add another ten minutes
 1. Enjoy😊
 
 
-However, I have never been able to find a recipe for roasted sprouts that brown and crisp. The best crispy brussels sprouts that are sweet, spicy, savory and oh so addicting! Crispy roasted brussel sprouts are the quintessential fall side dish that you are going to master - promise! These are simple, healthy, flavorful, and perfect every single time. Here's how to make the best crispy roasted brussels sprouts in the oven, that are perfectly golden and. 
+However, I have never been able to find a recipe for roasted sprouts that brown and crisp. The best crispy brussels sprouts that are sweet, spicy, savory and oh so addicting! Crispy roasted brussel sprouts are the quintessential fall side dish that you are going to master - promise! These are simple, healthy, flavorful, and perfect every single time. Here&#39;s how to make the best crispy roasted brussels sprouts in the oven, that are perfectly golden and. 
 
 So that's going to wrap it up with this special food crispy brussel sprouts recipe. Thanks so much for reading. I am confident that you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

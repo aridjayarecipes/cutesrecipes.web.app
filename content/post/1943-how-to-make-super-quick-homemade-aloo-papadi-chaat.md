@@ -30,7 +30,7 @@ recipeinstructions:
 - "Take a bowl, mix refined flour, ajwain seeds, 2-3 tbsp oil and salt. Add water gradually and prepare a tight dough. Cover and leave it for 30 minutes."
 - "After 30 minutes, take small portion of dough and roll them with the help of some dry flour in your hands."
 - "Roll the dough ball to form large thin disc. Prick all over with fork.  Cut out small circles to form papdi of it with cutter."
-- "Take a wok & heat oil in it.  Fry the small papdis until they turn golden brown in colour."
+- "Take a wok &amp; heat oil in it.  Fry the small papdis until they turn golden brown in colour."
 - "Place the fried Papadis in a large plate. Add chopped boiled potato and green chilies over it."
 - "Spread the beaten curd all over the papdis."
 - "Now, sprinkle chutneys, salt, red chilli powder, black salt cumin and Chaat masala all over."
@@ -95,7 +95,7 @@ To begin with this recipe, we have to first prepare a few components. You can co
 1. Take a bowl, mix refined flour, ajwain seeds, 2-3 tbsp oil and salt. - Add water gradually and prepare a tight dough. Cover and leave it for 30 minutes.
 1. After 30 minutes, take small portion of dough and roll them with the help of some dry flour in your hands.
 1. Roll the dough ball to form large thin disc. Prick all over with fork.  - Cut out small circles to form papdi of it with cutter.
-1. Take a wok & heat oil in it.  - Fry the small papdis until they turn golden brown in colour.
+1. Take a wok &amp; heat oil in it.  - Fry the small papdis until they turn golden brown in colour.
 1. Place the fried Papadis in a large plate. - Add chopped boiled potato and green chilies over it.
 1. Spread the beaten curd all over the papdis.
 1. Now, sprinkle chutneys, salt, red chilli powder, black salt cumin and Chaat masala all over.

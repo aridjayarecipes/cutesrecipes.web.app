@@ -56,7 +56,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 ##### The ingredients needed to make Roasted Brussel Sprouts:
 
 1. Get 2 lbs brussel sprouts
-1. Take 4 ea thick sliced bacon (chopped 1/4"x 1/4")
+1. Take 4 ea thick sliced bacon (chopped 1/4&#34;x 1/4&#34;)
 1. Take 1/4 C olive oil
 1. Take 1 t fresh ground pepper
 1. Make ready  TT kosher salt

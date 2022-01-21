@@ -84,8 +84,8 @@ To begin with this recipe, we must prepare a few components. You can have kurkur
 1. Get as needed Water to make the batter
 1. Prepare  For garnish
 1. Make ready 1/2 cup beaten Curd
-1. Take 1/4 cup Green Chutney (Coriander & Mint)
-1. Take 1/4 cup Sweet Chutney (Date & Tamarind)
+1. Take 1/4 cup Green Chutney (Coriander &amp; Mint)
+1. Take 1/4 cup Sweet Chutney (Date &amp; Tamarind)
 1. Take as needed Nylon sev
 1. Prepare 3-4 tbsp Pomegranate kernels
 1. Take as needed Chaat masala

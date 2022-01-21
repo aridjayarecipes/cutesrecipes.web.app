@@ -45,7 +45,7 @@ recipeinstructions:
 - "Put the dry masala powders and salt mix well...Then add the chopped tomatoes and capsicum.Cook till it gets soft."
 - "Now add the cooked rice and give nice mix...See that you mix it gently....All the rice should get coated with the masala powders well."
 - "Now check salt and spices.Add if required turn off the gas."
-- "Garnish with fresh chopped coriander leaves and fried peanuts.Serve hot with raita and pickle & papad."
+- "Garnish with fresh chopped coriander leaves and fried peanuts.Serve hot with raita and pickle &amp; papad."
 - "For the Cucumber Carrot raita.Take a big bowl then whisk the curd and mix all the ingredients.Add the salt and spices.Taste it and adjust accordingly."
 - "Pack the food once it is slightly cool in their school lunch boxes."
 - "Kids will love it.as it is very healthy,filling and perfect for carrying for lunch boxes."
@@ -88,7 +88,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Take 2 Small Tomatoes cut into pieces
 1. Take 2 Big Onions finely chopped
 1. Get 2 Green chillies cut finely
-1. Make ready 1 tbsp Ginger & Garlic paste
+1. Make ready 1 tbsp Ginger &amp; Garlic paste
 1. Prepare 2 tbsp fried peanuts
 1. Prepare 1 tsp mustard seeds
 1. Make ready 1/2 tsp jeera/cumin seeds
@@ -125,7 +125,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Put the dry masala powders and salt mix well...Then add the chopped tomatoes and capsicum.Cook till it gets soft.
 1. Now add the cooked rice and give nice mix...See that you mix it gently....All the rice should get coated with the masala powders well.
 1. Now check salt and spices.Add if required turn off the gas.
-1. Garnish with fresh chopped coriander leaves and fried peanuts.Serve hot with raita and pickle & papad.
+1. Garnish with fresh chopped coriander leaves and fried peanuts.Serve hot with raita and pickle &amp; papad.
 1. For the Cucumber Carrot raita.Take a big bowl then whisk the curd and mix all the ingredients.Add the salt and spices.Taste it and adjust accordingly.
 1. Pack the food once it is slightly cool in their school lunch boxes.
 1. Kids will love it.as it is very healthy,filling and perfect for carrying for lunch boxes.

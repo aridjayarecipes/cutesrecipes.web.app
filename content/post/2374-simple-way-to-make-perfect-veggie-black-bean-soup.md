@@ -24,10 +24,10 @@ recipeingredient:
 - "1 salt  pepper"
 recipeinstructions:
 - "Soak beans in a pot of water overnight"
-- "Heat olive oil in large soup pot & cook chopped onion & pepper until soft."
-- "Add beans, veggie stock, chopped tomatoes & all other ingredients. Cover & bring to a boil. Stir & reduce heat & let simmer for an hour."
-- "With a metal laddle smash some of the beans on the bottom of the pot & stir to thicken the soup."
-- "Serve in bowl & garnish with chopped scallions, teaspoon of sour cream & chopped tortilla chips."
+- "Heat olive oil in large soup pot &amp; cook chopped onion &amp; pepper until soft."
+- "Add beans, veggie stock, chopped tomatoes &amp; all other ingredients. Cover &amp; bring to a boil. Stir &amp; reduce heat &amp; let simmer for an hour."
+- "With a metal laddle smash some of the beans on the bottom of the pot &amp; stir to thicken the soup."
+- "Serve in bowl &amp; garnish with chopped scallions, teaspoon of sour cream &amp; chopped tortilla chips."
 categories:
 - Recipe
 tags:
@@ -72,22 +72,22 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Prepare 1 tbsp worcestershire sauce
 1. Get 1 tbsp fresh lime juice
 1. Make ready 2 tbsp olive oil
-1. Get 1 salt & pepper
+1. Get 1 salt &amp; pepper
 
 
-Finish it off with queso fresco and sliced avocado for even more. Quinoa Black Bean Soup (Easy + Vegan) The Garden Grazer. · Healthy, satisfying taco salad made with black beans, fresh veggies, and taco-seasoned chickpea-walnut crumbles. Then tossed in an easy & flavorful southwestern style dressing. 
+Finish it off with queso fresco and sliced avocado for even more. Quinoa Black Bean Soup (Easy + Vegan) The Garden Grazer. · Healthy, satisfying taco salad made with black beans, fresh veggies, and taco-seasoned chickpea-walnut crumbles. Then tossed in an easy &amp; flavorful southwestern style dressing. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Veggie Black Bean Soup:
 
 1. Soak beans in a pot of water overnight
-1. Heat olive oil in large soup pot & cook chopped onion & pepper until soft.
-1. Add beans, veggie stock, chopped tomatoes & all other ingredients. Cover & bring to a boil. Stir & reduce heat & let simmer for an hour.
-1. With a metal laddle smash some of the beans on the bottom of the pot & stir to thicken the soup.
-1. Serve in bowl & garnish with chopped scallions, teaspoon of sour cream & chopped tortilla chips.
+1. Heat olive oil in large soup pot &amp; cook chopped onion &amp; pepper until soft.
+1. Add beans, veggie stock, chopped tomatoes &amp; all other ingredients. Cover &amp; bring to a boil. Stir &amp; reduce heat &amp; let simmer for an hour.
+1. With a metal laddle smash some of the beans on the bottom of the pot &amp; stir to thicken the soup.
+1. Serve in bowl &amp; garnish with chopped scallions, teaspoon of sour cream &amp; chopped tortilla chips.
 
 
-The Garden Grazer. · Healthy, satisfying taco salad made with black beans, fresh veggies, and taco-seasoned chickpea-walnut crumbles. Then tossed in an easy & flavorful southwestern style dressing. These uber flavorful Quinoa Black Bean Veggie Burgers are spiked with garlic and onion and topped with yellow mustard and Sriracha mayo for the ultimate veggie burger experience. I'm really digging the texture from the fresh veggies, fluffy quinoa, and oats. Pile on your favorite toppings and get ready to. 
+The Garden Grazer. · Healthy, satisfying taco salad made with black beans, fresh veggies, and taco-seasoned chickpea-walnut crumbles. Then tossed in an easy &amp; flavorful southwestern style dressing. These uber flavorful Quinoa Black Bean Veggie Burgers are spiked with garlic and onion and topped with yellow mustard and Sriracha mayo for the ultimate veggie burger experience. I&#39;m really digging the texture from the fresh veggies, fluffy quinoa, and oats. Pile on your favorite toppings and get ready to. 
 
 So that's going to wrap it up for this special food veggie black bean soup recipe. Thanks so much for your time. I'm sure you will make this at home. There's gonna be interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

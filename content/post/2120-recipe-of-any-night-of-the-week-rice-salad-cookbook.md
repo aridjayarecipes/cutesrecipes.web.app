@@ -20,10 +20,10 @@ recipeingredient:
 - "1 lemon juice"
 - "1/4 cup dry fruits"
 recipeinstructions:
-- "Cut sweet potatoes into small cubes. Mix with 1 tbsp of olive oil, few rosemary leaves & 1/4 tsp of pepper & bake them at 425F for 15 mins."
-- "In the mean time cook rice in a separate bowl. While that’s been cooked sauté the shaved sprouts in a diff pan with lil bit of olive oil for 1 min just to give a gloss & soften the edges. Add salt & pepper to taste."
-- "In a same pan roast some cranberries or raisins & cashews in lil bit of olive oil. Allow rice to cool down before mixing into the salad."
-- "Add lemon juice & 1 tsp of cumin powder. adjust the salt & olive oil accordingly. Mix well & enjoy!"
+- "Cut sweet potatoes into small cubes. Mix with 1 tbsp of olive oil, few rosemary leaves &amp; 1/4 tsp of pepper &amp; bake them at 425F for 15 mins."
+- "In the mean time cook rice in a separate bowl. While that’s been cooked sauté the shaved sprouts in a diff pan with lil bit of olive oil for 1 min just to give a gloss &amp; soften the edges. Add salt &amp; pepper to taste."
+- "In a same pan roast some cranberries or raisins &amp; cashews in lil bit of olive oil. Allow rice to cool down before mixing into the salad."
+- "Add lemon juice &amp; 1 tsp of cumin powder. adjust the salt &amp; olive oil accordingly. Mix well &amp; enjoy!"
 categories:
 - Recipe
 tags:
@@ -67,7 +67,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Make ready 2 large sweet potatoes
 1. Get 8-9 brussel sprouts sliced
 1. Take  Salt according to your taste
-1. Prepare 1 tsp pepper &
+1. Prepare 1 tsp pepper &amp;
 1. Get 1 tsp cumin powder
 1. Make ready 2 tbsp Olive oil
 1. Take 1 lemon juice
@@ -81,10 +81,10 @@ To get started with this recipe, we must first prepare a few components. You can
 ##### Steps to make Rice Salad
 #cookbook:
 
-1. Cut sweet potatoes into small cubes. Mix with 1 tbsp of olive oil, few rosemary leaves & 1/4 tsp of pepper & bake them at 425F for 15 mins.
-1. In the mean time cook rice in a separate bowl. While that’s been cooked sauté the shaved sprouts in a diff pan with lil bit of olive oil for 1 min just to give a gloss & soften the edges. Add salt & pepper to taste.
-1. In a same pan roast some cranberries or raisins & cashews in lil bit of olive oil. Allow rice to cool down before mixing into the salad.
-1. Add lemon juice & 1 tsp of cumin powder. adjust the salt & olive oil accordingly. Mix well & enjoy!
+1. Cut sweet potatoes into small cubes. Mix with 1 tbsp of olive oil, few rosemary leaves &amp; 1/4 tsp of pepper &amp; bake them at 425F for 15 mins.
+1. In the mean time cook rice in a separate bowl. While that’s been cooked sauté the shaved sprouts in a diff pan with lil bit of olive oil for 1 min just to give a gloss &amp; soften the edges. Add salt &amp; pepper to taste.
+1. In a same pan roast some cranberries or raisins &amp; cashews in lil bit of olive oil. Allow rice to cool down before mixing into the salad.
+1. Add lemon juice &amp; 1 tsp of cumin powder. adjust the salt &amp; olive oil accordingly. Mix well &amp; enjoy!
 
 
 

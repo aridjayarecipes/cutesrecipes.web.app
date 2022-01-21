@@ -22,7 +22,7 @@ recipeingredient:
 - " Cocktail sauce"
 recipeinstructions:
 - "Marinate cabbage in juice of half a lime and set aside. Now mix together strawberries, radish, cilantro with remaining lime juice and set aside."
-- "Spray oil on non stick pan when hot, add salmon, fry until cooked about 4 minutes each side and set aside. Warm taco shell's. Set up assembly,"
+- "Spray oil on non stick pan when hot, add salmon, fry until cooked about 4 minutes each side and set aside. Warm taco shell&#39;s. Set up assembly,"
 - "Take taco shell, sprinkle cabbage, place fish cubes, top with strawberry salsa, avocado, cheese and drizzle cocktail sauce and enjoy!!!"
 categories:
 - Recipe
@@ -46,7 +46,7 @@ recipecategory: Dessert
 
 Hey everyone, hope you are having an amazing day today. Today, I'm gonna show you how to make a distinctive dish, strawberry salmon taco. It is one of my favorites. This time, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
 
-Tacos you can feel good about eating! The biggest excuse to eat tacos, chips I've been testing out new taco recipes to possibly serve and these Grilled Salmon Tacos with Strawberry Avocado Salsa. Grilled Salmon Tacos with Avocado Salsa - These tacos are AMAZING! Grilled Salmon with Strawberry Jalapeno Salsa
+Tacos you can feel good about eating! The biggest excuse to eat tacos, chips I&#39;ve been testing out new taco recipes to possibly serve and these Grilled Salmon Tacos with Strawberry Avocado Salsa. Grilled Salmon Tacos with Avocado Salsa - These tacos are AMAZING! Grilled Salmon with Strawberry Jalapeno Salsa
 
 Strawberry salmon taco is one of the most well liked of current trending foods in the world. It is appreciated by millions every day. It's easy, it is quick, it tastes delicious. They're fine and they look wonderful. Strawberry salmon taco is something which I've loved my entire life.
 
@@ -57,9 +57,9 @@ To begin with this recipe, we must first prepare a few components. You can have 
 
 ##### The ingredients needed to make Strawberry salmon taco:
 
-1. Take 6 soft taco shell's
+1. Take 6 soft taco shell&#39;s
 1. Get 8-10 strawberries chopped
-1. Get 400 gms salmon cut to bite size pieces and marinated in zata'r
+1. Get 400 gms salmon cut to bite size pieces and marinated in zata&#39;r
 1. Make ready 6-8 radishes chopped
 1. Make ready Handful cilantro leaves chopped
 1. Take 1/4 Red cabbage thinly sliced
@@ -69,17 +69,17 @@ To begin with this recipe, we must first prepare a few components. You can have 
 1. Prepare  Cocktail sauce
 
 
-Home Manly Meals Salmon Tacos with Strawberry & Pineapple Salsa. Click on over to Spanglish Baby for this delicious Salmon Tacos with Strawberry & Pineapple Salsa recipe. Enjoy our grilled seafood on a soft, corn & flour blend tortilla, topped with angel hair cabbage and lime vinaigrette. Here is how you cook it. 
+Home Manly Meals Salmon Tacos with Strawberry &amp; Pineapple Salsa. Click on over to Spanglish Baby for this delicious Salmon Tacos with Strawberry &amp; Pineapple Salsa recipe. Enjoy our grilled seafood on a soft, corn &amp; flour blend tortilla, topped with angel hair cabbage and lime vinaigrette. Here is how you cook it. 
 
 <!--inarticleads2-->
 
 ##### Steps to make Strawberry salmon taco:
 
 1. Marinate cabbage in juice of half a lime and set aside. Now mix together strawberries, radish, cilantro with remaining lime juice and set aside.
-1. Spray oil on non stick pan when hot, add salmon, fry until cooked about 4 minutes each side and set aside. Warm taco shell's. Set up assembly,
+1. Spray oil on non stick pan when hot, add salmon, fry until cooked about 4 minutes each side and set aside. Warm taco shell&#39;s. Set up assembly,
 1. Take taco shell, sprinkle cabbage, place fish cubes, top with strawberry salsa, avocado, cheese and drizzle cocktail sauce and enjoy!!!
 
 
-Enjoy our grilled seafood on a soft, corn & flour blend tortilla, topped with angel hair cabbage and lime vinaigrette. Here is how you cook it. Ingredients of Strawberry salmon taco Recipe. Solid Gold Eats: Salmon taco recipe mixes grilled fish, fruit. Grilled Salmon Tacos with Strawberry Cucumber Salsa. 
+Enjoy our grilled seafood on a soft, corn &amp; flour blend tortilla, topped with angel hair cabbage and lime vinaigrette. Here is how you cook it. Ingredients of Strawberry salmon taco Recipe. Solid Gold Eats: Salmon taco recipe mixes grilled fish, fruit. Grilled Salmon Tacos with Strawberry Cucumber Salsa. 
 
 So that is going to wrap this up with this special food strawberry salmon taco recipe. Thanks so much for reading. I am confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

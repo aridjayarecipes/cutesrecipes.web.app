@@ -20,9 +20,9 @@ recipeingredient:
 - " parsley"
 - "2 tbsp oil"
 recipeinstructions:
-- "Wash, clean, cut in half brossel sprout ---> put aside"
+- "Wash, clean, cut in half brossel sprout ---&gt; put aside"
 - ""
-- "On large pan fry chopped onion and minced garlic + oil (medium heat) - 7 min ---> add chopped bacon ---> fry till satisfying crunchyness ---> add brossel sprouts fry 15 min"
+- "On large pan fry chopped onion and minced garlic + oil (medium heat) - 7 min ---&gt; add chopped bacon ---&gt; fry till satisfying crunchyness ---&gt; add brossel sprouts fry 15 min"
 - "Large plate + paper towel = get rid of extra oil and the salad cool down, add for flavor (salt, pepper, dill, parsley)"
 categories:
 - Recipe
@@ -74,9 +74,9 @@ To begin with this recipe, we must prepare a few ingredients. You can have warm 
 
 ##### Instructions to make Warm Brussel Sprouts and Bacon Salad:
 
-1. Wash, clean, cut in half brossel sprout ---> put aside
+1. Wash, clean, cut in half brossel sprout ---&gt; put aside
 1. 
-1. On large pan fry chopped onion and minced garlic + oil (medium heat) - 7 min ---> add chopped bacon ---> fry till satisfying crunchyness ---> add brossel sprouts fry 15 min
+1. On large pan fry chopped onion and minced garlic + oil (medium heat) - 7 min ---&gt; add chopped bacon ---&gt; fry till satisfying crunchyness ---&gt; add brossel sprouts fry 15 min
 1. Large plate + paper towel = get rid of extra oil and the salad cool down, add for flavor (salt, pepper, dill, parsley)
 
 

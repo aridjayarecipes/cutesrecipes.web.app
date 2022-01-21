@@ -38,7 +38,7 @@ recipeingredient:
 - "1 teaspoon ground paprika"
 recipeinstructions:
 - "Wash and peel the potatoes. I sliced very thinly using a mandolin with a crinkle cut blade."
-- "Preheat oven to 400° Fahrenheit. Slice the cabbage into quarters then remove hard core. Cover the potatoes with cool water and salt. The potatoes will absorb the salt very well so don't over salt."
+- "Preheat oven to 400° Fahrenheit. Slice the cabbage into quarters then remove hard core. Cover the potatoes with cool water and salt. The potatoes will absorb the salt very well so don&#39;t over salt."
 - "Heat the vinegar, salt, and sugar. When shimmering set aside."
 - "Slice the cabbage thinly. Then cut across. Toss to mix vinegar mixture with cabbage. Allow to marinate for 15 minutes at least."
 - "Chop the carrots, and dice the onion. Melt the butter and stir in the onions and carrots. Season with seasoned salt and pepper to taste. Sauté till fork tender. Set aside."
@@ -116,7 +116,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have co
 ##### Steps to make Corned Beef and Red Cabbage:
 
 1. Wash and peel the potatoes. I sliced very thinly using a mandolin with a crinkle cut blade.
-1. Preheat oven to 400° Fahrenheit. Slice the cabbage into quarters then remove hard core. Cover the potatoes with cool water and salt. The potatoes will absorb the salt very well so don't over salt.
+1. Preheat oven to 400° Fahrenheit. Slice the cabbage into quarters then remove hard core. Cover the potatoes with cool water and salt. The potatoes will absorb the salt very well so don&#39;t over salt.
 1. Heat the vinegar, salt, and sugar. When shimmering set aside.
 1. Slice the cabbage thinly. Then cut across. Toss to mix vinegar mixture with cabbage. Allow to marinate for 15 minutes at least.
 1. Chop the carrots, and dice the onion. Melt the butter and stir in the onions and carrots. Season with seasoned salt and pepper to taste. Sauté till fork tender. Set aside.

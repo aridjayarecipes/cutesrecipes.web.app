@@ -55,7 +55,7 @@ recipecategory: Dessert
 
 Hello everybody, I hope you're having an amazing day today. Today, I'm gonna show you how to prepare a special dish, baked_kafta_and_potatoes. It is one of my favorites. This time, I will make it a bit tasty. This will be really delicious.
 
-This baked kafta and potatoes is definitely one of those. It is called "Kafta bi Seniyah," which literally translates into "Kafta in the pan." Kafta patties are topped with cooked potatoes, onions, tomatoes, and simmered with a seasoned tomato sauce. While most of the time, you will find the kafta shaped. Like many Lebanese dishes, Baked Kafta with Potatoes is a humble dish.
+This baked kafta and potatoes is definitely one of those. It is called &#34;Kafta bi Seniyah,&#34; which literally translates into &#34;Kafta in the pan.&#34; Kafta patties are topped with cooked potatoes, onions, tomatoes, and simmered with a seasoned tomato sauce. While most of the time, you will find the kafta shaped. Like many Lebanese dishes, Baked Kafta with Potatoes is a humble dish.
 
 Baked_kafta_and_potatoes is one of the most popular of recent trending foods in the world. It's enjoyed by millions daily. It is simple, it is quick, it tastes delicious. Baked_kafta_and_potatoes is something which I've loved my whole life. They're fine and they look wonderful.
 

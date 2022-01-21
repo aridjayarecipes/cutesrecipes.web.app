@@ -41,7 +41,7 @@ recipeinstructions:
 - "Reduce the heat and add the two onions, two carrots, two celery sticks, two garlic cloves and the leaves from 2-3 sprigs rosemary, all finely chopped, then fry for 10 mins. Stir the veg often until it softens."
 - "Increase the hear to medium-high, add 500g minced beef and cook stirring for 3-4 minutes until the meat is browned all over."
 - "Add two tins of plum tomatoes, the finely chopped leaves from 3/4 small pack basil, 1 teaspoon dried oregano, 2 Bay leaves, two tablespoon tomato purse, 1 beef stock cube, 1 deserved and finely chopped red chilli, 1/2 teaspoon of red grape vinegar and 6 halved cherry tomatoes. Stir with a wooden spoon, breaking up the plum tomatoes"
-- "Bring to the boil, reduce to a gentle simmer and cover with a lid. Cook for 1 hour and 15 minutes stirring occasionally, until you have a rich, thick sauce. In between, add the pinch of sugar for flavor. Don't forget the salt and fresh black pepper"
+- "Bring to the boil, reduce to a gentle simmer and cover with a lid. Cook for 1 hour and 15 minutes stirring occasionally, until you have a rich, thick sauce. In between, add the pinch of sugar for flavor. Don&#39;t forget the salt and fresh black pepper"
 - "Add the 75g grated parmesan cheese, check the seasoning and stir."
 - "When the bolognese is nearly finished, cook 400g spaghetti following the pack instructions"
 - "Drain the spaghetti. Serve with more grated parmesan cheese, the remaining basil leaves and crusted bread. And enjoy! 😋"
@@ -116,7 +116,7 @@ To begin with this recipe, we have to first prepare a few components. You can co
 1. Reduce the heat and add the two onions, two carrots, two celery sticks, two garlic cloves and the leaves from 2-3 sprigs rosemary, all finely chopped, then fry for 10 mins. Stir the veg often until it softens.
 1. Increase the hear to medium-high, add 500g minced beef and cook stirring for 3-4 minutes until the meat is browned all over.
 1. Add two tins of plum tomatoes, the finely chopped leaves from 3/4 small pack basil, 1 teaspoon dried oregano, 2 Bay leaves, two tablespoon tomato purse, 1 beef stock cube, 1 deserved and finely chopped red chilli, 1/2 teaspoon of red grape vinegar and 6 halved cherry tomatoes. Stir with a wooden spoon, breaking up the plum tomatoes
-1. Bring to the boil, reduce to a gentle simmer and cover with a lid. Cook for 1 hour and 15 minutes stirring occasionally, until you have a rich, thick sauce. In between, add the pinch of sugar for flavor. Don't forget the salt and fresh black pepper
+1. Bring to the boil, reduce to a gentle simmer and cover with a lid. Cook for 1 hour and 15 minutes stirring occasionally, until you have a rich, thick sauce. In between, add the pinch of sugar for flavor. Don&#39;t forget the salt and fresh black pepper
 1. Add the 75g grated parmesan cheese, check the seasoning and stir.
 1. When the bolognese is nearly finished, cook 400g spaghetti following the pack instructions
 1. Drain the spaghetti. Serve with more grated parmesan cheese, the remaining basil leaves and crusted bread. And enjoy! 😋

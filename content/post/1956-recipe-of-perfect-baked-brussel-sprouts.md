@@ -45,7 +45,7 @@ Hello everybody, it is Brad, welcome to our recipe page. Today, I will show you 
 
 Baked brussel sprouts is one of the most popular of recent trending meals in the world. It is appreciated by millions every day. It's simple, it is quick, it tastes delicious. Baked brussel sprouts is something which I've loved my whole life. They're nice and they look fantastic.
 
-Watch how to make perfectly roasted Brussels sprouts in this short recipe video! Roasted Brussels sprouts are the perfect side dish for so many meals. Try Ina Garten's classic Roasted Brussels Sprouts recipe from Barefoot Contessa on Food Network. The key to a perfect roasted vegetable is a hot oven.
+Watch how to make perfectly roasted Brussels sprouts in this short recipe video! Roasted Brussels sprouts are the perfect side dish for so many meals. Try Ina Garten&#39;s classic Roasted Brussels Sprouts recipe from Barefoot Contessa on Food Network. The key to a perfect roasted vegetable is a hot oven.
 
 
 To get started with this recipe, we must prepare a few ingredients. You can have baked brussel sprouts using 8 ingredients and 2 steps. Here is how you can achieve it.
@@ -61,7 +61,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 1. Get 1-2 tsp garlic powder
 1. Get 1/4 cup parmesian cheese
 1. Get 2 tbs olive oil
-1. Take  salt & pepper (pinch of each)
+1. Take  salt &amp; pepper (pinch of each)
 
 
 Pour onto a baking sheet, and place on center oven rack. Al dente Brussels sprouts, if you will. As with any roasted veggie, we want as much surface area to be touching the baking sheet as possible. Making perfect, crispy baked Brussels sprouts is easy! 

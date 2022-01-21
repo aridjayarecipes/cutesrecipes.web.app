@@ -18,7 +18,7 @@ recipeingredient:
 recipeinstructions:
 - "Season the salmon with salt and pepper. Add a splash of veg oil to a stainless-steel pan on medium-high heat."
 - "Carefully lay the salmon into the pan skin-side down. Saute for 3 minutes (do not touch it). Flip the fillet over and saute for 3 minutes on the other side"
-- "Remove the fish to a plate and add the butter to the pan. Once the butter's melted and has stopped foaming, add the shallots, garlic and capers. The sauce will foam again, so wait until it settles. Add extra salt if needed. Serve the salmon skin-side up and atop the sauce, or with the sauce on the side (you don't want to ruin that crispy skin)."
+- "Remove the fish to a plate and add the butter to the pan. Once the butter&#39;s melted and has stopped foaming, add the shallots, garlic and capers. The sauce will foam again, so wait until it settles. Add extra salt if needed. Serve the salmon skin-side up and atop the sauce, or with the sauce on the side (you don&#39;t want to ruin that crispy skin)."
 categories:
 - Recipe
 tags:
@@ -59,7 +59,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Prepare 2 tbsp capers, drained
 
 
-Almonds- they are part of my daily diet. Transfer to a plate and cover with foil to keep warm. Turn heat to low, add butter and stir until melted. This week: the crispy-skin salmon recipe that associate web editor Alex Delany just couldn't live without. 
+Almonds- they are part of my daily diet. Transfer to a plate and cover with foil to keep warm. Turn heat to low, add butter and stir until melted. This week: the crispy-skin salmon recipe that associate web editor Alex Delany just couldn&#39;t live without. 
 
 <!--inarticleads2-->
 
@@ -67,9 +67,9 @@ Almonds- they are part of my daily diet. Transfer to a plate and cover with foil
 
 1. Season the salmon with salt and pepper. Add a splash of veg oil to a stainless-steel pan on medium-high heat.
 1. Carefully lay the salmon into the pan skin-side down. Saute for 3 minutes (do not touch it). Flip the fillet over and saute for 3 minutes on the other side
-1. Remove the fish to a plate and add the butter to the pan. Once the butter's melted and has stopped foaming, add the shallots, garlic and capers. The sauce will foam again, so wait until it settles. Add extra salt if needed. Serve the salmon skin-side up and atop the sauce, or with the sauce on the side (you don't want to ruin that crispy skin).
+1. Remove the fish to a plate and add the butter to the pan. Once the butter&#39;s melted and has stopped foaming, add the shallots, garlic and capers. The sauce will foam again, so wait until it settles. Add extra salt if needed. Serve the salmon skin-side up and atop the sauce, or with the sauce on the side (you don&#39;t want to ruin that crispy skin).
 
 
-Turn heat to low, add butter and stir until melted. This week: the crispy-skin salmon recipe that associate web editor Alex Delany just couldn't live without. I rarely mistake my kitchen for a restaurant. Crispy-skin fish is one of those dishes that makes you feel like you've accomplished something. Crispy Salmon skin is just divine though. 
+Turn heat to low, add butter and stir until melted. This week: the crispy-skin salmon recipe that associate web editor Alex Delany just couldn&#39;t live without. I rarely mistake my kitchen for a restaurant. Crispy-skin fish is one of those dishes that makes you feel like you&#39;ve accomplished something. Crispy Salmon skin is just divine though. 
 
 So that is going to wrap this up for this special food crispy-skinned salmon with brown butter and capers recipe. Thank you very much for reading. I'm sure you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

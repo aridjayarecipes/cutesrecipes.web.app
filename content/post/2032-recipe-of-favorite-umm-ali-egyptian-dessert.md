@@ -11,7 +11,7 @@ ratingvalue: 4.9
 reviewcount: 2516
 recipeingredient:
 - "2 sweet croissant"
-- "1 & 1/2 - 2 cups evaporated milk  thickened milk"
+- "1 &amp; 1/2 - 2 cups evaporated milk  thickened milk"
 - "2-3 tbsp khoya opt"
 - "3 tbsp sugar powdered or as required"
 - "1/4 cup cream"
@@ -28,7 +28,7 @@ recipeinstructions:
 - "Followed by the cream and coconut."
 - "Sprinkle the nuts and raisins."
 - "Bake in a preheated oven for 15-20 minutes at 180 degrees C. or till the surface turns slightly brown."
-- "Bring it to a room temperature & refrigerate for some time. Garnish with the pomegranate pearls and enjoy chilled."
+- "Bring it to a room temperature &amp; refrigerate for some time. Garnish with the pomegranate pearls and enjoy chilled."
 categories:
 - Recipe
 tags:
@@ -63,7 +63,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 ##### The ingredients needed to make Umm Ali (Egyptian Dessert):
 
 1. Take 2 sweet croissant
-1. Make ready 1 & 1/2 - 2 cups evaporated milk / thickened milk
+1. Make ready 1 &amp; 1/2 - 2 cups evaporated milk / thickened milk
 1. Make ready 2-3 tbsp khoya (opt)
 1. Get 3 tbsp sugar (powdered) or as required
 1. Get 1/4 cup cream
@@ -71,7 +71,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Take 2 tbsp butter
 1. Get 1/4 tsp cardamom powder
 1. Get 1 tbsp rose water
-1. Prepare 2 tbsp each of chopped pistachios, almonds, raisins & pomegranate pearls
+1. Prepare 2 tbsp each of chopped pistachios, almonds, raisins &amp; pomegranate pearls
 
 
 
@@ -87,7 +87,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Followed by the cream and coconut.
 1. Sprinkle the nuts and raisins.
 1. Bake in a preheated oven for 15-20 minutes at 180 degrees C. or till the surface turns slightly brown.
-1. Bring it to a room temperature & refrigerate for some time. Garnish with the pomegranate pearls and enjoy chilled.
+1. Bring it to a room temperature &amp; refrigerate for some time. Garnish with the pomegranate pearls and enjoy chilled.
 
 
 

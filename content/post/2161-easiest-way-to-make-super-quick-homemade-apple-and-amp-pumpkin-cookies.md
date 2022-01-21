@@ -1,6 +1,6 @@
 ---
-description: "Easiest Way to Make Super Quick Homemade Apple &amp; pumpkin cookies"
-title: "Easiest Way to Make Super Quick Homemade Apple &amp; pumpkin cookies"
+description: "Easiest Way to Make Super Quick Homemade Apple &amp;amp; pumpkin cookies"
+title: "Easiest Way to Make Super Quick Homemade Apple &amp;amp; pumpkin cookies"
 slug: 2161-easiest-way-to-make-super-quick-homemade-apple-and-amp-pumpkin-cookies
 date: 2021-11-03T21:54:38.238Z
 image: https://img-global.cpcdn.com/recipes/9652cadb6d941c85/680x482cq70/apple-pumpkin-cookies-recipe-main-photo.jpg
@@ -39,20 +39,20 @@ recipecategory: Lunch
 ---
 
 
-![Apple & pumpkin cookies](https://img-global.cpcdn.com/recipes/9652cadb6d941c85/680x482cq70/apple-pumpkin-cookies-recipe-main-photo.jpg)
+![Apple &amp; pumpkin cookies](https://img-global.cpcdn.com/recipes/9652cadb6d941c85/680x482cq70/apple-pumpkin-cookies-recipe-main-photo.jpg)
 
-Hey everyone, it's Drew, welcome to my recipe page. Today, I'm gonna show you how to prepare a special dish, apple & pumpkin cookies. It is one of my favorites food recipes. For mine, I am going to make it a little bit unique. This is gonna smell and look delicious.
+Hey everyone, it's Drew, welcome to my recipe page. Today, I'm gonna show you how to prepare a special dish, apple &amp; pumpkin cookies. It is one of my favorites food recipes. For mine, I am going to make it a little bit unique. This is gonna smell and look delicious.
 
-See the Apple Card Customer Agreement for more information. Apple Card is issued by Goldman Apple Card is issued by Goldman Sachs Bank USA, Salt Lake City Branch. Welcome to the official Apple YouTube channel. Here you'll find news about product launches, tutorials, and other great content.
+See the Apple Card Customer Agreement for more information. Apple Card is issued by Goldman Apple Card is issued by Goldman Sachs Bank USA, Salt Lake City Branch. Welcome to the official Apple YouTube channel. Here you&#39;ll find news about product launches, tutorials, and other great content.
 
-Apple & pumpkin cookies is one of the most popular of recent trending meals on earth. It's simple, it is quick, it tastes delicious. It's appreciated by millions daily. Apple & pumpkin cookies is something which I have loved my whole life. They are nice and they look fantastic.
+Apple &amp; pumpkin cookies is one of the most popular of recent trending meals on earth. It's simple, it is quick, it tastes delicious. It's appreciated by millions daily. Apple &amp; pumpkin cookies is something which I have loved my whole life. They are nice and they look fantastic.
 
 
-To begin with this particular recipe, we must prepare a few components. You can cook apple & pumpkin cookies using 6 ingredients and 4 steps. Here is how you cook that.
+To begin with this particular recipe, we must prepare a few components. You can cook apple &amp; pumpkin cookies using 6 ingredients and 4 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Apple & pumpkin cookies:
+##### The ingredients needed to make Apple &amp; pumpkin cookies:
 
 1. Take 2 cups rolled oats
 1. Take 1/2 cup pumpkin purre
@@ -66,7 +66,7 @@ Apple, Inc. engages in the design, manufacture, and sale of smartphones, persona
 
 <!--inarticleads2-->
 
-##### Steps to make Apple & pumpkin cookies:
+##### Steps to make Apple &amp; pumpkin cookies:
 
 1. Cut raisins in smaller pieces, if they are jumbo raisins
 1. Mix all the ingredients together. Add dates syrup depending on how sweet you want the cookies to be (the batter can be tasted without concerns).
@@ -76,4 +76,4 @@ Apple, Inc. engages in the design, manufacture, and sale of smartphones, persona
 
 
 
-So that's going to wrap this up for this exceptional food apple & pumpkin cookies recipe. Thanks so much for reading. I am sure that you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!
+So that's going to wrap this up for this exceptional food apple &amp; pumpkin cookies recipe. Thanks so much for reading. I am sure that you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

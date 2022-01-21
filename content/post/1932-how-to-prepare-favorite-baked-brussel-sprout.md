@@ -18,7 +18,7 @@ recipeingredient:
 - " Finely chopped garlic or use one from the bottle"
 recipeinstructions:
 - "Preheat oven at 150-170°C. Then Halve and cut brussel sprouts into 4. Place these cuties in a bowl, add the rest of the ingredients and mix all until well combined. For more adventurous taste, Sprinkle some chillie flakes."
-- "Pour & spread this on a baking tray for 10min depending on the oven and doneness preference. Serve warm."
+- "Pour &amp; spread this on a baking tray for 10min depending on the oven and doneness preference. Serve warm."
 categories:
 - Recipe
 tags:
@@ -67,7 +67,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have ba
 ##### Instructions to make Baked Brussel Sprout:
 
 1. Preheat oven at 150-170°C. Then Halve and cut brussel sprouts into 4. Place these cuties in a bowl, add the rest of the ingredients and mix all until well combined. For more adventurous taste, Sprinkle some chillie flakes.
-1. Pour & spread this on a baking tray for 10min depending on the oven and doneness preference. Serve warm.
+1. Pour &amp; spread this on a baking tray for 10min depending on the oven and doneness preference. Serve warm.
 
 
 

@@ -17,7 +17,7 @@ recipeingredient:
 - "1 Tbls Olive Oil"
 - "1 Sprig Dill"
 recipeinstructions:
-- "Trim the Salmon Steak and place skin side down - sprinkle the Salt & sugar on the meat side and cover - put in fridge for about 6 hours."
+- "Trim the Salmon Steak and place skin side down - sprinkle the Salt &amp; sugar on the meat side and cover - put in fridge for about 6 hours."
 - "Removed from the fridge and let it come to room temp - about 30-40 mins. Then turn on the grill so red hot"
 - "Wash off the marinade and pat dry with kitchen paper"
 - "I make a foil try on a baking sheet so easy to clean. Drizzle with olive oil the place skin side up. Sprinkle more salt on the skin and rub in."
@@ -71,7 +71,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 
 ##### Instructions to make Grilled Salmon - True Perfection:
 
-1. Trim the Salmon Steak and place skin side down - sprinkle the Salt & sugar on the meat side and cover - put in fridge for about 6 hours.
+1. Trim the Salmon Steak and place skin side down - sprinkle the Salt &amp; sugar on the meat side and cover - put in fridge for about 6 hours.
 1. Removed from the fridge and let it come to room temp - about 30-40 mins. Then turn on the grill so red hot
 1. Wash off the marinade and pat dry with kitchen paper
 1. I make a foil try on a baking sheet so easy to clean. Drizzle with olive oil the place skin side up. Sprinkle more salt on the skin and rub in.

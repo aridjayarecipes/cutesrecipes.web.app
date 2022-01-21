@@ -43,7 +43,7 @@ Hey everyone, it is me again, Dan, welcome to our recipe site. Today, I will sho
 
 Pumpkin soup is one of the most favored of recent trending meals on earth. It is easy, it's quick, it tastes yummy. It is enjoyed by millions every day. They're fine and they look wonderful. Pumpkin soup is something that I have loved my whole life.
 
-This is a classic, easy pumpkin soup made with fresh pumpkin that is very fast to make. Thick, creamy and full of flavour, this is THE pumpkin soup recipe you will make now and forever! Pumpkin soup is a usually 'bound' (thick) soup made from a purée of pumpkin. It is made by combining the meat of a blended pumpkin with broth or stock.
+This is a classic, easy pumpkin soup made with fresh pumpkin that is very fast to make. Thick, creamy and full of flavour, this is THE pumpkin soup recipe you will make now and forever! Pumpkin soup is a usually &#39;bound&#39; (thick) soup made from a purée of pumpkin. It is made by combining the meat of a blended pumpkin with broth or stock.
 
 
 To begin with this recipe, we must first prepare a few components. You can cook pumpkin soup using 6 ingredients and 3 steps. Here is how you cook that.
@@ -57,7 +57,7 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Prepare 2 carrots
 1. Prepare 50 grams red lentils
 1. Make ready 1 tbls butter, 1 tbls of vegetable oil
-1. Make ready  Salt & pepper
+1. Make ready  Salt &amp; pepper
 
 
 EASIEST PUMPKIN SOUP RECIPE. طريقة إعداد شوربة القرع بطريقة سهله ~pumpkin soup~#food#pumpkin_soup#طعام#شوربة_القرع. Keep warm with one of these easy pumpkin soup recipes. Healthy, satisfying, and perfect for chillier weather. Pumpkin soup is definitively the optimal savory Halloween dish. 

@@ -60,7 +60,7 @@ Hey everyone, hope you are having an incredible day today. Today, I will show yo
 
 Daabeliiiiii😄 (Dabeli / Daabeli) is one of the most well liked of current trending foods in the world. It is simple, it is quick, it tastes delicious. It's enjoyed by millions daily. They are fine and they look wonderful. Daabeliiiiii😄 (Dabeli / Daabeli) is something which I have loved my entire life.
 
-Dabeli m•Dabeli buns•medium potato boiled & mashed•oil•Salt for taste•Kashmiri chilli powder•Davda boiled potatoes•onion finely chopped• green chilli finely chopped•peanuts•pomegranate seeds•daabeli masala•green coriander chutney•tamarind chutney. This article is part of the series on. Dabeli, kutchi dabeli or double roti (Gujarati:દાબેલી,કચ્છી દાબેલી, Devnagari: दाबेली,कच्छी दाबेली) is a popular snack food of India, originating in the Kutch or Kachchh region of Gujarat. snack is its versatility and appeal to the wide audience. moreover, the same dish can be consumed as an evening snack but also can be served for other time meals. one such easy and simple multipurpose meal is dabeli recipe known for its taste and also filling nature. Welcome to RR Recipe, today we are making recipe of Dabeli.
+Dabeli m•Dabeli buns•medium potato boiled &amp; mashed•oil•Salt for taste•Kashmiri chilli powder•Davda boiled potatoes•onion finely chopped• green chilli finely chopped•peanuts•pomegranate seeds•daabeli masala•green coriander chutney•tamarind chutney. This article is part of the series on. Dabeli, kutchi dabeli or double roti (Gujarati:દાબેલી,કચ્છી દાબેલી, Devnagari: दाबेली,कच्छी दाबेली) is a popular snack food of India, originating in the Kutch or Kachchh region of Gujarat. snack is its versatility and appeal to the wide audience. moreover, the same dish can be consumed as an evening snack but also can be served for other time meals. one such easy and simple multipurpose meal is dabeli recipe known for its taste and also filling nature. Welcome to RR Recipe, today we are making recipe of Dabeli.
 
 
 To begin with this particular recipe, we must prepare a few ingredients. You can cook daabeliiiiii😄 (dabeli / daabeli) using 19 ingredients and 6 steps. Here is how you cook that.
@@ -71,7 +71,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 
 1. Get 9 Dabeli buns
 1. Make ready  Dabeli masala
-1. Make ready 5-6 medium potato boiled & mashed
+1. Make ready 5-6 medium potato boiled &amp; mashed
 1. Make ready 3 tbsp oil
 1. Make ready  Dabeli m
 1. Make ready  Salt for taste

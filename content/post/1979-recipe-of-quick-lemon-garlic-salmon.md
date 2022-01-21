@@ -19,7 +19,7 @@ recipeingredient:
 - "1 tsp pepper"
 - "2 (6 oz) or 3 4oz salmon"
 recipeinstructions:
-- "Mix olive oil, lemon juice, garlic, basil, parsley, salt & pepper in bowl to create the marinade."
+- "Mix olive oil, lemon juice, garlic, basil, parsley, salt &amp; pepper in bowl to create the marinade."
 - "Prepare salmon in separate baking dish. Apply marinade, cover in foil, and set in fridge for 1-2 hours. Flipping salmon occasionally."
 - "Preheat oven to 375°F"
 - "Bake salmon for 35 - 45 mins. Optionally finish cooking on broil setting, foil off, for 5 mins or until a slight crisp."
@@ -72,7 +72,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 ##### Instructions to make Lemon Garlic Salmon:
 
-1. Mix olive oil, lemon juice, garlic, basil, parsley, salt & pepper in bowl to create the marinade.
+1. Mix olive oil, lemon juice, garlic, basil, parsley, salt &amp; pepper in bowl to create the marinade.
 1. Prepare salmon in separate baking dish. Apply marinade, cover in foil, and set in fridge for 1-2 hours. Flipping salmon occasionally.
 1. Preheat oven to 375°F
 1. Bake salmon for 35 - 45 mins. Optionally finish cooking on broil setting, foil off, for 5 mins or until a slight crisp.

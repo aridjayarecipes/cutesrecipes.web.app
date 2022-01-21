@@ -77,7 +77,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Make ready 1/4 cup chives or green onions chopped
 
 
-It's the perfect complement to any rich fish like salmon. Firecracker Salmon and Cauliflower Rice Recipe! In this recipe, I will show you how to perfectly sear salmon at home, better than a restaurant! See more ideas about firecracker salmon, firecracker salmon recipes, salmon recipes. 
+It&#39;s the perfect complement to any rich fish like salmon. Firecracker Salmon and Cauliflower Rice Recipe! In this recipe, I will show you how to perfectly sear salmon at home, better than a restaurant! See more ideas about firecracker salmon, firecracker salmon recipes, salmon recipes. 
 
 <!--inarticleads2-->
 
@@ -93,6 +93,6 @@ It's the perfect complement to any rich fish like salmon. Firecracker Salmon and
 1. Serve warm with chopped chives.
 
 
-In this recipe, I will show you how to perfectly sear salmon at home, better than a restaurant! See more ideas about firecracker salmon, firecracker salmon recipes, salmon recipes. This firecracker salmon recipe features a sticky and spicy soy-based sauce brushed on the salmon. It's a great simple dinner for entertaining or for meal prep. I first introduced you guys to this amazing sauce with my Slow Cooker Firecracker Meatballs. 
+In this recipe, I will show you how to perfectly sear salmon at home, better than a restaurant! See more ideas about firecracker salmon, firecracker salmon recipes, salmon recipes. This firecracker salmon recipe features a sticky and spicy soy-based sauce brushed on the salmon. It&#39;s a great simple dinner for entertaining or for meal prep. I first introduced you guys to this amazing sauce with my Slow Cooker Firecracker Meatballs. 
 
 So that's going to wrap it up for this exceptional food firecracker salmon recipe. Thanks so much for your time. I'm confident you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

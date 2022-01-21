@@ -26,14 +26,14 @@ recipeingredient:
 - "Dash ground cloves"
 recipeinstructions:
 - "Prepare baking pan/sheet/tray and line it with baking paper. Set it aside. Preheat oven (w/o baking tray), about 375°F | 190°C for about 10-20mins."
-- "On one large bowl, combine all dry ingredients [[and optional ingredients should you want them added -- yes, you can add 'em all, but adjust wet ingredients with addition 1-2 tbsp water plus 1 tsp ground flaxseed]]. Set aside."
+- "On one large bowl, combine all dry ingredients [[and optional ingredients should you want them added -- yes, you can add &#39;em all, but adjust wet ingredients with addition 1-2 tbsp water plus 1 tsp ground flaxseed]]. Set aside."
 - "On a medium bowl, combine all wet ingredients, and coarsely mash the banana at the same time. [[If you add all optional ingredients add 1-2 tbsp water + 1 tsp ground flaxseed]]."
 - "Combine wet to dry ingredients. Whisk and mix well."
-- "Spoon mixture unto baking tray with baking paper. Flatten /form a dollop into a medallion. One dollop makes one medallion, and sizes doesn't have to be in uniform. Mixture can make about 8-12 medallions depending on preference. Ideally, sizes would depend on the sizes of the apple donuts. I am sure you can wing this! 😉 But it doesn't have to be perfect to size. It will still taste amazing!!!"
+- "Spoon mixture unto baking tray with baking paper. Flatten /form a dollop into a medallion. One dollop makes one medallion, and sizes doesn&#39;t have to be in uniform. Mixture can make about 8-12 medallions depending on preference. Ideally, sizes would depend on the sizes of the apple donuts. I am sure you can wing this! 😉 But it doesn&#39;t have to be perfect to size. It will still taste amazing!!!"
 - "Bake the medallions for about 20-25 minutes over moderate heat of 375°F | 190°C."
-- "While those goodies are baking, slice your apples horizontally, then de-core each slices to create somewhat like donuts. You can use a spoon, a knife, or whatev' you got in the kitchen that will make this step easy for ya. Discard the core."
-- "Spread almond butter on top of the apple donuts, then set aside if medallions aren't done."
-- "Soon as the oven "pinged!," take the baking tray off the oven with proper tools. Put tray over the counter, then using a spatula, scoop out medallions to put them on top of your nut butter apple donuts. Yes! Ready to serve!"
+- "While those goodies are baking, slice your apples horizontally, then de-core each slices to create somewhat like donuts. You can use a spoon, a knife, or whatev&#39; you got in the kitchen that will make this step easy for ya. Discard the core."
+- "Spread almond butter on top of the apple donuts, then set aside if medallions aren&#39;t done."
+- "Soon as the oven &#34;pinged!,&#34; take the baking tray off the oven with proper tools. Put tray over the counter, then using a spatula, scoop out medallions to put them on top of your nut butter apple donuts. Yes! Ready to serve!"
 categories:
 - Recipe
 tags:
@@ -83,23 +83,23 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Get Dash ground cloves
 
 
-You could use a spoon, a knife, or whatev' you obtain within the kitchen which will make this. Nourriture Donut Pommes Au Four Outils De Cuisson Photographie De Cuisine Nourriture Délicieuse Malbouffe Pâtisserie Glaçage De Beignets. Today, we're going to make a distinctive dish, baked oats medallions over nut apple donuts. This time, I will make it a little bit unique. 
+You could use a spoon, a knife, or whatev&#39; you obtain within the kitchen which will make this. Nourriture Donut Pommes Au Four Outils De Cuisson Photographie De Cuisine Nourriture Délicieuse Malbouffe Pâtisserie Glaçage De Beignets. Today, we&#39;re going to make a distinctive dish, baked oats medallions over nut apple donuts. This time, I will make it a little bit unique. 
 
 <!--inarticleads2-->
 
 ##### Steps to make Baked oats medallions over nut apple donuts:
 
 1. Prepare baking pan/sheet/tray and line it with baking paper. Set it aside. Preheat oven (w/o baking tray), about 375°F | 190°C for about 10-20mins.
-1. On one large bowl, combine all dry ingredients [[and optional ingredients should you want them added -- yes, you can add 'em all, but adjust wet ingredients with addition 1-2 tbsp water plus 1 tsp ground flaxseed]]. Set aside.
+1. On one large bowl, combine all dry ingredients [[and optional ingredients should you want them added -- yes, you can add &#39;em all, but adjust wet ingredients with addition 1-2 tbsp water plus 1 tsp ground flaxseed]]. Set aside.
 1. On a medium bowl, combine all wet ingredients, and coarsely mash the banana at the same time. [[If you add all optional ingredients add 1-2 tbsp water + 1 tsp ground flaxseed]].
 1. Combine wet to dry ingredients. Whisk and mix well.
-1. Spoon mixture unto baking tray with baking paper. Flatten /form a dollop into a medallion. One dollop makes one medallion, and sizes doesn't have to be in uniform. Mixture can make about 8-12 medallions depending on preference. Ideally, sizes would depend on the sizes of the apple donuts. I am sure you can wing this! 😉 But it doesn't have to be perfect to size. It will still taste amazing!!!
+1. Spoon mixture unto baking tray with baking paper. Flatten /form a dollop into a medallion. One dollop makes one medallion, and sizes doesn&#39;t have to be in uniform. Mixture can make about 8-12 medallions depending on preference. Ideally, sizes would depend on the sizes of the apple donuts. I am sure you can wing this! 😉 But it doesn&#39;t have to be perfect to size. It will still taste amazing!!!
 1. Bake the medallions for about 20-25 minutes over moderate heat of 375°F | 190°C.
-1. While those goodies are baking, slice your apples horizontally, then de-core each slices to create somewhat like donuts. You can use a spoon, a knife, or whatev' you got in the kitchen that will make this step easy for ya. Discard the core.
-1. Spread almond butter on top of the apple donuts, then set aside if medallions aren't done.
-1. Soon as the oven "pinged!," take the baking tray off the oven with proper tools. Put tray over the counter, then using a spatula, scoop out medallions to put them on top of your nut butter apple donuts. Yes! Ready to serve!
+1. While those goodies are baking, slice your apples horizontally, then de-core each slices to create somewhat like donuts. You can use a spoon, a knife, or whatev&#39; you got in the kitchen that will make this step easy for ya. Discard the core.
+1. Spread almond butter on top of the apple donuts, then set aside if medallions aren&#39;t done.
+1. Soon as the oven &#34;pinged!,&#34; take the baking tray off the oven with proper tools. Put tray over the counter, then using a spatula, scoop out medallions to put them on top of your nut butter apple donuts. Yes! Ready to serve!
 
 
-Today, we're going to make a distinctive dish, baked oats medallions over nut apple donuts. This time, I will make it a little bit unique. Baked oats are a fast and easy breakfast that is sure to satisfy the whole family. Enjoy a Quick and Convenient Baked Oats Breakfast or Snack. There are all sorts of ways to create baked oats, but they all use the same simple base. 
+Today, we&#39;re going to make a distinctive dish, baked oats medallions over nut apple donuts. This time, I will make it a little bit unique. Baked oats are a fast and easy breakfast that is sure to satisfy the whole family. Enjoy a Quick and Convenient Baked Oats Breakfast or Snack. There are all sorts of ways to create baked oats, but they all use the same simple base. 
 
 So that's going to wrap it up for this special food baked oats medallions over nut apple donuts recipe. Thank you very much for reading. I am sure you can make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

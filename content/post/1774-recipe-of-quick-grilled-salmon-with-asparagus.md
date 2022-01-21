@@ -25,7 +25,7 @@ recipeingredient:
 recipeinstructions:
 - "Prepare the yogurt sauce by mixing a tablespoon of extra virgin olive oil from Spain, the yogurt, lemon juice, salt and dill in a bowl, beat together with a whisk and set aside until ready to serve."
 - "Using a peeler, create thin shavings of asparagus (you can save a few of the tips for garnish). Sauté them using two tablespoons of Extra Virgin Olive Oil from Spain, salt and pepper."
-- "Brush the salmon with two tablespoons of Extra Virgin Olive Oil from Spain so it doesn't stick to the pan, brown it for around 5 minutes on the first side and 3 minutes on the other side, depending on the thickness of the fillets. To prevent the fish from breaking apart, flip it using a large spatula."
+- "Brush the salmon with two tablespoons of Extra Virgin Olive Oil from Spain so it doesn&#39;t stick to the pan, brown it for around 5 minutes on the first side and 3 minutes on the other side, depending on the thickness of the fillets. To prevent the fish from breaking apart, flip it using a large spatula."
 - "Serve the salmon with the shaved asparagus and yogurt sauce. If you want, you can also serve the tips along with the shavings."
 categories:
 - Recipe
@@ -82,7 +82,7 @@ Gorgeous GRILLED SALMON cedar wraps with asparagus, zucchini ribbons and topped 
 
 1. Prepare the yogurt sauce by mixing a tablespoon of extra virgin olive oil from Spain, the yogurt, lemon juice, salt and dill in a bowl, beat together with a whisk and set aside until ready to serve.
 1. Using a peeler, create thin shavings of asparagus (you can save a few of the tips for garnish). Sauté them using two tablespoons of Extra Virgin Olive Oil from Spain, salt and pepper.
-1. Brush the salmon with two tablespoons of Extra Virgin Olive Oil from Spain so it doesn't stick to the pan, brown it for around 5 minutes on the first side and 3 minutes on the other side, depending on the thickness of the fillets. To prevent the fish from breaking apart, flip it using a large spatula.
+1. Brush the salmon with two tablespoons of Extra Virgin Olive Oil from Spain so it doesn&#39;t stick to the pan, brown it for around 5 minutes on the first side and 3 minutes on the other side, depending on the thickness of the fillets. To prevent the fish from breaking apart, flip it using a large spatula.
 1. Serve the salmon with the shaved asparagus and yogurt sauce. If you want, you can also serve the tips along with the shavings.
 
 

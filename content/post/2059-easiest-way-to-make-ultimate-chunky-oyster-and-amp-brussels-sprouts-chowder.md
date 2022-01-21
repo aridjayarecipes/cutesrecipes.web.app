@@ -1,6 +1,6 @@
 ---
-description: "Easiest Way to Make Ultimate Chunky Oyster &amp; Brussels Sprouts Chowder"
-title: "Easiest Way to Make Ultimate Chunky Oyster &amp; Brussels Sprouts Chowder"
+description: "Easiest Way to Make Ultimate Chunky Oyster &amp;amp; Brussels Sprouts Chowder"
+title: "Easiest Way to Make Ultimate Chunky Oyster &amp;amp; Brussels Sprouts Chowder"
 slug: 2059-easiest-way-to-make-ultimate-chunky-oyster-and-amp-brussels-sprouts-chowder
 date: 2022-02-20T06:10:21.223Z
 image: https://img-global.cpcdn.com/recipes/5668649508536320/680x482cq70/chunky-oyster-brussels-sprouts-chowder-recipe-main-photo.jpg
@@ -30,7 +30,7 @@ recipeinstructions:
 - "Cut the onion into 1 cm. Cut the potato into 3 cm, the carrots into 2 cm, and the bacon into 1 cm strips."
 - "Melt butter in a pot and add onions, carrots, and bacon. Once the onions have wilted, add the potatoes. Once the oil has soaked in, add flour and fry."
 - "Add the [A] ingredients and bring to a boil. Boil on medium heat for 5 minutes while removing scum. Add soy milk and brussels sprouts and boil for another 5 minutes. Dissolve the miso, add oysters and lightly cook through."
-- "Flavor with salt and pepper. Transfer to a serving plate, top with parsley and it's complete."
+- "Flavor with salt and pepper. Transfer to a serving plate, top with parsley and it&#39;s complete."
 categories:
 - Recipe
 tags:
@@ -49,20 +49,20 @@ recipecategory: Lunch
 ---
 
 
-![Chunky Oyster & Brussels Sprouts Chowder](https://img-global.cpcdn.com/recipes/5668649508536320/680x482cq70/chunky-oyster-brussels-sprouts-chowder-recipe-main-photo.jpg)
+![Chunky Oyster &amp; Brussels Sprouts Chowder](https://img-global.cpcdn.com/recipes/5668649508536320/680x482cq70/chunky-oyster-brussels-sprouts-chowder-recipe-main-photo.jpg)
 
-Hey everyone, I hope you are having an amazing day today. Today, I will show you a way to prepare a special dish, chunky oyster & brussels sprouts chowder. One of my favorites. For mine, I am going to make it a bit tasty. This will be really delicious.
+Hey everyone, I hope you are having an amazing day today. Today, I will show you a way to prepare a special dish, chunky oyster &amp; brussels sprouts chowder. One of my favorites. For mine, I am going to make it a bit tasty. This will be really delicious.
 
-Chunky Oyster & Brussels Sprouts Chowder is one of the most well liked of recent trending meals on earth. It is easy, it's fast, it tastes delicious. It's enjoyed by millions every day. Chunky Oyster & Brussels Sprouts Chowder is something which I have loved my whole life. They are fine and they look wonderful.
-
-
+Chunky Oyster &amp; Brussels Sprouts Chowder is one of the most well liked of recent trending meals on earth. It is easy, it's fast, it tastes delicious. It's enjoyed by millions every day. Chunky Oyster &amp; Brussels Sprouts Chowder is something which I have loved my whole life. They are fine and they look wonderful.
 
 
-To get started with this particular recipe, we have to first prepare a few ingredients. You can have chunky oyster & brussels sprouts chowder using 15 ingredients and 5 steps. Here is how you can achieve that.
+
+
+To get started with this particular recipe, we have to first prepare a few ingredients. You can have chunky oyster &amp; brussels sprouts chowder using 15 ingredients and 5 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Chunky Oyster & Brussels Sprouts Chowder:
+##### The ingredients needed to make Chunky Oyster &amp; Brussels Sprouts Chowder:
 
 1. Take 1 slice Bacon
 1. Get 200 grams Shelled oysters
@@ -85,15 +85,15 @@ To get started with this particular recipe, we have to first prepare a few ingre
 
 <!--inarticleads2-->
 
-##### Steps to make Chunky Oyster & Brussels Sprouts Chowder:
+##### Steps to make Chunky Oyster &amp; Brussels Sprouts Chowder:
 
 1. Make a cross-cut in the brussels sprouts roots. Lightly boil in salt water, then drain.
 1. Cut the onion into 1 cm. Cut the potato into 3 cm, the carrots into 2 cm, and the bacon into 1 cm strips.
 1. Melt butter in a pot and add onions, carrots, and bacon. Once the onions have wilted, add the potatoes. Once the oil has soaked in, add flour and fry.
 1. Add the [A] ingredients and bring to a boil. Boil on medium heat for 5 minutes while removing scum. Add soy milk and brussels sprouts and boil for another 5 minutes. Dissolve the miso, add oysters and lightly cook through.
-1. Flavor with salt and pepper. Transfer to a serving plate, top with parsley and it's complete.
+1. Flavor with salt and pepper. Transfer to a serving plate, top with parsley and it&#39;s complete.
 
 
 
 
-So that is going to wrap this up for this exceptional food chunky oyster & brussels sprouts chowder recipe. Thanks so much for your time. I'm sure you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap this up for this exceptional food chunky oyster &amp; brussels sprouts chowder recipe. Thanks so much for your time. I'm sure you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

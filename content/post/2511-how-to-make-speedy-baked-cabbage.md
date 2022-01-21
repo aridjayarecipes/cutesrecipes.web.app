@@ -20,7 +20,7 @@ recipeingredient:
 recipeinstructions:
 - "Rinse cabbage then put in a large baking pan...next add garlic powder and onion powder then mix."
 - "Next add about 6 to 7 dashes of woishuresauce and the vegetables.. now add Goya seasoing... only open one pack...do not add the whole pack its very powerful just sprinkle"
-- "Now add slice butter then mix...next mix beef broth with white wine and add to the bottom of pan but just enough to cover thr bottom of the pan you dont need alot I also sprayed my cabbage with Olive oil then tossed but that's optional"
+- "Now add slice butter then mix...next mix beef broth with white wine and add to the bottom of pan but just enough to cover thr bottom of the pan you dont need alot I also sprayed my cabbage with Olive oil then tossed but that&#39;s optional"
 - "I added sliced japlenos,some salt and alil pepper...also a cap of white vinger and parsley and crumbled bacon...just play with it add what u want at the end 😋"
 - "Now cover with foil and bake on 375 for about 30 mins or until your liking"
 categories:
@@ -46,7 +46,7 @@ Hello everybody, it is me again, Dan, welcome to our recipe site. Today, we're g
 
 Baked cabbage is one of the most favored of current trending meals in the world. It is appreciated by millions every day. It's simple, it's quick, it tastes yummy. They are fine and they look wonderful. Baked cabbage is something that I've loved my whole life.
 
-By adding a few baked cabbage recipes to your recipe book. This Easy Baked Cabbage is a tasty vegan side dish that you're going to love. Full of flavor and roasted to perfection, this easy to make veggie is delicious. This Easy Baked Cabbage is so yummy.
+By adding a few baked cabbage recipes to your recipe book. This Easy Baked Cabbage is a tasty vegan side dish that you&#39;re going to love. Full of flavor and roasted to perfection, this easy to make veggie is delicious. This Easy Baked Cabbage is so yummy.
 
 
 To get started with this particular recipe, we have to prepare a few components. You can cook baked cabbage using 7 ingredients and 5 steps. Here is how you cook it.
@@ -72,7 +72,7 @@ See more ideas about baked cabbage, recipes, baked cabbage recipes. Want to have
 
 1. Rinse cabbage then put in a large baking pan...next add garlic powder and onion powder then mix.
 1. Next add about 6 to 7 dashes of woishuresauce and the vegetables.. now add Goya seasoing... only open one pack...do not add the whole pack its very powerful just sprinkle
-1. Now add slice butter then mix...next mix beef broth with white wine and add to the bottom of pan but just enough to cover thr bottom of the pan you dont need alot I also sprayed my cabbage with Olive oil then tossed but that's optional
+1. Now add slice butter then mix...next mix beef broth with white wine and add to the bottom of pan but just enough to cover thr bottom of the pan you dont need alot I also sprayed my cabbage with Olive oil then tossed but that&#39;s optional
 1. I added sliced japlenos,some salt and alil pepper...also a cap of white vinger and parsley and crumbled bacon...just play with it add what u want at the end 😋
 1. Now cover with foil and bake on 375 for about 30 mins or until your liking
 

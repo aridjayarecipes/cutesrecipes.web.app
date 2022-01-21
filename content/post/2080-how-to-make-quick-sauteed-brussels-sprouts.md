@@ -20,7 +20,7 @@ recipeinstructions:
 - "Cut off the ends, slice sprouts in half and remove outer layer of leaves."
 - "Melt butter and olive oil over medium high heat in a large non-stick frying pan."
 - "Add sprouts, garlic salt and Mrs. Dash. Stir to coat."
-- "Add 1 tablespoon of water to the frying pan and quickly place lid on pan. Let steam for about a minute then stir sprouts. Continue intervals of covering pan and stirring frequently until sprouts are tender (about 15 minutes). You don't want very much liquid in the pan; this way the sprouts will brown a little.  Add a little more water if the pan gets too dry and the sprouts start sticking. This method cooks the sprouts a little faster. You can just saute them without covering but turn the heat down slightly and cook longer."
+- "Add 1 tablespoon of water to the frying pan and quickly place lid on pan. Let steam for about a minute then stir sprouts. Continue intervals of covering pan and stirring frequently until sprouts are tender (about 15 minutes). You don&#39;t want very much liquid in the pan; this way the sprouts will brown a little.  Add a little more water if the pan gets too dry and the sprouts start sticking. This method cooks the sprouts a little faster. You can just saute them without covering but turn the heat down slightly and cook longer."
 categories:
 - Recipe
 tags:
@@ -71,7 +71,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Cut off the ends, slice sprouts in half and remove outer layer of leaves.
 1. Melt butter and olive oil over medium high heat in a large non-stick frying pan.
 1. Add sprouts, garlic salt and Mrs. Dash. Stir to coat.
-1. Add 1 tablespoon of water to the frying pan and quickly place lid on pan. Let steam for about a minute then stir sprouts. Continue intervals of covering pan and stirring frequently until sprouts are tender (about 15 minutes). You don't want very much liquid in the pan; this way the sprouts will brown a little.  Add a little more water if the pan gets too dry and the sprouts start sticking. This method cooks the sprouts a little faster. You can just saute them without covering but turn the heat down slightly and cook longer.
+1. Add 1 tablespoon of water to the frying pan and quickly place lid on pan. Let steam for about a minute then stir sprouts. Continue intervals of covering pan and stirring frequently until sprouts are tender (about 15 minutes). You don&#39;t want very much liquid in the pan; this way the sprouts will brown a little.  Add a little more water if the pan gets too dry and the sprouts start sticking. This method cooks the sprouts a little faster. You can just saute them without covering but turn the heat down slightly and cook longer.
 
 
 

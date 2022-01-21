@@ -32,7 +32,7 @@ recipeinstructions:
 - "In a 6 qt (a little less than 6 L) slow cooker, add the beans from Step 1 and the sautéed ingredients from Step 3, and all the ☆ ingredients. Cook on low for 6-7 hours, or high for 5 hours."
 - "Once the cooking time is done and the beans are tender, adjust the taste with salt and pepper. Lightly salt at this point since the soup may get saltier by simmering a little longer. Simmer for another 45 minutes."
 - "Adjust the taste again, lightly stir in the chopped cilantro at the end and it is done!"
-- "These are called "large black beans" in Japan instead of the regular black beans (black soy beans). (They are closer to the beans used to make Chinese fermented black beans.)"
+- "These are called &#34;large black beans&#34; in Japan instead of the regular black beans (black soy beans). (They are closer to the beans used to make Chinese fermented black beans.)"
 categories:
 - Recipe
 tags:
@@ -95,7 +95,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. In a 6 qt (a little less than 6 L) slow cooker, add the beans from Step 1 and the sautéed ingredients from Step 3, and all the ☆ ingredients. Cook on low for 6-7 hours, or high for 5 hours.
 1. Once the cooking time is done and the beans are tender, adjust the taste with salt and pepper. Lightly salt at this point since the soup may get saltier by simmering a little longer. Simmer for another 45 minutes.
 1. Adjust the taste again, lightly stir in the chopped cilantro at the end and it is done!
-1. These are called "large black beans" in Japan instead of the regular black beans (black soy beans). (They are closer to the beans used to make Chinese fermented black beans.)
+1. These are called &#34;large black beans&#34; in Japan instead of the regular black beans (black soy beans). (They are closer to the beans used to make Chinese fermented black beans.)
 
 
 

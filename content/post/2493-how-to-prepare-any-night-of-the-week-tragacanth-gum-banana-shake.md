@@ -63,7 +63,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can have
 1. Take 4 tbsp honey replacement for sugar
 
 
-Some of these species are known collectively under the common names "goat's thorn" and "locoweed". Because they use modernist ingredients, these amounts for this component are given in metric by weight. Grind together the sugar and xanthan gum, preferably using a mortar and pestle or a fork and bowl. Buy gum tragacanth products and get the best deals at the lowest prices on eBay! 
+Some of these species are known collectively under the common names &#34;goat&#39;s thorn&#34; and &#34;locoweed&#34;. Because they use modernist ingredients, these amounts for this component are given in metric by weight. Grind together the sugar and xanthan gum, preferably using a mortar and pestle or a fork and bowl. Buy gum tragacanth products and get the best deals at the lowest prices on eBay! 
 
 <!--inarticleads2-->
 
@@ -74,6 +74,6 @@ Some of these species are known collectively under the common names "goat's thor
 1. Make a smooth shake and add around 1 tbsp of goond katira or tragacanth gum in glass for per person.garnish some chopped nuts and serve chilled.enjoy so nutritious shake.stay safe stay healthy and happy
 
 
-Grind together the sugar and xanthan gum, preferably using a mortar and pestle or a fork and bowl. Buy gum tragacanth products and get the best deals at the lowest prices on eBay! Great Savings & Free Delivery / Collection on many items. Gum tragacanth is obtained by tapping the branches and tap roots. The gum dries as it exudes and is collected rapidly. 
+Grind together the sugar and xanthan gum, preferably using a mortar and pestle or a fork and bowl. Buy gum tragacanth products and get the best deals at the lowest prices on eBay! Great Savings &amp; Free Delivery / Collection on many items. Gum tragacanth is obtained by tapping the branches and tap roots. The gum dries as it exudes and is collected rapidly. 
 
 So that is going to wrap it up for this special food tragacanth gum banana shake recipe. Thanks so much for your time. I am sure you can make this at home. There's gonna be interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

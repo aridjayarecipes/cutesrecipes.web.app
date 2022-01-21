@@ -20,10 +20,10 @@ recipeingredient:
 recipeinstructions:
 - "Cut off 5 mm from the ends of the Brussels sprouts. Remove 2-3 of the darker leaves."
 - "Insert a cross-cut at the bottom. This makes it easier for the sprouts to cook through and the flavors to soak in."
-- "Brown the Brussels sprouts in a frying pan with olive oil. When browned add the white wine and water, cover with a lid, and steam cook on medium heat for 10 minutes. They're good if you can stab them with a fork."
+- "Brown the Brussels sprouts in a frying pan with olive oil. When browned add the white wine and water, cover with a lid, and steam cook on medium heat for 10 minutes. They&#39;re good if you can stab them with a fork."
 - "Remove the Brussels sprouts from the pan, then melt the butter and cook the minced garlic."
 - "Now add the Brussels sprouts! Mix everything together well."
-- "Add salt - an amount that you feel might be a bit too much - and it's done! Enjoy while hot, but they're also delicious cooled."
+- "Add salt - an amount that you feel might be a bit too much - and it&#39;s done! Enjoy while hot, but they&#39;re also delicious cooled."
 categories:
 - Recipe
 tags:
@@ -74,10 +74,10 @@ To begin with this recipe, we must first prepare a few ingredients. You can have
 
 1. Cut off 5 mm from the ends of the Brussels sprouts. Remove 2-3 of the darker leaves.
 1. Insert a cross-cut at the bottom. This makes it easier for the sprouts to cook through and the flavors to soak in.
-1. Brown the Brussels sprouts in a frying pan with olive oil. When browned add the white wine and water, cover with a lid, and steam cook on medium heat for 10 minutes. They're good if you can stab them with a fork.
+1. Brown the Brussels sprouts in a frying pan with olive oil. When browned add the white wine and water, cover with a lid, and steam cook on medium heat for 10 minutes. They&#39;re good if you can stab them with a fork.
 1. Remove the Brussels sprouts from the pan, then melt the butter and cook the minced garlic.
 1. Now add the Brussels sprouts! Mix everything together well.
-1. Add salt - an amount that you feel might be a bit too much - and it's done! Enjoy while hot, but they're also delicious cooled.
+1. Add salt - an amount that you feel might be a bit too much - and it&#39;s done! Enjoy while hot, but they&#39;re also delicious cooled.
 
 
 

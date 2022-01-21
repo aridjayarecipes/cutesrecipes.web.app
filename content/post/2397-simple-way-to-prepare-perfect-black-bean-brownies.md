@@ -28,7 +28,7 @@ recipeinstructions:
 - "Use a blender or food processor to combine black beans, eggs, chocolate, brown sugar, almond milk, balsamic vinegar, coconut oil, baking powder, baking soda, and coffee into a puree."
 - "(Optional) Fold in chopped nuts, coconut flakes, chocolate chips, or etc."
 - "Cook for 25-30 minutes or until a toothpick comes out clean."
-- "(Optional) Sprinkle or sift powdered sugar on top. I didn't have a sifter so I just sprinkled it on top."
+- "(Optional) Sprinkle or sift powdered sugar on top. I didn&#39;t have a sifter so I just sprinkled it on top."
 categories:
 - Recipe
 tags:
@@ -87,7 +87,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Use a blender or food processor to combine black beans, eggs, chocolate, brown sugar, almond milk, balsamic vinegar, coconut oil, baking powder, baking soda, and coffee into a puree.
 1. (Optional) Fold in chopped nuts, coconut flakes, chocolate chips, or etc.
 1. Cook for 25-30 minutes or until a toothpick comes out clean.
-1. (Optional) Sprinkle or sift powdered sugar on top. I didn't have a sifter so I just sprinkled it on top.
+1. (Optional) Sprinkle or sift powdered sugar on top. I didn&#39;t have a sifter so I just sprinkled it on top.
 
 
 

@@ -74,6 +74,6 @@ But whole-foods plant based eating generally minimizes oil-oil is a. This mango 
 1. Chop and combine chill and serve
 
 
-This healthy salad combined so many flavors in it, the sweetness from the mango, the freshness from the herbs, crunch from the cucumber and hit from the jalapeno. If you are into vegan salad and delicious salads. Mango, black beans, corn, and red pepper in a refreshing, it's-too-hot-to-cook salad. Be sure to refrigerate any leftovers. Mango Black Bean Salad. this link is to an external site that may or may not meet accessibility guidelines. 
+This healthy salad combined so many flavors in it, the sweetness from the mango, the freshness from the herbs, crunch from the cucumber and hit from the jalapeno. If you are into vegan salad and delicious salads. Mango, black beans, corn, and red pepper in a refreshing, it&#39;s-too-hot-to-cook salad. Be sure to refrigerate any leftovers. Mango Black Bean Salad. this link is to an external site that may or may not meet accessibility guidelines. 
 
 So that's going to wrap this up with this special food mango black bean salad (vegan) recipe. Thanks so much for your time. I'm confident you can make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

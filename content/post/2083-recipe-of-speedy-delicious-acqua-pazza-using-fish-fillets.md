@@ -25,7 +25,7 @@ recipeinstructions:
 - "Cut the cherry tomatoes in half. Slice the olives. Roughly chop the Italian parsley. Finely chop the garlic."
 - "Pat the [1] fish filets dry with a paper towel."
 - "Pour a generous amount of olive oil (not listed in the ingredients) into a deep frying pan and add the garlic to infuse the oil."
-- "Place the fish fillets with the skin sides down. Fry over a medium heat to prevent the garlic from burning (you don't need to thoroughly cook the fillets at this point)."
+- "Place the fish fillets with the skin sides down. Fry over a medium heat to prevent the garlic from burning (you don&#39;t need to thoroughly cook the fillets at this point)."
 - "Once the fish skin is crispy and golden brown, add all of the ★ ingredients. Cover with a lid and steam the contents in the pan (add 1/2 the amount of the parsley)."
 - "Once the clams open and the olive oil and water have emulsified, taste and season with salt, if necessary (keep in mind that the clams and fish are quite salty)."
 - "Garnish with the remaining parsley and serve."
@@ -84,7 +84,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Cut the cherry tomatoes in half. Slice the olives. Roughly chop the Italian parsley. Finely chop the garlic.
 1. Pat the [1] fish filets dry with a paper towel.
 1. Pour a generous amount of olive oil (not listed in the ingredients) into a deep frying pan and add the garlic to infuse the oil.
-1. Place the fish fillets with the skin sides down. Fry over a medium heat to prevent the garlic from burning (you don't need to thoroughly cook the fillets at this point).
+1. Place the fish fillets with the skin sides down. Fry over a medium heat to prevent the garlic from burning (you don&#39;t need to thoroughly cook the fillets at this point).
 1. Once the fish skin is crispy and golden brown, add all of the ★ ingredients. Cover with a lid and steam the contents in the pan (add 1/2 the amount of the parsley).
 1. Once the clams open and the olive oil and water have emulsified, taste and season with salt, if necessary (keep in mind that the clams and fish are quite salty).
 1. Garnish with the remaining parsley and serve.

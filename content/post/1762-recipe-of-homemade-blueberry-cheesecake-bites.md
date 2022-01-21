@@ -30,7 +30,7 @@ recipeinstructions:
 - "Using a mixer, mix until smooth and creamy"
 - "As evenly as possible spread the cheese mixture onto the crescent dough in the cake pan"
 - "Evenly spread the blueberries on top of the cheese mixture"
-- "Spread the second tube of dough on top of the blueberries (top crust). If it doesn't cover completely, that is OK, it is hard to get it 100% to the sides. Just don't mess up the filling"
+- "Spread the second tube of dough on top of the blueberries (top crust). If it doesn&#39;t cover completely, that is OK, it is hard to get it 100% to the sides. Just don&#39;t mess up the filling"
 - "Mix topping sugar and cinnamon together really well."
 - "Mix egg whites until frothy (you are not looking for peaks or anything like that)"
 - "Spread egg white on top of top crust"
@@ -97,7 +97,7 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Using a mixer, mix until smooth and creamy
 1. As evenly as possible spread the cheese mixture onto the crescent dough in the cake pan
 1. Evenly spread the blueberries on top of the cheese mixture
-1. Spread the second tube of dough on top of the blueberries (top crust). If it doesn't cover completely, that is OK, it is hard to get it 100% to the sides. Just don't mess up the filling
+1. Spread the second tube of dough on top of the blueberries (top crust). If it doesn&#39;t cover completely, that is OK, it is hard to get it 100% to the sides. Just don&#39;t mess up the filling
 1. Mix topping sugar and cinnamon together really well.
 1. Mix egg whites until frothy (you are not looking for peaks or anything like that)
 1. Spread egg white on top of top crust

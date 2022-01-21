@@ -21,11 +21,11 @@ recipeingredient:
 - " Taco seasoning"
 - " Oil to season"
 recipeinstructions:
-- "In a pot heat 3tbsp oil, add sliced onions, after it turns golden brown add 2tsp of taco seasoning mix, then ginger garlic paste & tomato. Fry untill it leaves the oil."
+- "In a pot heat 3tbsp oil, add sliced onions, after it turns golden brown add 2tsp of taco seasoning mix, then ginger garlic paste &amp; tomato. Fry untill it leaves the oil."
 - "Add the vegetables. Stir for 3-4mins"
-- "Add the cooked beans & adjust the salt to taste."
+- "Add the cooked beans &amp; adjust the salt to taste."
 - "Add desired amt of water which is left from cooked beans. Allow it to boil for 10-15mins."
-- "Enjoy as soup or with a bowl of rice & sliced avacadoes for a fulfilling meal."
+- "Enjoy as soup or with a bowl of rice &amp; sliced avacadoes for a fulfilling meal."
 categories:
 - Recipe
 tags:
@@ -48,7 +48,7 @@ recipecategory: Dessert
 
 Hey everyone, it is me, Dave, welcome to my recipe page. Today, we're going to make a special dish, mexican black bean soup. It is one of my favorites. This time, I am going to make it a bit unique. This will be really delicious.
 
-Keyword bean soup, black bean soup recipe, black beans, Easy. Of course, you're welcome to use a batch of homecooked beans, but this recipe is most handy for those days when you get home from work and need a no-thinking-involved meal, so we'll use a simple can of beans and get an equally stellar result. Recipe for making Mexican style black bean soup where all the aromatics are roasted to perfection. Best Healthy Soup Recipes Easy Ideas for Healthier Soups.
+Keyword bean soup, black bean soup recipe, black beans, Easy. Of course, you&#39;re welcome to use a batch of homecooked beans, but this recipe is most handy for those days when you get home from work and need a no-thinking-involved meal, so we&#39;ll use a simple can of beans and get an equally stellar result. Recipe for making Mexican style black bean soup where all the aromatics are roasted to perfection. Best Healthy Soup Recipes Easy Ideas for Healthier Soups.
 
 Mexican black bean soup is one of the most well liked of current trending meals on earth. It's appreciated by millions every day. It's easy, it's fast, it tastes yummy. They are nice and they look wonderful. Mexican black bean soup is something which I have loved my whole life.
 
@@ -71,19 +71,19 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Take  Oil to season
 
 
-This Mexican Black Bean Soup is packed full of bean protein. Beans, or legumes in general, are pretty much the very best vegan food you can eat to cover your body's protein needs and fill up your iron tank. This vegan black bean soup ticks all those boxes perfectly. We have designed this recipe to be authentically Mexican in order to stay true to its roots. 
+This Mexican Black Bean Soup is packed full of bean protein. Beans, or legumes in general, are pretty much the very best vegan food you can eat to cover your body&#39;s protein needs and fill up your iron tank. This vegan black bean soup ticks all those boxes perfectly. We have designed this recipe to be authentically Mexican in order to stay true to its roots. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Mexican black bean soup:
 
-1. In a pot heat 3tbsp oil, add sliced onions, after it turns golden brown add 2tsp of taco seasoning mix, then ginger garlic paste & tomato. Fry untill it leaves the oil.
+1. In a pot heat 3tbsp oil, add sliced onions, after it turns golden brown add 2tsp of taco seasoning mix, then ginger garlic paste &amp; tomato. Fry untill it leaves the oil.
 1. Add the vegetables. Stir for 3-4mins
-1. Add the cooked beans & adjust the salt to taste.
+1. Add the cooked beans &amp; adjust the salt to taste.
 1. Add desired amt of water which is left from cooked beans. Allow it to boil for 10-15mins.
-1. Enjoy as soup or with a bowl of rice & sliced avacadoes for a fulfilling meal.
+1. Enjoy as soup or with a bowl of rice &amp; sliced avacadoes for a fulfilling meal.
 
 
-This vegan black bean soup ticks all those boxes perfectly. We have designed this recipe to be authentically Mexican in order to stay true to its roots. You'll be able to get a feel for this country's cuisine from all the amazing flavors in this soup. Subtly flavoured comfort - that describes this traditional Mexican soup best of all. This Mexican Black Bean Soup is so delicious. 
+This vegan black bean soup ticks all those boxes perfectly. We have designed this recipe to be authentically Mexican in order to stay true to its roots. You&#39;ll be able to get a feel for this country&#39;s cuisine from all the amazing flavors in this soup. Subtly flavoured comfort - that describes this traditional Mexican soup best of all. This Mexican Black Bean Soup is so delicious. 
 
 So that is going to wrap this up with this exceptional food mexican black bean soup recipe. Thanks so much for reading. I'm confident that you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

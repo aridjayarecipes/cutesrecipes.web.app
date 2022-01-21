@@ -53,7 +53,7 @@ Hello everybody, it's Drew, welcome to my recipe page. Today, I will show you a 
 
 Pork with Apples, Cabbage, and Fennel is one of the most favored of current trending meals in the world. It's easy, it's quick, it tastes yummy. It is enjoyed by millions daily. Pork with Apples, Cabbage, and Fennel is something that I've loved my whole life. They're nice and they look wonderful.
 
-What I didn't want was for the pork chops to get overcooked, or the apples to get too soft, or the appearance of And then since Pork chops are better when cooked with high, direct heat methods, broiling those will yield a much better result than just baking them with the cabbage and fennel. Mix in vinegar, sugar and season to taste. Heat remaining oil in a frying pan or chargrill on high. This one-pot braised pork cooked with red apples, red cabbage, and fennel bulbs, is the perfect dish to get you through Fall and Winter.
+What I didn&#39;t want was for the pork chops to get overcooked, or the apples to get too soft, or the appearance of And then since Pork chops are better when cooked with high, direct heat methods, broiling those will yield a much better result than just baking them with the cabbage and fennel. Mix in vinegar, sugar and season to taste. Heat remaining oil in a frying pan or chargrill on high. This one-pot braised pork cooked with red apples, red cabbage, and fennel bulbs, is the perfect dish to get you through Fall and Winter.
 
 
 To get started with this recipe, we have to prepare a few components. You can have pork with apples, cabbage, and fennel using 13 ingredients and 5 steps. Here is how you cook it.

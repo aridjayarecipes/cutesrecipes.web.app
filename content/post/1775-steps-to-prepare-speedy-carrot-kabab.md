@@ -70,7 +70,7 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Get as needed Oil for frying
 
 
-Potato & Carrot Kabab goes great in Ramadan. Take boiled potato, carrot and mashed with hand. After that add salt, black pepper, crushed red pepper, khatai powder, coriander, mint and mix it well. Now wet your hands and make kabab now. 
+Potato &amp; Carrot Kabab goes great in Ramadan. Take boiled potato, carrot and mashed with hand. After that add salt, black pepper, crushed red pepper, khatai powder, coriander, mint and mix it well. Now wet your hands and make kabab now. 
 
 <!--inarticleads2-->
 

@@ -19,7 +19,7 @@ recipeingredient:
 - "1/4 tsp ginger powder"
 recipeinstructions:
 - "Place your baking rack to the bottom half of the oven. Preheat to the Broil setting."
-- "Splash some wine on your mackerel fillet to get rid of the fishy smell and pat dry. Salt & pepper lightly. Set aside."
+- "Splash some wine on your mackerel fillet to get rid of the fishy smell and pat dry. Salt &amp; pepper lightly. Set aside."
 - "In a small bowl, combine the gochujang, soy, oil, rice vinegar, and ginger powder."
 - "Line a baking tray with foil. Paint the sauce mixture on the fish. Broil for 5 mins."
 - "At the 5 min mark; brush on the sauce mixture again. Broil until the 10 minute mark, or until the fish has an internal temp of 145F. Enjoy with steam rice and your favorite ban chan :)"
@@ -72,7 +72,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 ##### Instructions to make Gochujang Roasted Mackerel:
 
 1. Place your baking rack to the bottom half of the oven. Preheat to the Broil setting.
-1. Splash some wine on your mackerel fillet to get rid of the fishy smell and pat dry. Salt & pepper lightly. Set aside.
+1. Splash some wine on your mackerel fillet to get rid of the fishy smell and pat dry. Salt &amp; pepper lightly. Set aside.
 1. In a small bowl, combine the gochujang, soy, oil, rice vinegar, and ginger powder.
 1. Line a baking tray with foil. Paint the sauce mixture on the fish. Broil for 5 mins.
 1. At the 5 min mark; brush on the sauce mixture again. Broil until the 10 minute mark, or until the fish has an internal temp of 145F. Enjoy with steam rice and your favorite ban chan :)

@@ -18,8 +18,8 @@ recipeingredient:
 recipeinstructions:
 - "Heat oven to 350°F. Spray 13x9-inch (3-quart) baking dish with cooking spray."
 - "In large microwavable bowl, microwave cream cheese and powdered sugar uncovered on High 30 to 60 seconds, stirring after 30 seconds, until softened. Stir until smooth. Stir in blueberries and 1 tablespoon of the lemon zest. *(my cream cheese had gone bad so i substituted blueberry cream cheese spread and I didnt have powdered sugar so i used brown sugar in its place and I also only had 1 cup of fresh blueberries)"
-- "Separate dough into 5 rolls; return icing to refrigerator. Cut each roll into 6 pieces; stir into berry mixture. *(I messed up and only cut them into 4 pieces but it still worked out, though I'd do the recommended 6 next time)"
-- "Spoon and arrange in baking dish. Bake 34 to 38 minutes or until bubbling around edges and dough is baked through in center. Cool 10 minutes. *(my mixture did not cover the bottom of the dish and I believe it's because I cut the rolls into 4s not 6s and I was 1 cup of blueberries and.5 oz of cream cheese short)"
+- "Separate dough into 5 rolls; return icing to refrigerator. Cut each roll into 6 pieces; stir into berry mixture. *(I messed up and only cut them into 4 pieces but it still worked out, though I&#39;d do the recommended 6 next time)"
+- "Spoon and arrange in baking dish. Bake 34 to 38 minutes or until bubbling around edges and dough is baked through in center. Cool 10 minutes. *(my mixture did not cover the bottom of the dish and I believe it&#39;s because I cut the rolls into 4s not 6s and I was 1 cup of blueberries and.5 oz of cream cheese short)"
 - "Transfer reserved icing to small bowl, stir in remaining 1 tablespoon lemon zest."
 - "Spoon icing mixture into small resealable food-storage plastic bag; partially seal bag. Cut off tiny corner of bag; squeeze bag to pipe over top of breakfast bake. *(I literally heated it up in the container it came in and poured it over the bake and it was great)"
 - "Serve Warm. Enjoy!"
@@ -72,8 +72,8 @@ To begin with this recipe, we have to prepare a few ingredients. You can have bl
 
 1. Heat oven to 350°F. Spray 13x9-inch (3-quart) baking dish with cooking spray.
 1. In large microwavable bowl, microwave cream cheese and powdered sugar uncovered on High 30 to 60 seconds, stirring after 30 seconds, until softened. Stir until smooth. Stir in blueberries and 1 tablespoon of the lemon zest. *(my cream cheese had gone bad so i substituted blueberry cream cheese spread and I didnt have powdered sugar so i used brown sugar in its place and I also only had 1 cup of fresh blueberries)
-1. Separate dough into 5 rolls; return icing to refrigerator. Cut each roll into 6 pieces; stir into berry mixture. *(I messed up and only cut them into 4 pieces but it still worked out, though I'd do the recommended 6 next time)
-1. Spoon and arrange in baking dish. Bake 34 to 38 minutes or until bubbling around edges and dough is baked through in center. Cool 10 minutes. *(my mixture did not cover the bottom of the dish and I believe it's because I cut the rolls into 4s not 6s and I was 1 cup of blueberries and.5 oz of cream cheese short)
+1. Separate dough into 5 rolls; return icing to refrigerator. Cut each roll into 6 pieces; stir into berry mixture. *(I messed up and only cut them into 4 pieces but it still worked out, though I&#39;d do the recommended 6 next time)
+1. Spoon and arrange in baking dish. Bake 34 to 38 minutes or until bubbling around edges and dough is baked through in center. Cool 10 minutes. *(my mixture did not cover the bottom of the dish and I believe it&#39;s because I cut the rolls into 4s not 6s and I was 1 cup of blueberries and.5 oz of cream cheese short)
 1. Transfer reserved icing to small bowl, stir in remaining 1 tablespoon lemon zest.
 1. Spoon icing mixture into small resealable food-storage plastic bag; partially seal bag. Cut off tiny corner of bag; squeeze bag to pipe over top of breakfast bake. *(I literally heated it up in the container it came in and poured it over the bake and it was great)
 1. Serve Warm. Enjoy!

@@ -74,6 +74,6 @@ Maybe you think that cabbage is a boring vegetable, one that can only be used fo
 1. Add tamari sauce and wine, taste the saltiness and adjust seasoning with salt or fish sauce if needed. Plate and serve hot.
 
 
-Add some salt, pepper and cumin. Roasting is a game-changer, convincing even picky eaters that this vegetable is worth a try! It's such a versatile side dish. Sauteed Cabbage with Shrimp Recipe SparkRecipes. Details: In pan add oil, a bit of water, cabbage, peppers, and seasoning. 
+Add some salt, pepper and cumin. Roasting is a game-changer, convincing even picky eaters that this vegetable is worth a try! It&#39;s such a versatile side dish. Sauteed Cabbage with Shrimp Recipe SparkRecipes. Details: In pan add oil, a bit of water, cabbage, peppers, and seasoning. 
 
 So that is going to wrap it up for this special food sauted cabbage in garlic and olive sauce #mommasrecipes recipe. Thank you very much for reading. I'm confident you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

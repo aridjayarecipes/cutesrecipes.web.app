@@ -49,7 +49,7 @@ Hello everybody, it's Drew, welcome to our recipe site. Today, we're going to ma
 
 Mix fruit pizza is one of the most well liked of current trending foods in the world. It is easy, it is quick, it tastes delicious. It is appreciated by millions daily. Mix fruit pizza is something that I have loved my entire life. They're fine and they look fantastic.
 
-Fruit Pizza - perfectly easy to make yet it's always a showstopper that's sure to impress, both in Whisk dry ingredients: In a medium mixing bowl whisk together flour, baking powder, baking soda. See more ideas about fruit pizza, dessert pizza, food. This cream cheese fruit pizza is made simple with crescent dough and a sweet cream cheese mixture. #fruit #fruitpizza #recipe. You're going to love this Cake Mix Fruit Pizza!
+Fruit Pizza - perfectly easy to make yet it&#39;s always a showstopper that&#39;s sure to impress, both in Whisk dry ingredients: In a medium mixing bowl whisk together flour, baking powder, baking soda. See more ideas about fruit pizza, dessert pizza, food. This cream cheese fruit pizza is made simple with crescent dough and a sweet cream cheese mixture. #fruit #fruitpizza #recipe. You&#39;re going to love this Cake Mix Fruit Pizza!
 
 
 To begin with this particular recipe, we must prepare a few ingredients. You can have mix fruit pizza using 10 ingredients and 4 steps. Here is how you cook that.

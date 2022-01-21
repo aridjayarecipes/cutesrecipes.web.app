@@ -59,7 +59,7 @@ Hello everybody, it is me, Dave, welcome to my recipe page. Today, I will show y
 
 Dolma 1 is one of the most popular of current trending meals in the world. It's appreciated by millions daily. It's simple, it's quick, it tastes yummy. Dolma 1 is something which I have loved my entire life. They are fine and they look wonderful.
 
-Dolma is a family of stuffed dishes found in the Balkans, South Caucasus, Central Asia and the Middle East, in which a vegetable or leaf is used as a container or wrapping for another food used as a filling. From Turkish dolma, from Ottoman Turkish طولمه‎ (dolma), from طولمق‎ (dolmak, "to get full, be filled"). Thus, the word literally means "stuffed thing". dolma (plural dolmas). Any of a family of stuffed vegetable dishes.
+Dolma is a family of stuffed dishes found in the Balkans, South Caucasus, Central Asia and the Middle East, in which a vegetable or leaf is used as a container or wrapping for another food used as a filling. From Turkish dolma, from Ottoman Turkish طولمه‎ (dolma), from طولمق‎ (dolmak, &#34;to get full, be filled&#34;). Thus, the word literally means &#34;stuffed thing&#34;. dolma (plural dolmas). Any of a family of stuffed vegetable dishes.
 
 
 To get started with this recipe, we have to prepare a few ingredients. You can have dolma 1 using 21 ingredients and 4 steps. Here is how you can achieve it.

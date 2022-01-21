@@ -22,7 +22,7 @@ recipeingredient:
 recipeinstructions:
 - "Preheat oven to 400 degrees Fahrenheit"
 - "I get my Brussel sprouts from the store already cut in half. So I wash and rinse them and put them in a casserole dish. I cover it with plastic wrap place a single hole in the center and microwave it for about 5 minutes."
-- "While that's microwaving, place cast iron pan on stove. Add a little bit of olive oil or spray olive oil into the pan (if you don't use spray oil make sure the oils up along the sides of the pan) and heat pan. On medium-high heat."
+- "While that&#39;s microwaving, place cast iron pan on stove. Add a little bit of olive oil or spray olive oil into the pan (if you don&#39;t use spray oil make sure the oils up along the sides of the pan) and heat pan. On medium-high heat."
 - "Once the pan starts smoking a little, put all the pancetta into the pan. Move pancetta around the pan until pancetta starts becoming a little crispy and a little translucent."
 - "By the time that starts happening your brussel sprouts should be done from the microwave. Remove the plastic wrap and carefully put pancetta into the cast iron pan."
 - "Start mixing in the brussel sprouts with the pancetta the minced garlic, black pepper, onion powder and garlic salt. Or anything else you want to throw in there. Make sure it is well mixed together."
@@ -81,7 +81,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 
 1. Preheat oven to 400 degrees Fahrenheit
 1. I get my Brussel sprouts from the store already cut in half. So I wash and rinse them and put them in a casserole dish. I cover it with plastic wrap place a single hole in the center and microwave it for about 5 minutes.
-1. While that's microwaving, place cast iron pan on stove. Add a little bit of olive oil or spray olive oil into the pan (if you don't use spray oil make sure the oils up along the sides of the pan) and heat pan. On medium-high heat.
+1. While that&#39;s microwaving, place cast iron pan on stove. Add a little bit of olive oil or spray olive oil into the pan (if you don&#39;t use spray oil make sure the oils up along the sides of the pan) and heat pan. On medium-high heat.
 1. Once the pan starts smoking a little, put all the pancetta into the pan. Move pancetta around the pan until pancetta starts becoming a little crispy and a little translucent.
 1. By the time that starts happening your brussel sprouts should be done from the microwave. Remove the plastic wrap and carefully put pancetta into the cast iron pan.
 1. Start mixing in the brussel sprouts with the pancetta the minced garlic, black pepper, onion powder and garlic salt. Or anything else you want to throw in there. Make sure it is well mixed together.

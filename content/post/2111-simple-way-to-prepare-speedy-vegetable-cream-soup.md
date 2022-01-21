@@ -50,7 +50,7 @@ Hello everybody, it is me, Dave, welcome to our recipe page. Today, we're going 
 
 Vegetable cream soup is one of the most favored of recent trending foods in the world. It's appreciated by millions daily. It is easy, it's quick, it tastes yummy. Vegetable cream soup is something which I have loved my entire life. They are fine and they look wonderful.
 
-Lemony Chicken Vegetable Soup — This lemon chicken and vegetable soup checks all the boxes. I've never made cream of vegetable soup so when I went online this morning to find a recipe, I found. The 'creme' soup uses a light bechamel as a base and is then combined with a puree vegetable(s). And of course as it's French cuisine, more cream and milk are added to finish it off.
+Lemony Chicken Vegetable Soup — This lemon chicken and vegetable soup checks all the boxes. I&#39;ve never made cream of vegetable soup so when I went online this morning to find a recipe, I found. The &#39;creme&#39; soup uses a light bechamel as a base and is then combined with a puree vegetable(s). And of course as it&#39;s French cuisine, more cream and milk are added to finish it off.
 
 
 To begin with this particular recipe, we must prepare a few components. You can cook vegetable cream soup using 7 ingredients and 8 steps. Here is how you can achieve that.

@@ -27,12 +27,12 @@ recipeingredient:
 - " Asrafi Green Red"
 - " Dry fruits Chopped almonds Raisin Coconut"
 recipeinstructions:
-- "First, take water in a pot add Water, Cinnamon Stick, Bay leaf, Star anise, Green cardamom, Cloves & add yellow food colour with water."
+- "First, take water in a pot add Water, Cinnamon Stick, Bay leaf, Star anise, Green cardamom, Cloves &amp; add yellow food colour with water."
 - "When water is boiled, add rice and cook them completely. Then take rice out in a strainer and drain the water."
 - "First heat ghee in a pan. When ghee is heated, add crack green cardamoms.Fry it 2 mins."
 - "Then, add boiled rice and also sugar to the rice and mix."
 - "When sugar is dissolved, turn the flame high so that sugar water is dried. Do not move ladle repeatedly; it will break the rice."
-- "When rice water is dried & rice cooked completely, add Rose essence, Ashrafi, almonds, pistachios, chopped coconuts, and now place for dam (Now cook at low flame)."
+- "When rice water is dried &amp; rice cooked completely, add Rose essence, Ashrafi, almonds, pistachios, chopped coconuts, and now place for dam (Now cook at low flame)."
 - "Very tasty zarda sweet rice is ready. Garnish with khoya and gulab jamun or chum chum."
 categories:
 - Recipe
@@ -83,21 +83,21 @@ To get started with this recipe, we have to prepare a few components. You can ha
 1. Get  Dry fruits (Chopped almonds, Raisin, Coconut)
 
 
-Zarda is typically served after a meal. Start studying Bill of Rights Zarda. Learn vocabulary, terms and more with flashcards, games and other study tools. Скачивай и слушай farrux xamraev zarda и жамшидбек jamshidbek зарда zarda на Zvooq.online! Shadi Wala Zarda Rice, Zarda Pulao, Sweet Rice Recipe, Meethe Chawal, zarda recipe,Zafrani Zarda Rice Ingredients: Direction Shadi Wala Zarda Rice, Zarda Pulao, Sweet Rice Recipe, Meethe Chawal, zarda recipe,Zafrani Zarda Rice Today I'm going to make quick and easy Zarda. 
+Zarda is typically served after a meal. Start studying Bill of Rights Zarda. Learn vocabulary, terms and more with flashcards, games and other study tools. Скачивай и слушай farrux xamraev zarda и жамшидбек jamshidbek зарда zarda на Zvooq.online! Shadi Wala Zarda Rice, Zarda Pulao, Sweet Rice Recipe, Meethe Chawal, zarda recipe,Zafrani Zarda Rice Ingredients: Direction Shadi Wala Zarda Rice, Zarda Pulao, Sweet Rice Recipe, Meethe Chawal, zarda recipe,Zafrani Zarda Rice Today I&#39;m going to make quick and easy Zarda. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Zarda:
 
-1. First, take water in a pot add Water, Cinnamon Stick, Bay leaf, Star anise, Green cardamom, Cloves & add yellow food colour with water.
+1. First, take water in a pot add Water, Cinnamon Stick, Bay leaf, Star anise, Green cardamom, Cloves &amp; add yellow food colour with water.
 1. When water is boiled, add rice and cook them completely. Then take rice out in a strainer and drain the water.
 1. First heat ghee in a pan. When ghee is heated, add crack green cardamoms.Fry it 2 mins.
 1. Then, add boiled rice and also sugar to the rice and mix.
 1. When sugar is dissolved, turn the flame high so that sugar water is dried. - Do not move ladle repeatedly; it will break the rice.
-1. When rice water is dried & rice cooked completely, add Rose essence, Ashrafi, almonds, pistachios, chopped coconuts, and now place for dam (Now cook at low flame).
+1. When rice water is dried &amp; rice cooked completely, add Rose essence, Ashrafi, almonds, pistachios, chopped coconuts, and now place for dam (Now cook at low flame).
 1. Very tasty zarda sweet rice is ready. Garnish with khoya and gulab jamun or chum chum.
 
 
-Learn vocabulary, terms and more with flashcards, games and other study tools. Скачивай и слушай farrux xamraev zarda и жамшидбек jamshidbek зарда zarda на Zvooq.online! Shadi Wala Zarda Rice, Zarda Pulao, Sweet Rice Recipe, Meethe Chawal, zarda recipe,Zafrani Zarda Rice Ingredients: Direction Shadi Wala Zarda Rice, Zarda Pulao, Sweet Rice Recipe, Meethe Chawal, zarda recipe,Zafrani Zarda Rice Today I'm going to make quick and easy Zarda. Dawat Wala Zarda Meethe Chawal Shaadion Wale Recipe in Urdu Hindi - RKK Ye hai meri shadion wale zarday ki recipe jo kay. Interiors + lifestyle blog's best boards. 
+Learn vocabulary, terms and more with flashcards, games and other study tools. Скачивай и слушай farrux xamraev zarda и жамшидбек jamshidbek зарда zarda на Zvooq.online! Shadi Wala Zarda Rice, Zarda Pulao, Sweet Rice Recipe, Meethe Chawal, zarda recipe,Zafrani Zarda Rice Ingredients: Direction Shadi Wala Zarda Rice, Zarda Pulao, Sweet Rice Recipe, Meethe Chawal, zarda recipe,Zafrani Zarda Rice Today I&#39;m going to make quick and easy Zarda. Dawat Wala Zarda Meethe Chawal Shaadion Wale Recipe in Urdu Hindi - RKK Ye hai meri shadion wale zarday ki recipe jo kay. Interiors + lifestyle blog&#39;s best boards. 
 
 So that is going to wrap this up for this exceptional food zarda recipe. Thank you very much for reading. I am sure you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

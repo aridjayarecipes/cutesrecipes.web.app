@@ -57,7 +57,7 @@ To get started with this recipe, we must first prepare a few components. You can
 
 1. Get 1 pound brussels sprouts trimmed and halved lengthwise
 1. Get 2 tablespoons olive oil
-1. Take 1/3 cup soppressata (I didn't have this so I used pancetta)
+1. Take 1/3 cup soppressata (I didn&#39;t have this so I used pancetta)
 1. Prepare 2 tablespoons honey
 1. Get 1 tablespoon red wine vinegar
 1. Take 1/4 teaspoon crushed red pepper

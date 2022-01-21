@@ -27,13 +27,13 @@ recipeingredient:
 recipeinstructions:
 - "Gather all of the ingredients"
 - "Leave the rice in 500 ml of water to soak up for the time being."
-- "Heat 1 tablespoon of olive oil in a large frying pan with a lid and cook 2 chopped chicken breasts for 5-8 mins or until it's golden."
+- "Heat 1 tablespoon of olive oil in a large frying pan with a lid and cook 2 chopped chicken breasts for 5-8 mins or until it&#39;s golden."
 - "Remove and set aside. Tip in the 1 diced / sliced onion and cook for 3-4 min or until soft"
 - "Once the onion is soften, add one thinly sliced red pepper, two crushed garlic cloves, 75g sliced turkey and one tablespoon of Cajun seasoning, and cook for 5 minutes more."
 - "Mix the chicken stock cubed with the 350ml of boiling water"
 - "Stir the chicken back in with the 400g can of tomatoes."
 - "Drain the water out of the rice and add it to the mix"
-- "Then add the chicke stock once it's fully dissolved"
+- "Then add the chicke stock once it&#39;s fully dissolved"
 - "Add the salt and pepper and stir"
 - "Cover and simmer for 20-25 minutes until the rice is tender"
 - "Serve and Enjoy!"
@@ -94,13 +94,13 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 
 1. Gather all of the ingredients
 1. Leave the rice in 500 ml of water to soak up for the time being.
-1. Heat 1 tablespoon of olive oil in a large frying pan with a lid and cook 2 chopped chicken breasts for 5-8 mins or until it's golden.
+1. Heat 1 tablespoon of olive oil in a large frying pan with a lid and cook 2 chopped chicken breasts for 5-8 mins or until it&#39;s golden.
 1. Remove and set aside. Tip in the 1 diced / sliced onion and cook for 3-4 min or until soft
 1. Once the onion is soften, add one thinly sliced red pepper, two crushed garlic cloves, 75g sliced turkey and one tablespoon of Cajun seasoning, and cook for 5 minutes more.
 1. Mix the chicken stock cubed with the 350ml of boiling water
 1. Stir the chicken back in with the 400g can of tomatoes.
 1. Drain the water out of the rice and add it to the mix
-1. Then add the chicke stock once it's fully dissolved
+1. Then add the chicke stock once it&#39;s fully dissolved
 1. Add the salt and pepper and stir
 1. Cover and simmer for 20-25 minutes until the rice is tender
 1. Serve and Enjoy!

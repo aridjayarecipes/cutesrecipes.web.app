@@ -21,8 +21,8 @@ recipeingredient:
 recipeinstructions:
 - "Wash,peel n cut bananas."
 - "Slice and de seed plums."
-- "In a blender add plums,bananas,yogurt, sugar & ice cubes."
-- "Add ginger,orange squash& milk.Blend untill smooth."
+- "In a blender add plums,bananas,yogurt, sugar &amp; ice cubes."
+- "Add ginger,orange squash&amp; milk.Blend untill smooth."
 - "Serve chilled."
 categories:
 - Recipe
@@ -75,11 +75,11 @@ Ginger Plum Smoothie. by Molly Watson. Denna smoothie är den främsta orsaken t
 
 1. Wash,peel n cut bananas.
 1. Slice and de seed plums.
-1. In a blender add plums,bananas,yogurt, sugar & ice cubes.
-1. Add ginger,orange squash& milk.Blend untill smooth.
+1. In a blender add plums,bananas,yogurt, sugar &amp; ice cubes.
+1. Add ginger,orange squash&amp; milk.Blend untill smooth.
 1. Serve chilled.
 
 
-Och när jag gör det, halverar jag och pitar plommon, skar dem sedan i kilar eller bitar och fryser dem med sina skinn på (se hur man fryser. The Best Plum Smoothie Recipes on Yummly Honey Plum Smoothie, Plum And Honey Smoothie, Jamun Fruit Smoothie/ Black Plum Smoothie. Wash, peel n cut mangoes & Bananas. In a blender add sugar, milk, mangoes n bananas. 
+Och när jag gör det, halverar jag och pitar plommon, skar dem sedan i kilar eller bitar och fryser dem med sina skinn på (se hur man fryser. The Best Plum Smoothie Recipes on Yummly Honey Plum Smoothie, Plum And Honey Smoothie, Jamun Fruit Smoothie/ Black Plum Smoothie. Wash, peel n cut mangoes &amp; Bananas. In a blender add sugar, milk, mangoes n bananas. 
 
 So that's going to wrap it up with this special food ginger n plum smoothie recipe. Thank you very much for your time. I am confident that you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

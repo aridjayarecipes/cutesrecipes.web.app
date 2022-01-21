@@ -26,12 +26,12 @@ recipeingredient:
 - "As required Fresh Cream I used Malai for garnishing"
 - "As required Chopped Coriander leaves for garnishing"
 recipeinstructions:
-- "Put chopped carrots, onion, tomatoes with slits, garlic, ginger & all mentioned whole spices in a pressure cooker along with water & cook for 3 whistles."
+- "Put chopped carrots, onion, tomatoes with slits, garlic, ginger &amp; all mentioned whole spices in a pressure cooker along with water &amp; cook for 3 whistles."
 - "Let the pressure release itself. Strain it and keep this water(broth) aside."
 - "Remove the whole spices before blending it to keep the flavors mild. Now blend it till smooth."
 - "Mix it with broth and strain again to get the silky smooth texture."
-- "Now transfer to a vessel, add salt & little black pepper powder and mix it. Bring to a boil & Let it simmer for 5 mins on low flame."
-- "Soup is ready, pour it into soup bowls, garnish with some fesh cream(malai) & coriander leaves. Enjoy Hot!"
+- "Now transfer to a vessel, add salt &amp; little black pepper powder and mix it. Bring to a boil &amp; Let it simmer for 5 mins on low flame."
+- "Soup is ready, pour it into soup bowls, garnish with some fesh cream(malai) &amp; coriander leaves. Enjoy Hot!"
 categories:
 - Recipe
 tags:
@@ -82,20 +82,20 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Prepare As required Chopped Coriander leaves for garnishing
 
 
-So I decided to go into some wintery mood (finally) and cook my first soup for the season. This Tomato Carrot Soup is made with roasted tomatoes, carrots, and red onions. It's loaded with flavors from the roasted tomatoes, carrots, and onions. Carrot Tomato Soup recipe with step by step photos. 
+So I decided to go into some wintery mood (finally) and cook my first soup for the season. This Tomato Carrot Soup is made with roasted tomatoes, carrots, and red onions. It&#39;s loaded with flavors from the roasted tomatoes, carrots, and onions. Carrot Tomato Soup recipe with step by step photos. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Carrot-Tomato soup - Healthy Tricolor recipe:
 
-1. Put chopped carrots, onion, tomatoes with slits, garlic, ginger & all mentioned whole spices in a pressure cooker along with water & cook for 3 whistles.
+1. Put chopped carrots, onion, tomatoes with slits, garlic, ginger &amp; all mentioned whole spices in a pressure cooker along with water &amp; cook for 3 whistles.
 1. Let the pressure release itself. Strain it and keep this water(broth) aside.
 1. Remove the whole spices before blending it to keep the flavors mild. Now blend it till smooth.
 1. Mix it with broth and strain again to get the silky smooth texture.
-1. Now transfer to a vessel, add salt & little black pepper powder and mix it. Bring to a boil & Let it simmer for 5 mins on low flame.
-1. Soup is ready, pour it into soup bowls, garnish with some fesh cream(malai) & coriander leaves. Enjoy Hot!
+1. Now transfer to a vessel, add salt &amp; little black pepper powder and mix it. Bring to a boil &amp; Let it simmer for 5 mins on low flame.
+1. Soup is ready, pour it into soup bowls, garnish with some fesh cream(malai) &amp; coriander leaves. Enjoy Hot!
 
 
-It's loaded with flavors from the roasted tomatoes, carrots, and onions. Carrot Tomato Soup recipe with step by step photos. The tomato carrot soup has the sweetness of the carrots & onions, along with the slight tanginess of the tomatoes. Garlic in the soup gives a slight sharpness with the earthy flavors of cumin. To begin making the Roasted Carrot and Tomato Soup Recipe, we will first blanch the tomatoes. 
+It&#39;s loaded with flavors from the roasted tomatoes, carrots, and onions. Carrot Tomato Soup recipe with step by step photos. The tomato carrot soup has the sweetness of the carrots &amp; onions, along with the slight tanginess of the tomatoes. Garlic in the soup gives a slight sharpness with the earthy flavors of cumin. To begin making the Roasted Carrot and Tomato Soup Recipe, we will first blanch the tomatoes. 
 
 So that's going to wrap this up with this exceptional food carrot-tomato soup - healthy tricolor recipe recipe. Thanks so much for your time. I'm sure that you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -43,7 +43,7 @@ Hello everybody, I hope you are having an incredible day today. Today, we're goi
 
 Sautéed cabbage with young sardine is one of the most well liked of recent trending meals in the world. It is simple, it is fast, it tastes yummy. It's enjoyed by millions daily. Sautéed cabbage with young sardine is something which I've loved my whole life. They're fine and they look fantastic.
 
-Add sesame oil into a pan and heat on medium heat. When hot, add sardine and cook until crispy. You can add garlic powder while cooking. Raw young sardines are often served as "young sardines don": a bowl of rice with fresh young sardines on top.
+Add sesame oil into a pan and heat on medium heat. When hot, add sardine and cook until crispy. You can add garlic powder while cooking. Raw young sardines are often served as &#34;young sardines don&#34;: a bowl of rice with fresh young sardines on top.
 
 
 To get started with this particular recipe, we have to first prepare a few components. You can have sautéed cabbage with young sardine using 5 ingredients and 3 steps. Here is how you can achieve that.

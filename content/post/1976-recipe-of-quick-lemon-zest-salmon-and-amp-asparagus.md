@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Quick Lemon Zest Salmon &amp; Asparagus"
-title: "Recipe of Quick Lemon Zest Salmon &amp; Asparagus"
+description: "Recipe of Quick Lemon Zest Salmon &amp;amp; Asparagus"
+title: "Recipe of Quick Lemon Zest Salmon &amp;amp; Asparagus"
 slug: 1976-recipe-of-quick-lemon-zest-salmon-and-amp-asparagus
 date: 2021-11-24T23:58:10.532Z
 image: https://img-global.cpcdn.com/recipes/e02effbfd32d144d/680x482cq70/lemon-zest-salmon-asparagus-recipe-main-photo.jpg
@@ -40,20 +40,20 @@ recipecategory: Dinner
 ---
 
 
-![Lemon Zest Salmon & Asparagus](https://img-global.cpcdn.com/recipes/e02effbfd32d144d/680x482cq70/lemon-zest-salmon-asparagus-recipe-main-photo.jpg)
+![Lemon Zest Salmon &amp; Asparagus](https://img-global.cpcdn.com/recipes/e02effbfd32d144d/680x482cq70/lemon-zest-salmon-asparagus-recipe-main-photo.jpg)
 
-Hey everyone, it's John, welcome to my recipe page. Today, I will show you a way to prepare a special dish, lemon zest salmon & asparagus. It is one of my favorites food recipes. For mine, I am going to make it a little bit tasty. This will be really delicious.
-
-
-
-Lemon Zest Salmon & Asparagus is one of the most popular of recent trending foods on earth. It is easy, it's fast, it tastes yummy. It is appreciated by millions every day. Lemon Zest Salmon & Asparagus is something that I've loved my entire life. They're fine and they look wonderful.
+Hey everyone, it's John, welcome to my recipe page. Today, I will show you a way to prepare a special dish, lemon zest salmon &amp; asparagus. It is one of my favorites food recipes. For mine, I am going to make it a little bit tasty. This will be really delicious.
 
 
-To get started with this particular recipe, we have to first prepare a few components. You can have lemon zest salmon & asparagus using 6 ingredients and 5 steps. Here is how you cook that.
+
+Lemon Zest Salmon &amp; Asparagus is one of the most popular of recent trending foods on earth. It is easy, it's fast, it tastes yummy. It is appreciated by millions every day. Lemon Zest Salmon &amp; Asparagus is something that I've loved my entire life. They're fine and they look wonderful.
+
+
+To get started with this particular recipe, we have to first prepare a few components. You can have lemon zest salmon &amp; asparagus using 6 ingredients and 5 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Lemon Zest Salmon & Asparagus:
+##### The ingredients needed to make Lemon Zest Salmon &amp; Asparagus:
 
 1. Prepare 4 pieces Salmon
 1. Take 1 bunch Asparagus
@@ -67,7 +67,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 
 <!--inarticleads2-->
 
-##### Steps to make Lemon Zest Salmon & Asparagus:
+##### Steps to make Lemon Zest Salmon &amp; Asparagus:
 
 1. Preheat the oven to 425°F
 1. Place fresh or frozen salmon, garlic cloves, and fresh asparagus on a baking sheet. Season lightly with salt and pepper, zest of one lemon (more on the dry side), and drizzle with olive oil.
@@ -78,4 +78,4 @@ To get started with this particular recipe, we have to first prepare a few compo
 
 
 
-So that is going to wrap this up with this exceptional food lemon zest salmon & asparagus recipe. Thank you very much for reading. I'm sure you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap this up with this exceptional food lemon zest salmon &amp; asparagus recipe. Thank you very much for reading. I'm sure you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

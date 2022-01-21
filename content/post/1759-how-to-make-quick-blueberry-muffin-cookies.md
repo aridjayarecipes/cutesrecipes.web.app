@@ -30,12 +30,12 @@ recipeingredient:
 - "1-2 tbsp. cream"
 recipeinstructions:
 - "In a large bowl, whisk together the flour, baking powder and salt. Set this aside."
-- "Using a stand mixer with the paddle attachment or a hand mixer, beat the butter, granulated sugar and brown sugar on high speed until it's combined and fluffy. With the mixer still going, add in the egg, lemon zest, lemon juice and vanilla extract. Scrape down the sides of the bowl as needed and mix until combined."
+- "Using a stand mixer with the paddle attachment or a hand mixer, beat the butter, granulated sugar and brown sugar on high speed until it&#39;s combined and fluffy. With the mixer still going, add in the egg, lemon zest, lemon juice and vanilla extract. Scrape down the sides of the bowl as needed and mix until combined."
 - "On slow speed, add in the dry ingredients, then the milk. Mix only until just combined, do not overmix! Use a rubber spatula to very gently fold in the blueberries. Cover the bowl and chill in the fridge for 30-45 minutes."
 - "Preheat the oven to 350°F. Line a few large baking pans with silicone baking mat or parchment paper."
-- "Scoop about 1.5 tbsp of dough per cookie spaced about 2" apart onto the prepared baking pan. Sprinkle a pinch of coarse sugar over each dough mound. Bake for 14-16 minutes, until the cookie springs back when lightly touched and the edges are just beginning to brown."
-- "Let them cool on the pan for 5 minutes, then transfer them to a wire rack to cool completely. If you'd like to glaze them, just wait for them to finish cooling first."
-- "For the glaze, just whisk together the confectioners sugar, lemon juice and cream until thoroughly combined and add more liquid if you'd like it thinner. You could use all cream if you'd prefer."
+- "Scoop about 1.5 tbsp of dough per cookie spaced about 2&#34; apart onto the prepared baking pan. Sprinkle a pinch of coarse sugar over each dough mound. Bake for 14-16 minutes, until the cookie springs back when lightly touched and the edges are just beginning to brown."
+- "Let them cool on the pan for 5 minutes, then transfer them to a wire rack to cool completely. If you&#39;d like to glaze them, just wait for them to finish cooling first."
+- "For the glaze, just whisk together the confectioners sugar, lemon juice and cream until thoroughly combined and add more liquid if you&#39;d like it thinner. You could use all cream if you&#39;d prefer."
 - "Drizzle the glaze lightly over each cookie and let it set. Store the cookies in an airtight container either at room temperature for 2-3 days or in the fridge for 5-6 days."
 categories:
 - Recipe
@@ -97,12 +97,12 @@ To get started with this particular recipe, we have to first prepare a few ingre
 ##### Instructions to make Blueberry Muffin Cookies:
 
 1. In a large bowl, whisk together the flour, baking powder and salt. Set this aside.
-1. Using a stand mixer with the paddle attachment or a hand mixer, beat the butter, granulated sugar and brown sugar on high speed until it's combined and fluffy. With the mixer still going, add in the egg, lemon zest, lemon juice and vanilla extract. Scrape down the sides of the bowl as needed and mix until combined.
+1. Using a stand mixer with the paddle attachment or a hand mixer, beat the butter, granulated sugar and brown sugar on high speed until it&#39;s combined and fluffy. With the mixer still going, add in the egg, lemon zest, lemon juice and vanilla extract. Scrape down the sides of the bowl as needed and mix until combined.
 1. On slow speed, add in the dry ingredients, then the milk. Mix only until just combined, do not overmix! Use a rubber spatula to very gently fold in the blueberries. Cover the bowl and chill in the fridge for 30-45 minutes.
 1. Preheat the oven to 350°F. Line a few large baking pans with silicone baking mat or parchment paper.
-1. Scoop about 1.5 tbsp of dough per cookie spaced about 2" apart onto the prepared baking pan. Sprinkle a pinch of coarse sugar over each dough mound. Bake for 14-16 minutes, until the cookie springs back when lightly touched and the edges are just beginning to brown.
-1. Let them cool on the pan for 5 minutes, then transfer them to a wire rack to cool completely. If you'd like to glaze them, just wait for them to finish cooling first.
-1. For the glaze, just whisk together the confectioners sugar, lemon juice and cream until thoroughly combined and add more liquid if you'd like it thinner. You could use all cream if you'd prefer.
+1. Scoop about 1.5 tbsp of dough per cookie spaced about 2&#34; apart onto the prepared baking pan. Sprinkle a pinch of coarse sugar over each dough mound. Bake for 14-16 minutes, until the cookie springs back when lightly touched and the edges are just beginning to brown.
+1. Let them cool on the pan for 5 minutes, then transfer them to a wire rack to cool completely. If you&#39;d like to glaze them, just wait for them to finish cooling first.
+1. For the glaze, just whisk together the confectioners sugar, lemon juice and cream until thoroughly combined and add more liquid if you&#39;d like it thinner. You could use all cream if you&#39;d prefer.
 1. Drizzle the glaze lightly over each cookie and let it set. Store the cookies in an airtight container either at room temperature for 2-3 days or in the fridge for 5-6 days.
 
 

@@ -53,7 +53,7 @@ Hello everybody, it is Louise, welcome to my recipe page. Today, I'm gonna show 
 
 Plum, fig and almond cake is one of the most favored of current trending foods on earth. It is simple, it's fast, it tastes yummy. It's enjoyed by millions every day. They are nice and they look fantastic. Plum, fig and almond cake is something which I've loved my whole life.
 
-Is it a tart or a cake - I'm opting for cake (I think). Anyway it has a lovely rich almondy base, a layer of sticky figs and then topped with fresh figs & plums. I love using these beautiful seasonal fruits and I think it pairs really well with almond - but then I love almond desserts so maybe I'm a bit biased? Sharp plums or damsons are placed atop a simple almond and polenta cake.
+Is it a tart or a cake - I&#39;m opting for cake (I think). Anyway it has a lovely rich almondy base, a layer of sticky figs and then topped with fresh figs &amp; plums. I love using these beautiful seasonal fruits and I think it pairs really well with almond - but then I love almond desserts so maybe I&#39;m a bit biased? Sharp plums or damsons are placed atop a simple almond and polenta cake.
 
 
 To get started with this particular recipe, we must prepare a few ingredients. You can cook plum, fig and almond cake using 10 ingredients and 8 steps. Here is how you can achieve that.
@@ -74,7 +74,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Take 100 g figs
 
 
-Make this cake work for you all year round by swapping in seasonal fruit favorites like peaches View image. Fig-and-Plum Cake. this link is to an external site that may or may not meet accessibility guidelines. And that's where this cake came into play. I'd seen slices of dried fig and almond cake for sale at Whole Foods wrapped up and on display by the fancy cheeses, and looking through the ingredients I realized it was pretty much. 
+Make this cake work for you all year round by swapping in seasonal fruit favorites like peaches View image. Fig-and-Plum Cake. this link is to an external site that may or may not meet accessibility guidelines. And that&#39;s where this cake came into play. I&#39;d seen slices of dried fig and almond cake for sale at Whole Foods wrapped up and on display by the fancy cheeses, and looking through the ingredients I realized it was pretty much. 
 
 <!--inarticleads2-->
 
@@ -90,6 +90,6 @@ Make this cake work for you all year round by swapping in seasonal fruit favorit
 1. Bake for 45 minutes until the top is golden and a skewer pushed into the center of the cake comes out clean.
 
 
-And that's where this cake came into play. I'd seen slices of dried fig and almond cake for sale at Whole Foods wrapped up and on display by the fancy cheeses, and looking through the ingredients I realized it was pretty much. Though it can be made with other small plums, this cake is the tastiest with the Italian variety—but keep in mind that they are in their peak season only a Whisk flour, almond meal, baking powder, and salt in a medium bowl. Using an electric mixer on medium speed, beat butter, granulated sugar, and. Luscious plums and a great almond cake come together to make a wonderful flavor experience in every bite. 
+And that&#39;s where this cake came into play. I&#39;d seen slices of dried fig and almond cake for sale at Whole Foods wrapped up and on display by the fancy cheeses, and looking through the ingredients I realized it was pretty much. Though it can be made with other small plums, this cake is the tastiest with the Italian variety—but keep in mind that they are in their peak season only a Whisk flour, almond meal, baking powder, and salt in a medium bowl. Using an electric mixer on medium speed, beat butter, granulated sugar, and. Luscious plums and a great almond cake come together to make a wonderful flavor experience in every bite. 
 
 So that's going to wrap it up with this special food plum, fig and almond cake recipe. Thank you very much for your time. I'm confident that you will make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

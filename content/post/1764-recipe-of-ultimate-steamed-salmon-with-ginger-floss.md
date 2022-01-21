@@ -20,11 +20,11 @@ recipeingredient:
 - "1 tbsp Wolfberries"
 - " Olive oil"
 recipeinstructions:
-- "Marinade the Salmon in salt & pepper 30-45 mins before cooking."
+- "Marinade the Salmon in salt &amp; pepper 30-45 mins before cooking."
 - "Cut the ginger to finely thin strips. Heat up a small pan and fry in oil, medium fire until golden. Move the ginger around to avoid burning and even cooking. Once cooked and crispy, place in a strainer to drain away excess oil and provide airflow to keep it crispy. Set aside."
 - "You can start assembling your fish during step 2. Get a plate or a stainless plate, to avoid the fish from sticking on the plate brush/spray a little oil on the surface. Put the marinated Salmon, drizzle with soy sauce and 1 tbsp of ginger OIL from step 2. Top the salmon with the wolfberries and shallots."
 - "In boiling water in a steamed, steam in a covered pot/pan for 7 minutes or 10 minutes if chilled."
-- "Once the time on step 4 is done, turn the heat off, drizzle the Sesame Oil on the salmon and leave it in the steamer/pot covered for another 1 minute. When the minute's over you may proceed to take out the plated steamed Salmon."
+- "Once the time on step 4 is done, turn the heat off, drizzle the Sesame Oil on the salmon and leave it in the steamer/pot covered for another 1 minute. When the minute&#39;s over you may proceed to take out the plated steamed Salmon."
 - "Garnish with your Ginger Floss on the sides and enjoy."
 categories:
 - Recipe
@@ -63,7 +63,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Prepare 2 tbsp Light Soy sauce
 1. Make ready 1 tbsp Sesame oil
 1. Prepare  Ginger lots of it
-1. Get  Salt & Pepper
+1. Get  Salt &amp; Pepper
 1. Prepare 1 tsp Garlic powder
 1. Get  Shallots 3 small bulbs
 1. Get 1 tbsp Wolfberries
@@ -76,11 +76,11 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 
 ##### Steps to make Steamed Salmon with Ginger Floss:
 
-1. Marinade the Salmon in salt & pepper 30-45 mins before cooking.
+1. Marinade the Salmon in salt &amp; pepper 30-45 mins before cooking.
 1. Cut the ginger to finely thin strips. Heat up a small pan and fry in oil, medium fire until golden. Move the ginger around to avoid burning and even cooking. Once cooked and crispy, place in a strainer to drain away excess oil and provide airflow to keep it crispy. Set aside.
 1. You can start assembling your fish during step 2. Get a plate or a stainless plate, to avoid the fish from sticking on the plate brush/spray a little oil on the surface. Put the marinated Salmon, drizzle with soy sauce and 1 tbsp of ginger OIL from step 2. Top the salmon with the wolfberries and shallots.
 1. In boiling water in a steamed, steam in a covered pot/pan for 7 minutes or 10 minutes if chilled.
-1. Once the time on step 4 is done, turn the heat off, drizzle the Sesame Oil on the salmon and leave it in the steamer/pot covered for another 1 minute. When the minute's over you may proceed to take out the plated steamed Salmon.
+1. Once the time on step 4 is done, turn the heat off, drizzle the Sesame Oil on the salmon and leave it in the steamer/pot covered for another 1 minute. When the minute&#39;s over you may proceed to take out the plated steamed Salmon.
 1. Garnish with your Ginger Floss on the sides and enjoy.
 
 

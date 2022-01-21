@@ -16,7 +16,7 @@ recipeingredient:
 - " Salt and pepper"
 recipeinstructions:
 - "Preheat oven to 450°."
-- "Mix brown sugar and cayenne in a small bowl. Lightly S&P both sides of salmon pieces. Put a heaping tablespoon of brown sugar mixture on each piece of salmon and evenly coat."
+- "Mix brown sugar and cayenne in a small bowl. Lightly S&amp;P both sides of salmon pieces. Put a heaping tablespoon of brown sugar mixture on each piece of salmon and evenly coat."
 - "Place salmon on a cooking spray coated baking sheet. Bake for 10-12 minutes and take out of oven and let rest for a few minutes. Enjoy!"
 categories:
 - Recipe
@@ -42,7 +42,7 @@ Hello everybody, I hope you are having an incredible day today. Today, I'm gonna
 
 Brown sugar cajun Salmon is one of the most popular of recent trending meals on earth. It is simple, it is quick, it tastes delicious. It is enjoyed by millions every day. They are nice and they look wonderful. Brown sugar cajun Salmon is something that I've loved my whole life.
 
-Today I'll be showing you how I made this super delicious brown sugar cajun salmon. Mix brown sugar and cayenne in a small bowl. Lightly S&P both sides of salmon pieces. Wild Alaskan salmon dusted with a brown sugar, lemon zest and Cajun seasoned rub and baked.
+Today I&#39;ll be showing you how I made this super delicious brown sugar cajun salmon. Mix brown sugar and cayenne in a small bowl. Lightly S&amp;P both sides of salmon pieces. Wild Alaskan salmon dusted with a brown sugar, lemon zest and Cajun seasoned rub and baked.
 
 
 To begin with this recipe, we must first prepare a few components. You can have brown sugar cajun salmon using 4 ingredients and 3 steps. Here is how you cook it.
@@ -64,7 +64,7 @@ Slather the tops of the fillets with the mustard and brown sugar glaze and slide
 ##### Steps to make Brown sugar cajun Salmon:
 
 1. Preheat oven to 450°.
-1. Mix brown sugar and cayenne in a small bowl. Lightly S&P both sides of salmon pieces. Put a heaping tablespoon of brown sugar mixture on each piece of salmon and evenly coat.
+1. Mix brown sugar and cayenne in a small bowl. Lightly S&amp;P both sides of salmon pieces. Put a heaping tablespoon of brown sugar mixture on each piece of salmon and evenly coat.
 1. Place salmon on a cooking spray coated baking sheet. Bake for 10-12 minutes and take out of oven and let rest for a few minutes. Enjoy!
 
 

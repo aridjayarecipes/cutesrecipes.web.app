@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Prepare Homemade Roasted butternut squash &amp; brussel sprout salad"
-title: "Step-by-Step Guide to Prepare Homemade Roasted butternut squash &amp; brussel sprout salad"
+description: "Step-by-Step Guide to Prepare Homemade Roasted butternut squash &amp;amp; brussel sprout salad"
+title: "Step-by-Step Guide to Prepare Homemade Roasted butternut squash &amp;amp; brussel sprout salad"
 slug: 1931-step-by-step-guide-to-prepare-homemade-roasted-butternut-squash-and-amp-brussel-sprout-salad
 date: 2021-10-20T09:24:00.148Z
 image: https://img-global.cpcdn.com/recipes/2f0cbcfadede77f0/680x482cq70/roasted-butternut-squash-brussel-sprout-salad-recipe-main-photo.jpg
@@ -42,20 +42,20 @@ recipecategory: Dinner
 ---
 
 
-![Roasted butternut squash & brussel sprout salad](https://img-global.cpcdn.com/recipes/2f0cbcfadede77f0/680x482cq70/roasted-butternut-squash-brussel-sprout-salad-recipe-main-photo.jpg)
+![Roasted butternut squash &amp; brussel sprout salad](https://img-global.cpcdn.com/recipes/2f0cbcfadede77f0/680x482cq70/roasted-butternut-squash-brussel-sprout-salad-recipe-main-photo.jpg)
 
-Hey everyone, it's me, Dave, welcome to my recipe site. Today, I'm gonna show you how to prepare a distinctive dish, roasted butternut squash & brussel sprout salad. One of my favorites. For mine, I'm gonna make it a bit tasty. This is gonna smell and look delicious.
+Hey everyone, it's me, Dave, welcome to my recipe site. Today, I'm gonna show you how to prepare a distinctive dish, roasted butternut squash &amp; brussel sprout salad. One of my favorites. For mine, I'm gonna make it a bit tasty. This is gonna smell and look delicious.
 
-Roasted butternut squash & brussel sprout salad is one of the most popular of recent trending foods on earth. It is enjoyed by millions every day. It is easy, it's fast, it tastes yummy. They are fine and they look fantastic. Roasted butternut squash & brussel sprout salad is something which I have loved my whole life.
+Roasted butternut squash &amp; brussel sprout salad is one of the most popular of recent trending foods on earth. It is enjoyed by millions every day. It is easy, it's fast, it tastes yummy. They are fine and they look fantastic. Roasted butternut squash &amp; brussel sprout salad is something which I have loved my whole life.
 
-Roasted butternut squash with garlic is a quick and easy side dish ready in less than an hour for a weeknight or a holiday Simple Roasted Butternut Squash. Roasting butternut squash is super easy and definitely worth the extra time. Similar to pumpkins in taste and texture, the butternut squash is easier to roast and puree (mostly because it's smaller). Butternut squash is a winter variety squash.
+Roasted butternut squash with garlic is a quick and easy side dish ready in less than an hour for a weeknight or a holiday Simple Roasted Butternut Squash. Roasting butternut squash is super easy and definitely worth the extra time. Similar to pumpkins in taste and texture, the butternut squash is easier to roast and puree (mostly because it&#39;s smaller). Butternut squash is a winter variety squash.
 
 
-To get started with this particular recipe, we must prepare a few components. You can have roasted butternut squash & brussel sprout salad using 7 ingredients and 6 steps. Here is how you can achieve that.
+To get started with this particular recipe, we must prepare a few components. You can have roasted butternut squash &amp; brussel sprout salad using 7 ingredients and 6 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Roasted butternut squash & brussel sprout salad:
+##### The ingredients needed to make Roasted butternut squash &amp; brussel sprout salad:
 
 1. Prepare 10 brussel sprouts
 1. Get 1 med butternut squash
@@ -70,7 +70,7 @@ Plus, how to select a butternut squash and lots of recommendations for butternut
 
 <!--inarticleads2-->
 
-##### Steps to make Roasted butternut squash & brussel sprout salad:
+##### Steps to make Roasted butternut squash &amp; brussel sprout salad:
 
 1. Pull the outer layers of the brussel sprouts and put into the bowl. When you get to the center of the brussel, cut into thin slices and also add to the bowl.
 1. Add your mixed greens
@@ -82,4 +82,4 @@ Plus, how to select a butternut squash and lots of recommendations for butternut
 
 Larger cubes may need to cook a little longer. Roasted Butternut Squash is an essential, healthy fall side dish! It has a mildly sweet, slightly nutty, buttery flavor and a delicious creamy texture. Then when you add garlic and fresh herbs it adds two. Roasted Butternut Squash is delicious enough to eat on its own as a side, or can be used as a starting point for recipes like Butternut Squash Soup or salads. 
 
-So that is going to wrap this up with this special food roasted butternut squash & brussel sprout salad recipe. Thank you very much for reading. I'm confident that you can make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap this up with this special food roasted butternut squash &amp; brussel sprout salad recipe. Thank you very much for reading. I'm confident that you can make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

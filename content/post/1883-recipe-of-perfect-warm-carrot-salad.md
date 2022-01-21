@@ -61,10 +61,10 @@ To get started with this recipe, we must prepare a few components. You can cook 
 1. Get 250 g mixed pre-cooked grains
 1. Prepare 40 g feta cheese
 1. Get 1 tbls red wine vinegar
-1. Get  Evoo, s&p
+1. Get  Evoo, s&amp;p
 
 
-Gajar no sambharo - it is common gujarati warm salad serve with fafda, gathiya,etc.it is also best side dish with curry/sabji and roti or with rice.it is. Place carrots, ginger, honey and juice from pineapple in a sauce pan, cook on high uncovered for about five minutes or until carrots are. The combination of sweet and spicy roasted carrots, earthy adzuki beans, and tangy dressing is a taste sensation. This Indian warm carrot salad side dish is excerpted from 'The Indian Cooking Course' by Monisha This delightful Gujarati side dish is served with main meals. 
+Gajar no sambharo - it is common gujarati warm salad serve with fafda, gathiya,etc.it is also best side dish with curry/sabji and roti or with rice.it is. Place carrots, ginger, honey and juice from pineapple in a sauce pan, cook on high uncovered for about five minutes or until carrots are. The combination of sweet and spicy roasted carrots, earthy adzuki beans, and tangy dressing is a taste sensation. This Indian warm carrot salad side dish is excerpted from &#39;The Indian Cooking Course&#39; by Monisha This delightful Gujarati side dish is served with main meals. 
 
 <!--inarticleads2-->
 
@@ -76,6 +76,6 @@ Gajar no sambharo - it is common gujarati warm salad serve with fafda, gathiya,e
 1. Plate up. Add seeds from second half of pomegranate. Crumble over feta and sprinkle over remaining mint leaves.
 
 
-The combination of sweet and spicy roasted carrots, earthy adzuki beans, and tangy dressing is a taste sensation. This Indian warm carrot salad side dish is excerpted from 'The Indian Cooking Course' by Monisha This delightful Gujarati side dish is served with main meals. Here it's made with carrot, but it can also. Try our easy to follow Warm Carrot Salad recipe. Absolutely delicious with the best ingredients from Woolworths. 
+The combination of sweet and spicy roasted carrots, earthy adzuki beans, and tangy dressing is a taste sensation. This Indian warm carrot salad side dish is excerpted from &#39;The Indian Cooking Course&#39; by Monisha This delightful Gujarati side dish is served with main meals. Here it&#39;s made with carrot, but it can also. Try our easy to follow Warm Carrot Salad recipe. Absolutely delicious with the best ingredients from Woolworths. 
 
 So that is going to wrap this up for this exceptional food warm carrot salad recipe. Thanks so much for your time. I am confident that you will make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

@@ -26,7 +26,7 @@ recipeingredient:
 recipeinstructions:
 - "PREHEAT the oven to 200C. Cut the beetroot into big chunks and place them in a roasting tray. Drizzle with olive oil, sprinkel over the rosemary and season. Whack the tray in the oven for 30 mins, shaking it around every now and then."
 - "MEANWHILE, make a start on the cottage cheese. Put the lemon zest and juice in a bowl along with the olive oil and picked thyme leaves."
-- "Once the beetroot has been in for about 10 minutes, make a start on the steaks. First season them heavily with salt and pepper. Put a frying pan on a medium heat and melt together a knob of butter and a glug of oil. Once the oil is hot put the steaks in and cook them (4 minutes on each side will be medium, so do more or less depending on your taste. That assumes that the steaks are about 2cm thick, so again adjust as necessary if they're thicker or thinner). Once the steaks are cooked, wrap them in foil and leave them to rest in a warm place."
+- "Once the beetroot has been in for about 10 minutes, make a start on the steaks. First season them heavily with salt and pepper. Put a frying pan on a medium heat and melt together a knob of butter and a glug of oil. Once the oil is hot put the steaks in and cook them (4 minutes on each side will be medium, so do more or less depending on your taste. That assumes that the steaks are about 2cm thick, so again adjust as necessary if they&#39;re thicker or thinner). Once the steaks are cooked, wrap them in foil and leave them to rest in a warm place."
 - "A couple of minutes before the beetroot is done finish off the cottage cheese. Add it to the bowl containing the lemon, etc. and gently mix it in. Season to taste with salt and pepper."
 - "When the beetroots are cooked, toss them in a bowl with the vinegar, oil, basil leaves and some seasoning."
 - "Plate up and enjoy! :)"
@@ -64,7 +64,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 ##### The ingredients needed to make Fillet Steak with Roasted Beets and Zingy Cottage Cheese:
 
 1. Make ready  Beetroot
-1. Make ready 4 cooked beetroots (fewer if they're big)
+1. Make ready 4 cooked beetroots (fewer if they&#39;re big)
 1. Take 1 A sprig of fresh rosemary (or 1tsp dried)
 1. Make ready 1 A small handful of fresh basil leaves
 1. Make ready 1 tbsp red wine vinegar
@@ -86,7 +86,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 
 1. PREHEAT the oven to 200C. Cut the beetroot into big chunks and place them in a roasting tray. Drizzle with olive oil, sprinkel over the rosemary and season. Whack the tray in the oven for 30 mins, shaking it around every now and then.
 1. MEANWHILE, make a start on the cottage cheese. Put the lemon zest and juice in a bowl along with the olive oil and picked thyme leaves.
-1. Once the beetroot has been in for about 10 minutes, make a start on the steaks. First season them heavily with salt and pepper. Put a frying pan on a medium heat and melt together a knob of butter and a glug of oil. Once the oil is hot put the steaks in and cook them (4 minutes on each side will be medium, so do more or less depending on your taste. That assumes that the steaks are about 2cm thick, so again adjust as necessary if they're thicker or thinner). Once the steaks are cooked, wrap them in foil and leave them to rest in a warm place.
+1. Once the beetroot has been in for about 10 minutes, make a start on the steaks. First season them heavily with salt and pepper. Put a frying pan on a medium heat and melt together a knob of butter and a glug of oil. Once the oil is hot put the steaks in and cook them (4 minutes on each side will be medium, so do more or less depending on your taste. That assumes that the steaks are about 2cm thick, so again adjust as necessary if they&#39;re thicker or thinner). Once the steaks are cooked, wrap them in foil and leave them to rest in a warm place.
 1. A couple of minutes before the beetroot is done finish off the cottage cheese. Add it to the bowl containing the lemon, etc. and gently mix it in. Season to taste with salt and pepper.
 1. When the beetroots are cooked, toss them in a bowl with the vinegar, oil, basil leaves and some seasoning.
 1. Plate up and enjoy! :)

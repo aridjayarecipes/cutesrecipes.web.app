@@ -51,7 +51,7 @@ recipecategory: Dessert
 
 Hello everybody, hope you are having an incredible day today. Today, I will show you a way to make a special dish, sweet n sour chicken. One of my favorites. This time, I am going to make it a little bit tasty. This is gonna smell and look delicious.
 
-Chicken Sweet & Sour (Chinese Style) Recipe In Tamil - Penang Secret Recipe's Cooking Video. Sweet and Sour Chicken - BETTER THAN TAKEOUT! Sweet and Sour Chicken is a classic Chinese takeout option most of us are too afraid to make at home. Something about woks and cooking with pineapple make it intimidating for most, but it is so much easier to make than you would think.
+Chicken Sweet &amp; Sour (Chinese Style) Recipe In Tamil - Penang Secret Recipe&#39;s Cooking Video. Sweet and Sour Chicken - BETTER THAN TAKEOUT! Sweet and Sour Chicken is a classic Chinese takeout option most of us are too afraid to make at home. Something about woks and cooking with pineapple make it intimidating for most, but it is so much easier to make than you would think.
 
 Sweet n sour chicken is one of the most favored of recent trending foods in the world. It's simple, it's quick, it tastes yummy. It is enjoyed by millions every day. Sweet n sour chicken is something which I have loved my entire life. They are fine and they look fantastic.
 
@@ -79,7 +79,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Prepare 2 green chillies (finely chopped)
 
 
-Have a little taste of the sauce. You've tasted sweet and sour chicken at the takeaway, but you can make it far better at home and it's much healthier! The Hairy Bikers show you how. Add the pineapple and sweet and sour sauce to the pan with the chicken and bring to a simmer over a medium heat. 
+Have a little taste of the sauce. You&#39;ve tasted sweet and sour chicken at the takeaway, but you can make it far better at home and it&#39;s much healthier! The Hairy Bikers show you how. Add the pineapple and sweet and sour sauce to the pan with the chicken and bring to a simmer over a medium heat. 
 
 <!--inarticleads2-->
 

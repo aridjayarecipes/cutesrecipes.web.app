@@ -58,7 +58,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 1. Prepare 1 cup curd
 1. Prepare 2 pinch Black pepper powder
 1. Prepare 1/2 teaspoon chat masala
-1. Get 1/2 teaspoon jeera/cumin seeds ( roasted & crushed )
+1. Get 1/2 teaspoon jeera/cumin seeds ( roasted &amp; crushed )
 1. Prepare 2 teaspoon honey
 1. Get 2 tablespoon pomegranate seeds
 1. Take 10 pieces Grapes

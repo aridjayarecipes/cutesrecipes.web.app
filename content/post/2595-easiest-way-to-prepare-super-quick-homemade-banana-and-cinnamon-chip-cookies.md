@@ -71,7 +71,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Take 1/2 cup cinnamon chips
 
 
-Sinfully delicious cinnamon rolls filled with bananas, chocolate chips, and drizzled with thick vanilla glaze. I highly highly recommend making chocolate chip banana cookies for a crowd. They'll love it and you won't be sorry! In a large bowl, cream together the butter and brown sugar, until nice and smooth. 
+Sinfully delicious cinnamon rolls filled with bananas, chocolate chips, and drizzled with thick vanilla glaze. I highly highly recommend making chocolate chip banana cookies for a crowd. They&#39;ll love it and you won&#39;t be sorry! In a large bowl, cream together the butter and brown sugar, until nice and smooth. 
 
 <!--inarticleads2-->
 
@@ -82,6 +82,6 @@ Sinfully delicious cinnamon rolls filled with bananas, chocolate chips, and driz
 1. Makes 12 cookies. Roll into circles and press to about 1/4.inch thick. Bake for about 10 minutes.
 
 
-They'll love it and you won't be sorry! In a large bowl, cream together the butter and brown sugar, until nice and smooth. Stir in the vanilla and banana, then stir in the salt baking soda and cinnamon. This cinnamon chip cookies recipe checks every box. It has just nine ingredients, easy-to-follow steps and is super flexible—throw in any flavored chip ( semi-sweet, white chocolate or even toffee bits! ) and they'll still be delicious. 
+They&#39;ll love it and you won&#39;t be sorry! In a large bowl, cream together the butter and brown sugar, until nice and smooth. Stir in the vanilla and banana, then stir in the salt baking soda and cinnamon. This cinnamon chip cookies recipe checks every box. It has just nine ingredients, easy-to-follow steps and is super flexible—throw in any flavored chip ( semi-sweet, white chocolate or even toffee bits! ) and they&#39;ll still be delicious. 
 
 So that is going to wrap it up for this exceptional food banana and cinnamon chip cookies recipe. Thank you very much for your time. I'm sure you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

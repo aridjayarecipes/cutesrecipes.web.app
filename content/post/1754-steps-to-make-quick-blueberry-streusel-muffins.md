@@ -68,11 +68,11 @@ To begin with this recipe, we have to prepare a few components. You can have blu
 1. Make ready 1/3 cup sugar
 1. Prepare 1 egg
 1. Prepare 1 teaspoon vanilla extract
-1. Take 2 & 1/3 cup all purpose flour
+1. Take 2 &amp; 1/3 cup all purpose flour
 1. Make ready 4 teaspoons baking powder
 1. Make ready 1/2 teaspoon salt
 1. Take 1 cup milk
-1. Prepare 1 & 1/2 cup fresh or frozen blueberries
+1. Prepare 1 &amp; 1/2 cup fresh or frozen blueberries
 1. Prepare  For the Streusel
 1. Prepare 1/2 cup sugar
 1. Get 1/3 cup all purpose flour

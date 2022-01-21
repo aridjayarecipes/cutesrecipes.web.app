@@ -78,7 +78,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Prepare 1 tbsp cranberry sauce or marmalade
 
 
-Heat a large pan, that has a lid, over a high heat. Spiced red cabbage is what's making the house smell SO DARN GOOD right now! As I walk through the kitchen, I am met with thyme, anise, cinnamon, red wine, and sugary balsamic aromas that are. This cabbage dish is good either hot or cold. 
+Heat a large pan, that has a lid, over a high heat. Spiced red cabbage is what&#39;s making the house smell SO DARN GOOD right now! As I walk through the kitchen, I am met with thyme, anise, cinnamon, red wine, and sugary balsamic aromas that are. This cabbage dish is good either hot or cold. 
 
 <!--inarticleads2-->
 
@@ -92,6 +92,6 @@ Heat a large pan, that has a lid, over a high heat. Spiced red cabbage is what's
 1. You can modify the quantity’s of ingredients or add extra throughout the cooking process according to taste.
 
 
-As I walk through the kitchen, I am met with thyme, anise, cinnamon, red wine, and sugary balsamic aromas that are. This cabbage dish is good either hot or cold. We would suggest serving it cold here as it will improve in flavour if cooked a couple of days in advance but hot it goes really well with. Be the first to rate & review! Star chef Suzanne Goin makes her insanely good side dish by glazing red cabbage in a simple caramel spiked with spices. 
+As I walk through the kitchen, I am met with thyme, anise, cinnamon, red wine, and sugary balsamic aromas that are. This cabbage dish is good either hot or cold. We would suggest serving it cold here as it will improve in flavour if cooked a couple of days in advance but hot it goes really well with. Be the first to rate &amp; review! Star chef Suzanne Goin makes her insanely good side dish by glazing red cabbage in a simple caramel spiked with spices. 
 
 So that's going to wrap this up with this special food spiced red cabbage recipe. Thank you very much for your time. I'm sure you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

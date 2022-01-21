@@ -32,7 +32,7 @@ recipeinstructions:
 - "Add the first 8 ingredients plus a tablespoon of salt to a pot wide enough to comfortably fit the salmon. Add 2 cups of wine and enough water so that the fish will be submerged when put in. Turn the heat on high and bring to a boil."
 - "Carefully lay the salmon into the pot, skin-side down. Turn the heat down to medium-high and let poach for 7 to 8 minutes, then take the pot off the heat. While you wait for the salmon to cool, make the dressing."
 - "Add the butter to a small saucepan on medium-high heat. Once melted, add the shallots and garlic. Let sweat for 2 minutes."
-- "Add the remaining cup of wine to the saucepan. Allow to simmer until there's only 2 tbsp of liquid remaining. Take off the heat and let cool to just above room temperature."
+- "Add the remaining cup of wine to the saucepan. Allow to simmer until there&#39;s only 2 tbsp of liquid remaining. Take off the heat and let cool to just above room temperature."
 - "In a bowl, stir together the lemon zest, mayonnaise, shallot mixture, tarragon, milk and a pinch of salt. Cover and refrigerate until ready to serve."
 - "Once the salmon has cooled to room temperature, cover with plastic wrap and put it in the fridge to cool further."
 - "To serve, carefully peel the skin off the chilled salmon. Scrape off any brown bits from the fish. Use a fork to break the salmon into chunks and add it to a large bowl with the arugula. Add a splash of extra virgin olive oil and toss. Plate the salmon and arugula, spoon over some dressing and add a sprinkle of capers."
@@ -98,7 +98,7 @@ All Reviews for Grilled Salmon with White Bean and Arugula Salad. Salmon, Fennel
 1. Add the first 8 ingredients plus a tablespoon of salt to a pot wide enough to comfortably fit the salmon. Add 2 cups of wine and enough water so that the fish will be submerged when put in. Turn the heat on high and bring to a boil.
 1. Carefully lay the salmon into the pot, skin-side down. Turn the heat down to medium-high and let poach for 7 to 8 minutes, then take the pot off the heat. While you wait for the salmon to cool, make the dressing.
 1. Add the butter to a small saucepan on medium-high heat. Once melted, add the shallots and garlic. Let sweat for 2 minutes.
-1. Add the remaining cup of wine to the saucepan. Allow to simmer until there's only 2 tbsp of liquid remaining. Take off the heat and let cool to just above room temperature.
+1. Add the remaining cup of wine to the saucepan. Allow to simmer until there&#39;s only 2 tbsp of liquid remaining. Take off the heat and let cool to just above room temperature.
 1. In a bowl, stir together the lemon zest, mayonnaise, shallot mixture, tarragon, milk and a pinch of salt. Cover and refrigerate until ready to serve.
 1. Once the salmon has cooled to room temperature, cover with plastic wrap and put it in the fridge to cool further.
 1. To serve, carefully peel the skin off the chilled salmon. Scrape off any brown bits from the fish. Use a fork to break the salmon into chunks and add it to a large bowl with the arugula. Add a splash of extra virgin olive oil and toss. Plate the salmon and arugula, spoon over some dressing and add a sprinkle of capers.

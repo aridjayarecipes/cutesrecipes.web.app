@@ -20,7 +20,7 @@ recipeingredient:
 - "2 cups flour"
 - "1 cup chopped pecansoptional"
 recipeinstructions:
-- "Preheat oven at 350, and oil cake pan (8"x9" pan) and set aside."
+- "Preheat oven at 350, and oil cake pan (8&#34;x9&#34; pan) and set aside."
 - "Smash up bananas in a large to medium mixing bowl. I use a dinner fork to smash my bananas. Try to get as many clumps out as possible. (I use ripe bananas, they are sweeter, and it makes it taste better.)"
 - "Add in your vegetable oil and 2 eggs, beat up the eggs, mix together good. (I breakup my egg yolk before mixing it all together.)"
 - "Then add in the sugar and mix."
@@ -31,7 +31,7 @@ recipeinstructions:
 - "Cook at 350 for 25 minutes or until golden brown and done where tooth pick comes out clean."
 - "Can also cook in cupcake pans at 350 for 15 minutes or until done and toothpick comes clean***"
 - "Serve and enjoy!"
-- "**Some people like to combine their wet ingredients, separate from their dry ingredients and then combine everything together, that's fine too***"
+- "**Some people like to combine their wet ingredients, separate from their dry ingredients and then combine everything together, that&#39;s fine too***"
 - "**Tip-check it a couple minutes before the times up with toothpick. Adding only 1-2 minutes at a time, if it is not done. This will prevent burning it.***"
 categories:
 - Recipe
@@ -83,7 +83,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 ##### Instructions to make Easy Banana-nut bread:
 
-1. Preheat oven at 350, and oil cake pan (8"x9" pan) and set aside.
+1. Preheat oven at 350, and oil cake pan (8&#34;x9&#34; pan) and set aside.
 1. Smash up bananas in a large to medium mixing bowl. I use a dinner fork to smash my bananas. Try to get as many clumps out as possible. (I use ripe bananas, they are sweeter, and it makes it taste better.)
 1. Add in your vegetable oil and 2 eggs, beat up the eggs, mix together good. (I breakup my egg yolk before mixing it all together.)
 1. Then add in the sugar and mix.
@@ -94,7 +94,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. Cook at 350 for 25 minutes or until golden brown and done where tooth pick comes out clean.
 1. Can also cook in cupcake pans at 350 for 15 minutes or until done and toothpick comes clean***
 1. Serve and enjoy!
-1. **Some people like to combine their wet ingredients, separate from their dry ingredients and then combine everything together, that's fine too***
+1. **Some people like to combine their wet ingredients, separate from their dry ingredients and then combine everything together, that&#39;s fine too***
 1. **Tip-check it a couple minutes before the times up with toothpick. Adding only 1-2 minutes at a time, if it is not done. This will prevent burning it.***
 
 

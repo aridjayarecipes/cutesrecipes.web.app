@@ -73,7 +73,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Take 1 tsp mustard seeds
 
 
-Then you should definitely try Chef Veena's Dhokla Bhel. Rasawala Khaman Dhokla Speciality Of Gujarat Indian Street Food. Gopal Bhel Full Of Chaat Center Samosa Bhel Ragda Pattice Dahi Bhalla Street Food India. * FOOD Dhokla, bhel, pani puri, pohe, pav-bhaji, misc. street food, farsan , chiwda, etc… lot of common stuff here. Love for street food is probably common in both cultures, esp around metro areas. 
+Then you should definitely try Chef Veena&#39;s Dhokla Bhel. Rasawala Khaman Dhokla Speciality Of Gujarat Indian Street Food. Gopal Bhel Full Of Chaat Center Samosa Bhel Ragda Pattice Dahi Bhalla Street Food India. * FOOD Dhokla, bhel, pani puri, pohe, pav-bhaji, misc. street food, farsan , chiwda, etc… lot of common stuff here. Love for street food is probably common in both cultures, esp around metro areas. 
 
 <!--inarticleads2-->
 

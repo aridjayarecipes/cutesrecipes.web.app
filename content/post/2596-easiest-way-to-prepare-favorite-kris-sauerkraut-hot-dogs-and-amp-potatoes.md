@@ -1,6 +1,6 @@
 ---
-description: "Easiest Way to Prepare Favorite Kris’ sauerkraut hot dogs &amp; potatoes"
-title: "Easiest Way to Prepare Favorite Kris’ sauerkraut hot dogs &amp; potatoes"
+description: "Easiest Way to Prepare Favorite Kris’ sauerkraut hot dogs &amp;amp; potatoes"
+title: "Easiest Way to Prepare Favorite Kris’ sauerkraut hot dogs &amp;amp; potatoes"
 slug: 2596-easiest-way-to-prepare-favorite-kris-sauerkraut-hot-dogs-and-amp-potatoes
 date: 2022-03-28T14:56:46.425Z
 image: https://img-global.cpcdn.com/recipes/30450fb6caa72af5/680x482cq70/kris-sauerkraut-hot-dogs-potatoes-recipe-main-photo.jpg
@@ -17,9 +17,9 @@ recipeingredient:
 - "2 packs hot dogs"
 recipeinstructions:
 - "Peel and cut potato like for potato salad. Par boil them. Want them done but not mushy. Rinse under cold water. You want to stop the cooking process."
-- "In a large pan sauté onion in 1/2 stick of butter. Then add sauerkraut to it with 2 sticks of butter. A lot of pepper & garlic powder. Cover & cook on medium heat. Flip it."
+- "In a large pan sauté onion in 1/2 stick of butter. Then add sauerkraut to it with 2 sticks of butter. A lot of pepper &amp; garlic powder. Cover &amp; cook on medium heat. Flip it."
 - "Cook hot dogs in a separate pan and toast very well."
-- "Add dogs & potatoes to sauerkraut"
+- "Add dogs &amp; potatoes to sauerkraut"
 categories:
 - Recipe
 tags:
@@ -38,20 +38,20 @@ recipecategory: Dessert
 ---
 
 
-![Kris’ sauerkraut hot dogs & potatoes](https://img-global.cpcdn.com/recipes/30450fb6caa72af5/680x482cq70/kris-sauerkraut-hot-dogs-potatoes-recipe-main-photo.jpg)
+![Kris’ sauerkraut hot dogs &amp; potatoes](https://img-global.cpcdn.com/recipes/30450fb6caa72af5/680x482cq70/kris-sauerkraut-hot-dogs-potatoes-recipe-main-photo.jpg)
 
-Hello everybody, I hope you are having an amazing day today. Today, I'm gonna show you how to make a special dish, kris’ sauerkraut hot dogs & potatoes. One of my favorites food recipes. For mine, I am going to make it a bit unique. This will be really delicious.
+Hello everybody, I hope you are having an amazing day today. Today, I'm gonna show you how to make a special dish, kris’ sauerkraut hot dogs &amp; potatoes. One of my favorites food recipes. For mine, I am going to make it a bit unique. This will be really delicious.
 
-Great recipe for Kris' sauerkraut hot dogs & potatoes. A hot dog isn't a hot dog until it's loaded up with all the best condiments, right? And what people decide to put on hot dogs can get pretty hotly contested; just consider the conversation about ketchup versus mustard can get people riled up. Beyond that, people love sauerkraut and relish, too.
+Great recipe for Kris&#39; sauerkraut hot dogs &amp; potatoes. A hot dog isn&#39;t a hot dog until it&#39;s loaded up with all the best condiments, right? And what people decide to put on hot dogs can get pretty hotly contested; just consider the conversation about ketchup versus mustard can get people riled up. Beyond that, people love sauerkraut and relish, too.
 
-Kris’ sauerkraut hot dogs & potatoes is one of the most well liked of recent trending meals on earth. It's easy, it is fast, it tastes yummy. It's appreciated by millions every day. They are fine and they look fantastic. Kris’ sauerkraut hot dogs & potatoes is something that I've loved my entire life.
+Kris’ sauerkraut hot dogs &amp; potatoes is one of the most well liked of recent trending meals on earth. It's easy, it is fast, it tastes yummy. It's appreciated by millions every day. They are fine and they look fantastic. Kris’ sauerkraut hot dogs &amp; potatoes is something that I've loved my entire life.
 
 
-To begin with this particular recipe, we have to prepare a few components. You can have kris’ sauerkraut hot dogs & potatoes using 5 ingredients and 4 steps. Here is how you can achieve it.
+To begin with this particular recipe, we have to prepare a few components. You can have kris’ sauerkraut hot dogs &amp; potatoes using 5 ingredients and 4 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Kris’ sauerkraut hot dogs & potatoes:
+##### The ingredients needed to make Kris’ sauerkraut hot dogs &amp; potatoes:
 
 1. Take 4 cans Bavarian sauerkraut rinse very well. Wring it out very well
 1. Prepare 1 whole onion sliced think
@@ -64,14 +64,14 @@ Hot Dogs, Sauerkraut, and PotatoesFood.com. potatoes, frankfurters, sauerkraut. 
 
 <!--inarticleads2-->
 
-##### Steps to make Kris’ sauerkraut hot dogs & potatoes:
+##### Steps to make Kris’ sauerkraut hot dogs &amp; potatoes:
 
 1. Peel and cut potato like for potato salad. Par boil them. Want them done but not mushy. Rinse under cold water. You want to stop the cooking process.
-1. In a large pan sauté onion in 1/2 stick of butter. Then add sauerkraut to it with 2 sticks of butter. A lot of pepper & garlic powder. Cover & cook on medium heat. Flip it.
+1. In a large pan sauté onion in 1/2 stick of butter. Then add sauerkraut to it with 2 sticks of butter. A lot of pepper &amp; garlic powder. Cover &amp; cook on medium heat. Flip it.
 1. Cook hot dogs in a separate pan and toast very well.
-1. Add dogs & potatoes to sauerkraut
+1. Add dogs &amp; potatoes to sauerkraut
 
 
 Entrée: wagyu beef hot dogs, quail eggs, watermelon radishes, canned chili. Dessert: corn dogs, coffee toffee, chocolate-covered jalapeños, deep-fried cookie dough. Combine all ingredients in a saucepan; cook on low heat until heated through. A delicious Pennsylvania Dutch recipe for Sauerkraut and Hot Dogs. Of course, you can always substitute Brats in the Sauerkraut. 
 
-So that's going to wrap this up with this special food kris’ sauerkraut hot dogs & potatoes recipe. Thank you very much for your time. I am confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!
+So that's going to wrap this up with this special food kris’ sauerkraut hot dogs &amp; potatoes recipe. Thank you very much for your time. I am confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

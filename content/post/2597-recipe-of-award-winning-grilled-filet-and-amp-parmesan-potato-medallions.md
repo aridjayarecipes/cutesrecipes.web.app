@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Award-winning Grilled Filet &amp; Parmesan Potato Medallions"
-title: "Recipe of Award-winning Grilled Filet &amp; Parmesan Potato Medallions"
+description: "Recipe of Award-winning Grilled Filet &amp;amp; Parmesan Potato Medallions"
+title: "Recipe of Award-winning Grilled Filet &amp;amp; Parmesan Potato Medallions"
 slug: 2597-recipe-of-award-winning-grilled-filet-and-amp-parmesan-potato-medallions
 date: 2022-02-20T02:40:21.833Z
 image: https://img-global.cpcdn.com/recipes/2c340ea2decb8807/680x482cq70/grilled-filet-parmesan-potato-medallions-recipe-main-photo.jpg
@@ -50,20 +50,20 @@ recipecategory: Dessert
 ---
 
 
-![Grilled Filet & Parmesan Potato Medallions](https://img-global.cpcdn.com/recipes/2c340ea2decb8807/680x482cq70/grilled-filet-parmesan-potato-medallions-recipe-main-photo.jpg)
+![Grilled Filet &amp; Parmesan Potato Medallions](https://img-global.cpcdn.com/recipes/2c340ea2decb8807/680x482cq70/grilled-filet-parmesan-potato-medallions-recipe-main-photo.jpg)
 
-Hey everyone, it is John, welcome to my recipe page. Today, I will show you a way to make a distinctive dish, grilled filet & parmesan potato medallions. It is one of my favorites food recipes. For mine, I am going to make it a bit tasty. This is gonna smell and look delicious.
-
-
-
-Grilled Filet & Parmesan Potato Medallions is one of the most well liked of current trending meals on earth. It's enjoyed by millions daily. It's simple, it is fast, it tastes delicious. Grilled Filet & Parmesan Potato Medallions is something which I have loved my whole life. They are nice and they look wonderful.
+Hey everyone, it is John, welcome to my recipe page. Today, I will show you a way to make a distinctive dish, grilled filet &amp; parmesan potato medallions. It is one of my favorites food recipes. For mine, I am going to make it a bit tasty. This is gonna smell and look delicious.
 
 
-To get started with this particular recipe, we have to prepare a few components. You can have grilled filet & parmesan potato medallions using 11 ingredients and 10 steps. Here is how you can achieve that.
+
+Grilled Filet &amp; Parmesan Potato Medallions is one of the most well liked of current trending meals on earth. It's enjoyed by millions daily. It's simple, it is fast, it tastes delicious. Grilled Filet &amp; Parmesan Potato Medallions is something which I have loved my whole life. They are nice and they look wonderful.
+
+
+To get started with this particular recipe, we have to prepare a few components. You can have grilled filet &amp; parmesan potato medallions using 11 ingredients and 10 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Grilled Filet & Parmesan Potato Medallions:
+##### The ingredients needed to make Grilled Filet &amp; Parmesan Potato Medallions:
 
 1. Prepare 2 (6 oz) Filet Mignon
 1. Prepare 10 oz Yukon Gold Potatoes
@@ -82,7 +82,7 @@ To get started with this particular recipe, we have to prepare a few components.
 
 <!--inarticleads2-->
 
-##### Steps to make Grilled Filet & Parmesan Potato Medallions:
+##### Steps to make Grilled Filet &amp; Parmesan Potato Medallions:
 
 1. Preheat oven to 450°
 1. Slice potatoes into half inch medallions, onions into 1/2 inch wedges, and quarter and deseed peppers.
@@ -98,4 +98,4 @@ To get started with this particular recipe, we have to prepare a few components.
 
 
 
-So that is going to wrap this up with this special food grilled filet & parmesan potato medallions recipe. Thank you very much for your time. I am confident you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap this up with this special food grilled filet &amp; parmesan potato medallions recipe. Thank you very much for your time. I am confident you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

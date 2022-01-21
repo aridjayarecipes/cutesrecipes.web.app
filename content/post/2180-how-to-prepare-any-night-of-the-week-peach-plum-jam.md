@@ -48,7 +48,7 @@ Hello everybody, I hope you're having an amazing day today. Today, I'm gonna sho
 
 Peach Plum Jam is one of the most well liked of current trending meals in the world. It is enjoyed by millions every day. It is simple, it's quick, it tastes yummy. Peach Plum Jam is something that I have loved my whole life. They are nice and they look wonderful.
 
-I got this recipe from About.com. It was posted by Diana Rattray. I was looking for a way to use up my peaches and plums and there wasn't a recipe like this posted here. Peach-Plum Jam. this link is to an external site that may or may not meet accessibility guidelines.
+I got this recipe from About.com. It was posted by Diana Rattray. I was looking for a way to use up my peaches and plums and there wasn&#39;t a recipe like this posted here. Peach-Plum Jam. this link is to an external site that may or may not meet accessibility guidelines.
 
 
 To get started with this recipe, we have to prepare a few components. You can cook peach plum jam using 6 ingredients and 7 steps. Here is how you can achieve it.
@@ -65,7 +65,7 @@ To get started with this recipe, we have to prepare a few components. You can co
 1. Prepare 3 tsp lemon juice
 
 
-See recipes for Peach Plum Jam, Piazza's red plums jam, Plum Jam too. Peach Plum Jam from Food.com: I got this recipe from About.com. It was posted by Diana Rattray. I was looking for a way to use up my peaches and plums and there wasn't a recipe like this posted here. 
+See recipes for Peach Plum Jam, Piazza&#39;s red plums jam, Plum Jam too. Peach Plum Jam from Food.com: I got this recipe from About.com. It was posted by Diana Rattray. I was looking for a way to use up my peaches and plums and there wasn&#39;t a recipe like this posted here. 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ See recipes for Peach Plum Jam, Piazza's red plums jam, Plum Jam too. Peach Plum
 1. Let cool completely and keep in the fridge as this recipe is low in sugar. Makes 3 jars.
 
 
-It was posted by Diana Rattray. I was looking for a way to use up my peaches and plums and there wasn't a recipe like this posted here. Making peach jam starts with peeling the peaches. If I'm making a big Homemade peach jam has a beautiful orange color because the peaches were treated with lemon. And thus, a jam was born. 
+It was posted by Diana Rattray. I was looking for a way to use up my peaches and plums and there wasn&#39;t a recipe like this posted here. Making peach jam starts with peeling the peaches. If I&#39;m making a big Homemade peach jam has a beautiful orange color because the peaches were treated with lemon. And thus, a jam was born. 
 
 So that's going to wrap this up for this special food peach plum jam recipe. Thank you very much for reading. I'm sure you will make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

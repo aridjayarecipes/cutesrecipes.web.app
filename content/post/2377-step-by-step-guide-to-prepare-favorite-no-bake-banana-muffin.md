@@ -25,7 +25,7 @@ recipeingredient:
 recipeinstructions:
 - "Mix the dry ingredients on a bowl."
 - "Sift the mixture of dry ingredients on a separate bowl."
-- "On a separate bowl,mashed the bananas until it's lumpy."
+- "On a separate bowl,mashed the bananas until it&#39;s lumpy."
 - "Add the vanilla,eggs and melted margarine or butter."
 - "Mixed thoroughly and add the sifted dry ingredients."
 - "Whisk the ingredients until fully mixed or combined."
@@ -88,7 +88,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 
 1. Mix the dry ingredients on a bowl.
 1. Sift the mixture of dry ingredients on a separate bowl.
-1. On a separate bowl,mashed the bananas until it's lumpy.
+1. On a separate bowl,mashed the bananas until it&#39;s lumpy.
 1. Add the vanilla,eggs and melted margarine or butter.
 1. Mixed thoroughly and add the sifted dry ingredients.
 1. Whisk the ingredients until fully mixed or combined.

@@ -98,6 +98,6 @@ The Red or purple Cabbage is a healthy recipe and aslo simple to make. Meat free
 1. Add pepper powder and Kadalai maavu finally.Serve hot
 
 
-This spiced up cabbage sabzi makes a healthy, flavoursome side dish for rotis and chapatis. Cabbage is an incredibly useful vegetable for those aiming for a low-cal or low-carb diet. Being quite a bland vegetable, it needs to be cooked right in order to make it more acceptable to a food-lover's. Cabbage masala is a dry sabzi. This is a good variation to your regular cabbage sabzi with chana dal. 
+This spiced up cabbage sabzi makes a healthy, flavoursome side dish for rotis and chapatis. Cabbage is an incredibly useful vegetable for those aiming for a low-cal or low-carb diet. Being quite a bland vegetable, it needs to be cooked right in order to make it more acceptable to a food-lover&#39;s. Cabbage masala is a dry sabzi. This is a good variation to your regular cabbage sabzi with chana dal. 
 
 So that's going to wrap this up with this special food purple cabbage masala/sabzi recipe. Thank you very much for reading. I am sure that you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

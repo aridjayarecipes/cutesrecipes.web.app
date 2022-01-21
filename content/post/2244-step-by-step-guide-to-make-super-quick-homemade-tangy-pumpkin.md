@@ -20,9 +20,9 @@ recipeingredient:
 - "1 tea spoon coriander powder"
 - "1/2 tea spoon mango powder"
 recipeinstructions:
-- "Cut pumpkin into 1"cubes shape."
+- "Cut pumpkin into 1&#34;cubes shape."
 - "Hot oil in a work put chilli chopped fenugreek seeds and pumpkin add salt.mix well and cook on slow flame untill it soften completly."
-- "Add salt coriander powder and jaggry.mix.let it cook untill jaggry melts.now add chilli powder mango powder.here it's ready to serve with fulka or puri."
+- "Add salt coriander powder and jaggry.mix.let it cook untill jaggry melts.now add chilli powder mango powder.here it&#39;s ready to serve with fulka or puri."
 categories:
 - Recipe
 tags:
@@ -66,15 +66,15 @@ To get started with this particular recipe, we have to first prepare a few ingre
 1. Take 1/2 tea spoon mango powder
 
 
-Make this khatti mithi kaddu sabji in halloween instead of pie & enjoy. Recipe tangy pumpkin butter recipe with cooking procedure. Raj Kachori Crispy Shells, Tangy Pumpkin and Sweetened Yoghurt with Crisp Okra. Музыка онлайн: Tangy Pumpkin Curry. Tangy Pumpkin Butter, recipe, Mix pumpkin puree, brown sugar, apple cider vinegar, pumpkin pie spice, and cinnamon in a saucepan over medium-low heat; bring to a simmer. 
+Make this khatti mithi kaddu sabji in halloween instead of pie &amp; enjoy. Recipe tangy pumpkin butter recipe with cooking procedure. Raj Kachori Crispy Shells, Tangy Pumpkin and Sweetened Yoghurt with Crisp Okra. Музыка онлайн: Tangy Pumpkin Curry. Tangy Pumpkin Butter, recipe, Mix pumpkin puree, brown sugar, apple cider vinegar, pumpkin pie spice, and cinnamon in a saucepan over medium-low heat; bring to a simmer. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Tangy pumpkin:
 
-1. Cut pumpkin into 1"cubes shape.
+1. Cut pumpkin into 1&#34;cubes shape.
 1. Hot oil in a work put chilli chopped fenugreek seeds and pumpkin add salt.mix well and cook on slow flame untill it soften completly.
-1. Add salt coriander powder and jaggry.mix.let it cook untill jaggry melts.now add chilli powder mango powder.here it's ready to serve with fulka or puri.
+1. Add salt coriander powder and jaggry.mix.let it cook untill jaggry melts.now add chilli powder mango powder.here it&#39;s ready to serve with fulka or puri.
 
 
 Raj Kachori Crispy Shells, Tangy Pumpkin and Sweetened Yoghurt with Crisp Okra. Музыка онлайн: Tangy Pumpkin Curry. Tangy Pumpkin Butter, recipe, Mix pumpkin puree, brown sugar, apple cider vinegar, pumpkin pie spice, and cinnamon in a saucepan over medium-low heat; bring to a simmer. Add methi seeds, hing, green chillies and pumpkin and mix well. Aambal is basically a tangy addon to your normal meal, and is predominantly cooked in northern part of India. It is made out of kaddu (Pumpkin), which is readily available in any part of the world. 

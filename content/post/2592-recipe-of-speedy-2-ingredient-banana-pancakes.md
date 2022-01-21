@@ -72,6 +72,6 @@ Super easy but healthy pancakes recipe. It taste delicious and is so good for yo
 1. Cook until golden brown. Add toppings and enjoy!
 
 
-This recipe makes a quick fix breakfast recipe. Some recipes calls to puree the bananas and egg in a blender but i dont suggest you to do that. Since it will make like a banana omelette which is gross. methods. With banana pancakes, there's no need to wait until dessert to enjoy this treat of a meal. You can pick out your recipe based on how much time you have and what ingredients you like the best (or what you can find in your kitchen. 
+This recipe makes a quick fix breakfast recipe. Some recipes calls to puree the bananas and egg in a blender but i dont suggest you to do that. Since it will make like a banana omelette which is gross. methods. With banana pancakes, there&#39;s no need to wait until dessert to enjoy this treat of a meal. You can pick out your recipe based on how much time you have and what ingredients you like the best (or what you can find in your kitchen. 
 
 So that's going to wrap it up for this exceptional food 2+ ingredient banana pancakes recipe. Thanks so much for reading. I am confident you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

@@ -36,7 +36,7 @@ recipeinstructions:
 - "Add okra and tomatoes to the sauce,and slowly mix"
 - "Shake the stew pot, without stiring,so as okra doesn’t damaged during cooking."
 - "Cook for 30 minutes,on low heat. Pure okra in a deep serving bowl, serve hot with rice (vermicelli rice)"
-- "Chef's Tip: Do not add any spices to this recipe, so as the okra brings out the delicious garlic and coriander taste"
+- "Chef&#39;s Tip: Do not add any spices to this recipe, so as the okra brings out the delicious garlic and coriander taste"
 - "Made By: Faten El Soufi"
 categories:
 - Recipe
@@ -58,7 +58,7 @@ recipecategory: Lunch
 
 Hey everyone, it's Louise, welcome to our recipe site. Today, I'm gonna show you how to prepare a distinctive dish, okra_with_meat_and_sauce. It is one of my favorites. This time, I'm gonna make it a bit unique. This will be really delicious.
 
-This Okra Stew is a hearty Lebanese style recipe with robust flavors of stewed tomatoes, garlic and pomegranate molasses - the whole family will enjoy! Egyptian-style Okra with tomato sauce and veal. Бамия По-Египетски. Okra is a common ingredient in Southern cooking and it's featured in numerous international recipes. It's a fruit that's eaten like a vegetable and delicious when It's widely available both fresh and frozen.
+This Okra Stew is a hearty Lebanese style recipe with robust flavors of stewed tomatoes, garlic and pomegranate molasses - the whole family will enjoy! Egyptian-style Okra with tomato sauce and veal. Бамия По-Египетски. Okra is a common ingredient in Southern cooking and it&#39;s featured in numerous international recipes. It&#39;s a fruit that&#39;s eaten like a vegetable and delicious when It&#39;s widely available both fresh and frozen.
 
 Okra_with_meat_and_sauce is one of the most popular of recent trending foods in the world. It's appreciated by millions every day. It is simple, it's fast, it tastes yummy. Okra_with_meat_and_sauce is something which I've loved my entire life. They are fine and they look wonderful.
 
@@ -102,7 +102,7 @@ Sauté onions during a saucepan with ghee, until golden. Add juice , let it boil
 1. Add okra and tomatoes to the sauce,and slowly mix
 1. Shake the stew pot, without stiring,so as okra doesn’t damaged during cooking.
 1. Cook for 30 minutes,on low heat. - Pure okra in a deep serving bowl, serve hot with rice (vermicelli rice)
-1. Chef's Tip: - Do not add any spices to this recipe, so as the okra brings out the delicious garlic and coriander taste
+1. Chef&#39;s Tip: - Do not add any spices to this recipe, so as the okra brings out the delicious garlic and coriander taste
 1. Made By: Faten El Soufi
 
 

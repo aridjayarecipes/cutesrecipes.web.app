@@ -29,7 +29,7 @@ recipeinstructions:
 - "Fry each piece until golden brown."
 - "Heat butter, garlic, sriracha, and honey into a sauce pan."
 - "Keep stirring until everything is incorporated. Let simmer."
-- "Coat the salmon with the sauce in a tossing bowl. Use just enough sauce to cover the top of the fish. You don't want to drown the food because it will lose it's crispness."
+- "Coat the salmon with the sauce in a tossing bowl. Use just enough sauce to cover the top of the fish. You don&#39;t want to drown the food because it will lose it&#39;s crispness."
 - "Once complete, plate up and enjoy!"
 categories:
 - Recipe
@@ -90,7 +90,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Fry each piece until golden brown.
 1. Heat butter, garlic, sriracha, and honey into a sauce pan.
 1. Keep stirring until everything is incorporated. Let simmer.
-1. Coat the salmon with the sauce in a tossing bowl. Use just enough sauce to cover the top of the fish. You don't want to drown the food because it will lose it's crispness.
+1. Coat the salmon with the sauce in a tossing bowl. Use just enough sauce to cover the top of the fish. You don&#39;t want to drown the food because it will lose it&#39;s crispness.
 1. Once complete, plate up and enjoy!
 
 

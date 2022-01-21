@@ -29,7 +29,7 @@ recipeingredient:
 - "1/4 cup chopped musk melon"
 - "1/4 cup pomegranate"
 recipeinstructions:
-- "Check if the cooked rice is soft or not. If it's not add some water and cook until soft and mushy. Add curd and mix well with clean hands. Add milk, salt and mix everything well."
+- "Check if the cooked rice is soft or not. If it&#39;s not add some water and cook until soft and mushy. Add curd and mix well with clean hands. Add milk, salt and mix everything well."
 - "Prepare tempering by adding mustard seeds to hot oil, then add all other things under the section. Switch off flame, cool a little and add to the rice mixture."
 - "Chop the fruits finely and keep them ready. If you are packing for lunch, put in airtight tiffin box and ask your kid to add just before having food."
 - "Yummy curd rice with totally modern avatar is ready for everyone to have."
@@ -92,7 +92,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 ##### Steps to make Curd Rice in new Avatar:
 
-1. Check if the cooked rice is soft or not. If it's not add some water and cook until soft and mushy. Add curd and mix well with clean hands. Add milk, salt and mix everything well.
+1. Check if the cooked rice is soft or not. If it&#39;s not add some water and cook until soft and mushy. Add curd and mix well with clean hands. Add milk, salt and mix everything well.
 1. Prepare tempering by adding mustard seeds to hot oil, then add all other things under the section. Switch off flame, cool a little and add to the rice mixture.
 1. Chop the fruits finely and keep them ready. If you are packing for lunch, put in airtight tiffin box and ask your kid to add just before having food.
 1. Yummy curd rice with totally modern avatar is ready for everyone to have.

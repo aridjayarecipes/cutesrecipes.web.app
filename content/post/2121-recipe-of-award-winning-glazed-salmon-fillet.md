@@ -45,7 +45,7 @@ recipecategory: Dessert
 
 Hey everyone, hope you're having an incredible day today. Today, I'm gonna show you how to prepare a distinctive dish, glazed salmon fillet. It is one of my favorites. For mine, I will make it a little bit unique. This will be really delicious.
 
-A glaze featuring balsamic vinegar, garlic, honey, white wine and Dijon mustard makes baked salmon fillets extraordinary. In this video, you'll see how to make baked salmon fillets. The key is the extraordinary glaze, starring balsamic vinegar, garlic, Dijon, honey, and white wine. Mustard-Glazed Salmon Fillets with Roasted Cauliflower. this link is to an external site that may or may not meet accessibility guidelines.
+A glaze featuring balsamic vinegar, garlic, honey, white wine and Dijon mustard makes baked salmon fillets extraordinary. In this video, you&#39;ll see how to make baked salmon fillets. The key is the extraordinary glaze, starring balsamic vinegar, garlic, Dijon, honey, and white wine. Mustard-Glazed Salmon Fillets with Roasted Cauliflower. this link is to an external site that may or may not meet accessibility guidelines.
 
 glazed salmon fillet is one of the most favored of recent trending meals in the world. It's enjoyed by millions daily. It is easy, it's fast, it tastes delicious. glazed salmon fillet is something that I've loved my whole life. They're fine and they look wonderful.
 
@@ -65,7 +65,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 1. Take 1 bag of Salmon,thawed (recipe will glaze 0.5-1.5 lbs)
 
 
-Grilled salmon on your Traeger is about half the price of your favorite steak house salmon & tastes even more smoky Hardwood smoked salmon has a wooded note that you won't get at a restaurant. I am always trying different ways to season and cook salmon, and this recipe is by far one of my favorite creations. Serve up salmon fillets for a nutritious supper. Take your pick from a huge range of dishes, including leeky parcels, glazed salmon and fishcakes. 
+Grilled salmon on your Traeger is about half the price of your favorite steak house salmon &amp; tastes even more smoky Hardwood smoked salmon has a wooded note that you won&#39;t get at a restaurant. I am always trying different ways to season and cook salmon, and this recipe is by far one of my favorite creations. Serve up salmon fillets for a nutritious supper. Take your pick from a huge range of dishes, including leeky parcels, glazed salmon and fishcakes. 
 
 <!--inarticleads2-->
 

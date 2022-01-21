@@ -21,7 +21,7 @@ recipeingredient:
 recipeinstructions:
 - "Boil chopped beetroot in a microwave safe bowl for 5-6 minutes. Let it cool."
 - "In a blender add the beetroot cubes, water, star anise fruit until smooth paste."
-- "Heat pan & add butter. Add the dry spices & let it crackle. Add the beetroot puree & cook until mixture is semi dry. Add sugar. Cook for few minutes. Remove from heat & let it cool. Strain in a flour siever for a smooth texture."
+- "Heat pan &amp; add butter. Add the dry spices &amp; let it crackle. Add the beetroot puree &amp; cook until mixture is semi dry. Add sugar. Cook for few minutes. Remove from heat &amp; let it cool. Strain in a flour siever for a smooth texture."
 - "Serve with ur fav appetisers and starters."
 categories:
 - Recipe
@@ -47,7 +47,7 @@ Hello everybody, it's Louise, welcome to my recipe page. Today, I'm gonna show y
 
 Beetroot-Star anise dip is one of the most popular of recent trending meals on earth. It's simple, it's fast, it tastes delicious. It is appreciated by millions every day. They're nice and they look fantastic. Beetroot-Star anise dip is something which I've loved my entire life.
 
-Beetroot-Star anise dip is one of the most favored of recent trending foods in the world. It is simple, it is quick, it tastes delicious. It's appreciated by millions every day. They're fine and they look fantastic.
+Beetroot-Star anise dip is one of the most favored of recent trending foods in the world. It is simple, it is quick, it tastes delicious. It&#39;s appreciated by millions every day. They&#39;re fine and they look fantastic.
 
 
 To begin with this particular recipe, we must prepare a few ingredients. You can cook beetroot-star anise dip using 8 ingredients and 4 steps. Here is how you can achieve that.
@@ -66,7 +66,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Get 1 Cinnamon stick
 
 
-Relish is great paired with sausage, smoked fish, potatoes, or on a cheese plate. We love the way the flavour of the star anise complements the earthiness of the beetroots and is rounded off with a perfect cinnamon aroma. Beetroots are Ross's favourite vegetable and we regularly have them with our dinner. Enjoy the pickled beets cold or warm, in salads, risottos, or with roasted. 
+Relish is great paired with sausage, smoked fish, potatoes, or on a cheese plate. We love the way the flavour of the star anise complements the earthiness of the beetroots and is rounded off with a perfect cinnamon aroma. Beetroots are Ross&#39;s favourite vegetable and we regularly have them with our dinner. Enjoy the pickled beets cold or warm, in salads, risottos, or with roasted. 
 
 <!--inarticleads2-->
 
@@ -74,10 +74,10 @@ Relish is great paired with sausage, smoked fish, potatoes, or on a cheese plate
 
 1. Boil chopped beetroot in a microwave safe bowl for 5-6 minutes. Let it cool.
 1. In a blender add the beetroot cubes, water, star anise fruit until smooth paste.
-1. Heat pan & add butter. Add the dry spices & let it crackle. Add the beetroot puree & cook until mixture is semi dry. Add sugar. Cook for few minutes. Remove from heat & let it cool. Strain in a flour siever for a smooth texture.
+1. Heat pan &amp; add butter. Add the dry spices &amp; let it crackle. Add the beetroot puree &amp; cook until mixture is semi dry. Add sugar. Cook for few minutes. Remove from heat &amp; let it cool. Strain in a flour siever for a smooth texture.
 1. Serve with ur fav appetisers and starters.
 
 
-Beetroots are Ross's favourite vegetable and we regularly have them with our dinner. Enjoy the pickled beets cold or warm, in salads, risottos, or with roasted. A healthy and vibrant dip, flavoured with nigella seeds and cumin to serve with crudites or flatbreads - it works well in lunchboxes too, from BBC Good Food. Put beetroot and cumin in the small bowl of a food processor, season and blend until smooth. Tip into a bowl, add the mint and lemon juice, then. 
+Beetroots are Ross&#39;s favourite vegetable and we regularly have them with our dinner. Enjoy the pickled beets cold or warm, in salads, risottos, or with roasted. A healthy and vibrant dip, flavoured with nigella seeds and cumin to serve with crudites or flatbreads - it works well in lunchboxes too, from BBC Good Food. Put beetroot and cumin in the small bowl of a food processor, season and blend until smooth. Tip into a bowl, add the mint and lemon juice, then. 
 
 So that's going to wrap it up with this exceptional food beetroot-star anise dip recipe. Thank you very much for reading. I'm sure that you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

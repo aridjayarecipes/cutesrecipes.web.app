@@ -66,7 +66,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Prepare 1 pinch black salt
 
 
-Recipes here include healthy beef stews, a restaurant copycat healthy turkey chili, and healthy butternut squash soup, but there's much more. Pick your favorite for dinner tonight. Can someone give me some more recipes for different types of soups? I've tried looking online but I can't seem to find the right one. 
+Recipes here include healthy beef stews, a restaurant copycat healthy turkey chili, and healthy butternut squash soup, but there&#39;s much more. Pick your favorite for dinner tonight. Can someone give me some more recipes for different types of soups? I&#39;ve tried looking online but I can&#39;t seem to find the right one. 
 
 <!--inarticleads2-->
 
@@ -77,6 +77,6 @@ Recipes here include healthy beef stews, a restaurant copycat healthy turkey chi
 1. Now, heat a pan put oil in it add garlic pod and pour soup, cook it add 1 pinch black pepper and salt in it and add cornflour dilute in 2 tbsp, water water, cook about 2-3 mins. Remove from heat add 1/4 tbsp vinegar and add green coriander seed for garnishing, serve hot.
 
 
-Can someone give me some more recipes for different types of soups? I've tried looking online but I can't seem to find the right one. It's a great soup that is cheap, healthy, and adaptable. Nutritious, soothing, flavourful soup recipes to suit everyone - from hearty meat-based soups to tasty broths and creamy vegetable soups Healthy Food Guide has it all. See more ideas about healthy recipes, recipes, healthy. 
+Can someone give me some more recipes for different types of soups? I&#39;ve tried looking online but I can&#39;t seem to find the right one. It&#39;s a great soup that is cheap, healthy, and adaptable. Nutritious, soothing, flavourful soup recipes to suit everyone - from hearty meat-based soups to tasty broths and creamy vegetable soups Healthy Food Guide has it all. See more ideas about healthy recipes, recipes, healthy. 
 
 So that is going to wrap it up for this exceptional food healthy soup recipe. Thank you very much for your time. I am sure you can make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -19,11 +19,11 @@ recipeingredient:
 - "1 Oil for frying"
 recipeinstructions:
 - "Put flour into a shallow rectangle dish"
-- "Combine bread crumbs and desired spice mix into another shallow rectangle dish. (If your spice mix doesn't have salt added, you could sprinkle some in the bread crumbs on the fish while cooking)."
+- "Combine bread crumbs and desired spice mix into another shallow rectangle dish. (If your spice mix doesn&#39;t have salt added, you could sprinkle some in the bread crumbs on the fish while cooking)."
 - "Beat egg in a small mixing bowl. Add milk and beat some more."
 - "First coat both sides of each fillet with flour, then dip into the egg and milk mixture, then coat both sides in the bread crumbs."
 - "Heat oil in a large frying pan to medium-high."
-- "When oil is hot add the fillets to the pan, cook until just golden brown, then very carefully flip them over to the other side, and brown. Don't overcook or fish will be dry. You may want to use two spatulas to flip them over to prevent them from breaking."
+- "When oil is hot add the fillets to the pan, cook until just golden brown, then very carefully flip them over to the other side, and brown. Don&#39;t overcook or fish will be dry. You may want to use two spatulas to flip them over to prevent them from breaking."
 - "If desired, you can put them on paper towel lined plate to absorb access oil."
 categories:
 - Recipe
@@ -74,11 +74,11 @@ To begin with this particular recipe, we have to prepare a few components. You c
 ##### Instructions to make Breaded Fried Basa (Catfish) Fillets 🐟:
 
 1. Put flour into a shallow rectangle dish
-1. Combine bread crumbs and desired spice mix into another shallow rectangle dish. (If your spice mix doesn't have salt added, you could sprinkle some in the bread crumbs on the fish while cooking).
+1. Combine bread crumbs and desired spice mix into another shallow rectangle dish. (If your spice mix doesn&#39;t have salt added, you could sprinkle some in the bread crumbs on the fish while cooking).
 1. Beat egg in a small mixing bowl. Add milk and beat some more.
 1. First coat both sides of each fillet with flour, then dip into the egg and milk mixture, then coat both sides in the bread crumbs.
 1. Heat oil in a large frying pan to medium-high.
-1. When oil is hot add the fillets to the pan, cook until just golden brown, then very carefully flip them over to the other side, and brown. Don't overcook or fish will be dry. You may want to use two spatulas to flip them over to prevent them from breaking.
+1. When oil is hot add the fillets to the pan, cook until just golden brown, then very carefully flip them over to the other side, and brown. Don&#39;t overcook or fish will be dry. You may want to use two spatulas to flip them over to prevent them from breaking.
 1. If desired, you can put them on paper towel lined plate to absorb access oil.
 
 

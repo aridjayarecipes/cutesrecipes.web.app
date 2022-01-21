@@ -21,7 +21,7 @@ recipeingredient:
 - "2 tbsp sugarhoney Korean recipes usually call for corn syrup"
 - "900 ml water"
 recipeinstructions:
-- "Quite easy actually, start by boiling water. Add the kelp or the stock cube. If you have dried anchovies, it's much better for the broth."
+- "Quite easy actually, start by boiling water. Add the kelp or the stock cube. If you have dried anchovies, it&#39;s much better for the broth."
 - "Add the minced onions, Korean recipes usually call for spring onions alongside onions."
 - "Add the gochujang and doenjang."
 - "Add the mussels (or mixed seafood, usually octopus, cockles, prawns, squid), sliced carrots, and greens (I use snap peas) here."
@@ -50,7 +50,7 @@ recipecategory: Dinner
 
 Hello everybody, hope you are having an incredible day today. Today, I'm gonna show you how to make a special dish, not jjampong (korean inspired no-noodles mussel soup). It is one of my favorites. This time, I'm gonna make it a little bit tasty. This will be really delicious.
 
-Jjamppong is spicy seafood noodle soup. It's a popular Korean noodle dish. In Korea, jjamppong's popularity always competes with jajangmyeon (Korean black bean noodles, 자장면). If you can't decide between jjamppong and.
+Jjamppong is spicy seafood noodle soup. It&#39;s a popular Korean noodle dish. In Korea, jjamppong&#39;s popularity always competes with jajangmyeon (Korean black bean noodles, 자장면). If you can&#39;t decide between jjamppong and.
 
 Not jjampong (Korean inspired no-noodles mussel soup) is one of the most favored of recent trending meals in the world. It is easy, it's quick, it tastes delicious. It is appreciated by millions every day. Not jjampong (Korean inspired no-noodles mussel soup) is something which I have loved my whole life. They're fine and they look fantastic.
 
@@ -66,20 +66,20 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Get 600 g snap peas (or vegetables, preferably bok choy/cabbages)
 1. Make ready Half large onion (Korean recipes usually use spring onions)
 1. Prepare 2 tbsp gochujang (/ chili powder but will taste different)
-1. Make ready 2 tbsp doenjang (skip if you don't have)
+1. Make ready 2 tbsp doenjang (skip if you don&#39;t have)
 1. Prepare 2 tbsp soy sauce (increase if no doenjang)
 1. Prepare 4 dried kelp (or 1 fish/vegetable stock cube)
 1. Prepare 2 tbsp sugar/honey (Korean recipes usually call for corn syrup)
 1. Prepare 900 ml water
 
 
-Jjamppong Korean Seafood Noodle Soup Recipe & Video. Are you a jjajangmyeon person or are you are jjamppong person? I know, this is nothing serious question but I've always been jjamppong person. Jjamppong is a spicy Korean seafood noodle soup. 
+Jjamppong Korean Seafood Noodle Soup Recipe &amp; Video. Are you a jjajangmyeon person or are you are jjamppong person? I know, this is nothing serious question but I&#39;ve always been jjamppong person. Jjamppong is a spicy Korean seafood noodle soup. 
 
 <!--inarticleads2-->
 
 ##### Instructions to make Not jjampong (Korean inspired no-noodles mussel soup):
 
-1. Quite easy actually, start by boiling water. Add the kelp or the stock cube. If you have dried anchovies, it's much better for the broth.
+1. Quite easy actually, start by boiling water. Add the kelp or the stock cube. If you have dried anchovies, it&#39;s much better for the broth.
 1. Add the minced onions, Korean recipes usually call for spring onions alongside onions.
 1. Add the gochujang and doenjang.
 1. Add the mussels (or mixed seafood, usually octopus, cockles, prawns, squid), sliced carrots, and greens (I use snap peas) here.
@@ -88,6 +88,6 @@ Jjamppong Korean Seafood Noodle Soup Recipe & Video. Are you a jjajangmyeon pers
 1. Enjoy with rice, or if you want something closer to jjampong, add cooked noodles into the broth straight before serving.
 
 
-I know, this is nothing serious question but I've always been jjamppong person. Jjamppong is a spicy Korean seafood noodle soup. Try this delicious and easy Jjamppong recipe that's authentic and tastes better than Korean restaurants. It's time to say goodbye to strange seafood noodle soup. Today, I will show you how to make Jjamppong, Korean spicy seafood noodle soup. 
+I know, this is nothing serious question but I&#39;ve always been jjamppong person. Jjamppong is a spicy Korean seafood noodle soup. Try this delicious and easy Jjamppong recipe that&#39;s authentic and tastes better than Korean restaurants. It&#39;s time to say goodbye to strange seafood noodle soup. Today, I will show you how to make Jjamppong, Korean spicy seafood noodle soup. 
 
 So that's going to wrap this up for this exceptional food not jjampong (korean inspired no-noodles mussel soup) recipe. Thanks so much for your time. I am confident that you can make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

@@ -88,6 +88,6 @@ Wonderful lemon honey garlic salmon covered in an easy lemon garlic butter marin
 1. Serve the fish along with the veggies for a wholesome goodness
 
 
-Fresh salmon needs very little preparation. These salmon fillets are cooked in good, sweet butter and minced garlic, and then sprinkled with a little lemon juice. If you'd like a little more kick and a fancy presentation, caramelize onions and serve them atop the cooked salmon. This easy flavorful baked salmon recipe is flavored with minced garlic, parsley, and lemon juice. Serve it on a bed of kale or spinach and enjoy. 
+Fresh salmon needs very little preparation. These salmon fillets are cooked in good, sweet butter and minced garlic, and then sprinkled with a little lemon juice. If you&#39;d like a little more kick and a fancy presentation, caramelize onions and serve them atop the cooked salmon. This easy flavorful baked salmon recipe is flavored with minced garlic, parsley, and lemon juice. Serve it on a bed of kale or spinach and enjoy. 
 
 So that's going to wrap it up with this exceptional food lemon burnt garlic salmon recipe. Thanks so much for reading. I am confident that you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

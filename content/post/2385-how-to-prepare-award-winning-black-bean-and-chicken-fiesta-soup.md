@@ -31,10 +31,10 @@ recipeinstructions:
 - "In a stock pot add 2 tbsp oil and chopped onion cook until tender"
 - "Open all cans add to stock pot. Add taco seasoning packs and stir simmer on low to medium heat."
 - "Cube your chicken breast add to stock pot. Be careful you may need to let chicken cool first."
-- "Pour broth from chicken into stock pot stir add more spices if needed. Add second can of broth and bouillon cubes if needed. Taste your soup to see what's missing."
+- "Pour broth from chicken into stock pot stir add more spices if needed. Add second can of broth and bouillon cubes if needed. Taste your soup to see what&#39;s missing."
 - "Simmer on low for 1 hour stirring frequently."
 - "Serve hot and enjoy! Great in the winter months."
-- "I topped my soup with fresh cilantro, cheese, & sour cream delicious! I also made some cheese quesadillas to make this more a meal yum!"
+- "I topped my soup with fresh cilantro, cheese, &amp; sour cream delicious! I also made some cheese quesadillas to make this more a meal yum!"
 - "Other toppings suggestions: avocado, jalapenos, green onions, or black olives."
 categories:
 - Recipe
@@ -58,7 +58,7 @@ recipecategory: Lunch
 
 Hey everyone, it's Jim, welcome to my recipe page. Today, we're going to prepare a distinctive dish, black bean and chicken fiesta soup. It is one of my favorites food recipes. For mine, I am going to make it a little bit tasty. This will be really delicious.
 
-View top rated Chicken fiesta soup black beans recipes with ratings and reviews. Prep time does not include soaking and cooking the beans, but does Today, we're going to prepare a distinctive dish, black bean and chicken fiesta soup. It is one of my favorites food recipes. For mine, I will make it a.
+View top rated Chicken fiesta soup black beans recipes with ratings and reviews. Prep time does not include soaking and cooking the beans, but does Today, we&#39;re going to prepare a distinctive dish, black bean and chicken fiesta soup. It is one of my favorites food recipes. For mine, I will make it a.
 
 Black bean and chicken fiesta soup is one of the most well liked of recent trending foods on earth. It's appreciated by millions every day. It's simple, it's fast, it tastes yummy. Black bean and chicken fiesta soup is something that I've loved my whole life. They're fine and they look fantastic.
 
@@ -97,10 +97,10 @@ I make a very similar soup. Shredded chicken, black beans, corn, cheese, and chi
 1. In a stock pot add 2 tbsp oil and chopped onion cook until tender
 1. Open all cans add to stock pot. Add taco seasoning packs and stir simmer on low to medium heat.
 1. Cube your chicken breast add to stock pot. Be careful you may need to let chicken cool first.
-1. Pour broth from chicken into stock pot stir add more spices if needed. Add second can of broth and bouillon cubes if needed. Taste your soup to see what's missing.
+1. Pour broth from chicken into stock pot stir add more spices if needed. Add second can of broth and bouillon cubes if needed. Taste your soup to see what&#39;s missing.
 1. Simmer on low for 1 hour stirring frequently.
 1. Serve hot and enjoy! Great in the winter months.
-1. I topped my soup with fresh cilantro, cheese, & sour cream delicious! I also made some cheese quesadillas to make this more a meal yum!
+1. I topped my soup with fresh cilantro, cheese, &amp; sour cream delicious! I also made some cheese quesadillas to make this more a meal yum!
 1. Other toppings suggestions: avocado, jalapenos, green onions, or black olives.
 
 

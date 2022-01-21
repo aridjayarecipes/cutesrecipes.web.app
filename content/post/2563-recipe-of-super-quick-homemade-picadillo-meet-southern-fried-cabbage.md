@@ -24,7 +24,7 @@ recipeingredient:
 - "1/4 cup capers"
 - "1/4 cup vegetable oil"
 recipeinstructions:
-- "Wash and dice the potatoes, don't peel. Heat the oil and add the potatoes and ground beef."
+- "Wash and dice the potatoes, don&#39;t peel. Heat the oil and add the potatoes and ground beef."
 - "Chop the cabbage. Add the cabbage, salt, garlic, and dehydrated onions, to the potatoes and beef."
 - "Mince the olive, crush the capers, and add the raisins."
 - "Stir well. Cover and let simmer 15 minutes."
@@ -84,7 +84,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 
 ##### Instructions to make Picadillo meet Southern Fried Cabbage:
 
-1. Wash and dice the potatoes, don't peel. Heat the oil and add the potatoes and ground beef.
+1. Wash and dice the potatoes, don&#39;t peel. Heat the oil and add the potatoes and ground beef.
 1. Chop the cabbage. Add the cabbage, salt, garlic, and dehydrated onions, to the potatoes and beef.
 1. Mince the olive, crush the capers, and add the raisins.
 1. Stir well. Cover and let simmer 15 minutes.

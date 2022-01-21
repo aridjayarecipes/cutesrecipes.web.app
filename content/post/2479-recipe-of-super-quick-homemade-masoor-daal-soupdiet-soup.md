@@ -73,7 +73,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Prepare 2 knorr cubes
 
 
-If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Mong and masoor daal (soup). daal mong•daal masoor•garlic cloves• Red chilli powder•turmeric•Salt to taste•Cilantro leaves•Green Chillies for garnish. Masoor Daal Soup, packed with protein & nutrients is a wholesome comforting soup and is simple to prepare. (Be careful, don't do blending in very hot mixture). Strain the soup into another pan, Check seasoning & add salt, spices & butter. 
+If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Mong and masoor daal (soup). daal mong•daal masoor•garlic cloves• Red chilli powder•turmeric•Salt to taste•Cilantro leaves•Green Chillies for garnish. Masoor Daal Soup, packed with protein &amp; nutrients is a wholesome comforting soup and is simple to prepare. (Be careful, don&#39;t do blending in very hot mixture). Strain the soup into another pan, Check seasoning &amp; add salt, spices &amp; butter. 
 
 <!--inarticleads2-->
 
@@ -88,6 +88,6 @@ If you are following a medically restrictive diet, please consult your doctor or
 1. Cook again for 5 min and done
 
 
-Masoor Daal Soup, packed with protein & nutrients is a wholesome comforting soup and is simple to prepare. (Be careful, don't do blending in very hot mixture). Strain the soup into another pan, Check seasoning & add salt, spices & butter. Masoor Dal is a thick soup of lentils and vegetables delicately spiced with herbs. A dish well loved by vegetarians all over the world, Dal is rich in nutrients and contains nothing artificial. Our recipe will take you to India, where you can find this dish in any local home. 
+Masoor Daal Soup, packed with protein &amp; nutrients is a wholesome comforting soup and is simple to prepare. (Be careful, don&#39;t do blending in very hot mixture). Strain the soup into another pan, Check seasoning &amp; add salt, spices &amp; butter. Masoor Dal is a thick soup of lentils and vegetables delicately spiced with herbs. A dish well loved by vegetarians all over the world, Dal is rich in nutrients and contains nothing artificial. Our recipe will take you to India, where you can find this dish in any local home. 
 
 So that is going to wrap this up for this special food masoor daal soup(diet soup) recipe. Thanks so much for your time. I am confident that you can make this at home. There's gonna be interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

@@ -27,7 +27,7 @@ recipeinstructions:
 - "Add a little flour mixture and fold it in."
 - "Then add a little milk and fold again. Keep on adding flour mixture alternating with the milk."
 - "Add the dried blueberries and gently fold it in. But do not overmix."
-- "Pour the batter into the lined muffin tin and bake for about 30 minutes until it's lightly golden. Using a toothpick pierce the centre of the muffins and if it comes out clean then it's done."
+- "Pour the batter into the lined muffin tin and bake for about 30 minutes until it&#39;s lightly golden. Using a toothpick pierce the centre of the muffins and if it comes out clean then it&#39;s done."
 - "Take it out of the oven and keep it on a wire rack to cool down."
 - "Sprinkle powdered sugar on top of the blueberry muffins."
 categories:
@@ -86,7 +86,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Add a little flour mixture and fold it in.
 1. Then add a little milk and fold again. Keep on adding flour mixture alternating with the milk.
 1. Add the dried blueberries and gently fold it in. But do not overmix.
-1. Pour the batter into the lined muffin tin and bake for about 30 minutes until it's lightly golden. Using a toothpick pierce the centre of the muffins and if it comes out clean then it's done.
+1. Pour the batter into the lined muffin tin and bake for about 30 minutes until it&#39;s lightly golden. Using a toothpick pierce the centre of the muffins and if it comes out clean then it&#39;s done.
 1. Take it out of the oven and keep it on a wire rack to cool down.
 1. Sprinkle powdered sugar on top of the blueberry muffins.
 

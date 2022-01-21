@@ -53,7 +53,7 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Prepare 1 potato
 1. Make ready 1 tin tuna in tomato sauce
 1. Get 1 egg
-1. Take  Salt & Pepper
+1. Take  Salt &amp; Pepper
 
 
 

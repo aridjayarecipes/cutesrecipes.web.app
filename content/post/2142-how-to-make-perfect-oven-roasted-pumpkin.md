@@ -41,7 +41,7 @@ recipecategory: Dessert
 
 Hey everyone, it's Drew, welcome to our recipe page. Today, we're going to make a distinctive dish, oven roasted pumpkin. One of my favorites food recipes. For mine, I am going to make it a bit unique. This is gonna smell and look delicious.
 
-This Roasted Pumpkin recipe, serves up perfectly oven roasted pumpkin. It's an easy and versatile recipe, have them as pumpkin wedges with a dip or as a delicious. Learn how to oven roast pumpkin seeds from your Halloween pumpkin in this free cooking video. Oven Roasted Pumpkin How to Roast Pumpkin.
+This Roasted Pumpkin recipe, serves up perfectly oven roasted pumpkin. It&#39;s an easy and versatile recipe, have them as pumpkin wedges with a dip or as a delicious. Learn how to oven roast pumpkin seeds from your Halloween pumpkin in this free cooking video. Oven Roasted Pumpkin How to Roast Pumpkin.
 
 Oven Roasted Pumpkin is one of the most popular of recent trending foods in the world. It's easy, it's fast, it tastes delicious. It is appreciated by millions daily. They are nice and they look wonderful. Oven Roasted Pumpkin is something which I have loved my entire life.
 

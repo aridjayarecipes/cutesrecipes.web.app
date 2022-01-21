@@ -22,7 +22,7 @@ recipeingredient:
 recipeinstructions:
 - "Firstly heat oil in a pan and add fenugreek seed,sauff,kalonji after that add pieces of pumpkin,raw mango,grern chilli in it and fry on high flame for 5 minutes."
 - "After that now add salt,red chilli powder,haldi powder in it and let it cook for 10 minutes."
-- "Now add sugar in it and cooked it until it's nt ready to eat."
+- "Now add sugar in it and cooked it until it&#39;s nt ready to eat."
 categories:
 - Recipe
 tags:
@@ -67,7 +67,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Prepare  sugar
 
 
-Tasty & Tangy Pumpkin with Raw Mango. Please Subscribe to Bongkani Here is a yet another Kerala recipe on Toast! Manga Kootan is a recipe made with raw mango, white Kaddu ki sabzi, kaddu ki sabji, shaadi vala kaddu ki sabzi, kaddu ki sabzi recipe, khatti mithi kaddu ki. For sourness add chopped raw mangoes, if raw mangos are not available then add mango powder or Now add chopped pumpkin, ginger, chopped raw mango and all the spices EXCEPT sugar. 
+Tasty &amp; Tangy Pumpkin with Raw Mango. Please Subscribe to Bongkani Here is a yet another Kerala recipe on Toast! Manga Kootan is a recipe made with raw mango, white Kaddu ki sabzi, kaddu ki sabji, shaadi vala kaddu ki sabzi, kaddu ki sabzi recipe, khatti mithi kaddu ki. For sourness add chopped raw mangoes, if raw mangos are not available then add mango powder or Now add chopped pumpkin, ginger, chopped raw mango and all the spices EXCEPT sugar. 
 
 <!--inarticleads2-->
 
@@ -75,7 +75,7 @@ Tasty & Tangy Pumpkin with Raw Mango. Please Subscribe to Bongkani Here is a yet
 
 1. Firstly heat oil in a pan and add fenugreek seed,sauff,kalonji after that add pieces of pumpkin,raw mango,grern chilli in it and fry on high flame for 5 minutes.
 1. After that now add salt,red chilli powder,haldi powder in it and let it cook for 10 minutes.
-1. Now add sugar in it and cooked it until it's nt ready to eat.
+1. Now add sugar in it and cooked it until it&#39;s nt ready to eat.
 
 
 Manga Kootan is a recipe made with raw mango, white Kaddu ki sabzi, kaddu ki sabji, shaadi vala kaddu ki sabzi, kaddu ki sabzi recipe, khatti mithi kaddu ki. For sourness add chopped raw mangoes, if raw mangos are not available then add mango powder or Now add chopped pumpkin, ginger, chopped raw mango and all the spices EXCEPT sugar. Pumpkin Raita Recipe, How To Make. How to make Parangikai and Mango Sabji at home. Raw Mango Sabji is a simple formula, extraordinary for lunch or supper, which is sweet, acrid and hot. 

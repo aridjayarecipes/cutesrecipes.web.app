@@ -18,7 +18,7 @@ recipeingredient:
 - "Pinch dried dill"
 recipeinstructions:
 - "I sheredded the raw carrot. I cooked the soaked lentils in slightly salted water until tender. I arranged them on the plate, put the tuna on top, then the salad dressing and i added some dried dill on top."
-- "This is my fave salad dressing, it's not really a mayo, it has a sweet taste plus mustard taste"
+- "This is my fave salad dressing, it&#39;s not really a mayo, it has a sweet taste plus mustard taste"
 categories:
 - Recipe
 tags:
@@ -67,7 +67,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 ##### Steps to make Tasty Lentil-Carrot-Tuna salad:
 
 1. I sheredded the raw carrot. I cooked the soaked lentils in slightly salted water until tender. I arranged them on the plate, put the tuna on top, then the salad dressing and i added some dried dill on top.
-1. This is my fave salad dressing, it's not really a mayo, it has a sweet taste plus mustard taste
+1. This is my fave salad dressing, it&#39;s not really a mayo, it has a sweet taste plus mustard taste
 
 
 

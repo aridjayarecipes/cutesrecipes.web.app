@@ -87,6 +87,6 @@ This is an easy banana bread recipe that gives perfect results every time. Be su
 1. Grease the pan and pour in the batter. Top with walnuts and baked for 35-45 minutes until top is golden brown.
 
 
-Chef Anna Olson has a classic banana bread recipe that will make you say Oh Yum, and she wants to share it with you! Follow along as Anna Olson teaches you. The best vegan banana bread you'll ever eat is moist, flavorful and tastes like the nostalgic, traditional banana bread you know and love. This easy vegan banana bread recipe uses simple ingredients. Use overripe bananas to bake a classic banana bread with this easy recipe from Food Network. 
+Chef Anna Olson has a classic banana bread recipe that will make you say Oh Yum, and she wants to share it with you! Follow along as Anna Olson teaches you. The best vegan banana bread you&#39;ll ever eat is moist, flavorful and tastes like the nostalgic, traditional banana bread you know and love. This easy vegan banana bread recipe uses simple ingredients. Use overripe bananas to bake a classic banana bread with this easy recipe from Food Network. 
 
 So that is going to wrap this up for this exceptional food banana bread recipe. Thanks so much for your time. I'm confident that you can make this at home. There is gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

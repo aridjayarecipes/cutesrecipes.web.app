@@ -25,9 +25,9 @@ recipeingredient:
 recipeinstructions:
 - "In cooking pan put all ingredients and cook for 15 minutes in low heat"
 - "Lastly add lemon juice and black pepper"
-- "Don't over cook"
+- "Don&#39;t over cook"
 - "Decorate with green olives"
-- "Don't forget to subscribe my channel Https://www.youtube.com/channel/UC9CY2wU1qjkzfajJyNf0d9w"
+- "Don&#39;t forget to subscribe my channel Https://www.youtube.com/channel/UC9CY2wU1qjkzfajJyNf0d9w"
 categories:
 - Recipe
 tags:
@@ -74,7 +74,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Get 1 teaspoon ginger paste
 
 
-Recipes here include healthy beef stews, a restaurant copycat healthy turkey chili, and healthy butternut squash soup, but there's much more. Pick your favorite for dinner tonight. Can someone give me some more recipes for different types of soups? I've tried looking online but I can't seem to find the right one. 
+Recipes here include healthy beef stews, a restaurant copycat healthy turkey chili, and healthy butternut squash soup, but there&#39;s much more. Pick your favorite for dinner tonight. Can someone give me some more recipes for different types of soups? I&#39;ve tried looking online but I can&#39;t seem to find the right one. 
 
 <!--inarticleads2-->
 
@@ -82,11 +82,11 @@ Recipes here include healthy beef stews, a restaurant copycat healthy turkey chi
 
 1. In cooking pan put all ingredients and cook for 15 minutes in low heat
 1. Lastly add lemon juice and black pepper
-1. Don't over cook
+1. Don&#39;t over cook
 1. Decorate with green olives
-1. Don't forget to subscribe my channel Https://www.youtube.com/channel/UC9CY2wU1qjkzfajJyNf0d9w
+1. Don&#39;t forget to subscribe my channel Https://www.youtube.com/channel/UC9CY2wU1qjkzfajJyNf0d9w
 
 
-Can someone give me some more recipes for different types of soups? I've tried looking online but I can't seem to find the right one. It's a great soup that is cheap, healthy, and adaptable. Nutritious, soothing, flavourful soup recipes to suit everyone - from hearty meat-based soups to tasty broths and creamy vegetable soups Healthy Food Guide has it all. See more ideas about healthy recipes, recipes, healthy. 
+Can someone give me some more recipes for different types of soups? I&#39;ve tried looking online but I can&#39;t seem to find the right one. It&#39;s a great soup that is cheap, healthy, and adaptable. Nutritious, soothing, flavourful soup recipes to suit everyone - from hearty meat-based soups to tasty broths and creamy vegetable soups Healthy Food Guide has it all. See more ideas about healthy recipes, recipes, healthy. 
 
 So that is going to wrap it up for this exceptional food healthy soup recipe. Thank you very much for your time. I'm sure you can make this at home. There's gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

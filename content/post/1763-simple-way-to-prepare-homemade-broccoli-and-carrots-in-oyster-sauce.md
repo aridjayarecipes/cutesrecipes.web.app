@@ -48,7 +48,7 @@ Hello everybody, hope you're having an incredible day today. Today, I will show 
 
 Broccoli and carrots in oyster sauce is one of the most popular of recent trending foods on earth. It's easy, it is quick, it tastes yummy. It's appreciated by millions daily. Broccoli and carrots in oyster sauce is something that I have loved my entire life. They're nice and they look wonderful.
 
-Real "restaurant style" Chinese Broccoli with Oyster Sauce is NOT just oyster sauce (despite what you will read in many recipes claiming it is that A sauce made with just oyster sauce will just taste of that - plain oyster sauce dolloped on greens. Saute garlic and onions in canola oil until, add fish sauce and pork, wait until pork turns golden brown. Stir well, add salt to season. Yung broccoli nga muntik ko nang maubos bago pa nahalo sa chicken.hehehehe.
+Real &#34;restaurant style&#34; Chinese Broccoli with Oyster Sauce is NOT just oyster sauce (despite what you will read in many recipes claiming it is that A sauce made with just oyster sauce will just taste of that - plain oyster sauce dolloped on greens. Saute garlic and onions in canola oil until, add fish sauce and pork, wait until pork turns golden brown. Stir well, add salt to season. Yung broccoli nga muntik ko nang maubos bago pa nahalo sa chicken.hehehehe.
 
 
 To get started with this particular recipe, we have to first prepare a few ingredients. You can have broccoli and carrots in oyster sauce using 9 ingredients and 4 steps. Here is how you can achieve it.

@@ -16,7 +16,7 @@ recipeinstructions:
 - "If you rinse plum, remove any water."
 - "Remove stem end. (Use toothpicks.)"
 - "Add plums and sugar alternately in a sanitized jar."
-- "Store the jar in a cool & dark place for 1 month. Shake the jar occasionally. (Don’t open the lid!)"
+- "Store the jar in a cool &amp; dark place for 1 month. Shake the jar occasionally. (Don’t open the lid!)"
 - "After a month, it’s time to open the lid. Take plums out. Heat syrup in a pan and bring to boiling."
 - "Once boiled, add the syrup into a sanitized jar and store in fridge. (Nice golden color!)"
 - "Enjoy with cold water or sparkling water (syrup : water = 1 : 5). Over shaved ice is also a good idea. (You don’t have to dilute!)"
@@ -66,7 +66,7 @@ They are nice and they look wonderful. I recently came across a product that is 
 1. If you rinse plum, remove any water.
 1. Remove stem end. (Use toothpicks.)
 1. Add plums and sugar alternately in a sanitized jar.
-1. Store the jar in a cool & dark place for 1 month. Shake the jar occasionally. (Don’t open the lid!)
+1. Store the jar in a cool &amp; dark place for 1 month. Shake the jar occasionally. (Don’t open the lid!)
 1. After a month, it’s time to open the lid. Take plums out. Heat syrup in a pan and bring to boiling.
 1. Once boiled, add the syrup into a sanitized jar and store in fridge. (Nice golden color!)
 1. Enjoy with cold water or sparkling water (syrup : water = 1 : 5). Over shaved ice is also a good idea. (You don’t have to dilute!)

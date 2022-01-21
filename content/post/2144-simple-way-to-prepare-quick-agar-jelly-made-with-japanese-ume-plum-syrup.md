@@ -57,7 +57,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 1. Prepare 200 cc water
 
 
-How to Make Ume Plum Syrup. It's really easy and simple, but I have Baked Goods. You can use it just like what you would with lemon simple syrup. Fruity, tart, sweet, and aromatic, this Ume Plum Syrup made from unripe green plums and rock sugar. 
+How to Make Ume Plum Syrup. It&#39;s really easy and simple, but I have Baked Goods. You can use it just like what you would with lemon simple syrup. Fruity, tart, sweet, and aromatic, this Ume Plum Syrup made from unripe green plums and rock sugar. 
 
 <!--inarticleads2-->
 

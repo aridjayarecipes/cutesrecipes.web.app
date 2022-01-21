@@ -52,7 +52,7 @@ recipecategory: Lunch
 
 Hey everyone, it is Drew, welcome to our recipe page. Today, I'm gonna show you how to prepare a distinctive dish, super healthy bean and veggie soup. It is one of my favorites. For mine, I'm gonna make it a bit unique. This will be really delicious.
 
-Vegetable Soup Recipe - This healthy all-veggie soup is the perfect practical food for personal & spiritual development work. If you're looking for a low-fat Use canned black beans and salsa to get this super easy black bean soup onto the table in just a Butter Bean Soup with Tomatoes and. Super healthy bean and veggie soup. vegetable stock•celery stalks chopped•carrot chopped•chickpeas•red kidney beans (or other bean)•pasta (small shapes)•onion chopped•garlic minced. super easy, vegetarian soup for a healthy diet.
+Vegetable Soup Recipe - This healthy all-veggie soup is the perfect practical food for personal &amp; spiritual development work. If you&#39;re looking for a low-fat Use canned black beans and salsa to get this super easy black bean soup onto the table in just a Butter Bean Soup with Tomatoes and. Super healthy bean and veggie soup. vegetable stock•celery stalks chopped•carrot chopped•chickpeas•red kidney beans (or other bean)•pasta (small shapes)•onion chopped•garlic minced. super easy, vegetarian soup for a healthy diet.
 
 Super healthy bean and veggie soup is one of the most popular of current trending meals on earth. It's appreciated by millions every day. It's easy, it is fast, it tastes delicious. Super healthy bean and veggie soup is something that I've loved my whole life. They're nice and they look fantastic.
 

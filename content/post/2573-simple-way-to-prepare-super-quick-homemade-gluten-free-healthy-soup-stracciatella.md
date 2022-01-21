@@ -25,7 +25,7 @@ recipeinstructions:
 - "Peel two cloves of garlic."
 - "Fry garlic whole in coconut oil until brown then remove garlic and add the greens. Cook for 2 minutes."
 - "Add the greens to the stock and cook for a further 3 minutes."
-- "Beat the eggs and add the cheese. Temper the eggs by adding hot stock to the bowl. Then stir the stock rapidly while pouring in the eggs to create 'rags'."
+- "Beat the eggs and add the cheese. Temper the eggs by adding hot stock to the bowl. Then stir the stock rapidly while pouring in the eggs to create &#39;rags&#39;."
 - "Add the beans and salt and pepper to taste."
 categories:
 - Recipe
@@ -82,7 +82,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Peel two cloves of garlic.
 1. Fry garlic whole in coconut oil until brown then remove garlic and add the greens. Cook for 2 minutes.
 1. Add the greens to the stock and cook for a further 3 minutes.
-1. Beat the eggs and add the cheese. Temper the eggs by adding hot stock to the bowl. Then stir the stock rapidly while pouring in the eggs to create 'rags'.
+1. Beat the eggs and add the cheese. Temper the eggs by adding hot stock to the bowl. Then stir the stock rapidly while pouring in the eggs to create &#39;rags&#39;.
 1. Add the beans and salt and pepper to taste.
 
 

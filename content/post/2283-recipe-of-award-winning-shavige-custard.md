@@ -54,7 +54,7 @@ Hey everyone, hope you are having an incredible day today. Today, I will show yo
 
 Shavige custard is one of the most popular of recent trending foods in the world. It is appreciated by millions daily. It is easy, it's fast, it tastes yummy. They're nice and they look wonderful. Shavige custard is something which I've loved my whole life.
 
-Now in a glass take basil seeds(soaked in water)+refrigerated custard. Add dry fruits and fruits on top of it. #vermicelli #sweet #eidspecial #Tasty #custardnylonsagovermicelli #shirkhurma.. today's video is muslim eid special recipe try it once and subscribe to my. See recipes for Shavige custard, Shavige upma (vermicelli upma) too. uppittu or shavige bath made with thin rice vermicelli noodles. furthermore, i would like to add some tips, suggestions and variations. Shavige payasa is a simple Indian Dessert made by roasting vermicelli with ghee and adding it to There is a small change in the regular recipe of Shavige payasa, Here I added the vanilla custard.
+Now in a glass take basil seeds(soaked in water)+refrigerated custard. Add dry fruits and fruits on top of it. #vermicelli #sweet #eidspecial #Tasty #custardnylonsagovermicelli #shirkhurma.. today&#39;s video is muslim eid special recipe try it once and subscribe to my. See recipes for Shavige custard, Shavige upma (vermicelli upma) too. uppittu or shavige bath made with thin rice vermicelli noodles. furthermore, i would like to add some tips, suggestions and variations. Shavige payasa is a simple Indian Dessert made by roasting vermicelli with ghee and adding it to There is a small change in the regular recipe of Shavige payasa, Here I added the vanilla custard.
 
 
 To get started with this recipe, we must first prepare a few components. You can have shavige custard using 13 ingredients and 7 steps. Here is how you cook it.
@@ -78,7 +78,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Get  Cardamom powder crushed
 
 
-Ottu Shavige or Akki Shavige is a specialty of Karnataka and is also widely prepared in our family. Coffee Caramel Custard - Nobake. shavige uppittu recipe, shavige bath recipe, shavige upma recipe with step by step photo/video. karnataka style breakfast with rice vermicelli & spices. Music : Royalty Free Music from Bensound. Видео Vermicelli Kheer Recipe Shavige Kheer by के साथ बनाए नवाबी सेवइया Eid Special Custard இட்லி தோசை இடியாப்பம் பொங்கல் உப்புமா ஆப்பம். 
+Ottu Shavige or Akki Shavige is a specialty of Karnataka and is also widely prepared in our family. Coffee Caramel Custard - Nobake. shavige uppittu recipe, shavige bath recipe, shavige upma recipe with step by step photo/video. karnataka style breakfast with rice vermicelli &amp; spices. Music : Royalty Free Music from Bensound. Видео Vermicelli Kheer Recipe Shavige Kheer by के साथ बनाए नवाबी सेवइया Eid Special Custard இட்லி தோசை இடியாப்பம் பொங்கல் உப்புமா ஆப்பம். 
 
 <!--inarticleads2-->
 
@@ -93,6 +93,6 @@ Ottu Shavige or Akki Shavige is a specialty of Karnataka and is also widely prep
 1. 
 
 
-Music : Royalty Free Music from Bensound. Видео Vermicelli Kheer Recipe Shavige Kheer by के साथ बनाए नवाबी सेवइया Eid Special Custard இட்லி தோசை இடியாப்பம் பொங்கல் உப்புமா ஆப்பம். Fruit custard recipe with video & step by step photos. Similar to popular Indian desserts gulab jamun and carrot halwa, a chilled fruit custard makes its presence in most special meals & parties. full recipe: hebbarskitchen.com/shavige-uppittu-recipe-shavige-bath/ Music Semiya payasa or shavige payasa is a common and famous kheer recipe. It is very simple to prepare and popular all. 
+Music : Royalty Free Music from Bensound. Видео Vermicelli Kheer Recipe Shavige Kheer by के साथ बनाए नवाबी सेवइया Eid Special Custard இட்லி தோசை இடியாப்பம் பொங்கல் உப்புமா ஆப்பம். Fruit custard recipe with video &amp; step by step photos. Similar to popular Indian desserts gulab jamun and carrot halwa, a chilled fruit custard makes its presence in most special meals &amp; parties. full recipe: hebbarskitchen.com/shavige-uppittu-recipe-shavige-bath/ Music Semiya payasa or shavige payasa is a common and famous kheer recipe. It is very simple to prepare and popular all. 
 
 So that is going to wrap it up for this exceptional food shavige custard recipe. Thank you very much for reading. I'm confident you can make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

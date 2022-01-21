@@ -23,7 +23,7 @@ recipeingredient:
 recipeinstructions:
 - "1. Place a 2 qt. sauce pan on the stove with 1 1/2 quarts of water and 1 teaspoon of salt, bring to a boil"
 - "2. Peel and cut carrots into 1/4 inch half-moon cuts."
-- "3. Slightly trim the core and cut an 'X' in the core of each brussels sprout. Set sprouts aside."
+- "3. Slightly trim the core and cut an &#39;X&#39; in the core of each brussels sprout. Set sprouts aside."
 - "4. Place the carrots in boiling water for 4 minutes. Take out with slotted spoon and rinse with cold water to stop the cooking. Set aside."
 - "5. Place the Brussels sprouts in boiling water for 5 minutes. Take out with slotted spoon and rinse with cold water to stop the cooking. Set aside."
 - "6. Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 8 to 10 minutes; drain and cool on paper towels. Crumble."
@@ -83,7 +83,7 @@ To begin with this recipe, we must first prepare a few components. You can have 
 
 1. 1. Place a 2 qt. sauce pan on the stove with 1 1/2 quarts of water and 1 teaspoon of salt, bring to a boil
 1. 2. Peel and cut carrots into 1/4 inch half-moon cuts.
-1. 3. Slightly trim the core and cut an 'X' in the core of each brussels sprout. Set sprouts aside.
+1. 3. Slightly trim the core and cut an &#39;X&#39; in the core of each brussels sprout. Set sprouts aside.
 1. 4. Place the carrots in boiling water for 4 minutes. Take out with slotted spoon and rinse with cold water to stop the cooking. Set aside.
 1. 5. Place the Brussels sprouts in boiling water for 5 minutes. Take out with slotted spoon and rinse with cold water to stop the cooking. Set aside.
 1. 6. Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 8 to 10 minutes; drain and cool on paper towels. Crumble.

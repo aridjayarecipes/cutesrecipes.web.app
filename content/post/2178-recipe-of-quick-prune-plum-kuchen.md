@@ -60,7 +60,7 @@ Hello everybody, it's Brad, welcome to my recipe page. Today, I'm gonna show you
 
 Prune (plum) Kuchen is one of the most favored of current trending foods in the world. It is enjoyed by millions daily. It is easy, it is fast, it tastes delicious. They are nice and they look fantastic. Prune (plum) Kuchen is something which I've loved my entire life.
 
-My Grandma Pep's recipe for prune kuchen. Can also use peaches, apples or pears. The prune plum (Prunus domestica subsp. domestica) is a fruit-bearing tree, or its fruit. It is a subspecies of the plum Prunus domestica.
+My Grandma Pep&#39;s recipe for prune kuchen. Can also use peaches, apples or pears. The prune plum (Prunus domestica subsp. domestica) is a fruit-bearing tree, or its fruit. It is a subspecies of the plum Prunus domestica.
 
 
 To begin with this particular recipe, we have to first prepare a few ingredients. You can have prune (plum) kuchen using 20 ingredients and 5 steps. Here is how you can achieve it.
@@ -91,7 +91,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Take  generous amount of cinnamon sugar for topping
 
 
-Directions: Have all the ingredients ready on the counter (it's called. A video on pruning plum trees - Dan Neuteboom shows us two mature plum trees, one of which has been pruned badly, while the other has been pruned well. A means of preserving the excessive harvest of a variety of crops, drying is a technique that has been used from time immemorial to prevent the wastage of food. Plum Kuchen Adapted, barely, from Gourmet. 
+Directions: Have all the ingredients ready on the counter (it&#39;s called. A video on pruning plum trees - Dan Neuteboom shows us two mature plum trees, one of which has been pruned badly, while the other has been pruned well. A means of preserving the excessive harvest of a variety of crops, drying is a technique that has been used from time immemorial to prevent the wastage of food. Plum Kuchen Adapted, barely, from Gourmet. 
 
 <!--inarticleads2-->
 
@@ -104,6 +104,6 @@ Directions: Have all the ingredients ready on the counter (it's called. A video 
 1. Roll or pat down on a floured board until correct size. Transfer to pie plates and press in fruit
 
 
-A means of preserving the excessive harvest of a variety of crops, drying is a technique that has been used from time immemorial to prevent the wastage of food. Plum Kuchen Adapted, barely, from Gourmet. My grandma always made this for us during the summer with Italian prune plums. Italian prunes (fresh prune plums) and cinnamon sugar baked atop a cake-like pastry. You'll feel as though you were transported to a European café. 
+A means of preserving the excessive harvest of a variety of crops, drying is a technique that has been used from time immemorial to prevent the wastage of food. Plum Kuchen Adapted, barely, from Gourmet. My grandma always made this for us during the summer with Italian prune plums. Italian prunes (fresh prune plums) and cinnamon sugar baked atop a cake-like pastry. You&#39;ll feel as though you were transported to a European café. 
 
 So that is going to wrap it up with this special food prune (plum) kuchen recipe. Thank you very much for your time. I am sure that you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

@@ -23,14 +23,14 @@ recipeingredient:
 recipeinstructions:
 - "If using sweetened cocoa reduce the sugar to 110g"
 - "Preheat the oven to gas 4 / 180C / 350°F and lightly spray a 12 hole cupcake tin with oil"
-- "In a large bowl, pulse together the flax and water with a handheld blender and let sit a few minutes to become gelatinous. You could use a tabletop blender but ultimately it's easier to get the mixture scraped out of a bowl...."
+- "In a large bowl, pulse together the flax and water with a handheld blender and let sit a few minutes to become gelatinous. You could use a tabletop blender but ultimately it&#39;s easier to get the mixture scraped out of a bowl...."
 - "Add the rest of the ingredients (not the toppings) to the bowl and puree the whole lot together"
 - "Taste the batter, add more sugar if you want it"
-- "The mixture should be slightly thicker than buttercream frosting and definitely not loose but if it's too thick add a tsp of water"
-- "Spoon a heaped tablespoon into each tin hole and add your toppings if you're using them"
+- "The mixture should be slightly thicker than buttercream frosting and definitely not loose but if it&#39;s too thick add a tsp of water"
+- "Spoon a heaped tablespoon into each tin hole and add your toppings if you&#39;re using them"
 - "Bake for 24 - 26 minutes until the tops are dry and the brownies have pulled away from the sides of the tin"
-- "Let them cool in the tin for half an hour before gently prising them out with a spoon. They'll be super fudgy inside so be careful not to break them"
-- "They'll keep well in a lidded container, up to 5 days and even longer in the fridge"
+- "Let them cool in the tin for half an hour before gently prising them out with a spoon. They&#39;ll be super fudgy inside so be careful not to break them"
+- "They&#39;ll keep well in a lidded container, up to 5 days and even longer in the fridge"
 categories:
 - Recipe
 tags:
@@ -84,14 +84,14 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 1. If using sweetened cocoa reduce the sugar to 110g
 1. Preheat the oven to gas 4 / 180C / 350°F and lightly spray a 12 hole cupcake tin with oil
-1. In a large bowl, pulse together the flax and water with a handheld blender and let sit a few minutes to become gelatinous. You could use a tabletop blender but ultimately it's easier to get the mixture scraped out of a bowl....
+1. In a large bowl, pulse together the flax and water with a handheld blender and let sit a few minutes to become gelatinous. You could use a tabletop blender but ultimately it&#39;s easier to get the mixture scraped out of a bowl....
 1. Add the rest of the ingredients (not the toppings) to the bowl and puree the whole lot together
 1. Taste the batter, add more sugar if you want it
-1. The mixture should be slightly thicker than buttercream frosting and definitely not loose but if it's too thick add a tsp of water
-1. Spoon a heaped tablespoon into each tin hole and add your toppings if you're using them
+1. The mixture should be slightly thicker than buttercream frosting and definitely not loose but if it&#39;s too thick add a tsp of water
+1. Spoon a heaped tablespoon into each tin hole and add your toppings if you&#39;re using them
 1. Bake for 24 - 26 minutes until the tops are dry and the brownies have pulled away from the sides of the tin
-1. Let them cool in the tin for half an hour before gently prising them out with a spoon. They'll be super fudgy inside so be careful not to break them
-1. They'll keep well in a lidded container, up to 5 days and even longer in the fridge
+1. Let them cool in the tin for half an hour before gently prising them out with a spoon. They&#39;ll be super fudgy inside so be careful not to break them
+1. They&#39;ll keep well in a lidded container, up to 5 days and even longer in the fridge
 
 
 

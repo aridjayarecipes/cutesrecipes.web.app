@@ -20,7 +20,7 @@ recipeinstructions:
 - "Lots of moisture came out after resting for a few hours."
 - "Heat over medium heat. Scum (or bubbles) will keep coming out, so skim off the scum carefully."
 - "Simmer for about 10 minutes while squashing the prunes."
-- "Squeeze a lemon and add some juice after the syrup colour changes to ruby red and the prunes have softened. Stir and turn off the heat. Pour the jam in the jar while it's still hot."
+- "Squeeze a lemon and add some juice after the syrup colour changes to ruby red and the prunes have softened. Stir and turn off the heat. Pour the jam in the jar while it&#39;s still hot."
 - "Your ruby red prune jam is complete!"
 categories:
 - Recipe
@@ -72,7 +72,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Lots of moisture came out after resting for a few hours.
 1. Heat over medium heat. Scum (or bubbles) will keep coming out, so skim off the scum carefully.
 1. Simmer for about 10 minutes while squashing the prunes.
-1. Squeeze a lemon and add some juice after the syrup colour changes to ruby red and the prunes have softened. Stir and turn off the heat. Pour the jam in the jar while it's still hot.
+1. Squeeze a lemon and add some juice after the syrup colour changes to ruby red and the prunes have softened. Stir and turn off the heat. Pour the jam in the jar while it&#39;s still hot.
 1. Your ruby red prune jam is complete!
 
 

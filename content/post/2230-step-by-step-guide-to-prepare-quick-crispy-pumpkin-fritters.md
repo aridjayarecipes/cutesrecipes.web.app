@@ -71,7 +71,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Prepare  water approximately
 
 
-See more ideas about pumpkin fritters, fritters, food. Pumpkin recipe - Fritters, everyone's favorite! These cinnamon pumpkin frtters are outstanding and can be made with pumpkin or butternut. Crispy and caramelized on the outside and beautifully soft and creamy on the inside, this recipe is a sure. 
+See more ideas about pumpkin fritters, fritters, food. Pumpkin recipe - Fritters, everyone&#39;s favorite! These cinnamon pumpkin frtters are outstanding and can be made with pumpkin or butternut. Crispy and caramelized on the outside and beautifully soft and creamy on the inside, this recipe is a sure. 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ See more ideas about pumpkin fritters, fritters, food. Pumpkin recipe - Fritters
 1. Slice thin pieces of pumpkin.Smear little salt and set aside. Mix besan, cornflour and rice flour. Add baking soda,kalonji turmeric,chopped green chillies,1 tbsp warm oil. Sift all together.Add water to make a thick batter.Blend properly to get a smooth but thick consistency.Heat oil.Dip pumpkin pieces in batter and fry in low flame till well browned and crispy.
 
 
-These cinnamon pumpkin frtters are outstanding and can be made with pumpkin or butternut. Crispy and caramelized on the outside and beautifully soft and creamy on the inside, this recipe is a sure. Pears, bananas, corn, carrots, crab, cheese, apples, pumpkin, cauliflower — sweet or Don't be fooled by the adorable name, they're fritters. Pumpkin fritters - or Pampoen koekies in Afrikaans - are delicious for breakfast or dessert and it's so quick and easy to make! Crispy on the outside and tender on the inside, these veggie fritters are packed with protein and are Swap out the sweet potato. 
+These cinnamon pumpkin frtters are outstanding and can be made with pumpkin or butternut. Crispy and caramelized on the outside and beautifully soft and creamy on the inside, this recipe is a sure. Pears, bananas, corn, carrots, crab, cheese, apples, pumpkin, cauliflower — sweet or Don&#39;t be fooled by the adorable name, they&#39;re fritters. Pumpkin fritters - or Pampoen koekies in Afrikaans - are delicious for breakfast or dessert and it&#39;s so quick and easy to make! Crispy on the outside and tender on the inside, these veggie fritters are packed with protein and are Swap out the sweet potato. 
 
 So that's going to wrap it up with this special food crispy pumpkin fritters recipe. Thank you very much for your time. I'm sure that you will make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

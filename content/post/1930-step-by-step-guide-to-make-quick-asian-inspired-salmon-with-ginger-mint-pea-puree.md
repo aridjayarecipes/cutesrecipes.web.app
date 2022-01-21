@@ -65,7 +65,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 1. Make ready 1 1/2 cup frozen peas
 1. Get 2-3 tablespoons olive oil
 1. Make ready 2 1/2 teaspoons diced fresh mint
-1. Prepare 1 " knob (or about 1 1/2 teaspoons) minced ginger
+1. Prepare 1 &#34; knob (or about 1 1/2 teaspoons) minced ginger
 1. Take 1/2 teaspoon salt
 1. Get  Toasted sesame seeds to garnish
 

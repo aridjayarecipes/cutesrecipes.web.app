@@ -24,8 +24,8 @@ recipeingredient:
 - "1 tbsp cornflour cornstarch mixed with 1 tablespoon water"
 recipeinstructions:
 - "Put all of the ingredients apart from the cornstarch slurry into a large pan. Bring to the boil then turn down to a simmer for 30 minutes  https://cookpad.com/us/recipes/332952-vickys-soy-sauce-substitute https://cookpad.com/us/recipes/349993-vickys-baked-teriyaki-chicken-gf-df-ef-sf-nf"
-- "Meanwhile you'll need to sterilise some jars. To do so wash them in hot soapy water, rinse well then put them in the oven at gas 1 / 140C / 275°F until your sauce is done. This recipe makes enough to fill around 4 x 454g (1 pound) jars"
-- "Put the contents of the pan through a blender and puree smooth. Take out a spoonful and let cool a little then taste to see at this point if you need to adjust the flavour to taste. Don't be scared with the chilli flakes - the sauce will be a bit hot freshly made but will mellow as it sits"
+- "Meanwhile you&#39;ll need to sterilise some jars. To do so wash them in hot soapy water, rinse well then put them in the oven at gas 1 / 140C / 275°F until your sauce is done. This recipe makes enough to fill around 4 x 454g (1 pound) jars"
+- "Put the contents of the pan through a blender and puree smooth. Take out a spoonful and let cool a little then taste to see at this point if you need to adjust the flavour to taste. Don&#39;t be scared with the chilli flakes - the sauce will be a bit hot freshly made but will mellow as it sits"
 - "Return to the pan, mix in the cornstarch slurry and simmer for 3 minutes until thickened and the starch taste is cooked out"
 - "Pour into the hot, sterilised jars (fill just 5mm from the top) and seal. Put the jars on a wire rack to cool then store in a dark place"
 - "The colour of the finished sauce will depend on the variety of plums you use"
@@ -84,8 +84,8 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 ##### Instructions to make Vickys Asian-Style Plum Sauce, GF DF EF SF NF:
 
 1. Put all of the ingredients apart from the cornstarch slurry into a large pan. Bring to the boil then turn down to a simmer for 30 minutes -  - https://cookpad.com/us/recipes/332952-vickys-soy-sauce-substitute - https://cookpad.com/us/recipes/349993-vickys-baked-teriyaki-chicken-gf-df-ef-sf-nf
-1. Meanwhile you'll need to sterilise some jars. To do so wash them in hot soapy water, rinse well then put them in the oven at gas 1 / 140C / 275°F until your sauce is done. This recipe makes enough to fill around 4 x 454g (1 pound) jars
-1. Put the contents of the pan through a blender and puree smooth. Take out a spoonful and let cool a little then taste to see at this point if you need to adjust the flavour to taste. Don't be scared with the chilli flakes - the sauce will be a bit hot freshly made but will mellow as it sits
+1. Meanwhile you&#39;ll need to sterilise some jars. To do so wash them in hot soapy water, rinse well then put them in the oven at gas 1 / 140C / 275°F until your sauce is done. This recipe makes enough to fill around 4 x 454g (1 pound) jars
+1. Put the contents of the pan through a blender and puree smooth. Take out a spoonful and let cool a little then taste to see at this point if you need to adjust the flavour to taste. Don&#39;t be scared with the chilli flakes - the sauce will be a bit hot freshly made but will mellow as it sits
 1. Return to the pan, mix in the cornstarch slurry and simmer for 3 minutes until thickened and the starch taste is cooked out
 1. Pour into the hot, sterilised jars (fill just 5mm from the top) and seal. Put the jars on a wire rack to cool then store in a dark place
 1. The colour of the finished sauce will depend on the variety of plums you use

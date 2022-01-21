@@ -63,7 +63,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Prepare 1 quart beef broth
 
 
-This surprisingly yummy cabbage and meatballs recipe relies on common ingredients and can easily be changed to use what you have on Cabbage & Meatball Dinner. The Best Cabbage Meatballs Recipes on Yummly Divide the cabbage, meatballs and sauce among the bowls, garnish with the parsley leaves, if using, and serve. CORRECTION: A previous version of this recipe did not call for refrigerating the meatballs. 
+This surprisingly yummy cabbage and meatballs recipe relies on common ingredients and can easily be changed to use what you have on Cabbage &amp; Meatball Dinner. The Best Cabbage Meatballs Recipes on Yummly Divide the cabbage, meatballs and sauce among the bowls, garnish with the parsley leaves, if using, and serve. CORRECTION: A previous version of this recipe did not call for refrigerating the meatballs. 
 
 <!--inarticleads2-->
 
@@ -76,6 +76,6 @@ This surprisingly yummy cabbage and meatballs recipe relies on common ingredient
 1. You can add a splash of red wine vinegar or hot vinegar sauce per serving if you like.
 
 
-Divide the cabbage, meatballs and sauce among the bowls, garnish with the parsley leaves, if using, and serve. CORRECTION: A previous version of this recipe did not call for refrigerating the meatballs. Rachel Roddy's winter meatballs with cabbage: 'Meatballs are like thoughts - after a rest, they turn out better.' Photograph: Rachel Roddy/The Guardian. To color the meatballs' exteriors and make them more savory, cooks often brown the meatballs before slowly braising them in clean-tasting chicken broth on a bed. Plus, with the cabbage mixed in with the meatballs and the whole thing served over whole-grain rice noodles, it definitely qualifies as a one-dish meal. 
+Divide the cabbage, meatballs and sauce among the bowls, garnish with the parsley leaves, if using, and serve. CORRECTION: A previous version of this recipe did not call for refrigerating the meatballs. Rachel Roddy&#39;s winter meatballs with cabbage: &#39;Meatballs are like thoughts - after a rest, they turn out better.&#39; Photograph: Rachel Roddy/The Guardian. To color the meatballs&#39; exteriors and make them more savory, cooks often brown the meatballs before slowly braising them in clean-tasting chicken broth on a bed. Plus, with the cabbage mixed in with the meatballs and the whole thing served over whole-grain rice noodles, it definitely qualifies as a one-dish meal. 
 
 So that's going to wrap this up for this exceptional food cabbage and meatballs recipe. Thanks so much for your time. I'm sure that you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

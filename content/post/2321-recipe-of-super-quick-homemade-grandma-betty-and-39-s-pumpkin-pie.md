@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Super Quick Homemade Grandma Betty&#39;s Pumpkin Pie"
-title: "Recipe of Super Quick Homemade Grandma Betty&#39;s Pumpkin Pie"
+description: "Recipe of Super Quick Homemade Grandma Betty&amp;#39;s Pumpkin Pie"
+title: "Recipe of Super Quick Homemade Grandma Betty&amp;#39;s Pumpkin Pie"
 slug: 2321-recipe-of-super-quick-homemade-grandma-betty-and-39-s-pumpkin-pie
 date: 2021-10-14T20:41:41.718Z
 image: https://img-global.cpcdn.com/recipes/d22cac6aa2a07888/680x482cq70/grandma-bettys-pumpkin-pie-recipe-main-photo.jpg
@@ -31,7 +31,7 @@ recipeinstructions:
 - "Make a ball from the dough, and put it in the refrigerator to cool for at least 10 minutes. You want the dough to be cold when you roll it out into a crust."
 - "Now make the filling: Combine the eggs, pumpkin, sugar, salt and spices into a bowl and mix with a whisk until the color is even."
 - "Last, add the evaporated milk gradually, pouring about 3 oz at a time in and mixing well. Put the filling into the refrigerator."
-- "Get ready to roll the crust. Get your pie plate ready, get out a rolling pin, dust it with flour. Prepare your rolling surface with a dusting of flour as well. A granite or stone rolling surface is best, because it will keep the dough cool. You want to do this next part fairly quickly because you don't want the dough to warm up too much, and the longer you work the dough, the tougher the crust will be."
+- "Get ready to roll the crust. Get your pie plate ready, get out a rolling pin, dust it with flour. Prepare your rolling surface with a dusting of flour as well. A granite or stone rolling surface is best, because it will keep the dough cool. You want to do this next part fairly quickly because you don&#39;t want the dough to warm up too much, and the longer you work the dough, the tougher the crust will be."
 - "Get the dough out of the fridge, put some flour on your hands and flatten the ball into a thick circle, then put it on your rolling surface."
 - "Roll out the dough to fit your pie plate. Flip the dough and dust with flour a few times to prevent it sticking to your rolling surface. Thickness of the rolled out crust should be about 3/8 inch thick."
 - "Put the rolled dough into the pie plate, push the dough gently into the bottom of the edges, and trim (or decorate) the rim of the crust."
@@ -57,20 +57,20 @@ recipecategory: Lunch
 ---
 
 
-![Grandma Betty's Pumpkin Pie](https://img-global.cpcdn.com/recipes/d22cac6aa2a07888/680x482cq70/grandma-bettys-pumpkin-pie-recipe-main-photo.jpg)
+![Grandma Betty&#39;s Pumpkin Pie](https://img-global.cpcdn.com/recipes/d22cac6aa2a07888/680x482cq70/grandma-bettys-pumpkin-pie-recipe-main-photo.jpg)
 
-Hello everybody, it's Brad, welcome to our recipe page. Today, I will show you a way to prepare a distinctive dish, grandma betty's pumpkin pie. One of my favorites. This time, I'm gonna make it a little bit unique. This will be really delicious.
-
-
-
-Grandma Betty's Pumpkin Pie is one of the most favored of recent trending foods in the world. It's simple, it is quick, it tastes delicious. It's appreciated by millions daily. They are fine and they look wonderful. Grandma Betty's Pumpkin Pie is something that I have loved my entire life.
+Hello everybody, it's Brad, welcome to our recipe page. Today, I will show you a way to prepare a distinctive dish, grandma betty&#39;s pumpkin pie. One of my favorites. This time, I'm gonna make it a little bit unique. This will be really delicious.
 
 
-To begin with this recipe, we must prepare a few components. You can have grandma betty's pumpkin pie using 13 ingredients and 15 steps. Here is how you can achieve it.
+
+Grandma Betty&#39;s Pumpkin Pie is one of the most favored of recent trending foods in the world. It's simple, it is quick, it tastes delicious. It's appreciated by millions daily. They are fine and they look wonderful. Grandma Betty&#39;s Pumpkin Pie is something that I have loved my entire life.
+
+
+To begin with this recipe, we must prepare a few components. You can have grandma betty&#39;s pumpkin pie using 13 ingredients and 15 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Grandma Betty's Pumpkin Pie:
+##### The ingredients needed to make Grandma Betty&#39;s Pumpkin Pie:
 
 1. Make ready 1 1/3 cups all purpose flour
 1. Make ready 2/3 cups *cold* unsalted butter (1 stick and 3 tablespoons)
@@ -91,7 +91,7 @@ To begin with this recipe, we must prepare a few components. You can have grandm
 
 <!--inarticleads2-->
 
-##### Steps to make Grandma Betty's Pumpkin Pie:
+##### Steps to make Grandma Betty&#39;s Pumpkin Pie:
 
 1. Preheat your oven to 425 degrees Fahrenheit
 1. Make the dough for the crust first by putting the flour into a food processor or mixing bowl. Add a pinch of sugar and a pinch of salt.
@@ -100,7 +100,7 @@ To begin with this recipe, we must prepare a few components. You can have grandm
 1. Make a ball from the dough, and put it in the refrigerator to cool for at least 10 minutes. You want the dough to be cold when you roll it out into a crust.
 1. Now make the filling: Combine the eggs, pumpkin, sugar, salt and spices into a bowl and mix with a whisk until the color is even.
 1. Last, add the evaporated milk gradually, pouring about 3 oz at a time in and mixing well. Put the filling into the refrigerator.
-1. Get ready to roll the crust. Get your pie plate ready, get out a rolling pin, dust it with flour. Prepare your rolling surface with a dusting of flour as well. A granite or stone rolling surface is best, because it will keep the dough cool. You want to do this next part fairly quickly because you don't want the dough to warm up too much, and the longer you work the dough, the tougher the crust will be.
+1. Get ready to roll the crust. Get your pie plate ready, get out a rolling pin, dust it with flour. Prepare your rolling surface with a dusting of flour as well. A granite or stone rolling surface is best, because it will keep the dough cool. You want to do this next part fairly quickly because you don&#39;t want the dough to warm up too much, and the longer you work the dough, the tougher the crust will be.
 1. Get the dough out of the fridge, put some flour on your hands and flatten the ball into a thick circle, then put it on your rolling surface.
 1. Roll out the dough to fit your pie plate. Flip the dough and dust with flour a few times to prevent it sticking to your rolling surface. Thickness of the rolled out crust should be about 3/8 inch thick.
 1. Put the rolled dough into the pie plate, push the dough gently into the bottom of the edges, and trim (or decorate) the rim of the crust.
@@ -112,4 +112,4 @@ To begin with this recipe, we must prepare a few components. You can have grandm
 
 
 
-So that's going to wrap this up with this exceptional food grandma betty's pumpkin pie recipe. Thanks so much for reading. I am confident you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!
+So that's going to wrap this up with this exceptional food grandma betty&#39;s pumpkin pie recipe. Thanks so much for reading. I am confident you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

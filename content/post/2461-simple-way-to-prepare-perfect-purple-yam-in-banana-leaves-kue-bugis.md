@@ -53,7 +53,7 @@ Hey everyone, it's Louise, welcome to my recipe page. Today, I'm gonna show you 
 
 Purple yam in banana leaves (kue bugis) is one of the most favored of current trending foods in the world. It's easy, it's quick, it tastes yummy. It's enjoyed by millions every day. They're nice and they look wonderful. Purple yam in banana leaves (kue bugis) is something which I've loved my whole life.
 
-Leaves are large, bright green and tapered at the end. rice cakes cooked in pandan leaves. Purple Yam. jackfruit, banana rum, coffee, avocado Guava. mango, coconut, raspberry or passionfruit sorbet. Can't make enough of these sticky rice and purple yam in banana leaf cakes. It it very good and moist.
+Leaves are large, bright green and tapered at the end. rice cakes cooked in pandan leaves. Purple Yam. jackfruit, banana rum, coffee, avocado Guava. mango, coconut, raspberry or passionfruit sorbet. Can&#39;t make enough of these sticky rice and purple yam in banana leaf cakes. It it very good and moist.
 
 
 To get started with this recipe, we must prepare a few components. You can have purple yam in banana leaves (kue bugis) using 14 ingredients and 4 steps. Here is how you can achieve it.
@@ -78,7 +78,7 @@ To get started with this recipe, we must prepare a few components. You can have 
 1. Take  Banana Leaves to cover
 
 
-It is flavoured with pandan leaves juice. Steamed rice cake wrapped in banana leaves, and stuffed with banana. They're nice and they look wonderful. Purple yam in banana leaves (kue bugis) is something that I have loved my entire life. 
+It is flavoured with pandan leaves juice. Steamed rice cake wrapped in banana leaves, and stuffed with banana. They&#39;re nice and they look wonderful. Purple yam in banana leaves (kue bugis) is something that I have loved my entire life. 
 
 <!--inarticleads2-->
 
@@ -90,6 +90,6 @@ It is flavoured with pandan leaves juice. Steamed rice cake wrapped in banana le
 1. Wrap them with banana leaves and steam approximately 30 minutes. Ready to serve and eat warm😋
 
 
-They're nice and they look wonderful. Purple yam in banana leaves (kue bugis) is something that I have loved my entire life. To begin with this recipe, we have to prepare a few ingredients. Stems are purplish in color and square shaped and slippery while green on the stem or leaf. Leaves are large, bright green and tapered at the end. 
+They&#39;re nice and they look wonderful. Purple yam in banana leaves (kue bugis) is something that I have loved my entire life. To begin with this recipe, we have to prepare a few ingredients. Stems are purplish in color and square shaped and slippery while green on the stem or leaf. Leaves are large, bright green and tapered at the end. 
 
 So that's going to wrap this up with this exceptional food purple yam in banana leaves (kue bugis) recipe. Thank you very much for reading. I am confident you can make this at home. There is gonna be more interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

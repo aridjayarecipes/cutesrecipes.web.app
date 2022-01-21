@@ -34,7 +34,7 @@ recipeinstructions:
 - "Once done keep filling on the dosa and fold from the sides"
 - "Take it out in a plate and garnish with pomegranate and some chutney"
 - "For aloo - Take oil in a wok Add mustard seeds When they splutter add curry patta and chopped onions"
-- "When they turn pink slightly add masalas-turmeric powder, red chilli powder salt to taste & coriander powder"
+- "When they turn pink slightly add masalas-turmeric powder, red chilli powder salt to taste &amp; coriander powder"
 - "Mix well and mash slightly  Add chopped green chilies (optional)"
 - "Mix well and cover it"
 - "Allow cooking for sometime till everything blends well"
@@ -102,7 +102,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can h
 1. Once done keep filling on the dosa and fold from the sides
 1. Take it out in a plate and garnish with pomegranate and some chutney
 1. For aloo - Take oil in a wok - Add mustard seeds - When they splutter add curry patta and chopped onions
-1. When they turn pink slightly add masalas-turmeric powder, red chilli powder salt to taste & coriander powder
+1. When they turn pink slightly add masalas-turmeric powder, red chilli powder salt to taste &amp; coriander powder
 1. Mix well and mash slightly  - Add chopped green chilies (optional)
 1. Mix well and cover it
 1. Allow cooking for sometime till everything blends well

@@ -44,7 +44,7 @@ Hey everyone, I hope you are having an incredible day today. Today, we're going 
 
 Boiled brussel sprouts is one of the most favored of recent trending foods in the world. It's easy, it's fast, it tastes yummy. It's appreciated by millions daily. They're fine and they look wonderful. Boiled brussel sprouts is something that I've loved my entire life.
 
-How to Boil Brussels Sprouts, a visual accompaniment for Daniel Scott's recipe for arguably the best* boiled brussels sprouts ever.http. Step Six: Add Your Lemon Juice. Brussels sprouts are healthy, delicious, and great on their own or as a side. There are a variety of ways you can cook brussels sprouts, like on the stovetop or in the oven.
+How to Boil Brussels Sprouts, a visual accompaniment for Daniel Scott&#39;s recipe for arguably the best* boiled brussels sprouts ever.http. Step Six: Add Your Lemon Juice. Brussels sprouts are healthy, delicious, and great on their own or as a side. There are a variety of ways you can cook brussels sprouts, like on the stovetop or in the oven.
 
 
 To begin with this particular recipe, we have to first prepare a few ingredients. You can have boiled brussel sprouts using 4 ingredients and 5 steps. Here is how you can achieve that.
@@ -59,7 +59,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Get 1 tsp salt
 
 
-My favorite classic Roasted Brussels Sprouts recipe! It's quick and easy side dish to make, naturally gluten-free and vegan and healthy, easy to customize with favorite seasonings or sauces. The Brussels sprout is a member of the Gemmifera Group of cabbages (Brassica oleracea), grown for its edible buds. Watch how to make perfectly roasted Brussels sprouts in this short recipe video! 
+My favorite classic Roasted Brussels Sprouts recipe! It&#39;s quick and easy side dish to make, naturally gluten-free and vegan and healthy, easy to customize with favorite seasonings or sauces. The Brussels sprout is a member of the Gemmifera Group of cabbages (Brassica oleracea), grown for its edible buds. Watch how to make perfectly roasted Brussels sprouts in this short recipe video! 
 
 <!--inarticleads2-->
 

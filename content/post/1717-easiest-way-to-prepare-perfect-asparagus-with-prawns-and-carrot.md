@@ -90,6 +90,6 @@ How to make Asparagus and Carrots with Maple Butter: This is a very simple recip
 1. Ready to serve with rice or just like that.
 
 
-Asparagus with prawns and carrot. asparagus•carrots•peeled cleaned prawns•red or yellow capsicum•garlic cloves (chopped)•brown onion (halved, sliced)•tomatoes (chopped)•oyster sauce. Supercook clearly lists the ingredients each recipe uses, so you can find the perfect recipe quickly! Prawns & asparagus with basil aioli. It uses lemon, john dory, onion, asparagus, butter, cream, olive oil, chervil, carrot, chicken broth. Asparagus is known in Thai "Nor Mai Farang". 
+Asparagus with prawns and carrot. asparagus•carrots•peeled cleaned prawns•red or yellow capsicum•garlic cloves (chopped)•brown onion (halved, sliced)•tomatoes (chopped)•oyster sauce. Supercook clearly lists the ingredients each recipe uses, so you can find the perfect recipe quickly! Prawns &amp; asparagus with basil aioli. It uses lemon, john dory, onion, asparagus, butter, cream, olive oil, chervil, carrot, chicken broth. Asparagus is known in Thai &#34;Nor Mai Farang&#34;. 
 
 So that's going to wrap this up with this special food asparagus with prawns and carrot recipe. Thank you very much for reading. I'm confident that you will make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

@@ -67,6 +67,6 @@ A little Chipotle was added for smoke and heat for balance, but just a Little! P
 1. Let vodka simmer off while cooling. Serve with your dish enjoy.
 
 
-Pork Medallions with Spicy Pomegranate-Blueberry Reduction. this link is to an external site that may or. Your Blueberry Reduction stock images are ready. Download all free or royalty-free photos and vectors. Use them in commercial designs under lifetime, perpetual & worldwide rights. This sweet and tangy concoction can be used in so many ways and Blueberry Balsamic Reduction. 
+Pork Medallions with Spicy Pomegranate-Blueberry Reduction. this link is to an external site that may or. Your Blueberry Reduction stock images are ready. Download all free or royalty-free photos and vectors. Use them in commercial designs under lifetime, perpetual &amp; worldwide rights. This sweet and tangy concoction can be used in so many ways and Blueberry Balsamic Reduction. 
 
 So that's going to wrap this up with this special food blueberry reduction recipe. Thank you very much for reading. I am sure you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

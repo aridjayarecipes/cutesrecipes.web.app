@@ -41,7 +41,7 @@ Hello everybody, it is Drew, welcome to my recipe page. Today, I'm gonna show yo
 
 Banana s’more is one of the most well liked of current trending meals in the world. It is appreciated by millions daily. It is easy, it is fast, it tastes yummy. Banana s’more is something which I have loved my whole life. They're nice and they look wonderful.
 
-Banana S'mores - The Friendliest & Happiest Adult Minecraft on Earth! Banana s'mores just might be the easiest dessert you'll ever make. In this video, we teach you how to grill banana boat s'mores. It's an easy and delicious grilled dessert recipe.
+Banana S&#39;mores - The Friendliest &amp; Happiest Adult Minecraft on Earth! Banana s&#39;mores just might be the easiest dessert you&#39;ll ever make. In this video, we teach you how to grill banana boat s&#39;mores. It&#39;s an easy and delicious grilled dessert recipe.
 
 
 To begin with this recipe, we must prepare a few components. You can have banana s’more using 4 ingredients and 3 steps. Here is how you can achieve that.
@@ -56,7 +56,7 @@ To begin with this recipe, we must prepare a few components. You can have banana
 1. Prepare 1 oz probiotic choconut keto mix
 
 
-I love bananas and I love smores, put the two together and this is what you get! This recipe only makes one smore and I garentee you will need more! Place graham cracker squares on a baking sheet, and top each with a sliced banana and a marshmallow. This brings me to these banana s'mores — a riff on classic s'mores that taste just like banoffee pie. 
+I love bananas and I love smores, put the two together and this is what you get! This recipe only makes one smore and I garentee you will need more! Place graham cracker squares on a baking sheet, and top each with a sliced banana and a marshmallow. This brings me to these banana s&#39;mores — a riff on classic s&#39;mores that taste just like banoffee pie. 
 
 <!--inarticleads2-->
 
@@ -67,6 +67,6 @@ I love bananas and I love smores, put the two together and this is what you get!
 1. The last minute open and broil the banana keep watching that the marshmallow will not burn add the other half mix nut on top and enjoy 😉 you could add ice cream or fresh fruit
 
 
-Place graham cracker squares on a baking sheet, and top each with a sliced banana and a marshmallow. This brings me to these banana s'mores — a riff on classic s'mores that taste just like banoffee pie. Assembling these delicious banana boat s'mores is a cinch. Check out this delicious recipe for Grilled Banana S'mores from Weber—the world's Grilled Banana S'mores. Recipe From from Weber's Way to Grill™ by Jamie Purviance. 
+Place graham cracker squares on a baking sheet, and top each with a sliced banana and a marshmallow. This brings me to these banana s&#39;mores — a riff on classic s&#39;mores that taste just like banoffee pie. Assembling these delicious banana boat s&#39;mores is a cinch. Check out this delicious recipe for Grilled Banana S&#39;mores from Weber—the world&#39;s Grilled Banana S&#39;mores. Recipe From from Weber&#39;s Way to Grill™ by Jamie Purviance. 
 
 So that is going to wrap it up with this special food banana s’more recipe. Thank you very much for reading. I am confident that you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -84,7 +84,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. Take 2 cup rice noodle (prepared)
 
 
-It's another meal that was born while attempting to save vegetables from rotting in my fridge. Usually before I go away on a trip of any. Carrot Soup Recipe Link Noodle Soup Soup Recipes Noodles Carrots Delish Flora Warm. Delicious Thai Carrot Soup with Coconut Milk, combines carrots and pumpkin with Thai curry Carrot Leek Soup Once the weather starts to warm up, we tend to favor cold dishes like salads over. 
+It&#39;s another meal that was born while attempting to save vegetables from rotting in my fridge. Usually before I go away on a trip of any. Carrot Soup Recipe Link Noodle Soup Soup Recipes Noodles Carrots Delish Flora Warm. Delicious Thai Carrot Soup with Coconut Milk, combines carrots and pumpkin with Thai curry Carrot Leek Soup Once the weather starts to warm up, we tend to favor cold dishes like salads over. 
 
 <!--inarticleads2-->
 

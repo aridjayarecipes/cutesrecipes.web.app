@@ -29,7 +29,7 @@ recipeingredient:
 - " For Garnishing"
 - "as needed tutti frutti"
 recipeinstructions:
-- "For Stuffing: Heat a pan and add chopped fruits like apple, banana and kiwi and pomegranate's pearls and mango puree. Cook until fruits will soft."
+- "For Stuffing: Heat a pan and add chopped fruits like apple, banana and kiwi and pomegranate&#39;s pearls and mango puree. Cook until fruits will soft."
 - "Remove it in a bowl and add salt and lemon juice and mix it well. Now our stuffing is ready."
 - "For Pancake: In a Bowl add wheat flour, honey, baking powder, and mango puree and mix well. Add milk little by little and make a batter."
 - "The batter should not thick and watery."
@@ -95,7 +95,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 ##### Steps to make Mixed Fruit Stuffed Mango Pancake:
 
-1. For Stuffing: - Heat a pan and add chopped fruits like apple, banana and kiwi and pomegranate's pearls and mango puree. - Cook until fruits will soft.
+1. For Stuffing: - Heat a pan and add chopped fruits like apple, banana and kiwi and pomegranate&#39;s pearls and mango puree. - Cook until fruits will soft.
 1. Remove it in a bowl and add salt and lemon juice and mix it well. - Now our stuffing is ready.
 1. For Pancake: - In a Bowl add wheat flour, honey, baking powder, and mango puree and mix well. - Add milk little by little and make a batter.
 1. The batter should not thick and watery.

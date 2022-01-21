@@ -70,7 +70,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Make ready dash black pepper
 
 
-This dump-and-done Baked Chicken, Broccoli & Rice is a whole meal in one dish- chicken, rice and veggies, baked in a creamy sauce for super I also add fresh squeezed lemon juice to the soup/rice mixture. Then I season the chicken with a wet rub that consists of paprika, Italian seasoning, garlic. At the title implies, I lived almost entirely off of egregious amounts of chicken, broccoli, and rice. Enjoy a rice and pasta blend with broccoli florets in a cheddar cheese sauce. 
+This dump-and-done Baked Chicken, Broccoli &amp; Rice is a whole meal in one dish- chicken, rice and veggies, baked in a creamy sauce for super I also add fresh squeezed lemon juice to the soup/rice mixture. Then I season the chicken with a wet rub that consists of paprika, Italian seasoning, garlic. At the title implies, I lived almost entirely off of egregious amounts of chicken, broccoli, and rice. Enjoy a rice and pasta blend with broccoli florets in a cheddar cheese sauce. 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ This dump-and-done Baked Chicken, Broccoli & Rice is a whole meal in one dish- c
 1. When chicken is finished cooking add in chopped broccoli, drained rice, drained black beans and add a dash of garlic salt and pepper. Stir well and cover. Heat on low heat for about 3 mins. Enjoy!
 
 
-At the title implies, I lived almost entirely off of egregious amounts of chicken, broccoli, and rice. Enjoy a rice and pasta blend with broccoli florets in a cheddar cheese sauce. Slow pour over chicken and rice. The chicken-broccoli-rice combo is a rather unenlightened albeit effective tradition that's popular among bodybuilders because it's high in protein and fiber, low in Broccoli combo'd with black beans may give you some gnarly gas, but your bowel movements will be optimized. Chicken - we used boneless skinless chicken breast, but chicken tenders or even thighs would be You could sub the broccoli with snap peas or zucchini and sub onions with julienned carrots. 
+At the title implies, I lived almost entirely off of egregious amounts of chicken, broccoli, and rice. Enjoy a rice and pasta blend with broccoli florets in a cheddar cheese sauce. Slow pour over chicken and rice. The chicken-broccoli-rice combo is a rather unenlightened albeit effective tradition that&#39;s popular among bodybuilders because it&#39;s high in protein and fiber, low in Broccoli combo&#39;d with black beans may give you some gnarly gas, but your bowel movements will be optimized. Chicken - we used boneless skinless chicken breast, but chicken tenders or even thighs would be You could sub the broccoli with snap peas or zucchini and sub onions with julienned carrots. 
 
 So that is going to wrap it up with this special food chicken with broccoli, black beans and rice recipe. Thanks so much for reading. I'm confident that you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

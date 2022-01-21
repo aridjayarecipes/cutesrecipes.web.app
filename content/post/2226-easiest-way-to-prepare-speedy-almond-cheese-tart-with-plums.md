@@ -40,9 +40,9 @@ recipeinstructions:
 - "Add the ground almond and lemon juice and stir well."
 - "≪Topping≫ Rinse the plums and cut into 6 to 8 wedges with the skins on. Remove the pits."
 - "Spoon the cream onto the pastry base and smooth over the surface. Arrange the plums and bake in an oven preheated to 170°C for about 40 minutes."
-- "*If the tart doesn't yet have a nice golden brown colour, raise the oven temperature to 180°C for the last 10 minutes. Conversely, if the tart is too browned cover with aluminium foil during baking."
-- "After baking, place the tart on a cooling rack to cool and remove the tart from the tart tin. It's done."
-- "It's nice if you serve warm but it tastes nicer after chilled. Dust with powdered sugar if you like."
+- "*If the tart doesn&#39;t yet have a nice golden brown colour, raise the oven temperature to 180°C for the last 10 minutes. Conversely, if the tart is too browned cover with aluminium foil during baking."
+- "After baking, place the tart on a cooling rack to cool and remove the tart from the tart tin. It&#39;s done."
+- "It&#39;s nice if you serve warm but it tastes nicer after chilled. Dust with powdered sugar if you like."
 categories:
 - Recipe
 tags:
@@ -113,9 +113,9 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Add the ground almond and lemon juice and stir well.
 1. ≪Topping≫ Rinse the plums and cut into 6 to 8 wedges with the skins on. Remove the pits.
 1. Spoon the cream onto the pastry base and smooth over the surface. Arrange the plums and bake in an oven preheated to 170°C for about 40 minutes.
-1. *If the tart doesn't yet have a nice golden brown colour, raise the oven temperature to 180°C for the last 10 minutes. Conversely, if the tart is too browned cover with aluminium foil during baking.
-1. After baking, place the tart on a cooling rack to cool and remove the tart from the tart tin. It's done.
-1. It's nice if you serve warm but it tastes nicer after chilled. Dust with powdered sugar if you like.
+1. *If the tart doesn&#39;t yet have a nice golden brown colour, raise the oven temperature to 180°C for the last 10 minutes. Conversely, if the tart is too browned cover with aluminium foil during baking.
+1. After baking, place the tart on a cooling rack to cool and remove the tart from the tart tin. It&#39;s done.
+1. It&#39;s nice if you serve warm but it tastes nicer after chilled. Dust with powdered sugar if you like.
 
 
 

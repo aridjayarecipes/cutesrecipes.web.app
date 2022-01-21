@@ -26,10 +26,10 @@ recipeingredient:
 - "3.5 Tbsp. heavy cream"
 - "1 oz almonds"
 recipeinstructions:
-- "★Recipe video★ (my You Tube channel)→https://www.youtube.com/watch?v=PyryykrAifA&t=395s"
+- "★Recipe video★ (my You Tube channel)→https://www.youtube.com/watch?v=PyryykrAifA&amp;t=395s"
 - "Let egg white cool in a fridge. Preheat a oven to 392 ºF."
 - "Add granulated sugar to egg yolk and mix. And warm it in hot water while mixing until it reaches body temperature. Let grape seed oil warm in the hot water on extremely low heat."
-- "Mix the egg yolk until it becomes whitish and heavy. Add the grape seed oil little by little while mixing. It's important that the batter is smooth."
+- "Mix the egg yolk until it becomes whitish and heavy. Add the grape seed oil little by little while mixing. It&#39;s important that the batter is smooth."
 - "Make juice with banana and milk. Add the banana juice to the egg yolk batter little by little while mixing."
 - "Put the egg white from the fridge and make meringue. Beat it lightly until it becomes watery. Whip it with a hand mixer on high speed."
 - "Add granulated sugar in 2 parts after it becomes white and fluffy. Whip it to soft-peak stage and switch to low speed. Whip it slowly for 2 minutes."
@@ -97,10 +97,10 @@ To get started with this recipe, we have to first prepare a few components. You 
 
 ##### Steps to make Banana Chiffon Cake:
 
-1. ★Recipe video★ (my You Tube channel)→https://www.youtube.com/watch?v=PyryykrAifA&t=395s
+1. ★Recipe video★ (my You Tube channel)→https://www.youtube.com/watch?v=PyryykrAifA&amp;t=395s
 1. Let egg white cool in a fridge. Preheat a oven to 392 ºF.
 1. Add granulated sugar to egg yolk and mix. And warm it in hot water while mixing until it reaches body temperature. Let grape seed oil warm in the hot water on extremely low heat.
-1. Mix the egg yolk until it becomes whitish and heavy. Add the grape seed oil little by little while mixing. It's important that the batter is smooth.
+1. Mix the egg yolk until it becomes whitish and heavy. Add the grape seed oil little by little while mixing. It&#39;s important that the batter is smooth.
 1. Make juice with banana and milk. Add the banana juice to the egg yolk batter little by little while mixing.
 1. Put the egg white from the fridge and make meringue. Beat it lightly until it becomes watery. Whip it with a hand mixer on high speed.
 1. Add granulated sugar in 2 parts after it becomes white and fluffy. Whip it to soft-peak stage and switch to low speed. Whip it slowly for 2 minutes.

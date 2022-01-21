@@ -45,7 +45,7 @@ recipecategory: Lunch
 
 Hey everyone, it is me again, Dan, welcome to our recipe site. Today, I'm gonna show you how to prepare a distinctive dish, mussels in a white wine, butter, garlic and parsley sauce. It is one of my favorites. This time, I am going to make it a little bit tasty. This is gonna smell and look delicious.
 
-Mussels in white wine sauce with garlic, parsley, and butter is one of our favorite summer seafood recipes to make! In a large pot with a lid, heat the oil and. Mussels steamed in white wine and served in a sauce made from the cooking liquid with butter and shallots is a classic French preparation of mussels, moules marinières. This is Guy's method for moules marinières, the way he grew up making it in France, and one of the easiest and loveliest ways.
+Mussels in white wine sauce with garlic, parsley, and butter is one of our favorite summer seafood recipes to make! In a large pot with a lid, heat the oil and. Mussels steamed in white wine and served in a sauce made from the cooking liquid with butter and shallots is a classic French preparation of mussels, moules marinières. This is Guy&#39;s method for moules marinières, the way he grew up making it in France, and one of the easiest and loveliest ways.
 
 Mussels in a white wine, butter, garlic and parsley sauce is one of the most well liked of recent trending meals in the world. It's appreciated by millions daily. It is easy, it is fast, it tastes delicious. They are fine and they look wonderful. Mussels in a white wine, butter, garlic and parsley sauce is something that I've loved my whole life.
 
@@ -62,7 +62,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Prepare 1 white onion or shallot, finely sliced or diced
 1. Prepare 2 garlic cloves, finely diced
 1. Prepare 1/2 glass white wine
-1. Prepare  Season with a sprinkle salt & pepper (optional)
+1. Prepare  Season with a sprinkle salt &amp; pepper (optional)
 1. Take Handful chopped fresh parsley
 
 
@@ -78,6 +78,6 @@ Remove mussels from the pan with tongs and place in a clean bowl. White wine rea
 1. Eat immediately while hot and serve with sliced baguette bread to dip in the liquor.
 
 
-Wine adds complexity and flavour to the sauce of an otherwise very simple recipe. This is a classic way to cook mussels - in a garlic white wine butter sauce. Be sure to have plenty of crusty bread to mop up the delicious sauce, it's. Butter, shallots, garlic, chopped tomatoes, lemon juice, and white wine, create a light and savory In a large shallow stockpot heat butter over medium-high heat. When butter starts to foam, add You could chop all of the sauce ingredients, however, the garlic and shallots will create a really strong. 
+Wine adds complexity and flavour to the sauce of an otherwise very simple recipe. This is a classic way to cook mussels - in a garlic white wine butter sauce. Be sure to have plenty of crusty bread to mop up the delicious sauce, it&#39;s. Butter, shallots, garlic, chopped tomatoes, lemon juice, and white wine, create a light and savory In a large shallow stockpot heat butter over medium-high heat. When butter starts to foam, add You could chop all of the sauce ingredients, however, the garlic and shallots will create a really strong. 
 
 So that is going to wrap this up with this exceptional food mussels in a white wine, butter, garlic and parsley sauce recipe. Thank you very much for your time. I'm confident you can make this at home. There is gonna be more interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

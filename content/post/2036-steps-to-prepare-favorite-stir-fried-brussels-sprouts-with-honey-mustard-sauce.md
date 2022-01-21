@@ -22,8 +22,8 @@ recipeinstructions:
 - "Add the bacon to a frying pan and cook on medium heat until grease is released."
 - "If the bacon does render enoughoil in Step 2, add the olive oil."
 - "Add the garlic. Once it becomes fragrant, add the brussel sprouts and turn down the heat to low."
-- "Patiently cook the brussels sprouts. (Place the cut end facing down and cook for 5-6 minutes. Flip over and cook for another 5 minutes.) Don't cover with a lid!"
-- "Stop the heat and add the mustard and honey. Mix everything together and season with salt and pepper. (If the bacon is salty, don't add more salt.)"
+- "Patiently cook the brussels sprouts. (Place the cut end facing down and cook for 5-6 minutes. Flip over and cook for another 5 minutes.) Don&#39;t cover with a lid!"
+- "Stop the heat and add the mustard and honey. Mix everything together and season with salt and pepper. (If the bacon is salty, don&#39;t add more salt.)"
 categories:
 - Recipe
 tags:
@@ -76,8 +76,8 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Add the bacon to a frying pan and cook on medium heat until grease is released.
 1. If the bacon does render enoughoil in Step 2, add the olive oil.
 1. Add the garlic. Once it becomes fragrant, add the brussel sprouts and turn down the heat to low.
-1. Patiently cook the brussels sprouts. (Place the cut end facing down and cook for 5-6 minutes. Flip over and cook for another 5 minutes.) Don't cover with a lid!
-1. Stop the heat and add the mustard and honey. Mix everything together and season with salt and pepper. (If the bacon is salty, don't add more salt.)
+1. Patiently cook the brussels sprouts. (Place the cut end facing down and cook for 5-6 minutes. Flip over and cook for another 5 minutes.) Don&#39;t cover with a lid!
+1. Stop the heat and add the mustard and honey. Mix everything together and season with salt and pepper. (If the bacon is salty, don&#39;t add more salt.)
 
 
 

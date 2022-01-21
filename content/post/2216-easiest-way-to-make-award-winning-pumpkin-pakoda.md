@@ -22,7 +22,7 @@ recipeingredient:
 - " For frying refined oil"
 recipeinstructions:
 - "Peeled,Cut pumpkin thinly in square shape then add all the ingredients and make a thick batter of gram flour with the help of water adding all spices.Heat refined oil into kadhai."
-- "Now dip all the pieces of pumpkin one by one into batter and deep fry it to both side till it's colour is golden and cooked."
+- "Now dip all the pieces of pumpkin one by one into batter and deep fry it to both side till it&#39;s colour is golden and cooked."
 - "Take it out from oil.Keep this on the tissue paper to absorb extra oil.Serve it hot with fried green chillies and ketchup."
 categories:
 - Recipe
@@ -75,7 +75,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 ##### Steps to make Pumpkin Pakoda:
 
 1. Peeled,Cut pumpkin thinly in square shape then add all the ingredients and make a thick batter of gram flour with the help of water adding all spices.Heat refined oil into kadhai.
-1. Now dip all the pieces of pumpkin one by one into batter and deep fry it to both side till it's colour is golden and cooked.
+1. Now dip all the pieces of pumpkin one by one into batter and deep fry it to both side till it&#39;s colour is golden and cooked.
 1. Take it out from oil.Keep this on the tissue paper to absorb extra oil.Serve it hot with fried green chillies and ketchup.
 
 

@@ -20,9 +20,9 @@ recipeingredient:
 - " Parmesan cheese to serve"
 recipeinstructions:
 - "Cut the pumpkin and mushrooms into slices. The type of mushroom depends on your taste bud. For this recipe, I used pleurotus austreotus variety because of its delicate flavor and texture."
-- "Add pumpkin, mushroom, and rice together in a pan, along with water. You will need to adjust water depending on the type of rice you're using. Don't worry with using less water because you can always keep adding later until the rice is cooked the way you prefer."
+- "Add pumpkin, mushroom, and rice together in a pan, along with water. You will need to adjust water depending on the type of rice you&#39;re using. Don&#39;t worry with using less water because you can always keep adding later until the rice is cooked the way you prefer."
 - "Reduce flame after about 5 minutes and add cooking cream and gorgonzola cheese. You can season it as you want at this point."
-- "Keep cooking until the rice is ready. I add more water because I don't like the rice with al dente texture."
+- "Keep cooking until the rice is ready. I add more water because I don&#39;t like the rice with al dente texture."
 - "Serve hot with grated parmesan cheese"
 categories:
 - Recipe
@@ -74,9 +74,9 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 ##### Instructions to make Creamy Risotto with Pumpkin, Mushroom and Gorgonzola Cheese:
 
 1. Cut the pumpkin and mushrooms into slices. The type of mushroom depends on your taste bud. For this recipe, I used pleurotus austreotus variety because of its delicate flavor and texture.
-1. Add pumpkin, mushroom, and rice together in a pan, along with water. You will need to adjust water depending on the type of rice you're using. Don't worry with using less water because you can always keep adding later until the rice is cooked the way you prefer.
+1. Add pumpkin, mushroom, and rice together in a pan, along with water. You will need to adjust water depending on the type of rice you&#39;re using. Don&#39;t worry with using less water because you can always keep adding later until the rice is cooked the way you prefer.
 1. Reduce flame after about 5 minutes and add cooking cream and gorgonzola cheese. You can season it as you want at this point.
-1. Keep cooking until the rice is ready. I add more water because I don't like the rice with al dente texture.
+1. Keep cooking until the rice is ready. I add more water because I don&#39;t like the rice with al dente texture.
 1. Serve hot with grated parmesan cheese
 
 

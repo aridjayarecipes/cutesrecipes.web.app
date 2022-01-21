@@ -17,7 +17,7 @@ recipeingredient:
 recipeinstructions:
 - "In a large bowl, combine pumpkin, cinnamon and egg."
 - "Add flour 1/2 cup at a time."
-- "Roll into a stiff dough then cut into 1/2" strips. (or use a pasta machine to roll into linguine width)"
+- "Roll into a stiff dough then cut into 1/2&#34; strips. (or use a pasta machine to roll into linguine width)"
 - "Bake at 350 for 25-30 minutes."
 - "Cool completely then break into manageable pieces. Keeps for up to 2 weeks in airtight container at room temperature."
 categories:
@@ -67,7 +67,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 
 1. In a large bowl, combine pumpkin, cinnamon and egg.
 1. Add flour 1/2 cup at a time.
-1. Roll into a stiff dough then cut into 1/2" strips. (or use a pasta machine to roll into linguine width)
+1. Roll into a stiff dough then cut into 1/2&#34; strips. (or use a pasta machine to roll into linguine width)
 1. Bake at 350 for 25-30 minutes.
 1. Cool completely then break into manageable pieces. Keeps for up to 2 weeks in airtight container at room temperature.
 

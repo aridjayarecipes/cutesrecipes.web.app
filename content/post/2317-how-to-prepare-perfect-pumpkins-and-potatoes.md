@@ -45,7 +45,7 @@ recipecategory: Dinner
 
 Hello everybody, it is Brad, welcome to our recipe page. Today, we're going to make a special dish, pumpkins and potatoes. One of my favorites food recipes. For mine, I'm gonna make it a bit unique. This will be really delicious.
 
-While neither pumpkins nor sweet potatoes make the "superfood" cut, research shows that their But while sweet potatoes have more calories, that's because they are packed with greater amounts of. Baked pumpkins and potatoes, pumpkin pie and glass with rose wine on wooden table isolated on grey. Yellow color vegetables: corn , turnip,scallop squash, potato,pumpkin isolated on white. Your Pumpkins Potatoes stock images are ready.
+While neither pumpkins nor sweet potatoes make the &#34;superfood&#34; cut, research shows that their But while sweet potatoes have more calories, that&#39;s because they are packed with greater amounts of. Baked pumpkins and potatoes, pumpkin pie and glass with rose wine on wooden table isolated on grey. Yellow color vegetables: corn , turnip,scallop squash, potato,pumpkin isolated on white. Your Pumpkins Potatoes stock images are ready.
 
 Pumpkins and Potatoes is one of the most well liked of recent trending foods in the world. It is simple, it's quick, it tastes yummy. It's enjoyed by millions daily. They are fine and they look wonderful. Pumpkins and Potatoes is something which I've loved my whole life.
 
@@ -78,6 +78,6 @@ Sweet potatoes and pumpkins are quite different, with sweet potatoes growing in 
 1. Serve while hot.
 
 
-Free for commercial use No attribution required High quality images. Join me in this weeks video where I plant out my pumpkins and harvest my first potatoes. See more ideas about pumpkin recipes, dessert recipes, desserts. The potato is a starchy, tuberous crop. It is the world's fourth-largest food crop, following rice, wheat and maize. 
+Free for commercial use No attribution required High quality images. Join me in this weeks video where I plant out my pumpkins and harvest my first potatoes. See more ideas about pumpkin recipes, dessert recipes, desserts. The potato is a starchy, tuberous crop. It is the world&#39;s fourth-largest food crop, following rice, wheat and maize. 
 
 So that is going to wrap this up with this exceptional food pumpkins and potatoes recipe. Thanks so much for your time. I'm confident you will make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

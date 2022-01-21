@@ -46,7 +46,7 @@ recipecategory: Lunch
 
 Hello everybody, I hope you are having an amazing day today. Today, I will show you a way to make a special dish, vegetable stir fry  and boiled egg. One of my favorites food recipes. This time, I am going to make it a little bit tasty. This will be really delicious.
 
-Egg stir fry is a new recipe, I wanted to make a dry dish using boiled eggs so I tried it with potatoes, onions and also wanted to add some green leaves. Learn how to stir fry vegetables at home, using a simple Chinese style recipe. For more protein, throw in some eggs and scramble them to savour the eggs'. As part of the HOW TO COOK GREAT NETWORK - Chinese Cabbage & Egg Stir Fry Recipe - Vegetable Stir Fry - Chinese Cabbage - Cabbage Egg Recipes► SUBSCRIBE to.
+Egg stir fry is a new recipe, I wanted to make a dry dish using boiled eggs so I tried it with potatoes, onions and also wanted to add some green leaves. Learn how to stir fry vegetables at home, using a simple Chinese style recipe. For more protein, throw in some eggs and scramble them to savour the eggs&#39;. As part of the HOW TO COOK GREAT NETWORK - Chinese Cabbage &amp; Egg Stir Fry Recipe - Vegetable Stir Fry - Chinese Cabbage - Cabbage Egg Recipes► SUBSCRIBE to.
 
 Vegetable stir fry  and boiled egg is one of the most popular of current trending meals on earth. It is appreciated by millions every day. It is easy, it's quick, it tastes yummy. Vegetable stir fry  and boiled egg is something which I have loved my entire life. They are fine and they look wonderful.
 

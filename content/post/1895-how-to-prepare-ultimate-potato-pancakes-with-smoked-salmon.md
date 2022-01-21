@@ -30,7 +30,7 @@ recipeinstructions:
 - "Cook on both sides until crispy and brown."
 - "Remove the pancakes from the oil and place on paper towels or metal drip rack to remove grease."
 - "Top with salmon, sour cream, dill, and capers, garnish plate with lemon wedges, and serve while pancakes are still warm."
-- "Bask in girlfriend's appreciation."
+- "Bask in girlfriend&#39;s appreciation."
 categories:
 - Recipe
 tags:
@@ -91,7 +91,7 @@ For the potato pancakes, fill a pan with boiling salted water. Add the potatoes 
 1. Cook on both sides until crispy and brown.
 1. Remove the pancakes from the oil and place on paper towels or metal drip rack to remove grease.
 1. Top with salmon, sour cream, dill, and capers, garnish plate with lemon wedges, and serve while pancakes are still warm.
-1. Bask in girlfriend's appreciation.
+1. Bask in girlfriend&#39;s appreciation.
 
 
 Preparation Peel half the potatoes, grate them coarse (preferably in a food processor). Place potatoes and onions on clean kitchen towel and squeeze out as much liquid as possible by twisting the top and sides tightly. Shred the potatoes and onion into a bowl (I use a box grater). Add the potatoes to a pan of salted water and bring up to the boil. They will give your pancakes bulk. 

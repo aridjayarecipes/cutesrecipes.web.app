@@ -22,7 +22,7 @@ recipeinstructions:
 - "Peel and slice the carrots on a bias. Dice the onions. Slice the cabbage. Slice the sausage on a bias."
 - "Heat the duck fat. Add the onions sauté till translucent. Add the sausage."
 - "Add all the remaining ingredients. Except the beef broth. Stir often and cover. Cook for 30 minutes."
-- "Add beef broth and allow to be absorbed. When absorbed it's ready serve. Add hot sauce if you like. I hope you enjoy!!!"
+- "Add beef broth and allow to be absorbed. When absorbed it&#39;s ready serve. Add hot sauce if you like. I hope you enjoy!!!"
 categories:
 - Recipe
 tags:
@@ -75,7 +75,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Peel and slice the carrots on a bias. Dice the onions. Slice the cabbage. Slice the sausage on a bias.
 1. Heat the duck fat. Add the onions sauté till translucent. Add the sausage.
 1. Add all the remaining ingredients. Except the beef broth. Stir often and cover. Cook for 30 minutes.
-1. Add beef broth and allow to be absorbed. When absorbed it's ready serve. Add hot sauce if you like. I hope you enjoy!!!
+1. Add beef broth and allow to be absorbed. When absorbed it&#39;s ready serve. Add hot sauce if you like. I hope you enjoy!!!
 
 
 

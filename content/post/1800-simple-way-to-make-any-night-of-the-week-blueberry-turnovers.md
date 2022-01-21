@@ -43,7 +43,7 @@ recipecategory: Dinner
 
 Hello everybody, it is Jim, welcome to our recipe site. Today, I'm gonna show you how to prepare a distinctive dish, blueberry turnovers. It is one of my favorites. For mine, I'm gonna make it a little bit unique. This is gonna smell and look delicious.
 
-Blueberry Turnovers - a pre-cooked blueberry pie filling and a forgiving sweet butter pastry recipe make these turnovers practically foolproof. Discovery and Science Channel's How It's Made Blueberry Turnovers episode. All copyrights go to their respective owners. Fresh blueberries are rolled into prepared croissants and baked to perfection for a light, delicious pastry.
+Blueberry Turnovers - a pre-cooked blueberry pie filling and a forgiving sweet butter pastry recipe make these turnovers practically foolproof. Discovery and Science Channel&#39;s How It&#39;s Made Blueberry Turnovers episode. All copyrights go to their respective owners. Fresh blueberries are rolled into prepared croissants and baked to perfection for a light, delicious pastry.
 
 Blueberry turnovers is one of the most popular of current trending meals in the world. It's enjoyed by millions every day. It is simple, it's fast, it tastes yummy. Blueberry turnovers is something which I have loved my whole life. They're nice and they look fantastic.
 

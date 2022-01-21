@@ -59,7 +59,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook po
 1. Get 1 Grapefruit (optional – to reduce the sweetness if it’s too sweet for your taste)
 
 
-Supercook clearly lists the ingredients each recipe uses, so Watermelon and feta salad with pomegranate dressing. olivemagazine.com. The post Watermelon Pomegranate Beetroot Juice appeared first on The Steaming Pot. Watermelon & Pomegranate combination juice is very refreshing & healthy. Make watermelon juice to quench your thirst on a warm summer day. 
+Supercook clearly lists the ingredients each recipe uses, so Watermelon and feta salad with pomegranate dressing. olivemagazine.com. The post Watermelon Pomegranate Beetroot Juice appeared first on The Steaming Pot. Watermelon &amp; Pomegranate combination juice is very refreshing &amp; healthy. Make watermelon juice to quench your thirst on a warm summer day. 
 
 <!--inarticleads2-->
 
@@ -72,6 +72,6 @@ Supercook clearly lists the ingredients each recipe uses, so Watermelon and feta
 1. If you want can add black salt- I didn’t use
 
 
-Watermelon & Pomegranate combination juice is very refreshing & healthy. Make watermelon juice to quench your thirst on a warm summer day. You can also create a refreshing pomegranate and watermelon. Pomegranate and watermelon both cool Pitta in the blood. Additionally, watermelon provides abundant beta carotene, improving eyesight. 
+Watermelon &amp; Pomegranate combination juice is very refreshing &amp; healthy. Make watermelon juice to quench your thirst on a warm summer day. You can also create a refreshing pomegranate and watermelon. Pomegranate and watermelon both cool Pitta in the blood. Additionally, watermelon provides abundant beta carotene, improving eyesight. 
 
 So that's going to wrap this up with this special food pomegranate watermelon juice recipe. Thanks so much for reading. I am sure that you will make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

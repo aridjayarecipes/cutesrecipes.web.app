@@ -47,7 +47,7 @@ Hey everyone, it's Drew, welcome to our recipe site. Today, I'm gonna show you h
 
 Salmon in gelatin is one of the most favored of current trending meals in the world. It's easy, it is quick, it tastes yummy. It is enjoyed by millions daily. Salmon in gelatin is something that I have loved my whole life. They are fine and they look wonderful.
 
-I'm so excited to finally start this new series with the help of my lovely husband who shot it all for me. Non mammalian gelatin under low moisture conditions could potentially be used in encapsulation This work explored the interactions between salmon gelatin (SG) and different molecular weight. The Salmon Gelatin recipe out of our category Shrimp! The fish broth add black pepper and garlic to taste and give zhelatin.
+I&#39;m so excited to finally start this new series with the help of my lovely husband who shot it all for me. Non mammalian gelatin under low moisture conditions could potentially be used in encapsulation This work explored the interactions between salmon gelatin (SG) and different molecular weight. The Salmon Gelatin recipe out of our category Shrimp! The fish broth add black pepper and garlic to taste and give zhelatin.
 
 
 To get started with this recipe, we have to first prepare a few components. You can cook salmon in gelatin using 11 ingredients and 1 steps. Here is how you cook it.

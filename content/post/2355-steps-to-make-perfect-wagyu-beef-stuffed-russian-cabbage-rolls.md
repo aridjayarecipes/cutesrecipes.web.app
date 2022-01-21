@@ -80,7 +80,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can have
 1. Prepare 1 LB Crushed Tomatoes (divided)
 1. Get 2 TBSP Sour Cream
 1. Get 2 TBSP Olive Oil
-1. Get  Kosher Salt & Freshly Ground Black Pepper (to season)
+1. Get  Kosher Salt &amp; Freshly Ground Black Pepper (to season)
 
 
 

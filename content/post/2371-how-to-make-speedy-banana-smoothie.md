@@ -38,7 +38,7 @@ recipecategory: Lunch
 
 Hello everybody, it's Drew, welcome to my recipe site. Today, I'm gonna show you how to prepare a special dish, banana smoothie. It is one of my favorites. This time, I will make it a bit tasty. This is gonna smell and look delicious.
 
-Banana smoothies make excellent breakfasts, mid-day snacks, and hangover cures. Since bananas blend so well with other flavors, it's easy to create a smoothie to satisfy your particular tastes. Learn how to make the best banana smoothie, with protein and fiber to give you energy for your day! This smoothie recipe is delicious as written, but it can also be used as a base for other smoothie recipes.
+Banana smoothies make excellent breakfasts, mid-day snacks, and hangover cures. Since bananas blend so well with other flavors, it&#39;s easy to create a smoothie to satisfy your particular tastes. Learn how to make the best banana smoothie, with protein and fiber to give you energy for your day! This smoothie recipe is delicious as written, but it can also be used as a base for other smoothie recipes.
 
 Banana smoothie is one of the most popular of recent trending meals in the world. It is appreciated by millions every day. It's easy, it is fast, it tastes delicious. They're nice and they look fantastic. Banana smoothie is something that I have loved my entire life.
 
@@ -65,6 +65,6 @@ For the full Banana Smoothie Recipe with ingredient amounts and instructions, pl
 1. Just mix it all in a blender, blend it smoothly. Serve chilled.
 
 
-Triple Berry Banana Smoothie Bowl Lemon Tree Dwelling. Silk Vanilla Soymilk, chopped pecans, chopped pecans, shredded coconut and. A green spinach banana super smoothie is however a quick (just three minutes) way to get in a decent breakfast or to charge you up after a workout. I know, drinking something green feels wrong. This banana smoothie recipe requires just five simple ingredients, all of which you may already have in your "The banana flavor in this smoothie was incredible. 
+Triple Berry Banana Smoothie Bowl Lemon Tree Dwelling. Silk Vanilla Soymilk, chopped pecans, chopped pecans, shredded coconut and. A green spinach banana super smoothie is however a quick (just three minutes) way to get in a decent breakfast or to charge you up after a workout. I know, drinking something green feels wrong. This banana smoothie recipe requires just five simple ingredients, all of which you may already have in your &#34;The banana flavor in this smoothie was incredible. 
 
 So that's going to wrap this up with this exceptional food banana smoothie recipe. Thanks so much for reading. I am confident you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

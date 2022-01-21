@@ -68,7 +68,7 @@ To get started with this recipe, we must prepare a few components. You can have 
 1. Take 1 tbsp mayonnaise
 
 
-Freshly caught fish is the BEST! Now this panko crusted salmon recipe is not only my favorite, but has become our cooking community's favorite as well. In fact, I think if our meal plan service had to pick one signature dish that defines us, it would definitely be this Maple Dijon Panko Crusted Salmon. Salmon Chanted Evening Dijon Panko-Crusted Baked Salmon. 
+Freshly caught fish is the BEST! Now this panko crusted salmon recipe is not only my favorite, but has become our cooking community&#39;s favorite as well. In fact, I think if our meal plan service had to pick one signature dish that defines us, it would definitely be this Maple Dijon Panko Crusted Salmon. Salmon Chanted Evening Dijon Panko-Crusted Baked Salmon. 
 
 <!--inarticleads2-->
 
@@ -84,6 +84,6 @@ Freshly caught fish is the BEST! Now this panko crusted salmon recipe is not onl
 1. Take out of the oven after about thirty minutes and sprinkle lemon juice on the top. Enjoy!
 
 
-In fact, I think if our meal plan service had to pick one signature dish that defines us, it would definitely be this Maple Dijon Panko Crusted Salmon. Salmon Chanted Evening Dijon Panko-Crusted Baked Salmon. As I may have mentioned before, we don't eat a lot of seafood here in MaiTai Tracy's Kitchen, we leave that to long time traveling companion Mary (seen here at a fish feast when we visited Croatia). Ensure all the bones and scales are removed from the salmon filets. Dry the salmon skin well with paper towels so that it crisps and browns nicely. 
+In fact, I think if our meal plan service had to pick one signature dish that defines us, it would definitely be this Maple Dijon Panko Crusted Salmon. Salmon Chanted Evening Dijon Panko-Crusted Baked Salmon. As I may have mentioned before, we don&#39;t eat a lot of seafood here in MaiTai Tracy&#39;s Kitchen, we leave that to long time traveling companion Mary (seen here at a fish feast when we visited Croatia). Ensure all the bones and scales are removed from the salmon filets. Dry the salmon skin well with paper towels so that it crisps and browns nicely. 
 
 So that's going to wrap this up for this special food dijon panko crusted salmon recipe. Thanks so much for reading. I'm confident you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

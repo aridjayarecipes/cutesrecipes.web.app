@@ -52,7 +52,7 @@ recipecategory: Lunch
 
 Hello everybody, hope you are having an amazing day today. Today, I'm gonna show you how to prepare a special dish, mochar ghonto (banana flower curry). It is one of my favorites food recipes. For mine, I will make it a bit unique. This is gonna smell and look delicious.
 
-Mocha is known as Banana flower or Banana Blossom. Mocha ghonto aka mochar ghonto is a classic delight which is crazily popular among Bengalis. It is a pure Bengali delicacy and one of the most beloved vegetarian traditional Bengali food. Any reputed Bengali restaurant's menu card is incomplete without it.
+Mocha is known as Banana flower or Banana Blossom. Mocha ghonto aka mochar ghonto is a classic delight which is crazily popular among Bengalis. It is a pure Bengali delicacy and one of the most beloved vegetarian traditional Bengali food. Any reputed Bengali restaurant&#39;s menu card is incomplete without it.
 
 Mochar ghonto (banana flower curry) is one of the most well liked of recent trending foods in the world. It is easy, it is quick, it tastes delicious. It is enjoyed by millions every day. They are fine and they look wonderful. Mochar ghonto (banana flower curry) is something which I've loved my entire life.
 

@@ -22,7 +22,7 @@ recipeingredient:
 recipeinstructions:
 - "Add all the ingredients together in a food processor and mix until combined."
 - "Form balls of 1 tbsp size pressed with your hands. Put in the fridge for about 30 minutes to get them to the firm."
-- "Tip: Firstly, I cut the carrots and grated them before in the food processor, took me 2 mins. Secondly, I soaked the almonds for about two hours and peeled off the skin, dried them and chopped them in the food processor separately coz I didn't have the blanched almond flour. You could always get it from the store. Thirdly, I used regular granulated sugar, but if you want to make it extra healthy you can always use low-carb sweetener (erythritol)."
+- "Tip: Firstly, I cut the carrots and grated them before in the food processor, took me 2 mins. Secondly, I soaked the almonds for about two hours and peeled off the skin, dried them and chopped them in the food processor separately coz I didn&#39;t have the blanched almond flour. You could always get it from the store. Thirdly, I used regular granulated sugar, but if you want to make it extra healthy you can always use low-carb sweetener (erythritol)."
 - "You can also do a coating of coconut once you form the balls."
 categories:
 - Recipe
@@ -68,7 +68,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Take Pinch nutmeg
 
 
-If you haven't read our Ultimate Guide for how to make energy balls, check it out because. Leftover almond pump after making milk? These Almond Pulp Energy Balls are a perfect way to use that pulp up, with oats, lemon, maple syrup. Add the remaining ingredients and process until a dough forms and you can roll them easily into balls. 
+If you haven&#39;t read our Ultimate Guide for how to make energy balls, check it out because. Leftover almond pump after making milk? These Almond Pulp Energy Balls are a perfect way to use that pulp up, with oats, lemon, maple syrup. Add the remaining ingredients and process until a dough forms and you can roll them easily into balls. 
 
 <!--inarticleads2-->
 
@@ -76,7 +76,7 @@ If you haven't read our Ultimate Guide for how to make energy balls, check it ou
 
 1. Add all the ingredients together in a food processor and mix until combined.
 1. Form balls of 1 tbsp size pressed with your hands. Put in the fridge for about 30 minutes to get them to the firm.
-1. Tip: Firstly, I cut the carrots and grated them before in the food processor, took me 2 mins. Secondly, I soaked the almonds for about two hours and peeled off the skin, dried them and chopped them in the food processor separately coz I didn't have the blanched almond flour. You could always get it from the store. Thirdly, I used regular granulated sugar, but if you want to make it extra healthy you can always use low-carb sweetener (erythritol).
+1. Tip: Firstly, I cut the carrots and grated them before in the food processor, took me 2 mins. Secondly, I soaked the almonds for about two hours and peeled off the skin, dried them and chopped them in the food processor separately coz I didn&#39;t have the blanched almond flour. You could always get it from the store. Thirdly, I used regular granulated sugar, but if you want to make it extra healthy you can always use low-carb sweetener (erythritol).
 1. You can also do a coating of coconut once you form the balls.
 
 

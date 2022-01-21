@@ -18,7 +18,7 @@ recipeingredient:
 - " Oil for frying 23 tbsp per batch"
 recipeinstructions:
 - "Combine all ingredients. Mix well. Leave for five minutes or so."
-- "If it's too runny, add more flour. If it's too thick, add a bit of water."
+- "If it&#39;s too runny, add more flour. If it&#39;s too thick, add a bit of water."
 - "Heat oil in a pan. Scoop batter bit by bit and pan-fry until the color darkens."
 categories:
 - Recipe
@@ -67,7 +67,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can c
 ##### Instructions to make Carrot Fritters:
 
 1. Combine all ingredients. Mix well. Leave for five minutes or so.
-1. If it's too runny, add more flour. If it's too thick, add a bit of water.
+1. If it&#39;s too runny, add more flour. If it&#39;s too thick, add a bit of water.
 1. Heat oil in a pan. Scoop batter bit by bit and pan-fry until the color darkens.
 
 

@@ -78,6 +78,6 @@ Chinese inspired Speedy Five-Spice Pork with Noodles are really easy and quick t
 1. In the same skillet, add the ● seasonings and bring it to a boil.  Return the pork and coat quickly. Serve on a bed of shredded cabbage while they are still hot and enjoy.
 
 
-Serve the red curry pork over the seasoned rice and top with fresh lemon and basil. This is a fast-cooking dish, a bit like a stir-fry but with fabulous curry flavours. Use pork fillet if you can so it stays tender, and add a few extra stir-fry style vegetables if you wish. The lemon and herb rice is a. Hot contender for the best lentil recipe ever - creamy coconut Lentil Curry that's a streamlined version of Indian Dahl. 
+Serve the red curry pork over the seasoned rice and top with fresh lemon and basil. This is a fast-cooking dish, a bit like a stir-fry but with fabulous curry flavours. Use pork fillet if you can so it stays tender, and add a few extra stir-fry style vegetables if you wish. The lemon and herb rice is a. Hot contender for the best lentil recipe ever - creamy coconut Lentil Curry that&#39;s a streamlined version of Indian Dahl. 
 
 So that's going to wrap this up for this exceptional food curry flavored pork fillets recipe. Thank you very much for reading. I am confident that you can make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

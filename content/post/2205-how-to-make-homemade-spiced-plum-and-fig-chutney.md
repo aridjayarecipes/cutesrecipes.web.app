@@ -24,7 +24,7 @@ recipeingredient:
 - "1 Bay leaf"
 - "1/2 tsp Each salt and black pepper"
 recipeinstructions:
-- "Very finely chop the onion, add to a heavy base saucepan with a dash of olive oil and cook for 5 minutes to soften the onion, don't burn it!"
+- "Very finely chop the onion, add to a heavy base saucepan with a dash of olive oil and cook for 5 minutes to soften the onion, don&#39;t burn it!"
 - "Add the garlic, ginger and chilli, cook for further 5 minutes stirring so as not to burn the garlic or onion."
 - "Add all other ingredients to the pan, bring to a simmer and cook for 30-40 minutes, stirring frequently so it dosnt stick to the bottom."
 - "Taste it a few times during cooking and adjust to your own taste, mine was a bit sweet initially but a few more drops of vinegar and a pinch of pepper made it perfect."
@@ -83,7 +83,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 
 ##### Steps to make Spiced Plum And Fig Chutney:
 
-1. Very finely chop the onion, add to a heavy base saucepan with a dash of olive oil and cook for 5 minutes to soften the onion, don't burn it!
+1. Very finely chop the onion, add to a heavy base saucepan with a dash of olive oil and cook for 5 minutes to soften the onion, don&#39;t burn it!
 1. Add the garlic, ginger and chilli, cook for further 5 minutes stirring so as not to burn the garlic or onion.
 1. Add all other ingredients to the pan, bring to a simmer and cook for 30-40 minutes, stirring frequently so it dosnt stick to the bottom.
 1. Taste it a few times during cooking and adjust to your own taste, mine was a bit sweet initially but a few more drops of vinegar and a pinch of pepper made it perfect.

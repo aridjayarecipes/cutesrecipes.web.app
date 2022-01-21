@@ -42,12 +42,12 @@ recipeinstructions:
 - "Finely chop the garlic"
 - "Wash the cilantro and chop finely"
 - "In a pot on medium heat, add the ghee and saute the meat and until it has browned"
-- "Add the water or broth over the meat & bring to a boil for 6-8 mins"
+- "Add the water or broth over the meat &amp; bring to a boil for 6-8 mins"
 - "In another frying pan add the rest of the ghee, garlic and cilantro and saute until they brown lightly"
 - "Peel the tomatoes after removing the seeds, dice into small cubes"
 - "When the meat has cooked add the tomato paste, salt, pomegranate molasses and garlic sauce and leave the mixture to simmer on medium heat until the sauce thikens, stirring occasionaly"
 - "Add the tomatoes to the sauce and mix"
-- "Add the zucchini to the mixture & leave for 30 mins"
+- "Add the zucchini to the mixture &amp; leave for 30 mins"
 - "Add the okra to the mixture"
 - "Cook on low heat for another 25-30 mins (take care not to crush the okra while stirring)"
 - "Serve hot along side vermicelli rice"
@@ -74,7 +74,7 @@ Hello everybody, hope you're having an amazing day today. Today, I'm gonna show 
 
 Zucchini_okra is one of the most well liked of recent trending meals in the world. It's simple, it's quick, it tastes yummy. It is appreciated by millions every day. Zucchini_okra is something that I have loved my entire life. They're fine and they look fantastic.
 
-Your Okra Zucchini stock images are ready. Download all free or royalty-free photos and images. Use them in commercial designs under lifetime, perpetual & worldwide rights. Learn how to make Okra-Tomato-Zucchini Medley.
+Your Okra Zucchini stock images are ready. Download all free or royalty-free photos and images. Use them in commercial designs under lifetime, perpetual &amp; worldwide rights. Learn how to make Okra-Tomato-Zucchini Medley.
 
 
 To get started with this recipe, we have to first prepare a few components. You can cook zucchini_okra using 20 ingredients and 21 steps. Here is how you cook that.
@@ -101,11 +101,11 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Get 2 tablespoons tomato paste
 1. Get 4 tablespoons pomegranate molasses
 1. Make ready 3 tablespoons ghee or oil
-1. Take 1 teaspoon salt & pepper to taste
+1. Take 1 teaspoon salt &amp; pepper to taste
 1. Make ready  Vegetable oil (appropriate for frying the okra)
 
 
-Cornmeal and bread crumbs combine to make the perfect crispy crust for these Extra-Crunchy Fried Zucchini, Okra, & Green Tomatoes. Supercook clearly lists the ingredients each recipe uses, so you can find the perfect recipe quickly! Okra vs zucchini - where is more calories? View full nutritional breakdown of Zucchini, Okra, Red Onion saute calories by ingredient. 
+Cornmeal and bread crumbs combine to make the perfect crispy crust for these Extra-Crunchy Fried Zucchini, Okra, &amp; Green Tomatoes. Supercook clearly lists the ingredients each recipe uses, so you can find the perfect recipe quickly! Okra vs zucchini - where is more calories? View full nutritional breakdown of Zucchini, Okra, Red Onion saute calories by ingredient. 
 
 <!--inarticleads2-->
 
@@ -122,12 +122,12 @@ Cornmeal and bread crumbs combine to make the perfect crispy crust for these Ext
 1. Finely chop the garlic
 1. Wash the cilantro and chop finely
 1. In a pot on medium heat, add the ghee and saute the meat and until it has browned
-1. Add the water or broth over the meat & bring to a boil for 6-8 mins
+1. Add the water or broth over the meat &amp; bring to a boil for 6-8 mins
 1. In another frying pan add the rest of the ghee, garlic and cilantro and saute until they brown lightly
 1. Peel the tomatoes after removing the seeds, dice into small cubes
 1. When the meat has cooked add the tomato paste, salt, pomegranate molasses and garlic sauce and leave the mixture to simmer on medium heat until the sauce thikens, stirring occasionaly
 1. Add the tomatoes to the sauce and mix
-1. Add the zucchini to the mixture & leave for 30 mins
+1. Add the zucchini to the mixture &amp; leave for 30 mins
 1. Add the okra to the mixture
 1. Cook on low heat for another 25-30 mins (take care not to crush the okra while stirring)
 1. Serve hot along side vermicelli rice

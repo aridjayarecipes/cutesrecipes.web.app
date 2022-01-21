@@ -24,7 +24,7 @@ recipeingredient:
 recipeinstructions:
 - "Cube up chicken."
 - "In a large skillet on medium heat add chicken, onions and garlic."
-- "Cube up veggies. I added the Normandy for the zucchini and squash because I didn't have any on hand."
+- "Cube up veggies. I added the Normandy for the zucchini and squash because I didn&#39;t have any on hand."
 - "Add all veggies to skillet. Cover for 10 minutes."
 - "Add ⅓ cup water. Cover for another 5 mins."
 - "Add the paste and stir till everything is covered."
@@ -83,7 +83,7 @@ To get started with this particular recipe, we have to prepare a few components.
 
 1. Cube up chicken.
 1. In a large skillet on medium heat add chicken, onions and garlic.
-1. Cube up veggies. I added the Normandy for the zucchini and squash because I didn't have any on hand.
+1. Cube up veggies. I added the Normandy for the zucchini and squash because I didn&#39;t have any on hand.
 1. Add all veggies to skillet. Cover for 10 minutes.
 1. Add ⅓ cup water. Cover for another 5 mins.
 1. Add the paste and stir till everything is covered.

@@ -20,7 +20,7 @@ recipeingredient:
 - "1 tspoon black salt"
 recipeinstructions:
 - "Cut all fruits in small pieces.add dry fruit powder, powdered sugar, black salt.mix well, keep in refrigerator for ten minutes.and serve."
-- "When serve sprinkle cinnamon powder,it's optional.if you like you can add fresh malai also it tastes yum.you can skip sugar by honey but if you add honey,consume immediately."
+- "When serve sprinkle cinnamon powder,it&#39;s optional.if you like you can add fresh malai also it tastes yum.you can skip sugar by honey but if you add honey,consume immediately."
 categories:
 - Recipe
 tags:
@@ -45,7 +45,7 @@ Hello everybody, I hope you are having an incredible day today. Today, we're goi
 
 Mix fruit salad is one of the most favored of current trending meals in the world. It is simple, it's quick, it tastes delicious. It is appreciated by millions daily. Mix fruit salad is something that I have loved my whole life. They're fine and they look wonderful.
 
-Fruit Salad- Healthy Mix Fruit Salad-Colorful Fruit Salad. #mixfruitsalad #fruitsalad mix fruit salad Ramazan special. Fruit Mix Salad. this link is to an external site that may or may not meet accessibility guidelines. Fruit salad is a classic potluck contribution for a reason. It's easy to mix together a variety of fruits that will make a refreshing, flavorful side or dessert.
+Fruit Salad- Healthy Mix Fruit Salad-Colorful Fruit Salad. #mixfruitsalad #fruitsalad mix fruit salad Ramazan special. Fruit Mix Salad. this link is to an external site that may or may not meet accessibility guidelines. Fruit salad is a classic potluck contribution for a reason. It&#39;s easy to mix together a variety of fruits that will make a refreshing, flavorful side or dessert.
 
 
 To begin with this recipe, we must first prepare a few components. You can have mix fruit salad using 8 ingredients and 2 steps. Here is how you cook that.
@@ -71,9 +71,9 @@ Epilepsy is a condition that causes recurring seizures. Fruit salad is a dish co
 ##### Instructions to make Mix fruit salad:
 
 1. Cut all fruits in small pieces.add dry fruit powder, powdered sugar, black salt.mix well, keep in refrigerator for ten minutes.and serve.
-1. When serve sprinkle cinnamon powder,it's optional.if you like you can add fresh malai also it tastes yum.you can skip sugar by honey but if you add honey,consume immediately.
+1. When serve sprinkle cinnamon powder,it&#39;s optional.if you like you can add fresh malai also it tastes yum.you can skip sugar by honey but if you add honey,consume immediately.
 
 
-In different forms, fruit salad can be served as an appetizer, a side salad, or a dessert. Mix Fruit Salad Urdu Recipe, Step by step instructions of the recipe in Urdu and English, easy ingredients, calories, preparation time, serving and videos in Urdu cooking. Mix Fruit Salad Recipe is made of different type of fruit, lemon juice and apple juice, flavored with chopped mint leaves. We can make delicious and healthy salads using all these fruits. This fruit salad is a real "crowd pleaser" and tends to go fast. 
+In different forms, fruit salad can be served as an appetizer, a side salad, or a dessert. Mix Fruit Salad Urdu Recipe, Step by step instructions of the recipe in Urdu and English, easy ingredients, calories, preparation time, serving and videos in Urdu cooking. Mix Fruit Salad Recipe is made of different type of fruit, lemon juice and apple juice, flavored with chopped mint leaves. We can make delicious and healthy salads using all these fruits. This fruit salad is a real &#34;crowd pleaser&#34; and tends to go fast. 
 
 So that is going to wrap it up for this exceptional food mix fruit salad recipe. Thanks so much for your time. I'm sure that you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

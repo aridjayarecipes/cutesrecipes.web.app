@@ -62,7 +62,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Prepare 1 stick butter
 1. Get  marinade
 1. Prepare 1/4 cup red wine vinegar
-1. Get 1 tbsp Adolf 's meat tenderizer
+1. Get 1 tbsp Adolf &#39;s meat tenderizer
 1. Get 1 tbsp granulated garlic powder
 1. Get  finishing spice
 1. Take 1 fresh ground black pepper

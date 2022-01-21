@@ -68,6 +68,6 @@ Miso marinated and baked salmon is not only easy to make abut it tastes. This cl
 1. Bake salmon at 180°C for 12 mins
 
 
-Line the baking pan with aluminum foil or nonstick baking paper. If you like this miso salmon recipe, you will most likely also interested in the following related dishes on my blog Baked Miso Salmon for Humans or Cats. Baked miso salmon is the perfect meal to make when you're short on time or energy but still want a delicious and healthy dinner. This Japanese-inspired dish with miso, honey, and soy sauce pack a. Salmon fillets marinated in a mixture of miso, sake, and soy sauce, then cooked under the broiler. 
+Line the baking pan with aluminum foil or nonstick baking paper. If you like this miso salmon recipe, you will most likely also interested in the following related dishes on my blog Baked Miso Salmon for Humans or Cats. Baked miso salmon is the perfect meal to make when you&#39;re short on time or energy but still want a delicious and healthy dinner. This Japanese-inspired dish with miso, honey, and soy sauce pack a. Salmon fillets marinated in a mixture of miso, sake, and soy sauce, then cooked under the broiler. 
 
 So that is going to wrap it up for this special food baked miso salmon recipe. Thanks so much for your time. I'm sure you will make this at home. There is gonna be interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

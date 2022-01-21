@@ -23,7 +23,7 @@ recipeingredient:
 recipeinstructions:
 - "Toast the spices (turmeric, cumin and paprika) in a pan to enhance their flavors, place them in a bowl and mix together with Extra Virgin Olive Oil from Spain."
 - "Brush the fish with the mix of spices and season it."
-- "Heat a pan and brown the cod on the brushed side for 5 minutes. Before flipping it, brush the other side with the marinade and then brown it until it is cooked through, the time will depend on the fillet's thickness."
+- "Heat a pan and brown the cod on the brushed side for 5 minutes. Before flipping it, brush the other side with the marinade and then brown it until it is cooked through, the time will depend on the fillet&#39;s thickness."
 - "Dress the couscous with 1 tablespoon of Extra Virgin Olive Oil from Spain, the salt, the lemon juice and the chives."
 - "Serve the fish on a bed of couscous."
 - "Garnish with some minced chives and pomegranate seeds."
@@ -49,7 +49,7 @@ recipecategory: Lunch
 
 Hello everybody, it's Drew, welcome to our recipe page. Today, I'm gonna show you how to prepare a special dish, grilled cod with spiced marinade. It is one of my favorites food recipes. This time, I am going to make it a little bit unique. This is gonna smell and look delicious.
 
-Winning recipe from the Mediterranean Diet made with extra virgin olive oil from Spain! It's filled with nutrients and has the quality and benefits for good. Toast the spices (turmeric, cumin and paprika) in a pan to enhance their flavors, place them in a bowl and mix together with Extra Virgin Olive Oil from Spain. Before flipping it, brush the other side with the marinade and then brown it until it is cooked through, the time will depend on the fillet's thickness.
+Winning recipe from the Mediterranean Diet made with extra virgin olive oil from Spain! It&#39;s filled with nutrients and has the quality and benefits for good. Toast the spices (turmeric, cumin and paprika) in a pan to enhance their flavors, place them in a bowl and mix together with Extra Virgin Olive Oil from Spain. Before flipping it, brush the other side with the marinade and then brown it until it is cooked through, the time will depend on the fillet&#39;s thickness.
 
 Grilled cod with spiced marinade is one of the most popular of recent trending foods in the world. It's simple, it's quick, it tastes yummy. It's appreciated by millions every day. They are nice and they look wonderful. Grilled cod with spiced marinade is something which I have loved my whole life.
 
@@ -72,7 +72,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Prepare  pomegranate seeds for garnish
 
 
-The Best Grilled Cod Recipes on Yummly "sea" Grilled Cod, Grilled Cod In Foil Packets, Grilled Cod And Avocado Tacos. This search takes into account your taste preferences. Cod under the marinade of carrots and onions will be prepared from these products Vegetable dressing must be salted and spiced with spices. 
+The Best Grilled Cod Recipes on Yummly &#34;sea&#34; Grilled Cod, Grilled Cod In Foil Packets, Grilled Cod And Avocado Tacos. This search takes into account your taste preferences. Cod under the marinade of carrots and onions will be prepared from these products Vegetable dressing must be salted and spiced with spices. 
 
 <!--inarticleads2-->
 
@@ -80,7 +80,7 @@ The Best Grilled Cod Recipes on Yummly "sea" Grilled Cod, Grilled Cod In Foil Pa
 
 1. Toast the spices (turmeric, cumin and paprika) in a pan to enhance their flavors, place them in a bowl and mix together with Extra Virgin Olive Oil from Spain.
 1. Brush the fish with the mix of spices and season it.
-1. Heat a pan and brown the cod on the brushed side for 5 minutes. Before flipping it, brush the other side with the marinade and then brown it until it is cooked through, the time will depend on the fillet's thickness.
+1. Heat a pan and brown the cod on the brushed side for 5 minutes. Before flipping it, brush the other side with the marinade and then brown it until it is cooked through, the time will depend on the fillet&#39;s thickness.
 1. Dress the couscous with 1 tablespoon of Extra Virgin Olive Oil from Spain, the salt, the lemon juice and the chives.
 1. Serve the fish on a bed of couscous.
 1. Garnish with some minced chives and pomegranate seeds.

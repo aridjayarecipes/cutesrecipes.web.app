@@ -70,7 +70,7 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Get 250 g (I pack cooked freekeh)
 
 
-This colourful Freekeh Sweet and Spicy Warm salad combines roasted squash and sticky dates with a fragrant and spiced freekeh. Freekeh is a delightful young wheat with a nutty flavor and a toothy bite. Containing twice as much protein and fiber as If you like tabbouleh, you'll love this Freekeh Salad with Minted Sumac Dressing! This Freekeh Salad recipe is filled with flavor, protein, and lots of delightful ingredients. 
+This colourful Freekeh Sweet and Spicy Warm salad combines roasted squash and sticky dates with a fragrant and spiced freekeh. Freekeh is a delightful young wheat with a nutty flavor and a toothy bite. Containing twice as much protein and fiber as If you like tabbouleh, you&#39;ll love this Freekeh Salad with Minted Sumac Dressing! This Freekeh Salad recipe is filled with flavor, protein, and lots of delightful ingredients. 
 
 <!--inarticleads2-->
 
@@ -81,6 +81,6 @@ This colourful Freekeh Sweet and Spicy Warm salad combines roasted squash and st
 1. Add dressing and enjoy!
 
 
-Containing twice as much protein and fiber as If you like tabbouleh, you'll love this Freekeh Salad with Minted Sumac Dressing! This Freekeh Salad recipe is filled with flavor, protein, and lots of delightful ingredients. Freekeh is a grain commonly used in North African and Eastern Mediterranean dishes. This freekeh salad with a Mediterranean twist and tahini dressing makes a nice lunch or the perfect side to accompany grilled fish or chicken. All Reviews for Freekeh Salad with Tahini Dressing. 
+Containing twice as much protein and fiber as If you like tabbouleh, you&#39;ll love this Freekeh Salad with Minted Sumac Dressing! This Freekeh Salad recipe is filled with flavor, protein, and lots of delightful ingredients. Freekeh is a grain commonly used in North African and Eastern Mediterranean dishes. This freekeh salad with a Mediterranean twist and tahini dressing makes a nice lunch or the perfect side to accompany grilled fish or chicken. All Reviews for Freekeh Salad with Tahini Dressing. 
 
 So that's going to wrap this up for this exceptional food freekeh salad recipe. Thank you very much for reading. I am confident you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

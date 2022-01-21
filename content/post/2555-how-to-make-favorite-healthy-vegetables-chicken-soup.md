@@ -30,8 +30,8 @@ recipeingredient:
 - " Steamed LG Jasmine Rice"
 - " Bread Rolls"
 recipeinstructions:
-- "Marinade Chicken with lemon juice for 10'. In a large wok with 1/2 cup of oil, heated, add the chicken pieces and stir fry. Browned on both side, don't overcook and then remove, drain, set aside. Steam Potatoes for 20'. Remove set aside."
-- "Put 1/2 cup oil,fry onion till aroma then add ginger,garlic,mushrooms, capsicum,cardamoms&stir fry for 4 minutes,then add tomatoes,celery, carrots, lemon leaves&lemon rind.Mix all.Add 100ml or more water it depends on individue,1 cube chicken bouillon, salt, black pepper and mix all& let it boil.Add the cooked potatoes&cooked chicken&mix all together,then turn down the heat&simmer 5', cover with the lid on.Test the seasoning.When meat is tender,add the coriander leaves&mix, cook 1'.Turn off"
+- "Marinade Chicken with lemon juice for 10&#39;. In a large wok with 1/2 cup of oil, heated, add the chicken pieces and stir fry. Browned on both side, don&#39;t overcook and then remove, drain, set aside. Steam Potatoes for 20&#39;. Remove set aside."
+- "Put 1/2 cup oil,fry onion till aroma then add ginger,garlic,mushrooms, capsicum,cardamoms&amp;stir fry for 4 minutes,then add tomatoes,celery, carrots, lemon leaves&amp;lemon rind.Mix all.Add 100ml or more water it depends on individue,1 cube chicken bouillon, salt, black pepper and mix all&amp; let it boil.Add the cooked potatoes&amp;cooked chicken&amp;mix all together,then turn down the heat&amp;simmer 5&#39;, cover with the lid on.Test the seasoning.When meat is tender,add the coriander leaves&amp;mix, cook 1&#39;.Turn off"
 - "Discard the lemon leaves. Scoop out the soup onto a large deep bowl. To serve with a bowl of steamed Jasmine rice or with Bread Rolls"
 categories:
 - Recipe
@@ -67,7 +67,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 ##### The ingredients needed to make Healthy Vegetables Chicken Soup.🍜🐤🥕🍅🍄🍞:
 
 1. Get 6 chicken legs
-1. Prepare  Marinade with 1 Lemon juice for 10'
+1. Prepare  Marinade with 1 Lemon juice for 10&#39;
 1. Take 1/2 cup + 1/2 cup Rice Bran Oil for fry
 1. Take 1 Onion chopped finely
 1. Prepare 2 Garlic cloves, diced finely
@@ -78,11 +78,11 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 1. Prepare 1 fresh Tomatoes, chopped into chunk
 1. Prepare 1/2 Red Capsicum, sliced largely
 1. Prepare 2 Mushrooms Bottons, sliced
-1. Get 1 handful Coriander leaves&stalks,chopped them finely
+1. Get 1 handful Coriander leaves&amp;stalks,chopped them finely
 1. Get 1 Carrot, peeled, cut into chunk
 1. Make ready 3 Lemon/ kaffir lime leaves
-1. Prepare 2 Potatoes, peeled & cut into chunks
-1. Prepare 100 ml water from the kettle& 1cubed chicken stock
+1. Prepare 2 Potatoes, peeled &amp; cut into chunks
+1. Prepare 100 ml water from the kettle&amp; 1cubed chicken stock
 1. Make ready  Steamed LG Jasmine Rice
 1. Make ready  Bread Rolls
 
@@ -93,8 +93,8 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 ##### Steps to make Healthy Vegetables Chicken Soup.🍜🐤🥕🍅🍄🍞:
 
-1. Marinade Chicken with lemon juice for 10'. In a large wok with 1/2 cup of oil, heated, add the chicken pieces and stir fry. Browned on both side, don't overcook and then remove, drain, set aside. Steam Potatoes for 20'. Remove set aside.
-1. Put 1/2 cup oil,fry onion till aroma then add ginger,garlic,mushrooms, capsicum,cardamoms&stir fry for 4 minutes,then add tomatoes,celery, carrots, lemon leaves&lemon rind.Mix all.Add 100ml or more water it depends on individue,1 cube chicken bouillon, salt, black pepper and mix all& let it boil.Add the cooked potatoes&cooked chicken&mix all together,then turn down the heat&simmer 5', cover with the lid on.Test the seasoning.When meat is tender,add the coriander leaves&mix, cook 1'.Turn off
+1. Marinade Chicken with lemon juice for 10&#39;. In a large wok with 1/2 cup of oil, heated, add the chicken pieces and stir fry. Browned on both side, don&#39;t overcook and then remove, drain, set aside. Steam Potatoes for 20&#39;. Remove set aside.
+1. Put 1/2 cup oil,fry onion till aroma then add ginger,garlic,mushrooms, capsicum,cardamoms&amp;stir fry for 4 minutes,then add tomatoes,celery, carrots, lemon leaves&amp;lemon rind.Mix all.Add 100ml or more water it depends on individue,1 cube chicken bouillon, salt, black pepper and mix all&amp; let it boil.Add the cooked potatoes&amp;cooked chicken&amp;mix all together,then turn down the heat&amp;simmer 5&#39;, cover with the lid on.Test the seasoning.When meat is tender,add the coriander leaves&amp;mix, cook 1&#39;.Turn off
 1. Discard the lemon leaves. Scoop out the soup onto a large deep bowl. To serve with a bowl of steamed Jasmine rice or with Bread Rolls
 
 

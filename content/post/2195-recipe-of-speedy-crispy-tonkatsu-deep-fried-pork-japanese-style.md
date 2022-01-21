@@ -23,7 +23,7 @@ recipeinstructions:
 - "Seasoning with salt and pepper all over the pork."
 - "Coat the pork in flour, egg, and breadcrumbs in that order, and then fry with 170-180℃ oil Temperature for 5-6 minutes."
 - "Cut it into bite size and serve it with salt and lemon or sauce. BonAppetit (^O^)"
-- "My cooking video are available on YouTube, you can search "Coozy Life" if you like I would love you to have "Subscribe" and "Thumbs Up". Your supports will encourage me to make more interesting recipes in the future."
+- "My cooking video are available on YouTube, you can search &#34;Coozy Life&#34; if you like I would love you to have &#34;Subscribe&#34; and &#34;Thumbs Up&#34;. Your supports will encourage me to make more interesting recipes in the future."
 categories:
 - Recipe
 tags:
@@ -77,7 +77,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 1. Seasoning with salt and pepper all over the pork.
 1. Coat the pork in flour, egg, and breadcrumbs in that order, and then fry with 170-180℃ oil Temperature for 5-6 minutes.
 1. Cut it into bite size and serve it with salt and lemon or sauce. BonAppetit (^O^)
-1. My cooking video are available on YouTube, you can search "Coozy Life" if you like I would love you to have "Subscribe" and "Thumbs Up". Your supports will encourage me to make more interesting recipes in the future.
+1. My cooking video are available on YouTube, you can search &#34;Coozy Life&#34; if you like I would love you to have &#34;Subscribe&#34; and &#34;Thumbs Up&#34;. Your supports will encourage me to make more interesting recipes in the future.
 
 
 

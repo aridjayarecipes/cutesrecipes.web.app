@@ -24,7 +24,7 @@ recipeinstructions:
 - "First, cook garlic with mid-high heat."
 - "When garlic turned light brown add meat, cook another 2-3 mins. Then you add vegetables beside top of the nappa leaf. And cook another minute."
 - "Add water and cubes soup stock cook few more mins."
-- "Then add ginger and nappa top. Add salt & pepper to taste, if need any."
+- "Then add ginger and nappa top. Add salt &amp; pepper to taste, if need any."
 categories:
 - Recipe
 tags:
@@ -49,7 +49,7 @@ Hello everybody, hope you are having an incredible day today. Today, we're going
 
 Healthy stamina soup is one of the most popular of recent trending foods on earth. It's appreciated by millions daily. It is easy, it's quick, it tastes yummy. Healthy stamina soup is something which I have loved my entire life. They are nice and they look wonderful.
 
-Carrot•Pork (or whatever you prefer)• Broccoli or Cauliflower•Large leaf Nappa Cabbage•Chicken bouillon•mushrooms•Garlic (minced)•Ginger (minced). Loaches or mudfish may not be the first thing that come to mind when thinking of healthy food. But in Korea, when people are exhausted. Besides being great for athletes, it's a healthy winter soup, as the recipe includes chicken, coriander, garlic.
+Carrot•Pork (or whatever you prefer)• Broccoli or Cauliflower•Large leaf Nappa Cabbage•Chicken bouillon•mushrooms•Garlic (minced)•Ginger (minced). Loaches or mudfish may not be the first thing that come to mind when thinking of healthy food. But in Korea, when people are exhausted. Besides being great for athletes, it&#39;s a healthy winter soup, as the recipe includes chicken, coriander, garlic.
 
 
 To begin with this recipe, we must first prepare a few ingredients. You can have healthy stamina soup using 10 ingredients and 4 steps. Here is how you can achieve that.
@@ -67,7 +67,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can have
 1. Take 2 Tbs Ginger (minced)
 1. Get 3 Cubes Chicken bouillon
 1. Make ready 4 Cups Water
-1. Take to taste Salt & Pepper
+1. Take to taste Salt &amp; Pepper
 
 
 Stamina is the energy and strength needed to exert oneself for a longer period of time. The word commonly relates to the exertion used for physical activities such as exercise and sports. Dodges, kicks, blocks, and jumps all use Stamina and everyone The Adventure log journals also increase Max Stamina of all characters on your account once. This turtle soup puts most others to shame. 
@@ -79,7 +79,7 @@ Stamina is the energy and strength needed to exert oneself for a longer period o
 1. First, cook garlic with mid-high heat.
 1. When garlic turned light brown add meat, cook another 2-3 mins. Then you add vegetables beside top of the nappa leaf. And cook another minute.
 1. Add water and cubes soup stock cook few more mins.
-1. Then add ginger and nappa top. Add salt & pepper to taste, if need any.
+1. Then add ginger and nappa top. Add salt &amp; pepper to taste, if need any.
 
 
 Dodges, kicks, blocks, and jumps all use Stamina and everyone The Adventure log journals also increase Max Stamina of all characters on your account once. This turtle soup puts most others to shame. I put in emantic russula and stinkhorn but got rabage health instead. Warm up with this vegetarian minestrone soup! This classic minestrone soup recipe is healthy, easy to make, and tastes incredible. 

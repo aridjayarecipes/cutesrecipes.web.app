@@ -80,6 +80,6 @@ Pad Thai Noodles The Only Ingredient Is Black Rice Red Bell Pepper Shredded Carr
 1. Add little water and seasonings and cook until soft,enjoy
 
 
-Think carrots and vitamin A, citrus and vitamin C, nuts and vitamin E. Moringa leaves stick out as a superfood because one cup of chopped leaves is considered a good source of iron, calcium, vitamin C, vitamin. Organic Carrot Noodles is made with organic wheat flour, Carrot and Salt. In this video, you will be surprised to know how moringa can help fight cancer and Alzheimer's. Moringa oleifera, known as the drumstick tree, is a versatile plant belonging to the Moringaceae family. 
+Think carrots and vitamin A, citrus and vitamin C, nuts and vitamin E. Moringa leaves stick out as a superfood because one cup of chopped leaves is considered a good source of iron, calcium, vitamin C, vitamin. Organic Carrot Noodles is made with organic wheat flour, Carrot and Salt. In this video, you will be surprised to know how moringa can help fight cancer and Alzheimer&#39;s. Moringa oleifera, known as the drumstick tree, is a versatile plant belonging to the Moringaceae family. 
 
 So that's going to wrap it up with this exceptional food carrots and moringa noodles recipe. Thank you very much for your time. I am confident that you can make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

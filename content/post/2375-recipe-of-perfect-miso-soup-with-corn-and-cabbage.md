@@ -70,6 +70,6 @@ There are quite a few methods to make dashi. Japanese home cooks commonly use Aw
 1. After the ingredients are cooked,add the Miso and mix together.
 
 
-Miso soup (味噌汁, misoshiru) is a traditional Japanese soup consisting of a dashi stock into which softened miso paste is mixed. In addition, there are many optional ingredients. Today's miso soup is using such popular cabbage! Cabbage miso soup is a frequent treat in Japan for breakfast. It contains high content of vitamin E and oxidants due to fermented miso soybean paste and cabbage content. 
+Miso soup (味噌汁, misoshiru) is a traditional Japanese soup consisting of a dashi stock into which softened miso paste is mixed. In addition, there are many optional ingredients. Today&#39;s miso soup is using such popular cabbage! Cabbage miso soup is a frequent treat in Japan for breakfast. It contains high content of vitamin E and oxidants due to fermented miso soybean paste and cabbage content. 
 
 So that's going to wrap it up for this exceptional food miso soup with corn and cabbage recipe. Thank you very much for your time. I'm sure that you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

@@ -16,7 +16,7 @@ recipeingredient:
 - "1/2 tbsp roasted cumin powder"
 - "as needed Some mint  leaves"
 recipeinstructions:
-- "Firstly wash plums and cut separate it's seed"
+- "Firstly wash plums and cut separate it&#39;s seed"
 - "Take a big bowl add chopped plums and water.Blend with blender add sugar,salt, roasted cumin powder and mint leaves and again blend"
 - "Serve in glass and enjoy"
 categories:
@@ -58,17 +58,17 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Get as needed Some mint  leaves
 
 
-If you are bored of your usual milkshakes and smoothies, then try this delicious shake. Plum shake is one of the most popular of current trending foods on earth. It's easy, it is fast, it tastes delicious. Plum shake is something which I've loved my whole life. 
+If you are bored of your usual milkshakes and smoothies, then try this delicious shake. Plum shake is one of the most popular of current trending foods on earth. It&#39;s easy, it is fast, it tastes delicious. Plum shake is something which I&#39;ve loved my whole life. 
 
 <!--inarticleads2-->
 
 ##### Steps to make Plum shake:
 
-1. Firstly wash plums and cut separate it's seed
+1. Firstly wash plums and cut separate it&#39;s seed
 1. Take a big bowl add chopped plums and water.Blend with blender add sugar,salt, roasted cumin powder and mint leaves and again blend
 1. Serve in glass and enjoy
 
 
-It's easy, it is fast, it tastes delicious. Plum shake is something which I've loved my whole life. Download stock pictures of Plum milk shake on Depositphotos Photo stock for commercial use - millions of. Firstly wash plums and cut separate it 's seed. Take a big bowl add chopped plums and water. 
+It&#39;s easy, it is fast, it tastes delicious. Plum shake is something which I&#39;ve loved my whole life. Download stock pictures of Plum milk shake on Depositphotos Photo stock for commercial use - millions of. Firstly wash plums and cut separate it &#39;s seed. Take a big bowl add chopped plums and water. 
 
 So that's going to wrap it up for this special food plum shake recipe. Thank you very much for reading. I'm sure that you can make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

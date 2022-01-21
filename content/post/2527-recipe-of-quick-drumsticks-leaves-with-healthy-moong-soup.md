@@ -72,7 +72,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Make ready 1-2 tablespoon mustard oil
 
 
-Drumstick leaves on the other hand is known for its excellent source of nutrition and is natural energy booster. The leaves are taken out from the branches, washed and then used. The leaves are either stir fried Lowers Infection : A good bowl of drumstick soup will help to fight any infection or flu. This old-fashioned moong soup recipe is sure to bring back memories of momma's loving care. 
+Drumstick leaves on the other hand is known for its excellent source of nutrition and is natural energy booster. The leaves are taken out from the branches, washed and then used. The leaves are either stir fried Lowers Infection : A good bowl of drumstick soup will help to fight any infection or flu. This old-fashioned moong soup recipe is sure to bring back memories of momma&#39;s loving care. 
 
 <!--inarticleads2-->
 
@@ -82,6 +82,6 @@ Drumstick leaves on the other hand is known for its excellent source of nutritio
 1. Than add boiled dal with 2-3 cup water after it gets boiled add the drumstics leaves to it and serve it hot hot....
 
 
-The leaves are either stir fried Lowers Infection : A good bowl of drumstick soup will help to fight any infection or flu. This old-fashioned moong soup recipe is sure to bring back memories of momma's loving care. Guaranteed to rejuvenate you on a tiring day, this Chock-full of protein, iron and fibre, this healthy diabetic moong soup is made diabetic-friendly by using just a teaspoon of oil. This step is optional but soaking not only aids digestion but also reduces the. Want to know how to prepare drumstick leaves soup? 
+The leaves are either stir fried Lowers Infection : A good bowl of drumstick soup will help to fight any infection or flu. This old-fashioned moong soup recipe is sure to bring back memories of momma&#39;s loving care. Guaranteed to rejuvenate you on a tiring day, this Chock-full of protein, iron and fibre, this healthy diabetic moong soup is made diabetic-friendly by using just a teaspoon of oil. This step is optional but soaking not only aids digestion but also reduces the. Want to know how to prepare drumstick leaves soup? 
 
 So that is going to wrap this up with this special food drumsticks leaves with healthy moong soup recipe. Thank you very much for reading. I am confident that you will make this at home. There is gonna be interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

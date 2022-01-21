@@ -71,7 +71,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Take 1 cup uncooked rice
 
 
-Jambalaya (pronounced /ˌdʒʌmbəˈlaɪə/ or &lt;jum-buh-LIE-uh>) is a casserole-style dish of Spanish and French influence originating in Louisiana. Jambalaya is traditionally a one pot dish, with a variety of meats and seafood, vegetables, and spicy seasonings. If you prefer to bake your rice rather than. Jambalaya is a popular rice, meat, and vegetable dish enjoyed in the Southeast United States, especially Louisiana. 
+Jambalaya (pronounced /ˌdʒʌmbəˈlaɪə/ or &lt;jum-buh-LIE-uh&gt;) is a casserole-style dish of Spanish and French influence originating in Louisiana. Jambalaya is traditionally a one pot dish, with a variety of meats and seafood, vegetables, and spicy seasonings. If you prefer to bake your rice rather than. Jambalaya is a popular rice, meat, and vegetable dish enjoyed in the Southeast United States, especially Louisiana. 
 
 <!--inarticleads2-->
 

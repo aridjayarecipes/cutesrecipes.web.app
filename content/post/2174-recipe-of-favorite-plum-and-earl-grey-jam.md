@@ -19,9 +19,9 @@ recipeinstructions:
 - "Make a pot of tea using the tea bag and water. Leave it to brew for at least 15 minutes - you need it to be undrinkably strong."
 - "Place all the ingredients in a large pan and bring to a moderate boil."
 - "Simmer gently for about half an hour. Observe the beautiful jewel-like colours developing in your pan."
-- "Test the jam using Nigella's clever saucer method (test a teaspoonful on a cold saucer, place in fridge for 30 seconds, if the jam wrinkles when pushed by a finger the jam is set. If not repeat this process every 5 minutes until the jam wrinkles.)"
+- "Test the jam using Nigella&#39;s clever saucer method (test a teaspoonful on a cold saucer, place in fridge for 30 seconds, if the jam wrinkles when pushed by a finger the jam is set. If not repeat this process every 5 minutes until the jam wrinkles.)"
 - "Remove from the heat, then carefully pour the jam into sterilised jars (4 or so should do it, and I normally run jam jars through the dishwasher before drying them in a low oven - do this while the jam is cooking, removing your jar just before you need it.)"
-- "Seal, label and store. If your jam is reasonably well set you can leave it for quite some time - I have a jar a year old that's still good. Less well set jams should be stored in the fridge and eaten quickly."
+- "Seal, label and store. If your jam is reasonably well set you can leave it for quite some time - I have a jar a year old that&#39;s still good. Less well set jams should be stored in the fridge and eaten quickly."
 categories:
 - Recipe
 tags:
@@ -56,7 +56,7 @@ To begin with this recipe, we have to prepare a few components. You can have plu
 ##### The ingredients needed to make Plum and Earl Grey jam:
 
 1. Get 450 g plums, stoned and quartered
-1. Prepare 100 g caster sugar (you can use jam sugar but I'm not entirely convinced it's necessary)
+1. Prepare 100 g caster sugar (you can use jam sugar but I&#39;m not entirely convinced it&#39;s necessary)
 1. Make ready 1 lemon, juiced
 1. Get 1 Earl Grey tea bag
 1. Make ready 250 ml water
@@ -71,9 +71,9 @@ To begin with this recipe, we have to prepare a few components. You can have plu
 1. Make a pot of tea using the tea bag and water. Leave it to brew for at least 15 minutes - you need it to be undrinkably strong.
 1. Place all the ingredients in a large pan and bring to a moderate boil.
 1. Simmer gently for about half an hour. Observe the beautiful jewel-like colours developing in your pan.
-1. Test the jam using Nigella's clever saucer method (test a teaspoonful on a cold saucer, place in fridge for 30 seconds, if the jam wrinkles when pushed by a finger the jam is set. If not repeat this process every 5 minutes until the jam wrinkles.)
+1. Test the jam using Nigella&#39;s clever saucer method (test a teaspoonful on a cold saucer, place in fridge for 30 seconds, if the jam wrinkles when pushed by a finger the jam is set. If not repeat this process every 5 minutes until the jam wrinkles.)
 1. Remove from the heat, then carefully pour the jam into sterilised jars (4 or so should do it, and I normally run jam jars through the dishwasher before drying them in a low oven - do this while the jam is cooking, removing your jar just before you need it.)
-1. Seal, label and store. If your jam is reasonably well set you can leave it for quite some time - I have a jar a year old that's still good. Less well set jams should be stored in the fridge and eaten quickly.
+1. Seal, label and store. If your jam is reasonably well set you can leave it for quite some time - I have a jar a year old that&#39;s still good. Less well set jams should be stored in the fridge and eaten quickly.
 
 
 

@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Speedy Brad&#39;s baguette with tuna &amp; avocado tartare"
-title: "Recipe of Speedy Brad&#39;s baguette with tuna &amp; avocado tartare"
+description: "Recipe of Speedy Brad&amp;#39;s baguette with tuna &amp;amp; avocado tartare"
+title: "Recipe of Speedy Brad&amp;#39;s baguette with tuna &amp;amp; avocado tartare"
 slug: 2170-recipe-of-speedy-brad-and-39-s-baguette-with-tuna-and-amp-avocado-tartare
 date: 2021-11-24T17:23:46.614Z
 image: https://img-global.cpcdn.com/recipes/a72596757c6e815d/680x482cq70/brads-baguette-with-tuna-avocado-tartare-recipe-main-photo.jpg
@@ -44,20 +44,20 @@ recipecategory: Dinner
 ---
 
 
-![Brad's baguette with tuna & avocado tartare](https://img-global.cpcdn.com/recipes/a72596757c6e815d/680x482cq70/brads-baguette-with-tuna-avocado-tartare-recipe-main-photo.jpg)
+![Brad&#39;s baguette with tuna &amp; avocado tartare](https://img-global.cpcdn.com/recipes/a72596757c6e815d/680x482cq70/brads-baguette-with-tuna-avocado-tartare-recipe-main-photo.jpg)
 
-Hello everybody, I hope you're having an incredible day today. Today, we're going to make a special dish, brad's baguette with tuna & avocado tartare. One of my favorites. For mine, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
+Hello everybody, I hope you're having an incredible day today. Today, we're going to make a special dish, brad&#39;s baguette with tuna &amp; avocado tartare. One of my favorites. For mine, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
 
 Very tasty, with egg, tuna and cheese. Here is how you cook that. Spread with softened butter and toast until tops are golden brown. Canned tuna, anchovies, olives, tomatoes, onions and hard-boiled eggs are a few of the standard ingredients, but this sandwich can be a catchall for any others you might have around.
 
-Brad's baguette with tuna & avocado tartare is one of the most well liked of current trending foods on earth. It is simple, it is quick, it tastes yummy. It's appreciated by millions every day. They are nice and they look fantastic. Brad's baguette with tuna & avocado tartare is something that I've loved my whole life.
+Brad&#39;s baguette with tuna &amp; avocado tartare is one of the most well liked of current trending foods on earth. It is simple, it is quick, it tastes yummy. It's appreciated by millions every day. They are nice and they look fantastic. Brad&#39;s baguette with tuna &amp; avocado tartare is something that I've loved my whole life.
 
 
-To begin with this particular recipe, we must first prepare a few components. You can have brad's baguette with tuna & avocado tartare using 11 ingredients and 4 steps. Here is how you cook it.
+To begin with this particular recipe, we must first prepare a few components. You can have brad&#39;s baguette with tuna &amp; avocado tartare using 11 ingredients and 4 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Brad's baguette with tuna & avocado tartare:
+##### The ingredients needed to make Brad&#39;s baguette with tuna &amp; avocado tartare:
 
 1. Prepare 8 oz sushi grade tuna fillet
 1. Get 1 medium avocado
@@ -76,7 +76,7 @@ This search takes into account your taste preferences. Bread with Tuna Olive and
 
 <!--inarticleads2-->
 
-##### Steps to make Brad's baguette with tuna & avocado tartare:
+##### Steps to make Brad&#39;s baguette with tuna &amp; avocado tartare:
 
 1. I bought a take and bake baguette. Cook per instructions. If yours is ready omit this step.
 1. Slice baguette on a bias about 1/2 inch thick. Spread with softened butter and toast until tops are golden brown.
@@ -86,4 +86,4 @@ This search takes into account your taste preferences. Bread with Tuna Olive and
 
 Fresh Healthy Tuna Sandwich Baguette with Vegetables. Sandwiches in the woman is hand. Lamb lettuce salad with fried egg. Skip the traditional mayonnaise and sweetcorn in favour of punchy capers and olives, plus a smattering of fresh herbs. Butter both sides of the baguette, then top with the tuna filling and the cucumber slices. 
 
-So that is going to wrap it up for this special food brad's baguette with tuna & avocado tartare recipe. Thank you very much for your time. I am sure you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!
+So that is going to wrap it up for this special food brad&#39;s baguette with tuna &amp; avocado tartare recipe. Thank you very much for your time. I am sure you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

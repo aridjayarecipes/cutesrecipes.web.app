@@ -31,7 +31,7 @@ recipeinstructions:
 - "Brush a cake tin with oil and pour the mixture in it"
 - "Sprinkle rest of the walnut on top of it."
 - "Bake it at 165C for 55-60 min"
-- "Take the tin out and check by inserting a knife. If it comes out clean then, it's done."
+- "Take the tin out and check by inserting a knife. If it comes out clean then, it&#39;s done."
 - "Wait for 5 min, then take the bread out. Allow it to cool on wire rack for about 60 min."
 - "Slice or cut it the way you want. It can be stored in the fridge for upto a week though I doubt it will last that long 😊"
 categories:
@@ -95,7 +95,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook wh
 1. Brush a cake tin with oil and pour the mixture in it
 1. Sprinkle rest of the walnut on top of it.
 1. Bake it at 165C for 55-60 min
-1. Take the tin out and check by inserting a knife. If it comes out clean then, it's done.
+1. Take the tin out and check by inserting a knife. If it comes out clean then, it&#39;s done.
 1. Wait for 5 min, then take the bread out. Allow it to cool on wire rack for about 60 min.
 1. Slice or cut it the way you want. It can be stored in the fridge for upto a week though I doubt it will last that long 😊
 

@@ -1,6 +1,6 @@
 ---
-description: "How to Prepare Ultimate Banana Fritters with Sweet &amp; Spicy Soy Sauce Dip"
-title: "How to Prepare Ultimate Banana Fritters with Sweet &amp; Spicy Soy Sauce Dip"
+description: "How to Prepare Ultimate Banana Fritters with Sweet &amp;amp; Spicy Soy Sauce Dip"
+title: "How to Prepare Ultimate Banana Fritters with Sweet &amp;amp; Spicy Soy Sauce Dip"
 slug: 2489-how-to-prepare-ultimate-banana-fritters-with-sweet-and-amp-spicy-soy-sauce-dip
 date: 2021-10-28T13:01:57.135Z
 image: https://img-global.cpcdn.com/recipes/0b06ac8f44e387de/680x482cq70/banana-fritters-with-sweet-spicy-soy-sauce-dip-recipe-main-photo.jpg
@@ -60,20 +60,20 @@ recipecategory: Dessert
 ---
 
 
-![Banana Fritters with Sweet & Spicy Soy Sauce Dip](https://img-global.cpcdn.com/recipes/0b06ac8f44e387de/680x482cq70/banana-fritters-with-sweet-spicy-soy-sauce-dip-recipe-main-photo.jpg)
+![Banana Fritters with Sweet &amp; Spicy Soy Sauce Dip](https://img-global.cpcdn.com/recipes/0b06ac8f44e387de/680x482cq70/banana-fritters-with-sweet-spicy-soy-sauce-dip-recipe-main-photo.jpg)
 
-Hello everybody, it is Drew, welcome to our recipe page. Today, I'm gonna show you how to make a special dish, banana fritters with sweet & spicy soy sauce dip. It is one of my favorites food recipes. For mine, I will make it a bit tasty. This will be really delicious.
-
-
-
-Banana Fritters with Sweet & Spicy Soy Sauce Dip is one of the most favored of current trending foods on earth. It is simple, it's quick, it tastes yummy. It is enjoyed by millions every day. They are nice and they look fantastic. Banana Fritters with Sweet & Spicy Soy Sauce Dip is something that I've loved my whole life.
+Hello everybody, it is Drew, welcome to our recipe page. Today, I'm gonna show you how to make a special dish, banana fritters with sweet &amp; spicy soy sauce dip. It is one of my favorites food recipes. For mine, I will make it a bit tasty. This will be really delicious.
 
 
-To get started with this recipe, we must first prepare a few ingredients. You can have banana fritters with sweet & spicy soy sauce dip using 26 ingredients and 5 steps. Here is how you can achieve it.
+
+Banana Fritters with Sweet &amp; Spicy Soy Sauce Dip is one of the most favored of current trending foods on earth. It is simple, it's quick, it tastes yummy. It is enjoyed by millions every day. They are nice and they look fantastic. Banana Fritters with Sweet &amp; Spicy Soy Sauce Dip is something that I've loved my whole life.
+
+
+To get started with this recipe, we must first prepare a few ingredients. You can have banana fritters with sweet &amp; spicy soy sauce dip using 26 ingredients and 5 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Banana Fritters with Sweet & Spicy Soy Sauce Dip:
+##### The ingredients needed to make Banana Fritters with Sweet &amp; Spicy Soy Sauce Dip:
 
 1. Make ready  A. 6 Bananas - sliced
 1. Make ready  B. The Batter (See Notes)
@@ -107,7 +107,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 <!--inarticleads2-->
 
-##### Steps to make Banana Fritters with Sweet & Spicy Soy Sauce Dip:
+##### Steps to make Banana Fritters with Sweet &amp; Spicy Soy Sauce Dip:
 
 1. See pic below for Sweet and Dark Soy Sauce we usually use.
 1. A. Bananas - Peel and cut bananas diagonally with 1.5 inch thickness.
@@ -118,4 +118,4 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 
 
-So that's going to wrap this up for this exceptional food banana fritters with sweet & spicy soy sauce dip recipe. Thanks so much for reading. I'm sure you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!
+So that's going to wrap this up for this exceptional food banana fritters with sweet &amp; spicy soy sauce dip recipe. Thanks so much for reading. I'm sure you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -50,7 +50,7 @@ Hey everyone, it is Brad, welcome to our recipe site. Today, I'm gonna show you 
 
 Paella is one of the most popular of current trending foods on earth. It is enjoyed by millions every day. It's easy, it's fast, it tastes delicious. Paella is something which I've loved my whole life. They are fine and they look wonderful.
 
-Paella is a rice dish originally from Valencia. For this reason, many non-Spaniards view it as Spain's national dish, but Spaniards almost unanimously consider it to be a dish from the Valencian region. Valencians, in turn, regard paella as one of their identifying symbols. Паэлья с морепродуктами (Paella Marinera). Paella is, without a doubt, the indisputable queen of all dining in Spain, since it is one of the dishes that, while not As happens with many other recipes, both Spanish and international, paella, while a.
+Paella is a rice dish originally from Valencia. For this reason, many non-Spaniards view it as Spain&#39;s national dish, but Spaniards almost unanimously consider it to be a dish from the Valencian region. Valencians, in turn, regard paella as one of their identifying symbols. Паэлья с морепродуктами (Paella Marinera). Paella is, without a doubt, the indisputable queen of all dining in Spain, since it is one of the dishes that, while not As happens with many other recipes, both Spanish and international, paella, while a.
 
 
 To begin with this recipe, we must first prepare a few ingredients. You can cook paella using 14 ingredients and 3 steps. Here is how you cook it.
@@ -86,6 +86,6 @@ Serve up a fragrant paella to feed a crowd. Serve up a fragrant paella to feed a
 1. add the rest
 
 
-This classic Spanish rice dish usually contains seafood, but we also have meat, veggie and mixed versions. Nourishing, vibrant, and without pretension, paella has held a place of honor and practicality in Spanish homes for centuries. Borrowed from Spanish paella, from Catalan paella ("pot; pan"), from Old French paelle, from Latin patella ("plate, small pan"). Doublet of patella and possibly pail. (UK) IPA(key): /paɪˈ(j)ɛlə/, /pɑːˈɛ.(j)ə/. (US) IPA(key): /pɑːˈeɪ.(j)ə/, /paɪˈ(j)eɪ.(j)ə/. Purists, nonconformists and opportunists alike will tell you how paella is really done, but that's But today there's a war over paella that boils down to personal preference. 
+This classic Spanish rice dish usually contains seafood, but we also have meat, veggie and mixed versions. Nourishing, vibrant, and without pretension, paella has held a place of honor and practicality in Spanish homes for centuries. Borrowed from Spanish paella, from Catalan paella (&#34;pot; pan&#34;), from Old French paelle, from Latin patella (&#34;plate, small pan&#34;). Doublet of patella and possibly pail. (UK) IPA(key): /paɪˈ(j)ɛlə/, /pɑːˈɛ.(j)ə/. (US) IPA(key): /pɑːˈeɪ.(j)ə/, /paɪˈ(j)eɪ.(j)ə/. Purists, nonconformists and opportunists alike will tell you how paella is really done, but that&#39;s But today there&#39;s a war over paella that boils down to personal preference. 
 
 So that is going to wrap it up with this exceptional food paella recipe. Thanks so much for your time. I'm sure you will make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

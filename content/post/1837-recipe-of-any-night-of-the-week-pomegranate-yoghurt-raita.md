@@ -16,7 +16,7 @@ recipeingredient:
 - "1/2 tsp roasted cumin powder"
 - "1 Pomegranate"
 recipeinstructions:
-- "Peel off Pomegranate, keep 2 tbsp granules aside and two tbsp of rash juice. Take a serving bowl pour yoghurt and combine all ingredients except Pomegranate. Mix well. Now mix Pomegranate juice & garnish with Pomegranate granules. Ready to serve it's chilled or normally. Enjoy!!"
+- "Peel off Pomegranate, keep 2 tbsp granules aside and two tbsp of rash juice. Take a serving bowl pour yoghurt and combine all ingredients except Pomegranate. Mix well. Now mix Pomegranate juice &amp; garnish with Pomegranate granules. Ready to serve it&#39;s chilled or normally. Enjoy!!"
 categories:
 - Recipe
 tags:
@@ -63,7 +63,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 
 ##### Steps to make Pomegranate- Yoghurt Raita:
 
-1. Peel off Pomegranate, keep 2 tbsp granules aside and two tbsp of rash juice. Take a serving bowl pour yoghurt and combine all ingredients except Pomegranate. Mix well. Now mix Pomegranate juice & garnish with Pomegranate granules. Ready to serve it's chilled or normally. Enjoy!!
+1. Peel off Pomegranate, keep 2 tbsp granules aside and two tbsp of rash juice. Take a serving bowl pour yoghurt and combine all ingredients except Pomegranate. Mix well. Now mix Pomegranate juice &amp; garnish with Pomegranate granules. Ready to serve it&#39;s chilled or normally. Enjoy!!
 
 
 

@@ -17,7 +17,7 @@ recipeinstructions:
 - "Halve both the Brussels sprouts and garlic lengthwise."
 - "In a small frying pan, heat butter and garlic on low heat with the cut-side of the garlic facing down. When the butter melts and the garlic becomes fragrant, add the Brussels sprouts, also cut-side down. Cover with a lid and steam cook on medium heat."
 - "After 2 minutes, remove the lid, turn over the brussels sprouts, reduce to low heat, cover again, and roast for 3 more minutes. After they are done cooking, season with salt and pepper, briskly sauté, then serve."
-- "Regarding the strength of the heat Brussels sprouts are easy to burn. In our home, we use an induction heating range. I gave the heat strengths as reference, but keep your eye on the pan and adjust the heat accordingly. A nice, crisp brown is good, but make sure it doesn't burn."
+- "Regarding the strength of the heat Brussels sprouts are easy to burn. In our home, we use an induction heating range. I gave the heat strengths as reference, but keep your eye on the pan and adjust the heat accordingly. A nice, crisp brown is good, but make sure it doesn&#39;t burn."
 categories:
 - Recipe
 tags:
@@ -65,7 +65,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Halve both the Brussels sprouts and garlic lengthwise.
 1. In a small frying pan, heat butter and garlic on low heat with the cut-side of the garlic facing down. When the butter melts and the garlic becomes fragrant, add the Brussels sprouts, also cut-side down. Cover with a lid and steam cook on medium heat.
 1. After 2 minutes, remove the lid, turn over the brussels sprouts, reduce to low heat, cover again, and roast for 3 more minutes. After they are done cooking, season with salt and pepper, briskly sauté, then serve.
-1. Regarding the strength of the heat Brussels sprouts are easy to burn. In our home, we use an induction heating range. I gave the heat strengths as reference, but keep your eye on the pan and adjust the heat accordingly. A nice, crisp brown is good, but make sure it doesn't burn.
+1. Regarding the strength of the heat Brussels sprouts are easy to burn. In our home, we use an induction heating range. I gave the heat strengths as reference, but keep your eye on the pan and adjust the heat accordingly. A nice, crisp brown is good, but make sure it doesn&#39;t burn.
 
 
 

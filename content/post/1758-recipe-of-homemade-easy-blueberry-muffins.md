@@ -26,7 +26,7 @@ recipeinstructions:
 - "Create flax egg by combining flax meal and hot water; let gel"
 - "Mix flour, sugar, baking powder, and salt in main mixing bowl"
 - "Add oil, milk, and vanilla to flax egg and whisk"
-- "Add liquid to dry ingredients and gently stir manually e.g. with a fork (don't beat!)"
+- "Add liquid to dry ingredients and gently stir manually e.g. with a fork (don&#39;t beat!)"
 - "Fold in blueberries"
 - "Get muffin sheet ready by either lining with cute paper cups or greasing silicon or metal forms"
 - "Fill dough into forms (optional:) and sprinkle with crocant"
@@ -90,7 +90,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Create flax egg by combining flax meal and hot water; let gel
 1. Mix flour, sugar, baking powder, and salt in main mixing bowl
 1. Add oil, milk, and vanilla to flax egg and whisk
-1. Add liquid to dry ingredients and gently stir manually e.g. with a fork (don't beat!)
+1. Add liquid to dry ingredients and gently stir manually e.g. with a fork (don&#39;t beat!)
 1. Fold in blueberries
 1. Get muffin sheet ready by either lining with cute paper cups or greasing silicon or metal forms
 1. Fill dough into forms (optional:) and sprinkle with crocant

@@ -25,7 +25,7 @@ recipeingredient:
 - "1 tsp sriracha"
 - "1.5-2 tbs GF Soy sauce our soy sauce of your choice"
 recipeinstructions:
-- "SALMON** mox sauce ingredients tigether in a a bowl then pour the sauce over the salmon, place in 350⁰F oven and bake for 25-30 min. LITERALLY THAT'S ALL!!"
+- "SALMON** mox sauce ingredients tigether in a a bowl then pour the sauce over the salmon, place in 350⁰F oven and bake for 25-30 min. LITERALLY THAT&#39;S ALL!!"
 - "PINEAPPLE FRIED RICE** In a deep pan or wok, heat up 2 tsp olive oil. Add your rice and press flat into pan (to develop that crust on the bottom."
 - "Add all of your other ingredients and mix together. Then add your sriracha and soy sauce. Mix all together and cook for 10-15 min until all flavors come together."
 - "Serve with tour fave veggies!♡"
@@ -66,7 +66,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Prepare 2 tbs GF Soy sauce (or soy sauce of choice)
 1. Make ready 1 tbs sugar
 1. Take 1.5 tsp rice wine vinegar
-1. Make ready  Juice from canned pineapple (you'll use the pineapple for rice)
+1. Make ready  Juice from canned pineapple (you&#39;ll use the pineapple for rice)
 1. Make ready 1 tsp corn starch
 1. Make ready 4 salmon fillets, boneless, skinless
 1. Take  Fried Rice
@@ -84,7 +84,7 @@ To get started with this recipe, we must first prepare a few components. You can
 
 ##### Steps to make Salmon Teriyaki with Pineapple Fried Rice:
 
-1. SALMON** mox sauce ingredients tigether in a a bowl then pour the sauce over the salmon, place in 350⁰F oven and bake for 25-30 min. LITERALLY THAT'S ALL!!
+1. SALMON** mox sauce ingredients tigether in a a bowl then pour the sauce over the salmon, place in 350⁰F oven and bake for 25-30 min. LITERALLY THAT&#39;S ALL!!
 1. PINEAPPLE FRIED RICE** In a deep pan or wok, heat up 2 tsp olive oil. Add your rice and press flat into pan (to develop that crust on the bottom.
 1. Add all of your other ingredients and mix together. Then add your sriracha and soy sauce. Mix all together and cook for 10-15 min until all flavors come together.
 1. Serve with tour fave veggies!♡

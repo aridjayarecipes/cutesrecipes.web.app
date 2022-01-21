@@ -63,7 +63,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Take 2 spoon Butter
 
 
-That's how I feel about this Secretly Healthy Potato Soup. Broccoli potato soup is warming, nourishing and delicious! Chunks of potato, carrot, broccoli and white beans together with a rich and creamy broth. With healthy breakfast soup recipes like this one, you won't struggle with hunger later in the day because it's very filling. 
+That&#39;s how I feel about this Secretly Healthy Potato Soup. Broccoli potato soup is warming, nourishing and delicious! Chunks of potato, carrot, broccoli and white beans together with a rich and creamy broth. With healthy breakfast soup recipes like this one, you won&#39;t struggle with hunger later in the day because it&#39;s very filling. 
 
 <!--inarticleads2-->
 
@@ -74,6 +74,6 @@ That's how I feel about this Secretly Healthy Potato Soup. Broccoli potato soup 
 1. In last add potato or cream mix well ready to serve.
 
 
-Chunks of potato, carrot, broccoli and white beans together with a rich and creamy broth. With healthy breakfast soup recipes like this one, you won't struggle with hunger later in the day because it's very filling. While the above healthy breakfast soup recipes make for great breakfast meals, you can eat them in any other meal. Healthy Slow Cooker Chicken Potato Soup A Spicy Exactly how it that for range? Check out these remarkable Is Potato Soup Healthy as well as let us know what you think. 
+Chunks of potato, carrot, broccoli and white beans together with a rich and creamy broth. With healthy breakfast soup recipes like this one, you won&#39;t struggle with hunger later in the day because it&#39;s very filling. While the above healthy breakfast soup recipes make for great breakfast meals, you can eat them in any other meal. Healthy Slow Cooker Chicken Potato Soup A Spicy Exactly how it that for range? Check out these remarkable Is Potato Soup Healthy as well as let us know what you think. 
 
 So that's going to wrap it up with this special food potato soup healthy breakfast recipe. Thanks so much for your time. I am sure you can make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

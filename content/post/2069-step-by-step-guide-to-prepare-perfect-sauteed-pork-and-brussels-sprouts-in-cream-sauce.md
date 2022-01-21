@@ -52,7 +52,7 @@ Hey everyone, it's John, welcome to my recipe page. Today, we're going to make a
 
 Sauteed pork and brussels sprouts in cream sauce is one of the most popular of recent trending meals in the world. It's simple, it is fast, it tastes delicious. It is appreciated by millions daily. Sauteed pork and brussels sprouts in cream sauce is something which I've loved my whole life. They're fine and they look fantastic.
 
-Bacon fat sautéed brussels sprouts are semi-braised in a carbonara-esque creamy sauce, and then finished with a sprinkle of crispy bacon. You'll love how the brussels sprouts act like a sponge so when you bite into them, and all that creamy sauce squirts into your mouth! You can clean the Brussels sprouts and peel and cut shallots the day before making this dish. Note: A pan with a wide, flat bottom, such as a skillet, will reduce a liquid much faster than a high-sided saucepan.
+Bacon fat sautéed brussels sprouts are semi-braised in a carbonara-esque creamy sauce, and then finished with a sprinkle of crispy bacon. You&#39;ll love how the brussels sprouts act like a sponge so when you bite into them, and all that creamy sauce squirts into your mouth! You can clean the Brussels sprouts and peel and cut shallots the day before making this dish. Note: A pan with a wide, flat bottom, such as a skillet, will reduce a liquid much faster than a high-sided saucepan.
 
 
 To get started with this particular recipe, we have to prepare a few ingredients. You can cook sauteed pork and brussels sprouts in cream sauce using 12 ingredients and 5 steps. Here is how you cook it.
@@ -75,7 +75,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Make ready 8 oz sour cream
 
 
-But it takes a special, international inclination to make the case for kielbasa with Brussels sprouts, white beans, and mustard. I'll tell you that it works. Sauteed brussels sprouts are delicious when shredded and sautéed with pancetta (or bacon), garlic and oil. If you don't think you like Brussels sprouts, I challenge you to try these! 
+But it takes a special, international inclination to make the case for kielbasa with Brussels sprouts, white beans, and mustard. I&#39;ll tell you that it works. Sauteed brussels sprouts are delicious when shredded and sautéed with pancetta (or bacon), garlic and oil. If you don&#39;t think you like Brussels sprouts, I challenge you to try these! 
 
 <!--inarticleads2-->
 
@@ -88,6 +88,6 @@ But it takes a special, international inclination to make the case for kielbasa 
 1. In a small bowl, mix the remaining ingredients. Cook in pan 2 minutes or until bubbley. Add sprouts and chops to pan. Coat food in sauce and serve.
 
 
-Sauteed brussels sprouts are delicious when shredded and sautéed with pancetta (or bacon), garlic and oil. If you don't think you like Brussels sprouts, I challenge you to try these! Other Brussels sprouts recipes you might enjoy are Brussels Sprouts Gratin, Buffalo Brussels Sprouts with. Turn fresh Brussels sprouts into an amazingly smooth and satisfying soup with this easy recipe of sprouts, shallots, chicken broth and celery. Add the chopped Brussels sprouts and stir to combine. 
+Sauteed brussels sprouts are delicious when shredded and sautéed with pancetta (or bacon), garlic and oil. If you don&#39;t think you like Brussels sprouts, I challenge you to try these! Other Brussels sprouts recipes you might enjoy are Brussels Sprouts Gratin, Buffalo Brussels Sprouts with. Turn fresh Brussels sprouts into an amazingly smooth and satisfying soup with this easy recipe of sprouts, shallots, chicken broth and celery. Add the chopped Brussels sprouts and stir to combine. 
 
 So that's going to wrap this up with this special food sauteed pork and brussels sprouts in cream sauce recipe. Thank you very much for reading. I am confident you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

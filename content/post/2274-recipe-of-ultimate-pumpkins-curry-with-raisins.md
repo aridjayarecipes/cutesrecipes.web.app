@@ -64,7 +64,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Get 1/2 Onion
 1. Prepare 1 Clove Garlic
 1. Make ready 2 tbsps Curry Powder
-1. Make ready  Salt & Sugar for taste
+1. Make ready  Salt &amp; Sugar for taste
 1. Get 1/2 tsp ground black pepper
 1. Prepare 1/2 chicken broth
 1. Prepare 2 tbsps Raisin

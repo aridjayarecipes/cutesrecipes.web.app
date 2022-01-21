@@ -65,7 +65,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Take 1/2 tsp gound black pepper
 
 
-It's sure to be a crowd pleaser. This Creamy Brussels Sprouts with Bacon recipe has all the flavors- savory Brussels sprouts, sweet onion and salty bacon, all in a rich creamy sauce. It's a perfect holiday side, but it's so easy you could make it on a regular weeknight, too! Transfer ½ to a plate and set aside. 
+It&#39;s sure to be a crowd pleaser. This Creamy Brussels Sprouts with Bacon recipe has all the flavors- savory Brussels sprouts, sweet onion and salty bacon, all in a rich creamy sauce. It&#39;s a perfect holiday side, but it&#39;s so easy you could make it on a regular weeknight, too! Transfer ½ to a plate and set aside. 
 
 <!--inarticleads2-->
 
@@ -78,6 +78,6 @@ It's sure to be a crowd pleaser. This Creamy Brussels Sprouts with Bacon recipe 
 1. Top with crumbled bacon just before serving. Delicious!
 
 
-It's a perfect holiday side, but it's so easy you could make it on a regular weeknight, too! Transfer ½ to a plate and set aside. Remove from the heat and stir through the Parmesan and butter; season to taste. Brussels sprouts and eggs may seem like a surprising combination, but in this classy version of poached eggs on toast they make a perfect pair. This side dish recipe is a crowd-pleaser, proving that everything is better with crisp peppered bacon and thick whipping cream. 
+It&#39;s a perfect holiday side, but it&#39;s so easy you could make it on a regular weeknight, too! Transfer ½ to a plate and set aside. Remove from the heat and stir through the Parmesan and butter; season to taste. Brussels sprouts and eggs may seem like a surprising combination, but in this classy version of poached eggs on toast they make a perfect pair. This side dish recipe is a crowd-pleaser, proving that everything is better with crisp peppered bacon and thick whipping cream. 
 
 So that's going to wrap this up with this exceptional food creamy bacon brussels sprouts recipe. Thanks so much for your time. I am sure that you can make this at home. There is gonna be more interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

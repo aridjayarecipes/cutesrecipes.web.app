@@ -61,7 +61,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Prepare 1/2 red onion
 1. Get 1/4 green pepper
 1. Get 4 eggs
-1. Get to taste Salt & pepper
+1. Get to taste Salt &amp; pepper
 1. Prepare 2 Tbsp olive oil
 1. Take 1 Tbsp minced garlic
 1. Make ready  chopped cilantro

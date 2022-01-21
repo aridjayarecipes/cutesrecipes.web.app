@@ -25,7 +25,7 @@ recipeingredient:
 - "1/2 tsp. each oregano smoked paprika salt and pepper"
 - "1/2 cup freshly shredded cheese"
 recipeinstructions:
-- "Heat the oil in a large skillet with a tight fitting lid over medium heat. Once it's hot, add the onion, peppers and corn kernels. Cook, stirring occasionally, for 3-5 minutes until the onions and peppers begin to soften and the corn has some color on it."
+- "Heat the oil in a large skillet with a tight fitting lid over medium heat. Once it&#39;s hot, add the onion, peppers and corn kernels. Cook, stirring occasionally, for 3-5 minutes until the onions and peppers begin to soften and the corn has some color on it."
 - "Increase the heat up to med-high. Stir in the garlic, zucchini, diced tomatoes, drained beans and seasonings. Give it all a stir. Once the garlic and seasonings are fragrant, add the rice and stir it around for a minute to toast it a bit."
 - "Pour in the vegetable broth and once it reaches a boil, place the lid on. Turn down the heat to med-low, and simmer for 10 minutes. Then turn the heat off, but leave the lid on and let it sit for 5 more minutes."
 - "After it sits, check it. The liquid should be pretty much absorbed. Sprinkle the cheese over the top and place the lid back on for another 2 or so minutes, until the cheese melts. Then serve it up."
@@ -84,7 +84,7 @@ To begin with this recipe, we must prepare a few components. You can have black 
 
 ##### Steps to make Black Bean and Rice Skillet:
 
-1. Heat the oil in a large skillet with a tight fitting lid over medium heat. Once it's hot, add the onion, peppers and corn kernels. Cook, stirring occasionally, for 3-5 minutes until the onions and peppers begin to soften and the corn has some color on it.
+1. Heat the oil in a large skillet with a tight fitting lid over medium heat. Once it&#39;s hot, add the onion, peppers and corn kernels. Cook, stirring occasionally, for 3-5 minutes until the onions and peppers begin to soften and the corn has some color on it.
 1. Increase the heat up to med-high. Stir in the garlic, zucchini, diced tomatoes, drained beans and seasonings. Give it all a stir. Once the garlic and seasonings are fragrant, add the rice and stir it around for a minute to toast it a bit.
 1. Pour in the vegetable broth and once it reaches a boil, place the lid on. Turn down the heat to med-low, and simmer for 10 minutes. Then turn the heat off, but leave the lid on and let it sit for 5 more minutes.
 1. After it sits, check it. The liquid should be pretty much absorbed. Sprinkle the cheese over the top and place the lid back on for another 2 or so minutes, until the cheese melts. Then serve it up.

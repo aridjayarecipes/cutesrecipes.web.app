@@ -48,7 +48,7 @@ recipeinstructions:
 - "[ Next day, For Filling ] Slice onion thinly. Cut potato into 4 pieces and slice into 5 mm / 0.2-inch thick. Drain tuna in a strainer."
 - "Heat oil and add the sliced onion and potato, stir-fry it on medium heat until soft. Sprinkle salt and pepper and stir, turn off the heat. Add drained tuna, mix roughly. Transfer into a container, leave it cool."
 - "Take the bechamel sauce out from the fridge, ｍix it to loosen. Cover lightly with plastic wrap, and warm with a microwave to soften. Cover with plastic wrap and set aside."
-- "[ Blind Bake Pastry ] Preheat an oven to 200℃ / 392F. Take the dough out from the fridge, divide it into 6 equal pieces. Roll each out into 3mm (0.1- inch) thick on a lightly floured surface. Use a 10.5 cm (4.1'') diameter ring to cut them into circles."
+- "[ Blind Bake Pastry ] Preheat an oven to 200℃ / 392F. Take the dough out from the fridge, divide it into 6 equal pieces. Roll each out into 3mm (0.1- inch) thick on a lightly floured surface. Use a 10.5 cm (4.1&#39;&#39;) diameter ring to cut them into circles."
 - "Gently press into the muffin mold. Please put it in a freezer for 5-10 mins if it gets too soft. Prick the bottom with a fork, place glassine paper cups in the pastry, fill them with tart stones. Bake it with the preheated oven at 180℃ / 356 F for 15 mins."
 - "Remove tart stones, bake them for another 10 mins until the bottom dry. Brush inside of the pastry with beaten egg. Bake it at 180℃ / 356 F for 2 mins to dry the egg. After removing the muffin mold from the oven, leave the oven warm at 180℃ / 356 F."
 - "[ Put filling and bake! ] Put bechamel sauce in each pastry. Put the potato and tuna over, press down lightly. Add the grated cheese over."
@@ -131,7 +131,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. [ Next day, For Filling ] Slice onion thinly. Cut potato into 4 pieces and slice into 5 mm / 0.2-inch thick. Drain tuna in a strainer.
 1. Heat oil and add the sliced onion and potato, stir-fry it on medium heat until soft. Sprinkle salt and pepper and stir, turn off the heat. Add drained tuna, mix roughly. Transfer into a container, leave it cool.
 1. Take the bechamel sauce out from the fridge, ｍix it to loosen. Cover lightly with plastic wrap, and warm with a microwave to soften. Cover with plastic wrap and set aside.
-1. [ Blind Bake Pastry ] Preheat an oven to 200℃ / 392F. Take the dough out from the fridge, divide it into 6 equal pieces. Roll each out into 3mm (0.1- inch) thick on a lightly floured surface. Use a 10.5 cm (4.1'') diameter ring to cut them into circles.
+1. [ Blind Bake Pastry ] Preheat an oven to 200℃ / 392F. Take the dough out from the fridge, divide it into 6 equal pieces. Roll each out into 3mm (0.1- inch) thick on a lightly floured surface. Use a 10.5 cm (4.1&#39;&#39;) diameter ring to cut them into circles.
 1. Gently press into the muffin mold. Please put it in a freezer for 5-10 mins if it gets too soft. Prick the bottom with a fork, place glassine paper cups in the pastry, fill them with tart stones. Bake it with the preheated oven at 180℃ / 356 F for 15 mins.
 1. Remove tart stones, bake them for another 10 mins until the bottom dry. Brush inside of the pastry with beaten egg. Bake it at 180℃ / 356 F for 2 mins to dry the egg. After removing the muffin mold from the oven, leave the oven warm at 180℃ / 356 F.
 1. [ Put filling and bake! ] Put bechamel sauce in each pastry. Put the potato and tuna over, press down lightly. Add the grated cheese over.

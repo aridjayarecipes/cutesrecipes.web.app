@@ -64,7 +64,7 @@ Hello everybody, hope you're having an incredible day today. Today, we're going 
 
 Minty lamb steaks is one of the most well liked of recent trending meals in the world. It is enjoyed by millions every day. It's simple, it's fast, it tastes yummy. Minty lamb steaks is something which I've loved my entire life. They are fine and they look fantastic.
 
-A quick and hearty supper that uses only four ingredients. Lamb steaks are a really useful cut of meat, readily available and easy to prepare. Lamb steaks are a really useful cut of meat: readily available and easy to prepare. The Hairy Bikers' new cookbook recommended the below recipe for minty lamb steaks.
+A quick and hearty supper that uses only four ingredients. Lamb steaks are a really useful cut of meat, readily available and easy to prepare. Lamb steaks are a really useful cut of meat: readily available and easy to prepare. The Hairy Bikers&#39; new cookbook recommended the below recipe for minty lamb steaks.
 
 
 To begin with this recipe, we must first prepare a few components. You can cook minty lamb steaks using 14 ingredients and 15 steps. Here is how you cook that.

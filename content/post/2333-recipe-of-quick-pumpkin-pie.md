@@ -25,8 +25,8 @@ recipeingredient:
 - "1 teaspoon vanilla extract"
 - " Heavy cream or milk"
 recipeinstructions:
-- "Preheat oven to 425 degrees. Put cold butter and flour in a bowl, use a pastry cutter to cut the butter into flour until it's the consistency of cornmeal"
-- "Add 4 tablespoons of cold water to butter and flour, use a fork to mix until the dough comes away from the sides of the bowl. Don't overwork the dough, once it's sticky enough, transfer to seranne wrap and put it in the fridge"
+- "Preheat oven to 425 degrees. Put cold butter and flour in a bowl, use a pastry cutter to cut the butter into flour until it&#39;s the consistency of cornmeal"
+- "Add 4 tablespoons of cold water to butter and flour, use a fork to mix until the dough comes away from the sides of the bowl. Don&#39;t overwork the dough, once it&#39;s sticky enough, transfer to seranne wrap and put it in the fridge"
 - "Mix together all the filling ingredients at once"
 - "Roll out the dough and place it in a pie dish. Put some heavy cream in a bowl and add cinnamon to taste. Brush the pie crust with this mixture and then add the pie filling"
 - "Bake at 425 for 15 minutes then reduce the temperature to 350 and cook for an additional 40 minutes"
@@ -79,20 +79,20 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Prepare  Heavy cream or milk
 
 
-It consists of a pumpkin-based custard baked in a single pie shell. This pie is traditionally served with whipped cream. The pumpkin pie is an essential dessert for the fall and winter holidays. You don't have to be into baking to make many of these delicious homemade pumpkin pies. 
+It consists of a pumpkin-based custard baked in a single pie shell. This pie is traditionally served with whipped cream. The pumpkin pie is an essential dessert for the fall and winter holidays. You don&#39;t have to be into baking to make many of these delicious homemade pumpkin pies. 
 
 <!--inarticleads2-->
 
 ##### Steps to make Pumpkin pie:
 
-1. Preheat oven to 425 degrees. Put cold butter and flour in a bowl, use a pastry cutter to cut the butter into flour until it's the consistency of cornmeal
-1. Add 4 tablespoons of cold water to butter and flour, use a fork to mix until the dough comes away from the sides of the bowl. Don't overwork the dough, once it's sticky enough, transfer to seranne wrap and put it in the fridge
+1. Preheat oven to 425 degrees. Put cold butter and flour in a bowl, use a pastry cutter to cut the butter into flour until it&#39;s the consistency of cornmeal
+1. Add 4 tablespoons of cold water to butter and flour, use a fork to mix until the dough comes away from the sides of the bowl. Don&#39;t overwork the dough, once it&#39;s sticky enough, transfer to seranne wrap and put it in the fridge
 1. Mix together all the filling ingredients at once
 1. Roll out the dough and place it in a pie dish. Put some heavy cream in a bowl and add cinnamon to taste. Brush the pie crust with this mixture and then add the pie filling
 1. Bake at 425 for 15 minutes then reduce the temperature to 350 and cook for an additional 40 minutes
 1. Let cool
 
 
-The pumpkin pie is an essential dessert for the fall and winter holidays. You don't have to be into baking to make many of these delicious homemade pumpkin pies. These easy pumpkin pie recipes are perfect for Thanksgiving. You'll find pies with classic ingredients and fun additions like chocolate, pecans and more. Creamy, homemade healthier pumpkin pie made from scratch and naturally sweetened with pure maple syrup. 
+The pumpkin pie is an essential dessert for the fall and winter holidays. You don&#39;t have to be into baking to make many of these delicious homemade pumpkin pies. These easy pumpkin pie recipes are perfect for Thanksgiving. You&#39;ll find pies with classic ingredients and fun additions like chocolate, pecans and more. Creamy, homemade healthier pumpkin pie made from scratch and naturally sweetened with pure maple syrup. 
 
 So that's going to wrap this up for this special food pumpkin pie recipe. Thank you very much for reading. I am sure that you can make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

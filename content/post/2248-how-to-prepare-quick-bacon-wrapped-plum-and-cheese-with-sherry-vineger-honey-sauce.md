@@ -18,9 +18,9 @@ recipeingredient:
 - "2 tbsp honey"
 recipeinstructions:
 - "SHERRY VINEGER HONEY SAUCE"
-- "Mix sherry vineger & Honey in pan for half a minute"
-- "Mix cheese & stuff lnside the plum cavity"
-- "wrap the plum with bacon & fasten with toothpick"
+- "Mix sherry vineger &amp; Honey in pan for half a minute"
+- "Mix cheese &amp; stuff lnside the plum cavity"
+- "wrap the plum with bacon &amp; fasten with toothpick"
 - "bake it at  200 C /400F for 25 to 45  minute or longer depending on the thickness of the bacon"
 - "Serve with sherry vineger honey sauce"
 - "BELOW,ARE FEW BACON RECIPE, I AM GLAD TO SHARE WITH YOU  https://cookpad.com/us/recipes/333531-sweet-potato-wrapped-in-bacon https://cookpad.com/us/recipes/333561-waterchestnut-wrapped-in-bacon https://cookpad.com/us/recipes/405025-bacon-wrap-enoki-mushroom https://cookpad.com/us/recipes/333468-bacon-wrapped-chicken-drumettes https://cookpad.com/us/recipes/344415-jalapeno-cheesy-bacon-gift-snack"
@@ -59,7 +59,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 
 1. Prepare 12 large pitted Plum
 1. Take 6 slice Smoke Bacon
-1. Make ready 3 tbsp each Garlic Herbal cream cheese & parmesan cheese powder
+1. Make ready 3 tbsp each Garlic Herbal cream cheese &amp; parmesan cheese powder
 1. Take  SHERRY VINEGER HONEY SAUCE
 1. Prepare 2 tbsp sherry vineger
 1. Make ready 2 tbsp honey
@@ -72,9 +72,9 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 ##### Instructions to make Bacon Wrapped Plum And Cheese With Sherry Vineger Honey Sauce:
 
 1. SHERRY VINEGER HONEY SAUCE
-1. Mix sherry vineger & Honey in pan for half a minute
-1. Mix cheese & stuff lnside the plum cavity
-1. wrap the plum with bacon & fasten with toothpick
+1. Mix sherry vineger &amp; Honey in pan for half a minute
+1. Mix cheese &amp; stuff lnside the plum cavity
+1. wrap the plum with bacon &amp; fasten with toothpick
 1. bake it at  200 C /400F for 25 to 45  minute or longer depending on the thickness of the bacon
 1. Serve with sherry vineger honey sauce
 1. BELOW,ARE FEW BACON RECIPE, I AM GLAD TO SHARE WITH YOU -  - https://cookpad.com/us/recipes/333531-sweet-potato-wrapped-in-bacon - https://cookpad.com/us/recipes/333561-waterchestnut-wrapped-in-bacon - https://cookpad.com/us/recipes/405025-bacon-wrap-enoki-mushroom - https://cookpad.com/us/recipes/333468-bacon-wrapped-chicken-drumettes - https://cookpad.com/us/recipes/344415-jalapeno-cheesy-bacon-gift-snack

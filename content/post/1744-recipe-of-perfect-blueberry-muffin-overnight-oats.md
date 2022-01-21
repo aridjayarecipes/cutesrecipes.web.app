@@ -19,9 +19,9 @@ recipeingredient:
 - "1 tsp. vanilla extract"
 - " Zest of 1 lemon"
 recipeinstructions:
-- "Place the blueberries into a large bowl and roughly mash them with a fork. Then stir in the milk and yogurt. Once that's fairly well combined, add in the rest of the ingredients and stir it all together."
+- "Place the blueberries into a large bowl and roughly mash them with a fork. Then stir in the milk and yogurt. Once that&#39;s fairly well combined, add in the rest of the ingredients and stir it all together."
 - "Divide the mixture evenly into two airtight containers, such as pint sized mason jars. Place the lids on and store them in the fridge overnight (or for at least 5 hours)."
-- "That's it! You can add whatever toppings sound good once you go to eat it. It'll be thick, so if you'd like it thinner, go ahead and add a splash more of milk to it. They last 3-4 days in the fridge and are a great, portable breakfast."
+- "That&#39;s it! You can add whatever toppings sound good once you go to eat it. It&#39;ll be thick, so if you&#39;d like it thinner, go ahead and add a splash more of milk to it. They last 3-4 days in the fridge and are a great, portable breakfast."
 categories:
 - Recipe
 tags:
@@ -71,9 +71,9 @@ To get started with this particular recipe, we must first prepare a few ingredie
 
 ##### Steps to make Blueberry Muffin Overnight Oats:
 
-1. Place the blueberries into a large bowl and roughly mash them with a fork. Then stir in the milk and yogurt. Once that's fairly well combined, add in the rest of the ingredients and stir it all together.
+1. Place the blueberries into a large bowl and roughly mash them with a fork. Then stir in the milk and yogurt. Once that&#39;s fairly well combined, add in the rest of the ingredients and stir it all together.
 1. Divide the mixture evenly into two airtight containers, such as pint sized mason jars. Place the lids on and store them in the fridge overnight (or for at least 5 hours).
-1. That's it! You can add whatever toppings sound good once you go to eat it. It'll be thick, so if you'd like it thinner, go ahead and add a splash more of milk to it. They last 3-4 days in the fridge and are a great, portable breakfast.
+1. That&#39;s it! You can add whatever toppings sound good once you go to eat it. It&#39;ll be thick, so if you&#39;d like it thinner, go ahead and add a splash more of milk to it. They last 3-4 days in the fridge and are a great, portable breakfast.
 
 
 

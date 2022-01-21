@@ -28,7 +28,7 @@ recipeinstructions:
 - "In another bowl, combine sugar, egg, melted butter and stir well"
 - "Sift cake flour, baking soda, baking powder, salt and cardamom into the wet ingredients, and split two times."
 - "Add walnuts and chocolate chips. Mix well but do not over mix"
-- "Pour the batter into the 9"x5" loaf pan"
+- "Pour the batter into the 9&#34;x5&#34; loaf pan"
 - "Bake for 45 to 55 minutes, or until you inserted a wooden pick in center of cake comes out clean"
 categories:
 - Recipe
@@ -88,7 +88,7 @@ To begin with this recipe, we have to prepare a few components. You can cook moi
 1. In another bowl, combine sugar, egg, melted butter and stir well
 1. Sift cake flour, baking soda, baking powder, salt and cardamom into the wet ingredients, and split two times.
 1. Add walnuts and chocolate chips. Mix well but do not over mix
-1. Pour the batter into the 9"x5" loaf pan
+1. Pour the batter into the 9&#34;x5&#34; loaf pan
 1. Bake for 45 to 55 minutes, or until you inserted a wooden pick in center of cake comes out clean
 
 

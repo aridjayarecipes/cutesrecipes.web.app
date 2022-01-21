@@ -48,7 +48,7 @@ Hey everyone, it is me, Dave, welcome to our recipe site. Today, I will show you
 
 Curd rice is one of the most well liked of recent trending foods in the world. It is appreciated by millions daily. It's simple, it's fast, it tastes yummy. They're fine and they look fantastic. Curd rice is something which I have loved my entire life.
 
-Curd rice, also called yogurt rice, is a dish originating from India. The word "curd" in Indian English refers to unsweetened probiotic yogurt. It is most popular in the South Indian states of Tamil Nadu, Kerala , Karnataka, Telangana and Andhra Pradesh; and also in Maharashtra. Curd rice is a South Indian dish made with precooked rice, curd (yogurt) & tempering spices.
+Curd rice, also called yogurt rice, is a dish originating from India. The word &#34;curd&#34; in Indian English refers to unsweetened probiotic yogurt. It is most popular in the South Indian states of Tamil Nadu, Kerala , Karnataka, Telangana and Andhra Pradesh; and also in Maharashtra. Curd rice is a South Indian dish made with precooked rice, curd (yogurt) &amp; tempering spices.
 
 
 To get started with this recipe, we have to prepare a few components. You can have curd rice using 10 ingredients and 4 steps. Here is how you can achieve that.
@@ -69,7 +69,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 1. Prepare as taste 
 
 
-Hey Foodies, today let's make Curd Rice aka Thayir Sadam / Dahi Chawal Recipe at home, with three tasty flavors - fruit and nut, vegetable and tadka dahi. Curd rice also called yogurt rice is a dish of India. It is mildly spiced and served chilled with yogurt. Also, this dish is a blessing to eat in summers as they are chilled and cooling to your body. 
+Hey Foodies, today let&#39;s make Curd Rice aka Thayir Sadam / Dahi Chawal Recipe at home, with three tasty flavors - fruit and nut, vegetable and tadka dahi. Curd rice also called yogurt rice is a dish of India. It is mildly spiced and served chilled with yogurt. Also, this dish is a blessing to eat in summers as they are chilled and cooling to your body. 
 
 <!--inarticleads2-->
 

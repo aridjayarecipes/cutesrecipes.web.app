@@ -69,7 +69,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Take 2 1/2 tablespoons flour
 1. Get to taste salt and pepper
 1. Prepare 750 g rump steak cubed
-1. Get 170 g lamb's kidney
+1. Get 170 g lamb&#39;s kidney
 1. Prepare 2 tablespoons butter
 1. Take 1 medium onion chopped
 1. Make ready 1 tablespoon prepared English mustard

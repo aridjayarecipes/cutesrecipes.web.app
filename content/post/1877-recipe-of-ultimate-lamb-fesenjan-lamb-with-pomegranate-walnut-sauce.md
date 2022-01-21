@@ -68,7 +68,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 
 1. Take 1/4 cup olive oil
 1. Get 1 Onion, Sliced
-1. Make ready 2 lb Lamb, cut into 1" cubes
+1. Make ready 2 lb Lamb, cut into 1&#34; cubes
 1. Get 1/4 cup Pomegranate Syrup
 1. Take 1 1/2 cup Chicken Stock
 1. Prepare 1 cup Fresh whole pomegranate seeds

@@ -80,6 +80,6 @@ Then garnish it with crushed almonds. See more ideas about fruit, fruit trees, e
 1. Now creamy fruits and nuts delight is ready.
 
 
-Fruits of Your Choice. Note: I have used Muskmelon, Apple, Banana, Plum, Tooty Frooty. First Chop all the Fruits and keep aside. Serve this with a fresh fruit salad or with fruit and small shortbread cookies. It's perfect for baby and wedding showers! This is the best fruit dip ever and so simple. 
+Fruits of Your Choice. Note: I have used Muskmelon, Apple, Banana, Plum, Tooty Frooty. First Chop all the Fruits and keep aside. Serve this with a fresh fruit salad or with fruit and small shortbread cookies. It&#39;s perfect for baby and wedding showers! This is the best fruit dip ever and so simple. 
 
 So that is going to wrap this up with this special food creamy fruits and nuts delight recipe. Thank you very much for your time. I'm confident that you will make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

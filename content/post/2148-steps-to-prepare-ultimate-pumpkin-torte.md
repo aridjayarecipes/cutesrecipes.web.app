@@ -75,7 +75,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 1. Make ready 8 oz Cool Whip
 
 
-This scrumptious Pumpkin Torte is my THM-friendly version of the popular pumpkin dump cake! It's like a pumpkin cobbler, of sorts. And with pumpkin pie, cakes, cookies and more, one of these pumpkin recipes is sure to please! Pumpkin Torte is a great alternative to pumpkin pie while keeping that great seasonal taste. 
+This scrumptious Pumpkin Torte is my THM-friendly version of the popular pumpkin dump cake! It&#39;s like a pumpkin cobbler, of sorts. And with pumpkin pie, cakes, cookies and more, one of these pumpkin recipes is sure to please! Pumpkin Torte is a great alternative to pumpkin pie while keeping that great seasonal taste. 
 
 <!--inarticleads2-->
 

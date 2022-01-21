@@ -19,10 +19,10 @@ recipeingredient:
 - "5 tbsp oil"
 - " Season with 3 dash of salt and 1 tbsp light soy sauce"
 recipeinstructions:
-- "With oil pan fry the ginger and thinly slice pork Fillet till it's no longer pink about 3 minutes"
+- "With oil pan fry the ginger and thinly slice pork Fillet till it&#39;s no longer pink about 3 minutes"
 - "Add in the dried wolfberries and Dang Gui With the chicken of Essence and hot water bring it to a boil"
 - "Then cover lid and let it simmer in Low heat for 6 minutes then season and simmer for another 1 minutes"
-- "Serve with white rice and enjoy, you may drink up All It's sauce too"
+- "Serve with white rice and enjoy, you may drink up All It&#39;s sauce too"
 categories:
 - Recipe
 tags:
@@ -72,10 +72,10 @@ To get started with this particular recipe, we have to prepare a few components.
 
 ##### Steps to make Pork Fillet Slice In Dang Gui Sauce:
 
-1. With oil pan fry the ginger and thinly slice pork Fillet till it's no longer pink about 3 minutes
+1. With oil pan fry the ginger and thinly slice pork Fillet till it&#39;s no longer pink about 3 minutes
 1. Add in the dried wolfberries and Dang Gui With the chicken of Essence and hot water bring it to a boil
 1. Then cover lid and let it simmer in Low heat for 6 minutes then season and simmer for another 1 minutes
-1. Serve with white rice and enjoy, you may drink up All It's sauce too
+1. Serve with white rice and enjoy, you may drink up All It&#39;s sauce too
 
 
 

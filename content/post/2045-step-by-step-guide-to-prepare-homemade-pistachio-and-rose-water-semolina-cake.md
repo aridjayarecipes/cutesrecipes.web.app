@@ -59,7 +59,7 @@ recipeinstructions:
 - "Grease a 9 inch pan and line with parchment paper."
 - "Pick through pistachios for any off color nuts. Roast all pistachios for 6 minutes. Set aside to cool."
 - "Roast almonds for 7-8 minutes, set aside to cool."
-- "Crack cardamom pods, 3 at a time, grind and reserve separately. (If you're obsessive/compulsive, you can cover the ramekin with plastic wrap so no flavor is lost.)"
+- "Crack cardamom pods, 3 at a time, grind and reserve separately. (If you&#39;re obsessive/compulsive, you can cover the ramekin with plastic wrap so no flavor is lost.)"
 - "In food processor, grind 1 cup pistachios with 1 tbsp sugar until coarse, not fine. Repeat for 1 cup almonds."
 - "Rub lemon peel with 1 tbsp sugar until fine."
 - "Add pistachios, almonds, one ramekin cardamom, semolina, baking powder, and salt. Whisk until mixed and reserve."
@@ -98,7 +98,7 @@ Hey everyone, it's me again, Dan, welcome to our recipe site. Today, I'm gonna s
 
 Pistachio and Rose Water Semolina Cake is one of the most popular of current trending foods on earth. It's simple, it's quick, it tastes delicious. It's appreciated by millions daily. Pistachio and Rose Water Semolina Cake is something which I have loved my entire life. They are nice and they look fantastic.
 
-And don't confuse rose water and rose essence: the difference is huge. Sprinkle with extra pistachios and set cake aside in the pan to cool to room temperature. Remove cake from the pan and scatter with crystallised rose petals, if using, breaking some into. Try our easy to follow Pistachio & Rosewater Semolina Cake recipe.
+And don&#39;t confuse rose water and rose essence: the difference is huge. Sprinkle with extra pistachios and set cake aside in the pan to cool to room temperature. Remove cake from the pan and scatter with crystallised rose petals, if using, breaking some into. Try our easy to follow Pistachio &amp; Rosewater Semolina Cake recipe.
 
 
 To begin with this particular recipe, we must prepare a few ingredients. You can have pistachio and rose water semolina cake using 36 ingredients and 27 steps. Here is how you cook that.
@@ -145,7 +145,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Take 1/2 cup cane sugar
 
 
-Ottolenghi Pistachio and Rose Semolina Cake. From the Book "Sweet" by Yotam Ottolenghi and Helen Goh. Next fold in the lemon zest, lemon juice, rose water and vanilla extract and scrape the batter into the pan. Lemon Cake with Rose WaterReceitas Da Felicidade! 
+Ottolenghi Pistachio and Rose Semolina Cake. From the Book &#34;Sweet&#34; by Yotam Ottolenghi and Helen Goh. Next fold in the lemon zest, lemon juice, rose water and vanilla extract and scrape the batter into the pan. Lemon Cake with Rose WaterReceitas Da Felicidade! 
 
 <!--inarticleads2-->
 
@@ -163,7 +163,7 @@ Ottolenghi Pistachio and Rose Semolina Cake. From the Book "Sweet" by Yotam Otto
 1. Grease a 9 inch pan and line with parchment paper.
 1. Pick through pistachios for any off color nuts. Roast all pistachios for 6 minutes. Set aside to cool.
 1. Roast almonds for 7-8 minutes, set aside to cool.
-1. Crack cardamom pods, 3 at a time, grind and reserve separately. (If you're obsessive/compulsive, you can cover the ramekin with plastic wrap so no flavor is lost.)
+1. Crack cardamom pods, 3 at a time, grind and reserve separately. (If you&#39;re obsessive/compulsive, you can cover the ramekin with plastic wrap so no flavor is lost.)
 1. In food processor, grind 1 cup pistachios with 1 tbsp sugar until coarse, not fine. Repeat for 1 cup almonds.
 1. Rub lemon peel with 1 tbsp sugar until fine.
 1. Add pistachios, almonds, one ramekin cardamom, semolina, baking powder, and salt. Whisk until mixed and reserve.
@@ -180,6 +180,6 @@ Ottolenghi Pistachio and Rose Semolina Cake. From the Book "Sweet" by Yotam Otto
 1. Whip heavy cream until stiff, adding sugar and rose water halfway through. Remove and fold in creme fraiche. Refrigerate until needed.
 
 
-Next fold in the lemon zest, lemon juice, rose water and vanilla extract and scrape the batter into the pan. Lemon Cake with Rose WaterReceitas Da Felicidade! Candied rose petals make for a gorgeous presentation, but the chefs say you can buy dried rose petals (available at Asian or Middle Eastern grocers) or omit them altogether. If you are using rose petals, make sure they haven't been sprayed with pesticides. I grew up in a house where a jar or two of semolina were always laying around in the cupboard waiting to be used in some of our favorite recipes as kids. 
+Next fold in the lemon zest, lemon juice, rose water and vanilla extract and scrape the batter into the pan. Lemon Cake with Rose WaterReceitas Da Felicidade! Candied rose petals make for a gorgeous presentation, but the chefs say you can buy dried rose petals (available at Asian or Middle Eastern grocers) or omit them altogether. If you are using rose petals, make sure they haven&#39;t been sprayed with pesticides. I grew up in a house where a jar or two of semolina were always laying around in the cupboard waiting to be used in some of our favorite recipes as kids. 
 
 So that is going to wrap it up with this exceptional food pistachio and rose water semolina cake recipe. Thanks so much for your time. I am sure you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

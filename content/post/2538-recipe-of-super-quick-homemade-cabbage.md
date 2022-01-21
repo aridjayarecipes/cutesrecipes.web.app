@@ -18,7 +18,7 @@ recipeingredient:
 - "1 hot pepper"
 recipeinstructions:
 - "Mix well"
-- "For full video.. Don't forget to SUBSCRIBE my YouTube channel https://youtu.be/qAtoNp5toWg"
+- "For full video.. Don&#39;t forget to SUBSCRIBE my YouTube channel https://youtu.be/qAtoNp5toWg"
 categories:
 - Recipe
 tags:
@@ -65,7 +65,7 @@ Cabbage is a cool-season vegetable suited to both spring and fall. See our Cabba
 ##### Instructions to make Cabbage:
 
 1. Mix well
-1. For full video.. Don't forget to SUBSCRIBE my YouTube channel https://youtu.be/qAtoNp5toWg
+1. For full video.. Don&#39;t forget to SUBSCRIBE my YouTube channel https://youtu.be/qAtoNp5toWg
 
 
 Cabbage, Brassica oleracea is Vitamin K and Vitamin C rich vegetable support for Antioxidant, Anticancer, Antifungal and Anthelmintic properties. Cabbage is loaded with lots of chemicals that help ease swelling in your tissues. This helps protect you from other health issues because inflammation is linked to things like cancer, heart disease, diabetes. Cabbage Cabbage and its cross section Details. The plant is also called head cabbage or heading cabbage, and in Scotland a bowkail, from its rounded shape. 

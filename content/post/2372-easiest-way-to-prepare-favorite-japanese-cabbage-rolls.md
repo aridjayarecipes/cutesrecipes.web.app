@@ -84,7 +84,7 @@ To get started with this recipe, we must prepare a few components. You can cook 
 1. Get 1 small carrot, (1/3 cups of diced carrot)
 1. Make ready 1 egg
 1. Make ready 2 cups chicken broth
-1. Prepare  If you want to try the tomato sauce, you'll need
+1. Prepare  If you want to try the tomato sauce, you&#39;ll need
 1. Make ready 2 medium tomatoes, (chopped)
 
 

@@ -19,7 +19,7 @@ recipeingredient:
 - " Apple cider"
 recipeinstructions:
 - "Slice up cabbage and onion"
-- "Put into pot. Sprinkle with sugar spices & cranberries maybe a pinch o_ salt to Accenture the flavors but i don't remember doing it."
+- "Put into pot. Sprinkle with sugar spices &amp; cranberries maybe a pinch o_ salt to Accenture the flavors but i don&#39;t remember doing it."
 - "Add a a small amount 1/2cup maybe of cider to simmer until cooked through about 5-10 min"
 categories:
 - Recipe
@@ -58,7 +58,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have re
 1. Make ready  Red onion half moons
 1. Prepare 1 T Brown sugar sprinkled
 1. Prepare  Cinnamon
-1. Get 1 Clove don't overdo it
+1. Get 1 Clove don&#39;t overdo it
 1. Prepare  Cranberries i used 1/2 pack of whole fresh
 1. Get  Apple cider
 
@@ -70,10 +70,10 @@ Its leaves are colored dark red/purple. However, the plant changes its color acc
 ##### Steps to make Red cabbage and cranberries:
 
 1. Slice up cabbage and onion
-1. Put into pot. Sprinkle with sugar spices & cranberries maybe a pinch o_ salt to Accenture the flavors but i don't remember doing it.
+1. Put into pot. Sprinkle with sugar spices &amp; cranberries maybe a pinch o_ salt to Accenture the flavors but i don&#39;t remember doing it.
 1. Add a a small amount 1/2cup maybe of cider to simmer until cooked through about 5-10 min
 
 
-Combine cabbage and cranberries in a large bowl. Add apple, and toss well to combine. Red Cabbage & Cranberries, from the Nantucket Holiday Table. In a large, heavy-bottomed nonreactive skillet over medium heat, heat the corn oil and sauté the onion until translucent. Add the cabbage and toss with a wooden spoon to combine. 
+Combine cabbage and cranberries in a large bowl. Add apple, and toss well to combine. Red Cabbage &amp; Cranberries, from the Nantucket Holiday Table. In a large, heavy-bottomed nonreactive skillet over medium heat, heat the corn oil and sauté the onion until translucent. Add the cabbage and toss with a wooden spoon to combine. 
 
 So that's going to wrap it up for this special food red cabbage and cranberries recipe. Thanks so much for your time. I am sure that you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

@@ -47,7 +47,7 @@ Hey everyone, it is Brad, welcome to our recipe site. Today, we're going to make
 
 Quick Chinese chicken with broccoli and spicy black bean sauce is one of the most well liked of current trending meals in the world. It's enjoyed by millions every day. It is easy, it is fast, it tastes delicious. They're nice and they look wonderful. Quick Chinese chicken with broccoli and spicy black bean sauce is something which I've loved my entire life.
 
-Chicken and Broccoli is a popular Chinese takeout dish. This chicken and broccoli recipe is the authentic restaurant version with a delicious brown sauce. Could this be made in a slow cooker? I've been trying to find dishes for slow cooker since my husband works late into the night and.
+Chicken and Broccoli is a popular Chinese takeout dish. This chicken and broccoli recipe is the authentic restaurant version with a delicious brown sauce. Could this be made in a slow cooker? I&#39;ve been trying to find dishes for slow cooker since my husband works late into the night and.
 
 
 To get started with this particular recipe, we must first prepare a few ingredients. You can cook quick chinese chicken with broccoli and spicy black bean sauce using 8 ingredients and 4 steps. Here is how you cook it.
@@ -78,6 +78,6 @@ We are serving the best Chinese food in Vancouver. Try our Chicken Chow Mein, Be
 1. Serve with white rice - YUMMY
 
 
-This quick and easy spareribs recipe with prepared black bean sauce takes the work out of rinsing and mashing fermented black beans. Traditionally, this dish is made with fermented whole black beans, while they can be found in any Chinese grocery store a simple prepared black bean sauce. Chicken - we used boneless skinless chicken breast, but chicken tenders or even thighs would be You could sub the broccoli with snap peas or zucchini and sub onions with julienned carrots. I used Mongolian fire oil since that's all i had. The combination of sweet and spicy was so. 
+This quick and easy spareribs recipe with prepared black bean sauce takes the work out of rinsing and mashing fermented black beans. Traditionally, this dish is made with fermented whole black beans, while they can be found in any Chinese grocery store a simple prepared black bean sauce. Chicken - we used boneless skinless chicken breast, but chicken tenders or even thighs would be You could sub the broccoli with snap peas or zucchini and sub onions with julienned carrots. I used Mongolian fire oil since that&#39;s all i had. The combination of sweet and spicy was so. 
 
 So that is going to wrap this up with this exceptional food quick chinese chicken with broccoli and spicy black bean sauce recipe. Thank you very much for reading. I am sure you can make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

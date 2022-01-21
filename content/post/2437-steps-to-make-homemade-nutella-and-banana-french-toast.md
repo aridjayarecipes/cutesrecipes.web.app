@@ -19,7 +19,7 @@ recipeingredient:
 - "1/4 tsp ground cinnamon"
 - "Pinch ground nutmeg"
 recipeinstructions:
-- "Spread some Nutella onto one slice of bread. I found about a heap tsp works well, although you can definitely add more if you want it oozier. Lay in a few slices of banana, then top with another slice of Nutella-smeared bread. Press the edges of the 'sandwich' together firmly to seal. Repeat."
+- "Spread some Nutella onto one slice of bread. I found about a heap tsp works well, although you can definitely add more if you want it oozier. Lay in a few slices of banana, then top with another slice of Nutella-smeared bread. Press the edges of the &#39;sandwich&#39; together firmly to seal. Repeat."
 - "Whisk the remaining ingredients together in a large bowl."
 - "Melt a few tbsp unsalted butter in a large nonstick pan on medium heat. Dip the sandwiches carefully one at a time in the batter, then lay them into the pan. Let cook a few minutes until browned and toasty, then flip and brown the other side. Serve with a sprinkle of icing sugar."
 categories:
@@ -71,7 +71,7 @@ French toast topped with glazed strawberries and stuffed with cheesecake. Perfec
 
 ##### Instructions to make Nutella and banana French toast:
 
-1. Spread some Nutella onto one slice of bread. I found about a heap tsp works well, although you can definitely add more if you want it oozier. Lay in a few slices of banana, then top with another slice of Nutella-smeared bread. Press the edges of the 'sandwich' together firmly to seal. Repeat.
+1. Spread some Nutella onto one slice of bread. I found about a heap tsp works well, although you can definitely add more if you want it oozier. Lay in a few slices of banana, then top with another slice of Nutella-smeared bread. Press the edges of the &#39;sandwich&#39; together firmly to seal. Repeat.
 1. Whisk the remaining ingredients together in a large bowl.
 1. Melt a few tbsp unsalted butter in a large nonstick pan on medium heat. Dip the sandwiches carefully one at a time in the batter, then lay them into the pan. Let cook a few minutes until browned and toasty, then flip and brown the other side. Serve with a sprinkle of icing sugar.
 

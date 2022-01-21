@@ -56,7 +56,7 @@ recipecategory: Dessert
 
 Hello everybody, hope you're having an amazing day today. Today, I'm gonna show you how to make a special dish, healthy carrots peas. It is one of my favorites. For mine, I'm gonna make it a bit tasty. This will be really delicious.
 
-Carrots are root vegetables that come in a variety of colors. The stuffing of carrots and peas are prepared with spices.it is very easy & healthy breakfast. Peas are a starchy vegetable but they're also packed with protein! Protein helps your body recover from tough workouts and fuels your muscles for your next one!
+Carrots are root vegetables that come in a variety of colors. The stuffing of carrots and peas are prepared with spices.it is very easy &amp; healthy breakfast. Peas are a starchy vegetable but they&#39;re also packed with protein! Protein helps your body recover from tough workouts and fuels your muscles for your next one!
 
 Healthy carrots peas is one of the most popular of current trending meals on earth. It's appreciated by millions daily. It is easy, it is fast, it tastes yummy. They're fine and they look wonderful. Healthy carrots peas is something which I've loved my entire life.
 

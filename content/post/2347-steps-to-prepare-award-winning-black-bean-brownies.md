@@ -60,7 +60,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 
 ##### The ingredients needed to make Black bean brownies:
 
-1. Prepare 14 oz can black beans, drained & rinsed
+1. Prepare 14 oz can black beans, drained &amp; rinsed
 1. Prepare 2 eggs
 1. Get 1/2 cup applesauce
 1. Make ready 12 medjool dates, pitted

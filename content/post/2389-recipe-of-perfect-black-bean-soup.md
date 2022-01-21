@@ -44,7 +44,7 @@ recipecategory: Lunch
 
 Hello everybody, hope you're having an incredible day today. Today, we're going to make a distinctive dish, black bean soup. It is one of my favorites. For mine, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
 
-Kick-start a healthy new year with Jamie's spicy and colourful Black Bean Soup recipe inspired by his recent travels to Costa Rica. Pureed black beans and tomatoes are combined with vegetable broth to make a nice thick base for this soup, which hosts celery, carrots, onion and corn. Reviews for Photos of Vegan Black Bean Soup. Make Vegetarian Black Bean Soup recipe.
+Kick-start a healthy new year with Jamie&#39;s spicy and colourful Black Bean Soup recipe inspired by his recent travels to Costa Rica. Pureed black beans and tomatoes are combined with vegetable broth to make a nice thick base for this soup, which hosts celery, carrots, onion and corn. Reviews for Photos of Vegan Black Bean Soup. Make Vegetarian Black Bean Soup recipe.
 
 Black bean soup is one of the most popular of current trending foods in the world. It is simple, it's quick, it tastes delicious. It is appreciated by millions every day. They are fine and they look wonderful. Black bean soup is something which I've loved my whole life.
 
@@ -76,6 +76,6 @@ Black Bean Soup is a classic dish from Cuba that is enjoyed throughout Latin Ame
 1. Return to stock pot and simmer until thickened, about 5 minutes. Serve with sour cream, cheese, avocado, or raw diced onions if desired.
 
 
-It makes a perfect appetizer or main dish. And of course, it is always better the next day. I know it's getting warmer outside and you likely aren't craving soup as often. But I love soup year-round, so can we just. Think of black bean soup as a vegetarian chili made with black beans rather than pinto. 
+It makes a perfect appetizer or main dish. And of course, it is always better the next day. I know it&#39;s getting warmer outside and you likely aren&#39;t craving soup as often. But I love soup year-round, so can we just. Think of black bean soup as a vegetarian chili made with black beans rather than pinto. 
 
 So that's going to wrap it up for this exceptional food black bean soup recipe. Thanks so much for reading. I am sure you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

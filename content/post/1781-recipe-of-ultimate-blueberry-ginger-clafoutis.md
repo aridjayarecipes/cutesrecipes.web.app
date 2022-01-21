@@ -28,7 +28,7 @@ recipeinstructions:
 - "Grease 9-inch pie dish with butter and dust with 1 tablespoon of sugar. Set aside."
 - "Mix remaining sugar, flour, salt, ginger, garam masala, eggs, milk, heavy cream and vanilla until mixture is frothy."
 - "Arrange blueberries at the bottom of the dish. Pour batter over them."
-- "Bake for 40-50 minutes, rotating dish halfway. You know it's done when you insert a knife into the centre and it comes out clean."
+- "Bake for 40-50 minutes, rotating dish halfway. You know it&#39;s done when you insert a knife into the centre and it comes out clean."
 - "Serve warm or at room temperature dusted with powder sugar and with a little bit of whipped cream if you like."
 categories:
 - Recipe
@@ -88,10 +88,10 @@ Be the first to Review/Rate this Recipe. One of the most wonderful ways to celeb
 1. Grease 9-inch pie dish with butter and dust with 1 tablespoon of sugar. Set aside.
 1. Mix remaining sugar, flour, salt, ginger, garam masala, eggs, milk, heavy cream and vanilla until mixture is frothy.
 1. Arrange blueberries at the bottom of the dish. Pour batter over them.
-1. Bake for 40-50 minutes, rotating dish halfway. You know it's done when you insert a knife into the centre and it comes out clean.
+1. Bake for 40-50 minutes, rotating dish halfway. You know it&#39;s done when you insert a knife into the centre and it comes out clean.
 1. Serve warm or at room temperature dusted with powder sugar and with a little bit of whipped cream if you like.
 
 
-Clafoutis recipe ideas; this easy French dessert works with any kind of fruit. Some beautifully rustic sweets hail from France as well, including clafoutis (pronounced cla-foo-tee, and sometimes spelled. Ainsley Harriott's Blueberry and Almond Clafoutis with Cardamom Cream. A traditional French clafoutis is made with cherries but I love the unique, perfumed sweet sourness of blueberries, and. I made this Cranberry Clafouti for a family gathering this past weekend. 
+Clafoutis recipe ideas; this easy French dessert works with any kind of fruit. Some beautifully rustic sweets hail from France as well, including clafoutis (pronounced cla-foo-tee, and sometimes spelled. Ainsley Harriott&#39;s Blueberry and Almond Clafoutis with Cardamom Cream. A traditional French clafoutis is made with cherries but I love the unique, perfumed sweet sourness of blueberries, and. I made this Cranberry Clafouti for a family gathering this past weekend. 
 
 So that is going to wrap this up for this exceptional food blueberry ginger clafoutis recipe. Thanks so much for reading. I am confident you can make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

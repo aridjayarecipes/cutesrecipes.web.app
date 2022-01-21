@@ -47,7 +47,7 @@ recipecategory: Lunch
 
 Hey everyone, hope you're having an amazing day today. Today, I'm gonna show you how to make a special dish, healthy maggi soup. One of my favorites. This time, I am going to make it a bit unique. This will be really delicious.
 
-MAGGI Healthy Soups - Corn with Chicken Flavour. A delicious combination of corn and chicken flavour, this soup is a classic. Add an egg to make this yummy soup more wholesome and delightful. A bowl full of hot, spicy soup with shrimp & chicken in this chilling weather!
+MAGGI Healthy Soups - Corn with Chicken Flavour. A delicious combination of corn and chicken flavour, this soup is a classic. Add an egg to make this yummy soup more wholesome and delightful. A bowl full of hot, spicy soup with shrimp &amp; chicken in this chilling weather!
 
 Healthy maggi soup is one of the most popular of current trending foods on earth. It's enjoyed by millions daily. It's simple, it's quick, it tastes delicious. Healthy maggi soup is something that I have loved my entire life. They are fine and they look fantastic.
 

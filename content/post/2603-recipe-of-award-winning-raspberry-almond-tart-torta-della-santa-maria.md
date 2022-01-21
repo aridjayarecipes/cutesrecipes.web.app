@@ -81,7 +81,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Take 1/2 teaspoon almond extract
 1. Get 2 teaspoons flour
 1. Take 1/2 cup sliced almonds
-1. Get 1 tablespoon confectioners' sugar
+1. Get 1 tablespoon confectioners&#39; sugar
 
 
 

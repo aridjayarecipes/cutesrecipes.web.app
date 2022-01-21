@@ -61,7 +61,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 1. Make ready 2 bananas
 1. Take 4 green chillies
 1. Make ready 1 piece ginger
-1. Get 7 tbsp oil (2tbsp for preparing dough,& 5 tbsp for toasting paratha
+1. Get 7 tbsp oil (2tbsp for preparing dough,&amp; 5 tbsp for toasting paratha
 1. Get 1 tbsp turmeric powder
 1. Make ready 1 tbsp garam masala
 1. Take 1 tbsp coriander and cumin powder
@@ -70,7 +70,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 1. Get 1 glass water
 
 
-You can't eat them raw (I'm talking about the plantain varieties). A paratha (pronounced [pəˈrɑːtʰə]) is a flatbread native to the Indian subcontinent, prevalent throughout the modern-day nations of India, Sri Lanka, Pakistan, Nepal, Bangladesh, Maldives and Myanmar. As soon as you read the name Banana Paratha, you would have assumed several things, like say, a paratha with a spicy filling of raw banana! No, this recipe is completely the opposite. 
+You can&#39;t eat them raw (I&#39;m talking about the plantain varieties). A paratha (pronounced [pəˈrɑːtʰə]) is a flatbread native to the Indian subcontinent, prevalent throughout the modern-day nations of India, Sri Lanka, Pakistan, Nepal, Bangladesh, Maldives and Myanmar. As soon as you read the name Banana Paratha, you would have assumed several things, like say, a paratha with a spicy filling of raw banana! No, this recipe is completely the opposite. 
 
 <!--inarticleads2-->
 

@@ -1,6 +1,6 @@
 ---
-description: "Simple Way to Make Ultimate Dudh Shukto- (A healthy &amp; Nutritious Veg Curry Soup)"
-title: "Simple Way to Make Ultimate Dudh Shukto- (A healthy &amp; Nutritious Veg Curry Soup)"
+description: "Simple Way to Make Ultimate Dudh Shukto- (A healthy &amp;amp; Nutritious Veg Curry Soup)"
+title: "Simple Way to Make Ultimate Dudh Shukto- (A healthy &amp;amp; Nutritious Veg Curry Soup)"
 slug: 2484-simple-way-to-make-ultimate-dudh-shukto-a-healthy-and-amp-nutritious-veg-curry-soup
 date: 2021-11-05T04:44:53.583Z
 image: https://img-global.cpcdn.com/recipes/7533f959caa53e55/680x482cq70/dudh-shukto-a-healthy-nutritious-veg-curry-soup-recipe-main-photo.jpg
@@ -64,20 +64,20 @@ recipecategory: Dessert
 ---
 
 
-![Dudh Shukto- (A healthy & Nutritious Veg Curry Soup)](https://img-global.cpcdn.com/recipes/7533f959caa53e55/680x482cq70/dudh-shukto-a-healthy-nutritious-veg-curry-soup-recipe-main-photo.jpg)
+![Dudh Shukto- (A healthy &amp; Nutritious Veg Curry Soup)](https://img-global.cpcdn.com/recipes/7533f959caa53e55/680x482cq70/dudh-shukto-a-healthy-nutritious-veg-curry-soup-recipe-main-photo.jpg)
 
-Hello everybody, I hope you're having an incredible day today. Today, I will show you a way to make a special dish, dudh shukto- (a healthy & nutritious veg curry soup). One of my favorites. For mine, I'm gonna make it a bit tasty. This is gonna smell and look delicious.
+Hello everybody, I hope you're having an incredible day today. Today, I will show you a way to make a special dish, dudh shukto- (a healthy &amp; nutritious veg curry soup). One of my favorites. For mine, I'm gonna make it a bit tasty. This is gonna smell and look delicious.
 
-Dudh Shukto- (A healthy & Nutritious Veg Curry Soup) is one of the most favored of recent trending foods on earth. It's easy, it's fast, it tastes delicious. It's appreciated by millions every day. They are nice and they look wonderful. Dudh Shukto- (A healthy & Nutritious Veg Curry Soup) is something which I've loved my entire life.
-
-
+Dudh Shukto- (A healthy &amp; Nutritious Veg Curry Soup) is one of the most favored of recent trending foods on earth. It's easy, it's fast, it tastes delicious. It's appreciated by millions every day. They are nice and they look wonderful. Dudh Shukto- (A healthy &amp; Nutritious Veg Curry Soup) is something which I've loved my entire life.
 
 
-To get started with this recipe, we have to first prepare a few ingredients. You can cook dudh shukto- (a healthy & nutritious veg curry soup) using 27 ingredients and 8 steps. Here is how you cook it.
+
+
+To get started with this recipe, we have to first prepare a few ingredients. You can cook dudh shukto- (a healthy &amp; nutritious veg curry soup) using 27 ingredients and 8 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Dudh Shukto- (A healthy & Nutritious Veg Curry Soup):
+##### The ingredients needed to make Dudh Shukto- (A healthy &amp; Nutritious Veg Curry Soup):
 
 1. Get 1 Sweet potato (150 gms)
 1. Make ready 150 gms Brinjal / Egg plant
@@ -87,7 +87,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Take 1 Potato (200-250 gms)
 1. Take 1-2 inches Ginger
 1. Make ready 1-2 Green chillies
-1. Make ready 1 Tsp Radhuni Powder (or grind along with ginger & chilli)
+1. Make ready 1 Tsp Radhuni Powder (or grind along with ginger &amp; chilli)
 1. Get as required Few Urad Dal Bori/Bori/ Wadia/ Wadiya/ Wadi
 1. Make ready as needed Mustard oil to fry the vegetables
 1. Get 2 Tbsps Ghee
@@ -112,7 +112,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 
 <!--inarticleads2-->
 
-##### Steps to make Dudh Shukto- (A healthy & Nutritious Veg Curry Soup):
+##### Steps to make Dudh Shukto- (A healthy &amp; Nutritious Veg Curry Soup):
 
 1. Prepare the vegetables as seen in picture - all has to be cut lengthwise. Soak the vegetables in water otherwise it will become black due to oxidation except the Karela, brinjal and drumstick. Apply turmeric powder and salt to the brinjal (or you can skip this)
 1. Start by frying the vegetables (except drumsticks) first with any of the vegetables like potato, sweet potato, papaya and banana. If you like you can skip frying these vegetables but you must fry the brinjal and Karela. - Do the Karela at last, in the remaining oil,fry the Bodi / bori till it is brown.
@@ -126,4 +126,4 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 
 
 
-So that is going to wrap it up for this exceptional food dudh shukto- (a healthy & nutritious veg curry soup) recipe. Thank you very much for your time. I am sure that you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!
+So that is going to wrap it up for this exceptional food dudh shukto- (a healthy &amp; nutritious veg curry soup) recipe. Thank you very much for your time. I am sure that you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

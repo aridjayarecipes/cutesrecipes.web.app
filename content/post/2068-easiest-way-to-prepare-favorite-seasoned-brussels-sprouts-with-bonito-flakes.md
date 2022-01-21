@@ -20,8 +20,8 @@ recipeingredient:
 - "1/4 tsp Sesame oil"
 - "10 grams Bonito flakes"
 recipeinstructions:
-- "Remove the outer skin of the brussels sprouts, cut in half, and set aside. There's no need to make more cuts."
-- "Cook in boiling water for about 3 minutes. Occasionally, check the hardness to make sure you're not over-boiling. Drain after removing from the water."
+- "Remove the outer skin of the brussels sprouts, cut in half, and set aside. There&#39;s no need to make more cuts."
+- "Cook in boiling water for about 3 minutes. Occasionally, check the hardness to make sure you&#39;re not over-boiling. Drain after removing from the water."
 - "After draining, soak in ice or run under cold water to cool. Be careful not to over-cool. Drain again."
 - "Combine the flavoring ingredients in a bowl and mix together."
 - "Add the boiled brussels sprouts and mix."
@@ -77,8 +77,8 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 ##### Instructions to make Seasoned Brussels Sprouts with Bonito Flakes:
 
-1. Remove the outer skin of the brussels sprouts, cut in half, and set aside. There's no need to make more cuts.
-1. Cook in boiling water for about 3 minutes. Occasionally, check the hardness to make sure you're not over-boiling. Drain after removing from the water.
+1. Remove the outer skin of the brussels sprouts, cut in half, and set aside. There&#39;s no need to make more cuts.
+1. Cook in boiling water for about 3 minutes. Occasionally, check the hardness to make sure you&#39;re not over-boiling. Drain after removing from the water.
 1. After draining, soak in ice or run under cold water to cool. Be careful not to over-cool. Drain again.
 1. Combine the flavoring ingredients in a bowl and mix together.
 1. Add the boiled brussels sprouts and mix.

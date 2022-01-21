@@ -17,11 +17,11 @@ recipeinstructions:
 - "De-seed the plums."
 - "Add the plums and sugar into a bowl."
 - "Heat them in the microwave for 5 minutes. They should turn out like this."
-- "Give the plums a stir and they'll look like this. Then place them back in the microwave for a further 5 minutes."
+- "Give the plums a stir and they&#39;ll look like this. Then place them back in the microwave for a further 5 minutes."
 - "Stir again. Then put them back in the microwave for 5 minutes once more."
 - "They will look like this. By now most of the juice should have evapourated."
 - "Once the plums have cooled, lay them out on a piece of parchment paper to cool."
-- "It's up to you whether you dust them with an extra layer of sugar or not at the end."
+- "It&#39;s up to you whether you dust them with an extra layer of sugar or not at the end."
 categories:
 - Recipe
 tags:
@@ -69,11 +69,11 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 1. De-seed the plums.
 1. Add the plums and sugar into a bowl.
 1. Heat them in the microwave for 5 minutes. They should turn out like this.
-1. Give the plums a stir and they'll look like this. Then place them back in the microwave for a further 5 minutes.
+1. Give the plums a stir and they&#39;ll look like this. Then place them back in the microwave for a further 5 minutes.
 1. Stir again. Then put them back in the microwave for 5 minutes once more.
 1. They will look like this. By now most of the juice should have evapourated.
 1. Once the plums have cooled, lay them out on a piece of parchment paper to cool.
-1. It's up to you whether you dust them with an extra layer of sugar or not at the end.
+1. It&#39;s up to you whether you dust them with an extra layer of sugar or not at the end.
 
 
 

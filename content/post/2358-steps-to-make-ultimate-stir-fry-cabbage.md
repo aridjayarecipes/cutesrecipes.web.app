@@ -57,7 +57,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can h
 1. Prepare  Garlic
 
 
-Raw cabbage and cauliflower's safety hazards has been a debated issue for quite a long time. How to make a chicken and cabbage stir fry. Cabbage Stir Fry with onion, garlic, ginger, carrots, green onion, and liquid aminos is a fresh side dish that Recently, I've been super into cabbage stir fry. It's fresh, flavorful, frisky, and can easily be. 
+Raw cabbage and cauliflower&#39;s safety hazards has been a debated issue for quite a long time. How to make a chicken and cabbage stir fry. Cabbage Stir Fry with onion, garlic, ginger, carrots, green onion, and liquid aminos is a fresh side dish that Recently, I&#39;ve been super into cabbage stir fry. It&#39;s fresh, flavorful, frisky, and can easily be. 
 
 <!--inarticleads2-->
 
@@ -68,6 +68,6 @@ Raw cabbage and cauliflower's safety hazards has been a debated issue for quite 
 1. Put lid on until the cabbage softens + fry until cooked
 
 
-Cabbage Stir Fry with onion, garlic, ginger, carrots, green onion, and liquid aminos is a fresh side dish that Recently, I've been super into cabbage stir fry. It's fresh, flavorful, frisky, and can easily be. Even my one year-old will eat cabbage when I make it this way! I love this beef and cabbage stir fry recipe because it TIP: Let the children help prepare this stir fry by letting them cut the vegetables. Cabbage is fried with bacon, onion, and garlic for a side dish you'll want to eat again and again. 
+Cabbage Stir Fry with onion, garlic, ginger, carrots, green onion, and liquid aminos is a fresh side dish that Recently, I&#39;ve been super into cabbage stir fry. It&#39;s fresh, flavorful, frisky, and can easily be. Even my one year-old will eat cabbage when I make it this way! I love this beef and cabbage stir fry recipe because it TIP: Let the children help prepare this stir fry by letting them cut the vegetables. Cabbage is fried with bacon, onion, and garlic for a side dish you&#39;ll want to eat again and again. 
 
 So that's going to wrap it up for this exceptional food stir fry cabbage recipe. Thanks so much for reading. I'm sure that you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

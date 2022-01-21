@@ -20,7 +20,7 @@ recipeingredient:
 - "1/2 tomato"
 recipeinstructions:
 - "Cut up your veggies mix with your egg and seasoning"
-- "Get your banana and blue berry. Mash it to get until it's soft."
+- "Get your banana and blue berry. Mash it to get until it&#39;s soft."
 - "Once soft mix with pancake batter until you get a smooth like texture."
 - "Get your butter or olive oil butter your pan and pre heat"
 - "Place pancake in pan and cook till bubbles form on top. Flip once one side is brown."
@@ -51,7 +51,7 @@ Hey everyone, I hope you're having an incredible day today. Today, I'm gonna sho
 
 Blueberry banana pancakes with spinach omelet is one of the most well liked of recent trending meals on earth. It's enjoyed by millions daily. It is easy, it's quick, it tastes delicious. They're fine and they look wonderful. Blueberry banana pancakes with spinach omelet is something that I have loved my whole life.
 
-Cut up your veggies mix with your egg and seasoning. Get your banana and blue berry. Mash it to get until it 's soft. Leprechaun-Approved Blueberry-Banana — and Spinach! — Pancakes.
+Cut up your veggies mix with your egg and seasoning. Get your banana and blue berry. Mash it to get until it &#39;s soft. Leprechaun-Approved Blueberry-Banana — and Spinach! — Pancakes.
 
 
 To get started with this recipe, we must prepare a few ingredients. You can have blueberry banana pancakes with spinach omelet using 8 ingredients and 8 steps. Here is how you can achieve it.
@@ -77,7 +77,7 @@ Fluffy, grain-free pancakes that are rich in fiber + protein. I used blueberries
 ##### Instructions to make Blueberry banana pancakes with spinach omelet:
 
 1. Cut up your veggies mix with your egg and seasoning
-1. Get your banana and blue berry. Mash it to get until it's soft.
+1. Get your banana and blue berry. Mash it to get until it&#39;s soft.
 1. Once soft mix with pancake batter until you get a smooth like texture.
 1. Get your butter or olive oil butter your pan and pre heat
 1. Place pancake in pan and cook till bubbles form on top. Flip once one side is brown.

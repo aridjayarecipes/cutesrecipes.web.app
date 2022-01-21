@@ -28,11 +28,11 @@ recipeingredient:
 - " Grated cheese"
 recipeinstructions:
 - "Mix flour, sugar, and yeast. Add egg yolk mashed potato, fresh milk, butter and salt."
-- "Knead the dough until it doesn't stick to the bowl. Then cover the dough with a clean fabric or plastic food wrap (I use clean fabric) and let the dough rest for 10 minutes so that the dough rises."
+- "Knead the dough until it doesn&#39;t stick to the bowl. Then cover the dough with a clean fabric or plastic food wrap (I use clean fabric) and let the dough rest for 10 minutes so that the dough rises."
 - "After 10 minutes, knead the dough for a while and then cut the dough into the same size. I cut them into 13 pieces."
 - "Make the dough that has been cut into rounds, cover the dough use clean fabric and let the dough rest for 45 minutes until the dough is rising."
 - "After 45 minutes, press the rounds dough slowly, so that the air in the dough comes out, and make a small hole in the midle. Or to make it easier use donut mold."
-- "In the pan, heat cooking oil and deep fry rounds dough on medium heat until brown, and turn over until another side brown also. Don't turn it over often because it will absorb the oil"
+- "In the pan, heat cooking oil and deep fry rounds dough on medium heat until brown, and turn over until another side brown also. Don&#39;t turn it over often because it will absorb the oil"
 - "For topping : Make whipped cream from powdered sugar, butter, Vanilla powder, white sweetened condensed milk."
 - "When the donuts are cold, spread the whipped cream and then dip them into the cheese or chocolate. Topping is optional."
 - "Potato Donuts is ready to serve.   Happy cooking 👩‍🍳👩‍🍳👩‍🍳❤️❤️"
@@ -94,11 +94,11 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 ##### Steps to make Soft Potato Donuts:
 
 1. Mix flour, sugar, and yeast. Add egg yolk mashed potato, fresh milk, butter and salt.
-1. Knead the dough until it doesn't stick to the bowl. Then cover the dough with a clean fabric or plastic food wrap (I use clean fabric) and let the dough rest for 10 minutes so that the dough rises.
+1. Knead the dough until it doesn&#39;t stick to the bowl. Then cover the dough with a clean fabric or plastic food wrap (I use clean fabric) and let the dough rest for 10 minutes so that the dough rises.
 1. After 10 minutes, knead the dough for a while and then cut the dough into the same size. I cut them into 13 pieces.
 1. Make the dough that has been cut into rounds, cover the dough use clean fabric and let the dough rest for 45 minutes until the dough is rising.
 1. After 45 minutes, press the rounds dough slowly, so that the air in the dough comes out, and make a small hole in the midle. Or to make it easier use donut mold.
-1. In the pan, heat cooking oil and deep fry rounds dough on medium heat until brown, and turn over until another side brown also. Don't turn it over often because it will absorb the oil
+1. In the pan, heat cooking oil and deep fry rounds dough on medium heat until brown, and turn over until another side brown also. Don&#39;t turn it over often because it will absorb the oil
 <img src="//assets-global.cpcdn.com/assets/icons/button_play-2c75c40dde080a61004c1f40b05d8f140eaff45d7e9e6481dc71c63d2e7c4909.png" alt="Soft Potato Donuts">1. For topping : Make whipped cream from powdered sugar, butter, Vanilla powder, white sweetened condensed milk.
 1. When the donuts are cold, spread the whipped cream and then dip them into the cheese or chocolate. Topping is optional.
 1. Potato Donuts is ready to serve.  -  - Happy cooking 👩‍🍳👩‍🍳👩‍🍳❤️❤️

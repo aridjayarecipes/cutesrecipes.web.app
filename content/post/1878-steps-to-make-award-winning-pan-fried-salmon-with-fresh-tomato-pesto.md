@@ -17,9 +17,9 @@ recipeingredient:
 - "1/4 tsp red pepper flakes"
 - "3 tbsp extra virgin olive oil"
 recipeinstructions:
-- "Add a splash of veg oil to a large pan on medium-high heat. Lay the salmon fillets in, skin-side down. Let fry for 3 to 4 minutes, depending on their thickness, then flip and fry for the same amount of time on the other side. While you're waiting to flip the salmon, whip up the sauce."
-- "Place the basil, tomatoes, garlic and pepper flakes in a food processor and blitz until it's a chunky liquid. Add a good pinch of salt and a few grinds of black pepper, as well as the olive oil. Blitz a few seconds more until the sauce thickens and emulsifies."
-- "Put a ladle full of sauce on a plate and lay the salmon on top, crispy skin up. The fish will warm up the sauce slightly. Serve additional sauce on the side (trust me, it'll be in demand)."
+- "Add a splash of veg oil to a large pan on medium-high heat. Lay the salmon fillets in, skin-side down. Let fry for 3 to 4 minutes, depending on their thickness, then flip and fry for the same amount of time on the other side. While you&#39;re waiting to flip the salmon, whip up the sauce."
+- "Place the basil, tomatoes, garlic and pepper flakes in a food processor and blitz until it&#39;s a chunky liquid. Add a good pinch of salt and a few grinds of black pepper, as well as the olive oil. Blitz a few seconds more until the sauce thickens and emulsifies."
+- "Put a ladle full of sauce on a plate and lay the salmon on top, crispy skin up. The fish will warm up the sauce slightly. Serve additional sauce on the side (trust me, it&#39;ll be in demand)."
 categories:
 - Recipe
 tags:
@@ -67,11 +67,11 @@ Top each with a fillet of the fish, spooning the tomato, shrimp and fresh herb. 
 
 ##### Instructions to make Pan-fried salmon with fresh tomato pesto:
 
-1. Add a splash of veg oil to a large pan on medium-high heat. Lay the salmon fillets in, skin-side down. Let fry for 3 to 4 minutes, depending on their thickness, then flip and fry for the same amount of time on the other side. While you're waiting to flip the salmon, whip up the sauce.
-1. Place the basil, tomatoes, garlic and pepper flakes in a food processor and blitz until it's a chunky liquid. Add a good pinch of salt and a few grinds of black pepper, as well as the olive oil. Blitz a few seconds more until the sauce thickens and emulsifies.
-1. Put a ladle full of sauce on a plate and lay the salmon on top, crispy skin up. The fish will warm up the sauce slightly. Serve additional sauce on the side (trust me, it'll be in demand).
+1. Add a splash of veg oil to a large pan on medium-high heat. Lay the salmon fillets in, skin-side down. Let fry for 3 to 4 minutes, depending on their thickness, then flip and fry for the same amount of time on the other side. While you&#39;re waiting to flip the salmon, whip up the sauce.
+1. Place the basil, tomatoes, garlic and pepper flakes in a food processor and blitz until it&#39;s a chunky liquid. Add a good pinch of salt and a few grinds of black pepper, as well as the olive oil. Blitz a few seconds more until the sauce thickens and emulsifies.
+1. Put a ladle full of sauce on a plate and lay the salmon on top, crispy skin up. The fish will warm up the sauce slightly. Serve additional sauce on the side (trust me, it&#39;ll be in demand).
 
 
-Turn, brush again with lemon juice, and sprinkle with the Schwartz Cajun seasoning. Meanwhile, mix the peppers, onion, cucumber and tomatoes in a bowl. This easy Sheet Pan Pesto Salmon and Potatoes uses minimal ingredients, but As for the potatoes, if you've made my Parmesan Pesto Roasted Potatoes you already know how much I It adds just the right amount of fresh acidic flavor to balance the richness of the pesto and salmon. Pan-fried salmon served with delicious, pesto-dressed potatoes and greens. Кулинарные Вытворяшки. This Pan-Fried Salmon recipe from Food Network Kitchen is all about the method: Start with a hot skillet for crispy skin and to prevent sticking. 
+Turn, brush again with lemon juice, and sprinkle with the Schwartz Cajun seasoning. Meanwhile, mix the peppers, onion, cucumber and tomatoes in a bowl. This easy Sheet Pan Pesto Salmon and Potatoes uses minimal ingredients, but As for the potatoes, if you&#39;ve made my Parmesan Pesto Roasted Potatoes you already know how much I It adds just the right amount of fresh acidic flavor to balance the richness of the pesto and salmon. Pan-fried salmon served with delicious, pesto-dressed potatoes and greens. Кулинарные Вытворяшки. This Pan-Fried Salmon recipe from Food Network Kitchen is all about the method: Start with a hot skillet for crispy skin and to prevent sticking. 
 
 So that is going to wrap it up with this exceptional food pan-fried salmon with fresh tomato pesto recipe. Thank you very much for your time. I am sure that you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

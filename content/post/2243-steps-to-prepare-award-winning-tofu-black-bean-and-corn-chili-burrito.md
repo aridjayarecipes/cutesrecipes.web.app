@@ -77,7 +77,7 @@ To begin with this recipe, we must prepare a few components. You can have tofu,b
 1. Make ready  Optional toppings;sliced avocado,sour cream,lettuce and/or chopped fresh cilantro
 
 
-Add some tofu or tempeh like in this recipe for a southwest tofu burrito with avocado by Healthy. This healthy burrito will jump start your day. Make ahead of time for busy mornings! This vegan tofu & black bean chili is packed with plant-based protein and full of flavor. 
+Add some tofu or tempeh like in this recipe for a southwest tofu burrito with avocado by Healthy. This healthy burrito will jump start your day. Make ahead of time for busy mornings! This vegan tofu &amp; black bean chili is packed with plant-based protein and full of flavor. 
 
 <!--inarticleads2-->
 
@@ -90,6 +90,6 @@ Add some tofu or tempeh like in this recipe for a southwest tofu burrito with av
 1. Stir rice into bean mixture. Cover; cook on high 15 minutes.
 
 
-Make ahead of time for busy mornings! This vegan tofu & black bean chili is packed with plant-based protein and full of flavor. Black Pepper Tofu and Green Beans. All Reviews for Chicken and Black Bean-Stuffed Burritos. Disclosure: This recipe for Chicken, Black Bean and Corn Burritos was developed in collaboration with Toufayan Bakeries, who sponsored this post. 
+Make ahead of time for busy mornings! This vegan tofu &amp; black bean chili is packed with plant-based protein and full of flavor. Black Pepper Tofu and Green Beans. All Reviews for Chicken and Black Bean-Stuffed Burritos. Disclosure: This recipe for Chicken, Black Bean and Corn Burritos was developed in collaboration with Toufayan Bakeries, who sponsored this post. 
 
 So that's going to wrap it up with this special food tofu,black bean and corn chili burrito recipe. Thanks so much for your time. I'm confident that you can make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
