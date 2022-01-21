@@ -1,6 +1,5 @@
 {
   "projects": {
-    "cutesrecipes": "cutesrecipes",
     "default": "cutesrecipes",
     "cutesrecipes": "cutesrecipes"
   }
