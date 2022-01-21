@@ -67,7 +67,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Take 1/2 tsp Onion powder
 
 
-Hasselback potatoes with crisp bacon, scallions, Xi&#39;an spice mix of cumin and chili is a great side dish. Remove from the oven and serve with fish, meat or chicken. Today&#39;s recipe for Hasselback Potatoes with Bacon and Cheese is another wonderful way of baking spuds and is an adaptation of a recipe I discovered over at Lauren&#39;s amazing site, called &#34;From Gate to Plate&#34;, which was my assigned blog for March&#39;s Secret Recipe Club. Bacon Cheddar Hasselback Potatoes are fully loaded with cheese and bacon. 
+Hasselback potatoes with crisp bacon, scallions, Xi&#39;an spice mix of cumin and chili is a great side dish. Remove from the oven and serve with fish, meat or chicken. Today&#39;s recipe for Hasselback Potatoes with Bacon and Cheese is another wonderful way of baking spuds and is an adaptation of a recipe I discovered over at Lauren&#39;s amazing site, called "From Gate to Plate", which was my assigned blog for March&#39;s Secret Recipe Club. Bacon Cheddar Hasselback Potatoes are fully loaded with cheese and bacon. 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ Hasselback potatoes with crisp bacon, scallions, Xi&#39;an spice mix of cumin an
 1. Put it into the oven and bake about 45 minutes. Serve with over easy egg and sautéed vegetables (I used spinach, onion andmushrooms). Ear the slices of potato with bacon dipped into runny egg. A taste of heaven. Enjoy your power breakfast 😋.
 
 
-Today&#39;s recipe for Hasselback Potatoes with Bacon and Cheese is another wonderful way of baking spuds and is an adaptation of a recipe I discovered over at Lauren&#39;s amazing site, called &#34;From Gate to Plate&#34;, which was my assigned blog for March&#39;s Secret Recipe Club. Bacon Cheddar Hasselback Potatoes are fully loaded with cheese and bacon. They cook up so perfectly and open up as they cook, so you can fill those potato slices with tons of ooey gooey cheese and crisp smoky bacon. Hasselback-style potatoes have thin, accordion-like slices that turn crisp in the oven. Blue cheese and bacon bring them over the top for the holidays. 
+Today&#39;s recipe for Hasselback Potatoes with Bacon and Cheese is another wonderful way of baking spuds and is an adaptation of a recipe I discovered over at Lauren&#39;s amazing site, called "From Gate to Plate", which was my assigned blog for March&#39;s Secret Recipe Club. Bacon Cheddar Hasselback Potatoes are fully loaded with cheese and bacon. They cook up so perfectly and open up as they cook, so you can fill those potato slices with tons of ooey gooey cheese and crisp smoky bacon. Hasselback-style potatoes have thin, accordion-like slices that turn crisp in the oven. Blue cheese and bacon bring them over the top for the holidays. 
 
 So that is going to wrap this up for this exceptional food hasselback potatoes with bacon recipe. Thank you very much for your time. I am confident that you can make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

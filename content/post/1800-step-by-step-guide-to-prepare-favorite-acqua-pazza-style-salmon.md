@@ -50,7 +50,7 @@ recipecategory: Lunch
 
 Hello everybody, it is Brad, welcome to our recipe site. Today, I'm gonna show you how to make a special dish, acqua pazza style salmon. It is one of my favorites. This time, I'm gonna make it a bit tasty. This is gonna smell and look delicious.
 
-Salmon cooked in &#39;crazy water&#39; (acqua pazza) is a lightning-fast but fresh version of a traditional Italian recipe, where salmon poaches in a flavorful tomato and wine sauce. Easy Salmon Acqua Pazza. this link is to an external site that may or may not meet accessibility guidelines. salmon acqua pazza. When I first started working with Fulton Fish Market, this was the top request for recipes to be developed. Meaning &#34;crazy water&#34; acqua pazza is a traditional Neapolitan dish usually made with white fish, but since salmon is one of the top sellers over at FFM, we wanted to adapt the.
+Salmon cooked in &#39;crazy water&#39; (acqua pazza) is a lightning-fast but fresh version of a traditional Italian recipe, where salmon poaches in a flavorful tomato and wine sauce. Easy Salmon Acqua Pazza. this link is to an external site that may or may not meet accessibility guidelines. salmon acqua pazza. When I first started working with Fulton Fish Market, this was the top request for recipes to be developed. Meaning "crazy water" acqua pazza is a traditional Neapolitan dish usually made with white fish, but since salmon is one of the top sellers over at FFM, we wanted to adapt the.
 
 Acqua pazza style salmon is one of the most popular of recent trending meals on earth. It is enjoyed by millions daily. It's simple, it is fast, it tastes delicious. Acqua pazza style salmon is something that I've loved my whole life. They are nice and they look wonderful.
 

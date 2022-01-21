@@ -25,7 +25,7 @@ recipeingredient:
 - "1 hand coriander finely chopped"
 recipeinstructions:
 - "Place the mussels in a big colander or mixing bowl then in the sink and run water over them, using your hands or a clean scrubbing brush to rub off any unwanted bit like seaweed, sand, barnacles, or mud spots that could be on the shell."
-- "The &#34;beard&#34; of a mussel is the clump of hair-like fibers that sprouts from the shell. Often farm-raised mussels will come debearded, but even so you&#39;ll want to check that there aren&#39;t some pesky ones hanging on. To remove the beard from the mussels, grab it with your thumb and forefinger and tug it toward the hinge of the mussel shell. You can also use a knife to gently scrape away the beard."
+- "The "beard" of a mussel is the clump of hair-like fibers that sprouts from the shell. Often farm-raised mussels will come debearded, but even so you&#39;ll want to check that there aren&#39;t some pesky ones hanging on. To remove the beard from the mussels, grab it with your thumb and forefinger and tug it toward the hinge of the mussel shell. You can also use a knife to gently scrape away the beard."
 - "Bruise lemon grass, chilli and galangal with rolling pin or in pestle and mortar. Tear kaffir lime in half."
 - "Bring water to boil and add all your herbs in. Add your mussels and bring it to high heat to let the mussels cook for 2-3 minutes."
 - "Drained water off and take some of the shells, I tend to take one part and leave some on whole."
@@ -87,7 +87,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 ##### Steps to make Mussels with Thai herbs and Seafood Nham Jim Dipping Sauce🐚 🌶 🌿:
 
 1. Place the mussels in a big colander or mixing bowl then in the sink and run water over them, using your hands or a clean scrubbing brush to rub off any unwanted bit like seaweed, sand, barnacles, or mud spots that could be on the shell.
-1. The &#34;beard&#34; of a mussel is the clump of hair-like fibers that sprouts from the shell. Often farm-raised mussels will come debearded, but even so you&#39;ll want to check that there aren&#39;t some pesky ones hanging on. To remove the beard from the mussels, grab it with your thumb and forefinger and tug it toward the hinge of the mussel shell. You can also use a knife to gently scrape away the beard.
+1. The "beard" of a mussel is the clump of hair-like fibers that sprouts from the shell. Often farm-raised mussels will come debearded, but even so you&#39;ll want to check that there aren&#39;t some pesky ones hanging on. To remove the beard from the mussels, grab it with your thumb and forefinger and tug it toward the hinge of the mussel shell. You can also use a knife to gently scrape away the beard.
 1. Bruise lemon grass, chilli and galangal with rolling pin or in pestle and mortar. Tear kaffir lime in half.
 1. Bring water to boil and add all your herbs in. Add your mussels and bring it to high heat to let the mussels cook for 2-3 minutes.
 1. Drained water off and take some of the shells, I tend to take one part and leave some on whole.

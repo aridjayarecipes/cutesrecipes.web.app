@@ -50,7 +50,7 @@ Hey everyone, hope you are having an incredible day today. Today, we're going to
 
 Sautéed Silverbeet with Chickpeas is one of the most popular of current trending meals on earth. It's easy, it is quick, it tastes yummy. It's appreciated by millions daily. They're nice and they look fantastic. Sautéed Silverbeet with Chickpeas is something that I've loved my entire life.
 
-Add silverbeet, in batches and cook until just wilted. Stir in chickpeas, chilli, yoghurt and seasoning, and warm through, without allowing it to boil. Join me as I take Lacinato kale, baby bok choy and mixed greens grown at my community urban farm, &#34;Black Joy Farm&#34; and make a quick and easy plant based. This simple silverbeet recipe with chickpeas in a tomato and garlic breadcrumbs sauce can be enjoyed hot or cold, as a side or tapas dish.
+Add silverbeet, in batches and cook until just wilted. Stir in chickpeas, chilli, yoghurt and seasoning, and warm through, without allowing it to boil. Join me as I take Lacinato kale, baby bok choy and mixed greens grown at my community urban farm, "Black Joy Farm" and make a quick and easy plant based. This simple silverbeet recipe with chickpeas in a tomato and garlic breadcrumbs sauce can be enjoyed hot or cold, as a side or tapas dish.
 
 
 To begin with this recipe, we have to first prepare a few ingredients. You can cook sautéed silverbeet with chickpeas using 10 ingredients and 5 steps. Here is how you can achieve that.

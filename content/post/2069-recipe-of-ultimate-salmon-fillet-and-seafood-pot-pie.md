@@ -90,7 +90,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have salmo
 1. Make ready 1/4 cup Sherry
 1. Prepare 1/4 cup Tomato Sauce
 1. Make ready 1/2 cup Heavy Cream
-1. Get 1 8oz Lobster Meat, cut into 1&#34; chunks
+1. Get 1 8oz Lobster Meat, cut into 1" chunks
 1. Take 4 each Scallops, halved or quartered depending on size, divided
 1. Get 1/4 cup Peas, thawed
 1. Prepare 1 Egg Yolk

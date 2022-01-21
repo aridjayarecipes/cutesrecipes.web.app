@@ -20,10 +20,10 @@ recipeingredient:
 - "100 g Banana"
 - "1 tsp Banana essence"
 recipeinstructions:
-- "Beat &#34;sugar&#34; and &#34;eggs&#34; and &#34;SP&#34; together lightly"
-- "Sift &#34;cake flour&#34; and &#34;baking powder&#34;"
+- "Beat "sugar" and "eggs" and "SP" together lightly"
+- "Sift "cake flour" and "baking powder""
 - "Mix (1) and (2) together; Start beat then lightly and beat using high speed for 5 minutes until fluffy white"
-- "Add &#34;melted unsalted butter&#34; and &#34;evaporated milk&#34; and &#34;banana&#34; and &#34;banana essence&#34; and mix with (3) until smooth"
+- "Add "melted unsalted butter" and "evaporated milk" and "banana" and "banana essence" and mix with (3) until smooth"
 - "Beat at low speed for 1 minute before baking"
 - "Pour into cupcake trays"
 - "Bake at 180C for 12-15 minutes"
@@ -77,10 +77,10 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 
 ##### Steps to make Mimi&#39;s Favourite Banana Cupcakes:
 
-1. Beat &#34;sugar&#34; and &#34;eggs&#34; and &#34;SP&#34; together lightly
-1. Sift &#34;cake flour&#34; and &#34;baking powder&#34;
+1. Beat "sugar" and "eggs" and "SP" together lightly
+1. Sift "cake flour" and "baking powder"
 1. Mix (1) and (2) together; Start beat then lightly and beat using high speed for 5 minutes until fluffy white
-1. Add &#34;melted unsalted butter&#34; and &#34;evaporated milk&#34; and &#34;banana&#34; and &#34;banana essence&#34; and mix with (3) until smooth
+1. Add "melted unsalted butter" and "evaporated milk" and "banana" and "banana essence" and mix with (3) until smooth
 1. Beat at low speed for 1 minute before baking
 1. Pour into cupcake trays
 1. Bake at 180C for 12-15 minutes

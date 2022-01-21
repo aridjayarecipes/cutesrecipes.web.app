@@ -34,7 +34,7 @@ recipeinstructions:
 - "Season your fillets to taste. Do not use fresh herbs to BBQ.Feel free to go heavy on the Sumac tho! Place salmon on a ventilated rack - skin side down. Do not use fresh herbs on anything BBQ/Grill style as they will only burn and wither quickly, Use only dried herbs when BBQ&#39;ing/Smoking."
 - "Cover tightly and smoke for 1.5 hours. Monitor temperature to make sure she stays at a steady 200°."
 - "Check fish half way thru for doneness and re-seal smoker quickly. You don&#39;t want to flare your woods and burn them out. Look at her! Ain&#39;t she pretty?!"
-- "Rinse asparagus and pat dry. Cut off the bottom 2&#34; of stems. Coat asparagus with garlic olive oil and season with lemon pepper and parmasean cheese. Grill for 30 minutes at 250°. Longer of need be depending upon thickness."
+- "Rinse asparagus and pat dry. Cut off the bottom 2" of stems. Coat asparagus with garlic olive oil and season with lemon pepper and parmasean cheese. Grill for 30 minutes at 250°. Longer of need be depending upon thickness."
 - "Serve smoked salmon with fresh lemon slices and fresh dill."
 - "Enjoy!"
 - "Feel free to turn any salmon leftovers into an elegant salmon bagel spread!"
@@ -102,7 +102,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 1. Season your fillets to taste. Do not use fresh herbs to BBQ.Feel free to go heavy on the Sumac tho! Place salmon on a ventilated rack - skin side down. Do not use fresh herbs on anything BBQ/Grill style as they will only burn and wither quickly, Use only dried herbs when BBQ&#39;ing/Smoking.
 1. Cover tightly and smoke for 1.5 hours. Monitor temperature to make sure she stays at a steady 200°.
 1. Check fish half way thru for doneness and re-seal smoker quickly. You don&#39;t want to flare your woods and burn them out. Look at her! Ain&#39;t she pretty?!
-1. Rinse asparagus and pat dry. Cut off the bottom 2&#34; of stems. Coat asparagus with garlic olive oil and season with lemon pepper and parmasean cheese. Grill for 30 minutes at 250°. Longer of need be depending upon thickness.
+1. Rinse asparagus and pat dry. Cut off the bottom 2" of stems. Coat asparagus with garlic olive oil and season with lemon pepper and parmasean cheese. Grill for 30 minutes at 250°. Longer of need be depending upon thickness.
 1. Serve smoked salmon with fresh lemon slices and fresh dill.
 1. Enjoy!
 1. Feel free to turn any salmon leftovers into an elegant salmon bagel spread!

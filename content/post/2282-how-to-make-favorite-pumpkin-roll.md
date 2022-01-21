@@ -109,6 +109,6 @@ There&#39;s no fret with this pumpkin cake roll. With a few simple tips you&#39;
 1. Chill at least 1hr before cutting and serving.
 
 
-This pumpkin cake roll is an impressive fall or winter dessert. Pumpkin spice flavors combine with a scrumptious cream cheese filling. Pumpkin Spice Roll Cookies: What to Expect. One of my recipe testers said &#34;the pumpkin flavor comes through and. This pumpkin roll recipe with maple cream cheese filling is a delicious, moist and festive pumpkin cake and is the perfect fall dessert everyone will love. 
+This pumpkin cake roll is an impressive fall or winter dessert. Pumpkin spice flavors combine with a scrumptious cream cheese filling. Pumpkin Spice Roll Cookies: What to Expect. One of my recipe testers said "the pumpkin flavor comes through and. This pumpkin roll recipe with maple cream cheese filling is a delicious, moist and festive pumpkin cake and is the perfect fall dessert everyone will love. 
 
 So that's going to wrap this up for this special food pumpkin roll recipe. Thanks so much for your time. I'm sure you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

@@ -45,7 +45,7 @@ Hello everybody, I hope you're having an incredible day today. Today, I will sho
 
 Imli allo bukhara ka shrbut (Tamarind drink) is one of the most well liked of recent trending foods in the world. It's enjoyed by millions every day. It is easy, it is fast, it tastes delicious. They're fine and they look fantastic. Imli allo bukhara ka shrbut (Tamarind drink) is something that I've loved my entire life.
 
-Imli Aloo Bukhara ka Sharbat Recipe by flavour is here. Imli ki &#34;Khati Methi&#34; Chatni - Tamarind Sauce Recipe By Merium Pervaiz !! Recipe guide how to make Imli allo bukhara ka shrbut (Tamarind drink) by Zoya Khan. Make pulp of tamarind and dry plum.
+Imli Aloo Bukhara ka Sharbat Recipe by flavour is here. Imli ki "Khati Methi" Chatni - Tamarind Sauce Recipe By Merium Pervaiz !! Recipe guide how to make Imli allo bukhara ka shrbut (Tamarind drink) by Zoya Khan. Make pulp of tamarind and dry plum.
 
 
 To get started with this particular recipe, we have to first prepare a few components. You can cook imli allo bukhara ka shrbut (tamarind drink) using 5 ingredients and 5 steps. Here is how you cook it.

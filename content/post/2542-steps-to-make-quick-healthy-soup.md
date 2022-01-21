@@ -61,7 +61,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 1. Get 2 medium size tomato diced
 1. Take 1 medium size onion diced
-1. Make ready 1 &#34; ginger
+1. Make ready 1 " ginger
 1. Make ready 1 garlic cloves
 1. Get 1 tbsp black pepper
 1. Make ready 1/2 tbsp cumin seeds

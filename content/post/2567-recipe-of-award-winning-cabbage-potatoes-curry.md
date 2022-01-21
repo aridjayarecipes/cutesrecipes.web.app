@@ -67,7 +67,7 @@ To begin with this recipe, we must prepare a few components. You can have cabbag
 1. Prepare 1/2 cabbage chopped
 1. Take 2 Potatoes cut into cubes
 1. Prepare 1 tomato chopped
-1. Get 1 &#34; ginger
+1. Get 1 " ginger
 1. Make ready 1 tbsp cumin powder
 1. Prepare 1 tsp red chilli Powder
 1. Make ready 2 green chillies chopped

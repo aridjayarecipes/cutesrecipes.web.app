@@ -67,7 +67,7 @@ To begin with this recipe, we have to prepare a few components. You can cook car
 1. Prepare 1 little black pepper
 
 
-Carrot and tofu stir-fry（Ninjin-Shirishiri) step by step. Put oil in a frying pan and heat, add carrot and salt. Ninjin Shirishiri is basically carrot, tuna and egg stir-fry dish from Okinawa prefecture in Japan. This dish is pretty simple and very nutritious. &#34;Ninjin-Shirishiri&#34; is a local dish of Okinawa Prefecture in Japan. 
+Carrot and tofu stir-fry（Ninjin-Shirishiri) step by step. Put oil in a frying pan and heat, add carrot and salt. Ninjin Shirishiri is basically carrot, tuna and egg stir-fry dish from Okinawa prefecture in Japan. This dish is pretty simple and very nutritious. "Ninjin-Shirishiri" is a local dish of Okinawa Prefecture in Japan. 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ Carrot and tofu stir-fry（Ninjin-Shirishiri) step by step. Put oil in a frying 
 1. Add A and mix gently.
 
 
-Ninjin Shirishiri is basically carrot, tuna and egg stir-fry dish from Okinawa prefecture in Japan. This dish is pretty simple and very nutritious. &#34;Ninjin-Shirishiri&#34; is a local dish of Okinawa Prefecture in Japan. It is a dish that is shred thecarrots and eggs and seasoned with seasonings. Put oil in a frying pan and heat, add carrot and salt. If the whole oil turns, Add the bite-sized tofu. 
+Ninjin Shirishiri is basically carrot, tuna and egg stir-fry dish from Okinawa prefecture in Japan. This dish is pretty simple and very nutritious. "Ninjin-Shirishiri" is a local dish of Okinawa Prefecture in Japan. It is a dish that is shred thecarrots and eggs and seasoned with seasonings. Put oil in a frying pan and heat, add carrot and salt. If the whole oil turns, Add the bite-sized tofu. 
 
 So that is going to wrap it up with this special food carrot and tofu stir-fry（ninjin-shirishiri) recipe. Thanks so much for reading. I am confident that you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

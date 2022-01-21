@@ -18,7 +18,7 @@ recipeinstructions:
 - "Open all cans and empty beans, tomatoes and green chilis into a stock pot, including liquid from cans."
 - "Add pinto bean seasoning and stir well to combine."
 - "Heat over medium heat until liquid just begins to boil, stirring occasionally. Reduce heat and simmer for 20-30 minutes."
-- "Serve hot and top with cheese for a tasty Tex-Mex side dish or as a layer in build-your-own &#34;Chipotle&#34; style bowls."
+- "Serve hot and top with cheese for a tasty Tex-Mex side dish or as a layer in build-your-own "Chipotle" style bowls."
 categories:
 - Recipe
 tags:
@@ -67,7 +67,7 @@ To get started with this particular recipe, we have to prepare a few components.
 1. Open all cans and empty beans, tomatoes and green chilis into a stock pot, including liquid from cans.
 1. Add pinto bean seasoning and stir well to combine.
 1. Heat over medium heat until liquid just begins to boil, stirring occasionally. Reduce heat and simmer for 20-30 minutes.
-1. Serve hot and top with cheese for a tasty Tex-Mex side dish or as a layer in build-your-own &#34;Chipotle&#34; style bowls.
+1. Serve hot and top with cheese for a tasty Tex-Mex side dish or as a layer in build-your-own "Chipotle" style bowls.
 
 
 

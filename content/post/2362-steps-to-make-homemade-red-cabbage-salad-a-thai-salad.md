@@ -53,7 +53,7 @@ recipecategory: Lunch
 
 Hello everybody, hope you are having an incredible day today. Today, we're going to prepare a special dish, red cabbage salad - a thai salad. One of my favorites food recipes. For mine, I am going to make it a little bit unique. This will be really delicious.
 
-Red cabbage salad - A Thai salad. finely cut red cabbage•finely shredded carrots•boiled green peas•chopped spring onion•cut coriander•ground salted pea nuts•cooked barnyard millet or quinoa•sesame oil. A versatile red cabbage salad that goes with most cuisines, including Middle Eastern, Asian, Mexican, European, Italian and Southern. It&#39;s my standard &#34;go to&#34; salad because I pretty much always have red cabbage in the fridge (because it lasts for weeks!). I picked a red cabbage this morning and it was so sweet and juicy I made a raw salad.
+Red cabbage salad - A Thai salad. finely cut red cabbage•finely shredded carrots•boiled green peas•chopped spring onion•cut coriander•ground salted pea nuts•cooked barnyard millet or quinoa•sesame oil. A versatile red cabbage salad that goes with most cuisines, including Middle Eastern, Asian, Mexican, European, Italian and Southern. It&#39;s my standard "go to" salad because I pretty much always have red cabbage in the fridge (because it lasts for weeks!). I picked a red cabbage this morning and it was so sweet and juicy I made a raw salad.
 
 Red cabbage salad - A Thai salad is one of the most popular of recent trending foods on earth. It is enjoyed by millions every day. It is easy, it is fast, it tastes delicious. They are fine and they look fantastic. Red cabbage salad - A Thai salad is something that I have loved my entire life.
 

@@ -19,7 +19,7 @@ recipeingredient:
 recipeinstructions:
 - "Preheat oven at 400"
 - "Combine pumpkin, eggs, milk, salt, and pumpkin pie spice."
-- "Using a circular mold or jar, cut pie crust. Ideally you need a 3-4 inch mold. A wide mouth jar is 3&#34;"
+- "Using a circular mold or jar, cut pie crust. Ideally you need a 3-4 inch mold. A wide mouth jar is 3""
 - "Add pie crust to cupcake pan"
 - "Add pie filling"
 - "Bake for 30 minutes at 400F."
@@ -72,7 +72,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 1. Preheat oven at 400
 1. Combine pumpkin, eggs, milk, salt, and pumpkin pie spice.
-1. Using a circular mold or jar, cut pie crust. Ideally you need a 3-4 inch mold. A wide mouth jar is 3&#34;
+1. Using a circular mold or jar, cut pie crust. Ideally you need a 3-4 inch mold. A wide mouth jar is 3"
 1. Add pie crust to cupcake pan
 1. Add pie filling
 1. Bake for 30 minutes at 400F.

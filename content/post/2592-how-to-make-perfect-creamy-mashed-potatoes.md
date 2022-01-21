@@ -60,7 +60,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Get 1/2 tsp pepper
 
 
-Place them back into the dry pot and put the pot on the stove. Great recipe for &#34;ultra creamy&#34; mashed potatoes! It&#39;s straight forward and just plain delicious. The perfect mashed potato to accompnay your favorite gravy! 
+Place them back into the dry pot and put the pot on the stove. Great recipe for "ultra creamy" mashed potatoes! It&#39;s straight forward and just plain delicious. The perfect mashed potato to accompnay your favorite gravy! 
 
 <!--inarticleads2-->
 

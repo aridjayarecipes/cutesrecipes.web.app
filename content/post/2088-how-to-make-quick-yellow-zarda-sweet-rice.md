@@ -85,7 +85,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Take  Colour full sweet as your require
 
 
-This Zarda Sweet Rice is a healthier twist to a traditional recipe, with half the sugar and less fat. The word Zarda comes from the Urdu word Zard which means &#34;yellow,&#34; hence why this beautiful bright yellow rice dish has its name. It&#39;s a popular dessert in Pakistan, Bangladesh, India, Iran and. &#39;Zarda&#39; happens to be the simplest of desserts, defining the best of joys; a sweet delight served at The yellow zarda is a favoured dessert distributed at Sufi shrines that dot the subcontinent. Parboil rice with yellow food colouring and set aside. 
+This Zarda Sweet Rice is a healthier twist to a traditional recipe, with half the sugar and less fat. The word Zarda comes from the Urdu word Zard which means "yellow," hence why this beautiful bright yellow rice dish has its name. It&#39;s a popular dessert in Pakistan, Bangladesh, India, Iran and. &#39;Zarda&#39; happens to be the simplest of desserts, defining the best of joys; a sweet delight served at The yellow zarda is a favoured dessert distributed at Sufi shrines that dot the subcontinent. Parboil rice with yellow food colouring and set aside. 
 
 <!--inarticleads2-->
 

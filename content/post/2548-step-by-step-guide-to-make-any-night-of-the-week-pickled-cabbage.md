@@ -21,7 +21,7 @@ recipeingredient:
 recipeinstructions:
 - "Combine water, vinegar and sugar in a pot and bring to boil."
 - "Add 1 tablespoon of pickling salt, 1 tablespoon of juniper berries and 1 tablespoon of pickling seasonning mix to each jar."
-- "Fill in the jars with cabbage, making sure it&#39;s compact and cover with hot liquid, leaving 1/2&#34; of empty space till opening."
+- "Fill in the jars with cabbage, making sure it&#39;s compact and cover with hot liquid, leaving 1/2" of empty space till opening."
 - "Proceed with sterelisation."
 - "Let marinate 1 month before opening."
 - "Enjoy!"
@@ -75,7 +75,7 @@ It started with pickles a few years back. I made a dozen variations and always h
 
 1. Combine water, vinegar and sugar in a pot and bring to boil.
 1. Add 1 tablespoon of pickling salt, 1 tablespoon of juniper berries and 1 tablespoon of pickling seasonning mix to each jar.
-1. Fill in the jars with cabbage, making sure it&#39;s compact and cover with hot liquid, leaving 1/2&#34; of empty space till opening.
+1. Fill in the jars with cabbage, making sure it&#39;s compact and cover with hot liquid, leaving 1/2" of empty space till opening.
 1. Proceed with sterelisation.
 1. Let marinate 1 month before opening.
 1. Enjoy!

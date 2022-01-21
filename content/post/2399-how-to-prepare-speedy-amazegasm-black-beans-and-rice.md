@@ -66,7 +66,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Prepare 2 dash lime juice
 
 
-This simple Black Beans and Rice recipe uses canned black beans for an easy but delicious take on a popular Cuban dish. &#34;The Cuban-style black beans and rice were tasty and a simple recipe to prepare and cook. The flavors were well balanced, and I didn&#39;t add salt because the recaito is. Simple recipe for delicious black beans and rice, made in a pressure cooker, no soaking required! Where I lived in the south, black beans reign supreme, and the method of cooking them that I&#39;m going to share with you today is how the local people would prepare them day in and day out. 
+This simple Black Beans and Rice recipe uses canned black beans for an easy but delicious take on a popular Cuban dish. "The Cuban-style black beans and rice were tasty and a simple recipe to prepare and cook. The flavors were well balanced, and I didn&#39;t add salt because the recaito is. Simple recipe for delicious black beans and rice, made in a pressure cooker, no soaking required! Where I lived in the south, black beans reign supreme, and the method of cooking them that I&#39;m going to share with you today is how the local people would prepare them day in and day out. 
 
 <!--inarticleads2-->
 

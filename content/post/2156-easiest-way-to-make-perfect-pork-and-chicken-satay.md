@@ -45,7 +45,7 @@ recipeinstructions:
 - "Preheat grill. Add skewers to grill, and cook, turning occasionally, until the chicken and pork is completely cooked through, reaching an internal temperature of 165 degrees F, about 12-15 minutes."
 - "Garnish/ side dish: chop cabbage and carrots as thinly as possible (you can also add mangoes) then add japanese mayo. Also cut tomatoes or you can just use cherry tomatoes."
 - "Serve immediately with peanut sauce."
-- "You can visit my YouTube Channel for Video tutorial. Just search &#34;RJP Creatives&#34; and subscribe. Thank you and watch out for more simple recipes."
+- "You can visit my YouTube Channel for Video tutorial. Just search "RJP Creatives" and subscribe. Thank you and watch out for more simple recipes."
 categories:
 - Recipe
 tags:
@@ -121,7 +121,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Preheat grill. Add skewers to grill, and cook, turning occasionally, until the chicken and pork is completely cooked through, reaching an internal temperature of 165 degrees F, about 12-15 minutes.
 1. Garnish/ side dish: chop cabbage and carrots as thinly as possible (you can also add mangoes) then add japanese mayo. Also cut tomatoes or you can just use cherry tomatoes.
 1. Serve immediately with peanut sauce.
-1. You can visit my YouTube Channel for Video tutorial. Just search &#34;RJP Creatives&#34; and subscribe. Thank you and watch out for more simple recipes.
+1. You can visit my YouTube Channel for Video tutorial. Just search "RJP Creatives" and subscribe. Thank you and watch out for more simple recipes.
 
 
 

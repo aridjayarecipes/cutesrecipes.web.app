@@ -68,7 +68,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 1. Prepare 2 tsp cumin
 
 
-Black Beans and Rice is a tasty Cuban recipe, with chicken broth, white rice, garlic, cumin, cayenne pepper and black beans. Black Beans and Rice is a great side dish, and can be served up with burritos, enchiladas, tacos, and more. If this is your first time making dinner or you&#39;re trying to teach. &#34;The Cuban-style black beans and rice were tasty and a simple recipe to prepare and cook. The majority of black bean dishes can be split into two groups: beans with rice and without it. 
+Black Beans and Rice is a tasty Cuban recipe, with chicken broth, white rice, garlic, cumin, cayenne pepper and black beans. Black Beans and Rice is a great side dish, and can be served up with burritos, enchiladas, tacos, and more. If this is your first time making dinner or you&#39;re trying to teach. "The Cuban-style black beans and rice were tasty and a simple recipe to prepare and cook. The majority of black bean dishes can be split into two groups: beans with rice and without it. 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ Black Beans and Rice is a tasty Cuban recipe, with chicken broth, white rice, ga
 1. Top with sour cream and green onions if desired.
 
 
-If this is your first time making dinner or you&#39;re trying to teach. &#34;The Cuban-style black beans and rice were tasty and a simple recipe to prepare and cook. The majority of black bean dishes can be split into two groups: beans with rice and without it. I&#39;ve chosen to make the classic Cuban black beans and rice dish with a historic name &#34;Moros Y Cristianos&#34; which is &#34;Moors and. An iconic Cuban black beans and rice side dish called congri (or moros y cristianos) made with long-grain rice, black beans, bacon, and fragrant spices. The difference between congri and black beans and rice is that you make Cuban black beans separately from the white rice for rice and beans. 
+If this is your first time making dinner or you&#39;re trying to teach. "The Cuban-style black beans and rice were tasty and a simple recipe to prepare and cook. The majority of black bean dishes can be split into two groups: beans with rice and without it. I&#39;ve chosen to make the classic Cuban black beans and rice dish with a historic name "Moros Y Cristianos" which is "Moors and. An iconic Cuban black beans and rice side dish called congri (or moros y cristianos) made with long-grain rice, black beans, bacon, and fragrant spices. The difference between congri and black beans and rice is that you make Cuban black beans separately from the white rice for rice and beans. 
 
 So that is going to wrap it up for this exceptional food cuban black beans and rice recipe. Thank you very much for your time. I am sure you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

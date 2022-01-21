@@ -67,7 +67,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Get 2 pounds pork shoulder, cut into 1-1/2 inch cubes and seasoned with 1 teaspoon kosher salt + 1/2 teaspoon black pepper
 1. Prepare 2 Tablespoons olive oil
 1. Get 1/2 an onion, cut into 1/4-inch wide pieces
-1. Take 1/2 a red bell pepper, cored and cut into 1/4&#34; thick slices
+1. Take 1/2 a red bell pepper, cored and cut into 1/4" thick slices
 1. Get 4 cloves garlic, peeled and smashed
 1. Make ready 1 tomato, cut into 6 pieces (or 1/3 cup canned tomatoes)
 1. Get 1 teaspoon oregano

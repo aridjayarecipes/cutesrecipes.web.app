@@ -25,7 +25,7 @@ recipeingredient:
 - "1 to 2 tablespoons Olive oil"
 recipeinstructions:
 - "Prepare the ingredients. Use vegetables of your choice. I used the vegetables listed above."
-- "This is my tomato sauce recipe &#34;Tomato Sauce : Simply Simmer for a Rich, All-Purpose Sauce.&#34;."
+- "This is my tomato sauce recipe "Tomato Sauce : Simply Simmer for a Rich, All-Purpose Sauce."."
 - "Cut the vegetables into even sizes."
 - "I use a pressure cooker for this. Put the vegetables and a bay leaf, if you have one, in a pressure cooker. Use a normal pot if you don&#39;t have a pressure cooker."
 - "Add the dashi stock sachet or you can make dashi stock beforehand and add to the pot. A bay leaf is optional, but I prefer using it."
@@ -90,7 +90,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 ##### Steps to make Simple, Healthy and Additive-Free Vegetable Soup Curry:
 
 1. Prepare the ingredients. Use vegetables of your choice. I used the vegetables listed above.
-1. This is my tomato sauce recipe &#34;Tomato Sauce : Simply Simmer for a Rich, All-Purpose Sauce.&#34;.
+1. This is my tomato sauce recipe "Tomato Sauce : Simply Simmer for a Rich, All-Purpose Sauce.".
 1. Cut the vegetables into even sizes.
 1. I use a pressure cooker for this. Put the vegetables and a bay leaf, if you have one, in a pressure cooker. Use a normal pot if you don&#39;t have a pressure cooker.
 1. Add the dashi stock sachet or you can make dashi stock beforehand and add to the pot. A bay leaf is optional, but I prefer using it.

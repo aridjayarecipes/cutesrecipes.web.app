@@ -76,7 +76,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 1. Make ready  Garlic peri-peri sauce
 
 
-The combination of… The homemade Nando&#39;s Peri Peri sauce is a copycat that tastes remarkably similar! It&#39;s made with fresh red chillies, capsicum/bell pepper (this is the &#34;secret&#34; ingredient), garlic, vinegar, oil plus herbs and What I really love about the Peri Peri Sauce marinade is that you can make it as burgers or not. My awesome brother-in-law made this salmon recently - looks scrumptious! Making homemade fish patties are simple to prepare and cooks in just. 
+The combination of… The homemade Nando&#39;s Peri Peri sauce is a copycat that tastes remarkably similar! It&#39;s made with fresh red chillies, capsicum/bell pepper (this is the "secret" ingredient), garlic, vinegar, oil plus herbs and What I really love about the Peri Peri Sauce marinade is that you can make it as burgers or not. My awesome brother-in-law made this salmon recently - looks scrumptious! Making homemade fish patties are simple to prepare and cooks in just. 
 
 <!--inarticleads2-->
 

@@ -26,7 +26,7 @@ recipeingredient:
 - " As per taste Salt"
 - "2 tbsp fresh coriander leaves"
 recipeinstructions:
-- "Cut the paneer to 1/2&#34; pieces. Coat them with a tsp of oil and grill them for 8 minutes. Alternately you can deep fry or shallow fry them in oil. I prefer to grill it to keep it healthy."
+- "Cut the paneer to 1/2" pieces. Coat them with a tsp of oil and grill them for 8 minutes. Alternately you can deep fry or shallow fry them in oil. I prefer to grill it to keep it healthy."
 - "Wash clean and chop the cabbage small. Heat the oil in a pan. Add jeera, when it splutters add haldi, hing, ginger paste and onions."
 - "Add the mutter and cook it covered for 2 minutes. The mutter will start popping. Then add the cabbage and mix well."
 - "Add garam masala powder, dhania powder, chilli powder and salt. Cook it closed for 10 minutes mixing in between."
@@ -88,7 +88,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 
 ##### Instructions to make Cabbage Mutter Paneer:
 
-1. Cut the paneer to 1/2&#34; pieces. Coat them with a tsp of oil and grill them for 8 minutes. Alternately you can deep fry or shallow fry them in oil. I prefer to grill it to keep it healthy.
+1. Cut the paneer to 1/2" pieces. Coat them with a tsp of oil and grill them for 8 minutes. Alternately you can deep fry or shallow fry them in oil. I prefer to grill it to keep it healthy.
 1. Wash clean and chop the cabbage small. Heat the oil in a pan. Add jeera, when it splutters add haldi, hing, ginger paste and onions.
 1. Add the mutter and cook it covered for 2 minutes. The mutter will start popping. Then add the cabbage and mix well.
 1. Add garam masala powder, dhania powder, chilli powder and salt. Cook it closed for 10 minutes mixing in between.

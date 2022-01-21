@@ -69,7 +69,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Prepare 5 tbs garlic, black bean paste
 1. Prepare 2 tbs mirin
 1. Take 1 tsp minced garlic
-1. Take 1 thin piece of crystallized ginger about 3&#34; long, minced
+1. Take 1 thin piece of crystallized ginger about 3" long, minced
 1. Prepare 3 stalks lemongrass, sliced paper thin
 1. Take  For the prawns
 1. Make ready 1.5 lbs large prawns, I used wild caught

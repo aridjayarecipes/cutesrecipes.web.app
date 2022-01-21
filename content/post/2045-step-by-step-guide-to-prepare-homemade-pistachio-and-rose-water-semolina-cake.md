@@ -145,7 +145,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Take 1/2 cup cane sugar
 
 
-Ottolenghi Pistachio and Rose Semolina Cake. From the Book &#34;Sweet&#34; by Yotam Ottolenghi and Helen Goh. Next fold in the lemon zest, lemon juice, rose water and vanilla extract and scrape the batter into the pan. Lemon Cake with Rose WaterReceitas Da Felicidade! 
+Ottolenghi Pistachio and Rose Semolina Cake. From the Book "Sweet" by Yotam Ottolenghi and Helen Goh. Next fold in the lemon zest, lemon juice, rose water and vanilla extract and scrape the batter into the pan. Lemon Cake with Rose WaterReceitas Da Felicidade! 
 
 <!--inarticleads2-->
 

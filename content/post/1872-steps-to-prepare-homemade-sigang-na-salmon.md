@@ -41,7 +41,7 @@ recipecategory: Dinner
 
 Hello everybody, it is Drew, welcome to my recipe page. Today, we're going to make a distinctive dish, sigang na salmon. One of my favorites. For mine, I will make it a bit tasty. This is gonna smell and look delicious.
 
-Sinigang means &#34;stewed&#34;, it is a nominalized form of the Tagalog verb sigang, &#34;to stew&#34;. It is originated here in Phillipines and has so many versio a fish. The salmon heads are the main stars of the dish. It is delicious and very tasty.
+Sinigang means "stewed", it is a nominalized form of the Tagalog verb sigang, "to stew". It is originated here in Phillipines and has so many versio a fish. The salmon heads are the main stars of the dish. It is delicious and very tasty.
 
 Sigang na Salmon is one of the most well liked of recent trending meals in the world. It is enjoyed by millions every day. It's simple, it is fast, it tastes yummy. Sigang na Salmon is something that I have loved my whole life. They're nice and they look wonderful.
 

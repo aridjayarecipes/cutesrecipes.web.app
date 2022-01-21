@@ -45,7 +45,7 @@ recipecategory: Dinner
 
 Hello everybody, it is Brad, welcome to our recipe page. Today, we're going to make a special dish, pumpkins and potatoes. One of my favorites food recipes. For mine, I'm gonna make it a bit unique. This will be really delicious.
 
-While neither pumpkins nor sweet potatoes make the &#34;superfood&#34; cut, research shows that their But while sweet potatoes have more calories, that&#39;s because they are packed with greater amounts of. Baked pumpkins and potatoes, pumpkin pie and glass with rose wine on wooden table isolated on grey. Yellow color vegetables: corn , turnip,scallop squash, potato,pumpkin isolated on white. Your Pumpkins Potatoes stock images are ready.
+While neither pumpkins nor sweet potatoes make the "superfood" cut, research shows that their But while sweet potatoes have more calories, that&#39;s because they are packed with greater amounts of. Baked pumpkins and potatoes, pumpkin pie and glass with rose wine on wooden table isolated on grey. Yellow color vegetables: corn , turnip,scallop squash, potato,pumpkin isolated on white. Your Pumpkins Potatoes stock images are ready.
 
 Pumpkins and Potatoes is one of the most well liked of recent trending foods in the world. It is simple, it's quick, it tastes yummy. It's enjoyed by millions daily. They are fine and they look wonderful. Pumpkins and Potatoes is something which I've loved my whole life.
 

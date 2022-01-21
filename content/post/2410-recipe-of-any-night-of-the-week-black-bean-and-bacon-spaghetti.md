@@ -86,7 +86,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Make ready 300 grams of spaghetti
 
 
-This spaghetti sauce is very flexible. You can omit the spice by leaving out the peperoncino, or you can leave out the cheese, or even both. The spaghetti essentials are the herbs, beans, olive oil and bacon. Southwestern Black Bean Noodle Bowl with Avocado &#34;Sour Cream&#34;. 
+This spaghetti sauce is very flexible. You can omit the spice by leaving out the peperoncino, or you can leave out the cheese, or even both. The spaghetti essentials are the herbs, beans, olive oil and bacon. Southwestern Black Bean Noodle Bowl with Avocado "Sour Cream". 
 
 <!--inarticleads2-->
 
@@ -106,6 +106,6 @@ This spaghetti sauce is very flexible. You can omit the spice by leaving out the
 1. Plate your pasta and sprinkle with crumbled bacon and a pinch of parsley for garnish.
 
 
-The spaghetti essentials are the herbs, beans, olive oil and bacon. Southwestern Black Bean Noodle Bowl with Avocado &#34;Sour Cream&#34;. The best weeknight meals are quick and easy to prepare, but still packed with healthy and tasty That&#39;s why this recipe swaps in better-for-you black bean spaghetti and features a lemony avocado dressing instead of sour cream. The dish forms part of a family of dishes involving pasta with bacon, cheese and pepper, one of which is pasta alla gricia. to the term &#34;coal miner&#39;s spaghetti&#34;. It has even been suggested that it was created as a tribute to the Carbonari (&#39;charcoalmen&#39;) secret society. 
+The spaghetti essentials are the herbs, beans, olive oil and bacon. Southwestern Black Bean Noodle Bowl with Avocado "Sour Cream". The best weeknight meals are quick and easy to prepare, but still packed with healthy and tasty That&#39;s why this recipe swaps in better-for-you black bean spaghetti and features a lemony avocado dressing instead of sour cream. The dish forms part of a family of dishes involving pasta with bacon, cheese and pepper, one of which is pasta alla gricia. to the term "coal miner&#39;s spaghetti". It has even been suggested that it was created as a tribute to the Carbonari (&#39;charcoalmen&#39;) secret society. 
 
 So that is going to wrap it up with this exceptional food black bean and bacon spaghetti recipe. Thank you very much for your time. I am sure you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

@@ -72,7 +72,7 @@ Hey everyone, it is Drew, welcome to our recipe page. Today, we're going to prep
 
 Stuffed whole cabbage is one of the most popular of recent trending foods on earth. It's easy, it's quick, it tastes yummy. It's appreciated by millions every day. They're fine and they look wonderful. Stuffed whole cabbage is something that I've loved my whole life.
 
-When I discovered you could stuff a whole cabbage instead of the individual leaves, I never made &#34;cabbage rolls&#34; again. I find this to be much easier and quicker than stuffing the leaves. Photo: Luca Trovato Don&#39;t let any of your cabbage go to waste. My good friend and accomplished amateur cook Jean-Michel Valette speaks fondly of his childhood days in France.
+When I discovered you could stuff a whole cabbage instead of the individual leaves, I never made "cabbage rolls" again. I find this to be much easier and quicker than stuffing the leaves. Photo: Luca Trovato Don&#39;t let any of your cabbage go to waste. My good friend and accomplished amateur cook Jean-Michel Valette speaks fondly of his childhood days in France.
 
 
 To get started with this recipe, we have to prepare a few components. You can have stuffed whole cabbage using 16 ingredients and 21 steps. Here is how you can achieve that.

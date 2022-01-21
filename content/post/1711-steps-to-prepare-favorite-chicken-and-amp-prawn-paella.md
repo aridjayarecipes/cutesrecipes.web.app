@@ -65,7 +65,7 @@ recipecategory: Dinner
 
 Hey everyone, hope you're having an incredible day today. Today, we're going to prepare a distinctive dish, chicken &amp; prawn paella. It is one of my favorites. For mine, I'm gonna make it a little bit tasty. This will be really delicious.
 
-The chicken (Gallus gallus domesticus), a subspecies of the red junglefowl, is a type of domesticated fowl, originally from Asia. Rooster or cock is a term for an adult male bird. Перевод слова chicken, американское и британское произношение, транскрипция, словосочетания, примеры использования. (Received Pronunciation, General American) enPR: chĭk&#39;ĭn, IPA(key): /ˈtʃɪkɪn/. From Middle English chiken (also as chike &gt; English chick), from Old English ċicen, ċycen (&#34;chicken&#34;), of uncertain origin. A common domesticated fowl widely raised for meat and eggs and.
+The chicken (Gallus gallus domesticus), a subspecies of the red junglefowl, is a type of domesticated fowl, originally from Asia. Rooster or cock is a term for an adult male bird. Перевод слова chicken, американское и британское произношение, транскрипция, словосочетания, примеры использования. (Received Pronunciation, General American) enPR: chĭk&#39;ĭn, IPA(key): /ˈtʃɪkɪn/. From Middle English chiken (also as chike &gt; English chick), from Old English ċicen, ċycen ("chicken"), of uncertain origin. A common domesticated fowl widely raised for meat and eggs and.
 
 CHICKEN &amp; PRAWN PAELLA is one of the most well liked of current trending meals on earth. It is appreciated by millions daily. It is easy, it is fast, it tastes yummy. They're nice and they look fantastic. CHICKEN &amp; PRAWN PAELLA is something which I have loved my entire life.
 
@@ -91,11 +91,11 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Make ready 1 yellow capsicum, deseeded and roughly chopped
 1. Take 1 red capsicum, deseeded and roughly chopped
 1. Get 1 green capsicum. deseeded and roughly chopped
-1. Make ready 2 tsp &#34;La Chinata&#34; smoked paprika
+1. Make ready 2 tsp "La Chinata" smoked paprika
 1. Make ready 1 bunch fresh parsley, roughly chopped
 1. Take 2 tsp organic tomato paste
 1. Get 1 tin of chopped tomatoes, 400g
-1. Take 375 grams &#34;Calasparra&#34; paella rice
+1. Take 375 grams "Calasparra" paella rice
 1. Get 1 litre fresh chicken stock (hot)
 1. Make ready 2 lemon cut into wedges
 1. Make ready 1 jar of Aioli

@@ -49,7 +49,7 @@ Hey everyone, I hope you're having an amazing day today. Today, we're going to m
 
 Whole wheat flour rasmalai/rasaje is one of the most popular of recent trending foods on earth. It is enjoyed by millions daily. It's simple, it is fast, it tastes yummy. They're nice and they look fantastic. Whole wheat flour rasmalai/rasaje is something that I've loved my whole life.
 
-See recipes for Whole wheat flour rasmalai/rasaje too. whole wheat flour•water• Milk• cardamom powder•chopped dry fruits (almond, cashew nuts, pistachio)•Deshi ghee for frying•Pomegranate and tutti frutti for decoration•sugar. Ras malai - Ras literally translates to &#34;juice&#34; and malai to &#34;cream&#34;. Rasmalai is a classic Indian festive dessert made with milk, an acidic ingredient, sugar and saffron. Whole grain flours are ground from whole, unprocessed wheat kernels, grains, and seeds.
+See recipes for Whole wheat flour rasmalai/rasaje too. whole wheat flour•water• Milk• cardamom powder•chopped dry fruits (almond, cashew nuts, pistachio)•Deshi ghee for frying•Pomegranate and tutti frutti for decoration•sugar. Ras malai - Ras literally translates to "juice" and malai to "cream". Rasmalai is a classic Indian festive dessert made with milk, an acidic ingredient, sugar and saffron. Whole grain flours are ground from whole, unprocessed wheat kernels, grains, and seeds.
 
 
 To begin with this particular recipe, we have to first prepare a few components. You can cook whole wheat flour rasmalai/rasaje using 8 ingredients and 6 steps. Here is how you can achieve that.

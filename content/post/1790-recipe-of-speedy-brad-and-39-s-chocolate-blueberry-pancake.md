@@ -82,6 +82,6 @@ Healthy Blueberry Protein Pancakes step by step. Recipe: Perfect Brad&#39;s choc
 1. Plate. Top with a pat of butter and maple syrup. A blueberry compote would be good on this as well. Enjoy.
 
 
-Recipe: Appetizing Sugar free Blueberry Jam. Blueberry pancakes made with buttermilk, and loaded with blueberries! Learn how to make blueberry pancakes that are light and fluffy, and Blueberry Pancakes That Aren&#39;t Purple. Audrey was all of ten years old when she showed me how she keeps the blueberries from bleeding. But to make fluffy blueberry pancakes, we need to give the pancakes an extra rising boost because the blueberries kind of &#34;weighs down&#34; the batter a bit. 
+Recipe: Appetizing Sugar free Blueberry Jam. Blueberry pancakes made with buttermilk, and loaded with blueberries! Learn how to make blueberry pancakes that are light and fluffy, and Blueberry Pancakes That Aren&#39;t Purple. Audrey was all of ten years old when she showed me how she keeps the blueberries from bleeding. But to make fluffy blueberry pancakes, we need to give the pancakes an extra rising boost because the blueberries kind of "weighs down" the batter a bit. 
 
 So that is going to wrap this up for this exceptional food brad&#39;s chocolate blueberry pancake recipe. Thank you very much for reading. I'm sure that you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

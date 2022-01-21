@@ -62,7 +62,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can h
 1. Take 4-8 Ears Fresh Grown Sweet Corn on the Cobb
 1. Take 2 1/2 C. Milk
 1. Make ready 2 Sticks Butter
-1. Get 1 Boneless Beef Roast, sliced into 1/4&#34;-1/2&#34; steaks
+1. Get 1 Boneless Beef Roast, sliced into 1/4"-1/2" steaks
 1. Get 6 Lg. Baking Potatoes, peeled and cubed
 1. Make ready  Garlic Powder
 1. Get  Onion Powder

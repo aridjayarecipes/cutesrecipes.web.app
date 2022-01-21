@@ -62,7 +62,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Take 8-10 sprigs fresh thyme
 1. Take  Garlic powder (optional)
 1. Make ready  Kosher salt and freshly ground black pepper
-1. Make ready 2 salmon fillets (7-8 ozs each), about 1 1/2&#34; at their thickest
+1. Make ready 2 salmon fillets (7-8 ozs each), about 1 1/2" at their thickest
 1. Take Handful fresh dill sprigs
 1. Take 1 lemon, cut in half
 

@@ -44,7 +44,7 @@ recipeinstructions:
 - "【Let&#39;s prepare fillings and toppings!】 Cut almonds into small pieces. Slice 1-2 bananas into 5mm (0.2&#39;&#39;) thick."
 - "Whip heavy cream while cooling with ice water until it gets thickened lightly. Add sweetened condensed milk, and whip it until heavy."
 - "Add vanilla essence and whip it until soft peaks form."
-- "【Let&#39;s assemble!】Lay a crepe with the brown-side down on the work surface. Pipe the whipped cream along the edge (1/3) of the crepe. And then pipe a &#34;V&#34; shape like this (3rd picture). Please don&#39;t go past the center-point."
+- "【Let&#39;s assemble!】Lay a crepe with the brown-side down on the work surface. Pipe the whipped cream along the edge (1/3) of the crepe. And then pipe a "V" shape like this (3rd picture). Please don&#39;t go past the center-point."
 - "Place 3-4 sliced bananas on the &#39;&#39;V&#39;&#39;. Add a little whipped cream, and drizzle with chocolate sauce."
 - "Fold the crepe in half, and fold each of the sides toward the middle, making a cone."
 - "Wrap it with parchment paper. Fold the tip of the paper tightly."
@@ -124,7 +124,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. 【Let&#39;s prepare fillings and toppings!】 Cut almonds into small pieces. Slice 1-2 bananas into 5mm (0.2&#39;&#39;) thick.
 1. Whip heavy cream while cooling with ice water until it gets thickened lightly. Add sweetened condensed milk, and whip it until heavy.
 1. Add vanilla essence and whip it until soft peaks form.
-1. 【Let&#39;s assemble!】Lay a crepe with the brown-side down on the work surface. Pipe the whipped cream along the edge (1/3) of the crepe. And then pipe a &#34;V&#34; shape like this (3rd picture). Please don&#39;t go past the center-point.
+1. 【Let&#39;s assemble!】Lay a crepe with the brown-side down on the work surface. Pipe the whipped cream along the edge (1/3) of the crepe. And then pipe a "V" shape like this (3rd picture). Please don&#39;t go past the center-point.
 1. Place 3-4 sliced bananas on the &#39;&#39;V&#39;&#39;. Add a little whipped cream, and drizzle with chocolate sauce.
 1. Fold the crepe in half, and fold each of the sides toward the middle, making a cone.
 1. Wrap it with parchment paper. Fold the tip of the paper tightly.

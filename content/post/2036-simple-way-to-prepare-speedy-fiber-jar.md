@@ -37,7 +37,7 @@ recipecategory: Dessert
 
 Hey everyone, I hope you're having an amazing day today. Today, we're going to make a special dish, fiber jar. One of my favorites food recipes. For mine, I'm gonna make it a bit unique. This will be really delicious.
 
-in: Duel Monsters cards, TCG cards, OCG cards. For the Tip Card, see &#34;&#34;Fiber Jar&#34;&#34;. The Chinese name given is not official. (card names). TCG card, &#34;Fiber Jar.&#34; Please refer to this page for the Yu-Gi-Oh!
+in: Duel Monsters cards, TCG cards, OCG cards. For the Tip Card, see ""Fiber Jar"". The Chinese name given is not official. (card names). TCG card, "Fiber Jar." Please refer to this page for the Yu-Gi-Oh!
 
 Fiber jar is one of the most favored of recent trending foods in the world. It is appreciated by millions every day. It is simple, it's fast, it tastes delicious. Fiber jar is something which I've loved my entire life. They are fine and they look fantastic.
 

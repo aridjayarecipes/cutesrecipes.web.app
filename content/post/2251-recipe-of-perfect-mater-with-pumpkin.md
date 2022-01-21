@@ -53,7 +53,7 @@ recipecategory: Dinner
 
 Hey everyone, it's Brad, welcome to our recipe site. Today, we're going to make a distinctive dish, mater with pumpkin. It is one of my favorites food recipes. This time, I will make it a bit unique. This will be really delicious.
 
-Welcome to Funtoys Channel with surprise toys unboxing. Play Sound. &#34;Mater: &#34;My name&#39;s Mater.&#34;Lightning McQueen: &#34;Mater?&#34;Mater: &#34;Yeah, like &#34;tuh-mater,&#34; but without the &#34;tuh&#34;.&#34;&#34;. ―Mater introduces himself to Lightning McQueen. For the Halloween pumpkin carving contest, Mater is my hero and I love him so I chose to carve him on a pumpkin. Hoping to carve Strawberry on a pumpkin today so watch for that.
+Welcome to Funtoys Channel with surprise toys unboxing. Play Sound. "Mater: "My name&#39;s Mater."Lightning McQueen: "Mater?"Mater: "Yeah, like "tuh-mater," but without the "tuh"."". ―Mater introduces himself to Lightning McQueen. For the Halloween pumpkin carving contest, Mater is my hero and I love him so I chose to carve him on a pumpkin. Hoping to carve Strawberry on a pumpkin today so watch for that.
 
 Mater with pumpkin is one of the most well liked of recent trending meals on earth. It is enjoyed by millions every day. It is simple, it is fast, it tastes delicious. They're nice and they look fantastic. Mater with pumpkin is something which I have loved my whole life.
 

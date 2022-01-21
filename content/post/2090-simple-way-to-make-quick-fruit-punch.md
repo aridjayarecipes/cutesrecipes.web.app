@@ -46,7 +46,7 @@ Hey everyone, it is John, welcome to our recipe page. Today, I'm gonna show you 
 
 Fruit punch is one of the most favored of recent trending meals in the world. It is simple, it's fast, it tastes delicious. It is appreciated by millions daily. Fruit punch is something which I have loved my whole life. They are fine and they look fantastic.
 
-The term punch refers to a wide assortment of drinks, both non-alcoholic and alcoholic, generally containing fruits or fruit juice. The drink was introduced from India to England by employees of the. Fruit Punch is Kaiydo&#39;s take on a bass bouncing party song. When your girl is on her period, and you lay under her while smashing her fruit punch ice lolly. when a girls period is on a tampon is frozen and licked off. &#34;i gotta chance my tampon&#34;.
+The term punch refers to a wide assortment of drinks, both non-alcoholic and alcoholic, generally containing fruits or fruit juice. The drink was introduced from India to England by employees of the. Fruit Punch is Kaiydo&#39;s take on a bass bouncing party song. When your girl is on her period, and you lay under her while smashing her fruit punch ice lolly. when a girls period is on a tampon is frozen and licked off. "i gotta chance my tampon".
 
 
 To get started with this recipe, we have to first prepare a few components. You can have fruit punch using 9 ingredients and 3 steps. Here is how you cook it.

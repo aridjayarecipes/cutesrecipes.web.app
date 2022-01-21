@@ -74,7 +74,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Get  Oil (enough to shallow fry in your pan)
 
 
-Cantonese Cream Corn Fish Fillet Recipe - a family&#39;s favourite loved by both young and old, featuring a light crispy fish paired with a creamy corn sauce oozing with natural sweetness! Today, I want to share with you one of my favourite Cantonese home dishes growing up. Classic Hong Kong- style fried fish fillet with sweetcorn sauce, very crispy fried fish with sweet sauce. The trick is to &#39;double-fry&#34; the fish so it get super crispy. 
+Cantonese Cream Corn Fish Fillet Recipe - a family&#39;s favourite loved by both young and old, featuring a light crispy fish paired with a creamy corn sauce oozing with natural sweetness! Today, I want to share with you one of my favourite Cantonese home dishes growing up. Classic Hong Kong- style fried fish fillet with sweetcorn sauce, very crispy fried fish with sweet sauce. The trick is to &#39;double-fry" the fish so it get super crispy. 
 
 <!--inarticleads2-->
 
@@ -90,6 +90,6 @@ Cantonese Cream Corn Fish Fillet Recipe - a family&#39;s favourite loved by both
 1. Plate rice, add fish, pour sauce on top and garnish with some scallions.
 
 
-Classic Hong Kong- style fried fish fillet with sweetcorn sauce, very crispy fried fish with sweet sauce. The trick is to &#39;double-fry&#34; the fish so it get super crispy. And for the sauce, well, a tin cream corn will do the job. Mind you, you have to cook more rice to go with it, cause everyone will love it!. Fish Fillets In Creamy Corn Sauce 粟米斑腩 Yi Reservation. 
+Classic Hong Kong- style fried fish fillet with sweetcorn sauce, very crispy fried fish with sweet sauce. The trick is to &#39;double-fry" the fish so it get super crispy. And for the sauce, well, a tin cream corn will do the job. Mind you, you have to cook more rice to go with it, cause everyone will love it!. Fish Fillets In Creamy Corn Sauce 粟米斑腩 Yi Reservation. 
 
 So that is going to wrap it up with this special food fish fillet and corn sauce (粟米斑腩) recipe. Thanks so much for your time. I'm confident that you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

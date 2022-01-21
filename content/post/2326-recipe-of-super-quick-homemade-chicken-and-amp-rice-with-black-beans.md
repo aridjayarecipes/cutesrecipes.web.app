@@ -51,7 +51,7 @@ Hello everybody, it's Drew, welcome to our recipe site. Today, I will show you a
 
 Chicken &amp; Rice with Black Beans is one of the most well liked of current trending foods on earth. It is appreciated by millions daily. It's simple, it's quick, it tastes yummy. They're nice and they look wonderful. Chicken &amp; Rice with Black Beans is something which I've loved my entire life.
 
-The chicken (Gallus gallus domesticus), a subspecies of the red junglefowl, is a type of domesticated fowl, originally from Asia. Rooster or cock is a term for an adult male bird. Перевод слова chicken, американское и британское произношение, транскрипция, словосочетания, примеры использования. (Received Pronunciation, General American) enPR: chĭk&#39;ĭn, IPA(key): /ˈtʃɪkɪn/. From Middle English chiken (also as chike &gt; English chick), from Old English ċicen, ċycen (&#34;chicken&#34;), of uncertain origin. A common domesticated fowl widely raised for meat and eggs and.
+The chicken (Gallus gallus domesticus), a subspecies of the red junglefowl, is a type of domesticated fowl, originally from Asia. Rooster or cock is a term for an adult male bird. Перевод слова chicken, американское и британское произношение, транскрипция, словосочетания, примеры использования. (Received Pronunciation, General American) enPR: chĭk&#39;ĭn, IPA(key): /ˈtʃɪkɪn/. From Middle English chiken (also as chike &gt; English chick), from Old English ċicen, ċycen ("chicken"), of uncertain origin. A common domesticated fowl widely raised for meat and eggs and.
 
 
 To get started with this recipe, we must first prepare a few ingredients. You can have chicken &amp; rice with black beans using 10 ingredients and 6 steps. Here is how you can achieve it.

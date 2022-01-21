@@ -79,6 +79,6 @@ Today we are cooking to cook another Pinoy recipe Salmon Sarciado. Please don&#3
 1. Add the vinegar, sugar, and a 1/2 cup water to the sauce. Stir, then let simmer 2 or 3 minutes to reduce. Add salt and pepper to taste. Serve the sauce underneath or beside the salmon, so you don&#39;t ruin the beautiful crispy skin.
 
 
-Sparkpeople - Fish Sarciado. Размер порции Salmon Sarciado. Fish Sarciado is known to Ilonggos as Cardillong Isda. A saucy fish dish so simple but very delicious so satisfy your craving with this Sarciadong Isda, so affordable and easy to make. In Filipino, &#34;sarciado&#34; refers to dishes with a tomato-based sauce. The sauce can be poured over the cooked fish or fried fish can be braised in the sauce. 
+Sparkpeople - Fish Sarciado. Размер порции Salmon Sarciado. Fish Sarciado is known to Ilonggos as Cardillong Isda. A saucy fish dish so simple but very delicious so satisfy your craving with this Sarciadong Isda, so affordable and easy to make. In Filipino, "sarciado" refers to dishes with a tomato-based sauce. The sauce can be poured over the cooked fish or fried fish can be braised in the sauce. 
 
 So that's going to wrap it up with this exceptional food salmon sarciado recipe. Thank you very much for your time. I am confident that you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

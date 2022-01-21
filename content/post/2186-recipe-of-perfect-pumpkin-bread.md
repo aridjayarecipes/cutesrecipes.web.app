@@ -20,7 +20,7 @@ recipeingredient:
 - "1 cup canola oil or veggetable oil"
 - " Optional cinnamon powderginger powdernutmeg powder"
 recipeinstructions:
-- "Preheat oven to 325°f. Lightly coat a 9x5&#34; loaf pan with nonstick spray. Line bottom of pan with parchment, leaving a generous overhang on both long sides."
+- "Preheat oven to 325°f. Lightly coat a 9x5" loaf pan with nonstick spray. Line bottom of pan with parchment, leaving a generous overhang on both long sides."
 - "Whisk flour, cinnamon, kosher salt, baking powder, baking soda, nutmeg, and in a medium bowl."
 - "Whisk eggs, pumpkin purée, ginger, and 1½ cups sugar in a large bowl. Stream in oil, whisking constantly until mixture is homogeneous. Gently fold half of dry ingredients into egg mixture until no dry spots remain. Repeat with remaining dry ingredients, stirring to combine but being careful not to overmix."
 - "Transfer batter to prepared pan; smooth top with a spatula. Scatter pumpkin seeds over batter if you like i dont have pumpkin seeds so.., pressing lightly to adhere. Sprinkle seeds with remaining 1 Tbsp. sugar. Bake bread, rotating pan once halfway through, until a tester inserted into the center comes out clean, 80–90 minutes."
@@ -75,7 +75,7 @@ Homemade pumpkin bread is a favorite fall recipe packed with cinnamon spice, cho
 
 ##### Steps to make Pumpkin bread:
 
-1. Preheat oven to 325°f. Lightly coat a 9x5&#34; loaf pan with nonstick spray. Line bottom of pan with parchment, leaving a generous overhang on both long sides.
+1. Preheat oven to 325°f. Lightly coat a 9x5" loaf pan with nonstick spray. Line bottom of pan with parchment, leaving a generous overhang on both long sides.
 1. Whisk flour, cinnamon, kosher salt, baking powder, baking soda, nutmeg, and in a medium bowl.
 1. Whisk eggs, pumpkin purée, ginger, and 1½ cups sugar in a large bowl. Stream in oil, whisking constantly until mixture is homogeneous. Gently fold half of dry ingredients into egg mixture until no dry spots remain. Repeat with remaining dry ingredients, stirring to combine but being careful not to overmix.
 1. Transfer batter to prepared pan; smooth top with a spatula. Scatter pumpkin seeds over batter if you like i dont have pumpkin seeds so.., pressing lightly to adhere. Sprinkle seeds with remaining 1 Tbsp. sugar. Bake bread, rotating pan once halfway through, until a tester inserted into the center comes out clean, 80–90 minutes.

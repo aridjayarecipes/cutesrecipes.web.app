@@ -64,7 +64,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Make ready 1 tbsp oil
 1. Make ready 1/4 onion, diced
 1. Prepare 1 glove minced garlic
-1. Make ready 7 6&#34; corn tortillas
+1. Make ready 7 6" corn tortillas
 
 
 

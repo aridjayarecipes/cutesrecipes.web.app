@@ -62,7 +62,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Prepare  Salt to taste
 
 
-Chef Jason Hill shows you how to make smoked salmon in this episode of &#34;Chef Tips.&#34; This smoked salmon recipe is a &#34;hot smoked salmon,&#34; made by smoking. No more dry or over-cooked salmon here! See below for more on the advantages of this cooking method. Swiss Chard - These colorful greens will cook down to tender underneath the salmon. 
+Chef Jason Hill shows you how to make smoked salmon in this episode of "Chef Tips." This smoked salmon recipe is a "hot smoked salmon," made by smoking. No more dry or over-cooked salmon here! See below for more on the advantages of this cooking method. Swiss Chard - These colorful greens will cook down to tender underneath the salmon. 
 
 <!--inarticleads2-->
 

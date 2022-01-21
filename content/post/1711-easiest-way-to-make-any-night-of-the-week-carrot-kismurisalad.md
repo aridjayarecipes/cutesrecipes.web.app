@@ -44,7 +44,7 @@ Hey everyone, it's Louise, welcome to my recipe site. Today, I will show you a w
 
 Carrot kismuri(salad) is one of the most popular of current trending meals in the world. It is enjoyed by millions every day. It is simple, it is quick, it tastes delicious. They're fine and they look fantastic. Carrot kismuri(salad) is something which I have loved my whole life.
 
-Simple and quick recipe Carrot Kismuri, carrot recipe,quick recipe,konkani recipe,amchi recipe,gsb recipes. Grate carrots in bowl, chop spinach leaves and coriander leaves. In our Konkani cooking we make many &#34; kismuris&#34; and &#34;pachadis&#34;, which are really what you might call salads of one form or the other. Let carrot take centre stage with these fresh, vibrant salads.
+Simple and quick recipe Carrot Kismuri, carrot recipe,quick recipe,konkani recipe,amchi recipe,gsb recipes. Grate carrots in bowl, chop spinach leaves and coriander leaves. In our Konkani cooking we make many " kismuris" and "pachadis", which are really what you might call salads of one form or the other. Let carrot take centre stage with these fresh, vibrant salads.
 
 
 To begin with this recipe, we have to first prepare a few components. You can cook carrot kismuri(salad) using 8 ingredients and 2 steps. Here is how you can achieve it.

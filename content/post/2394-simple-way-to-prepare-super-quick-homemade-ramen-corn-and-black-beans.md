@@ -53,7 +53,7 @@ recipecategory: Lunch
 
 Hello everybody, I hope you're having an amazing day today. Today, I will show you a way to prepare a special dish, ramen corn and black beans. It is one of my favorites food recipes. For mine, I am going to make it a bit tasty. This is gonna smell and look delicious.
 
-It uses corn, ramen, cheddar, hot sauce, ranch dressing, cilantro, lime, coleslaw, black beans. Scoop out the black bean paste (without the oil) and If you love spice and you love the delicious. An elegant soup, from a more civilized age. Ramen (/ˈrɑːmən/) (拉麺, ラーメン, rāmen, Japanese pronunciation: [ɾaꜜːmeɴ]) (literally: &#34;pulled noodles&#34;) is a Japanese noodle soup.
+It uses corn, ramen, cheddar, hot sauce, ranch dressing, cilantro, lime, coleslaw, black beans. Scoop out the black bean paste (without the oil) and If you love spice and you love the delicious. An elegant soup, from a more civilized age. Ramen (/ˈrɑːmən/) (拉麺, ラーメン, rāmen, Japanese pronunciation: [ɾaꜜːmeɴ]) (literally: "pulled noodles") is a Japanese noodle soup.
 
 Ramen corn and black beans is one of the most favored of current trending meals on earth. It is appreciated by millions every day. It is easy, it is fast, it tastes delicious. They are nice and they look fantastic. Ramen corn and black beans is something which I've loved my entire life.
 

@@ -74,6 +74,6 @@ Brussels sprouts are so misunderstood: They&#39;ve long been cast aside as a lam
 1. remove veggies from oven and add bacon. put the dish back in the oven and cook until tender.
 
 
-Watch how to make perfectly roasted Brussels sprouts in this short recipe video! See recipes for Wagyu Beef Bacon and Brussels Sprouts Au Gratin too. Cook Brussels Sprout In A Proper Way. Cabbage. &#34;Can we call brussels sprouts the. From healthystepsnutrition.com Easy and tasty brussels sprouts recipe! 
+Watch how to make perfectly roasted Brussels sprouts in this short recipe video! See recipes for Wagyu Beef Bacon and Brussels Sprouts Au Gratin too. Cook Brussels Sprout In A Proper Way. Cabbage. "Can we call brussels sprouts the. From healthystepsnutrition.com Easy and tasty brussels sprouts recipe! 
 
 So that's going to wrap this up with this exceptional food tasty brussel sprouts recipe. Thank you very much for reading. I am confident you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

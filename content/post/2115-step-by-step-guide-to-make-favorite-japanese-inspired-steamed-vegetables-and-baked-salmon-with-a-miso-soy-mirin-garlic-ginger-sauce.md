@@ -55,7 +55,7 @@ recipecategory: Dessert
 
 Hey everyone, it is John, welcome to my recipe site. Today, I'm gonna show you how to prepare a distinctive dish, japanese-inspired steamed vegetables and baked salmon with a miso-soy-mirin-garlic-ginger sauce. It is one of my favorites food recipes. For mine, I will make it a little bit unique. This will be really delicious.
 
-The salmon marinade is classic Japanese flavours - soy sauce, mirin and sake. It doesn&#39;t get anymore &#34;Japanese&#34; than that! Wild salmon fillet marinated in a sweet and savory miso marinade, garnish with sesame seeds and Enjoy with Japanese ginger rice! Imagine baking the salmon with some ginger, garlic, honey, soy sauce, and oyster sauce.
+The salmon marinade is classic Japanese flavours - soy sauce, mirin and sake. It doesn&#39;t get anymore "Japanese" than that! Wild salmon fillet marinated in a sweet and savory miso marinade, garnish with sesame seeds and Enjoy with Japanese ginger rice! Imagine baking the salmon with some ginger, garlic, honey, soy sauce, and oyster sauce.
 
 Japanese-inspired steamed vegetables and baked salmon with a miso-soy-mirin-garlic-ginger sauce is one of the most favored of recent trending meals in the world. It's easy, it is quick, it tastes yummy. It is enjoyed by millions every day. Japanese-inspired steamed vegetables and baked salmon with a miso-soy-mirin-garlic-ginger sauce is something which I've loved my whole life. They're nice and they look fantastic.
 

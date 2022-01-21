@@ -69,7 +69,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Get 1/8 tsp salt
 
 
-Melt butter in a pot and set aside to cool. Steamed Banana Cupcakes, or Apam Pisang, is an easy and delicious cupcakes using simple pantry ingredients. Remove the cupcakes and allow the cupcakes to cool completely. Steamed Banana Cupcakes is a moist, soft, delicious and easy to make cupcakes loaded with Continue reading &#34;STEAMED BANANA CUPCAKES&#34;. 
+Melt butter in a pot and set aside to cool. Steamed Banana Cupcakes, or Apam Pisang, is an easy and delicious cupcakes using simple pantry ingredients. Remove the cupcakes and allow the cupcakes to cool completely. Steamed Banana Cupcakes is a moist, soft, delicious and easy to make cupcakes loaded with Continue reading "STEAMED BANANA CUPCAKES". 
 
 <!--inarticleads2-->
 
@@ -84,6 +84,6 @@ Melt butter in a pot and set aside to cool. Steamed Banana Cupcakes, or Apam Pis
 1. Pour in about 3/4 tje cupcake molder. steam at high heat for about 20-25 minutes or until the inserted toothpick comes out clean.
 
 
-Remove the cupcakes and allow the cupcakes to cool completely. Steamed Banana Cupcakes is a moist, soft, delicious and easy to make cupcakes loaded with Continue reading &#34;STEAMED BANANA CUPCAKES&#34;. Diet Friendly Steamed Banana Cake Made. Steamed Banana Cupcakes are delicious cupcakes that can be made without oven. Here is how you cook that. 
+Remove the cupcakes and allow the cupcakes to cool completely. Steamed Banana Cupcakes is a moist, soft, delicious and easy to make cupcakes loaded with Continue reading "STEAMED BANANA CUPCAKES". Diet Friendly Steamed Banana Cake Made. Steamed Banana Cupcakes are delicious cupcakes that can be made without oven. Here is how you cook that. 
 
 So that's going to wrap it up for this exceptional food steamed banana cupcakes recipe. Thank you very much for reading. I am confident you can make this at home. There's gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

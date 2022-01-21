@@ -33,7 +33,7 @@ recipeinstructions:
 - "Bake the medallions for about 20-25 minutes over moderate heat of 375°F | 190°C."
 - "While those goodies are baking, slice your apples horizontally, then de-core each slices to create somewhat like donuts. You can use a spoon, a knife, or whatev&#39; you got in the kitchen that will make this step easy for ya. Discard the core."
 - "Spread almond butter on top of the apple donuts, then set aside if medallions aren&#39;t done."
-- "Soon as the oven &#34;pinged!,&#34; take the baking tray off the oven with proper tools. Put tray over the counter, then using a spatula, scoop out medallions to put them on top of your nut butter apple donuts. Yes! Ready to serve!"
+- "Soon as the oven "pinged!," take the baking tray off the oven with proper tools. Put tray over the counter, then using a spatula, scoop out medallions to put them on top of your nut butter apple donuts. Yes! Ready to serve!"
 categories:
 - Recipe
 tags:
@@ -97,7 +97,7 @@ You could use a spoon, a knife, or whatev&#39; you obtain within the kitchen whi
 1. Bake the medallions for about 20-25 minutes over moderate heat of 375°F | 190°C.
 1. While those goodies are baking, slice your apples horizontally, then de-core each slices to create somewhat like donuts. You can use a spoon, a knife, or whatev&#39; you got in the kitchen that will make this step easy for ya. Discard the core.
 1. Spread almond butter on top of the apple donuts, then set aside if medallions aren&#39;t done.
-1. Soon as the oven &#34;pinged!,&#34; take the baking tray off the oven with proper tools. Put tray over the counter, then using a spatula, scoop out medallions to put them on top of your nut butter apple donuts. Yes! Ready to serve!
+1. Soon as the oven "pinged!," take the baking tray off the oven with proper tools. Put tray over the counter, then using a spatula, scoop out medallions to put them on top of your nut butter apple donuts. Yes! Ready to serve!
 
 
 Today, we&#39;re going to make a distinctive dish, baked oats medallions over nut apple donuts. This time, I will make it a little bit unique. Baked oats are a fast and easy breakfast that is sure to satisfy the whole family. Enjoy a Quick and Convenient Baked Oats Breakfast or Snack. There are all sorts of ways to create baked oats, but they all use the same simple base. 

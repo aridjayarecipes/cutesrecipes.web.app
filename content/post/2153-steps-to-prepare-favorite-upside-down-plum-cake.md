@@ -59,7 +59,7 @@ Hey everyone, hope you are having an amazing day today. Today, I'm gonna show yo
 
 Upside-down plum cake is one of the most well liked of current trending foods on earth. It is simple, it is fast, it tastes yummy. It's appreciated by millions every day. Upside-down plum cake is something that I have loved my whole life. They are fine and they look fantastic.
 
-This Upside Down Plum Cake is as pretty as a picture and tastes even better! The easy, no-mixer cake topped with caramelized plums I decided to use my stash this time for an upside-down cake, hoping the plums would stand up well to this approach. I googled &#34;plum cakes&#34; and saw some. This plum upside-down cake is actually quite pretty and is based on a recipe he found in an old issue of Fine Cooking magazine.
+This Upside Down Plum Cake is as pretty as a picture and tastes even better! The easy, no-mixer cake topped with caramelized plums I decided to use my stash this time for an upside-down cake, hoping the plums would stand up well to this approach. I googled "plum cakes" and saw some. This plum upside-down cake is actually quite pretty and is based on a recipe he found in an old issue of Fine Cooking magazine.
 
 
 To begin with this particular recipe, we must prepare a few ingredients. You can have upside-down plum cake using 16 ingredients and 8 steps. Here is how you can achieve that.

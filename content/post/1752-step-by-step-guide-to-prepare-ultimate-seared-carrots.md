@@ -65,6 +65,6 @@ The technique is not hard at all to learn, it just might take practice to get th
 <img src="https://img-global.cpcdn.com/steps/61a63c201669e1c8/160x128cq70/seared-carrots-recipe-step-2-photo.jpg" alt="Seared carrots">1. Seat in a pan at medium temperature with lots of butter. Add some salt &amp; Pepper
 
 
-Extra virgin olive oil, for searing. Bring to a simmer and cook until. Seared Gourmet Steak is the highest healing dish that can be cooked over an open flame. Cooking over an open flame means you can &#34;stack&#34; the resulting items in your inventory. Seared Carrots &amp; Tomato Salad: Simple, common ingredients create understated elegance in a salad that evokes warm Mediterranean flavors. 
+Extra virgin olive oil, for searing. Bring to a simmer and cook until. Seared Gourmet Steak is the highest healing dish that can be cooked over an open flame. Cooking over an open flame means you can "stack" the resulting items in your inventory. Seared Carrots &amp; Tomato Salad: Simple, common ingredients create understated elegance in a salad that evokes warm Mediterranean flavors. 
 
 So that's going to wrap this up for this exceptional food seared carrots recipe. Thanks so much for reading. I am sure you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

@@ -82,6 +82,6 @@ Add tomatoes, bell pepper, and red onion for good measure, and you&#39;ll have a
 1. Excellent with grilled Mahi-Mahi.
 
 
-This steak dish has a ton of flavor! The flank steak is seasoned with cumin and garlic and grilled to perfection, then topped with a fresh black bean, corn and tomato salsa for a quick and. It&#39;s fresh and colorful, perfect for parties, so easy to make, and very addictive! One time I decided to search online for it by searching for &#34;Black bean &amp; corn salsa&#34; but this recipe never came up and the ones that did never looked as good as this one. How to make Black Bean and Corn Salsa. 
+This steak dish has a ton of flavor! The flank steak is seasoned with cumin and garlic and grilled to perfection, then topped with a fresh black bean, corn and tomato salsa for a quick and. It&#39;s fresh and colorful, perfect for parties, so easy to make, and very addictive! One time I decided to search online for it by searching for "Black bean &amp; corn salsa" but this recipe never came up and the ones that did never looked as good as this one. How to make Black Bean and Corn Salsa. 
 
 So that's going to wrap it up for this special food black bean and corn grilled salsa recipe. Thank you very much for reading. I am sure you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

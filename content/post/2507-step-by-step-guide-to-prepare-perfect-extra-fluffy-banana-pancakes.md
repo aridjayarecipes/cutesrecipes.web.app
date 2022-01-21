@@ -26,7 +26,7 @@ recipeinstructions:
 - "Add melted butter and stir until just combined, then add milk and stir until well combined with all other wet ingredients."
 - "Add flour, baking, powder, and baking soda. Fold into wet ingredients until just combined. You want your batter to be slightly lumpy. Do not over-mix or you&#39;ll have tough pancakes."
 - "Let batter rest for 5-10 minutes while you heat a nonstick skillet, iron skillet, or griddle over medium-low heat. When skillet is hot add 1 tsp of butter if desired and let melt (I don&#39;t do this but some people do)."
-- "For 6 inch pancakes: Use a 1/3 cup measuring cup to scoop batter out of bowl and pour into hot skillet. Add as many at one time that you can fit without edges touching (my skillet fits one at a time). For &#34;silver dollar&#34; pancakes scoop 2 tbs of batter per pancake into skillet."
+- "For 6 inch pancakes: Use a 1/3 cup measuring cup to scoop batter out of bowl and pour into hot skillet. Add as many at one time that you can fit without edges touching (my skillet fits one at a time). For "silver dollar" pancakes scoop 2 tbs of batter per pancake into skillet."
 - "Cook pancakes on first side until bubbles just begin to come through and edges look slightly dry. Flip and cook 1 minute, or until second side is lightly browned. The trick is to cook pancakes at a low temperature so they cook all the way through without burning."
 - "Stack your perfect pancakes on plates and serve with your favorite toppings (I like peanut butter). Can serve 2-8 people depending on how many pancakes you want to give each person. Haha. I was able to get 8, 6 inch pancakes and 2, 4 inch pancakes out of this batch. Enjoy!"
 categories:
@@ -85,7 +85,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Add melted butter and stir until just combined, then add milk and stir until well combined with all other wet ingredients.
 1. Add flour, baking, powder, and baking soda. Fold into wet ingredients until just combined. You want your batter to be slightly lumpy. Do not over-mix or you&#39;ll have tough pancakes.
 1. Let batter rest for 5-10 minutes while you heat a nonstick skillet, iron skillet, or griddle over medium-low heat. When skillet is hot add 1 tsp of butter if desired and let melt (I don&#39;t do this but some people do).
-1. For 6 inch pancakes: Use a 1/3 cup measuring cup to scoop batter out of bowl and pour into hot skillet. Add as many at one time that you can fit without edges touching (my skillet fits one at a time). For &#34;silver dollar&#34; pancakes scoop 2 tbs of batter per pancake into skillet.
+1. For 6 inch pancakes: Use a 1/3 cup measuring cup to scoop batter out of bowl and pour into hot skillet. Add as many at one time that you can fit without edges touching (my skillet fits one at a time). For "silver dollar" pancakes scoop 2 tbs of batter per pancake into skillet.
 1. Cook pancakes on first side until bubbles just begin to come through and edges look slightly dry. Flip and cook 1 minute, or until second side is lightly browned. The trick is to cook pancakes at a low temperature so they cook all the way through without burning.
 1. Stack your perfect pancakes on plates and serve with your favorite toppings (I like peanut butter). Can serve 2-8 people depending on how many pancakes you want to give each person. Haha. I was able to get 8, 6 inch pancakes and 2, 4 inch pancakes out of this batch. Enjoy!
 

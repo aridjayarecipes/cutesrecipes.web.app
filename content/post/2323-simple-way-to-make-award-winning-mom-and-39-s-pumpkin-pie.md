@@ -63,7 +63,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 ##### The ingredients needed to make Mom&#39;s pumpkin pie:
 
 1. Make ready 4 eggs beaten
-1. Get 2 9&#34; pie crusts
+1. Get 2 9" pie crusts
 1. Get 1 (29 oz) can pureed solid pack pumpkin
 1. Get 3/4 c sugar
 1. Prepare 3/4 c brown sugar

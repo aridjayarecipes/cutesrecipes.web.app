@@ -85,7 +85,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Take  Melons will make it soggy from the juices
 
 
-This S&#39;mores Dessert Pizza with a graham cracker cookie crust, toasted marshmallows, and melted chocolate will satisfy your s&#39;more craving. This page is based on the copyrighted Wikihow article &#34;Make-Dessert-Pizza&#34; (Authors) Simple Dessert Pizza. We have pizza at our house (almost) every Friday night. It is usually homemade, but sometimes we have the treat of the pizza man delivering it to our door. 
+This S&#39;mores Dessert Pizza with a graham cracker cookie crust, toasted marshmallows, and melted chocolate will satisfy your s&#39;more craving. This page is based on the copyrighted Wikihow article "Make-Dessert-Pizza" (Authors) Simple Dessert Pizza. We have pizza at our house (almost) every Friday night. It is usually homemade, but sometimes we have the treat of the pizza man delivering it to our door. 
 
 <!--inarticleads2-->
 

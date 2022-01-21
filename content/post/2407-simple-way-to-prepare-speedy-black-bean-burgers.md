@@ -28,7 +28,7 @@ recipeinstructions:
 - "Drain and rinse beans. Mash beans in large bowl."
 - "Saute onion, green pepper, corn, and Jalapeño in vegetable oil approx five minutes."
 - "Add sauted vegetables, salsa, bread crumbs, Chipotle powder, garlic powder, cummin, black pepper, and salt to mashed beans. Mix well. Adjust mixture to desired consistency by add more flour or salsa."
-- "Cut parchment paper into 12 squares approx 6&#34;x 6&#34;"
+- "Cut parchment paper into 12 squares approx 6"x 6""
 - "Scoop mashed beans mixture by 1/3 cupfulls into individual pieces of parchment paper. Mash with fingers forming into patties."
 - "Transfer patties into a preheated skillet with vegetable oil and fry about six minutes on each side over medium high heat."
 - "Eat and enjoy!"
@@ -91,7 +91,7 @@ Vegan black beans burgers can be easy and flavorful! Mix black beans, whole-whea
 1. Drain and rinse beans. Mash beans in large bowl.
 1. Saute onion, green pepper, corn, and Jalapeño in vegetable oil approx five minutes.
 1. Add sauted vegetables, salsa, bread crumbs, Chipotle powder, garlic powder, cummin, black pepper, and salt to mashed beans. Mix well. Adjust mixture to desired consistency by add more flour or salsa.
-1. Cut parchment paper into 12 squares approx 6&#34;x 6&#34;
+1. Cut parchment paper into 12 squares approx 6"x 6"
 1. Scoop mashed beans mixture by 1/3 cupfulls into individual pieces of parchment paper. Mash with fingers forming into patties.
 1. Transfer patties into a preheated skillet with vegetable oil and fry about six minutes on each side over medium high heat.
 1. Eat and enjoy!

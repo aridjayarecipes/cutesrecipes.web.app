@@ -42,7 +42,7 @@ Hello everybody, it is John, welcome to my recipe site. Today, I will show you a
 
 “Baked” mirin salmon in frying Pan is one of the most well liked of current trending meals in the world. It's easy, it is fast, it tastes yummy. It's appreciated by millions daily. “Baked” mirin salmon in frying Pan is something that I have loved my whole life. They are nice and they look wonderful.
 
-Great recipe for &#34;Baked&#34; mirin salmon in frying Pan. For all those who don&#39;t have an oven at home, this is a wonderful alternative to making baked salmon. The salmon is delicious and tender and sweet from the mirin! Learn how to cook salmon with the BEST baked salmon recipe!
+Great recipe for "Baked" mirin salmon in frying Pan. For all those who don&#39;t have an oven at home, this is a wonderful alternative to making baked salmon. The salmon is delicious and tender and sweet from the mirin! Learn how to cook salmon with the BEST baked salmon recipe!
 
 
 To get started with this recipe, we must prepare a few components. You can cook “baked” mirin salmon in frying pan using 4 ingredients and 3 steps. Here is how you cook it.

@@ -65,7 +65,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Get  salt
 
 
-Become a Member of &#34;Cooking With The Blues&#34; www.patreon.com/cookingwiththebluesFor Aprons, Blackening Seasoning, CD&#39;s and other Memorabilia. A refreshing summer corn salad recipe made with charred corn, Hatch green chiles direct from New Mexico, blistered cherry tomatoes, and crumbled cotija I wanted this corn salad to truly stand out, so I ordered a batch of roasted peppers from the Hatch Chile Store. The package arrived in a Styrofoam. Hatch Green Chile, Black Bean and Corn Salad. 
+Become a Member of "Cooking With The Blues" www.patreon.com/cookingwiththebluesFor Aprons, Blackening Seasoning, CD&#39;s and other Memorabilia. A refreshing summer corn salad recipe made with charred corn, Hatch green chiles direct from New Mexico, blistered cherry tomatoes, and crumbled cotija I wanted this corn salad to truly stand out, so I ordered a batch of roasted peppers from the Hatch Chile Store. The package arrived in a Styrofoam. Hatch Green Chile, Black Bean and Corn Salad. 
 
 <!--inarticleads2-->
 

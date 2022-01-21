@@ -51,13 +51,13 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 ##### The ingredients needed to make Broccoli &amp; Potato Gratin:
 
 1. Take 1/2 broccoli crown, chopped
-1. Make ready 4 small red potatoes, peeled + sliced 1/4&#34; rounds
+1. Make ready 4 small red potatoes, peeled + sliced 1/4" rounds
 1. Prepare 1.75 cups béchamel sauce
 1. Take 2 oz sharp cheddar mix, shredded
 1. Prepare 1 oz plant-based ham, finely diced (optional)
 
 
-It&#39;s also a fat-free Broccoli has an impressive nutritional profile. It is &#34;high in fiber, very high in vitamin C and has. Discover what makes broccoli so healthy, from fibre to vitamins and minerals. We share the most nutritious ways to cook it in healthy broccoli recipes. 
+It&#39;s also a fat-free Broccoli has an impressive nutritional profile. It is "high in fiber, very high in vitamin C and has. Discover what makes broccoli so healthy, from fibre to vitamins and minerals. We share the most nutritious ways to cook it in healthy broccoli recipes. 
 
 <!--inarticleads2-->
 

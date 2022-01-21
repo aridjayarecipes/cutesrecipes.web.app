@@ -72,6 +72,6 @@ It&#39;s also a great way to make lean white fish more For a light dinner that&#
 1. The fish will be very tender, serve with mashed potato or on toast. Enjoy.
 
 
-Alternately, you can prepare a basic white wine sauce in advance to serve with the poached fish. Gently poaching fish in a flavorful liquid just about guarantees a perfect outcome—juicy, tasty fillets. Bonus: you also get vegetables and a delicious sauce, all in one pan. &#34;Trinity&#34; Poached White Fish. White fish come in two varieties. There are round ones, like cod and sea bass, which look like your It can be served in chunks in a creamy chowder, roasted alongside vegetables, seared, poached, or. 
+Alternately, you can prepare a basic white wine sauce in advance to serve with the poached fish. Gently poaching fish in a flavorful liquid just about guarantees a perfect outcome—juicy, tasty fillets. Bonus: you also get vegetables and a delicious sauce, all in one pan. "Trinity" Poached White Fish. White fish come in two varieties. There are round ones, like cod and sea bass, which look like your It can be served in chunks in a creamy chowder, roasted alongside vegetables, seared, poached, or. 
 
 So that's going to wrap this up for this special food poached white fish recipe. Thank you very much for your time. I'm sure you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

@@ -51,7 +51,7 @@ Hello everybody, it is Louise, welcome to my recipe site. Today, we're going to 
 
 Anari sabudana is one of the most well liked of recent trending meals in the world. It's appreciated by millions daily. It's simple, it is fast, it tastes delicious. Anari sabudana is something which I have loved my whole life. They're fine and they look fantastic.
 
-Great recipe for Anari sabudana. #bcam. sago chilla navratri special with detailed photo and video recipe. a healthy and tasty fasting chilla recipe made with sabudana pearls. generally it is either sabudana vada or. Sabudana also known as sago, are &#34;Sabudana&#34; is a Hindi word for tapioca pearls. These are also known as Javvarisi in Tamil, Sagibiyyam in Telugu and sabakki in Kannada.
+Great recipe for Anari sabudana. #bcam. sago chilla navratri special with detailed photo and video recipe. a healthy and tasty fasting chilla recipe made with sabudana pearls. generally it is either sabudana vada or. Sabudana also known as sago, are "Sabudana" is a Hindi word for tapioca pearls. These are also known as Javvarisi in Tamil, Sagibiyyam in Telugu and sabakki in Kannada.
 
 
 To begin with this recipe, we have to prepare a few components. You can cook anari sabudana using 12 ingredients and 5 steps. Here is how you can achieve it.

@@ -27,7 +27,7 @@ recipeinstructions:
 - "Wash the exterior of the pumpkin in cool or warm water, no soap."
 - "Cut the pumpkin in half. A serrated knife and a sawing motion works best - a smooth knife is more likely to slip."
 - "Scrape the insides. You want to get out that stringy, dangly stuff that coats the inside surface. Note: can save seeds to cook separately."
-- "Place it cut side down into a covered oven container. Fill container with 3/4&#34; water. Cover the ovenproof container (with a lid), and pop it in a 350 F (165 C) oven.   It normally takes about 45 minutes to 90 minutes (it can vary a lot!); just test it periodically by sticking it with a fork to see if it is soft!"
+- "Place it cut side down into a covered oven container. Fill container with 3/4" water. Cover the ovenproof container (with a lid), and pop it in a 350 F (165 C) oven.   It normally takes about 45 minutes to 90 minutes (it can vary a lot!); just test it periodically by sticking it with a fork to see if it is soft!"
 - "Scoop out the cooked pumpkin."
 - "Puree the pumpkin.  To get a nice, smooth consistency, I use a Pillsbury hand blender. By blending it, you give the pie a smooth, satiny texture; rather than the rough graininess that is typical of cooked squashes.  Note: You may freeze the puree or pie filling to use it later! Just use a freezer bag or other container to exclude as much air as possible. It should last a year or more in a deep freezer."
 - "Mix in all ingredients. Make the pie crust (I use Pillsbury)  It is also time to start preheating the oven. Turn it on and set it to 425 F."
@@ -89,7 +89,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 1. Wash the exterior of the pumpkin in cool or warm water, no soap.
 1. Cut the pumpkin in half. A serrated knife and a sawing motion works best - a smooth knife is more likely to slip.
 1. Scrape the insides. You want to get out that stringy, dangly stuff that coats the inside surface. Note: can save seeds to cook separately.
-1. Place it cut side down into a covered oven container. Fill container with 3/4&#34; water. Cover the ovenproof container (with a lid), and pop it in a 350 F (165 C) oven.  -  - It normally takes about 45 minutes to 90 minutes (it can vary a lot!); just test it periodically by sticking it with a fork to see if it is soft!
+1. Place it cut side down into a covered oven container. Fill container with 3/4" water. Cover the ovenproof container (with a lid), and pop it in a 350 F (165 C) oven.  -  - It normally takes about 45 minutes to 90 minutes (it can vary a lot!); just test it periodically by sticking it with a fork to see if it is soft!
 1. Scoop out the cooked pumpkin.
 1. Puree the pumpkin. -  - To get a nice, smooth consistency, I use a Pillsbury hand blender. By blending it, you give the pie a smooth, satiny texture; rather than the rough graininess that is typical of cooked squashes. -  - Note: You may freeze the puree or pie filling to use it later! Just use a freezer bag or other container to exclude as much air as possible. It should last a year or more in a deep freezer.
 1. Mix in all ingredients. Make the pie crust (I use Pillsbury) -  - It is also time to start preheating the oven. Turn it on and set it to 425 F.

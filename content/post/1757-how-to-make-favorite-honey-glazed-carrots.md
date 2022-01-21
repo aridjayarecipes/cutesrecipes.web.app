@@ -18,7 +18,7 @@ recipeingredient:
 - "1/2 tsp salt"
 - "1/4 ts black pepper"
 recipeinstructions:
-- "Peel &amp; cut carrots in 1/4 (2.5&#34; pieces)."
+- "Peel &amp; cut carrots in 1/4 (2.5" pieces)."
 - "In a large skillet, melt butter over medium heat. Add carrots, saute 5 minutes. Add water, cook 5 more minutes, stirring occasionally. Add honey &amp; orange juice. Cook 2-3 minutes. Season with salt &amp; pepper."
 categories:
 - Recipe
@@ -68,7 +68,7 @@ Honey enhances the natural sweetness of carrots in a four-ingredient side dish y
 
 ##### Steps to make Honey glazed carrots:
 
-1. Peel &amp; cut carrots in 1/4 (2.5&#34; pieces).
+1. Peel &amp; cut carrots in 1/4 (2.5" pieces).
 1. In a large skillet, melt butter over medium heat. Add carrots, saute 5 minutes. Add water, cook 5 more minutes, stirring occasionally. Add honey &amp; orange juice. Cook 2-3 minutes. Season with salt &amp; pepper.
 
 

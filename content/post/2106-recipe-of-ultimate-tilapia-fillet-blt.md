@@ -46,7 +46,7 @@ recipecategory: Lunch
 
 Hey everyone, it is John, welcome to my recipe site. Today, we're going to make a special dish, tilapia fillet blt. One of my favorites. This time, I'm gonna make it a little bit unique. This is gonna smell and look delicious.
 
-This video addresses the question. &#34;How do I get that goodness in me?!&#34; Learn how to fillet a tilapia with these simple instructions. In this video we show you how to fillet and clean tilapia. These are blue tilapia and are highly invasive in Florida! They have white , mild tasting fillets.
+This video addresses the question. "How do I get that goodness in me?!" Learn how to fillet a tilapia with these simple instructions. In this video we show you how to fillet and clean tilapia. These are blue tilapia and are highly invasive in Florida! They have white , mild tasting fillets.
 
 Tilapia fillet BLT is one of the most favored of recent trending meals in the world. It is appreciated by millions every day. It's simple, it's quick, it tastes yummy. They are nice and they look wonderful. Tilapia fillet BLT is something which I've loved my whole life.
 

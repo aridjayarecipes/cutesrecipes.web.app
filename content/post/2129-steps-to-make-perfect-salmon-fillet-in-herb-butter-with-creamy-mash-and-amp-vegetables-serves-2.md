@@ -48,7 +48,7 @@ Hey everyone, hope you're having an amazing day today. Today, we're going to pre
 
 salmon fillet in herb butter with creamy mash &amp; vegetables (serves 2) is one of the most well liked of current trending meals in the world. It is appreciated by millions daily. It is simple, it is fast, it tastes delicious. salmon fillet in herb butter with creamy mash &amp; vegetables (serves 2) is something which I've loved my entire life. They're fine and they look fantastic.
 
-Today I show you the ultimate way to roast a smoky and moist salmon fillet served with creamy baked mashed potatoes Music: &#34;Vivacity&#34; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Perfect Pan Seared Salmon with Lemon butter Cream Sauce and Crispy Skin. A salmon fillet seared to perfection. Topped with a creamy lemon butter sauce. Oh so yummy :)Music By:I&#39;m Okay - Ro DanisheiYouTube.
+Today I show you the ultimate way to roast a smoky and moist salmon fillet served with creamy baked mashed potatoes Music: "Vivacity" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Perfect Pan Seared Salmon with Lemon butter Cream Sauce and Crispy Skin. A salmon fillet seared to perfection. Topped with a creamy lemon butter sauce. Oh so yummy :)Music By:I&#39;m Okay - Ro DanisheiYouTube.
 
 
 To get started with this recipe, we have to prepare a few ingredients. You can cook salmon fillet in herb butter with creamy mash &amp; vegetables (serves 2) using 8 ingredients and 5 steps. Here is how you can achieve it.

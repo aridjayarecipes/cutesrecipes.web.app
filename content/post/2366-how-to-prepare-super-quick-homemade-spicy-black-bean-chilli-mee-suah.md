@@ -59,7 +59,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can cook
 1. Make ready 700 ml water
 
 
-This classic black bean chilli is topped with a genius vegan pulled &#34;pork&#34;. Use a mixture of shiitake and closed-cup mushrooms for taste and texture. Serve the chilli topped with sliced avocado, onion, tomatoes and coriander. If liked, add cooked brown basmati and wild rice and coconut yoghurt on the. 
+This classic black bean chilli is topped with a genius vegan pulled "pork". Use a mixture of shiitake and closed-cup mushrooms for taste and texture. Serve the chilli topped with sliced avocado, onion, tomatoes and coriander. If liked, add cooked brown basmati and wild rice and coconut yoghurt on the. 
 
 <!--inarticleads2-->
 

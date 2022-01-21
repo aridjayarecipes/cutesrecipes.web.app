@@ -60,20 +60,20 @@ recipecategory: Dinner
 ---
 
 
-![CHILEAN BEANS AND CORN CHOWDER,VEGAN. &#34;POROTOS GRANADOS CON MAZAMORRA&#34;. JON STYLE](https://img-global.cpcdn.com/recipes/1786a6090da1ed0a/680x482cq70/chilean-beans-and-corn-chowdervegan-porotos-granados-con-mazamorra-jon-style-recipe-main-photo.jpg)
+![CHILEAN BEANS AND CORN CHOWDER,VEGAN. "POROTOS GRANADOS CON MAZAMORRA". JON STYLE](https://img-global.cpcdn.com/recipes/1786a6090da1ed0a/680x482cq70/chilean-beans-and-corn-chowdervegan-porotos-granados-con-mazamorra-jon-style-recipe-main-photo.jpg)
 
-Hello everybody, it is me, Dave, welcome to my recipe site. Today, I will show you a way to prepare a special dish, chilean beans and corn chowder,vegan. &#34;porotos granados con mazamorra&#34;. jon style. One of my favorites food recipes. For mine, I am going to make it a bit tasty. This is gonna smell and look delicious.
+Hello everybody, it is me, Dave, welcome to my recipe site. Today, I will show you a way to prepare a special dish, chilean beans and corn chowder,vegan. "porotos granados con mazamorra". jon style. One of my favorites food recipes. For mine, I am going to make it a bit tasty. This is gonna smell and look delicious.
 
-CHILEAN BEANS AND CORN CHOWDER,VEGAN. &#34;POROTOS GRANADOS CON MAZAMORRA&#34;. JON STYLE is one of the most well liked of current trending meals on earth. It's enjoyed by millions every day. It is easy, it is quick, it tastes delicious. CHILEAN BEANS AND CORN CHOWDER,VEGAN. &#34;POROTOS GRANADOS CON MAZAMORRA&#34;. JON STYLE is something that I have loved my entire life. They're fine and they look fantastic.
+CHILEAN BEANS AND CORN CHOWDER,VEGAN. "POROTOS GRANADOS CON MAZAMORRA". JON STYLE is one of the most well liked of current trending meals on earth. It's enjoyed by millions every day. It is easy, it is quick, it tastes delicious. CHILEAN BEANS AND CORN CHOWDER,VEGAN. "POROTOS GRANADOS CON MAZAMORRA". JON STYLE is something that I have loved my entire life. They're fine and they look fantastic.
 
-POROTOS GRANADOS CON MAZAMORRA, VEGANOThis is popular vegan Chilean beans and corn chowder. Usually made in summer time because all the soup ingredients are. Chilean beans and corn chowder,vegan. &#34;Porotos granados con mazamorra&#34;. Fresh shelled•whole corns, cut in kennels•butternut squash diced•vegetable oil•garlic, finely, chopped•medium-sized onion, diced•green.
+POROTOS GRANADOS CON MAZAMORRA, VEGANOThis is popular vegan Chilean beans and corn chowder. Usually made in summer time because all the soup ingredients are. Chilean beans and corn chowder,vegan. "Porotos granados con mazamorra". Fresh shelled•whole corns, cut in kennels•butternut squash diced•vegetable oil•garlic, finely, chopped•medium-sized onion, diced•green.
 
 
-To get started with this particular recipe, we must prepare a few components. You can have chilean beans and corn chowder,vegan. &#34;porotos granados con mazamorra&#34;. jon style using 25 ingredients and 6 steps. Here is how you cook that.
+To get started with this particular recipe, we must prepare a few components. You can have chilean beans and corn chowder,vegan. "porotos granados con mazamorra". jon style using 25 ingredients and 6 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make CHILEAN BEANS AND CORN CHOWDER,VEGAN. &#34;POROTOS GRANADOS CON MAZAMORRA&#34;. JON STYLE:
+##### The ingredients needed to make CHILEAN BEANS AND CORN CHOWDER,VEGAN. "POROTOS GRANADOS CON MAZAMORRA". JON STYLE:
 
 1. Get 454 gr. / 1 lb. dry white northern beans or 2 lb. Fresh shelled
 1. Take 4 whole corns, cut in kennels
@@ -106,7 +106,7 @@ Other common ingredients are onions, and herbs such as cumin, basil and oregano.
 
 <!--inarticleads2-->
 
-##### Steps to make CHILEAN BEANS AND CORN CHOWDER,VEGAN. &#34;POROTOS GRANADOS CON MAZAMORRA&#34;. JON STYLE:
+##### Steps to make CHILEAN BEANS AND CORN CHOWDER,VEGAN. "POROTOS GRANADOS CON MAZAMORRA". JON STYLE:
 
 1. Weigh, measure and cut all the necessary ingredients for the recipe . - Check that the dried beans do not have pebbles. - Put the beans in a pot and cover them with the water. Bring it to a boil. Lower the heat and let it cook slowly for about 1 hour until soft .
 1. In a small pot, put the squash with water to cook. Puree the squash with the liquid.  - Put 3/4 of the corn kennels in a blender and pure it.
@@ -118,4 +118,4 @@ Other common ingredients are onions, and herbs such as cumin, basil and oregano.
 
 This is a great hearty vegetarian recipe made with navy or white beans. Plus, I like stews with squash. Grind the corn in a blender or food processor with the basil. Los porotos con mazamorra son la sopa del verano en Chile: choclo y porotos o frijoles son de nuestras cosechas favoritas. Los porotos use unos speckled butter beans congelados frescos, pueden usar cranberry beans, que he visto acá y son primos de nuestros granados, o great northern. 
 
-So that's going to wrap it up with this exceptional food chilean beans and corn chowder,vegan. &#34;porotos granados con mazamorra&#34;. jon style recipe. Thanks so much for reading. I am confident you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!
+So that's going to wrap it up with this exceptional food chilean beans and corn chowder,vegan. "porotos granados con mazamorra". jon style recipe. Thanks so much for reading. I am confident you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

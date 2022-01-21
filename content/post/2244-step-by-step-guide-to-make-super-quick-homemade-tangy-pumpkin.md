@@ -20,7 +20,7 @@ recipeingredient:
 - "1 tea spoon coriander powder"
 - "1/2 tea spoon mango powder"
 recipeinstructions:
-- "Cut pumpkin into 1&#34;cubes shape."
+- "Cut pumpkin into 1"cubes shape."
 - "Hot oil in a work put chilli chopped fenugreek seeds and pumpkin add salt.mix well and cook on slow flame untill it soften completly."
 - "Add salt coriander powder and jaggry.mix.let it cook untill jaggry melts.now add chilli powder mango powder.here it&#39;s ready to serve with fulka or puri."
 categories:
@@ -72,7 +72,7 @@ Make this khatti mithi kaddu sabji in halloween instead of pie &amp; enjoy. Reci
 
 ##### Instructions to make Tangy pumpkin:
 
-1. Cut pumpkin into 1&#34;cubes shape.
+1. Cut pumpkin into 1"cubes shape.
 1. Hot oil in a work put chilli chopped fenugreek seeds and pumpkin add salt.mix well and cook on slow flame untill it soften completly.
 1. Add salt coriander powder and jaggry.mix.let it cook untill jaggry melts.now add chilli powder mango powder.here it&#39;s ready to serve with fulka or puri.
 

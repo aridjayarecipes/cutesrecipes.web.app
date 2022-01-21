@@ -69,10 +69,10 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Make ready 3 carrot
 1. Make ready 1 tbs oil
 1. Make ready 8 garlic clove
-1. Make ready 1 &#34; ginger
+1. Make ready 1 " ginger
 1. Take 1/2 tsp cumin seeds
 1. Take 8 black pepper
-1. Take 1 &#34;cinnamon
+1. Take 1 "cinnamon
 1. Get 1 bay leaf
 1. Make ready 1/2 tsp sugar
 1. Prepare 1/2 tsp black paper

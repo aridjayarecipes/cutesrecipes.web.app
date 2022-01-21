@@ -53,7 +53,7 @@ Hello everybody, it is me, Dave, welcome to our recipe site. Today, I will show 
 
 Muhammara محمره walnut Appetizer is one of the most popular of recent trending foods on earth. It's appreciated by millions every day. It's easy, it's quick, it tastes yummy. They're nice and they look wonderful. Muhammara محمره walnut Appetizer is something which I've loved my whole life.
 
-Holidays coming so change your appetizers little bit to middle eastern Cook Lebanese. Muhammara is one more popular appetizer in Mediterranean cuisine. Muhammara (Arabic: محمرة‎ &#34;reddened&#34;) or mhammara is a hot pepper dip originally from Aleppo, Syria. It is popular in the Levantine cuisine.
+Holidays coming so change your appetizers little bit to middle eastern Cook Lebanese. Muhammara is one more popular appetizer in Mediterranean cuisine. Muhammara (Arabic: محمرة‎ "reddened") or mhammara is a hot pepper dip originally from Aleppo, Syria. It is popular in the Levantine cuisine.
 
 
 To get started with this particular recipe, we must first prepare a few components. You can have muhammara محمره walnut appetizer using 14 ingredients and 4 steps. Here is how you can achieve it.

@@ -43,7 +43,7 @@ Hey everyone, it's Brad, welcome to our recipe site. Today, I will show you a wa
 
 Blender banana cakes is one of the most popular of current trending foods in the world. It's appreciated by millions every day. It's easy, it is fast, it tastes delicious. Blender banana cakes is something that I have loved my whole life. They are nice and they look wonderful.
 
-for every like on this video i&#39;ll give a banana to Suzanne patreon: https Me, who knows absolutely nothing about blender but watching this anyway: &#34;I like your funny words magic man&#34;..cake in blender,yummy,blender cake recipe by yummy,chocolate banana cake by yummy. WELCOME TO YUMMY TODAY&#39;S RECIPE IS Chocolate Banana Cake In Blender Naturally-sweetened, dairy-free, and gluten-free, they&#39;re the perfect weekend / weekday breakfast treat! Banana oatmeal pancakes made right in the blender!
+for every like on this video i&#39;ll give a banana to Suzanne patreon: https Me, who knows absolutely nothing about blender but watching this anyway: "I like your funny words magic man"..cake in blender,yummy,blender cake recipe by yummy,chocolate banana cake by yummy. WELCOME TO YUMMY TODAY&#39;S RECIPE IS Chocolate Banana Cake In Blender Naturally-sweetened, dairy-free, and gluten-free, they&#39;re the perfect weekend / weekday breakfast treat! Banana oatmeal pancakes made right in the blender!
 
 
 To begin with this recipe, we must prepare a few components. You can have blender banana cakes using 5 ingredients and 3 steps. Here is how you cook that.

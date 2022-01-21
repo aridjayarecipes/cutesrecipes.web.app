@@ -79,7 +79,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. Take 1/4 cup coriander/cilantro
 
 
-This Indian cabbage and peas stir fry goes by many different names, including bandh gobi matar or patta gobi matar. This is real Indian food - or maybe I should say &#34;everyday Indian food.&#34; Cabbage and peas sabzi is the kind of thing an Indian mama/parent will make for you. Chop the cabbage, onion, tomato and serrano pepper as shown. Keep aside with a cup of frozen peas. 
+This Indian cabbage and peas stir fry goes by many different names, including bandh gobi matar or patta gobi matar. This is real Indian food - or maybe I should say "everyday Indian food." Cabbage and peas sabzi is the kind of thing an Indian mama/parent will make for you. Chop the cabbage, onion, tomato and serrano pepper as shown. Keep aside with a cup of frozen peas. 
 
 <!--inarticleads2-->
 

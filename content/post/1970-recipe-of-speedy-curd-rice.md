@@ -55,7 +55,7 @@ recipecategory: Dinner
 
 Hey everyone, I hope you're having an amazing day today. Today, we're going to prepare a distinctive dish, curd rice. One of my favorites food recipes. This time, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
 
-Curd rice, also called yogurt rice, is a dish originating from India. The word &#34;curd&#34; in Indian English refers to unsweetened probiotic yogurt. It is most popular in the South Indian states of Tamil Nadu, Kerala , Karnataka, Telangana and Andhra Pradesh; and also in Maharashtra. Curd rice is a South Indian dish made with precooked rice, curd (yogurt) &amp; tempering spices.
+Curd rice, also called yogurt rice, is a dish originating from India. The word "curd" in Indian English refers to unsweetened probiotic yogurt. It is most popular in the South Indian states of Tamil Nadu, Kerala , Karnataka, Telangana and Andhra Pradesh; and also in Maharashtra. Curd rice is a South Indian dish made with precooked rice, curd (yogurt) &amp; tempering spices.
 
 Curd rice is one of the most popular of current trending foods on earth. It's simple, it is quick, it tastes yummy. It is enjoyed by millions every day. They're nice and they look wonderful. Curd rice is something that I have loved my whole life.
 

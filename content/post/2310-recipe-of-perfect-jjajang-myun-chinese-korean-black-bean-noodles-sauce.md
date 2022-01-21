@@ -61,11 +61,11 @@ To get started with this recipe, we must prepare a few components. You can have 
 ##### The ingredients needed to make Jjajang Myun 짜장면 (Chinese-Korean Black Bean Noodles) Sauce:
 
 1. Get  vegetable oil
-1. Take 1 medium onion chopped into 1/4&#34; dice (about 1 cup)
-1. Take 1 large carrot cut into 1/4&#34; cubes (about 1 cup)
-1. Prepare 1 medium zucchini cut into 1/4&#34; cubes (about 1 cup)
-1. Get 1 medium potato cut into 1/4&#34; cubes (about 1 cup)
-1. Make ready 1 lb pork shoulder cut into 1/4&#34; cubes &amp; tossed with 1/2 tsp salt, 1/4 tsp black pepper, 1 Tbsp corn or potato starch
+1. Take 1 medium onion chopped into 1/4" dice (about 1 cup)
+1. Take 1 large carrot cut into 1/4" cubes (about 1 cup)
+1. Prepare 1 medium zucchini cut into 1/4" cubes (about 1 cup)
+1. Get 1 medium potato cut into 1/4" cubes (about 1 cup)
+1. Make ready 1 lb pork shoulder cut into 1/4" cubes &amp; tossed with 1/2 tsp salt, 1/4 tsp black pepper, 1 Tbsp corn or potato starch
 1. Take 1 Tablespoon corn/potato starch slurried in 2.5 Tablespoons cold water
 1. Get 1/3 cup jjajang (Korean black bean paste)
 1. Take 1 3/4 cups unsalted chicken stock (or 1 2/3 cups water)

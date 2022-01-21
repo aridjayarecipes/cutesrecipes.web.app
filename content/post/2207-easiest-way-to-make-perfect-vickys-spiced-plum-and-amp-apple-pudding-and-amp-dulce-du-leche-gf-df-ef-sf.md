@@ -25,7 +25,7 @@ recipeingredient:
 - "5 plums pitted and chopped"
 - "2 tbsp stem ginger finely chopped"
 recipeinstructions:
-- "Preheat the oven to gas 5 / 190C / 375°F and grease and line an 8&#34; round springform cake tin"
+- "Preheat the oven to gas 5 / 190C / 375°F and grease and line an 8" round springform cake tin"
 - "Stir the flour, sugar, baking powder, salt, baking soda, cinnamon and nutmeg together until combined"
 - "Beat in the apple sauce, milk, lemon juice and vanilla then fold in the chopped apple, plums &amp; ginger"
 - "Pour the mixture into the cake tin and bake for 30 - 40 minutes or until golden and springy when lightly pressed on top with your finger"
@@ -86,7 +86,7 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 
 ##### Instructions to make Vickys Spiced Plum &amp; Apple Pudding &amp; Dulce du Leche, GF DF EF SF:
 
-1. Preheat the oven to gas 5 / 190C / 375°F and grease and line an 8&#34; round springform cake tin
+1. Preheat the oven to gas 5 / 190C / 375°F and grease and line an 8" round springform cake tin
 1. Stir the flour, sugar, baking powder, salt, baking soda, cinnamon and nutmeg together until combined
 1. Beat in the apple sauce, milk, lemon juice and vanilla then fold in the chopped apple, plums &amp; ginger
 1. Pour the mixture into the cake tin and bake for 30 - 40 minutes or until golden and springy when lightly pressed on top with your finger

@@ -72,7 +72,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Prepare  pomegranate seeds for garnish
 
 
-The Best Grilled Cod Recipes on Yummly &#34;sea&#34; Grilled Cod, Grilled Cod In Foil Packets, Grilled Cod And Avocado Tacos. This search takes into account your taste preferences. Cod under the marinade of carrots and onions will be prepared from these products Vegetable dressing must be salted and spiced with spices. 
+The Best Grilled Cod Recipes on Yummly "sea" Grilled Cod, Grilled Cod In Foil Packets, Grilled Cod And Avocado Tacos. This search takes into account your taste preferences. Cod under the marinade of carrots and onions will be prepared from these products Vegetable dressing must be salted and spiced with spices. 
 
 <!--inarticleads2-->
 

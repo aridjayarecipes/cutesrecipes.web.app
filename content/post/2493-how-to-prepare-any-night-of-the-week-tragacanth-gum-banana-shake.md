@@ -63,7 +63,7 @@ To begin with this recipe, we must first prepare a few ingredients. You can have
 1. Take 4 tbsp honey replacement for sugar
 
 
-Some of these species are known collectively under the common names &#34;goat&#39;s thorn&#34; and &#34;locoweed&#34;. Because they use modernist ingredients, these amounts for this component are given in metric by weight. Grind together the sugar and xanthan gum, preferably using a mortar and pestle or a fork and bowl. Buy gum tragacanth products and get the best deals at the lowest prices on eBay! 
+Some of these species are known collectively under the common names "goat&#39;s thorn" and "locoweed". Because they use modernist ingredients, these amounts for this component are given in metric by weight. Grind together the sugar and xanthan gum, preferably using a mortar and pestle or a fork and bowl. Buy gum tragacanth products and get the best deals at the lowest prices on eBay! 
 
 <!--inarticleads2-->
 

@@ -16,7 +16,7 @@ recipeingredient:
 - "2 spoons olive oil"
 recipeinstructions:
 - "Mix black pepper and salt on a big plate"
-- "Cover the salmon in the mix, until it is all covered and &#34;black&#34;"
+- "Cover the salmon in the mix, until it is all covered and "black""
 - "Roast the broad side, not the skin, for 4 minutes, on a grill with olive oil, mid flame. Press lightly. Then for one minute plus on each side. Serve"
 - ""
 categories:
@@ -65,7 +65,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can h
 ##### Instructions to make Grilled Salmon in Black Pepper:
 
 1. Mix black pepper and salt on a big plate
-1. Cover the salmon in the mix, until it is all covered and &#34;black&#34;
+1. Cover the salmon in the mix, until it is all covered and "black"
 1. Roast the broad side, not the skin, for 4 minutes, on a grill with olive oil, mid flame. Press lightly. Then for one minute plus on each side. Serve
 1. 
 

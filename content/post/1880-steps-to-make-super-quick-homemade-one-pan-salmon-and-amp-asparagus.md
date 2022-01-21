@@ -43,7 +43,7 @@ recipecategory: Dessert
 
 Hey everyone, it's Drew, welcome to my recipe page. Today, we're going to make a distinctive dish, one pan salmon &amp; asparagus. It is one of my favorites food recipes. This time, I will make it a bit tasty. This will be really delicious.
 
-For an easy side dish to complement a spring roast, just cook this recipe without the salmon. This particular one pan meal uses all three of my favorite healthy &#34;superfood&#34; ingredients. Sweet potatoes are a staple in our home. And I can&#39;t live without asparagus.
+For an easy side dish to complement a spring roast, just cook this recipe without the salmon. This particular one pan meal uses all three of my favorite healthy "superfood" ingredients. Sweet potatoes are a staple in our home. And I can&#39;t live without asparagus.
 
 One pan salmon &amp; asparagus is one of the most popular of recent trending meals on earth. It's appreciated by millions every day. It's easy, it is fast, it tastes yummy. One pan salmon &amp; asparagus is something that I've loved my entire life. They're fine and they look fantastic.
 

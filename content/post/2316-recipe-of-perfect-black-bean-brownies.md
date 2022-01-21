@@ -23,7 +23,7 @@ recipeingredient:
 recipeinstructions:
 - "Preheat oven to 350 degrees"
 - "Blend all ingredients well in a food processor except the chocolate chips and marshmallows."
-- "Grease 8&#34; square pan with coconut oil."
+- "Grease 8" square pan with coconut oil."
 - "Pour batter into pan."
 - "Top with chocolate chips and marshmallows."
 - "Bake for 15 min."
@@ -81,7 +81,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 
 1. Preheat oven to 350 degrees
 1. Blend all ingredients well in a food processor except the chocolate chips and marshmallows.
-1. Grease 8&#34; square pan with coconut oil.
+1. Grease 8" square pan with coconut oil.
 1. Pour batter into pan.
 1. Top with chocolate chips and marshmallows.
 1. Bake for 15 min.

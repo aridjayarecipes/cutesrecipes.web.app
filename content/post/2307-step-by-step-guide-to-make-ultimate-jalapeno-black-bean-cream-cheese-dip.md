@@ -20,7 +20,7 @@ recipeingredient:
 recipeinstructions:
 - "Spread prepared black beans evenly in the bottom of a pie plate."
 - "Blend cream cheese, sour cream, ranch mix (start with 1 tsp and adjust to taste), and green onions. Reserve 2 tbs of greens if you want to garnish at the end."
-- "Spread cream cheese over beans (works best to drop a few large &#34;blobs&#34; then spread with a butter knife). Cover and refrigerate at least 1 hour to set."
+- "Spread cream cheese over beans (works best to drop a few large "blobs" then spread with a butter knife). Cover and refrigerate at least 1 hour to set."
 - "Just before serving spread jam over cream cheese. Top with shredded cheese. Garnish with reserved sliced green onions."
 - "Serve with tortilla chips. Enjoy!"
 categories:
@@ -73,7 +73,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 
 1. Spread prepared black beans evenly in the bottom of a pie plate.
 1. Blend cream cheese, sour cream, ranch mix (start with 1 tsp and adjust to taste), and green onions. Reserve 2 tbs of greens if you want to garnish at the end.
-1. Spread cream cheese over beans (works best to drop a few large &#34;blobs&#34; then spread with a butter knife). Cover and refrigerate at least 1 hour to set.
+1. Spread cream cheese over beans (works best to drop a few large "blobs" then spread with a butter knife). Cover and refrigerate at least 1 hour to set.
 1. Just before serving spread jam over cream cheese. Top with shredded cheese. Garnish with reserved sliced green onions.
 1. Serve with tortilla chips. Enjoy!
 

@@ -26,7 +26,7 @@ recipeingredient:
 - "4 Boston lettuce leaves"
 recipeinstructions:
 - "Put cabbage and onion in a heat-resistant container.Heat it up in the microwave at 600W for 5 minutes, and let it cool.(You can stir-fry with a small amount of oil until soft and pliant.)"
-- "Put minced meat and &#34; ★”　in a bowl and stir until it gets sticky. Dry 1 and mix together. Divide it into quarters and form it into elliptical shape.(If it is too soft, add breadcrumbs to adjust.)"
+- "Put minced meat and " ★”　in a bowl and stir until it gets sticky. Dry 1 and mix together. Divide it into quarters and form it into elliptical shape.(If it is too soft, add breadcrumbs to adjust.)"
 - "Put oil in a frying pan, and put 2 on medium heat. When the patty gets a little brown, you can flip it.Cover and lower the heat. Steam for 5 more minutes until it is thoroughly cooked."
 - "Remove the hamburgers from the frying pan.Put raw Shiitake mushrooms and carrots in the frying pan. Add water and after it is cooked through, add the mixed seasoning☆。When the sauce thickens, it&#39;s done."
 - "Put the hamburger steak back in the pan, and coat it with the sauce.Place Boston lettuce leaves on a plate and serve the hamburger steak on top. Pour the rest of the sauce."
@@ -86,7 +86,7 @@ Take from water &amp; remove leaves. Place some beef mixture in the middle &amp;
 ##### Steps to make Cabbage hamburger steak:
 
 1. Put cabbage and onion in a heat-resistant container.Heat it up in the microwave at 600W for 5 minutes, and let it cool.(You can stir-fry with a small amount of oil until soft and pliant.)
-1. Put minced meat and &#34; ★”　in a bowl and stir until it gets sticky. Dry 1 and mix together. Divide it into quarters and form it into elliptical shape.(If it is too soft, add breadcrumbs to adjust.)
+1. Put minced meat and " ★”　in a bowl and stir until it gets sticky. Dry 1 and mix together. Divide it into quarters and form it into elliptical shape.(If it is too soft, add breadcrumbs to adjust.)
 1. Put oil in a frying pan, and put 2 on medium heat. When the patty gets a little brown, you can flip it.Cover and lower the heat. Steam for 5 more minutes until it is thoroughly cooked.
 1. Remove the hamburgers from the frying pan.Put raw Shiitake mushrooms and carrots in the frying pan. Add water and after it is cooked through, add the mixed seasoning☆。When the sauce thickens, it&#39;s done.
 1. Put the hamburger steak back in the pan, and coat it with the sauce.Place Boston lettuce leaves on a plate and serve the hamburger steak on top. Pour the rest of the sauce.

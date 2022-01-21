@@ -18,7 +18,7 @@ recipeinstructions:
 - "Deseeded the bitter gourd then slice it"
 - "Put all ingredients into a pan and stir fry for 3 to 5  minute to mix well"
 - "ANOTHER OPTION. ,, Cerely with black bean and mackeral"
-- "ANOTHER OPTION USING &#34;&#34;CERELY&#34;&#34; AND COOKING METHOD ARE THE SAME"
+- "ANOTHER OPTION USING ""CERELY"" AND COOKING METHOD ARE THE SAME"
 - "BELOW ARE FEW IF MY BLACK BEAN MACKEREL SAUCE AND BLACK BEAN SAUCE RECIPE,I AM GLAD TO SHARE WITH YOU  https://cookpad.com/us/recipes/459651-spaghetti-in-black-bean-mackerel-sauce"
 categories:
 - Recipe
@@ -68,7 +68,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 1. Deseeded the bitter gourd then slice it
 1. Put all ingredients into a pan and stir fry for 3 to 5  minute to mix well
 1. ANOTHER OPTION. ,, Cerely with black bean and mackeral
-1. ANOTHER OPTION USING &#34;&#34;CERELY&#34;&#34; AND COOKING METHOD ARE THE SAME
+1. ANOTHER OPTION USING ""CERELY"" AND COOKING METHOD ARE THE SAME
 1. BELOW ARE FEW IF MY BLACK BEAN MACKEREL SAUCE AND BLACK BEAN SAUCE RECIPE,I AM GLAD TO SHARE WITH YOU -  - https://cookpad.com/us/recipes/459651-spaghetti-in-black-bean-mackerel-sauce
 
 

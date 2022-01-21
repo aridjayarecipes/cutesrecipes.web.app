@@ -17,7 +17,7 @@ recipeinstructions:
 - "Melt chocolate in double boiler, stirring occasionally. Add 1 Tbsp. sea salt and stir."
 - "Deseed pomegranates and fold seeds into melted chocolate, leaving aside about 1/2 cup of seeds."
 - "Cover large baking sheet with parchment paper."
-- "Pour and spread mixture about 1/3&#34; thick on baking sheet."
+- "Pour and spread mixture about 1/3" thick on baking sheet."
 - "Sprinkle remaining pomegranate seeds and sea salt evenly over mixture."
 - "Freeze for 20 minutes, break into small pieces and serve! Refrigerate if storing before serving."
 categories:
@@ -67,7 +67,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook da
 1. Melt chocolate in double boiler, stirring occasionally. Add 1 Tbsp. sea salt and stir.
 1. Deseed pomegranates and fold seeds into melted chocolate, leaving aside about 1/2 cup of seeds.
 1. Cover large baking sheet with parchment paper.
-1. Pour and spread mixture about 1/3&#34; thick on baking sheet.
+1. Pour and spread mixture about 1/3" thick on baking sheet.
 1. Sprinkle remaining pomegranate seeds and sea salt evenly over mixture.
 1. Freeze for 20 minutes, break into small pieces and serve! Refrigerate if storing before serving.
 

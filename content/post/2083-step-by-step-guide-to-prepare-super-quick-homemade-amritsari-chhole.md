@@ -82,7 +82,7 @@ To begin with this recipe, we have to prepare a few components. You can cook amr
 1. Take  For making masala:
 1. Get 1 onion
 1. Take 2 tomatoes
-1. Make ready 1 &#34; piece ginger
+1. Make ready 1 " piece ginger
 1. Prepare 4-6 pods garlic
 1. Get To taste salt
 1. Take 1/2 tsp red chilli powder

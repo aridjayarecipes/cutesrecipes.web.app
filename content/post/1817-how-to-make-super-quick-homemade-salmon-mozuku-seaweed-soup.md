@@ -63,7 +63,7 @@ To begin with this recipe, we must prepare a few components. You can cook salmon
 1. Make ready  Dashi stock
 
 
-This mozuku seaweed salad slightly differs from the traditional sunomono salad primarily because the vine. Vinegared Mozuku seaweed 【Home cooking】- Okinawa, Japan. &#34;Seaweed shortage&#34; in Japan Crazy Salmon Roll - How To Make Sushi Series. Mozuku seaweed is a good source of insoluble dietary fibre, meaning it&#39;ll fill you up without making you feel uncomfortably full and bloated. 
+This mozuku seaweed salad slightly differs from the traditional sunomono salad primarily because the vine. Vinegared Mozuku seaweed 【Home cooking】- Okinawa, Japan. "Seaweed shortage" in Japan Crazy Salmon Roll - How To Make Sushi Series. Mozuku seaweed is a good source of insoluble dietary fibre, meaning it&#39;ll fill you up without making you feel uncomfortably full and bloated. 
 
 <!--inarticleads2-->
 

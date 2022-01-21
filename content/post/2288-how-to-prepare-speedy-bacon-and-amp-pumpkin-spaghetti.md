@@ -67,7 +67,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have ba
 1. Get 1 tsp chicken powder
 
 
-From Middle English bacoun (&#34;meat from the back and sides of a pig&#34;), from Anglo-Norman bacon, bacun (&#34;ham, flitch, strip of lard&#34;), from Old Low Frankish *bakō (&#34;ham, flitch&#34;), from Proto-Germanic *bakô, *bakkô (&#34;back&#34;), from Proto-Indo-European *bʰeg- (&#34;back, buttocks; to vault, arch&#34;).. Sir Francis Bacon (later Lord Verulam and the Viscount St. Albans) was an English lawyer, statesman, essayist, historian, intellectual reformer, philosopher, and champion of modern science. Bacon is any of certain cuts of meat taken from the sides, belly, or back of a pig that may be cured and/or smoked. 
+From Middle English bacoun ("meat from the back and sides of a pig"), from Anglo-Norman bacon, bacun ("ham, flitch, strip of lard"), from Old Low Frankish *bakō ("ham, flitch"), from Proto-Germanic *bakô, *bakkô ("back"), from Proto-Indo-European *bʰeg- ("back, buttocks; to vault, arch").. Sir Francis Bacon (later Lord Verulam and the Viscount St. Albans) was an English lawyer, statesman, essayist, historian, intellectual reformer, philosopher, and champion of modern science. Bacon is any of certain cuts of meat taken from the sides, belly, or back of a pig that may be cured and/or smoked. 
 
 <!--inarticleads2-->
 

@@ -60,7 +60,7 @@ To get started with this recipe, we must first prepare a few components. You can
 1. Get 1/4 cup cilantro, chopped
 1. Prepare 1 envelope taco seasoning
 1. Make ready 2 cup shredded Mexican cheese blend (I use the one from Weigh Watchers)
-1. Get 10 8&#34; flour tortillas (I like the Azteca Ultra-grain)
+1. Get 10 8" flour tortillas (I like the Azteca Ultra-grain)
 1. Take 1 can black beans, drained and rinsed
 
 

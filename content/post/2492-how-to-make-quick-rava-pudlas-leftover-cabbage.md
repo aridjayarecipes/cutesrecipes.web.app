@@ -42,7 +42,7 @@ Hello everybody, I hope you're having an amazing day today. Today, I will show y
 
 Rava pudlas (leftover cabbage) is one of the most well liked of current trending foods in the world. It is simple, it is quick, it tastes yummy. It is enjoyed by millions daily. They're fine and they look fantastic. Rava pudlas (leftover cabbage) is something that I have loved my entire life.
 
-Food preparation Rava pudlas (leftover cabbage) is an enjoyable thing, in addition it becomes a lot more special worth if you cook it on your own. Moreover, if it&#39;s healthy it would be a cherry on the cake. So, in this video we are going to make such snack &#34;Rava. Pudlas are a very popular Gujarati dish.
+Food preparation Rava pudlas (leftover cabbage) is an enjoyable thing, in addition it becomes a lot more special worth if you cook it on your own. Moreover, if it&#39;s healthy it would be a cherry on the cake. So, in this video we are going to make such snack "Rava. Pudlas are a very popular Gujarati dish.
 
 
 To begin with this particular recipe, we must first prepare a few components. You can cook rava pudlas (leftover cabbage) using 6 ingredients and 1 steps. Here is how you cook that.
@@ -59,7 +59,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Prepare 1Handful kothmir
 
 
-I first read this recipe in the &#34;Hare Krishna book of Vegetarian Cooking&#34; by &#34;Shree Adiraja Dasa&#34;. My brother gifted me The difference between Pudla and chilla is that they are small in size, crispier and thick as compared to Chillas. I make this recipe with or without onion garlic. Cabbage is a versatile vegetable but you may often find you bought more than you need. 
+I first read this recipe in the "Hare Krishna book of Vegetarian Cooking" by "Shree Adiraja Dasa". My brother gifted me The difference between Pudla and chilla is that they are small in size, crispier and thick as compared to Chillas. I make this recipe with or without onion garlic. Cabbage is a versatile vegetable but you may often find you bought more than you need. 
 
 <!--inarticleads2-->
 

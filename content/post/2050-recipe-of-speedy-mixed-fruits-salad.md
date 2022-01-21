@@ -42,7 +42,7 @@ Hello everybody, I hope you're having an incredible day today. Today, we're goin
 
 Mixed fruits salad is one of the most well liked of recent trending foods on earth. It is enjoyed by millions every day. It's easy, it's quick, it tastes yummy. Mixed fruits salad is something which I have loved my entire life. They're fine and they look wonderful.
 
-Normally lot of peoples add custard powder or cream for salad but, We made fruits salad without custard powder. To enhance taste we add honey at finally. The perfect fruit salad for a backyard bbq or any occasion. Normally I don&#39;t care for &#34;formal&#34; fruit salads as they tend to include a lot of other stuff beyond the fruit - like.
+Normally lot of peoples add custard powder or cream for salad but, We made fruits salad without custard powder. To enhance taste we add honey at finally. The perfect fruit salad for a backyard bbq or any occasion. Normally I don&#39;t care for "formal" fruit salads as they tend to include a lot of other stuff beyond the fruit - like.
 
 
 To get started with this recipe, we have to first prepare a few components. You can cook mixed fruits salad using 4 ingredients and 3 steps. Here is how you can achieve that.
@@ -57,7 +57,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Get 1 spoon Sabja seeds  (clean with tea strainer and soak for 30 minutes Minutes with one glass of water)
 
 
-In different forms, fruit salad can be served as an appetizer, a side salad, or a dessert. This fruit salad is a real &#34;crowd pleaser&#34; and tends to go fast. You can &#34;plant&#34; any of your favorite fruits in this. You can mix fresh or frozen fruit together which makes it &#34;perfect&#34;. 
+In different forms, fruit salad can be served as an appetizer, a side salad, or a dessert. This fruit salad is a real "crowd pleaser" and tends to go fast. You can "plant" any of your favorite fruits in this. You can mix fresh or frozen fruit together which makes it "perfect". 
 
 <!--inarticleads2-->
 
@@ -68,6 +68,6 @@ In different forms, fruit salad can be served as an appetizer, a side salad, or 
 1. I did not use as it is very tasty and healthy it is my lunch I didn&#39;t take anything extra and serve chilled and enjoy this fruit salad with sabja seeds.
 
 
-You can &#34;plant&#34; any of your favorite fruits in this. You can mix fresh or frozen fruit together which makes it &#34;perfect&#34;. Fruits salad is a must needed recipe for this season. Best enjoyed when the weather is cold and you want to rustle up something Take another bowl and mix together all the fruits in it. Prior to serving the salad, top the fruits with a. 
+You can "plant" any of your favorite fruits in this. You can mix fresh or frozen fruit together which makes it "perfect". Fruits salad is a must needed recipe for this season. Best enjoyed when the weather is cold and you want to rustle up something Take another bowl and mix together all the fruits in it. Prior to serving the salad, top the fruits with a. 
 
 So that's going to wrap this up with this exceptional food mixed fruits salad recipe. Thanks so much for your time. I am confident that you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

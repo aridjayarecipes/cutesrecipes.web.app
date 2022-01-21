@@ -30,10 +30,10 @@ recipeingredient:
 - "1 tbsp olive oil"
 - " to taste hot sauce "
 recipeinstructions:
-- "Marinate (&#34;cook&#34;) the fish. Transfer the diced fish to a large bowl. Add the serrano peppers, garlic, cilantro, and salt."
+- "Marinate ("cook") the fish. Transfer the diced fish to a large bowl. Add the serrano peppers, garlic, cilantro, and salt."
 - "Cover with the juice from approximately 10 limes, 1 grapefruit, and 2 oranges. If your fish is not completely covered, add more lime (or lemon juice) as needed until it is."
 - "Allow the fish to cook. Cover the bowl with plastic wrap and transfer to the refrigerator to keep cold."
-- "Allow your fish to &#34;cook&#34; for 1-4 hours (see notes). Stir every hour."
+- "Allow your fish to "cook" for 1-4 hours (see notes). Stir every hour."
 - "Soak the shallots. Add the shallots to a separate bowl and cover with hot (not boiling) water and 2 teaspoons salt. Mix well."
 - "Allow the shallots to soak for approximately 10-15 minutes before draining and rinsing with cold water. Cover and set aside in the refrigerator until ready to use."
 - "Marinate the tomatoes. Approximately 30 minutes before serving (see notes) add the shallots, tomatoes, and bell pepper to a new, larger, mixing bowl."
@@ -102,10 +102,10 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 ##### Instructions to make Salmon, Scallop and Tuna Ceviche:
 
-1. Marinate (&#34;cook&#34;) the fish. Transfer the diced fish to a large bowl. Add the serrano peppers, garlic, cilantro, and salt.
+1. Marinate ("cook") the fish. Transfer the diced fish to a large bowl. Add the serrano peppers, garlic, cilantro, and salt.
 1. Cover with the juice from approximately 10 limes, 1 grapefruit, and 2 oranges. If your fish is not completely covered, add more lime (or lemon juice) as needed until it is.
 1. Allow the fish to cook. Cover the bowl with plastic wrap and transfer to the refrigerator to keep cold.
-1. Allow your fish to &#34;cook&#34; for 1-4 hours (see notes). Stir every hour.
+1. Allow your fish to "cook" for 1-4 hours (see notes). Stir every hour.
 1. Soak the shallots. Add the shallots to a separate bowl and cover with hot (not boiling) water and 2 teaspoons salt. Mix well.
 1. Allow the shallots to soak for approximately 10-15 minutes before draining and rinsing with cold water. Cover and set aside in the refrigerator until ready to use.
 1. Marinate the tomatoes. Approximately 30 minutes before serving (see notes) add the shallots, tomatoes, and bell pepper to a new, larger, mixing bowl.

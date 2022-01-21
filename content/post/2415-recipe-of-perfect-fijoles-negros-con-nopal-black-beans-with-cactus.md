@@ -45,7 +45,7 @@ recipecategory: Dinner
 
 Hey everyone, I hope you are having an incredible day today. Today, we're going to prepare a special dish, fijoles negros con nopal (black beans with cactus ). It is one of my favorites food recipes. This time, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
 
-Frijoles negros (literally &#34;black beans&#34; in Spanish) is a Latin American dish made with black beans, prepared in Guatemala, Cuba, Venezuela (where it is called caraotas negras), Puerto Rico, Mexico, and other nations in Latin America. Frijoles negros a lo cubano riquisimos,exquisitos ,sigueme y lo disfrutamos juntos. This authentic recipe for Cuban black beans will become a family favorite! This recipe includes stovetop and slow cooker versions, check it out now!
+Frijoles negros (literally "black beans" in Spanish) is a Latin American dish made with black beans, prepared in Guatemala, Cuba, Venezuela (where it is called caraotas negras), Puerto Rico, Mexico, and other nations in Latin America. Frijoles negros a lo cubano riquisimos,exquisitos ,sigueme y lo disfrutamos juntos. This authentic recipe for Cuban black beans will become a family favorite! This recipe includes stovetop and slow cooker versions, check it out now!
 
 fijoles negros con nopal (black beans with cactus ) is one of the most favored of recent trending meals on earth. It's appreciated by millions every day. It's simple, it's fast, it tastes delicious. fijoles negros con nopal (black beans with cactus ) is something that I've loved my whole life. They're fine and they look wonderful.
 

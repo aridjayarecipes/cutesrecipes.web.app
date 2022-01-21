@@ -20,7 +20,7 @@ recipeinstructions:
 - "Ingredients for 10 pieces. *Grated Yam 40g = 10g Yam powder + 30ml Water"
 - "Cook 50g of Pumpkin in a microwave oven.　Mix the cooked pumpkin and 100g of red bean jam.　Divide it into 10 and make them round. Wrap them with a paper towel to take their water."
 - "Colorize 40g of grated Yamaimo.　Add 70g of sugar into the grated Yamaimo. Mix them well."
-- "Put the Yamaimo mixture into the &#34;Jouyo-ko&#34;.　Mix them. (Put the &#34;Jouyo-ko&#34; onto the yamaimo mixture and fold it.)　 When the dough becomes like &#34;squeezing an earlobe&#34;, divide the dough into 10, as using dusting flour."
+- "Put the Yamaimo mixture into the "Jouyo-ko".　Mix them. (Put the "Jouyo-ko" onto the yamaimo mixture and fold it.)　 When the dough becomes like "squeezing an earlobe", divide the dough into 10, as using dusting flour."
 - "Wrap a bean jam ball with the dough as using dusting flour."
 - "Make notches on the top of a dough (putting 2 crosses).　Make 8 ditches form the bottom to the top with a round chopstick."
 - "Make a round dent in the center.　Put a square chip of pumpkin peel.　Put them in a steamer. Spray water over them. Steam them for 8 minutes."
@@ -75,7 +75,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Ingredients for 10 pieces. *Grated Yam 40g = 10g Yam powder + 30ml Water
 1. Cook 50g of Pumpkin in a microwave oven.　Mix the cooked pumpkin and 100g of red bean jam.　Divide it into 10 and make them round. Wrap them with a paper towel to take their water.
 1. Colorize 40g of grated Yamaimo.　Add 70g of sugar into the grated Yamaimo. Mix them well.
-1. Put the Yamaimo mixture into the &#34;Jouyo-ko&#34;.　Mix them. (Put the &#34;Jouyo-ko&#34; onto the yamaimo mixture and fold it.)　 When the dough becomes like &#34;squeezing an earlobe&#34;, divide the dough into 10, as using dusting flour.
+1. Put the Yamaimo mixture into the "Jouyo-ko".　Mix them. (Put the "Jouyo-ko" onto the yamaimo mixture and fold it.)　 When the dough becomes like "squeezing an earlobe", divide the dough into 10, as using dusting flour.
 1. Wrap a bean jam ball with the dough as using dusting flour.
 1. Make notches on the top of a dough (putting 2 crosses).　Make 8 ditches form the bottom to the top with a round chopstick.
 1. Make a round dent in the center.　Put a square chip of pumpkin peel.　Put them in a steamer. Spray water over them. Steam them for 8 minutes.

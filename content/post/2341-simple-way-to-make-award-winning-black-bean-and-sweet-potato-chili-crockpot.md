@@ -60,8 +60,8 @@ To get started with this particular recipe, we must first prepare a few ingredie
 ##### The ingredients needed to make Black Bean and Sweet Potato Chili - CROCKPOT:
 
 1. Prepare 1 lb lean ground beef, browned
-1. Get 1 red or orange bell pepper, diced into 1/2&#34; chunks
-1. Get 1 lb sweet potato, peeled and diced into 1/2&#34; chunks
+1. Get 1 red or orange bell pepper, diced into 1/2" chunks
+1. Get 1 lb sweet potato, peeled and diced into 1/2" chunks
 1. Get 1 cup Black Bean and Corn salsa
 1. Take 1 Tbsp onion flakes
 1. Prepare 2 Tbsp dried parsley

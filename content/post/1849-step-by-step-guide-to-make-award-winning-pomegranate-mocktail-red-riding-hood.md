@@ -64,7 +64,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Take 4 tsp fresh cream
 
 
-Thank you for the wonderful work. Little Red Riding Hood&#39;s father is a woodcutter. Little Red Riding Hood&#39;s mother says: &#34;Grandmother is ill in bed. Take her some bread and jam. 
+Thank you for the wonderful work. Little Red Riding Hood&#39;s father is a woodcutter. Little Red Riding Hood&#39;s mother says: "Grandmother is ill in bed. Take her some bread and jam. 
 
 <!--inarticleads2-->
 
@@ -78,6 +78,6 @@ Thank you for the wonderful work. Little Red Riding Hood&#39;s father is a woodc
 1. Thanks.
 
 
-Little Red Riding Hood&#39;s mother says: &#34;Grandmother is ill in bed. Take her some bread and jam. One day Little Red Riding Hood goes to visit her granny. Who will she meet in the wood? Little Red Riding Hood&#39;s full story is pretty dark. 
+Little Red Riding Hood&#39;s mother says: "Grandmother is ill in bed. Take her some bread and jam. One day Little Red Riding Hood goes to visit her granny. Who will she meet in the wood? Little Red Riding Hood&#39;s full story is pretty dark. 
 
 So that's going to wrap this up for this special food pomegranate mocktail red riding hood recipe. Thank you very much for your time. I'm sure you will make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

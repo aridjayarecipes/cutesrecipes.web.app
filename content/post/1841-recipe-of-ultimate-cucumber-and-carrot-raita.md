@@ -57,7 +57,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Prepare 1/2 carrot cut into very tiny pieces
 
 
-Raita is a yogurt condiment flavoured with grated or finely chopped vegetables and herbs or mustard to enhance the flavour. In Gujarati mustard is called &#34;rai&#34;. There are lots of different variations of making raita. This Cucumber carrot and green chilies raita is the easiest to make. 
+Raita is a yogurt condiment flavoured with grated or finely chopped vegetables and herbs or mustard to enhance the flavour. In Gujarati mustard is called "rai". There are lots of different variations of making raita. This Cucumber carrot and green chilies raita is the easiest to make. 
 
 <!--inarticleads2-->
 

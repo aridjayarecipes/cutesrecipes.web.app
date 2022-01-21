@@ -29,7 +29,7 @@ recipeingredient:
 - "1 tsp. cinnamon"
 - "1/8 tsp. salt"
 recipeinstructions:
-- "Preheat the oven to 350°F. Grease a 9&#34; cake pan and set it aside. In a small bowl, make the streusel by stirring the melted butter, flour, brown sugar, cinnamon and salt together with a fork until it is combined and crumbly. Then stir in the chopped nuts. Set this mixture aside."
+- "Preheat the oven to 350°F. Grease a 9" cake pan and set it aside. In a small bowl, make the streusel by stirring the melted butter, flour, brown sugar, cinnamon and salt together with a fork until it is combined and crumbly. Then stir in the chopped nuts. Set this mixture aside."
 - "For the cake batter, start by whisking together the melted butter, both sugars and eggs until combined. Then fold in the carrots. Next add in both of the flours, baking soda, cinnamon and salt. Fold the batter together until it is just combined."
 - "Spread the batter evenly into the greased pan and crumble the streusel mixture evenly over the top. Bake for 30 or so minutes, until the center is just set. Place the pan on a cooling rack and let it cool a bit before slicing and serving."
 categories:
@@ -91,7 +91,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can c
 
 ##### Instructions to make Carrot Cake Coffee Cake:
 
-1. Preheat the oven to 350°F. Grease a 9&#34; cake pan and set it aside. In a small bowl, make the streusel by stirring the melted butter, flour, brown sugar, cinnamon and salt together with a fork until it is combined and crumbly. Then stir in the chopped nuts. Set this mixture aside.
+1. Preheat the oven to 350°F. Grease a 9" cake pan and set it aside. In a small bowl, make the streusel by stirring the melted butter, flour, brown sugar, cinnamon and salt together with a fork until it is combined and crumbly. Then stir in the chopped nuts. Set this mixture aside.
 1. For the cake batter, start by whisking together the melted butter, both sugars and eggs until combined. Then fold in the carrots. Next add in both of the flours, baking soda, cinnamon and salt. Fold the batter together until it is just combined.
 1. Spread the batter evenly into the greased pan and crumble the streusel mixture evenly over the top. Bake for 30 or so minutes, until the center is just set. Place the pan on a cooling rack and let it cool a bit before slicing and serving.
 

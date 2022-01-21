@@ -24,7 +24,7 @@ recipeinstructions:
 - "Add oil to pan high heat, fry them until golden brown and take it out - 2 mins"
 - "Before pan fry remember to add a teaspoon of corn starch with the rib mix! add 2 teaspoon of oil - mid heat and pan fry to 80% cooked."
 - "Move the ribs to the side then add garlic n black beans with little oil and fry them for 1 min."
-- "Add 1 cap full of chinese wine into the pan and mix well. (any brand with these caption is ok the wine has this brownish colour) &#34;紹興酒&#34; &#34;花雕酒&#34;"
+- "Add 1 cap full of chinese wine into the pan and mix well. (any brand with these caption is ok the wine has this brownish colour) "紹興酒" "花雕酒""
 - "Change to High heat and throw all onions and green pepper and keep stirring with the spatula for 1 min. Taste it. if bland add little dark soya sauce as desired and stir well. Done!"
 categories:
 - Recipe
@@ -80,7 +80,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Add oil to pan high heat, fry them until golden brown and take it out - 2 mins
 1. Before pan fry remember to add a teaspoon of corn starch with the rib mix! add 2 teaspoon of oil - mid heat and pan fry to 80% cooked.
 1. Move the ribs to the side then add garlic n black beans with little oil and fry them for 1 min.
-1. Add 1 cap full of chinese wine into the pan and mix well. (any brand with these caption is ok the wine has this brownish colour) &#34;紹興酒&#34; &#34;花雕酒&#34;
+1. Add 1 cap full of chinese wine into the pan and mix well. (any brand with these caption is ok the wine has this brownish colour) "紹興酒" "花雕酒"
 1. Change to High heat and throw all onions and green pepper and keep stirring with the spatula for 1 min. Taste it. if bland add little dark soya sauce as desired and stir well. Done!
 
 

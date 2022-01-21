@@ -23,7 +23,7 @@ recipeingredient:
 recipeinstructions:
 - "Preheat oven to 375º."
 - "Make sauce: In a small bowl, combine soy sauce, ginger, garlic, and honey."
-- "Prepare 12&#34;-x-18&#34; heavy duty foil pieces. Place a handful of onions and a piece of salmon, skin side down, in the center of the foil and generously spoon over sauce. Divide bell peppers and broccoli to surround the salmon, then close foil over it and crimp each edge tightly."
+- "Prepare 12"-x-18" heavy duty foil pieces. Place a handful of onions and a piece of salmon, skin side down, in the center of the foil and generously spoon over sauce. Divide bell peppers and broccoli to surround the salmon, then close foil over it and crimp each edge tightly."
 - "Place foil packets on a heavy sheet pan and bake for 20 minutes—carefully open foil packets as steam will escape."
 - "Garnish with green onions and serve immediately."
 - ""
@@ -80,7 +80,7 @@ To begin with this recipe, we have to prepare a few components. You can cook bak
 
 1. Preheat oven to 375º.
 1. Make sauce: In a small bowl, combine soy sauce, ginger, garlic, and honey.
-1. Prepare 12&#34;-x-18&#34; heavy duty foil pieces. Place a handful of onions and a piece of salmon, skin side down, in the center of the foil and generously spoon over sauce. Divide bell peppers and broccoli to surround the salmon, then close foil over it and crimp each edge tightly.
+1. Prepare 12"-x-18" heavy duty foil pieces. Place a handful of onions and a piece of salmon, skin side down, in the center of the foil and generously spoon over sauce. Divide bell peppers and broccoli to surround the salmon, then close foil over it and crimp each edge tightly.
 1. Place foil packets on a heavy sheet pan and bake for 20 minutes—carefully open foil packets as steam will escape.
 1. Garnish with green onions and serve immediately.
 1. 

@@ -48,7 +48,7 @@ Hello everybody, it's me, Dave, welcome to our recipe page. Today, I will show y
 
 Chicken,  Corn &amp; Black Bean Quesadillas is one of the most well liked of recent trending foods on earth. It is enjoyed by millions every day. It's simple, it is fast, it tastes delicious. They're fine and they look fantastic. Chicken,  Corn &amp; Black Bean Quesadillas is something that I've loved my entire life.
 
-Brushy One String &amp; The Kiffness - Chicken in the Corn (House Remix) [Official Video]. This is the original, uncut, never seen before full version of Chicken In The Corn from the movie RiseUp ( http. Brushy One String &amp; The Kiffness - Chicken in the Corn (House Remix) [Official Video]. 한줄기타에 드럼즉흥연주ㅣchicken in the corn DrumImprov. 뷘뷘 BinBhin. Watch Brushy record a take of his hit Chicken In The Corn during the &#34;Destiny&#34; album recording sessions.
+Brushy One String &amp; The Kiffness - Chicken in the Corn (House Remix) [Official Video]. This is the original, uncut, never seen before full version of Chicken In The Corn from the movie RiseUp ( http. Brushy One String &amp; The Kiffness - Chicken in the Corn (House Remix) [Official Video]. 한줄기타에 드럼즉흥연주ㅣchicken in the corn DrumImprov. 뷘뷘 BinBhin. Watch Brushy record a take of his hit Chicken In The Corn during the "Destiny" album recording sessions.
 
 
 To begin with this recipe, we must first prepare a few ingredients. You can cook chicken,  corn &amp; black bean quesadillas using 9 ingredients and 4 steps. Here is how you can achieve it.

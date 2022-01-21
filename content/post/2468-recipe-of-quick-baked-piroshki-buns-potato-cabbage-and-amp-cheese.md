@@ -61,7 +61,7 @@ To get started with this particular recipe, we must first prepare a few componen
 
 ##### The ingredients needed to make Baked Piroshki Buns- Potato, Cabbage, &amp; cheese 🥔🥬🧀:
 
-1. Make ready  Dough (Check out my &#34;Everything Dough&#34; recipe!)
+1. Make ready  Dough (Check out my "Everything Dough" recipe!)
 1. Take 1/2 Chopped Cabbage
 1. Get 4 medium sized Potato&#39;s chopped into cubes
 1. Take 2 cups Shredded cheddar cheese

@@ -15,7 +15,7 @@ recipeingredient:
 - "10 ground nuts or almonds 1 tablespoon coconut fat 1 tsp baking powder 1 tsp cinnamon"
 - " unsweetened dried fruits"
 recipeinstructions:
-- "First preheat the oven to 180 degrees. -Mic the eggs with “sugar&#34; and cinnamon."
+- "First preheat the oven to 180 degrees. -Mic the eggs with “sugar" and cinnamon."
 - "Then add the carrots and apples and then the other ingredients. -Pour into mass and bake for 25 minutes. ✨"
 - "It is very delicious in itself, but you can also add unsweetened whipped cream to the top with mascarpone.  Enjoy!"
 categories:
@@ -63,7 +63,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 
 ##### Instructions to make Healthy Desserts-Carrot Cake🥕:
 
-1. First preheat the oven to 180 degrees. -Mic the eggs with “sugar&#34; and cinnamon.
+1. First preheat the oven to 180 degrees. -Mic the eggs with “sugar" and cinnamon.
 1. Then add the carrots and apples and then the other ingredients. -Pour into mass and bake for 25 minutes. ✨
 1. It is very delicious in itself, but you can also add unsweetened whipped cream to the top with mascarpone.  - Enjoy!
 

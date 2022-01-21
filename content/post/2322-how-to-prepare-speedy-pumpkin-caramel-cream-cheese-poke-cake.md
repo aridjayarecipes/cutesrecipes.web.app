@@ -21,7 +21,7 @@ recipeingredient:
 - "1 cup powdered sugar"
 - "1 1/2 cup whipped topping"
 recipeinstructions:
-- "Pre heat oven to 350 degrees. We used 24 cupcake liners during class so each student could easily sample the recipe after class. This recipe can be poured into 9&#34;x 13&#34; greased cake pan."
+- "Pre heat oven to 350 degrees. We used 24 cupcake liners during class so each student could easily sample the recipe after class. This recipe can be poured into 9"x 13" greased cake pan."
 - "With a hand or stand mixer, mix together the cake mix, pumpkin, water, eggs and oil....stopping to scrape down the sides of the bowl. Mix until smooth."
 - "Spoon into cupcake liners or pour into a cake pan. Bake at 350 until a tooth pick inserted into the cake comes out clean. (approx 20 min cupcakes / 35 min cake pan)"
 - "As soon as the cake is out of the oven, while it is still hot, poke holes into the cake with the end of a wooden spoon. Spoon half the caramel sauce over the holes in each cupcake or pour half the sauce over the holes in the top of the cake."
@@ -77,7 +77,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 
 ##### Instructions to make Pumpkin Caramel Cream Cheese Poke cake:
 
-1. Pre heat oven to 350 degrees. We used 24 cupcake liners during class so each student could easily sample the recipe after class. This recipe can be poured into 9&#34;x 13&#34; greased cake pan.
+1. Pre heat oven to 350 degrees. We used 24 cupcake liners during class so each student could easily sample the recipe after class. This recipe can be poured into 9"x 13" greased cake pan.
 1. With a hand or stand mixer, mix together the cake mix, pumpkin, water, eggs and oil....stopping to scrape down the sides of the bowl. Mix until smooth.
 1. Spoon into cupcake liners or pour into a cake pan. Bake at 350 until a tooth pick inserted into the cake comes out clean. (approx 20 min cupcakes / 35 min cake pan)
 1. As soon as the cake is out of the oven, while it is still hot, poke holes into the cake with the end of a wooden spoon. Spoon half the caramel sauce over the holes in each cupcake or pour half the sauce over the holes in the top of the cake.

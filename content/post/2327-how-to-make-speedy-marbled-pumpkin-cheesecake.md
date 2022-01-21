@@ -27,7 +27,7 @@ recipeingredient:
 - "1/8 tsp. cloves"
 - "1/8 tsp. allspice"
 recipeinstructions:
-- "Preheat the oven to 300°F. Lightly grease a 9&#34; springform pan with non-stick cooking spray. Then, wrap the bottom and sides of the pan with aluminum foil (heavy duty if you&#39;ve got it), that way it will be completely water tight for the water bath it will bake in."
+- "Preheat the oven to 300°F. Lightly grease a 9" springform pan with non-stick cooking spray. Then, wrap the bottom and sides of the pan with aluminum foil (heavy duty if you&#39;ve got it), that way it will be completely water tight for the water bath it will bake in."
 - "Start by making the crust. In a medium mixing bowl, combine the graham cracker crumbs, melted butter and sugar until they are fully blended and all the crumbs are moistened. Press the crumbs tightly into the bottom and about 1 inch up the sides of a prepared pan. I use the bottom of a flat measuring cup to help press the crumbs down tightly. Bake for 10 minutes, then remove from the oven and set side. Once you take out the crust, increase the oven temperature to 325°F."
 - "In a large mixing bowl, using a hand mixer, blend together the cream cheese, granulated sugar and vanilla extract until just combined. Then add in the eggs, 1 at a time, blending until just combined after each egg. Remove 1 cup of that mix and set it aside in a separate bowl."
 - "Next, add to the remaining cheesecake mix the pumpkin, brown sugar, cinnamon, nutmeg, ginger, cloves and allspice. Blend together until just combined...it is important not to overmix!"
@@ -97,7 +97,7 @@ To get started with this particular recipe, we must first prepare a few componen
 
 ##### Steps to make Marbled Pumpkin Cheesecake:
 
-1. Preheat the oven to 300°F. Lightly grease a 9&#34; springform pan with non-stick cooking spray. Then, wrap the bottom and sides of the pan with aluminum foil (heavy duty if you&#39;ve got it), that way it will be completely water tight for the water bath it will bake in.
+1. Preheat the oven to 300°F. Lightly grease a 9" springform pan with non-stick cooking spray. Then, wrap the bottom and sides of the pan with aluminum foil (heavy duty if you&#39;ve got it), that way it will be completely water tight for the water bath it will bake in.
 1. Start by making the crust. In a medium mixing bowl, combine the graham cracker crumbs, melted butter and sugar until they are fully blended and all the crumbs are moistened. Press the crumbs tightly into the bottom and about 1 inch up the sides of a prepared pan. I use the bottom of a flat measuring cup to help press the crumbs down tightly. Bake for 10 minutes, then remove from the oven and set side. Once you take out the crust, increase the oven temperature to 325°F.
 1. In a large mixing bowl, using a hand mixer, blend together the cream cheese, granulated sugar and vanilla extract until just combined. Then add in the eggs, 1 at a time, blending until just combined after each egg. Remove 1 cup of that mix and set it aside in a separate bowl.
 1. Next, add to the remaining cheesecake mix the pumpkin, brown sugar, cinnamon, nutmeg, ginger, cloves and allspice. Blend together until just combined...it is important not to overmix!

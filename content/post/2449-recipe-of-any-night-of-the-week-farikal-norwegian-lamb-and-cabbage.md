@@ -67,7 +67,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Make ready To taste garlic optional
 
 
-But if you ever want to learn about real traditional fårikål, the Norwegian Fårikål Society is the place go. Even though fårikål is traditionally made (and eaten) in Autumn there. Slice the cabbage into &#34;boats&#34;, just radiating slices from the middle, out. Find the fattiest bits of meat and place one layer of that on the bottom of the pot. 
+But if you ever want to learn about real traditional fårikål, the Norwegian Fårikål Society is the place go. Even though fårikål is traditionally made (and eaten) in Autumn there. Slice the cabbage into "boats", just radiating slices from the middle, out. Find the fattiest bits of meat and place one layer of that on the bottom of the pot. 
 
 <!--inarticleads2-->
 
@@ -80,6 +80,6 @@ But if you ever want to learn about real traditional fårikål, the Norwegian F�
 1. Simmer covered for 1-1/2 to 2 hours covered. I checked on it every 15 minutes. Allow to rest for 10 minutes. Serve I hope you enjoy!!!
 
 
-Slice the cabbage into &#34;boats&#34;, just radiating slices from the middle, out. Find the fattiest bits of meat and place one layer of that on the bottom of the pot. I had to rate this recipe. I live in Norway, am an American from Seattle, and this is exactly how my Norwegian husband makes his fÃ¥rikÃ¥l. Quarter your cabbage(s), alternate chunks of cabbage with chunks of lamb in a casserole dish, pour about an inch of water in the bottom, salt and pepper as much as you dare, then stick the lid on and cook Cabbage - I use sweetheart (hispi) because I bloody love it, although it is a bit more springtime. (Lamb and Cabbage Stew). 
+Slice the cabbage into "boats", just radiating slices from the middle, out. Find the fattiest bits of meat and place one layer of that on the bottom of the pot. I had to rate this recipe. I live in Norway, am an American from Seattle, and this is exactly how my Norwegian husband makes his fÃ¥rikÃ¥l. Quarter your cabbage(s), alternate chunks of cabbage with chunks of lamb in a casserole dish, pour about an inch of water in the bottom, salt and pepper as much as you dare, then stick the lid on and cook Cabbage - I use sweetheart (hispi) because I bloody love it, although it is a bit more springtime. (Lamb and Cabbage Stew). 
 
 So that's going to wrap it up with this exceptional food fårikål, norwegian lamb and cabbage recipe. Thanks so much for reading. I'm sure you can make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

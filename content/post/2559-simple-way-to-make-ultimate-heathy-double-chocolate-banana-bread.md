@@ -24,7 +24,7 @@ recipeingredient:
 - "1/2 tsp salt"
 - "170 g chocolate chips plus more to sprinkle on top"
 recipeinstructions:
-- "Preheat your oven to 350°F and spray a 9x5&#34; loaf pan with olive oil spray."
+- "Preheat your oven to 350°F and spray a 9x5" loaf pan with olive oil spray."
 - "In a big mixing bowl mix wet ingredients: sugar, milk, oil, honey, egg &amp; mashed banana."
 - "Sift in dry ingredients:the flour, cocoa powder, baking powder, baking soda, and salt and gently incorporate with the wet. Stir in the chocolate chips."
 - "Pour batter into your prepared loaf pan, top with extra chocolate chips."
@@ -85,7 +85,7 @@ Lovely and sweet, yet still separate and distinct. After a while both want somet
 
 ##### Instructions to make Heathy double chocolate banana bread:
 
-1. Preheat your oven to 350°F and spray a 9x5&#34; loaf pan with olive oil spray.
+1. Preheat your oven to 350°F and spray a 9x5" loaf pan with olive oil spray.
 1. In a big mixing bowl mix wet ingredients: sugar, milk, oil, honey, egg &amp; mashed banana.
 1. Sift in dry ingredients:the flour, cocoa powder, baking powder, baking soda, and salt and gently incorporate with the wet. Stir in the chocolate chips.
 1. Pour batter into your prepared loaf pan, top with extra chocolate chips.

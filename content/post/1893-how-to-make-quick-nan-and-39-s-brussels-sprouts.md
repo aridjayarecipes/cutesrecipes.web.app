@@ -19,7 +19,7 @@ recipeingredient:
 - "2 T. premium balsamic vinegar"
 recipeinstructions:
 - "Preheat oven to 350°F. Place bacon in large baking pan and bake until crisp, 30-40 minutes (ovens vary). Drain bacon on paper towels and hide somewhere safe from hungry bacon lovers who&#39;ve smelled it cooking. Leave the bacon grease in the pan."
-- "Trim &amp; clean the Brussels sprouts. Cut large sprouts in half. For small sprouts just cut about 1/4&#34; into the stem end."
+- "Trim &amp; clean the Brussels sprouts. Cut large sprouts in half. For small sprouts just cut about 1/4" into the stem end."
 - "Slice the onion in fairly large pieces (see photo). Cut root end off of garlic cloves and remove papery skins."
 - "Place sprouts, onions &amp; garlic cloves into the pan the bacon was cooked in, and stir/toss to coat all with the bacon grease. Place halved sprouts cut side down. Sprouts should be in a single layer. Sprinkle with salt, pepper, and garlic powder."
 - "Bake, uncovered, in 350°F oven for 25 minutes. Stir, increase oven temperature to 400°F, and cook 20 minutes more until golden brown."
@@ -73,7 +73,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 ##### Steps to make Nan&#39;s Brussels Sprouts:
 
 1. Preheat oven to 350°F. Place bacon in large baking pan and bake until crisp, 30-40 minutes (ovens vary). Drain bacon on paper towels and hide somewhere safe from hungry bacon lovers who&#39;ve smelled it cooking. Leave the bacon grease in the pan.
-1. Trim &amp; clean the Brussels sprouts. Cut large sprouts in half. For small sprouts just cut about 1/4&#34; into the stem end.
+1. Trim &amp; clean the Brussels sprouts. Cut large sprouts in half. For small sprouts just cut about 1/4" into the stem end.
 1. Slice the onion in fairly large pieces (see photo). Cut root end off of garlic cloves and remove papery skins.
 1. Place sprouts, onions &amp; garlic cloves into the pan the bacon was cooked in, and stir/toss to coat all with the bacon grease. Place halved sprouts cut side down. Sprouts should be in a single layer. Sprinkle with salt, pepper, and garlic powder.
 1. Bake, uncovered, in 350°F oven for 25 minutes. Stir, increase oven temperature to 400°F, and cook 20 minutes more until golden brown.

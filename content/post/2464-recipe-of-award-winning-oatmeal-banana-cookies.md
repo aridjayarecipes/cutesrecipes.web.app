@@ -64,7 +64,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Take  Some dark chocolate chips or raisins
 
 
-Reviews for Photos of Banana Oatmeal Cookie. Centenarians in Loma Linda follow a &#34;biblical&#34; diet focused on grains, fruits, nuts and vegetables, and drink only water. Their top foods include avocados, nuts, beans, whole wheat bread, soy milk. Vegan and easily made gluten-free, these cookies are perfect for breakfast, dessert, or a snack. 
+Reviews for Photos of Banana Oatmeal Cookie. Centenarians in Loma Linda follow a "biblical" diet focused on grains, fruits, nuts and vegetables, and drink only water. Their top foods include avocados, nuts, beans, whole wheat bread, soy milk. Vegan and easily made gluten-free, these cookies are perfect for breakfast, dessert, or a snack. 
 
 <!--inarticleads2-->
 

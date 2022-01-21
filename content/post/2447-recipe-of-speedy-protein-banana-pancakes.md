@@ -68,7 +68,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 1. Get  whey protein
 
 
-Plus, they are high in protein and fibre, making for an ultra filling breakfast. Adding oatmeal creates the most &#34;pancakey&#34; consistency. This is a good option if you&#39;re looking to hit your carb goals, or just want to feel fuller for longer. Protein Banana Pancakes! … with extra bananas, blackberries, chocolate chips and a good drizzle of honey on top! 
+Plus, they are high in protein and fibre, making for an ultra filling breakfast. Adding oatmeal creates the most "pancakey" consistency. This is a good option if you&#39;re looking to hit your carb goals, or just want to feel fuller for longer. Protein Banana Pancakes! … with extra bananas, blackberries, chocolate chips and a good drizzle of honey on top! 
 
 <!--inarticleads2-->
 
