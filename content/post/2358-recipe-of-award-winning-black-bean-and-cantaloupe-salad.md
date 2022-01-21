@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Black Bean and Cantaloupe Salad"
 title: "Recipe of Award-winning Black Bean and Cantaloupe Salad"
 slug: 2358-recipe-of-award-winning-black-bean-and-cantaloupe-salad
-date: 2022-03-22T00:01:58.607Z
+date: 2022-01-22T00:01:58.607Z
 image: https://img-global.cpcdn.com/recipes/2543651_0efb5bfce7910450/680x482cq70/black-bean-and-cantaloupe-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2543651_0efb5bfce7910450/680x482cq70/black-bean-and-cantaloupe-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2543651_0efb5bfce7910450/680x482cq70/black-bean-and-cantaloupe-salad-recipe-main-photo.jpg

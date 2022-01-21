@@ -2,7 +2,7 @@
 description: "How to Prepare Speedy Blueberry Cobbler"
 title: "How to Prepare Speedy Blueberry Cobbler"
 slug: 1771-how-to-prepare-speedy-blueberry-cobbler
-date: 2022-03-25T06:43:39.870Z
+date: 2022-01-25T06:43:39.870Z
 image: https://img-global.cpcdn.com/recipes/1c797dff7814a3ba/680x482cq70/blueberry-cobbler-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1c797dff7814a3ba/680x482cq70/blueberry-cobbler-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1c797dff7814a3ba/680x482cq70/blueberry-cobbler-recipe-main-photo.jpg

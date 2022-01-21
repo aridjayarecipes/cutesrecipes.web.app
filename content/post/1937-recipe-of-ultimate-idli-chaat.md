@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Idli Chaat"
 title: "Recipe of Ultimate Idli Chaat"
 slug: 1937-recipe-of-ultimate-idli-chaat
-date: 2022-03-15T19:38:47.756Z
+date: 2022-01-15T19:38:47.756Z
 image: https://img-global.cpcdn.com/recipes/26b9bdfc66e04cc4/680x482cq70/idli-chaat-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/26b9bdfc66e04cc4/680x482cq70/idli-chaat-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/26b9bdfc66e04cc4/680x482cq70/idli-chaat-recipe-main-photo.jpg

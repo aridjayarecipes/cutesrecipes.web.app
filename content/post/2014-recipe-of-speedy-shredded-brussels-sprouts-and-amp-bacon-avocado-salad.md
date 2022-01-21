@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Shredded Brussels Sprouts &amp;amp; Bacon Avocado Salad"
 title: "Recipe of Speedy Shredded Brussels Sprouts &amp;amp; Bacon Avocado Salad"
 slug: 2014-recipe-of-speedy-shredded-brussels-sprouts-and-amp-bacon-avocado-salad
-date: 2022-03-05T20:22:01.775Z
+date: 2022-01-05T20:22:01.775Z
 image: https://img-global.cpcdn.com/recipes/6432196169564160/680x482cq70/shredded-brussels-sprouts-bacon-avocado-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6432196169564160/680x482cq70/shredded-brussels-sprouts-bacon-avocado-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6432196169564160/680x482cq70/shredded-brussels-sprouts-bacon-avocado-salad-recipe-main-photo.jpg

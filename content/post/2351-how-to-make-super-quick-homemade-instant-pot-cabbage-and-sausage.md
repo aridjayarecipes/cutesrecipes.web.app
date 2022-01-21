@@ -2,7 +2,7 @@
 description: "How to Make Super Quick Homemade Instant pot cabbage and sausage"
 title: "How to Make Super Quick Homemade Instant pot cabbage and sausage"
 slug: 2351-how-to-make-super-quick-homemade-instant-pot-cabbage-and-sausage
-date: 2022-03-16T22:22:31.712Z
+date: 2022-01-16T22:22:31.712Z
 image: https://img-global.cpcdn.com/recipes/772308a9df9ad4c7/680x482cq70/instant-pot-cabbage-and-sausage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/772308a9df9ad4c7/680x482cq70/instant-pot-cabbage-and-sausage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/772308a9df9ad4c7/680x482cq70/instant-pot-cabbage-and-sausage-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Make Any-night-of-the-week Mini papad masala"
 title: "Simple Way to Make Any-night-of-the-week Mini papad masala"
 slug: 2007-simple-way-to-make-any-night-of-the-week-mini-papad-masala
-date: 2022-03-19T04:40:38.815Z
+date: 2022-01-19T04:40:38.815Z
 image: https://img-global.cpcdn.com/recipes/3e928984d657be1b/680x482cq70/mini-papad-masala-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3e928984d657be1b/680x482cq70/mini-papad-masala-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3e928984d657be1b/680x482cq70/mini-papad-masala-recipe-main-photo.jpg

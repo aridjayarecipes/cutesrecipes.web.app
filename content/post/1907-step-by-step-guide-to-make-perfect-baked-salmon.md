@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Perfect Baked Salmon"
 title: "Step-by-Step Guide to Make Perfect Baked Salmon"
 slug: 1907-step-by-step-guide-to-make-perfect-baked-salmon
-date: 2022-03-25T01:40:55.411Z
+date: 2022-01-25T01:40:55.411Z
 image: https://img-global.cpcdn.com/recipes/23dcc66c21fd0fe0/680x482cq70/baked-salmon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/23dcc66c21fd0fe0/680x482cq70/baked-salmon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/23dcc66c21fd0fe0/680x482cq70/baked-salmon-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Award-winning Kick Ass Black Bean Dip"
 title: "Step-by-Step Guide to Make Award-winning Kick Ass Black Bean Dip"
 slug: 2375-step-by-step-guide-to-make-award-winning-kick-ass-black-bean-dip
-date: 2022-03-10T20:34:33.747Z
+date: 2022-01-10T20:34:33.747Z
 image: https://img-global.cpcdn.com/recipes/4551387210842112/680x482cq70/kick-ass-black-bean-dip-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4551387210842112/680x482cq70/kick-ass-black-bean-dip-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4551387210842112/680x482cq70/kick-ass-black-bean-dip-recipe-main-photo.jpg

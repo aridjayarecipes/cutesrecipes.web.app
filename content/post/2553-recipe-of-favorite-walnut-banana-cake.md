@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Walnut Banana Cake"
 title: "Recipe of Favorite Walnut Banana Cake"
 slug: 2553-recipe-of-favorite-walnut-banana-cake
-date: 2022-03-25T10:24:45.698Z
+date: 2022-01-25T10:24:45.698Z
 image: https://img-global.cpcdn.com/recipes/48b9fd250362a331/680x482cq70/walnut-banana-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/48b9fd250362a331/680x482cq70/walnut-banana-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/48b9fd250362a331/680x482cq70/walnut-banana-cake-recipe-main-photo.jpg

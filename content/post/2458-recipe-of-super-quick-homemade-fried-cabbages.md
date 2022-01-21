@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Fried Cabbages"
 title: "Recipe of Super Quick Homemade Fried Cabbages"
 slug: 2458-recipe-of-super-quick-homemade-fried-cabbages
-date: 2022-03-02T12:53:25.853Z
+date: 2022-01-02T12:53:25.853Z
 image: https://img-global.cpcdn.com/recipes/c4668cbbc38a55d3/680x482cq70/fried-cabbages-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c4668cbbc38a55d3/680x482cq70/fried-cabbages-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c4668cbbc38a55d3/680x482cq70/fried-cabbages-recipe-main-photo.jpg

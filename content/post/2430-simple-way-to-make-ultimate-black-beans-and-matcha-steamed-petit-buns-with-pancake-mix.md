@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Black Beans and Matcha Steamed Petit Buns with Pancake Mix"
 title: "Simple Way to Make Ultimate Black Beans and Matcha Steamed Petit Buns with Pancake Mix"
 slug: 2430-simple-way-to-make-ultimate-black-beans-and-matcha-steamed-petit-buns-with-pancake-mix
-date: 2022-03-07T18:38:41.528Z
+date: 2022-01-07T18:38:41.528Z
 image: https://img-global.cpcdn.com/recipes/4824789129625600/680x482cq70/black-beans-and-matcha-steamed-petit-buns-with-pancake-mix-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4824789129625600/680x482cq70/black-beans-and-matcha-steamed-petit-buns-with-pancake-mix-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4824789129625600/680x482cq70/black-beans-and-matcha-steamed-petit-buns-with-pancake-mix-recipe-main-photo.jpg

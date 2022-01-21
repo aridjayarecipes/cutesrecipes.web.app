@@ -2,7 +2,7 @@
 description: "Simple Way to Make Any-night-of-the-week Brussels Sprouts &amp;amp; Anchovy Cake Sale"
 title: "Simple Way to Make Any-night-of-the-week Brussels Sprouts &amp;amp; Anchovy Cake Sale"
 slug: 2028-simple-way-to-make-any-night-of-the-week-brussels-sprouts-and-amp-anchovy-cake-sale
-date: 2022-03-06T13:39:56.828Z
+date: 2022-01-06T13:39:56.828Z
 image: https://img-global.cpcdn.com/recipes/6653225315860480/680x482cq70/brussels-sprouts-anchovy-cake-sale-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6653225315860480/680x482cq70/brussels-sprouts-anchovy-cake-sale-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6653225315860480/680x482cq70/brussels-sprouts-anchovy-cake-sale-recipe-main-photo.jpg

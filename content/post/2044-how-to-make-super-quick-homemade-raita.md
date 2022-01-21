@@ -2,7 +2,7 @@
 description: "How to Make Super Quick Homemade Raita"
 title: "How to Make Super Quick Homemade Raita"
 slug: 2044-how-to-make-super-quick-homemade-raita
-date: 2022-03-09T18:30:08.712Z
+date: 2022-01-09T18:30:08.712Z
 image: https://img-global.cpcdn.com/recipes/9bf4a7b7e187fb6b/680x482cq70/raita-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9bf4a7b7e187fb6b/680x482cq70/raita-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9bf4a7b7e187fb6b/680x482cq70/raita-recipe-main-photo.jpg

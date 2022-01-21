@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Perfect Corn Onion Soup (Healthy and Light)"
 title: "Simple Way to Prepare Perfect Corn Onion Soup (Healthy and Light)"
 slug: 2526-simple-way-to-prepare-perfect-corn-onion-soup-healthy-and-light
-date: 2022-03-02T10:39:57.877Z
+date: 2022-01-02T10:39:57.877Z
 image: https://img-global.cpcdn.com/recipes/b559f5ae266cdb74/680x482cq70/corn-onion-soup-healthy-and-light-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b559f5ae266cdb74/680x482cq70/corn-onion-soup-healthy-and-light-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b559f5ae266cdb74/680x482cq70/corn-onion-soup-healthy-and-light-recipe-main-photo.jpg

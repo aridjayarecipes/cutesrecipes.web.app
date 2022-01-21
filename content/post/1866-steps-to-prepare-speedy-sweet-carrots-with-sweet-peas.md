@@ -2,7 +2,7 @@
 description: "Steps to Prepare Speedy Sweet carrots with sweet peas"
 title: "Steps to Prepare Speedy Sweet carrots with sweet peas"
 slug: 1866-steps-to-prepare-speedy-sweet-carrots-with-sweet-peas
-date: 2022-03-21T22:59:40.959Z
+date: 2022-01-21T22:59:40.959Z
 image: https://img-global.cpcdn.com/recipes/5312197ff428e75b/680x482cq70/sweet-carrots-with-sweet-peas-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5312197ff428e75b/680x482cq70/sweet-carrots-with-sweet-peas-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5312197ff428e75b/680x482cq70/sweet-carrots-with-sweet-peas-recipe-main-photo.jpg

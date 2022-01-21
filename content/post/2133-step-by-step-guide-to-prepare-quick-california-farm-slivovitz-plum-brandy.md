@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Quick California Farm Slivovitz plum brandy"
 title: "Step-by-Step Guide to Prepare Quick California Farm Slivovitz plum brandy"
 slug: 2133-step-by-step-guide-to-prepare-quick-california-farm-slivovitz-plum-brandy
-date: 2022-03-07T12:48:49.445Z
+date: 2022-01-07T12:48:49.445Z
 image: https://img-global.cpcdn.com/recipes/d63a2af71d20d303/680x482cq70/california-farm-slivovitz-plum-brandy-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d63a2af71d20d303/680x482cq70/california-farm-slivovitz-plum-brandy-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d63a2af71d20d303/680x482cq70/california-farm-slivovitz-plum-brandy-recipe-main-photo.jpg

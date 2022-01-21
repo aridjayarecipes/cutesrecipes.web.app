@@ -2,7 +2,7 @@
 description: "Steps to Make Any-night-of-the-week Air-fry Carrot Chips"
 title: "Steps to Make Any-night-of-the-week Air-fry Carrot Chips"
 slug: 1723-steps-to-make-any-night-of-the-week-air-fry-carrot-chips
-date: 2022-03-08T01:55:21.498Z
+date: 2022-01-08T01:55:21.498Z
 image: https://img-global.cpcdn.com/recipes/92911a978150842a/680x482cq70/air-fry-carrot-chips-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/92911a978150842a/680x482cq70/air-fry-carrot-chips-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/92911a978150842a/680x482cq70/air-fry-carrot-chips-recipe-main-photo.jpg

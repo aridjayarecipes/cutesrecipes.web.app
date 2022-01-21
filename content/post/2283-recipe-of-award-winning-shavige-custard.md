@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Shavige custard"
 title: "Recipe of Award-winning Shavige custard"
 slug: 2283-recipe-of-award-winning-shavige-custard
-date: 2022-03-24T17:07:44.637Z
+date: 2022-01-24T17:07:44.637Z
 image: https://img-global.cpcdn.com/recipes/26d62be2eff691aa/680x482cq70/shavige-custard-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/26d62be2eff691aa/680x482cq70/shavige-custard-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/26d62be2eff691aa/680x482cq70/shavige-custard-recipe-main-photo.jpg

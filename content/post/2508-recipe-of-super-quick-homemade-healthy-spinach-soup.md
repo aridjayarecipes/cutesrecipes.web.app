@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Healthy Spinach Soup"
 title: "Recipe of Super Quick Homemade Healthy Spinach Soup"
 slug: 2508-recipe-of-super-quick-homemade-healthy-spinach-soup
-date: 2022-03-03T17:50:57.838Z
+date: 2022-01-03T17:50:57.838Z
 image: https://img-global.cpcdn.com/recipes/564e30b22a0edc4e/680x482cq70/healthy-spinach-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/564e30b22a0edc4e/680x482cq70/healthy-spinach-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/564e30b22a0edc4e/680x482cq70/healthy-spinach-soup-recipe-main-photo.jpg

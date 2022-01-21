@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Soba Noodle Bowl"
 title: "Recipe of Award-winning Soba Noodle Bowl"
 slug: 2108-recipe-of-award-winning-soba-noodle-bowl
-date: 2022-03-08T22:45:36.844Z
+date: 2022-01-08T22:45:36.844Z
 image: https://img-global.cpcdn.com/recipes/5d080b2da58bad78/680x482cq70/soba-noodle-bowl-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5d080b2da58bad78/680x482cq70/soba-noodle-bowl-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5d080b2da58bad78/680x482cq70/soba-noodle-bowl-recipe-main-photo.jpg

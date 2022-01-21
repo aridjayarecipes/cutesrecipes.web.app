@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Vickys Individual Plum Jam Tarts, GF DF EF SF NF"
 title: "Recipe of Super Quick Homemade Vickys Individual Plum Jam Tarts, GF DF EF SF NF"
 slug: 2185-recipe-of-super-quick-homemade-vickys-individual-plum-jam-tarts-gf-df-ef-sf-nf
-date: 2022-03-08T19:20:50.736Z
+date: 2022-01-08T19:20:50.736Z
 image: https://img-global.cpcdn.com/recipes/4923576488034304/680x482cq70/vickys-individual-plum-jam-tarts-gf-df-ef-sf-nf-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4923576488034304/680x482cq70/vickys-individual-plum-jam-tarts-gf-df-ef-sf-nf-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4923576488034304/680x482cq70/vickys-individual-plum-jam-tarts-gf-df-ef-sf-nf-recipe-main-photo.jpg

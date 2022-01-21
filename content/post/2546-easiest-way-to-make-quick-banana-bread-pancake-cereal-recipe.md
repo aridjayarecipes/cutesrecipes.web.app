@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Banana Bread Pancake Cereal Recipe"
 title: "Easiest Way to Make Quick Banana Bread Pancake Cereal Recipe"
 slug: 2546-easiest-way-to-make-quick-banana-bread-pancake-cereal-recipe
-date: 2022-03-17T00:07:41.228Z
+date: 2022-01-17T00:07:41.228Z
 image: https://img-global.cpcdn.com/recipes/0a36d9c70d382b61/680x482cq70/banana-bread-pancake-cereal-recipe-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0a36d9c70d382b61/680x482cq70/banana-bread-pancake-cereal-recipe-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0a36d9c70d382b61/680x482cq70/banana-bread-pancake-cereal-recipe-recipe-main-photo.jpg

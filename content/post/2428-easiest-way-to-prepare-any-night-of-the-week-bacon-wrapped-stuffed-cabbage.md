@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Any-night-of-the-week Bacon Wrapped Stuffed Cabbage"
 title: "Easiest Way to Prepare Any-night-of-the-week Bacon Wrapped Stuffed Cabbage"
 slug: 2428-easiest-way-to-prepare-any-night-of-the-week-bacon-wrapped-stuffed-cabbage
-date: 2022-03-04T12:32:42.199Z
+date: 2022-01-04T12:32:42.199Z
 image: https://img-global.cpcdn.com/recipes/75f8832100598470/680x482cq70/bacon-wrapped-stuffed-cabbage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/75f8832100598470/680x482cq70/bacon-wrapped-stuffed-cabbage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/75f8832100598470/680x482cq70/bacon-wrapped-stuffed-cabbage-recipe-main-photo.jpg

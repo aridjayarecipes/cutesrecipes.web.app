@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Mussels in a Creamy White Wine sauce"
 title: "Recipe of Ultimate Mussels in a Creamy White Wine sauce"
 slug: 1728-recipe-of-ultimate-mussels-in-a-creamy-white-wine-sauce
-date: 2022-03-03T20:02:50.064Z
+date: 2022-01-03T20:02:50.064Z
 image: https://img-global.cpcdn.com/recipes/a8a05059a57a7257/680x482cq70/mussels-in-a-creamy-white-wine-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a8a05059a57a7257/680x482cq70/mussels-in-a-creamy-white-wine-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a8a05059a57a7257/680x482cq70/mussels-in-a-creamy-white-wine-sauce-recipe-main-photo.jpg

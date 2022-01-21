@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Super Quick Homemade Sig&amp;#39;s Ginger and Wine glazed Plum Pizza with Honey/Vanilla Masc"
 title: "Simple Way to Prepare Super Quick Homemade Sig&amp;#39;s Ginger and Wine glazed Plum Pizza with Honey/Vanilla Masc"
 slug: 2237-simple-way-to-prepare-super-quick-homemade-sig-and-39-s-ginger-and-wine-glazed-plum-pizza-with-honey-vanilla-masc
-date: 2022-03-08T06:01:51.098Z
+date: 2022-01-08T06:01:51.098Z
 image: https://img-global.cpcdn.com/recipes/5108170095591424/680x482cq70/sigs-ginger-and-wine-glazed-plum-pizza-with-honeyvanilla-masc-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5108170095591424/680x482cq70/sigs-ginger-and-wine-glazed-plum-pizza-with-honeyvanilla-masc-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5108170095591424/680x482cq70/sigs-ginger-and-wine-glazed-plum-pizza-with-honeyvanilla-masc-recipe-main-photo.jpg

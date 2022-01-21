@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Raspberry Lemon Baked Oatmeal Cups"
 title: "Easiest Way to Prepare Super Quick Homemade Raspberry Lemon Baked Oatmeal Cups"
 slug: 2626-easiest-way-to-prepare-super-quick-homemade-raspberry-lemon-baked-oatmeal-cups
-date: 2022-03-04T19:39:13.347Z
+date: 2022-01-04T19:39:13.347Z
 image: https://img-global.cpcdn.com/recipes/a1388ca6dcb4081c/680x482cq70/raspberry-lemon-baked-oatmeal-cups-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a1388ca6dcb4081c/680x482cq70/raspberry-lemon-baked-oatmeal-cups-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a1388ca6dcb4081c/680x482cq70/raspberry-lemon-baked-oatmeal-cups-recipe-main-photo.jpg

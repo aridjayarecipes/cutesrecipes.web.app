@@ -2,7 +2,7 @@
 description: "How to Make Quick Kolkata style Chicken Briyani"
 title: "How to Make Quick Kolkata style Chicken Briyani"
 slug: 2302-how-to-make-quick-kolkata-style-chicken-briyani
-date: 2022-03-08T15:53:13.922Z
+date: 2022-01-08T15:53:13.922Z
 image: https://img-global.cpcdn.com/recipes/c95f5743287f9ca8/680x482cq70/kolkata-style-chicken-briyani-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c95f5743287f9ca8/680x482cq70/kolkata-style-chicken-briyani-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c95f5743287f9ca8/680x482cq70/kolkata-style-chicken-briyani-recipe-main-photo.jpg

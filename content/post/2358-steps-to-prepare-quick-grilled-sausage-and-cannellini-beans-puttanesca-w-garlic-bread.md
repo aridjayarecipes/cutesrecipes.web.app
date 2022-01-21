@@ -2,7 +2,7 @@
 description: "Steps to Prepare Quick Grilled Sausage and Cannellini Beans Puttanesca w/ Garlic Bread"
 title: "Steps to Prepare Quick Grilled Sausage and Cannellini Beans Puttanesca w/ Garlic Bread"
 slug: 2358-steps-to-prepare-quick-grilled-sausage-and-cannellini-beans-puttanesca-w-garlic-bread
-date: 2022-03-08T20:01:21.478Z
+date: 2022-01-08T20:01:21.478Z
 image: https://img-global.cpcdn.com/recipes/a3ecb77c02e6af2e/680x482cq70/grilled-sausage-and-cannellini-beans-puttanesca-w-garlic-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a3ecb77c02e6af2e/680x482cq70/grilled-sausage-and-cannellini-beans-puttanesca-w-garlic-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a3ecb77c02e6af2e/680x482cq70/grilled-sausage-and-cannellini-beans-puttanesca-w-garlic-bread-recipe-main-photo.jpg

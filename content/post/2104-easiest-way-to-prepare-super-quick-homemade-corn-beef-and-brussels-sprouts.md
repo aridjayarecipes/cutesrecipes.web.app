@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Corn beef and brussels sprouts"
 title: "Easiest Way to Prepare Super Quick Homemade Corn beef and brussels sprouts"
 slug: 2104-easiest-way-to-prepare-super-quick-homemade-corn-beef-and-brussels-sprouts
-date: 2022-03-28T13:47:23.616Z
+date: 2022-01-28T13:47:23.616Z
 image: https://img-global.cpcdn.com/recipes/1377abf704239022/680x482cq70/corn-beef-and-brussels-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1377abf704239022/680x482cq70/corn-beef-and-brussels-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1377abf704239022/680x482cq70/corn-beef-and-brussels-sprouts-recipe-main-photo.jpg

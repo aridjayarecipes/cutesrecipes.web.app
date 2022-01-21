@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Quick Banana Walnut Loaf"
 title: "Simple Way to Prepare Quick Banana Walnut Loaf"
 slug: 2404-simple-way-to-prepare-quick-banana-walnut-loaf
-date: 2022-03-30T03:27:40.058Z
+date: 2022-01-30T03:27:40.058Z
 image: https://img-global.cpcdn.com/recipes/cbeff4052155fc26/680x482cq70/banana-walnut-loaf-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/cbeff4052155fc26/680x482cq70/banana-walnut-loaf-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/cbeff4052155fc26/680x482cq70/banana-walnut-loaf-recipe-main-photo.jpg

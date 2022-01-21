@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Chana Samosa Chaat"
 title: "Recipe of Ultimate Chana Samosa Chaat"
 slug: 2017-recipe-of-ultimate-chana-samosa-chaat
-date: 2022-03-29T22:45:15.686Z
+date: 2022-01-29T22:45:15.686Z
 image: https://img-global.cpcdn.com/recipes/18eb64ec0f0fa705/680x482cq70/chana-samosa-chaat-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/18eb64ec0f0fa705/680x482cq70/chana-samosa-chaat-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/18eb64ec0f0fa705/680x482cq70/chana-samosa-chaat-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Honey Garlic Salmon"
 title: "Recipe of Ultimate Honey Garlic Salmon"
 slug: 1962-recipe-of-ultimate-honey-garlic-salmon
-date: 2022-03-03T03:00:45.635Z
+date: 2022-01-03T03:00:45.635Z
 image: https://img-global.cpcdn.com/recipes/5fc5ab32bc462fdc/680x482cq70/honey-garlic-salmon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5fc5ab32bc462fdc/680x482cq70/honey-garlic-salmon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5fc5ab32bc462fdc/680x482cq70/honey-garlic-salmon-recipe-main-photo.jpg

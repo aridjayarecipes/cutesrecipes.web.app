@@ -2,7 +2,7 @@
 description: "Simple Way to Make Speedy Dolma 1"
 title: "Simple Way to Make Speedy Dolma 1"
 slug: 1946-simple-way-to-make-speedy-dolma-1
-date: 2022-03-16T00:07:42.064Z
+date: 2022-01-16T00:07:42.064Z
 image: https://img-global.cpcdn.com/recipes/4def1eff69e42339/680x482cq70/dolma-1-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4def1eff69e42339/680x482cq70/dolma-1-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4def1eff69e42339/680x482cq70/dolma-1-recipe-main-photo.jpg

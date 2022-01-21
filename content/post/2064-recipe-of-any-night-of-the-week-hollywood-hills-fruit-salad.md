@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Hollywood Hills Fruit Salad"
 title: "Recipe of Any-night-of-the-week Hollywood Hills Fruit Salad"
 slug: 2064-recipe-of-any-night-of-the-week-hollywood-hills-fruit-salad
-date: 2022-03-23T02:33:13.760Z
+date: 2022-01-23T02:33:13.760Z
 image: //assets-global.cpcdn.com/assets/blank-4e0bea6785e03f5e602ec562f230caae08da540cada707380b4fe1bbebba43da.png
 thumbnail: //assets-global.cpcdn.com/assets/blank-4e0bea6785e03f5e602ec562f230caae08da540cada707380b4fe1bbebba43da.png
 cover: //assets-global.cpcdn.com/assets/blank-4e0bea6785e03f5e602ec562f230caae08da540cada707380b4fe1bbebba43da.png

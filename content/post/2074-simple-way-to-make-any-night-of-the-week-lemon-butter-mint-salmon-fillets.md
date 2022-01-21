@@ -2,7 +2,7 @@
 description: "Simple Way to Make Any-night-of-the-week Lemon Butter Mint Salmon Fillets"
 title: "Simple Way to Make Any-night-of-the-week Lemon Butter Mint Salmon Fillets"
 slug: 2074-simple-way-to-make-any-night-of-the-week-lemon-butter-mint-salmon-fillets
-date: 2022-03-13T22:50:18.245Z
+date: 2022-01-13T22:50:18.245Z
 image: https://img-global.cpcdn.com/recipes/6232173130547200/680x482cq70/lemon-butter-mint-salmon-fillets-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6232173130547200/680x482cq70/lemon-butter-mint-salmon-fillets-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6232173130547200/680x482cq70/lemon-butter-mint-salmon-fillets-recipe-main-photo.jpg

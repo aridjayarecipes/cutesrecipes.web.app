@@ -2,7 +2,7 @@
 description: "Recipe of Quick Spicy Chicken Pumpkin Pasta"
 title: "Recipe of Quick Spicy Chicken Pumpkin Pasta"
 slug: 2324-recipe-of-quick-spicy-chicken-pumpkin-pasta
-date: 2022-03-25T10:07:24.941Z
+date: 2022-01-25T10:07:24.941Z
 image: https://img-global.cpcdn.com/recipes/f7b620a77af5a796/680x482cq70/spicy-chicken-pumpkin-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f7b620a77af5a796/680x482cq70/spicy-chicken-pumpkin-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f7b620a77af5a796/680x482cq70/spicy-chicken-pumpkin-pasta-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Make Favorite Carrot Rice"
 title: "Simple Way to Make Favorite Carrot Rice"
 slug: 1774-simple-way-to-make-favorite-carrot-rice
-date: 2022-03-13T23:12:01.180Z
+date: 2022-01-13T23:12:01.180Z
 image: https://img-global.cpcdn.com/recipes/20a647e9c5c0f155/680x482cq70/carrot-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/20a647e9c5c0f155/680x482cq70/carrot-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/20a647e9c5c0f155/680x482cq70/carrot-rice-recipe-main-photo.jpg

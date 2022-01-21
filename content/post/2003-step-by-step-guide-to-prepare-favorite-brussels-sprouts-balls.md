@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Brussels Sprouts Balls"
 title: "Step-by-Step Guide to Prepare Favorite Brussels Sprouts Balls"
 slug: 2003-step-by-step-guide-to-prepare-favorite-brussels-sprouts-balls
-date: 2022-03-04T19:51:28.641Z
+date: 2022-01-04T19:51:28.641Z
 image: https://img-global.cpcdn.com/recipes/6275039975440384/680x482cq70/brussels-sprouts-balls-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6275039975440384/680x482cq70/brussels-sprouts-balls-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6275039975440384/680x482cq70/brussels-sprouts-balls-recipe-main-photo.jpg

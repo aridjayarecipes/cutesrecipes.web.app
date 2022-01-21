@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Any-night-of-the-week Prune Liqueur"
 title: "Easiest Way to Prepare Any-night-of-the-week Prune Liqueur"
 slug: 2309-easiest-way-to-prepare-any-night-of-the-week-prune-liqueur
-date: 2022-03-03T15:56:03.974Z
+date: 2022-01-03T15:56:03.974Z
 image: https://img-global.cpcdn.com/recipes/4719546079379456/680x482cq70/prune-liqueur-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4719546079379456/680x482cq70/prune-liqueur-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4719546079379456/680x482cq70/prune-liqueur-recipe-main-photo.jpg

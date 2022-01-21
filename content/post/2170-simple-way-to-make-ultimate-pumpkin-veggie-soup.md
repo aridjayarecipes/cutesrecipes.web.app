@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Pumpkin veggie soup"
 title: "Simple Way to Make Ultimate Pumpkin veggie soup"
 slug: 2170-simple-way-to-make-ultimate-pumpkin-veggie-soup
-date: 2022-03-23T01:59:11.597Z
+date: 2022-01-23T01:59:11.597Z
 image: https://img-global.cpcdn.com/recipes/54947b7d2ebe68a7/680x482cq70/pumpkin-veggie-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/54947b7d2ebe68a7/680x482cq70/pumpkin-veggie-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/54947b7d2ebe68a7/680x482cq70/pumpkin-veggie-soup-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Make Super Quick Homemade Ground Pork Stir Fry With Spinach and Carrot"
 title: "Simple Way to Make Super Quick Homemade Ground Pork Stir Fry With Spinach and Carrot"
 slug: 1726-simple-way-to-make-super-quick-homemade-ground-pork-stir-fry-with-spinach-and-carrot
-date: 2022-03-21T05:29:51.245Z
+date: 2022-01-21T05:29:51.245Z
 image: https://img-global.cpcdn.com/recipes/ac0b2e4b408446dd/680x482cq70/ground-pork-stir-fry-with-spinach-and-carrot-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ac0b2e4b408446dd/680x482cq70/ground-pork-stir-fry-with-spinach-and-carrot-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ac0b2e4b408446dd/680x482cq70/ground-pork-stir-fry-with-spinach-and-carrot-recipe-main-photo.jpg

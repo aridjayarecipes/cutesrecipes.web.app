@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Fish Fillet with Cream Corn"
 title: "Recipe of Speedy Fish Fillet with Cream Corn"
 slug: 2002-recipe-of-speedy-fish-fillet-with-cream-corn
-date: 2022-03-12T17:47:49.121Z
+date: 2022-01-12T17:47:49.121Z
 image: https://img-global.cpcdn.com/recipes/e2c83e8a1cff6e19/680x482cq70/fish-fillet-with-cream-corn-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e2c83e8a1cff6e19/680x482cq70/fish-fillet-with-cream-corn-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e2c83e8a1cff6e19/680x482cq70/fish-fillet-with-cream-corn-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Ultimate Mix fruit pizza"
 title: "Step-by-Step Guide to Make Ultimate Mix fruit pizza"
 slug: 2016-step-by-step-guide-to-make-ultimate-mix-fruit-pizza
-date: 2022-03-30T01:39:29.743Z
+date: 2022-01-30T01:39:29.743Z
 image: https://img-global.cpcdn.com/recipes/16b2b186a879280d/680x482cq70/mix-fruit-pizza-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/16b2b186a879280d/680x482cq70/mix-fruit-pizza-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/16b2b186a879280d/680x482cq70/mix-fruit-pizza-recipe-main-photo.jpg

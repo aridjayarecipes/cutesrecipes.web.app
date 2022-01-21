@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week The Perfect Banana Bread"
 title: "Recipe of Any-night-of-the-week The Perfect Banana Bread"
 slug: 2539-recipe-of-any-night-of-the-week-the-perfect-banana-bread
-date: 2022-03-26T13:18:22.845Z
+date: 2022-01-26T13:18:22.845Z
 image: https://img-global.cpcdn.com/recipes/a5012c0d53bb2611/680x482cq70/the-perfect-banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a5012c0d53bb2611/680x482cq70/the-perfect-banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a5012c0d53bb2611/680x482cq70/the-perfect-banana-bread-recipe-main-photo.jpg

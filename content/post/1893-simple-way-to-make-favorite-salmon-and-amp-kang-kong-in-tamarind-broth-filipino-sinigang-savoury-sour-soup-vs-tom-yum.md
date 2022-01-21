@@ -2,7 +2,7 @@
 description: "Simple Way to Make Favorite Salmon &amp;amp; Kang Kong in Tamarind Broth : Filipino Sinigang : Savoury Sour Soup vs Tom Yum"
 title: "Simple Way to Make Favorite Salmon &amp;amp; Kang Kong in Tamarind Broth : Filipino Sinigang : Savoury Sour Soup vs Tom Yum"
 slug: 1893-simple-way-to-make-favorite-salmon-and-amp-kang-kong-in-tamarind-broth-filipino-sinigang-savoury-sour-soup-vs-tom-yum
-date: 2022-03-14T01:59:58.347Z
+date: 2022-01-14T01:59:58.347Z
 image: https://img-global.cpcdn.com/recipes/91842de54049e8db/680x482cq70/salmon-kang-kong-in-tamarind-broth-filipino-sinigang-savoury-sour-soup-vs-tom-yum-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/91842de54049e8db/680x482cq70/salmon-kang-kong-in-tamarind-broth-filipino-sinigang-savoury-sour-soup-vs-tom-yum-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/91842de54049e8db/680x482cq70/salmon-kang-kong-in-tamarind-broth-filipino-sinigang-savoury-sour-soup-vs-tom-yum-recipe-main-photo.jpg

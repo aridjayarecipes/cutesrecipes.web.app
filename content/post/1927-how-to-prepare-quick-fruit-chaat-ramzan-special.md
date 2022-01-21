@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Fruit chaat # Ramzan special"
 title: "How to Prepare Quick Fruit chaat # Ramzan special"
 slug: 1927-how-to-prepare-quick-fruit-chaat-ramzan-special
-date: 2022-03-07T22:08:11.270Z
+date: 2022-01-07T22:08:11.270Z
 image: https://img-global.cpcdn.com/recipes/95309798b361462a/680x482cq70/fruit-chaat-ramzan-special-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/95309798b361462a/680x482cq70/fruit-chaat-ramzan-special-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/95309798b361462a/680x482cq70/fruit-chaat-ramzan-special-recipe-main-photo.jpg

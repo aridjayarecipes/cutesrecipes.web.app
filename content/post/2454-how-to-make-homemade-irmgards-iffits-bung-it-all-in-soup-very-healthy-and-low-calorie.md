@@ -2,7 +2,7 @@
 description: "How to Make Homemade Irmgards iffits bung it all in Soup very healthy and low calorie"
 title: "How to Make Homemade Irmgards iffits bung it all in Soup very healthy and low calorie"
 slug: 2454-how-to-make-homemade-irmgards-iffits-bung-it-all-in-soup-very-healthy-and-low-calorie
-date: 2022-03-05T21:09:21.462Z
+date: 2022-01-05T21:09:21.462Z
 image: https://img-global.cpcdn.com/recipes/6352121643925504/680x482cq70/irmgards-iffits-bung-it-all-in-soup-very-healthy-and-low-calorie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6352121643925504/680x482cq70/irmgards-iffits-bung-it-all-in-soup-very-healthy-and-low-calorie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6352121643925504/680x482cq70/irmgards-iffits-bung-it-all-in-soup-very-healthy-and-low-calorie-recipe-main-photo.jpg

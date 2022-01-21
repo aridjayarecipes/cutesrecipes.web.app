@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Homemade Maple Chipotle Glazed Brussel Sprouts"
 title: "Simple Way to Prepare Homemade Maple Chipotle Glazed Brussel Sprouts"
 slug: 2025-simple-way-to-prepare-homemade-maple-chipotle-glazed-brussel-sprouts
-date: 2022-03-11T18:36:56.572Z
+date: 2022-01-11T18:36:56.572Z
 image: https://img-global.cpcdn.com/recipes/5661449059827712/680x482cq70/maple-chipotle-glazed-brussel-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5661449059827712/680x482cq70/maple-chipotle-glazed-brussel-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5661449059827712/680x482cq70/maple-chipotle-glazed-brussel-sprouts-recipe-main-photo.jpg

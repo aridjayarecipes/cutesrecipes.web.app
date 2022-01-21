@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Salmon burgers 🥬🥑🐟🧀🍅"
 title: "Recipe of Ultimate Salmon burgers 🥬🥑🐟🧀🍅"
 slug: 1812-recipe-of-ultimate-salmon-burgers
-date: 2022-03-08T01:20:13.735Z
+date: 2022-01-08T01:20:13.735Z
 image: https://img-global.cpcdn.com/recipes/834d08051dccf2d8/680x482cq70/salmon-burgers-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/834d08051dccf2d8/680x482cq70/salmon-burgers-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/834d08051dccf2d8/680x482cq70/salmon-burgers-recipe-main-photo.jpg

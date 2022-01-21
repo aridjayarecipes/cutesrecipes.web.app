@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Ultimate Traditional Banana Bread"
 title: "Step-by-Step Guide to Make Ultimate Traditional Banana Bread"
 slug: 2497-step-by-step-guide-to-make-ultimate-traditional-banana-bread
-date: 2022-03-06T11:29:59.601Z
+date: 2022-01-06T11:29:59.601Z
 image: https://img-global.cpcdn.com/recipes/3babaadb4ceb3f50/680x482cq70/traditional-banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3babaadb4ceb3f50/680x482cq70/traditional-banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3babaadb4ceb3f50/680x482cq70/traditional-banana-bread-recipe-main-photo.jpg

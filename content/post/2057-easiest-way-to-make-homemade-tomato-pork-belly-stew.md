@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Homemade Tomato Pork belly stew"
 title: "Easiest Way to Make Homemade Tomato Pork belly stew"
 slug: 2057-easiest-way-to-make-homemade-tomato-pork-belly-stew
-date: 2022-03-18T10:14:28.278Z
+date: 2022-01-18T10:14:28.278Z
 image: https://img-global.cpcdn.com/recipes/ef05171a19d0ca4d/680x482cq70/tomato-pork-belly-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ef05171a19d0ca4d/680x482cq70/tomato-pork-belly-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ef05171a19d0ca4d/680x482cq70/tomato-pork-belly-stew-recipe-main-photo.jpg

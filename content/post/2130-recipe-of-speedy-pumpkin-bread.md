@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Pumpkin Bread"
 title: "Recipe of Speedy Pumpkin Bread"
 slug: 2130-recipe-of-speedy-pumpkin-bread
-date: 2022-03-31T14:53:36.056Z
+date: 2022-01-31T14:53:36.056Z
 image: https://img-global.cpcdn.com/recipes/b8b478670822fe63/680x482cq70/pumpkin-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b8b478670822fe63/680x482cq70/pumpkin-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b8b478670822fe63/680x482cq70/pumpkin-bread-recipe-main-photo.jpg

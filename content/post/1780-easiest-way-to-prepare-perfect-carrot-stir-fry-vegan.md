@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Perfect Carrot Stir Fry *Vegan"
 title: "Easiest Way to Prepare Perfect Carrot Stir Fry *Vegan"
 slug: 1780-easiest-way-to-prepare-perfect-carrot-stir-fry-vegan
-date: 2022-03-06T09:11:55.954Z
+date: 2022-01-06T09:11:55.954Z
 image: https://img-global.cpcdn.com/recipes/5095d22a9311fcd1/680x482cq70/carrot-stir-fry-vegan-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5095d22a9311fcd1/680x482cq70/carrot-stir-fry-vegan-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5095d22a9311fcd1/680x482cq70/carrot-stir-fry-vegan-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate French Toast with Easy Blueberry Compote"
 title: "Recipe of Ultimate French Toast with Easy Blueberry Compote"
 slug: 1730-recipe-of-ultimate-french-toast-with-easy-blueberry-compote
-date: 2022-03-25T02:42:18.190Z
+date: 2022-01-25T02:42:18.190Z
 image: https://img-global.cpcdn.com/recipes/0f73e8dd8437c349/680x482cq70/french-toast-with-easy-blueberry-compote-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0f73e8dd8437c349/680x482cq70/french-toast-with-easy-blueberry-compote-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0f73e8dd8437c349/680x482cq70/french-toast-with-easy-blueberry-compote-recipe-main-photo.jpg

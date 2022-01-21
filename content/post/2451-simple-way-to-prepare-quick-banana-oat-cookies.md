@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Quick Banana Oat Cookies"
 title: "Simple Way to Prepare Quick Banana Oat Cookies"
 slug: 2451-simple-way-to-prepare-quick-banana-oat-cookies
-date: 2022-03-22T22:48:06.220Z
+date: 2022-01-22T22:48:06.220Z
 image: https://img-global.cpcdn.com/recipes/83f416d9f1dd7f1f/680x482cq70/banana-oat-cookies-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/83f416d9f1dd7f1f/680x482cq70/banana-oat-cookies-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/83f416d9f1dd7f1f/680x482cq70/banana-oat-cookies-recipe-main-photo.jpg

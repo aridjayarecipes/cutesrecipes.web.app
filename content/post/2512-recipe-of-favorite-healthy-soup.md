@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Healthy soup 💪💪💪"
 title: "Recipe of Favorite Healthy soup 💪💪💪"
 slug: 2512-recipe-of-favorite-healthy-soup
-date: 2022-03-20T07:40:09.133Z
+date: 2022-01-20T07:40:09.133Z
 image: https://img-global.cpcdn.com/recipes/7a6636830a16b621/680x482cq70/healthy-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/7a6636830a16b621/680x482cq70/healthy-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/7a6636830a16b621/680x482cq70/healthy-soup-recipe-main-photo.jpg

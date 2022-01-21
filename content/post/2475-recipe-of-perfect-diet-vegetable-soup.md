@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Diet Vegetable Soup"
 title: "Recipe of Perfect Diet Vegetable Soup"
 slug: 2475-recipe-of-perfect-diet-vegetable-soup
-date: 2022-03-01T11:55:49.545Z
+date: 2022-01-01T11:55:49.545Z
 image: //assets-global.cpcdn.com/assets/blank-4e0bea6785e03f5e602ec562f230caae08da540cada707380b4fe1bbebba43da.png
 thumbnail: //assets-global.cpcdn.com/assets/blank-4e0bea6785e03f5e602ec562f230caae08da540cada707380b4fe1bbebba43da.png
 cover: //assets-global.cpcdn.com/assets/blank-4e0bea6785e03f5e602ec562f230caae08da540cada707380b4fe1bbebba43da.png

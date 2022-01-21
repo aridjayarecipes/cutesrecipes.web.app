@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Perfect Carrot Coin Poriyal/ Carrot Coin Stir fry"
 title: "Step-by-Step Guide to Make Perfect Carrot Coin Poriyal/ Carrot Coin Stir fry"
 slug: 1807-step-by-step-guide-to-make-perfect-carrot-coin-poriyal-carrot-coin-stir-fry
-date: 2022-03-06T14:48:29.749Z
+date: 2022-01-06T14:48:29.749Z
 image: https://img-global.cpcdn.com/recipes/f3c6a2063b4bdf72/680x482cq70/carrot-coin-poriyal-carrot-coin-stir-fry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f3c6a2063b4bdf72/680x482cq70/carrot-coin-poriyal-carrot-coin-stir-fry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f3c6a2063b4bdf72/680x482cq70/carrot-coin-poriyal-carrot-coin-stir-fry-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Major&amp;#39;s Brussel Sprouts"
 title: "Recipe of Favorite Major&amp;#39;s Brussel Sprouts"
 slug: 2077-recipe-of-favorite-major-and-39-s-brussel-sprouts
-date: 2022-03-25T00:12:58.263Z
+date: 2022-01-25T00:12:58.263Z
 image: https://img-global.cpcdn.com/recipes/47626628/680x482cq70/majors-brussel-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/47626628/680x482cq70/majors-brussel-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/47626628/680x482cq70/majors-brussel-sprouts-recipe-main-photo.jpg

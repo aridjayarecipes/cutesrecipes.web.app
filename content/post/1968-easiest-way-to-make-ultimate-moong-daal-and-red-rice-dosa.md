@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Ultimate Moong Daal and Red Rice Dosa"
 title: "Easiest Way to Make Ultimate Moong Daal and Red Rice Dosa"
 slug: 1968-easiest-way-to-make-ultimate-moong-daal-and-red-rice-dosa
-date: 2022-03-03T23:23:40.928Z
+date: 2022-01-03T23:23:40.928Z
 image: https://img-global.cpcdn.com/recipes/52f0f09ccb58da21/680x482cq70/moong-daal-and-red-rice-dosa-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/52f0f09ccb58da21/680x482cq70/moong-daal-and-red-rice-dosa-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/52f0f09ccb58da21/680x482cq70/moong-daal-and-red-rice-dosa-recipe-main-photo.jpg

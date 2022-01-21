@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Favorite Healthy Soup-weight loss soup"
 title: "Simple Way to Prepare Favorite Healthy Soup-weight loss soup"
 slug: 2515-simple-way-to-prepare-favorite-healthy-soup-weight-loss-soup
-date: 2022-03-19T14:11:04.237Z
+date: 2022-01-19T14:11:04.237Z
 image: https://img-global.cpcdn.com/recipes/640e8aef4a8f514b/680x482cq70/healthy-soup-weight-loss-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/640e8aef4a8f514b/680x482cq70/healthy-soup-weight-loss-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/640e8aef4a8f514b/680x482cq70/healthy-soup-weight-loss-soup-recipe-main-photo.jpg

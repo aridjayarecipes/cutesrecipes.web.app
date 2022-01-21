@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Canapes Chaat"
 title: "Recipe of Perfect Canapes Chaat"
 slug: 2010-recipe-of-perfect-canapes-chaat
-date: 2022-03-21T17:17:45.212Z
+date: 2022-01-21T17:17:45.212Z
 image: https://img-global.cpcdn.com/recipes/bcf91d041ffcd6d3/680x482cq70/canapes-chaat-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bcf91d041ffcd6d3/680x482cq70/canapes-chaat-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bcf91d041ffcd6d3/680x482cq70/canapes-chaat-recipe-main-photo.jpg

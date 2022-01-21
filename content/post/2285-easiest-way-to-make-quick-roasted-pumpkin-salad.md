@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Roasted pumpkin salad"
 title: "Easiest Way to Make Quick Roasted pumpkin salad"
 slug: 2285-easiest-way-to-make-quick-roasted-pumpkin-salad
-date: 2022-03-06T07:52:18.244Z
+date: 2022-01-06T07:52:18.244Z
 image: https://img-global.cpcdn.com/recipes/acc88127360baeca/680x482cq70/roasted-pumpkin-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/acc88127360baeca/680x482cq70/roasted-pumpkin-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/acc88127360baeca/680x482cq70/roasted-pumpkin-salad-recipe-main-photo.jpg

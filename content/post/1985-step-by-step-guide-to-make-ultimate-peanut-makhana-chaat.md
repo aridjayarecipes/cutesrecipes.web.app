@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Ultimate Peanut makhana chaat"
 title: "Step-by-Step Guide to Make Ultimate Peanut makhana chaat"
 slug: 1985-step-by-step-guide-to-make-ultimate-peanut-makhana-chaat
-date: 2022-03-10T04:59:53.819Z
+date: 2022-01-10T04:59:53.819Z
 image: https://img-global.cpcdn.com/recipes/d40e04aea06c5c92/680x482cq70/peanut-makhana-chaat-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d40e04aea06c5c92/680x482cq70/peanut-makhana-chaat-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d40e04aea06c5c92/680x482cq70/peanut-makhana-chaat-recipe-main-photo.jpg

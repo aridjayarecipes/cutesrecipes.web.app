@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Foil Wrapped Salmon &amp;amp; Vegetable Grill"
 title: "Recipe of Favorite Foil Wrapped Salmon &amp;amp; Vegetable Grill"
 slug: 1884-recipe-of-favorite-foil-wrapped-salmon-and-amp-vegetable-grill
-date: 2022-03-05T18:59:38.845Z
+date: 2022-01-05T18:59:38.845Z
 image: https://img-global.cpcdn.com/recipes/356851c658079c1a/680x482cq70/foil-wrapped-salmon-vegetable-grill-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/356851c658079c1a/680x482cq70/foil-wrapped-salmon-vegetable-grill-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/356851c658079c1a/680x482cq70/foil-wrapped-salmon-vegetable-grill-recipe-main-photo.jpg

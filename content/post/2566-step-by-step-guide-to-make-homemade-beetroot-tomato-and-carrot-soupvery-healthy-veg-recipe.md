@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Beetroot,tomato and carrot soup(very healthy veg recipe)"
 title: "Step-by-Step Guide to Make Homemade Beetroot,tomato and carrot soup(very healthy veg recipe)"
 slug: 2566-step-by-step-guide-to-make-homemade-beetroot-tomato-and-carrot-soupvery-healthy-veg-recipe
-date: 2022-03-26T05:49:11.137Z
+date: 2022-01-26T05:49:11.137Z
 image: https://img-global.cpcdn.com/recipes/78a1ddfa77cc215b/680x482cq70/beetroottomato-and-carrot-soupvery-healthy-veg-recipe-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/78a1ddfa77cc215b/680x482cq70/beetroottomato-and-carrot-soupvery-healthy-veg-recipe-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/78a1ddfa77cc215b/680x482cq70/beetroottomato-and-carrot-soupvery-healthy-veg-recipe-recipe-main-photo.jpg

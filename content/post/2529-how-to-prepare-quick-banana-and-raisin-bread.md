@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Banana and Raisin Bread"
 title: "How to Prepare Quick Banana and Raisin Bread"
 slug: 2529-how-to-prepare-quick-banana-and-raisin-bread
-date: 2022-03-17T09:54:49.418Z
+date: 2022-01-17T09:54:49.418Z
 image: https://img-global.cpcdn.com/recipes/e9f1459be3607e7e/680x482cq70/banana-and-raisin-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e9f1459be3607e7e/680x482cq70/banana-and-raisin-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e9f1459be3607e7e/680x482cq70/banana-and-raisin-bread-recipe-main-photo.jpg

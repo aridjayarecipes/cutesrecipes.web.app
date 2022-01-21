@@ -2,7 +2,7 @@
 description: "How to Prepare Speedy Purple cabbage Masala/Sabzi"
 title: "How to Prepare Speedy Purple cabbage Masala/Sabzi"
 slug: 2499-how-to-prepare-speedy-purple-cabbage-masala-sabzi
-date: 2022-03-25T23:08:13.112Z
+date: 2022-01-25T23:08:13.112Z
 image: https://img-global.cpcdn.com/recipes/e6af920f89134681/680x482cq70/purple-cabbage-masalasabzi-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e6af920f89134681/680x482cq70/purple-cabbage-masalasabzi-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e6af920f89134681/680x482cq70/purple-cabbage-masalasabzi-recipe-main-photo.jpg

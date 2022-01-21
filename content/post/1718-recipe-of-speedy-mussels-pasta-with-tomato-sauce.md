@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Mussels Pasta with tomato sauce"
 title: "Recipe of Speedy Mussels Pasta with tomato sauce"
 slug: 1718-recipe-of-speedy-mussels-pasta-with-tomato-sauce
-date: 2022-03-08T03:14:01.544Z
+date: 2022-01-08T03:14:01.544Z
 image: https://img-global.cpcdn.com/recipes/6a6cf6d150539de2/680x482cq70/mussels-pasta-with-tomato-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6a6cf6d150539de2/680x482cq70/mussels-pasta-with-tomato-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6a6cf6d150539de2/680x482cq70/mussels-pasta-with-tomato-sauce-recipe-main-photo.jpg

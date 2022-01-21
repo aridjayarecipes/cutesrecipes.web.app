@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Black Bean and Veggie Quesadillas"
 title: "Recipe of Speedy Black Bean and Veggie Quesadillas"
 slug: 2313-recipe-of-speedy-black-bean-and-veggie-quesadillas
-date: 2022-03-23T15:48:17.947Z
+date: 2022-01-23T15:48:17.947Z
 image: https://img-global.cpcdn.com/recipes/d311f7ab1d0e1251/680x482cq70/black-bean-and-veggie-quesadillas-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d311f7ab1d0e1251/680x482cq70/black-bean-and-veggie-quesadillas-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d311f7ab1d0e1251/680x482cq70/black-bean-and-veggie-quesadillas-recipe-main-photo.jpg

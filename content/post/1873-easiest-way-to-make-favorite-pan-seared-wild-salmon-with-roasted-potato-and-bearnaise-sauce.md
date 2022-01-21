@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Favorite Pan seared wild Salmon with roasted potato and béarnaise sauce"
 title: "Easiest Way to Make Favorite Pan seared wild Salmon with roasted potato and béarnaise sauce"
 slug: 1873-easiest-way-to-make-favorite-pan-seared-wild-salmon-with-roasted-potato-and-bearnaise-sauce
-date: 2022-03-18T19:43:53.096Z
+date: 2022-01-18T19:43:53.096Z
 image: https://img-global.cpcdn.com/recipes/99c708589240ec42/680x482cq70/pan-seared-wild-salmon-with-roasted-potato-and-bearnaise-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/99c708589240ec42/680x482cq70/pan-seared-wild-salmon-with-roasted-potato-and-bearnaise-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/99c708589240ec42/680x482cq70/pan-seared-wild-salmon-with-roasted-potato-and-bearnaise-sauce-recipe-main-photo.jpg

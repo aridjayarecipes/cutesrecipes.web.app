@@ -2,7 +2,7 @@
 description: "Steps to Prepare Any-night-of-the-week Black Bean Burgers"
 title: "Steps to Prepare Any-night-of-the-week Black Bean Burgers"
 slug: 2336-steps-to-prepare-any-night-of-the-week-black-bean-burgers
-date: 2022-03-03T17:34:59.062Z
+date: 2022-01-03T17:34:59.062Z
 image: https://img-global.cpcdn.com/recipes/a2429106be01bd4a/680x482cq70/black-bean-burgers-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a2429106be01bd4a/680x482cq70/black-bean-burgers-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a2429106be01bd4a/680x482cq70/black-bean-burgers-recipe-main-photo.jpg

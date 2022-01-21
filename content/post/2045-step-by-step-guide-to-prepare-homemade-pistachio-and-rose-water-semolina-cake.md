@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Homemade Pistachio and Rose Water Semolina Cake"
 title: "Step-by-Step Guide to Prepare Homemade Pistachio and Rose Water Semolina Cake"
 slug: 2045-step-by-step-guide-to-prepare-homemade-pistachio-and-rose-water-semolina-cake
-date: 2022-03-14T06:39:11.870Z
+date: 2022-01-14T06:39:11.870Z
 image: https://img-global.cpcdn.com/recipes/bf18db252ae33b48/680x482cq70/pistachio-and-rose-water-semolina-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bf18db252ae33b48/680x482cq70/pistachio-and-rose-water-semolina-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bf18db252ae33b48/680x482cq70/pistachio-and-rose-water-semolina-cake-recipe-main-photo.jpg

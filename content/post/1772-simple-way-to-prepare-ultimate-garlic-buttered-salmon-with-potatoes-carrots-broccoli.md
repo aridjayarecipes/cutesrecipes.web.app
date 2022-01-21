@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate Garlic Buttered Salmon with Potatoes, Carrots, Broccoli !"
 title: "Simple Way to Prepare Ultimate Garlic Buttered Salmon with Potatoes, Carrots, Broccoli !"
 slug: 1772-simple-way-to-prepare-ultimate-garlic-buttered-salmon-with-potatoes-carrots-broccoli
-date: 2022-03-12T17:09:45.862Z
+date: 2022-01-12T17:09:45.862Z
 image: https://img-global.cpcdn.com/recipes/b4c96cc708937eb4/680x482cq70/garlic-buttered-salmon-with-potatoes-carrots-broccoli-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b4c96cc708937eb4/680x482cq70/garlic-buttered-salmon-with-potatoes-carrots-broccoli-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b4c96cc708937eb4/680x482cq70/garlic-buttered-salmon-with-potatoes-carrots-broccoli-recipe-main-photo.jpg

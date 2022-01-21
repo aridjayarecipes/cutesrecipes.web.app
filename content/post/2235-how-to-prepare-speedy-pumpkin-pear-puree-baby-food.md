@@ -2,7 +2,7 @@
 description: "How to Prepare Speedy Pumpkin pear purée baby food"
 title: "How to Prepare Speedy Pumpkin pear purée baby food"
 slug: 2235-how-to-prepare-speedy-pumpkin-pear-puree-baby-food
-date: 2022-03-26T22:05:49.755Z
+date: 2022-01-26T22:05:49.755Z
 image: https://img-global.cpcdn.com/recipes/c266f06ad20a5c93/680x482cq70/pumpkin-pear-puree-baby-food-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c266f06ad20a5c93/680x482cq70/pumpkin-pear-puree-baby-food-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c266f06ad20a5c93/680x482cq70/pumpkin-pear-puree-baby-food-recipe-main-photo.jpg

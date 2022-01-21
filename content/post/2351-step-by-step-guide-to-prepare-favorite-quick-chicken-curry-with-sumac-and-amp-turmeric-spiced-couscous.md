@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Quick Chicken Curry with Sumac &amp;amp; Turmeric Spiced Couscous"
 title: "Step-by-Step Guide to Prepare Favorite Quick Chicken Curry with Sumac &amp;amp; Turmeric Spiced Couscous"
 slug: 2351-step-by-step-guide-to-prepare-favorite-quick-chicken-curry-with-sumac-and-amp-turmeric-spiced-couscous
-date: 2022-03-09T15:12:55.342Z
+date: 2022-01-09T15:12:55.342Z
 image: https://img-global.cpcdn.com/recipes/b358c74aabe2eb27/680x482cq70/quick-chicken-curry-with-sumac-turmeric-spiced-couscous-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b358c74aabe2eb27/680x482cq70/quick-chicken-curry-with-sumac-turmeric-spiced-couscous-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b358c74aabe2eb27/680x482cq70/quick-chicken-curry-with-sumac-turmeric-spiced-couscous-recipe-main-photo.jpg

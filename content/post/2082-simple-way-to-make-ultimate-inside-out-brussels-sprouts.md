@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Inside-Out Brussels Sprouts"
 title: "Simple Way to Make Ultimate Inside-Out Brussels Sprouts"
 slug: 2082-simple-way-to-make-ultimate-inside-out-brussels-sprouts
-date: 2022-03-26T17:32:05.115Z
+date: 2022-01-26T17:32:05.115Z
 image: https://img-global.cpcdn.com/recipes/30682106/680x482cq70/inside-out-brussels-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/30682106/680x482cq70/inside-out-brussels-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/30682106/680x482cq70/inside-out-brussels-sprouts-recipe-main-photo.jpg

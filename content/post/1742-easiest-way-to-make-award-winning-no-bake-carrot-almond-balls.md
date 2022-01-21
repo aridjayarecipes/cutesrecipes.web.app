@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Award-winning No bake carrot/almond balls"
 title: "Easiest Way to Make Award-winning No bake carrot/almond balls"
 slug: 1742-easiest-way-to-make-award-winning-no-bake-carrot-almond-balls
-date: 2022-03-12T17:35:01.534Z
+date: 2022-01-12T17:35:01.534Z
 image: https://img-global.cpcdn.com/recipes/f654ed30997e13f8/680x482cq70/no-bake-carrotalmond-balls-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f654ed30997e13f8/680x482cq70/no-bake-carrotalmond-balls-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f654ed30997e13f8/680x482cq70/no-bake-carrotalmond-balls-recipe-main-photo.jpg

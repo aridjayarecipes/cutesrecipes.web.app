@@ -2,7 +2,7 @@
 description: "Simple Way to Make Any-night-of-the-week My Cabbage Rolls"
 title: "Simple Way to Make Any-night-of-the-week My Cabbage Rolls"
 slug: 2409-simple-way-to-make-any-night-of-the-week-my-cabbage-rolls
-date: 2022-03-05T18:37:24.170Z
+date: 2022-01-05T18:37:24.170Z
 image: https://img-global.cpcdn.com/recipes/77a4c0e752efdb3b/680x482cq70/my-cabbage-rolls-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/77a4c0e752efdb3b/680x482cq70/my-cabbage-rolls-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/77a4c0e752efdb3b/680x482cq70/my-cabbage-rolls-recipe-main-photo.jpg

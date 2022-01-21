@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Spinach soup with croutons(Palak soup) tasty&amp;amp;healthy"
 title: "Recipe of Perfect Spinach soup with croutons(Palak soup) tasty&amp;amp;healthy"
 slug: 2567-recipe-of-perfect-spinach-soup-with-croutonspalak-soup-tasty-and-amp-healthy
-date: 2022-03-15T14:10:33.028Z
+date: 2022-01-15T14:10:33.028Z
 image: https://img-global.cpcdn.com/recipes/bed3c0a89016cd40/680x482cq70/spinach-soup-with-croutonspalak-soup-tastyhealthy-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bed3c0a89016cd40/680x482cq70/spinach-soup-with-croutonspalak-soup-tastyhealthy-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bed3c0a89016cd40/680x482cq70/spinach-soup-with-croutonspalak-soup-tastyhealthy-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Award-winning Vegan Pumpkin Bread"
 title: "Easiest Way to Make Award-winning Vegan Pumpkin Bread"
 slug: 2143-easiest-way-to-make-award-winning-vegan-pumpkin-bread
-date: 2022-03-10T06:46:37.813Z
+date: 2022-01-10T06:46:37.813Z
 image: https://img-global.cpcdn.com/recipes/c72eee78ec58abb3/680x482cq70/vegan-pumpkin-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c72eee78ec58abb3/680x482cq70/vegan-pumpkin-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c72eee78ec58abb3/680x482cq70/vegan-pumpkin-bread-recipe-main-photo.jpg

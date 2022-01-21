@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Homemade Instant Pot Brown Sugar Carrots"
 title: "Step-by-Step Guide to Prepare Homemade Instant Pot Brown Sugar Carrots"
 slug: 1787-step-by-step-guide-to-prepare-homemade-instant-pot-brown-sugar-carrots
-date: 2022-03-04T22:42:53.953Z
+date: 2022-01-04T22:42:53.953Z
 image: https://img-global.cpcdn.com/recipes/2c6b927aff5671de/680x482cq70/instant-pot-brown-sugar-carrots-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2c6b927aff5671de/680x482cq70/instant-pot-brown-sugar-carrots-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2c6b927aff5671de/680x482cq70/instant-pot-brown-sugar-carrots-recipe-main-photo.jpg

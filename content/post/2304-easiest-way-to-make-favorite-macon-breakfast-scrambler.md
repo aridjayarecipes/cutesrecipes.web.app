@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Favorite Macon Breakfast Scrambler"
 title: "Easiest Way to Make Favorite Macon Breakfast Scrambler"
 slug: 2304-easiest-way-to-make-favorite-macon-breakfast-scrambler
-date: 2022-03-30T01:02:15.477Z
+date: 2022-01-30T01:02:15.477Z
 image: https://img-global.cpcdn.com/recipes/3ff14df4edd7cdaa/680x482cq70/macon-breakfast-scrambler-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3ff14df4edd7cdaa/680x482cq70/macon-breakfast-scrambler-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3ff14df4edd7cdaa/680x482cq70/macon-breakfast-scrambler-recipe-main-photo.jpg

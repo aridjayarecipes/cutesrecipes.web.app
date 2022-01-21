@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Picadillo meet Southern Fried Cabbage"
 title: "Recipe of Super Quick Homemade Picadillo meet Southern Fried Cabbage"
 slug: 2563-recipe-of-super-quick-homemade-picadillo-meet-southern-fried-cabbage
-date: 2022-03-04T08:50:49.190Z
+date: 2022-01-04T08:50:49.190Z
 image: https://img-global.cpcdn.com/recipes/7d0f9d0a592f38a6/680x482cq70/picadillo-meet-southern-fried-cabbage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/7d0f9d0a592f38a6/680x482cq70/picadillo-meet-southern-fried-cabbage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/7d0f9d0a592f38a6/680x482cq70/picadillo-meet-southern-fried-cabbage-recipe-main-photo.jpg

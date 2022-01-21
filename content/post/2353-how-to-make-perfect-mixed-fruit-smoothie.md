@@ -2,7 +2,7 @@
 description: "How to Make Perfect Mixed fruit smoothie"
 title: "How to Make Perfect Mixed fruit smoothie"
 slug: 2353-how-to-make-perfect-mixed-fruit-smoothie
-date: 2022-03-17T10:24:18.480Z
+date: 2022-01-17T10:24:18.480Z
 image: https://img-global.cpcdn.com/recipes/fc259c02d09c1c71/680x482cq70/mixed-fruit-smoothie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fc259c02d09c1c71/680x482cq70/mixed-fruit-smoothie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fc259c02d09c1c71/680x482cq70/mixed-fruit-smoothie-recipe-main-photo.jpg

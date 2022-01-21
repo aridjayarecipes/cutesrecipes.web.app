@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Carrot cake cheesecake cake"
 title: "Easiest Way to Make Quick Carrot cake cheesecake cake"
 slug: 1869-easiest-way-to-make-quick-carrot-cake-cheesecake-cake
-date: 2022-03-21T19:11:23.522Z
+date: 2022-01-21T19:11:23.522Z
 image: https://img-global.cpcdn.com/recipes/59866ce03b5ae715/680x482cq70/carrot-cake-cheesecake-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/59866ce03b5ae715/680x482cq70/carrot-cake-cheesecake-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/59866ce03b5ae715/680x482cq70/carrot-cake-cheesecake-cake-recipe-main-photo.jpg

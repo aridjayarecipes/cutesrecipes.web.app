@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Favorite Easy pumpkin muffins"
 title: "Easiest Way to Prepare Favorite Easy pumpkin muffins"
 slug: 2158-easiest-way-to-prepare-favorite-easy-pumpkin-muffins
-date: 2022-03-08T00:25:45.199Z
+date: 2022-01-08T00:25:45.199Z
 image: https://img-global.cpcdn.com/recipes/fde6b82a24316365/680x482cq70/easy-pumpkin-muffins-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fde6b82a24316365/680x482cq70/easy-pumpkin-muffins-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fde6b82a24316365/680x482cq70/easy-pumpkin-muffins-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Prepare Perfect Cuban black beans and rice"
 title: "Steps to Prepare Perfect Cuban black beans and rice"
 slug: 2412-steps-to-prepare-perfect-cuban-black-beans-and-rice
-date: 2022-03-22T03:06:41.983Z
+date: 2022-01-22T03:06:41.983Z
 image: https://img-global.cpcdn.com/recipes/5068205231964160/680x482cq70/cuban-black-beans-and-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5068205231964160/680x482cq70/cuban-black-beans-and-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5068205231964160/680x482cq70/cuban-black-beans-and-rice-recipe-main-photo.jpg

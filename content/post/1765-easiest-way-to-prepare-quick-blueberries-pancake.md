@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick Blueberries pancake"
 title: "Easiest Way to Prepare Quick Blueberries pancake"
 slug: 1765-easiest-way-to-prepare-quick-blueberries-pancake
-date: 2022-03-28T14:13:40.780Z
+date: 2022-01-28T14:13:40.780Z
 image: https://img-global.cpcdn.com/recipes/4a20d9af15ce500a/680x482cq70/blueberries-pancake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4a20d9af15ce500a/680x482cq70/blueberries-pancake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4a20d9af15ce500a/680x482cq70/blueberries-pancake-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Prepare Perfect Quinoa bread with chia seeds, zucchini and carrots"
 title: "Steps to Prepare Perfect Quinoa bread with chia seeds, zucchini and carrots"
 slug: 1844-steps-to-prepare-perfect-quinoa-bread-with-chia-seeds-zucchini-and-carrots
-date: 2022-03-25T23:52:04.171Z
+date: 2022-01-25T23:52:04.171Z
 image: https://img-global.cpcdn.com/recipes/6fcc353f441ac819/680x482cq70/quinoa-bread-with-chia-seeds-zucchini-and-carrots-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6fcc353f441ac819/680x482cq70/quinoa-bread-with-chia-seeds-zucchini-and-carrots-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6fcc353f441ac819/680x482cq70/quinoa-bread-with-chia-seeds-zucchini-and-carrots-recipe-main-photo.jpg

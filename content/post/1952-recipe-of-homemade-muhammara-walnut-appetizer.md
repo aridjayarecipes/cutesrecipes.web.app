@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Muhammara محمره walnut Appetizer"
 title: "Recipe of Homemade Muhammara محمره walnut Appetizer"
 slug: 1952-recipe-of-homemade-muhammara-walnut-appetizer
-date: 2022-03-02T23:19:14.643Z
+date: 2022-01-02T23:19:14.643Z
 image: https://img-global.cpcdn.com/recipes/0bc2b36b6c6fed21/680x482cq70/muhammara-محمره-walnut-appetizer-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0bc2b36b6c6fed21/680x482cq70/muhammara-محمره-walnut-appetizer-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0bc2b36b6c6fed21/680x482cq70/muhammara-محمره-walnut-appetizer-recipe-main-photo.jpg

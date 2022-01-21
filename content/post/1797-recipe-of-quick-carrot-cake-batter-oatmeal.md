@@ -2,7 +2,7 @@
 description: "Recipe of Quick Carrot cake batter oatmeal"
 title: "Recipe of Quick Carrot cake batter oatmeal"
 slug: 1797-recipe-of-quick-carrot-cake-batter-oatmeal
-date: 2022-03-21T17:46:35.073Z
+date: 2022-01-21T17:46:35.073Z
 image: https://img-global.cpcdn.com/recipes/b2c3c33794e61c4a/680x482cq70/carrot-cake-batter-oatmeal-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b2c3c33794e61c4a/680x482cq70/carrot-cake-batter-oatmeal-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b2c3c33794e61c4a/680x482cq70/carrot-cake-batter-oatmeal-recipe-main-photo.jpg

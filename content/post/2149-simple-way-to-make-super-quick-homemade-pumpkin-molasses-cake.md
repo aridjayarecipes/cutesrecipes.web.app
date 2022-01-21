@@ -2,7 +2,7 @@
 description: "Simple Way to Make Super Quick Homemade Pumpkin Molasses Cake"
 title: "Simple Way to Make Super Quick Homemade Pumpkin Molasses Cake"
 slug: 2149-simple-way-to-make-super-quick-homemade-pumpkin-molasses-cake
-date: 2022-03-07T13:26:28.617Z
+date: 2022-01-07T13:26:28.617Z
 image: https://img-global.cpcdn.com/recipes/0e10e20980f65d11/680x482cq70/pumpkin-molasses-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0e10e20980f65d11/680x482cq70/pumpkin-molasses-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0e10e20980f65d11/680x482cq70/pumpkin-molasses-cake-recipe-main-photo.jpg

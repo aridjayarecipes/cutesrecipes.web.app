@@ -2,7 +2,7 @@
 description: "Recipe of Quick Banana nut bread with chocolate chips"
 title: "Recipe of Quick Banana nut bread with chocolate chips"
 slug: 2510-recipe-of-quick-banana-nut-bread-with-chocolate-chips
-date: 2022-03-03T23:01:19.192Z
+date: 2022-01-03T23:01:19.192Z
 image: https://img-global.cpcdn.com/recipes/89f8d01cff22e3a8/680x482cq70/banana-nut-bread-with-chocolate-chips-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/89f8d01cff22e3a8/680x482cq70/banana-nut-bread-with-chocolate-chips-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/89f8d01cff22e3a8/680x482cq70/banana-nut-bread-with-chocolate-chips-recipe-main-photo.jpg

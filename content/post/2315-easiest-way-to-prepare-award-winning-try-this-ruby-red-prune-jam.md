@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Award-winning Try This! Ruby Red Prune Jam"
 title: "Easiest Way to Prepare Award-winning Try This! Ruby Red Prune Jam"
 slug: 2315-easiest-way-to-prepare-award-winning-try-this-ruby-red-prune-jam
-date: 2022-03-04T20:06:02.895Z
+date: 2022-01-04T20:06:02.895Z
 image: https://img-global.cpcdn.com/recipes/6185001608544256/680x482cq70/try-this-ruby-red-prune-jam-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6185001608544256/680x482cq70/try-this-ruby-red-prune-jam-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6185001608544256/680x482cq70/try-this-ruby-red-prune-jam-recipe-main-photo.jpg

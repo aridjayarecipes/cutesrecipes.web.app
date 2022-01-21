@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Pumpkin Muffins"
 title: "Recipe of Speedy Pumpkin Muffins"
 slug: 2345-recipe-of-speedy-pumpkin-muffins
-date: 2022-03-16T16:32:52.786Z
+date: 2022-01-16T16:32:52.786Z
 image: https://img-global.cpcdn.com/recipes/51dd1ff5a370a49c/680x482cq70/pumpkin-muffins-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/51dd1ff5a370a49c/680x482cq70/pumpkin-muffins-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/51dd1ff5a370a49c/680x482cq70/pumpkin-muffins-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Award-winning Banana Bread (Moist) w Whey Protein"
 title: "Simple Way to Prepare Award-winning Banana Bread (Moist) w Whey Protein"
 slug: 2579-simple-way-to-prepare-award-winning-banana-bread-moist-w-whey-protein
-date: 2022-03-20T21:01:00.997Z
+date: 2022-01-20T21:01:00.997Z
 image: https://img-global.cpcdn.com/recipes/69107dddf0bf8ed3/680x482cq70/banana-bread-moist-w-whey-protein-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/69107dddf0bf8ed3/680x482cq70/banana-bread-moist-w-whey-protein-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/69107dddf0bf8ed3/680x482cq70/banana-bread-moist-w-whey-protein-recipe-main-photo.jpg

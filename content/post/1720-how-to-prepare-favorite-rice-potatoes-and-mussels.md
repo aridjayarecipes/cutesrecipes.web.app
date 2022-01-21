@@ -2,7 +2,7 @@
 description: "How to Prepare Favorite Rice potatoes and mussels"
 title: "How to Prepare Favorite Rice potatoes and mussels"
 slug: 1720-how-to-prepare-favorite-rice-potatoes-and-mussels
-date: 2022-03-01T22:44:45.943Z
+date: 2022-01-01T22:44:45.943Z
 image: https://img-global.cpcdn.com/recipes/d6df94a5526b0c0d/680x482cq70/rice-potatoes-and-mussels-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d6df94a5526b0c0d/680x482cq70/rice-potatoes-and-mussels-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d6df94a5526b0c0d/680x482cq70/rice-potatoes-and-mussels-recipe-main-photo.jpg

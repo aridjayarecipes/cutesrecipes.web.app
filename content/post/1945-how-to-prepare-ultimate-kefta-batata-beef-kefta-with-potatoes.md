@@ -2,7 +2,7 @@
 description: "How to Prepare Ultimate Kefta Batata (Beef Kefta with Potatoes)"
 title: "How to Prepare Ultimate Kefta Batata (Beef Kefta with Potatoes)"
 slug: 1945-how-to-prepare-ultimate-kefta-batata-beef-kefta-with-potatoes
-date: 2022-03-26T02:17:06.901Z
+date: 2022-01-26T02:17:06.901Z
 image: https://img-global.cpcdn.com/recipes/32bb84fd2ab7d19c/680x482cq70/kefta-batata-beef-kefta-with-potatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/32bb84fd2ab7d19c/680x482cq70/kefta-batata-beef-kefta-with-potatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/32bb84fd2ab7d19c/680x482cq70/kefta-batata-beef-kefta-with-potatoes-recipe-main-photo.jpg

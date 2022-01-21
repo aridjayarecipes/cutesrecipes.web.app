@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Acqua pazza style salmon"
 title: "Step-by-Step Guide to Prepare Favorite Acqua pazza style salmon"
 slug: 1800-step-by-step-guide-to-prepare-favorite-acqua-pazza-style-salmon
-date: 2022-03-04T05:04:05.495Z
+date: 2022-01-04T05:04:05.495Z
 image: https://img-global.cpcdn.com/recipes/ea3bd8bfc50eb6d6/680x482cq70/acqua-pazza-style-salmon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ea3bd8bfc50eb6d6/680x482cq70/acqua-pazza-style-salmon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ea3bd8bfc50eb6d6/680x482cq70/acqua-pazza-style-salmon-recipe-main-photo.jpg

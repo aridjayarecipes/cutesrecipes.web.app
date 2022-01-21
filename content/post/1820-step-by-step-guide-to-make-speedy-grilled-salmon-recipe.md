@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Speedy Grilled Salmon Recipe"
 title: "Step-by-Step Guide to Make Speedy Grilled Salmon Recipe"
 slug: 1820-step-by-step-guide-to-make-speedy-grilled-salmon-recipe
-date: 2022-03-26T11:54:40.660Z
+date: 2022-01-26T11:54:40.660Z
 image: https://img-global.cpcdn.com/recipes/c622d1f77cae8dbd/680x482cq70/grilled-salmon-recipe-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c622d1f77cae8dbd/680x482cq70/grilled-salmon-recipe-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c622d1f77cae8dbd/680x482cq70/grilled-salmon-recipe-recipe-main-photo.jpg

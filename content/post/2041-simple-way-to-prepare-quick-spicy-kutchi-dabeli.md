@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Quick Spicy kutchi dabeli"
 title: "Simple Way to Prepare Quick Spicy kutchi dabeli"
 slug: 2041-simple-way-to-prepare-quick-spicy-kutchi-dabeli
-date: 2022-03-17T15:05:10.394Z
+date: 2022-01-17T15:05:10.394Z
 image: https://img-global.cpcdn.com/recipes/6d95951d12e57890/680x482cq70/spicy-kutchi-dabeli-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6d95951d12e57890/680x482cq70/spicy-kutchi-dabeli-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6d95951d12e57890/680x482cq70/spicy-kutchi-dabeli-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Mimi&amp;#39;s Glazed Salmon Fillet"
 title: "Recipe of Favorite Mimi&amp;#39;s Glazed Salmon Fillet"
 slug: 2082-recipe-of-favorite-mimi-and-39-s-glazed-salmon-fillet
-date: 2022-03-02T03:03:05.222Z
+date: 2022-01-02T03:03:05.222Z
 image: https://img-global.cpcdn.com/recipes/6249328624533504/680x482cq70/mimis-glazed-salmon-fillet-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6249328624533504/680x482cq70/mimis-glazed-salmon-fillet-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6249328624533504/680x482cq70/mimis-glazed-salmon-fillet-recipe-main-photo.jpg

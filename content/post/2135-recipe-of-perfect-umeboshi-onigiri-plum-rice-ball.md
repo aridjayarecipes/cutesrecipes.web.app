@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Umeboshi onigiri/ plum rice ball"
 title: "Recipe of Perfect Umeboshi onigiri/ plum rice ball"
 slug: 2135-recipe-of-perfect-umeboshi-onigiri-plum-rice-ball
-date: 2022-03-11T16:13:27.271Z
+date: 2022-01-11T16:13:27.271Z
 image: https://img-global.cpcdn.com/recipes/0c0af9c3939e46aa/680x482cq70/umeboshi-onigiri-plum-rice-ball-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0c0af9c3939e46aa/680x482cq70/umeboshi-onigiri-plum-rice-ball-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0c0af9c3939e46aa/680x482cq70/umeboshi-onigiri-plum-rice-ball-recipe-main-photo.jpg

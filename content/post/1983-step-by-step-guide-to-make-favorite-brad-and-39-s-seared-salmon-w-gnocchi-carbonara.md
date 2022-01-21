@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Favorite Brad&amp;#39;s seared salmon w/ gnocchi carbonara"
 title: "Step-by-Step Guide to Make Favorite Brad&amp;#39;s seared salmon w/ gnocchi carbonara"
 slug: 1983-step-by-step-guide-to-make-favorite-brad-and-39-s-seared-salmon-w-gnocchi-carbonara
-date: 2022-03-21T05:47:50.876Z
+date: 2022-01-21T05:47:50.876Z
 image: https://img-global.cpcdn.com/recipes/c9d55766bbd653f6/680x482cq70/brads-seared-salmon-w-gnocchi-carbonara-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c9d55766bbd653f6/680x482cq70/brads-seared-salmon-w-gnocchi-carbonara-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c9d55766bbd653f6/680x482cq70/brads-seared-salmon-w-gnocchi-carbonara-recipe-main-photo.jpg

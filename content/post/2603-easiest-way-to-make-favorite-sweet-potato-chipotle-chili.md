@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Favorite Sweet Potato Chipotle Chili"
 title: "Easiest Way to Make Favorite Sweet Potato Chipotle Chili"
 slug: 2603-easiest-way-to-make-favorite-sweet-potato-chipotle-chili
-date: 2022-03-07T22:08:37.593Z
+date: 2022-01-07T22:08:37.593Z
 image: https://img-global.cpcdn.com/recipes/f1408bad2bbe0f76/680x482cq70/sweet-potato-chipotle-chili-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f1408bad2bbe0f76/680x482cq70/sweet-potato-chipotle-chili-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f1408bad2bbe0f76/680x482cq70/sweet-potato-chipotle-chili-recipe-main-photo.jpg

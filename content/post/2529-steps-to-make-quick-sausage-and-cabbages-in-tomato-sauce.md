@@ -2,7 +2,7 @@
 description: "Steps to Make Quick Sausage and Cabbages in Tomato Sauce"
 title: "Steps to Make Quick Sausage and Cabbages in Tomato Sauce"
 slug: 2529-steps-to-make-quick-sausage-and-cabbages-in-tomato-sauce
-date: 2022-03-15T02:47:57.905Z
+date: 2022-01-15T02:47:57.905Z
 image: https://img-global.cpcdn.com/recipes/f9c7c5eabe32f054/680x482cq70/sausage-and-cabbages-in-tomato-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f9c7c5eabe32f054/680x482cq70/sausage-and-cabbages-in-tomato-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f9c7c5eabe32f054/680x482cq70/sausage-and-cabbages-in-tomato-sauce-recipe-main-photo.jpg

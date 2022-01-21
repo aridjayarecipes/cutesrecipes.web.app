@@ -2,7 +2,7 @@
 description: "How to Make Favorite Cabbage Idli(with a twist)"
 title: "How to Make Favorite Cabbage Idli(with a twist)"
 slug: 2514-how-to-make-favorite-cabbage-idliwith-a-twist
-date: 2022-03-27T21:28:19.117Z
+date: 2022-01-27T21:28:19.117Z
 image: https://img-global.cpcdn.com/recipes/ac36b5a012d3f218/680x482cq70/cabbage-idliwith-a-twist-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ac36b5a012d3f218/680x482cq70/cabbage-idliwith-a-twist-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ac36b5a012d3f218/680x482cq70/cabbage-idliwith-a-twist-recipe-main-photo.jpg

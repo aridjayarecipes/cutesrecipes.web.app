@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Speedy Rainbow Soup (Healthy Vegetable Soup)"
 title: "Easiest Way to Prepare Speedy Rainbow Soup (Healthy Vegetable Soup)"
 slug: 2556-easiest-way-to-prepare-speedy-rainbow-soup-healthy-vegetable-soup
-date: 2022-03-16T12:26:58.356Z
+date: 2022-01-16T12:26:58.356Z
 image: https://img-global.cpcdn.com/recipes/1be437624c1b4add/680x482cq70/rainbow-soup-healthy-vegetable-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1be437624c1b4add/680x482cq70/rainbow-soup-healthy-vegetable-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1be437624c1b4add/680x482cq70/rainbow-soup-healthy-vegetable-soup-recipe-main-photo.jpg

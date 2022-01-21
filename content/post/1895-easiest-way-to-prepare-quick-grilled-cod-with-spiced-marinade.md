@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick Grilled cod with spiced marinade"
 title: "Easiest Way to Prepare Quick Grilled cod with spiced marinade"
 slug: 1895-easiest-way-to-prepare-quick-grilled-cod-with-spiced-marinade
-date: 2022-03-31T15:51:09.646Z
+date: 2022-01-31T15:51:09.646Z
 image: https://img-global.cpcdn.com/recipes/5711fc62bdcd156f/680x482cq70/grilled-cod-with-spiced-marinade-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5711fc62bdcd156f/680x482cq70/grilled-cod-with-spiced-marinade-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5711fc62bdcd156f/680x482cq70/grilled-cod-with-spiced-marinade-recipe-main-photo.jpg

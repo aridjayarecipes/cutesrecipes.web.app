@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Sweet potato black bean enchiladas with grilled chicky"
 title: "Recipe of Any-night-of-the-week Sweet potato black bean enchiladas with grilled chicky"
 slug: 2227-recipe-of-any-night-of-the-week-sweet-potato-black-bean-enchiladas-with-grilled-chicky
-date: 2022-03-18T22:29:51.598Z
+date: 2022-01-18T22:29:51.598Z
 image: https://img-global.cpcdn.com/recipes/2a985b0db1c7c3fa/680x482cq70/sweet-potato-black-bean-enchiladas-with-grilled-chicky-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2a985b0db1c7c3fa/680x482cq70/sweet-potato-black-bean-enchiladas-with-grilled-chicky-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2a985b0db1c7c3fa/680x482cq70/sweet-potato-black-bean-enchiladas-with-grilled-chicky-recipe-main-photo.jpg

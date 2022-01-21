@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Perfect Eggless carrot cake (with whole-wheat flour)"
 title: "Easiest Way to Make Perfect Eggless carrot cake (with whole-wheat flour)"
 slug: 1737-easiest-way-to-make-perfect-eggless-carrot-cake-with-whole-wheat-flour
-date: 2022-03-26T13:14:58.572Z
+date: 2022-01-26T13:14:58.572Z
 image: https://img-global.cpcdn.com/recipes/9d921a16eba0ca60/680x482cq70/eggless-carrot-cake-with-whole-wheat-flour-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9d921a16eba0ca60/680x482cq70/eggless-carrot-cake-with-whole-wheat-flour-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9d921a16eba0ca60/680x482cq70/eggless-carrot-cake-with-whole-wheat-flour-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Prepare Award-winning Pumpkin Patch Delight"
 title: "Steps to Prepare Award-winning Pumpkin Patch Delight"
 slug: 2299-steps-to-prepare-award-winning-pumpkin-patch-delight
-date: 2022-03-02T21:19:55.118Z
+date: 2022-01-02T21:19:55.118Z
 image: https://img-global.cpcdn.com/recipes/190e0452047c4044/680x482cq70/pumpkin-patch-delight-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/190e0452047c4044/680x482cq70/pumpkin-patch-delight-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/190e0452047c4044/680x482cq70/pumpkin-patch-delight-recipe-main-photo.jpg

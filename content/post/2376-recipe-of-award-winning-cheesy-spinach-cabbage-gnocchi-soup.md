@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Cheesy spinach cabbage gnocchi soup"
 title: "Recipe of Award-winning Cheesy spinach cabbage gnocchi soup"
 slug: 2376-recipe-of-award-winning-cheesy-spinach-cabbage-gnocchi-soup
-date: 2022-03-24T13:24:50.088Z
+date: 2022-01-24T13:24:50.088Z
 image: https://img-global.cpcdn.com/recipes/79d267d2bbe5eb2a/680x482cq70/cheesy-spinach-cabbage-gnocchi-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/79d267d2bbe5eb2a/680x482cq70/cheesy-spinach-cabbage-gnocchi-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/79d267d2bbe5eb2a/680x482cq70/cheesy-spinach-cabbage-gnocchi-soup-recipe-main-photo.jpg

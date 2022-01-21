@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Favorite Cabbage and Ham"
 title: "Easiest Way to Prepare Favorite Cabbage and Ham"
 slug: 2572-easiest-way-to-prepare-favorite-cabbage-and-ham
-date: 2022-03-16T19:36:19.471Z
+date: 2022-01-16T19:36:19.471Z
 image: https://img-global.cpcdn.com/recipes/216156a5bdee3a4c/680x482cq70/cabbage-and-ham-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/216156a5bdee3a4c/680x482cq70/cabbage-and-ham-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/216156a5bdee3a4c/680x482cq70/cabbage-and-ham-recipe-main-photo.jpg

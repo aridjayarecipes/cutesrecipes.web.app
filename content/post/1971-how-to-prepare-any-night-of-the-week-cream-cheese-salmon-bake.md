@@ -2,7 +2,7 @@
 description: "How to Prepare Any-night-of-the-week Cream cheese salmon bake"
 title: "How to Prepare Any-night-of-the-week Cream cheese salmon bake"
 slug: 1971-how-to-prepare-any-night-of-the-week-cream-cheese-salmon-bake
-date: 2022-03-16T06:44:27.082Z
+date: 2022-01-16T06:44:27.082Z
 image: https://img-global.cpcdn.com/recipes/f20df36472214153/680x482cq70/cream-cheese-salmon-bake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f20df36472214153/680x482cq70/cream-cheese-salmon-bake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f20df36472214153/680x482cq70/cream-cheese-salmon-bake-recipe-main-photo.jpg

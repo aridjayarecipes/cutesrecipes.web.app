@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Potatoes, pumpkin and pointed gourd curry"
 title: "Recipe of Any-night-of-the-week Potatoes, pumpkin and pointed gourd curry"
 slug: 2237-recipe-of-any-night-of-the-week-potatoes-pumpkin-and-pointed-gourd-curry
-date: 2022-03-11T12:59:53.552Z
+date: 2022-01-11T12:59:53.552Z
 image: https://img-global.cpcdn.com/recipes/60cec5de8c7e66a2/680x482cq70/potatoes-pumpkin-and-pointed-gourd-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/60cec5de8c7e66a2/680x482cq70/potatoes-pumpkin-and-pointed-gourd-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/60cec5de8c7e66a2/680x482cq70/potatoes-pumpkin-and-pointed-gourd-curry-recipe-main-photo.jpg

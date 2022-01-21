@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Perfect Kfc Fried Chicken Ultimate 1970s Original KFC Clone fillets"
 title: "Step-by-Step Guide to Prepare Perfect Kfc Fried Chicken Ultimate 1970s Original KFC Clone fillets"
 slug: 2127-step-by-step-guide-to-prepare-perfect-kfc-fried-chicken-ultimate-1970s-original-kfc-clone-fillets
-date: 2022-03-26T13:34:06.860Z
+date: 2022-01-26T13:34:06.860Z
 image: https://img-global.cpcdn.com/recipes/51466150/680x482cq70/kfc-fried-chicken-ultimate-1970s-original-kfc-clone-fillets-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/51466150/680x482cq70/kfc-fried-chicken-ultimate-1970s-original-kfc-clone-fillets-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/51466150/680x482cq70/kfc-fried-chicken-ultimate-1970s-original-kfc-clone-fillets-recipe-main-photo.jpg

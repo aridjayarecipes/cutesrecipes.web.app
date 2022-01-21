@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Honey brown sugar glazed carrots"
 title: "Recipe of Ultimate Honey brown sugar glazed carrots"
 slug: 1789-recipe-of-ultimate-honey-brown-sugar-glazed-carrots
-date: 2022-03-07T22:25:55.102Z
+date: 2022-01-07T22:25:55.102Z
 image: https://img-global.cpcdn.com/recipes/8794df62df2e5836/680x482cq70/honey-brown-sugar-glazed-carrots-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8794df62df2e5836/680x482cq70/honey-brown-sugar-glazed-carrots-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8794df62df2e5836/680x482cq70/honey-brown-sugar-glazed-carrots-recipe-main-photo.jpg

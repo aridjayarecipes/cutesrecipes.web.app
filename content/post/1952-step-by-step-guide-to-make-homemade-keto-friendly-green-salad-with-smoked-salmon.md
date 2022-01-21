@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Keto Friendly Green salad with Smoked Salmon"
 title: "Step-by-Step Guide to Make Homemade Keto Friendly Green salad with Smoked Salmon"
 slug: 1952-step-by-step-guide-to-make-homemade-keto-friendly-green-salad-with-smoked-salmon
-date: 2022-03-25T01:56:36.055Z
+date: 2022-01-25T01:56:36.055Z
 image: https://img-global.cpcdn.com/recipes/51970d87bab705fb/680x482cq70/keto-friendly-green-salad-with-smoked-salmon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/51970d87bab705fb/680x482cq70/keto-friendly-green-salad-with-smoked-salmon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/51970d87bab705fb/680x482cq70/keto-friendly-green-salad-with-smoked-salmon-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Black Bean and Corn Salsa Dip"
 title: "Recipe of Perfect Black Bean and Corn Salsa Dip"
 slug: 2364-recipe-of-perfect-black-bean-and-corn-salsa-dip
-date: 2022-03-23T17:30:12.317Z
+date: 2022-01-23T17:30:12.317Z
 image: https://img-global.cpcdn.com/recipes/6350458530037760/680x482cq70/black-bean-and-corn-salsa-dip-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6350458530037760/680x482cq70/black-bean-and-corn-salsa-dip-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6350458530037760/680x482cq70/black-bean-and-corn-salsa-dip-recipe-main-photo.jpg

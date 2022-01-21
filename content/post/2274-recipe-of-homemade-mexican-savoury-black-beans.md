@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Mexican Savoury Black Beans"
 title: "Recipe of Homemade Mexican Savoury Black Beans"
 slug: 2274-recipe-of-homemade-mexican-savoury-black-beans
-date: 2022-03-14T17:12:59.534Z
+date: 2022-01-14T17:12:59.534Z
 image: https://img-global.cpcdn.com/recipes/376665a53460d13a/680x482cq70/mexican-savoury-black-beans-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/376665a53460d13a/680x482cq70/mexican-savoury-black-beans-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/376665a53460d13a/680x482cq70/mexican-savoury-black-beans-recipe-main-photo.jpg

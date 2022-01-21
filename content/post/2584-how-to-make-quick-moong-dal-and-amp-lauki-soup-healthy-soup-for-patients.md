@@ -2,7 +2,7 @@
 description: "How to Make Quick Moong dal &amp;amp; lauki soup (Healthy soup for patients)"
 title: "How to Make Quick Moong dal &amp;amp; lauki soup (Healthy soup for patients)"
 slug: 2584-how-to-make-quick-moong-dal-and-amp-lauki-soup-healthy-soup-for-patients
-date: 2022-03-15T13:12:38.153Z
+date: 2022-01-15T13:12:38.153Z
 image: https://img-global.cpcdn.com/recipes/26db42e173d9034d/680x482cq70/moong-dal-lauki-soup-healthy-soup-for-patients-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/26db42e173d9034d/680x482cq70/moong-dal-lauki-soup-healthy-soup-for-patients-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/26db42e173d9034d/680x482cq70/moong-dal-lauki-soup-healthy-soup-for-patients-recipe-main-photo.jpg

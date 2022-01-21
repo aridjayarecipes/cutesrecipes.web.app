@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Any-night-of-the-week Mahkana Bhel"
 title: "Easiest Way to Prepare Any-night-of-the-week Mahkana Bhel"
 slug: 1901-easiest-way-to-prepare-any-night-of-the-week-mahkana-bhel
-date: 2022-03-12T08:13:50.528Z
+date: 2022-01-12T08:13:50.528Z
 image: https://img-global.cpcdn.com/recipes/e61f9892170d3092/680x482cq70/mahkana-bhel-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e61f9892170d3092/680x482cq70/mahkana-bhel-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e61f9892170d3092/680x482cq70/mahkana-bhel-recipe-main-photo.jpg

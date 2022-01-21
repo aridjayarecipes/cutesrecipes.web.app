@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Super Quick Homemade Pumpkin Pie Thickshake"
 title: "Simple Way to Prepare Super Quick Homemade Pumpkin Pie Thickshake"
 slug: 2303-simple-way-to-prepare-super-quick-homemade-pumpkin-pie-thickshake
-date: 2022-03-19T14:26:05.342Z
+date: 2022-01-19T14:26:05.342Z
 image: https://img-global.cpcdn.com/recipes/77f3e5bab33814f3/680x482cq70/pumpkin-pie-thickshake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/77f3e5bab33814f3/680x482cq70/pumpkin-pie-thickshake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/77f3e5bab33814f3/680x482cq70/pumpkin-pie-thickshake-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Creamy Chinese Cabbage"
 title: "Recipe of Perfect Creamy Chinese Cabbage"
 slug: 2379-recipe-of-perfect-creamy-chinese-cabbage
-date: 2022-03-23T03:17:13.279Z
+date: 2022-01-23T03:17:13.279Z
 image: https://img-global.cpcdn.com/recipes/2f2c3e5495443efa/680x482cq70/creamy-chinese-cabbage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2f2c3e5495443efa/680x482cq70/creamy-chinese-cabbage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2f2c3e5495443efa/680x482cq70/creamy-chinese-cabbage-recipe-main-photo.jpg

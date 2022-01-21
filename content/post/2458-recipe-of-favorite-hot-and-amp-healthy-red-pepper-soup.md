@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Hot &amp;amp; Healthy Red Pepper Soup"
 title: "Recipe of Favorite Hot &amp;amp; Healthy Red Pepper Soup"
 slug: 2458-recipe-of-favorite-hot-and-amp-healthy-red-pepper-soup
-date: 2022-03-24T07:47:22.499Z
+date: 2022-01-24T07:47:22.499Z
 image: https://img-global.cpcdn.com/recipes/5984428864045056/680x482cq70/hot-healthy-red-pepper-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5984428864045056/680x482cq70/hot-healthy-red-pepper-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5984428864045056/680x482cq70/hot-healthy-red-pepper-soup-recipe-main-photo.jpg

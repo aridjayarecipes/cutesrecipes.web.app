@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Ultimate Jambalaya"
 title: "Easiest Way to Prepare Ultimate Jambalaya"
 slug: 2306-easiest-way-to-prepare-ultimate-jambalaya
-date: 2022-03-24T17:44:54.204Z
+date: 2022-01-24T17:44:54.204Z
 image: https://img-global.cpcdn.com/recipes/dfb204a3409a4186/680x482cq70/jambalaya-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/dfb204a3409a4186/680x482cq70/jambalaya-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/dfb204a3409a4186/680x482cq70/jambalaya-recipe-main-photo.jpg

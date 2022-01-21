@@ -2,7 +2,7 @@
 description: "Steps to Make Perfect Air-Fried Honey Soy Salmon with Garlic Parmesan Potatoes"
 title: "Steps to Make Perfect Air-Fried Honey Soy Salmon with Garlic Parmesan Potatoes"
 slug: 1934-steps-to-make-perfect-air-fried-honey-soy-salmon-with-garlic-parmesan-potatoes
-date: 2022-03-27T05:41:41.237Z
+date: 2022-01-27T05:41:41.237Z
 image: https://img-global.cpcdn.com/recipes/f6c1f6f4e8e9917e/680x482cq70/air-fried-honey-soy-salmon-with-garlic-parmesan-potatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f6c1f6f4e8e9917e/680x482cq70/air-fried-honey-soy-salmon-with-garlic-parmesan-potatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f6c1f6f4e8e9917e/680x482cq70/air-fried-honey-soy-salmon-with-garlic-parmesan-potatoes-recipe-main-photo.jpg

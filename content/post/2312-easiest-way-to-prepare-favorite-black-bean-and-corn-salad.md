@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Favorite Black Bean and Corn Salad"
 title: "Easiest Way to Prepare Favorite Black Bean and Corn Salad"
 slug: 2312-easiest-way-to-prepare-favorite-black-bean-and-corn-salad
-date: 2022-03-15T06:09:34.900Z
+date: 2022-01-15T06:09:34.900Z
 image: https://img-global.cpcdn.com/recipes/a31d221f97432741/680x482cq70/black-bean-and-corn-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a31d221f97432741/680x482cq70/black-bean-and-corn-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a31d221f97432741/680x482cq70/black-bean-and-corn-salad-recipe-main-photo.jpg

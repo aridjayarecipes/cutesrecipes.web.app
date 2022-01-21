@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Pumpkin halwa"
 title: "Recipe of Homemade Pumpkin halwa"
 slug: 2236-recipe-of-homemade-pumpkin-halwa
-date: 2022-03-29T01:07:45.398Z
+date: 2022-01-29T01:07:45.398Z
 image: https://img-global.cpcdn.com/recipes/0c7a146cfd252627/680x482cq70/pumpkin-halwa-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0c7a146cfd252627/680x482cq70/pumpkin-halwa-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0c7a146cfd252627/680x482cq70/pumpkin-halwa-recipe-main-photo.jpg

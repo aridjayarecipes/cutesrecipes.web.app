@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Speedy Pumpkin butter"
 title: "Easiest Way to Prepare Speedy Pumpkin butter"
 slug: 2163-easiest-way-to-prepare-speedy-pumpkin-butter
-date: 2022-03-28T03:26:06.440Z
+date: 2022-01-28T03:26:06.440Z
 image: https://img-global.cpcdn.com/recipes/784546e9315c0967/680x482cq70/pumpkin-butter-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/784546e9315c0967/680x482cq70/pumpkin-butter-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/784546e9315c0967/680x482cq70/pumpkin-butter-recipe-main-photo.jpg

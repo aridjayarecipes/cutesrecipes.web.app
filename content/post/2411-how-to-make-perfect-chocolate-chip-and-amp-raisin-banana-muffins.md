@@ -2,7 +2,7 @@
 description: "How to Make Perfect Chocolate Chip &amp;amp; Raisin Banana Muffins"
 title: "How to Make Perfect Chocolate Chip &amp;amp; Raisin Banana Muffins"
 slug: 2411-how-to-make-perfect-chocolate-chip-and-amp-raisin-banana-muffins
-date: 2022-03-27T03:12:04.165Z
+date: 2022-01-27T03:12:04.165Z
 image: https://img-global.cpcdn.com/recipes/2b2a470e78bd4830/680x482cq70/chocolate-chip-raisin-banana-muffins-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2b2a470e78bd4830/680x482cq70/chocolate-chip-raisin-banana-muffins-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2b2a470e78bd4830/680x482cq70/chocolate-chip-raisin-banana-muffins-recipe-main-photo.jpg

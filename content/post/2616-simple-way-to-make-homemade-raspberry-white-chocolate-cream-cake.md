@@ -2,7 +2,7 @@
 description: "Simple Way to Make Homemade Raspberry-White Chocolate Cream Cake"
 title: "Simple Way to Make Homemade Raspberry-White Chocolate Cream Cake"
 slug: 2616-simple-way-to-make-homemade-raspberry-white-chocolate-cream-cake
-date: 2022-03-26T04:22:04.502Z
+date: 2022-01-26T04:22:04.502Z
 image: https://img-global.cpcdn.com/recipes/53990b1496d2757d/680x482cq70/raspberry-white-chocolate-cream-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/53990b1496d2757d/680x482cq70/raspberry-white-chocolate-cream-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/53990b1496d2757d/680x482cq70/raspberry-white-chocolate-cream-cake-recipe-main-photo.jpg

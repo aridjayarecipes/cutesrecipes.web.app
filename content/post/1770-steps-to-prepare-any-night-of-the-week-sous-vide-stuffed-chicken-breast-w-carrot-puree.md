@@ -2,7 +2,7 @@
 description: "Steps to Prepare Any-night-of-the-week Sous Vide Stuffed Chicken Breast w/ Carrot Puree"
 title: "Steps to Prepare Any-night-of-the-week Sous Vide Stuffed Chicken Breast w/ Carrot Puree"
 slug: 1770-steps-to-prepare-any-night-of-the-week-sous-vide-stuffed-chicken-breast-w-carrot-puree
-date: 2022-03-30T01:45:16.007Z
+date: 2022-01-30T01:45:16.007Z
 image: https://img-global.cpcdn.com/recipes/e04fb1224b86f5ec/680x482cq70/sous-vide-stuffed-chicken-breast-w-carrot-puree-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e04fb1224b86f5ec/680x482cq70/sous-vide-stuffed-chicken-breast-w-carrot-puree-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e04fb1224b86f5ec/680x482cq70/sous-vide-stuffed-chicken-breast-w-carrot-puree-recipe-main-photo.jpg

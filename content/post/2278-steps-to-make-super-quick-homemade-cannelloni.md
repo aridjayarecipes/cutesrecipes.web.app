@@ -2,7 +2,7 @@
 description: "Steps to Make Super Quick Homemade Cannelloni"
 title: "Steps to Make Super Quick Homemade Cannelloni"
 slug: 2278-steps-to-make-super-quick-homemade-cannelloni
-date: 2022-03-17T06:14:26.070Z
+date: 2022-01-17T06:14:26.070Z
 image: https://img-global.cpcdn.com/recipes/2b73ac7fcbc69eb7/680x482cq70/cannelloni-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2b73ac7fcbc69eb7/680x482cq70/cannelloni-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2b73ac7fcbc69eb7/680x482cq70/cannelloni-recipe-main-photo.jpg

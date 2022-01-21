@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Super Quick Homemade Blueberry candied yams with almonds"
 title: "Simple Way to Prepare Super Quick Homemade Blueberry candied yams with almonds"
 slug: 1720-simple-way-to-prepare-super-quick-homemade-blueberry-candied-yams-with-almonds
-date: 2022-03-06T23:23:22.635Z
+date: 2022-01-06T23:23:22.635Z
 image: https://img-global.cpcdn.com/recipes/66562008f076c070/680x482cq70/blueberry-candied-yams-with-almonds-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/66562008f076c070/680x482cq70/blueberry-candied-yams-with-almonds-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/66562008f076c070/680x482cq70/blueberry-candied-yams-with-almonds-recipe-main-photo.jpg

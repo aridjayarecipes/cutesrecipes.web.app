@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Perfect Cabbage paratha"
 title: "Simple Way to Prepare Perfect Cabbage paratha"
 slug: 2513-simple-way-to-prepare-perfect-cabbage-paratha
-date: 2022-03-20T11:04:25.140Z
+date: 2022-01-20T11:04:25.140Z
 image: https://img-global.cpcdn.com/recipes/55bc1f9f44e48f8b/680x482cq70/cabbage-paratha-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/55bc1f9f44e48f8b/680x482cq70/cabbage-paratha-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/55bc1f9f44e48f8b/680x482cq70/cabbage-paratha-recipe-main-photo.jpg

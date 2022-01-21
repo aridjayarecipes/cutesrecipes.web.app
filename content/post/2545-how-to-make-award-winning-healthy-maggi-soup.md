@@ -2,7 +2,7 @@
 description: "How to Make Award-winning Healthy maggi soup"
 title: "How to Make Award-winning Healthy maggi soup"
 slug: 2545-how-to-make-award-winning-healthy-maggi-soup
-date: 2022-03-11T19:37:30.643Z
+date: 2022-01-11T19:37:30.643Z
 image: https://img-global.cpcdn.com/recipes/9a926860b558288a/680x482cq70/healthy-maggi-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9a926860b558288a/680x482cq70/healthy-maggi-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9a926860b558288a/680x482cq70/healthy-maggi-soup-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Perfect Lamb steaks"
 title: "Easiest Way to Prepare Perfect Lamb steaks"
 slug: 2598-easiest-way-to-prepare-perfect-lamb-steaks
-date: 2022-03-14T10:12:10.025Z
+date: 2022-01-14T10:12:10.025Z
 image: https://img-global.cpcdn.com/recipes/6731931274706944/680x482cq70/lamb-steaks-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6731931274706944/680x482cq70/lamb-steaks-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6731931274706944/680x482cq70/lamb-steaks-recipe-main-photo.jpg

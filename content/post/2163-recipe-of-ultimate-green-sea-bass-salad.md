@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Green sea bass salad"
 title: "Recipe of Ultimate Green sea bass salad"
 slug: 2163-recipe-of-ultimate-green-sea-bass-salad
-date: 2022-03-10T00:21:49.309Z
+date: 2022-01-10T00:21:49.309Z
 image: https://img-global.cpcdn.com/recipes/5bd1647ac4be1f58/680x482cq70/green-sea-bass-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5bd1647ac4be1f58/680x482cq70/green-sea-bass-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5bd1647ac4be1f58/680x482cq70/green-sea-bass-salad-recipe-main-photo.jpg

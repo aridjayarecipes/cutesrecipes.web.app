@@ -2,7 +2,7 @@
 description: "How to Make Ultimate Pumpkin coconut curry"
 title: "How to Make Ultimate Pumpkin coconut curry"
 slug: 2253-how-to-make-ultimate-pumpkin-coconut-curry
-date: 2022-03-19T09:25:35.842Z
+date: 2022-01-19T09:25:35.842Z
 image: https://img-global.cpcdn.com/recipes/69d4388711b13a02/680x482cq70/pumpkin-coconut-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/69d4388711b13a02/680x482cq70/pumpkin-coconut-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/69d4388711b13a02/680x482cq70/pumpkin-coconut-curry-recipe-main-photo.jpg

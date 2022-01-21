@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Any-night-of-the-week Pickled cabbage"
 title: "Step-by-Step Guide to Make Any-night-of-the-week Pickled cabbage"
 slug: 2548-step-by-step-guide-to-make-any-night-of-the-week-pickled-cabbage
-date: 2022-03-12T16:59:43.851Z
+date: 2022-01-12T16:59:43.851Z
 image: https://img-global.cpcdn.com/recipes/4e0e0b5ce1d0aca0/680x482cq70/pickled-cabbage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4e0e0b5ce1d0aca0/680x482cq70/pickled-cabbage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4e0e0b5ce1d0aca0/680x482cq70/pickled-cabbage-recipe-main-photo.jpg

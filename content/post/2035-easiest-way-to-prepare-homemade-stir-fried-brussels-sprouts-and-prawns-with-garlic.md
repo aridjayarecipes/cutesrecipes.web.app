@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade Stir-fried Brussels Sprouts and Prawns with Garlic"
 title: "Easiest Way to Prepare Homemade Stir-fried Brussels Sprouts and Prawns with Garlic"
 slug: 2035-easiest-way-to-prepare-homemade-stir-fried-brussels-sprouts-and-prawns-with-garlic
-date: 2022-03-14T10:43:45.539Z
+date: 2022-01-14T10:43:45.539Z
 image: https://img-global.cpcdn.com/recipes/6452741019795456/680x482cq70/stir-fried-brussels-sprouts-and-prawns-with-garlic-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6452741019795456/680x482cq70/stir-fried-brussels-sprouts-and-prawns-with-garlic-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6452741019795456/680x482cq70/stir-fried-brussels-sprouts-and-prawns-with-garlic-recipe-main-photo.jpg

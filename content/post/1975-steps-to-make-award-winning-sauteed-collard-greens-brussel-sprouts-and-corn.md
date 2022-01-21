@@ -2,7 +2,7 @@
 description: "Steps to Make Award-winning Sautéed Collard Greens, Brussel Sprouts and Corn"
 title: "Steps to Make Award-winning Sautéed Collard Greens, Brussel Sprouts and Corn"
 slug: 1975-steps-to-make-award-winning-sauteed-collard-greens-brussel-sprouts-and-corn
-date: 2022-03-02T08:24:34.241Z
+date: 2022-01-02T08:24:34.241Z
 image: https://img-global.cpcdn.com/recipes/d26fe9a029838e9a/680x482cq70/sauteed-collard-greens-brussel-sprouts-and-corn-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d26fe9a029838e9a/680x482cq70/sauteed-collard-greens-brussel-sprouts-and-corn-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d26fe9a029838e9a/680x482cq70/sauteed-collard-greens-brussel-sprouts-and-corn-recipe-main-photo.jpg

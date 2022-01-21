@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Roasted Brussel Sprouts (organic)"
 title: "Easiest Way to Prepare Super Quick Homemade Roasted Brussel Sprouts (organic)"
 slug: 1989-easiest-way-to-prepare-super-quick-homemade-roasted-brussel-sprouts-organic
-date: 2022-03-12T20:47:09.533Z
+date: 2022-01-12T20:47:09.533Z
 image: https://img-global.cpcdn.com/recipes/5945024320110592/680x482cq70/roasted-brussel-sprouts-organic-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5945024320110592/680x482cq70/roasted-brussel-sprouts-organic-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5945024320110592/680x482cq70/roasted-brussel-sprouts-organic-recipe-main-photo.jpg

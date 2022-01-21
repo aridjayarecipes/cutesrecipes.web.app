@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Easy Carrot- Nuts Cake"
 title: "Simple Way to Make Ultimate Easy Carrot- Nuts Cake"
 slug: 1882-simple-way-to-make-ultimate-easy-carrot-nuts-cake
-date: 2022-03-10T18:49:50.893Z
+date: 2022-01-10T18:49:50.893Z
 image: https://img-global.cpcdn.com/recipes/abf556d31136ede8/680x482cq70/easy-carrot-nuts-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/abf556d31136ede8/680x482cq70/easy-carrot-nuts-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/abf556d31136ede8/680x482cq70/easy-carrot-nuts-cake-recipe-main-photo.jpg

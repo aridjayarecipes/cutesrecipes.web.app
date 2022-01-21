@@ -2,7 +2,7 @@
 description: "Steps to Prepare Quick Plum juice"
 title: "Steps to Prepare Quick Plum juice"
 slug: 2154-steps-to-prepare-quick-plum-juice
-date: 2022-03-23T08:35:43.616Z
+date: 2022-01-23T08:35:43.616Z
 image: https://img-global.cpcdn.com/recipes/e7f50c24c47258eb/680x482cq70/plum-juice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e7f50c24c47258eb/680x482cq70/plum-juice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e7f50c24c47258eb/680x482cq70/plum-juice-recipe-main-photo.jpg

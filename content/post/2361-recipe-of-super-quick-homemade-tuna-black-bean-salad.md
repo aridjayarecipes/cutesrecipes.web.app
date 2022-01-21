@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Tuna Black Bean Salad"
 title: "Recipe of Super Quick Homemade Tuna Black Bean Salad"
 slug: 2361-recipe-of-super-quick-homemade-tuna-black-bean-salad
-date: 2022-03-26T03:33:33.928Z
+date: 2022-01-26T03:33:33.928Z
 image: https://img-global.cpcdn.com/recipes/5245312409534464/680x482cq70/tuna-black-bean-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5245312409534464/680x482cq70/tuna-black-bean-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5245312409534464/680x482cq70/tuna-black-bean-salad-recipe-main-photo.jpg

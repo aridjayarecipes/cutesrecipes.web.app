@@ -2,7 +2,7 @@
 description: "Steps to Make Perfect 🎶Plum Fluff 🎵A.B.C."
 title: "Steps to Make Perfect 🎶Plum Fluff 🎵A.B.C."
 slug: 2195-steps-to-make-perfect-plum-fluff-abc
-date: 2022-03-16T22:42:34.519Z
+date: 2022-01-16T22:42:34.519Z
 image: https://img-global.cpcdn.com/recipes/5699333127667712/680x482cq70/plum-fluff-abc-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5699333127667712/680x482cq70/plum-fluff-abc-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5699333127667712/680x482cq70/plum-fluff-abc-recipe-main-photo.jpg

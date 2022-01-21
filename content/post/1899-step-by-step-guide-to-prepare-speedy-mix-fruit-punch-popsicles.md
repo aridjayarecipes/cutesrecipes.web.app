@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Speedy Mix fruit punch Popsicles"
 title: "Step-by-Step Guide to Prepare Speedy Mix fruit punch Popsicles"
 slug: 1899-step-by-step-guide-to-prepare-speedy-mix-fruit-punch-popsicles
-date: 2022-03-13T00:16:25.370Z
+date: 2022-01-13T00:16:25.370Z
 image: https://img-global.cpcdn.com/recipes/fb6f3d9b38522621/680x482cq70/mix-fruit-punch-popsicles-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fb6f3d9b38522621/680x482cq70/mix-fruit-punch-popsicles-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fb6f3d9b38522621/680x482cq70/mix-fruit-punch-popsicles-recipe-main-photo.jpg

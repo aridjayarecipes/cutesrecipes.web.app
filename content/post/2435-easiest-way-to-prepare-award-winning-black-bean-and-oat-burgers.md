@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Award-winning Black Bean and Oat Burgers"
 title: "Easiest Way to Prepare Award-winning Black Bean and Oat Burgers"
 slug: 2435-easiest-way-to-prepare-award-winning-black-bean-and-oat-burgers
-date: 2022-03-08T13:32:33.161Z
+date: 2022-01-08T13:32:33.161Z
 image: https://img-global.cpcdn.com/recipes/57202382/680x482cq70/black-bean-and-oat-burgers-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/57202382/680x482cq70/black-bean-and-oat-burgers-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/57202382/680x482cq70/black-bean-and-oat-burgers-recipe-main-photo.jpg

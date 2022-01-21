@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Black Bean &amp;amp; Avocado Burgers"
 title: "Recipe of Ultimate Black Bean &amp;amp; Avocado Burgers"
 slug: 2395-recipe-of-ultimate-black-bean-and-amp-avocado-burgers
-date: 2022-03-28T05:19:58.504Z
+date: 2022-01-28T05:19:58.504Z
 image: https://img-global.cpcdn.com/recipes/4887059137298432/680x482cq70/black-bean-avocado-burgers-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4887059137298432/680x482cq70/black-bean-avocado-burgers-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4887059137298432/680x482cq70/black-bean-avocado-burgers-recipe-main-photo.jpg

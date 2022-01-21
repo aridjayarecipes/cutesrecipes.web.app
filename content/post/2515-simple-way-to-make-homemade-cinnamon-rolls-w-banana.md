@@ -2,7 +2,7 @@
 description: "Simple Way to Make Homemade Cinnamon rolls w/ Banana"
 title: "Simple Way to Make Homemade Cinnamon rolls w/ Banana"
 slug: 2515-simple-way-to-make-homemade-cinnamon-rolls-w-banana
-date: 2022-03-13T16:45:15.044Z
+date: 2022-01-13T16:45:15.044Z
 image: https://img-global.cpcdn.com/recipes/466a092e53a4c08c/680x482cq70/cinnamon-rolls-w-banana-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/466a092e53a4c08c/680x482cq70/cinnamon-rolls-w-banana-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/466a092e53a4c08c/680x482cq70/cinnamon-rolls-w-banana-recipe-main-photo.jpg

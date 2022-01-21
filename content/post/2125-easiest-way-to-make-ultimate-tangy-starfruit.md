@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Ultimate Tangy Starfruit"
 title: "Easiest Way to Make Ultimate Tangy Starfruit"
 slug: 2125-easiest-way-to-make-ultimate-tangy-starfruit
-date: 2022-03-02T18:59:38.403Z
+date: 2022-01-02T18:59:38.403Z
 image: https://img-global.cpcdn.com/recipes/79f80d89a5a84690/680x482cq70/tangy-starfruit-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/79f80d89a5a84690/680x482cq70/tangy-starfruit-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/79f80d89a5a84690/680x482cq70/tangy-starfruit-recipe-main-photo.jpg

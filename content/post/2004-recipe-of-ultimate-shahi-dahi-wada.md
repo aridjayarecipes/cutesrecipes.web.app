@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Shahi Dahi Wada"
 title: "Recipe of Ultimate Shahi Dahi Wada"
 slug: 2004-recipe-of-ultimate-shahi-dahi-wada
-date: 2022-03-10T22:28:56.332Z
+date: 2022-01-10T22:28:56.332Z
 image: https://img-global.cpcdn.com/recipes/5e5a52cded620e40/680x482cq70/shahi-dahi-wada-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5e5a52cded620e40/680x482cq70/shahi-dahi-wada-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5e5a52cded620e40/680x482cq70/shahi-dahi-wada-recipe-main-photo.jpg

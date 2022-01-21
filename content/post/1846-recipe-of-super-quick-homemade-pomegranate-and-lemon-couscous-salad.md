@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Pomegranate and lemon couscous salad"
 title: "Recipe of Super Quick Homemade Pomegranate and lemon couscous salad"
 slug: 1846-recipe-of-super-quick-homemade-pomegranate-and-lemon-couscous-salad
-date: 2022-03-20T11:24:28.194Z
+date: 2022-01-20T11:24:28.194Z
 image: https://img-global.cpcdn.com/recipes/281ae60ecdf64f1a/680x482cq70/pomegranate-and-lemon-couscous-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/281ae60ecdf64f1a/680x482cq70/pomegranate-and-lemon-couscous-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/281ae60ecdf64f1a/680x482cq70/pomegranate-and-lemon-couscous-salad-recipe-main-photo.jpg

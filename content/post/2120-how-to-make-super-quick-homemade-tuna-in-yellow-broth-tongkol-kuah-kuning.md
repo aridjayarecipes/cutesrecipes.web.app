@@ -2,7 +2,7 @@
 description: "How to Make Super Quick Homemade Tuna in Yellow Broth (TONGKOL KUAH KUNING)"
 title: "How to Make Super Quick Homemade Tuna in Yellow Broth (TONGKOL KUAH KUNING)"
 slug: 2120-how-to-make-super-quick-homemade-tuna-in-yellow-broth-tongkol-kuah-kuning
-date: 2022-03-16T13:58:36.433Z
+date: 2022-01-16T13:58:36.433Z
 image: https://img-global.cpcdn.com/recipes/2535964_f7ec09bd5f996f35/680x482cq70/tuna-in-yellow-broth-tongkol-kuah-kuning-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2535964_f7ec09bd5f996f35/680x482cq70/tuna-in-yellow-broth-tongkol-kuah-kuning-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2535964_f7ec09bd5f996f35/680x482cq70/tuna-in-yellow-broth-tongkol-kuah-kuning-recipe-main-photo.jpg

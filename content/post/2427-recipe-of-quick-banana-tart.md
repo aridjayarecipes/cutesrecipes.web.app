@@ -2,7 +2,7 @@
 description: "Recipe of Quick Banana Tart"
 title: "Recipe of Quick Banana Tart"
 slug: 2427-recipe-of-quick-banana-tart
-date: 2022-03-30T02:26:51.640Z
+date: 2022-01-30T02:26:51.640Z
 image: https://img-global.cpcdn.com/recipes/f499b648bac40c54/680x482cq70/banana-tart-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f499b648bac40c54/680x482cq70/banana-tart-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f499b648bac40c54/680x482cq70/banana-tart-recipe-main-photo.jpg

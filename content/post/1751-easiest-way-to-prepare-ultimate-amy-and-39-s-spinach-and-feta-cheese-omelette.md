@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Ultimate Amy&amp;#39;s Spinach and Feta Cheese Omelette ."
 title: "Easiest Way to Prepare Ultimate Amy&amp;#39;s Spinach and Feta Cheese Omelette ."
 slug: 1751-easiest-way-to-prepare-ultimate-amy-and-39-s-spinach-and-feta-cheese-omelette
-date: 2022-03-04T03:12:06.433Z
+date: 2022-01-04T03:12:06.433Z
 image: https://img-global.cpcdn.com/recipes/5473278822973440/680x482cq70/amys-spinach-and-feta-cheese-omelette-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5473278822973440/680x482cq70/amys-spinach-and-feta-cheese-omelette-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5473278822973440/680x482cq70/amys-spinach-and-feta-cheese-omelette-recipe-main-photo.jpg

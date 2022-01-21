@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Healthy Quinoa Lentil Soup"
 title: "Recipe of Super Quick Homemade Healthy Quinoa Lentil Soup"
 slug: 2543-recipe-of-super-quick-homemade-healthy-quinoa-lentil-soup
-date: 2022-03-21T23:24:34.709Z
+date: 2022-01-21T23:24:34.709Z
 image: https://img-global.cpcdn.com/recipes/48b004332f66b836/680x482cq70/healthy-quinoa-lentil-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/48b004332f66b836/680x482cq70/healthy-quinoa-lentil-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/48b004332f66b836/680x482cq70/healthy-quinoa-lentil-soup-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate Southwestern Tofu, Black Beans, and Rice"
 title: "Simple Way to Prepare Ultimate Southwestern Tofu, Black Beans, and Rice"
 slug: 2329-simple-way-to-prepare-ultimate-southwestern-tofu-black-beans-and-rice
-date: 2022-03-10T15:20:43.183Z
+date: 2022-01-10T15:20:43.183Z
 image: https://img-global.cpcdn.com/recipes/6f3f9e23d61c980c/680x482cq70/southwestern-tofu-black-beans-and-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6f3f9e23d61c980c/680x482cq70/southwestern-tofu-black-beans-and-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6f3f9e23d61c980c/680x482cq70/southwestern-tofu-black-beans-and-rice-recipe-main-photo.jpg

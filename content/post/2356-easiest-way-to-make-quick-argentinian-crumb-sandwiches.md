@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Argentinian Crumb Sandwiches"
 title: "Easiest Way to Make Quick Argentinian Crumb Sandwiches"
 slug: 2356-easiest-way-to-make-quick-argentinian-crumb-sandwiches
-date: 2022-03-07T08:23:12.734Z
+date: 2022-01-07T08:23:12.734Z
 image: https://img-global.cpcdn.com/recipes/abea47e79037f882/680x482cq70/argentinian-crumb-sandwiches-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/abea47e79037f882/680x482cq70/argentinian-crumb-sandwiches-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/abea47e79037f882/680x482cq70/argentinian-crumb-sandwiches-recipe-main-photo.jpg

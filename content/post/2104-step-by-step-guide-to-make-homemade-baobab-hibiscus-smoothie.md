@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Baobab hibiscus smoothie"
 title: "Step-by-Step Guide to Make Homemade Baobab hibiscus smoothie"
 slug: 2104-step-by-step-guide-to-make-homemade-baobab-hibiscus-smoothie
-date: 2022-03-29T12:02:56.072Z
+date: 2022-01-29T12:02:56.072Z
 image: https://img-global.cpcdn.com/recipes/9327b03763f83aad/680x482cq70/baobab-hibiscus-smoothie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9327b03763f83aad/680x482cq70/baobab-hibiscus-smoothie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9327b03763f83aad/680x482cq70/baobab-hibiscus-smoothie-recipe-main-photo.jpg

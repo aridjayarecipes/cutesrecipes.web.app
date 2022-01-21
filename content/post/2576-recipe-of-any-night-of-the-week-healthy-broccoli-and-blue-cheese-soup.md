@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Healthy Broccoli and Blue Cheese Soup!"
 title: "Recipe of Any-night-of-the-week Healthy Broccoli and Blue Cheese Soup!"
 slug: 2576-recipe-of-any-night-of-the-week-healthy-broccoli-and-blue-cheese-soup
-date: 2022-03-23T02:33:43.626Z
+date: 2022-01-23T02:33:43.626Z
 image: https://img-global.cpcdn.com/recipes/9979b1d19b2e23e6/680x482cq70/healthy-broccoli-and-blue-cheese-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9979b1d19b2e23e6/680x482cq70/healthy-broccoli-and-blue-cheese-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9979b1d19b2e23e6/680x482cq70/healthy-broccoli-and-blue-cheese-soup-recipe-main-photo.jpg

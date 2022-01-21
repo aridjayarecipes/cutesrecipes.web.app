@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Balsamic Cabbage Salad w/ Almonds"
 title: "Recipe of Perfect Balsamic Cabbage Salad w/ Almonds"
 slug: 2417-recipe-of-perfect-balsamic-cabbage-salad-w-almonds
-date: 2022-03-23T23:16:21.132Z
+date: 2022-01-23T23:16:21.132Z
 image: https://img-global.cpcdn.com/recipes/a3c4343f57be751d/680x482cq70/balsamic-cabbage-salad-w-almonds-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a3c4343f57be751d/680x482cq70/balsamic-cabbage-salad-w-almonds-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a3c4343f57be751d/680x482cq70/balsamic-cabbage-salad-w-almonds-recipe-main-photo.jpg

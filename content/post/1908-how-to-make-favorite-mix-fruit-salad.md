@@ -2,7 +2,7 @@
 description: "How to Make Favorite Mix fruit salad"
 title: "How to Make Favorite Mix fruit salad"
 slug: 1908-how-to-make-favorite-mix-fruit-salad
-date: 2022-03-19T07:04:51.896Z
+date: 2022-01-19T07:04:51.896Z
 image: https://img-global.cpcdn.com/recipes/1a23d7a7f96cdfcb/680x482cq70/mix-fruit-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1a23d7a7f96cdfcb/680x482cq70/mix-fruit-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1a23d7a7f96cdfcb/680x482cq70/mix-fruit-salad-recipe-main-photo.jpg

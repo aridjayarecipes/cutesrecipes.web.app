@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Perfect Sauteed pork and brussels sprouts in cream sauce"
 title: "Step-by-Step Guide to Prepare Perfect Sauteed pork and brussels sprouts in cream sauce"
 slug: 2069-step-by-step-guide-to-prepare-perfect-sauteed-pork-and-brussels-sprouts-in-cream-sauce
-date: 2022-03-20T13:48:29.463Z
+date: 2022-01-20T13:48:29.463Z
 image: https://img-global.cpcdn.com/recipes/5211871040765952/680x482cq70/sauteed-pork-and-brussels-sprouts-in-cream-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5211871040765952/680x482cq70/sauteed-pork-and-brussels-sprouts-in-cream-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5211871040765952/680x482cq70/sauteed-pork-and-brussels-sprouts-in-cream-sauce-recipe-main-photo.jpg

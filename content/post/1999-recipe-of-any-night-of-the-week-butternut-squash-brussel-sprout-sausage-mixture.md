@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Butternut squash, Brussel sprout sausage mixture"
 title: "Recipe of Any-night-of-the-week Butternut squash, Brussel sprout sausage mixture"
 slug: 1999-recipe-of-any-night-of-the-week-butternut-squash-brussel-sprout-sausage-mixture
-date: 2022-03-01T14:10:22.873Z
+date: 2022-01-01T14:10:22.873Z
 image: https://img-global.cpcdn.com/recipes/6037649738432512/680x482cq70/butternut-squash-brussel-sprout-sausage-mixture-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6037649738432512/680x482cq70/butternut-squash-brussel-sprout-sausage-mixture-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6037649738432512/680x482cq70/butternut-squash-brussel-sprout-sausage-mixture-recipe-main-photo.jpg

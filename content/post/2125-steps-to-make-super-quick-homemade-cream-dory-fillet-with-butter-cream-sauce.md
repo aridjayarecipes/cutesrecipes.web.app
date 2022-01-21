@@ -2,7 +2,7 @@
 description: "Steps to Make Super Quick Homemade Cream Dory Fillet with Butter Cream Sauce"
 title: "Steps to Make Super Quick Homemade Cream Dory Fillet with Butter Cream Sauce"
 slug: 2125-steps-to-make-super-quick-homemade-cream-dory-fillet-with-butter-cream-sauce
-date: 2022-03-25T23:36:26.494Z
+date: 2022-01-25T23:36:26.494Z
 image: https://img-global.cpcdn.com/recipes/34286170/680x482cq70/cream-dory-fillet-with-butter-cream-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/34286170/680x482cq70/cream-dory-fillet-with-butter-cream-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/34286170/680x482cq70/cream-dory-fillet-with-butter-cream-sauce-recipe-main-photo.jpg

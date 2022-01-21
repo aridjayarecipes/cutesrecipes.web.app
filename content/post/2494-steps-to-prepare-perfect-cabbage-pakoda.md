@@ -2,7 +2,7 @@
 description: "Steps to Prepare Perfect Cabbage pakoda"
 title: "Steps to Prepare Perfect Cabbage pakoda"
 slug: 2494-steps-to-prepare-perfect-cabbage-pakoda
-date: 2022-03-22T12:09:34.230Z
+date: 2022-01-22T12:09:34.230Z
 image: https://img-global.cpcdn.com/recipes/41f37baecd594636/680x482cq70/cabbage-pakoda-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/41f37baecd594636/680x482cq70/cabbage-pakoda-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/41f37baecd594636/680x482cq70/cabbage-pakoda-recipe-main-photo.jpg

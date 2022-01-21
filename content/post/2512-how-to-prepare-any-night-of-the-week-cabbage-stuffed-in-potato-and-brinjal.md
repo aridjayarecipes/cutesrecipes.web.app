@@ -2,7 +2,7 @@
 description: "How to Prepare Any-night-of-the-week Cabbage stuffed in potato and brinjal"
 title: "How to Prepare Any-night-of-the-week Cabbage stuffed in potato and brinjal"
 slug: 2512-how-to-prepare-any-night-of-the-week-cabbage-stuffed-in-potato-and-brinjal
-date: 2022-03-29T03:47:18.384Z
+date: 2022-01-29T03:47:18.384Z
 image: https://img-global.cpcdn.com/recipes/c803ee5641d1d61f/680x482cq70/cabbage-stuffed-in-potato-and-brinjal-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c803ee5641d1d61f/680x482cq70/cabbage-stuffed-in-potato-and-brinjal-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c803ee5641d1d61f/680x482cq70/cabbage-stuffed-in-potato-and-brinjal-recipe-main-photo.jpg

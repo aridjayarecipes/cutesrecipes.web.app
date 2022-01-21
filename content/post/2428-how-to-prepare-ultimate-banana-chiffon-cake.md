@@ -2,7 +2,7 @@
 description: "How to Prepare Ultimate Banana Chiffon Cake"
 title: "How to Prepare Ultimate Banana Chiffon Cake"
 slug: 2428-how-to-prepare-ultimate-banana-chiffon-cake
-date: 2022-03-16T22:26:45.749Z
+date: 2022-01-16T22:26:45.749Z
 image: https://img-global.cpcdn.com/recipes/5106b8d2e7060109/680x482cq70/banana-chiffon-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5106b8d2e7060109/680x482cq70/banana-chiffon-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5106b8d2e7060109/680x482cq70/banana-chiffon-cake-recipe-main-photo.jpg

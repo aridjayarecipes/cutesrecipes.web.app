@@ -2,7 +2,7 @@
 description: "How to Make Perfect Savoury Pumpkin Oatmeal Congee"
 title: "How to Make Perfect Savoury Pumpkin Oatmeal Congee"
 slug: 2129-how-to-make-perfect-savoury-pumpkin-oatmeal-congee
-date: 2022-03-08T13:06:32.638Z
+date: 2022-01-08T13:06:32.638Z
 image: https://img-global.cpcdn.com/recipes/7dc27dfb9ffbb154/680x482cq70/savoury-pumpkin-oatmeal-congee-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/7dc27dfb9ffbb154/680x482cq70/savoury-pumpkin-oatmeal-congee-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/7dc27dfb9ffbb154/680x482cq70/savoury-pumpkin-oatmeal-congee-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Homemade Mango and Raspberry Panna cotta"
 title: "How to Prepare Homemade Mango and Raspberry Panna cotta"
 slug: 2629-how-to-prepare-homemade-mango-and-raspberry-panna-cotta
-date: 2022-03-11T09:50:59.080Z
+date: 2022-01-11T09:50:59.080Z
 image: https://img-global.cpcdn.com/recipes/b837005159e527e5/680x482cq70/mango-and-raspberry-panna-cotta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b837005159e527e5/680x482cq70/mango-and-raspberry-panna-cotta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b837005159e527e5/680x482cq70/mango-and-raspberry-panna-cotta-recipe-main-photo.jpg

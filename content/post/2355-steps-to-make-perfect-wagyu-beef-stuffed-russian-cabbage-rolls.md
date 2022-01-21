@@ -2,7 +2,7 @@
 description: "Steps to Make Perfect Wagyu Beef Stuffed Russian Cabbage Rolls"
 title: "Steps to Make Perfect Wagyu Beef Stuffed Russian Cabbage Rolls"
 slug: 2355-steps-to-make-perfect-wagyu-beef-stuffed-russian-cabbage-rolls
-date: 2022-03-22T12:12:47.836Z
+date: 2022-01-22T12:12:47.836Z
 image: https://img-global.cpcdn.com/recipes/78f19617032127e9/680x482cq70/wagyu-beef-stuffed-russian-cabbage-rolls-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/78f19617032127e9/680x482cq70/wagyu-beef-stuffed-russian-cabbage-rolls-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/78f19617032127e9/680x482cq70/wagyu-beef-stuffed-russian-cabbage-rolls-recipe-main-photo.jpg

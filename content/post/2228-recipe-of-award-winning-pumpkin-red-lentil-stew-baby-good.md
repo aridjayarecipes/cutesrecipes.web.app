@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Pumpkin red lentil stew - baby good"
 title: "Recipe of Award-winning Pumpkin red lentil stew - baby good"
 slug: 2228-recipe-of-award-winning-pumpkin-red-lentil-stew-baby-good
-date: 2022-03-05T06:15:54.469Z
+date: 2022-01-05T06:15:54.469Z
 image: https://img-global.cpcdn.com/recipes/acb05160e295d522/680x482cq70/pumpkin-red-lentil-stew-baby-good-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/acb05160e295d522/680x482cq70/pumpkin-red-lentil-stew-baby-good-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/acb05160e295d522/680x482cq70/pumpkin-red-lentil-stew-baby-good-recipe-main-photo.jpg

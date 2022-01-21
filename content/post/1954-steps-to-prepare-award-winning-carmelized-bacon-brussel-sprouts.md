@@ -2,7 +2,7 @@
 description: "Steps to Prepare Award-winning Carmelized Bacon Brussel Sprouts"
 title: "Steps to Prepare Award-winning Carmelized Bacon Brussel Sprouts"
 slug: 1954-steps-to-prepare-award-winning-carmelized-bacon-brussel-sprouts
-date: 2022-03-06T00:41:03.591Z
+date: 2022-01-06T00:41:03.591Z
 image: https://img-global.cpcdn.com/recipes/64106ab0538928da/680x482cq70/carmelized-bacon-brussel-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/64106ab0538928da/680x482cq70/carmelized-bacon-brussel-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/64106ab0538928da/680x482cq70/carmelized-bacon-brussel-sprouts-recipe-main-photo.jpg

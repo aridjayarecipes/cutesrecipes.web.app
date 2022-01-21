@@ -2,7 +2,7 @@
 description: "How to Make Homemade Brussels Sprouts sauteed with garlic and red bell pepper"
 title: "How to Make Homemade Brussels Sprouts sauteed with garlic and red bell pepper"
 slug: 2071-how-to-make-homemade-brussels-sprouts-sauteed-with-garlic-and-red-bell-pepper
-date: 2022-03-28T17:41:08.962Z
+date: 2022-01-28T17:41:08.962Z
 image: https://img-global.cpcdn.com/recipes/6345830420185088/680x482cq70/brussels-sprouts-sauteed-with-garlic-and-red-bell-pepper-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6345830420185088/680x482cq70/brussels-sprouts-sauteed-with-garlic-and-red-bell-pepper-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6345830420185088/680x482cq70/brussels-sprouts-sauteed-with-garlic-and-red-bell-pepper-recipe-main-photo.jpg

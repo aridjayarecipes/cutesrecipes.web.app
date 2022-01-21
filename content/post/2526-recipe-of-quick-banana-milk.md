@@ -2,7 +2,7 @@
 description: "Recipe of Quick Banana Milk"
 title: "Recipe of Quick Banana Milk"
 slug: 2526-recipe-of-quick-banana-milk
-date: 2022-03-07T23:43:10.776Z
+date: 2022-01-07T23:43:10.776Z
 image: https://img-global.cpcdn.com/recipes/5385f56c177b41b1/680x482cq70/banana-milk-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5385f56c177b41b1/680x482cq70/banana-milk-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5385f56c177b41b1/680x482cq70/banana-milk-recipe-main-photo.jpg

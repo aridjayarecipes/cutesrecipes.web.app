@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Whole Wheat Pumpkin Waffles"
 title: "Recipe of Award-winning Whole Wheat Pumpkin Waffles"
 slug: 2272-recipe-of-award-winning-whole-wheat-pumpkin-waffles
-date: 2022-03-30T04:02:32.553Z
+date: 2022-01-30T04:02:32.553Z
 image: https://img-global.cpcdn.com/recipes/2afa987a130306c8/680x482cq70/whole-wheat-pumpkin-waffles-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2afa987a130306c8/680x482cq70/whole-wheat-pumpkin-waffles-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2afa987a130306c8/680x482cq70/whole-wheat-pumpkin-waffles-recipe-main-photo.jpg

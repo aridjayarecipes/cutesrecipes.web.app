@@ -2,7 +2,7 @@
 description: "How to Prepare Award-winning Alkaline - Blueberry Spelt Pancakes"
 title: "How to Prepare Award-winning Alkaline - Blueberry Spelt Pancakes"
 slug: 1725-how-to-prepare-award-winning-alkaline-blueberry-spelt-pancakes
-date: 2022-03-13T19:40:48.017Z
+date: 2022-01-13T19:40:48.017Z
 image: https://img-global.cpcdn.com/recipes/18b142fe5a485c45/680x482cq70/alkaline-blueberry-spelt-pancakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/18b142fe5a485c45/680x482cq70/alkaline-blueberry-spelt-pancakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/18b142fe5a485c45/680x482cq70/alkaline-blueberry-spelt-pancakes-recipe-main-photo.jpg

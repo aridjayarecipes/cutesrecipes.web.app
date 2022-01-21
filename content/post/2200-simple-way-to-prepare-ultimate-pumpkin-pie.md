@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate Pumpkin Pie"
 title: "Simple Way to Prepare Ultimate Pumpkin Pie"
 slug: 2200-simple-way-to-prepare-ultimate-pumpkin-pie
-date: 2022-03-25T01:22:01.759Z
+date: 2022-01-25T01:22:01.759Z
 image: https://img-global.cpcdn.com/recipes/76f7c30c95c6218c/680x482cq70/pumpkin-pie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/76f7c30c95c6218c/680x482cq70/pumpkin-pie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/76f7c30c95c6218c/680x482cq70/pumpkin-pie-recipe-main-photo.jpg

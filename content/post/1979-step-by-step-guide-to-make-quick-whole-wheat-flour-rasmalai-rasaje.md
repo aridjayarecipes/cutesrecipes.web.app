@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Quick Whole wheat flour rasmalai/rasaje"
 title: "Step-by-Step Guide to Make Quick Whole wheat flour rasmalai/rasaje"
 slug: 1979-step-by-step-guide-to-make-quick-whole-wheat-flour-rasmalai-rasaje
-date: 2022-03-24T16:00:12.755Z
+date: 2022-01-24T16:00:12.755Z
 image: https://img-global.cpcdn.com/recipes/f4bfb8fe25562da1/680x482cq70/whole-wheat-flour-rasmalairasaje-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f4bfb8fe25562da1/680x482cq70/whole-wheat-flour-rasmalairasaje-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f4bfb8fe25562da1/680x482cq70/whole-wheat-flour-rasmalairasaje-recipe-main-photo.jpg

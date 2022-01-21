@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Speedy Larb Salmon"
 title: "Step-by-Step Guide to Prepare Speedy Larb Salmon"
 slug: 1775-step-by-step-guide-to-prepare-speedy-larb-salmon
-date: 2022-03-04T22:51:05.184Z
+date: 2022-01-04T22:51:05.184Z
 image: https://img-global.cpcdn.com/recipes/549a7119c831a2c5/680x482cq70/larb-salmon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/549a7119c831a2c5/680x482cq70/larb-salmon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/549a7119c831a2c5/680x482cq70/larb-salmon-recipe-main-photo.jpg

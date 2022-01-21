@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Perfect My Granny&amp;#39;s Onigiri with Pickled Plum and Bonito Flakes"
 title: "Step-by-Step Guide to Make Perfect My Granny&amp;#39;s Onigiri with Pickled Plum and Bonito Flakes"
 slug: 2240-step-by-step-guide-to-make-perfect-my-granny-and-39-s-onigiri-with-pickled-plum-and-bonito-flakes
-date: 2022-03-03T10:23:20.805Z
+date: 2022-01-03T10:23:20.805Z
 image: https://img-global.cpcdn.com/recipes/5555648642154496/680x482cq70/my-grannys-onigiri-with-pickled-plum-and-bonito-flakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5555648642154496/680x482cq70/my-grannys-onigiri-with-pickled-plum-and-bonito-flakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5555648642154496/680x482cq70/my-grannys-onigiri-with-pickled-plum-and-bonito-flakes-recipe-main-photo.jpg

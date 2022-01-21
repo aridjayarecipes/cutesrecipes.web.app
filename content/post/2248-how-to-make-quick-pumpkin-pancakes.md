@@ -2,7 +2,7 @@
 description: "How to Make Quick Pumpkin Pancakes"
 title: "How to Make Quick Pumpkin Pancakes"
 slug: 2248-how-to-make-quick-pumpkin-pancakes
-date: 2022-03-18T10:13:53.235Z
+date: 2022-01-18T10:13:53.235Z
 image: https://img-global.cpcdn.com/recipes/7d9eb65e9bbf182e/680x482cq70/pumpkin-pancakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/7d9eb65e9bbf182e/680x482cq70/pumpkin-pancakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/7d9eb65e9bbf182e/680x482cq70/pumpkin-pancakes-recipe-main-photo.jpg

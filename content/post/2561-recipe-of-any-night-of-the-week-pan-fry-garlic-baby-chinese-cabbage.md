@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Pan Fry Garlic Baby Chinese Cabbage 蒜蓉炒娃娃菜"
 title: "Recipe of Any-night-of-the-week Pan Fry Garlic Baby Chinese Cabbage 蒜蓉炒娃娃菜"
 slug: 2561-recipe-of-any-night-of-the-week-pan-fry-garlic-baby-chinese-cabbage
-date: 2022-03-02T13:53:39.438Z
+date: 2022-01-02T13:53:39.438Z
 image: https://img-global.cpcdn.com/recipes/c42009fa992ca178/680x482cq70/pan-fry-garlic-baby-chinese-cabbage-蒜蓉炒娃娃菜-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c42009fa992ca178/680x482cq70/pan-fry-garlic-baby-chinese-cabbage-蒜蓉炒娃娃菜-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c42009fa992ca178/680x482cq70/pan-fry-garlic-baby-chinese-cabbage-蒜蓉炒娃娃菜-recipe-main-photo.jpg

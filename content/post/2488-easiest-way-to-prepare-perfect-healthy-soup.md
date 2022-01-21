@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Perfect Healthy Soup"
 title: "Easiest Way to Prepare Perfect Healthy Soup"
 slug: 2488-easiest-way-to-prepare-perfect-healthy-soup
-date: 2022-03-09T21:13:28.987Z
+date: 2022-01-09T21:13:28.987Z
 image: https://img-global.cpcdn.com/recipes/69377a963f7a6ed8/680x482cq70/healthy-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/69377a963f7a6ed8/680x482cq70/healthy-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/69377a963f7a6ed8/680x482cq70/healthy-soup-recipe-main-photo.jpg

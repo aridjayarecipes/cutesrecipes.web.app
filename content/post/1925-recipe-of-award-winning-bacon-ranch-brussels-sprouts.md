@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Bacon Ranch Brussels Sprouts"
 title: "Recipe of Award-winning Bacon Ranch Brussels Sprouts"
 slug: 1925-recipe-of-award-winning-bacon-ranch-brussels-sprouts
-date: 2022-03-31T21:53:03.916Z
+date: 2022-01-31T21:53:03.916Z
 image: https://img-global.cpcdn.com/recipes/e2c4ec54406c095d/680x482cq70/bacon-ranch-brussels-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e2c4ec54406c095d/680x482cq70/bacon-ranch-brussels-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e2c4ec54406c095d/680x482cq70/bacon-ranch-brussels-sprouts-recipe-main-photo.jpg

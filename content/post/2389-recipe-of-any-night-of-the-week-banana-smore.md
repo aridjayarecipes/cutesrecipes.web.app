@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Banana s’more"
 title: "Recipe of Any-night-of-the-week Banana s’more"
 slug: 2389-recipe-of-any-night-of-the-week-banana-smore
-date: 2022-03-30T23:51:44.791Z
+date: 2022-01-30T23:51:44.791Z
 image: https://img-global.cpcdn.com/recipes/ca18b8dc8185c0a3/680x482cq70/banana-smore-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ca18b8dc8185c0a3/680x482cq70/banana-smore-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ca18b8dc8185c0a3/680x482cq70/banana-smore-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Make Any-night-of-the-week Curd Rice"
 title: "Steps to Make Any-night-of-the-week Curd Rice"
 slug: 1984-steps-to-make-any-night-of-the-week-curd-rice
-date: 2022-03-20T11:08:42.029Z
+date: 2022-01-20T11:08:42.029Z
 image: https://img-global.cpcdn.com/recipes/333607c1559e9b3d/680x482cq70/curd-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/333607c1559e9b3d/680x482cq70/curd-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/333607c1559e9b3d/680x482cq70/curd-rice-recipe-main-photo.jpg

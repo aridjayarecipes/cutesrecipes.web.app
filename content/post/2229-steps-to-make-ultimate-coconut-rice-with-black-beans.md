@@ -2,7 +2,7 @@
 description: "Steps to Make Ultimate Coconut Rice with Black Beans"
 title: "Steps to Make Ultimate Coconut Rice with Black Beans"
 slug: 2229-steps-to-make-ultimate-coconut-rice-with-black-beans
-date: 2022-03-22T05:49:46.883Z
+date: 2022-01-22T05:49:46.883Z
 image: https://img-global.cpcdn.com/recipes/89549471cea094f9/680x482cq70/coconut-rice-with-black-beans-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/89549471cea094f9/680x482cq70/coconut-rice-with-black-beans-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/89549471cea094f9/680x482cq70/coconut-rice-with-black-beans-recipe-main-photo.jpg

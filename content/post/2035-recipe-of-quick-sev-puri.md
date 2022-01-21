@@ -2,7 +2,7 @@
 description: "Recipe of Quick Sev puri"
 title: "Recipe of Quick Sev puri"
 slug: 2035-recipe-of-quick-sev-puri
-date: 2022-03-07T04:27:29.233Z
+date: 2022-01-07T04:27:29.233Z
 image: https://img-global.cpcdn.com/recipes/8758b10da6007019/680x482cq70/sev-puri-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8758b10da6007019/680x482cq70/sev-puri-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8758b10da6007019/680x482cq70/sev-puri-recipe-main-photo.jpg

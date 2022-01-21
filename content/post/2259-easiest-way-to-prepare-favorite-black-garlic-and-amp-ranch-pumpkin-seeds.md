@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Favorite Black Garlic &amp;amp; Ranch Pumpkin Seeds"
 title: "Easiest Way to Prepare Favorite Black Garlic &amp;amp; Ranch Pumpkin Seeds"
 slug: 2259-easiest-way-to-prepare-favorite-black-garlic-and-amp-ranch-pumpkin-seeds
-date: 2022-03-03T11:54:02.315Z
+date: 2022-01-03T11:54:02.315Z
 image: https://img-global.cpcdn.com/recipes/66fc5eedfc53e971/680x482cq70/black-garlic-ranch-pumpkin-seeds-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/66fc5eedfc53e971/680x482cq70/black-garlic-ranch-pumpkin-seeds-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/66fc5eedfc53e971/680x482cq70/black-garlic-ranch-pumpkin-seeds-recipe-main-photo.jpg

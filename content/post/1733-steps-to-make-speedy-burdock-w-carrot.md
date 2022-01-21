@@ -2,7 +2,7 @@
 description: "Steps to Make Speedy Burdock w/ Carrot"
 title: "Steps to Make Speedy Burdock w/ Carrot"
 slug: 1733-steps-to-make-speedy-burdock-w-carrot
-date: 2022-03-29T13:52:17.210Z
+date: 2022-01-29T13:52:17.210Z
 image: https://img-global.cpcdn.com/recipes/e501048f54b00c01/680x482cq70/burdock-w-carrot-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e501048f54b00c01/680x482cq70/burdock-w-carrot-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e501048f54b00c01/680x482cq70/burdock-w-carrot-recipe-main-photo.jpg

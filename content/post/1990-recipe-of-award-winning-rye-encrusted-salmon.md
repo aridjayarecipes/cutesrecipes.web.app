@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Rye encrusted salmon"
 title: "Recipe of Award-winning Rye encrusted salmon"
 slug: 1990-recipe-of-award-winning-rye-encrusted-salmon
-date: 2022-03-06T21:57:57.408Z
+date: 2022-01-06T21:57:57.408Z
 image: https://img-global.cpcdn.com/recipes/5f7ab682b32bb014/680x482cq70/rye-encrusted-salmon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5f7ab682b32bb014/680x482cq70/rye-encrusted-salmon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5f7ab682b32bb014/680x482cq70/rye-encrusted-salmon-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Ladybirds Mini Quiches ."
 title: "Recipe of Speedy Ladybirds Mini Quiches ."
 slug: 1752-recipe-of-speedy-ladybirds-mini-quiches
-date: 2022-03-02T15:40:54.433Z
+date: 2022-01-02T15:40:54.433Z
 image: https://img-global.cpcdn.com/recipes/6513926447562752/680x482cq70/ladybirds-mini-quiches-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6513926447562752/680x482cq70/ladybirds-mini-quiches-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6513926447562752/680x482cq70/ladybirds-mini-quiches-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Fried Pumpkin Seeds"
 title: "Recipe of Super Quick Homemade Fried Pumpkin Seeds"
 slug: 2131-recipe-of-super-quick-homemade-fried-pumpkin-seeds
-date: 2022-03-28T01:01:53.145Z
+date: 2022-01-28T01:01:53.145Z
 image: https://img-global.cpcdn.com/recipes/c78403aebd757e0b/680x482cq70/fried-pumpkin-seeds-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c78403aebd757e0b/680x482cq70/fried-pumpkin-seeds-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c78403aebd757e0b/680x482cq70/fried-pumpkin-seeds-recipe-main-photo.jpg

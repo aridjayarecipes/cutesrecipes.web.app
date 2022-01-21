@@ -2,7 +2,7 @@
 description: "How to Prepare Ultimate Whiskey Caramel and Banana Self-saucing Pudding"
 title: "How to Prepare Ultimate Whiskey Caramel and Banana Self-saucing Pudding"
 slug: 2383-how-to-prepare-ultimate-whiskey-caramel-and-banana-self-saucing-pudding
-date: 2022-03-18T23:05:46.581Z
+date: 2022-01-18T23:05:46.581Z
 image: https://img-global.cpcdn.com/recipes/92d42f648ab675f2/680x482cq70/whiskey-caramel-and-banana-self-saucing-pudding-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/92d42f648ab675f2/680x482cq70/whiskey-caramel-and-banana-self-saucing-pudding-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/92d42f648ab675f2/680x482cq70/whiskey-caramel-and-banana-self-saucing-pudding-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Spaghetti Clam/Mussels with Garlic and Chilli 白酒蒜辣海鮮意粉"
 title: "Recipe of Any-night-of-the-week Spaghetti Clam/Mussels with Garlic and Chilli 白酒蒜辣海鮮意粉"
 slug: 1730-recipe-of-any-night-of-the-week-spaghetti-clam-mussels-with-garlic-and-chilli
-date: 2022-03-09T01:45:20.511Z
+date: 2022-01-09T01:45:20.511Z
 image: https://img-global.cpcdn.com/recipes/88c61b761ee319f6/680x482cq70/spaghetti-clammussels-with-garlic-and-chilli-白酒蒜辣海鮮意粉-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/88c61b761ee319f6/680x482cq70/spaghetti-clammussels-with-garlic-and-chilli-白酒蒜辣海鮮意粉-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/88c61b761ee319f6/680x482cq70/spaghetti-clammussels-with-garlic-and-chilli-白酒蒜辣海鮮意粉-recipe-main-photo.jpg

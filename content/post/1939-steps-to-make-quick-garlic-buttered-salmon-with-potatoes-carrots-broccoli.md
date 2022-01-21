@@ -2,7 +2,7 @@
 description: "Steps to Make Quick Garlic Buttered Salmon with Potatoes, Carrots, Broccoli !"
 title: "Steps to Make Quick Garlic Buttered Salmon with Potatoes, Carrots, Broccoli !"
 slug: 1939-steps-to-make-quick-garlic-buttered-salmon-with-potatoes-carrots-broccoli
-date: 2022-03-17T07:26:45.213Z
+date: 2022-01-17T07:26:45.213Z
 image: https://img-global.cpcdn.com/recipes/b4c96cc708937eb4/680x482cq70/garlic-buttered-salmon-with-potatoes-carrots-broccoli-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b4c96cc708937eb4/680x482cq70/garlic-buttered-salmon-with-potatoes-carrots-broccoli-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b4c96cc708937eb4/680x482cq70/garlic-buttered-salmon-with-potatoes-carrots-broccoli-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Colorful Cod Fillets Sauteed and Steamed with Consommé and Butter"
 title: "Easiest Way to Make Quick Colorful Cod Fillets Sauteed and Steamed with Consommé and Butter"
 slug: 2087-easiest-way-to-make-quick-colorful-cod-fillets-sauteed-and-steamed-with-consomme-and-butter
-date: 2022-03-02T23:31:34.493Z
+date: 2022-01-02T23:31:34.493Z
 image: https://img-global.cpcdn.com/recipes/6535637097250816/680x482cq70/colorful-cod-fillets-sauteed-and-steamed-with-consomme-and-butter-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6535637097250816/680x482cq70/colorful-cod-fillets-sauteed-and-steamed-with-consomme-and-butter-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6535637097250816/680x482cq70/colorful-cod-fillets-sauteed-and-steamed-with-consomme-and-butter-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Perfect Kashmiri Chai"
 title: "How to Prepare Perfect Kashmiri Chai"
 slug: 2076-how-to-prepare-perfect-kashmiri-chai
-date: 2022-03-22T02:23:35.232Z
+date: 2022-01-22T02:23:35.232Z
 image: https://img-global.cpcdn.com/recipes/13c635cfb0d2914d/680x482cq70/kashmiri-chai-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/13c635cfb0d2914d/680x482cq70/kashmiri-chai-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/13c635cfb0d2914d/680x482cq70/kashmiri-chai-recipe-main-photo.jpg

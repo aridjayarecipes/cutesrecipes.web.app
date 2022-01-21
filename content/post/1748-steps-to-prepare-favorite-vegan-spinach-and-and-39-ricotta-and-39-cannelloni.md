@@ -2,7 +2,7 @@
 description: "Steps to Prepare Favorite Vegan Spinach and &amp;#39;Ricotta&amp;#39; Cannelloni"
 title: "Steps to Prepare Favorite Vegan Spinach and &amp;#39;Ricotta&amp;#39; Cannelloni"
 slug: 1748-steps-to-prepare-favorite-vegan-spinach-and-and-39-ricotta-and-39-cannelloni
-date: 2022-03-27T15:18:46.597Z
+date: 2022-01-27T15:18:46.597Z
 image: https://img-global.cpcdn.com/recipes/6c2e850e291126cc/680x482cq70/vegan-spinach-and-ricotta-cannelloni-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6c2e850e291126cc/680x482cq70/vegan-spinach-and-ricotta-cannelloni-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6c2e850e291126cc/680x482cq70/vegan-spinach-and-ricotta-cannelloni-recipe-main-photo.jpg

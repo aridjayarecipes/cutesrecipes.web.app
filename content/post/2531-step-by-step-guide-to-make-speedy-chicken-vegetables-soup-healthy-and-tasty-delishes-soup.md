@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Speedy Chicken vegetables soup healthy and tasty delishes soup"
 title: "Step-by-Step Guide to Make Speedy Chicken vegetables soup healthy and tasty delishes soup"
 slug: 2531-step-by-step-guide-to-make-speedy-chicken-vegetables-soup-healthy-and-tasty-delishes-soup
-date: 2022-03-06T13:58:22.258Z
+date: 2022-01-06T13:58:22.258Z
 image: https://img-global.cpcdn.com/recipes/a4dd4fe0f1b1a2d4/680x482cq70/chicken-vegetables-soup-healthy-and-tasty-delishes-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a4dd4fe0f1b1a2d4/680x482cq70/chicken-vegetables-soup-healthy-and-tasty-delishes-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a4dd4fe0f1b1a2d4/680x482cq70/chicken-vegetables-soup-healthy-and-tasty-delishes-soup-recipe-main-photo.jpg

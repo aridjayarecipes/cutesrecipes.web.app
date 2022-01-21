@@ -2,7 +2,7 @@
 description: "How to Prepare Favorite Plum Cake"
 title: "How to Prepare Favorite Plum Cake"
 slug: 2145-how-to-prepare-favorite-plum-cake
-date: 2022-03-28T23:25:41.205Z
+date: 2022-01-28T23:25:41.205Z
 image: https://img-global.cpcdn.com/recipes/c5b22ef1610d4d2d/680x482cq70/plum-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c5b22ef1610d4d2d/680x482cq70/plum-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c5b22ef1610d4d2d/680x482cq70/plum-cake-recipe-main-photo.jpg

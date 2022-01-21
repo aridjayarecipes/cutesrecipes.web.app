@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Baked Salmon with Dijon Mustard and Chives"
 title: "Recipe of Ultimate Baked Salmon with Dijon Mustard and Chives"
 slug: 1790-recipe-of-ultimate-baked-salmon-with-dijon-mustard-and-chives
-date: 2022-03-23T06:47:38.557Z
+date: 2022-01-23T06:47:38.557Z
 image: https://img-global.cpcdn.com/recipes/e5e21a95c2a7e393/680x482cq70/baked-salmon-with-dijon-mustard-and-chives-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e5e21a95c2a7e393/680x482cq70/baked-salmon-with-dijon-mustard-and-chives-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e5e21a95c2a7e393/680x482cq70/baked-salmon-with-dijon-mustard-and-chives-recipe-main-photo.jpg

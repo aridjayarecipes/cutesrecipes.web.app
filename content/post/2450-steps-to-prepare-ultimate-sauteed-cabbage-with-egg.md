@@ -2,7 +2,7 @@
 description: "Steps to Prepare Ultimate Sauteed Cabbage with Egg 🍛"
 title: "Steps to Prepare Ultimate Sauteed Cabbage with Egg 🍛"
 slug: 2450-steps-to-prepare-ultimate-sauteed-cabbage-with-egg
-date: 2022-03-10T15:13:07.293Z
+date: 2022-01-10T15:13:07.293Z
 image: https://img-global.cpcdn.com/recipes/59f84d83f75cc1f3/680x482cq70/sauteed-cabbage-with-egg-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/59f84d83f75cc1f3/680x482cq70/sauteed-cabbage-with-egg-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/59f84d83f75cc1f3/680x482cq70/sauteed-cabbage-with-egg-recipe-main-photo.jpg

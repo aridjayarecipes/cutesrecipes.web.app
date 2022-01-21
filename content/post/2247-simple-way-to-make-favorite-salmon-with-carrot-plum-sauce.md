@@ -2,7 +2,7 @@
 description: "Simple Way to Make Favorite Salmon With Carrot Plum Sauce"
 title: "Simple Way to Make Favorite Salmon With Carrot Plum Sauce"
 slug: 2247-simple-way-to-make-favorite-salmon-with-carrot-plum-sauce
-date: 2022-03-11T07:47:10.255Z
+date: 2022-01-11T07:47:10.255Z
 image: https://img-global.cpcdn.com/recipes/5787235260563456/680x482cq70/salmon-with-carrot-plum-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5787235260563456/680x482cq70/salmon-with-carrot-plum-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5787235260563456/680x482cq70/salmon-with-carrot-plum-sauce-recipe-main-photo.jpg

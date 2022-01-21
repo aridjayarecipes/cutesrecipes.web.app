@@ -2,7 +2,7 @@
 description: "Simple Way to Make Speedy Plum juice"
 title: "Simple Way to Make Speedy Plum juice"
 slug: 2179-simple-way-to-make-speedy-plum-juice
-date: 2022-03-11T18:09:09.295Z
+date: 2022-01-11T18:09:09.295Z
 image: https://img-global.cpcdn.com/recipes/f78f26b7650dcf0a/680x482cq70/plum-juice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f78f26b7650dcf0a/680x482cq70/plum-juice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f78f26b7650dcf0a/680x482cq70/plum-juice-recipe-main-photo.jpg

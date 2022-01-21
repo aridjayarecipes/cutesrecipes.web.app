@@ -2,7 +2,7 @@
 description: "How to Make Quick Minty lamb steaks"
 title: "How to Make Quick Minty lamb steaks"
 slug: 2600-how-to-make-quick-minty-lamb-steaks
-date: 2022-03-14T22:25:47.480Z
+date: 2022-01-14T22:25:47.480Z
 image: https://img-global.cpcdn.com/recipes/6530102067200000/680x482cq70/minty-lamb-steaks-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6530102067200000/680x482cq70/minty-lamb-steaks-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6530102067200000/680x482cq70/minty-lamb-steaks-recipe-main-photo.jpg

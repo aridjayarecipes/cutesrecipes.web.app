@@ -2,7 +2,7 @@
 description: "Recipe of Speedy European grilled carrots"
 title: "Recipe of Speedy European grilled carrots"
 slug: 1867-recipe-of-speedy-european-grilled-carrots
-date: 2022-03-19T18:43:10.972Z
+date: 2022-01-19T18:43:10.972Z
 image: https://img-global.cpcdn.com/recipes/a41ddbc846ecff66/680x482cq70/european-grilled-carrots-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a41ddbc846ecff66/680x482cq70/european-grilled-carrots-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a41ddbc846ecff66/680x482cq70/european-grilled-carrots-recipe-main-photo.jpg

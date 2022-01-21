@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Any-night-of-the-week Piazza&amp;#39;s red plums jam"
 title: "Simple Way to Prepare Any-night-of-the-week Piazza&amp;#39;s red plums jam"
 slug: 2228-simple-way-to-prepare-any-night-of-the-week-piazza-and-39-s-red-plums-jam
-date: 2022-03-03T12:19:26.415Z
+date: 2022-01-03T12:19:26.415Z
 image: https://img-global.cpcdn.com/recipes/5050235801829376/680x482cq70/piazzas-red-plums-jam-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5050235801829376/680x482cq70/piazzas-red-plums-jam-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5050235801829376/680x482cq70/piazzas-red-plums-jam-recipe-main-photo.jpg

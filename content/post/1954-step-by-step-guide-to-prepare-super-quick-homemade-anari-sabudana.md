@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Super Quick Homemade Anari sabudana"
 title: "Step-by-Step Guide to Prepare Super Quick Homemade Anari sabudana"
 slug: 1954-step-by-step-guide-to-prepare-super-quick-homemade-anari-sabudana
-date: 2022-03-26T19:07:16.774Z
+date: 2022-01-26T19:07:16.774Z
 image: https://img-global.cpcdn.com/recipes/675f540d9746ce6d/680x482cq70/anari-sabudana-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/675f540d9746ce6d/680x482cq70/anari-sabudana-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/675f540d9746ce6d/680x482cq70/anari-sabudana-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Favorite Chocolate pumpkin muffins"
 title: "How to Prepare Favorite Chocolate pumpkin muffins"
 slug: 2349-how-to-prepare-favorite-chocolate-pumpkin-muffins
-date: 2022-03-30T16:36:13.038Z
+date: 2022-01-30T16:36:13.038Z
 image: https://img-global.cpcdn.com/recipes/37f9035865157734/680x482cq70/chocolate-pumpkin-muffins-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/37f9035865157734/680x482cq70/chocolate-pumpkin-muffins-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/37f9035865157734/680x482cq70/chocolate-pumpkin-muffins-recipe-main-photo.jpg

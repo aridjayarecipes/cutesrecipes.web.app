@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Leftovers Makeover: Roast Salmon Salad Sandwich"
 title: "Easiest Way to Make Speedy Leftovers Makeover: Roast Salmon Salad Sandwich"
 slug: 1970-easiest-way-to-make-speedy-leftovers-makeover-roast-salmon-salad-sandwich
-date: 2022-03-17T06:13:43.483Z
+date: 2022-01-17T06:13:43.483Z
 image: https://img-global.cpcdn.com/recipes/af87bdfa25156c6c/680x482cq70/leftovers-makeover-roast-salmon-salad-sandwich-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/af87bdfa25156c6c/680x482cq70/leftovers-makeover-roast-salmon-salad-sandwich-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/af87bdfa25156c6c/680x482cq70/leftovers-makeover-roast-salmon-salad-sandwich-recipe-main-photo.jpg

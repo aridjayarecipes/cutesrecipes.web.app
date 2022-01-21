@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Any-night-of-the-week Vickys Quinoa with Carrot, Hazelnut &amp;amp; Pomegranate, GF DF EF SF"
 title: "Step-by-Step Guide to Prepare Any-night-of-the-week Vickys Quinoa with Carrot, Hazelnut &amp;amp; Pomegranate, GF DF EF SF"
 slug: 1882-step-by-step-guide-to-prepare-any-night-of-the-week-vickys-quinoa-with-carrot-hazelnut-and-amp-pomegranate-gf-df-ef-sf
-date: 2022-03-09T15:30:08.042Z
+date: 2022-01-09T15:30:08.042Z
 image: https://img-global.cpcdn.com/recipes/48460459/680x482cq70/vickys-quinoa-with-carrot-hazelnut-pomegranate-gf-df-ef-sf-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/48460459/680x482cq70/vickys-quinoa-with-carrot-hazelnut-pomegranate-gf-df-ef-sf-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/48460459/680x482cq70/vickys-quinoa-with-carrot-hazelnut-pomegranate-gf-df-ef-sf-recipe-main-photo.jpg

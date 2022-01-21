@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Clam Soup with Ginger and Umeboshi broth"
 title: "Recipe of Favorite Clam Soup with Ginger and Umeboshi broth"
 slug: 2257-recipe-of-favorite-clam-soup-with-ginger-and-umeboshi-broth
-date: 2022-03-05T07:21:57.004Z
+date: 2022-01-05T07:21:57.004Z
 image: https://img-global.cpcdn.com/recipes/ae657ce8d621e7f8/680x482cq70/clam-soup-with-ginger-and-umeboshi-broth-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ae657ce8d621e7f8/680x482cq70/clam-soup-with-ginger-and-umeboshi-broth-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ae657ce8d621e7f8/680x482cq70/clam-soup-with-ginger-and-umeboshi-broth-recipe-main-photo.jpg

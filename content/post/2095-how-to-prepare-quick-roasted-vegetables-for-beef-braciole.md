@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Roasted Vegetables for Beef Braciole"
 title: "How to Prepare Quick Roasted Vegetables for Beef Braciole"
 slug: 2095-how-to-prepare-quick-roasted-vegetables-for-beef-braciole
-date: 2022-03-22T13:09:30.577Z
+date: 2022-01-22T13:09:30.577Z
 image: https://img-global.cpcdn.com/recipes/79043a65dbe12cc5/680x482cq70/roasted-vegetables-for-beef-braciole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/79043a65dbe12cc5/680x482cq70/roasted-vegetables-for-beef-braciole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/79043a65dbe12cc5/680x482cq70/roasted-vegetables-for-beef-braciole-recipe-main-photo.jpg

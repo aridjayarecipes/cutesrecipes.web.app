@@ -2,7 +2,7 @@
 description: "How to Make Speedy Grilled Salmon Tacos w/ Jalapeño Pomegranate Salsa"
 title: "How to Make Speedy Grilled Salmon Tacos w/ Jalapeño Pomegranate Salsa"
 slug: 1828-how-to-make-speedy-grilled-salmon-tacos-w-jalapeno-pomegranate-salsa
-date: 2022-03-18T05:45:01.522Z
+date: 2022-01-18T05:45:01.522Z
 image: https://img-global.cpcdn.com/recipes/5d50b38e80cd1627/680x482cq70/grilled-salmon-tacos-w-jalapeno-pomegranate-salsa-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5d50b38e80cd1627/680x482cq70/grilled-salmon-tacos-w-jalapeno-pomegranate-salsa-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5d50b38e80cd1627/680x482cq70/grilled-salmon-tacos-w-jalapeno-pomegranate-salsa-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Any-night-of-the-week Aloo makhana chaat tacos"
 title: "Easiest Way to Prepare Any-night-of-the-week Aloo makhana chaat tacos"
 slug: 1928-easiest-way-to-prepare-any-night-of-the-week-aloo-makhana-chaat-tacos
-date: 2022-03-29T05:11:49.617Z
+date: 2022-01-29T05:11:49.617Z
 image: https://img-global.cpcdn.com/recipes/ea1040b5d09f9421/680x482cq70/aloo-makhana-chaat-tacos-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ea1040b5d09f9421/680x482cq70/aloo-makhana-chaat-tacos-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ea1040b5d09f9421/680x482cq70/aloo-makhana-chaat-tacos-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Prepare Perfect Blueberry flower swiss roll"
 title: "Steps to Prepare Perfect Blueberry flower swiss roll"
 slug: 1711-steps-to-prepare-perfect-blueberry-flower-swiss-roll
-date: 2022-03-03T06:16:57.320Z
+date: 2022-01-03T06:16:57.320Z
 image: https://img-global.cpcdn.com/recipes/f36cb3f2e727b648/680x482cq70/blueberry-flower-swiss-roll-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f36cb3f2e727b648/680x482cq70/blueberry-flower-swiss-roll-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f36cb3f2e727b648/680x482cq70/blueberry-flower-swiss-roll-recipe-main-photo.jpg

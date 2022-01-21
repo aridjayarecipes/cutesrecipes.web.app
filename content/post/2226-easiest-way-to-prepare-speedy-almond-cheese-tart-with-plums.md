@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Speedy Almond Cheese Tart with Plums"
 title: "Easiest Way to Prepare Speedy Almond Cheese Tart with Plums"
 slug: 2226-easiest-way-to-prepare-speedy-almond-cheese-tart-with-plums
-date: 2022-03-03T18:10:23.292Z
+date: 2022-01-03T18:10:23.292Z
 image: https://img-global.cpcdn.com/recipes/5830524978331648/680x482cq70/almond-cheese-tart-with-plums-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5830524978331648/680x482cq70/almond-cheese-tart-with-plums-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5830524978331648/680x482cq70/almond-cheese-tart-with-plums-recipe-main-photo.jpg

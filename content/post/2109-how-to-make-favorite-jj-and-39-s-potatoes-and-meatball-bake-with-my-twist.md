@@ -2,7 +2,7 @@
 description: "How to Make Favorite JJ&amp;#39;s Potatoes and Meatball Bake🥔-with my twist🥔🥔🥔🥔🥔🥔🥔🥔"
 title: "How to Make Favorite JJ&amp;#39;s Potatoes and Meatball Bake🥔-with my twist🥔🥔🥔🥔🥔🥔🥔🥔"
 slug: 2109-how-to-make-favorite-jj-and-39-s-potatoes-and-meatball-bake-with-my-twist
-date: 2022-03-09T21:10:12.019Z
+date: 2022-01-09T21:10:12.019Z
 image: https://img-global.cpcdn.com/recipes/573a9002e87d9c59/680x482cq70/jjs-potatoes-and-meatball-bake-with-my-twist-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/573a9002e87d9c59/680x482cq70/jjs-potatoes-and-meatball-bake-with-my-twist-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/573a9002e87d9c59/680x482cq70/jjs-potatoes-and-meatball-bake-with-my-twist-recipe-main-photo.jpg

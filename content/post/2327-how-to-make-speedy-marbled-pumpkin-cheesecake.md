@@ -2,7 +2,7 @@
 description: "How to Make Speedy Marbled Pumpkin Cheesecake"
 title: "How to Make Speedy Marbled Pumpkin Cheesecake"
 slug: 2327-how-to-make-speedy-marbled-pumpkin-cheesecake
-date: 2022-03-03T03:24:28.360Z
+date: 2022-01-03T03:24:28.360Z
 image: https://img-global.cpcdn.com/recipes/c9bc3d3f10b06dc4/680x482cq70/marbled-pumpkin-cheesecake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c9bc3d3f10b06dc4/680x482cq70/marbled-pumpkin-cheesecake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c9bc3d3f10b06dc4/680x482cq70/marbled-pumpkin-cheesecake-recipe-main-photo.jpg

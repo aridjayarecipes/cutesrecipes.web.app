@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Soulé Chili Mac"
 title: "Recipe of Perfect Soulé Chili Mac"
 slug: 2096-recipe-of-perfect-soule-chili-mac
-date: 2022-03-17T06:01:29.899Z
+date: 2022-01-17T06:01:29.899Z
 image: https://img-global.cpcdn.com/recipes/9c3748aaf15eef78/680x482cq70/soule-chili-mac-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9c3748aaf15eef78/680x482cq70/soule-chili-mac-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9c3748aaf15eef78/680x482cq70/soule-chili-mac-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Grilled Salmon with chopped kale salad"
 title: "Recipe of Speedy Grilled Salmon with chopped kale salad"
 slug: 1792-recipe-of-speedy-grilled-salmon-with-chopped-kale-salad
-date: 2022-03-15T01:40:00.511Z
+date: 2022-01-15T01:40:00.511Z
 image: https://img-global.cpcdn.com/recipes/8987d84a06210f78/680x482cq70/grilled-salmon-with-chopped-kale-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8987d84a06210f78/680x482cq70/grilled-salmon-with-chopped-kale-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8987d84a06210f78/680x482cq70/grilled-salmon-with-chopped-kale-salad-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Pomegranate And Grape Jello Salad With Smoked Salmon"
 title: "Step-by-Step Guide to Make Homemade Pomegranate And Grape Jello Salad With Smoked Salmon"
 slug: 1875-step-by-step-guide-to-make-homemade-pomegranate-and-grape-jello-salad-with-smoked-salmon
-date: 2022-03-03T10:21:39.330Z
+date: 2022-01-03T10:21:39.330Z
 image: https://img-global.cpcdn.com/recipes/4769531301986304/680x482cq70/pomegranate-and-grape-jello-salad-with-smoked-salmon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4769531301986304/680x482cq70/pomegranate-and-grape-jello-salad-with-smoked-salmon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4769531301986304/680x482cq70/pomegranate-and-grape-jello-salad-with-smoked-salmon-recipe-main-photo.jpg

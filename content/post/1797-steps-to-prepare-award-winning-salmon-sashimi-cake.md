@@ -2,7 +2,7 @@
 description: "Steps to Prepare Award-winning Salmon Sashimi Cake"
 title: "Steps to Prepare Award-winning Salmon Sashimi Cake"
 slug: 1797-steps-to-prepare-award-winning-salmon-sashimi-cake
-date: 2022-03-18T14:41:42.974Z
+date: 2022-01-18T14:41:42.974Z
 image: https://img-global.cpcdn.com/recipes/2f7fb5afa33f9a94/680x482cq70/salmon-sashimi-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2f7fb5afa33f9a94/680x482cq70/salmon-sashimi-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2f7fb5afa33f9a94/680x482cq70/salmon-sashimi-cake-recipe-main-photo.jpg

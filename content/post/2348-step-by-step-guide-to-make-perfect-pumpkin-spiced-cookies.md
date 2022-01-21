@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Perfect Pumpkin Spiced Cookies"
 title: "Step-by-Step Guide to Make Perfect Pumpkin Spiced Cookies"
 slug: 2348-step-by-step-guide-to-make-perfect-pumpkin-spiced-cookies
-date: 2022-03-09T23:54:41.288Z
+date: 2022-01-09T23:54:41.288Z
 image: https://img-global.cpcdn.com/recipes/35c916b95fa14da4/680x482cq70/pumpkin-spiced-cookies-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/35c916b95fa14da4/680x482cq70/pumpkin-spiced-cookies-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/35c916b95fa14da4/680x482cq70/pumpkin-spiced-cookies-recipe-main-photo.jpg

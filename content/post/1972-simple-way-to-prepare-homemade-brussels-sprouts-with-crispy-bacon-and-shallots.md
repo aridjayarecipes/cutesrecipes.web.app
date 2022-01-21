@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Homemade Brussels Sprouts with Crispy Bacon and Shallots"
 title: "Simple Way to Prepare Homemade Brussels Sprouts with Crispy Bacon and Shallots"
 slug: 1972-simple-way-to-prepare-homemade-brussels-sprouts-with-crispy-bacon-and-shallots
-date: 2022-03-20T05:19:23.469Z
+date: 2022-01-20T05:19:23.469Z
 image: https://img-global.cpcdn.com/recipes/3f49c912d48b8c96/680x482cq70/brussels-sprouts-with-crispy-bacon-and-shallots-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3f49c912d48b8c96/680x482cq70/brussels-sprouts-with-crispy-bacon-and-shallots-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3f49c912d48b8c96/680x482cq70/brussels-sprouts-with-crispy-bacon-and-shallots-recipe-main-photo.jpg

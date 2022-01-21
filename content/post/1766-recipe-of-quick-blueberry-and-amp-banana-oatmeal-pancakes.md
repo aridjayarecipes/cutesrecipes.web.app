@@ -2,7 +2,7 @@
 description: "Recipe of Quick Blueberry &amp;amp; Banana Oatmeal Pancakes"
 title: "Recipe of Quick Blueberry &amp;amp; Banana Oatmeal Pancakes"
 slug: 1766-recipe-of-quick-blueberry-and-amp-banana-oatmeal-pancakes
-date: 2022-03-23T04:40:35.636Z
+date: 2022-01-23T04:40:35.636Z
 image: https://img-global.cpcdn.com/recipes/ce48f951e92fa1d9/680x482cq70/blueberry-banana-oatmeal-pancakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ce48f951e92fa1d9/680x482cq70/blueberry-banana-oatmeal-pancakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ce48f951e92fa1d9/680x482cq70/blueberry-banana-oatmeal-pancakes-recipe-main-photo.jpg

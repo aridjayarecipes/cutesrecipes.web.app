@@ -2,7 +2,7 @@
 description: "Steps to Make Perfect salmon fillet in herb butter with creamy mash &amp;amp; vegetables (serves 2)"
 title: "Steps to Make Perfect salmon fillet in herb butter with creamy mash &amp;amp; vegetables (serves 2)"
 slug: 2129-steps-to-make-perfect-salmon-fillet-in-herb-butter-with-creamy-mash-and-amp-vegetables-serves-2
-date: 2022-03-20T10:31:27.672Z
+date: 2022-01-20T10:31:27.672Z
 image: https://img-global.cpcdn.com/recipes/22505369/680x482cq70/salmon-fillet-in-herb-butter-with-creamy-mash-vegetables-serves-2-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/22505369/680x482cq70/salmon-fillet-in-herb-butter-with-creamy-mash-vegetables-serves-2-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/22505369/680x482cq70/salmon-fillet-in-herb-butter-with-creamy-mash-vegetables-serves-2-recipe-main-photo.jpg

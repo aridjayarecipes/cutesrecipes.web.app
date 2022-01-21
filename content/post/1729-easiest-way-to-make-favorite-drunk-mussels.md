@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Favorite Drunk mussels"
 title: "Easiest Way to Make Favorite Drunk mussels"
 slug: 1729-easiest-way-to-make-favorite-drunk-mussels
-date: 2022-03-22T19:37:49.237Z
+date: 2022-01-22T19:37:49.237Z
 image: https://img-global.cpcdn.com/recipes/61aacc71ccd8fd8d/680x482cq70/drunk-mussels-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/61aacc71ccd8fd8d/680x482cq70/drunk-mussels-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/61aacc71ccd8fd8d/680x482cq70/drunk-mussels-recipe-main-photo.jpg

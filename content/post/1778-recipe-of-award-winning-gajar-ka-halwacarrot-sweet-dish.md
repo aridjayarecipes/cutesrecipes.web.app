@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Gajar Ka Halwa😊(Carrot Sweet Dish)"
 title: "Recipe of Award-winning Gajar Ka Halwa😊(Carrot Sweet Dish)"
 slug: 1778-recipe-of-award-winning-gajar-ka-halwacarrot-sweet-dish
-date: 2022-03-12T10:23:52.485Z
+date: 2022-01-12T10:23:52.485Z
 image: https://img-global.cpcdn.com/recipes/06414d3faaf4720d/680x482cq70/gajar-ka-halwacarrot-sweet-dish-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/06414d3faaf4720d/680x482cq70/gajar-ka-halwacarrot-sweet-dish-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/06414d3faaf4720d/680x482cq70/gajar-ka-halwacarrot-sweet-dish-recipe-main-photo.jpg

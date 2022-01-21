@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Speedy Blueberry cheesecake"
 title: "Step-by-Step Guide to Prepare Speedy Blueberry cheesecake"
 slug: 1777-step-by-step-guide-to-prepare-speedy-blueberry-cheesecake
-date: 2022-03-02T04:20:21.404Z
+date: 2022-01-02T04:20:21.404Z
 image: https://img-global.cpcdn.com/recipes/697c2241f6abd75a/680x482cq70/blueberry-cheesecake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/697c2241f6abd75a/680x482cq70/blueberry-cheesecake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/697c2241f6abd75a/680x482cq70/blueberry-cheesecake-recipe-main-photo.jpg

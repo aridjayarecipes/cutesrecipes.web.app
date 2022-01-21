@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Perfect Herring Fillet In Mustard Sauce With Scallion"
 title: "Easiest Way to Prepare Perfect Herring Fillet In Mustard Sauce With Scallion"
 slug: 2031-easiest-way-to-prepare-perfect-herring-fillet-in-mustard-sauce-with-scallion
-date: 2022-03-02T05:34:35.734Z
+date: 2022-01-02T05:34:35.734Z
 image: https://img-global.cpcdn.com/recipes/a61c0ccfc5c4da28/680x482cq70/herring-fillet-in-mustard-sauce-with-scallion-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a61c0ccfc5c4da28/680x482cq70/herring-fillet-in-mustard-sauce-with-scallion-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a61c0ccfc5c4da28/680x482cq70/herring-fillet-in-mustard-sauce-with-scallion-recipe-main-photo.jpg

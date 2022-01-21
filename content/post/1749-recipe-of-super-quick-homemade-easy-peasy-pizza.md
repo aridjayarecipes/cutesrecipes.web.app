@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Easy Peasy Pizza"
 title: "Recipe of Super Quick Homemade Easy Peasy Pizza"
 slug: 1749-recipe-of-super-quick-homemade-easy-peasy-pizza
-date: 2022-03-28T08:08:27.434Z
+date: 2022-01-28T08:08:27.434Z
 image: https://img-global.cpcdn.com/recipes/db3486624f659112/680x482cq70/easy-peasy-pizza-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/db3486624f659112/680x482cq70/easy-peasy-pizza-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/db3486624f659112/680x482cq70/easy-peasy-pizza-recipe-main-photo.jpg

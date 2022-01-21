@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Ricerolls with blue cheese, arugula, and plum tomato sauce"
 title: "Recipe of Favorite Ricerolls with blue cheese, arugula, and plum tomato sauce"
 slug: 2192-recipe-of-favorite-ricerolls-with-blue-cheese-arugula-and-plum-tomato-sauce
-date: 2022-03-15T20:42:19.493Z
+date: 2022-01-15T20:42:19.493Z
 image: https://img-global.cpcdn.com/recipes/6313035549900800/680x482cq70/ricerolls-with-blue-cheese-arugula-and-plum-tomato-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6313035549900800/680x482cq70/ricerolls-with-blue-cheese-arugula-and-plum-tomato-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6313035549900800/680x482cq70/ricerolls-with-blue-cheese-arugula-and-plum-tomato-sauce-recipe-main-photo.jpg

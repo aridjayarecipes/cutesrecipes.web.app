@@ -2,7 +2,7 @@
 description: "How to Make Ultimate Summer Breakfast Potatoes"
 title: "How to Make Ultimate Summer Breakfast Potatoes"
 slug: 2619-how-to-make-ultimate-summer-breakfast-potatoes
-date: 2022-03-10T16:15:37.035Z
+date: 2022-01-10T16:15:37.035Z
 image: https://img-global.cpcdn.com/recipes/e4fbb04320ffcffa/680x482cq70/summer-breakfast-potatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e4fbb04320ffcffa/680x482cq70/summer-breakfast-potatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e4fbb04320ffcffa/680x482cq70/summer-breakfast-potatoes-recipe-main-photo.jpg

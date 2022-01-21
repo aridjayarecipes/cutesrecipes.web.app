@@ -2,7 +2,7 @@
 description: "Simple Way to Make Perfect My Fried Cabbage and Bacon"
 title: "Simple Way to Make Perfect My Fried Cabbage and Bacon"
 slug: 2382-simple-way-to-make-perfect-my-fried-cabbage-and-bacon
-date: 2022-03-22T07:13:29.497Z
+date: 2022-01-22T07:13:29.497Z
 image: https://img-global.cpcdn.com/recipes/bba61cf57a163c92/680x482cq70/my-fried-cabbage-and-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bba61cf57a163c92/680x482cq70/my-fried-cabbage-and-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bba61cf57a163c92/680x482cq70/my-fried-cabbage-and-bacon-recipe-main-photo.jpg

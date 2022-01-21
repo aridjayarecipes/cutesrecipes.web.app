@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick Brussels Sprout and Spinach Gratin"
 title: "Easiest Way to Prepare Quick Brussels Sprout and Spinach Gratin"
 slug: 2042-easiest-way-to-prepare-quick-brussels-sprout-and-spinach-gratin
-date: 2022-03-20T23:55:15.614Z
+date: 2022-01-20T23:55:15.614Z
 image: https://img-global.cpcdn.com/recipes/4505132252266496/680x482cq70/brussels-sprout-and-spinach-gratin-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4505132252266496/680x482cq70/brussels-sprout-and-spinach-gratin-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4505132252266496/680x482cq70/brussels-sprout-and-spinach-gratin-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Favorite Kris’ sauerkraut hot dogs &amp;amp; potatoes"
 title: "Easiest Way to Prepare Favorite Kris’ sauerkraut hot dogs &amp;amp; potatoes"
 slug: 2596-easiest-way-to-prepare-favorite-kris-sauerkraut-hot-dogs-and-amp-potatoes
-date: 2022-03-28T14:56:46.425Z
+date: 2022-01-28T14:56:46.425Z
 image: https://img-global.cpcdn.com/recipes/30450fb6caa72af5/680x482cq70/kris-sauerkraut-hot-dogs-potatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/30450fb6caa72af5/680x482cq70/kris-sauerkraut-hot-dogs-potatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/30450fb6caa72af5/680x482cq70/kris-sauerkraut-hot-dogs-potatoes-recipe-main-photo.jpg

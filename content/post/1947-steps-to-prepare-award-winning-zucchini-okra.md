@@ -2,7 +2,7 @@
 description: "Steps to Prepare Award-winning Zucchini_okra"
 title: "Steps to Prepare Award-winning Zucchini_okra"
 slug: 1947-steps-to-prepare-award-winning-zucchini-okra
-date: 2022-03-14T21:43:21.492Z
+date: 2022-01-14T21:43:21.492Z
 image: https://img-global.cpcdn.com/recipes/fea3e4ea7a8965f1/680x482cq70/zucchini_okra-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fea3e4ea7a8965f1/680x482cq70/zucchini_okra-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fea3e4ea7a8965f1/680x482cq70/zucchini_okra-recipe-main-photo.jpg

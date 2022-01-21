@@ -2,7 +2,7 @@
 description: "Recipe of Quick Oats, Jackfruit and Blueberry Muffins (gluten, egg, sugar free)"
 title: "Recipe of Quick Oats, Jackfruit and Blueberry Muffins (gluten, egg, sugar free)"
 slug: 1782-recipe-of-quick-oats-jackfruit-and-blueberry-muffins-gluten-egg-sugar-free
-date: 2022-03-02T17:27:38.838Z
+date: 2022-01-02T17:27:38.838Z
 image: https://img-global.cpcdn.com/recipes/ea525f5752d3e4fb/680x482cq70/oats-jackfruit-and-blueberry-muffins-gluten-egg-sugar-free-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ea525f5752d3e4fb/680x482cq70/oats-jackfruit-and-blueberry-muffins-gluten-egg-sugar-free-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ea525f5752d3e4fb/680x482cq70/oats-jackfruit-and-blueberry-muffins-gluten-egg-sugar-free-recipe-main-photo.jpg

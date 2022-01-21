@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Warm Brussel Sprouts and Bacon Salad"
 title: "Step-by-Step Guide to Prepare Favorite Warm Brussel Sprouts and Bacon Salad"
 slug: 1996-step-by-step-guide-to-prepare-favorite-warm-brussel-sprouts-and-bacon-salad
-date: 2022-03-01T02:46:47.503Z
+date: 2022-01-01T02:46:47.503Z
 image: https://img-global.cpcdn.com/recipes/4840514717745152/680x482cq70/warm-brussel-sprouts-and-bacon-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4840514717745152/680x482cq70/warm-brussel-sprouts-and-bacon-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4840514717745152/680x482cq70/warm-brussel-sprouts-and-bacon-salad-recipe-main-photo.jpg

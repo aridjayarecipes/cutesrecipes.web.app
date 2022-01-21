@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Mussels in a white wine, butter, garlic and parsley sauce"
 title: "Easiest Way to Make Quick Mussels in a white wine, butter, garlic and parsley sauce"
 slug: 1726-easiest-way-to-make-quick-mussels-in-a-white-wine-butter-garlic-and-parsley-sauce
-date: 2022-03-14T06:31:03.802Z
+date: 2022-01-14T06:31:03.802Z
 image: https://img-global.cpcdn.com/recipes/50fd99dd2a3dc0f2/680x482cq70/mussels-in-a-white-wine-butter-garlic-and-parsley-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/50fd99dd2a3dc0f2/680x482cq70/mussels-in-a-white-wine-butter-garlic-and-parsley-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/50fd99dd2a3dc0f2/680x482cq70/mussels-in-a-white-wine-butter-garlic-and-parsley-sauce-recipe-main-photo.jpg

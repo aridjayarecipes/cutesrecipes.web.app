@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Homemade Cauliflower Yellow Rice with Black Bean,Tofu,and Broccoli 🥦"
 title: "Simple Way to Prepare Homemade Cauliflower Yellow Rice with Black Bean,Tofu,and Broccoli 🥦"
 slug: 2277-simple-way-to-prepare-homemade-cauliflower-yellow-rice-with-black-bean-tofu-and-broccoli
-date: 2022-03-21T15:09:14.896Z
+date: 2022-01-21T15:09:14.896Z
 image: https://img-global.cpcdn.com/recipes/4e79e6639d20e84d/680x482cq70/cauliflower-yellow-rice-with-black-beantofuand-broccoli-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4e79e6639d20e84d/680x482cq70/cauliflower-yellow-rice-with-black-beantofuand-broccoli-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4e79e6639d20e84d/680x482cq70/cauliflower-yellow-rice-with-black-beantofuand-broccoli-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Make Favorite Baked Brussel Sprout Salad"
 title: "Steps to Make Favorite Baked Brussel Sprout Salad"
 slug: 2067-steps-to-make-favorite-baked-brussel-sprout-salad
-date: 2022-03-27T15:23:50.715Z
+date: 2022-01-27T15:23:50.715Z
 image: https://img-global.cpcdn.com/recipes/5378173751525376/680x482cq70/baked-brussel-sprout-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5378173751525376/680x482cq70/baked-brussel-sprout-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5378173751525376/680x482cq70/baked-brussel-sprout-salad-recipe-main-photo.jpg

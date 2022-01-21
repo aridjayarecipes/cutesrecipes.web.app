@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Speedy Plum cake"
 title: "Simple Way to Prepare Speedy Plum cake"
 slug: 2157-simple-way-to-prepare-speedy-plum-cake
-date: 2022-03-12T19:30:48.049Z
+date: 2022-01-12T19:30:48.049Z
 image: https://img-global.cpcdn.com/recipes/ca68ac74a56dfc95/680x482cq70/plum-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ca68ac74a56dfc95/680x482cq70/plum-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ca68ac74a56dfc95/680x482cq70/plum-cake-recipe-main-photo.jpg

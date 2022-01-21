@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite My Garlic Prawns and Salt &amp;amp; Pepper Chips also Salad. 😉"
 title: "Step-by-Step Guide to Prepare Favorite My Garlic Prawns and Salt &amp;amp; Pepper Chips also Salad. 😉"
 slug: 2330-step-by-step-guide-to-prepare-favorite-my-garlic-prawns-and-salt-and-amp-pepper-chips-also-salad
-date: 2022-03-10T11:08:58.125Z
+date: 2022-01-10T11:08:58.125Z
 image: https://img-global.cpcdn.com/recipes/118aa57db988c816/680x482cq70/my-garlic-prawns-and-salt-pepper-chips-also-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/118aa57db988c816/680x482cq70/my-garlic-prawns-and-salt-pepper-chips-also-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/118aa57db988c816/680x482cq70/my-garlic-prawns-and-salt-pepper-chips-also-salad-recipe-main-photo.jpg

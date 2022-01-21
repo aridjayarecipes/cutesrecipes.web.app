@@ -2,7 +2,7 @@
 description: "Steps to Make Quick Blueberry oatmeal cookies"
 title: "Steps to Make Quick Blueberry oatmeal cookies"
 slug: 1773-steps-to-make-quick-blueberry-oatmeal-cookies
-date: 2022-03-05T19:12:26.012Z
+date: 2022-01-05T19:12:26.012Z
 image: https://img-global.cpcdn.com/recipes/520d93c97b1f0722/680x482cq70/blueberry-oatmeal-cookies-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/520d93c97b1f0722/680x482cq70/blueberry-oatmeal-cookies-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/520d93c97b1f0722/680x482cq70/blueberry-oatmeal-cookies-recipe-main-photo.jpg

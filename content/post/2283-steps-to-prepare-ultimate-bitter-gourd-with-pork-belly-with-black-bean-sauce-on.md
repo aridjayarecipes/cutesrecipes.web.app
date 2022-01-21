@@ -2,7 +2,7 @@
 description: "Steps to Prepare Ultimate Bitter gourd with pork belly with black bean sauce on"
 title: "Steps to Prepare Ultimate Bitter gourd with pork belly with black bean sauce on"
 slug: 2283-steps-to-prepare-ultimate-bitter-gourd-with-pork-belly-with-black-bean-sauce-on
-date: 2022-03-08T10:42:48.116Z
+date: 2022-01-08T10:42:48.116Z
 image: https://img-global.cpcdn.com/recipes/677059305bd46fb5/680x482cq70/bitter-gourd-with-pork-belly-with-black-bean-sauce-on-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/677059305bd46fb5/680x482cq70/bitter-gourd-with-pork-belly-with-black-bean-sauce-on-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/677059305bd46fb5/680x482cq70/bitter-gourd-with-pork-belly-with-black-bean-sauce-on-recipe-main-photo.jpg

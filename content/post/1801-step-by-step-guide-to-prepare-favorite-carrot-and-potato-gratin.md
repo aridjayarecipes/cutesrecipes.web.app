@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Carrot and Potato Gratin"
 title: "Step-by-Step Guide to Prepare Favorite Carrot and Potato Gratin"
 slug: 1801-step-by-step-guide-to-prepare-favorite-carrot-and-potato-gratin
-date: 2022-03-16T07:55:07.051Z
+date: 2022-01-16T07:55:07.051Z
 image: https://img-global.cpcdn.com/recipes/ca421856aea88a2a/680x482cq70/carrot-and-potato-gratin-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ca421856aea88a2a/680x482cq70/carrot-and-potato-gratin-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ca421856aea88a2a/680x482cq70/carrot-and-potato-gratin-recipe-main-photo.jpg

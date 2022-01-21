@@ -2,7 +2,7 @@
 description: "Steps to Make Homemade Plum &amp;amp; Mango Smoothie"
 title: "Steps to Make Homemade Plum &amp;amp; Mango Smoothie"
 slug: 2327-steps-to-make-homemade-plum-and-amp-mango-smoothie
-date: 2022-03-15T22:36:59.974Z
+date: 2022-01-15T22:36:59.974Z
 image: https://img-global.cpcdn.com/recipes/bcacfb64b5c82392/680x482cq70/plum-mango-smoothie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bcacfb64b5c82392/680x482cq70/plum-mango-smoothie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bcacfb64b5c82392/680x482cq70/plum-mango-smoothie-recipe-main-photo.jpg

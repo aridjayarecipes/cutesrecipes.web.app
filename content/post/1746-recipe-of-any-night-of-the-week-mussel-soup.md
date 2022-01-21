@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Mussel soup"
 title: "Recipe of Any-night-of-the-week Mussel soup"
 slug: 1746-recipe-of-any-night-of-the-week-mussel-soup
-date: 2022-03-08T05:25:05.862Z
+date: 2022-01-08T05:25:05.862Z
 image: https://img-global.cpcdn.com/recipes/aeca681aaee0db90/680x482cq70/mussel-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/aeca681aaee0db90/680x482cq70/mussel-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/aeca681aaee0db90/680x482cq70/mussel-soup-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Steamed Pumpkin with minced Chicken (Microwave/Stove-top)"
 title: "Recipe of Ultimate Steamed Pumpkin with minced Chicken (Microwave/Stove-top)"
 slug: 2133-recipe-of-ultimate-steamed-pumpkin-with-minced-chicken-microwave-stove-top
-date: 2022-03-11T15:21:36.285Z
+date: 2022-01-11T15:21:36.285Z
 image: https://img-global.cpcdn.com/recipes/1c3c071786ed43d3/680x482cq70/steamed-pumpkin-with-minced-chicken-microwavestove-top-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1c3c071786ed43d3/680x482cq70/steamed-pumpkin-with-minced-chicken-microwavestove-top-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1c3c071786ed43d3/680x482cq70/steamed-pumpkin-with-minced-chicken-microwavestove-top-recipe-main-photo.jpg

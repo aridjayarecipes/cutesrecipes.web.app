@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Carrots and moringa noodles"
 title: "Recipe of Ultimate Carrots and moringa noodles"
 slug: 1875-recipe-of-ultimate-carrots-and-moringa-noodles
-date: 2022-03-19T03:37:48.729Z
+date: 2022-01-19T03:37:48.729Z
 image: https://img-global.cpcdn.com/recipes/f14b3206f7ef21cb/680x482cq70/carrots-and-moringa-noodles-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f14b3206f7ef21cb/680x482cq70/carrots-and-moringa-noodles-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f14b3206f7ef21cb/680x482cq70/carrots-and-moringa-noodles-recipe-main-photo.jpg

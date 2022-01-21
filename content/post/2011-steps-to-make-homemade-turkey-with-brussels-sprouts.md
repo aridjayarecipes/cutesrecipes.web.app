@@ -2,7 +2,7 @@
 description: "Steps to Make Homemade Turkey with Brussels sprouts"
 title: "Steps to Make Homemade Turkey with Brussels sprouts"
 slug: 2011-steps-to-make-homemade-turkey-with-brussels-sprouts
-date: 2022-03-24T09:31:28.641Z
+date: 2022-01-24T09:31:28.641Z
 image: https://img-global.cpcdn.com/recipes/6232285278896128/680x482cq70/turkey-with-brussels-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6232285278896128/680x482cq70/turkey-with-brussels-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6232285278896128/680x482cq70/turkey-with-brussels-sprouts-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Prepare Perfect Sautéed	Red Cabbage, Collard Greens and Potatoes"
 title: "Steps to Prepare Perfect Sautéed	Red Cabbage, Collard Greens and Potatoes"
 slug: 2422-steps-to-prepare-perfect-sauteed-red-cabbage-collard-greens-and-potatoes
-date: 2022-03-31T23:47:17.009Z
+date: 2022-01-31T23:47:17.009Z
 image: https://img-global.cpcdn.com/recipes/569233a791b3b33c/680x482cq70/sauteedred-cabbage-collard-greens-and-potatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/569233a791b3b33c/680x482cq70/sauteedred-cabbage-collard-greens-and-potatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/569233a791b3b33c/680x482cq70/sauteedred-cabbage-collard-greens-and-potatoes-recipe-main-photo.jpg

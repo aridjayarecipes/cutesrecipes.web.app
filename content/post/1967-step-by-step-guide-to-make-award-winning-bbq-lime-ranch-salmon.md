@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Award-winning BBQ Lime Ranch Salmon"
 title: "Step-by-Step Guide to Make Award-winning BBQ Lime Ranch Salmon"
 slug: 1967-step-by-step-guide-to-make-award-winning-bbq-lime-ranch-salmon
-date: 2022-03-01T05:03:35.082Z
+date: 2022-01-01T05:03:35.082Z
 image: https://img-global.cpcdn.com/recipes/487fd7267daf6ed1/680x482cq70/bbq-lime-ranch-salmon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/487fd7267daf6ed1/680x482cq70/bbq-lime-ranch-salmon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/487fd7267daf6ed1/680x482cq70/bbq-lime-ranch-salmon-recipe-main-photo.jpg

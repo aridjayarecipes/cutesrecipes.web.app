@@ -2,7 +2,7 @@
 description: "Steps to Make Homemade Sweet and’ Spicy Crispy Brussel Sprouts"
 title: "Steps to Make Homemade Sweet and’ Spicy Crispy Brussel Sprouts"
 slug: 1920-steps-to-make-homemade-sweet-and-spicy-crispy-brussel-sprouts
-date: 2022-03-19T10:48:37.568Z
+date: 2022-01-19T10:48:37.568Z
 image: https://img-global.cpcdn.com/recipes/343a447493124f1d/680x482cq70/sweet-and-spicy-crispy-brussel-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/343a447493124f1d/680x482cq70/sweet-and-spicy-crispy-brussel-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/343a447493124f1d/680x482cq70/sweet-and-spicy-crispy-brussel-sprouts-recipe-main-photo.jpg

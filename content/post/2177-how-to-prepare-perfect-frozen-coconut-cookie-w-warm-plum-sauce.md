@@ -2,7 +2,7 @@
 description: "How to Prepare Perfect Frozen Coconut Cookie w/ Warm Plum Sauce"
 title: "How to Prepare Perfect Frozen Coconut Cookie w/ Warm Plum Sauce"
 slug: 2177-how-to-prepare-perfect-frozen-coconut-cookie-w-warm-plum-sauce
-date: 2022-03-20T11:20:37.035Z
+date: 2022-01-20T11:20:37.035Z
 image: https://img-global.cpcdn.com/recipes/5dd83bd7ba257fa3/680x482cq70/frozen-coconut-cookie-w-warm-plum-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5dd83bd7ba257fa3/680x482cq70/frozen-coconut-cookie-w-warm-plum-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5dd83bd7ba257fa3/680x482cq70/frozen-coconut-cookie-w-warm-plum-sauce-recipe-main-photo.jpg

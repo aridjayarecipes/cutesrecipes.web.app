@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Homemade Strawberry and Banana Smoothie"
 title: "Easiest Way to Make Homemade Strawberry and Banana Smoothie"
 slug: 2584-easiest-way-to-make-homemade-strawberry-and-banana-smoothie
-date: 2022-03-29T11:41:38.609Z
+date: 2022-01-29T11:41:38.609Z
 image: https://img-global.cpcdn.com/recipes/78ea3e9f6762c339/680x482cq70/strawberry-and-banana-smoothie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/78ea3e9f6762c339/680x482cq70/strawberry-and-banana-smoothie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/78ea3e9f6762c339/680x482cq70/strawberry-and-banana-smoothie-recipe-main-photo.jpg

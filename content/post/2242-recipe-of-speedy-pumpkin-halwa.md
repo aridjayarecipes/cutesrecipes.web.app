@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Pumpkin halwa"
 title: "Recipe of Speedy Pumpkin halwa"
 slug: 2242-recipe-of-speedy-pumpkin-halwa
-date: 2022-03-15T17:50:18.744Z
+date: 2022-01-15T17:50:18.744Z
 image: https://img-global.cpcdn.com/recipes/8fe35ab8e64479de/680x482cq70/pumpkin-halwa-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8fe35ab8e64479de/680x482cq70/pumpkin-halwa-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8fe35ab8e64479de/680x482cq70/pumpkin-halwa-recipe-main-photo.jpg

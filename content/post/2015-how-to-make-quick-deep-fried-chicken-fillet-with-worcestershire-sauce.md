@@ -2,7 +2,7 @@
 description: "How to Make Quick Deep Fried Chicken Fillet with Worcestershire Sauce"
 title: "How to Make Quick Deep Fried Chicken Fillet with Worcestershire Sauce"
 slug: 2015-how-to-make-quick-deep-fried-chicken-fillet-with-worcestershire-sauce
-date: 2022-03-05T17:08:53.936Z
+date: 2022-01-05T17:08:53.936Z
 image: https://img-global.cpcdn.com/recipes/96f2a47bb2a23f52/680x482cq70/deep-fried-chicken-fillet-with-worcestershire-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/96f2a47bb2a23f52/680x482cq70/deep-fried-chicken-fillet-with-worcestershire-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/96f2a47bb2a23f52/680x482cq70/deep-fried-chicken-fillet-with-worcestershire-sauce-recipe-main-photo.jpg

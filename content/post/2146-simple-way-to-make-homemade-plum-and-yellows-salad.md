@@ -2,7 +2,7 @@
 description: "Simple Way to Make Homemade Plum and Yellows Salad"
 title: "Simple Way to Make Homemade Plum and Yellows Salad"
 slug: 2146-simple-way-to-make-homemade-plum-and-yellows-salad
-date: 2022-03-16T15:09:00.950Z
+date: 2022-01-16T15:09:00.950Z
 image: https://img-global.cpcdn.com/recipes/90b087a6cb02aaf4/680x482cq70/plum-and-yellows-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/90b087a6cb02aaf4/680x482cq70/plum-and-yellows-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/90b087a6cb02aaf4/680x482cq70/plum-and-yellows-salad-recipe-main-photo.jpg

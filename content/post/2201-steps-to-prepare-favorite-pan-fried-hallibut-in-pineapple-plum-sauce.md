@@ -2,7 +2,7 @@
 description: "Steps to Prepare Favorite Pan Fried Hallibut In Pineapple Plum Sauce"
 title: "Steps to Prepare Favorite Pan Fried Hallibut In Pineapple Plum Sauce"
 slug: 2201-steps-to-prepare-favorite-pan-fried-hallibut-in-pineapple-plum-sauce
-date: 2022-03-30T00:16:16.000Z
+date: 2022-01-30T00:16:16.000Z
 image: https://img-global.cpcdn.com/recipes/5499954853314560/680x482cq70/pan-fried-hallibut-in-pineapple-plum-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5499954853314560/680x482cq70/pan-fried-hallibut-in-pineapple-plum-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5499954853314560/680x482cq70/pan-fried-hallibut-in-pineapple-plum-sauce-recipe-main-photo.jpg

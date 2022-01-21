@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Speedy Mimi&amp;#39;s Favourite Banana Cupcakes"
 title: "Simple Way to Prepare Speedy Mimi&amp;#39;s Favourite Banana Cupcakes"
 slug: 2403-simple-way-to-prepare-speedy-mimi-and-39-s-favourite-banana-cupcakes
-date: 2022-03-31T00:22:23.460Z
+date: 2022-01-31T00:22:23.460Z
 image: https://img-global.cpcdn.com/recipes/2cc4cdf3ee9095dd/680x482cq70/mimis-favourite-banana-cupcakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2cc4cdf3ee9095dd/680x482cq70/mimis-favourite-banana-cupcakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2cc4cdf3ee9095dd/680x482cq70/mimis-favourite-banana-cupcakes-recipe-main-photo.jpg

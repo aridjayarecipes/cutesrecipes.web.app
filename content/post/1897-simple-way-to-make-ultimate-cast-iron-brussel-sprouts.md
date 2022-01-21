@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Cast Iron Brussel Sprouts"
 title: "Simple Way to Make Ultimate Cast Iron Brussel Sprouts"
 slug: 1897-simple-way-to-make-ultimate-cast-iron-brussel-sprouts
-date: 2022-03-29T21:16:14.314Z
+date: 2022-01-29T21:16:14.314Z
 image: https://img-global.cpcdn.com/recipes/64da6f8602181dcd/680x482cq70/cast-iron-brussel-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/64da6f8602181dcd/680x482cq70/cast-iron-brussel-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/64da6f8602181dcd/680x482cq70/cast-iron-brussel-sprouts-recipe-main-photo.jpg

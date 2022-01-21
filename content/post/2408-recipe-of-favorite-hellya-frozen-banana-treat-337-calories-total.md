@@ -2,7 +2,7 @@
 description: "Recipe of Favorite HellYA Frozen Banana Treat, 337 calories total"
 title: "Recipe of Favorite HellYA Frozen Banana Treat, 337 calories total"
 slug: 2408-recipe-of-favorite-hellya-frozen-banana-treat-337-calories-total
-date: 2022-03-26T11:27:01.568Z
+date: 2022-01-26T11:27:01.568Z
 image: https://img-global.cpcdn.com/recipes/db0cbc5e3fa1ab69/680x482cq70/hellya-frozen-banana-treat-337-calories-total-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/db0cbc5e3fa1ab69/680x482cq70/hellya-frozen-banana-treat-337-calories-total-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/db0cbc5e3fa1ab69/680x482cq70/hellya-frozen-banana-treat-337-calories-total-recipe-main-photo.jpg

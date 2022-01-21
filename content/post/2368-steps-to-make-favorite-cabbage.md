@@ -2,7 +2,7 @@
 description: "Steps to Make Favorite Cabbage"
 title: "Steps to Make Favorite Cabbage"
 slug: 2368-steps-to-make-favorite-cabbage
-date: 2022-03-03T08:18:36.134Z
+date: 2022-01-03T08:18:36.134Z
 image: https://img-global.cpcdn.com/recipes/bac7141499d6b245/680x482cq70/cabbage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bac7141499d6b245/680x482cq70/cabbage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bac7141499d6b245/680x482cq70/cabbage-recipe-main-photo.jpg

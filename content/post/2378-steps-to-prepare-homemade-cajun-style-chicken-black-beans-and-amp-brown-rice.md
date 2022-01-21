@@ -2,7 +2,7 @@
 description: "Steps to Prepare Homemade Cajun Style - Chicken, Black Beans &amp;amp; Brown Rice"
 title: "Steps to Prepare Homemade Cajun Style - Chicken, Black Beans &amp;amp; Brown Rice"
 slug: 2378-steps-to-prepare-homemade-cajun-style-chicken-black-beans-and-amp-brown-rice
-date: 2022-03-02T21:12:18.377Z
+date: 2022-01-02T21:12:18.377Z
 image: https://img-global.cpcdn.com/recipes/6144832501186560/680x482cq70/cajun-style-chicken-black-beans-brown-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6144832501186560/680x482cq70/cajun-style-chicken-black-beans-brown-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6144832501186560/680x482cq70/cajun-style-chicken-black-beans-brown-rice-recipe-main-photo.jpg

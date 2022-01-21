@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Award-winning Catfish Fillets"
 title: "Step-by-Step Guide to Make Award-winning Catfish Fillets"
 slug: 2084-step-by-step-guide-to-make-award-winning-catfish-fillets
-date: 2022-03-22T06:24:06.653Z
+date: 2022-01-22T06:24:06.653Z
 image: https://img-global.cpcdn.com/recipes/aa1dbb58658d0b07/680x482cq70/catfish-fillets-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/aa1dbb58658d0b07/680x482cq70/catfish-fillets-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/aa1dbb58658d0b07/680x482cq70/catfish-fillets-recipe-main-photo.jpg

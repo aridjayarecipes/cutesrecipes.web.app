@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Brussels sprouts with Chicken"
 title: "Recipe of Award-winning Brussels sprouts with Chicken"
 slug: 1977-recipe-of-award-winning-brussels-sprouts-with-chicken
-date: 2022-03-06T23:42:30.885Z
+date: 2022-01-06T23:42:30.885Z
 image: https://img-global.cpcdn.com/recipes/dabe855c196e4408/680x482cq70/brussels-sprouts-with-chicken-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/dabe855c196e4408/680x482cq70/brussels-sprouts-with-chicken-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/dabe855c196e4408/680x482cq70/brussels-sprouts-with-chicken-recipe-main-photo.jpg

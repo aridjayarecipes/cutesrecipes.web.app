@@ -2,7 +2,7 @@
 description: "Recipe of Quick Fried Fish"
 title: "Recipe of Quick Fried Fish"
 slug: 2197-recipe-of-quick-fried-fish
-date: 2022-03-11T11:24:19.694Z
+date: 2022-01-11T11:24:19.694Z
 image: https://img-global.cpcdn.com/recipes/f464db6db0cd30af/680x482cq70/fried-fish-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f464db6db0cd30af/680x482cq70/fried-fish-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f464db6db0cd30af/680x482cq70/fried-fish-recipe-main-photo.jpg

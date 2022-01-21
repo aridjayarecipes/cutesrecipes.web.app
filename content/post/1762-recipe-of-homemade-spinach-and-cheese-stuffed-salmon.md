@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Spinach and Cheese Stuffed Salmon"
 title: "Recipe of Homemade Spinach and Cheese Stuffed Salmon"
 slug: 1762-recipe-of-homemade-spinach-and-cheese-stuffed-salmon
-date: 2022-03-21T10:05:19.053Z
+date: 2022-01-21T10:05:19.053Z
 image: https://img-global.cpcdn.com/recipes/b72e2b3daa97b851/680x482cq70/spinach-and-cheese-stuffed-salmon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b72e2b3daa97b851/680x482cq70/spinach-and-cheese-stuffed-salmon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b72e2b3daa97b851/680x482cq70/spinach-and-cheese-stuffed-salmon-recipe-main-photo.jpg

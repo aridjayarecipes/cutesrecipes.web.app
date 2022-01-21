@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Award-winning Sweet &amp;amp; Fruity Blueberry-Plum Baked Acorn Squash"
 title: "Step-by-Step Guide to Make Award-winning Sweet &amp;amp; Fruity Blueberry-Plum Baked Acorn Squash"
 slug: 1739-step-by-step-guide-to-make-award-winning-sweet-and-amp-fruity-blueberry-plum-baked-acorn-squash
-date: 2022-03-29T13:51:10.683Z
+date: 2022-01-29T13:51:10.683Z
 image: https://img-global.cpcdn.com/recipes/23080e9f3749f457/680x482cq70/sweet-fruity-blueberry-plum-baked-acorn-squash-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/23080e9f3749f457/680x482cq70/sweet-fruity-blueberry-plum-baked-acorn-squash-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/23080e9f3749f457/680x482cq70/sweet-fruity-blueberry-plum-baked-acorn-squash-recipe-main-photo.jpg

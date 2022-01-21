@@ -2,7 +2,7 @@
 description: "Steps to Prepare Perfect Luigi&amp;#39;s Banana Bread"
 title: "Steps to Prepare Perfect Luigi&amp;#39;s Banana Bread"
 slug: 2380-steps-to-prepare-perfect-luigi-and-39-s-banana-bread
-date: 2022-03-19T09:26:28.003Z
+date: 2022-01-19T09:26:28.003Z
 image: https://img-global.cpcdn.com/recipes/163aa07a4ccd9fc7/680x482cq70/luigis-banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/163aa07a4ccd9fc7/680x482cq70/luigis-banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/163aa07a4ccd9fc7/680x482cq70/luigis-banana-bread-recipe-main-photo.jpg

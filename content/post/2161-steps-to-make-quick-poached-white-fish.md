@@ -2,7 +2,7 @@
 description: "Steps to Make Quick Poached white fish"
 title: "Steps to Make Quick Poached white fish"
 slug: 2161-steps-to-make-quick-poached-white-fish
-date: 2022-03-21T01:20:28.490Z
+date: 2022-01-21T01:20:28.490Z
 image: https://img-global.cpcdn.com/recipes/27a03dfeb3a7ef26/680x482cq70/poached-white-fish-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/27a03dfeb3a7ef26/680x482cq70/poached-white-fish-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/27a03dfeb3a7ef26/680x482cq70/poached-white-fish-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Make Quick YELLOW ZARDA (sweet rice)"
 title: "How to Make Quick YELLOW ZARDA (sweet rice)"
 slug: 2088-how-to-make-quick-yellow-zarda-sweet-rice
-date: 2022-03-26T07:37:02.969Z
+date: 2022-01-26T07:37:02.969Z
 image: https://img-global.cpcdn.com/recipes/8124449e84276ef4/680x482cq70/yellow-zarda-sweet-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8124449e84276ef4/680x482cq70/yellow-zarda-sweet-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8124449e84276ef4/680x482cq70/yellow-zarda-sweet-rice-recipe-main-photo.jpg

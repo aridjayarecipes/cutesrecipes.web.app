@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Any-night-of-the-week Creamy Pumpkin 🎃, Sausage and Kale 🥬 Pasta 🍝"
 title: "Step-by-Step Guide to Prepare Any-night-of-the-week Creamy Pumpkin 🎃, Sausage and Kale 🥬 Pasta 🍝"
 slug: 2157-step-by-step-guide-to-prepare-any-night-of-the-week-creamy-pumpkin-sausage-and-kale-pasta
-date: 2022-03-02T12:28:37.036Z
+date: 2022-01-02T12:28:37.036Z
 image: https://img-global.cpcdn.com/recipes/22b94f315c5f451c/680x482cq70/creamy-pumpkin-sausage-and-kale-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/22b94f315c5f451c/680x482cq70/creamy-pumpkin-sausage-and-kale-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/22b94f315c5f451c/680x482cq70/creamy-pumpkin-sausage-and-kale-pasta-recipe-main-photo.jpg

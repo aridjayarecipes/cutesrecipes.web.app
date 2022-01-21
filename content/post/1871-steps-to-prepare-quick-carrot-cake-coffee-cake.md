@@ -2,7 +2,7 @@
 description: "Steps to Prepare Quick Carrot Cake Coffee Cake"
 title: "Steps to Prepare Quick Carrot Cake Coffee Cake"
 slug: 1871-steps-to-prepare-quick-carrot-cake-coffee-cake
-date: 2022-03-22T00:14:59.681Z
+date: 2022-01-22T00:14:59.681Z
 image: https://img-global.cpcdn.com/recipes/3806901f412dd9b4/680x482cq70/carrot-cake-coffee-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3806901f412dd9b4/680x482cq70/carrot-cake-coffee-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3806901f412dd9b4/680x482cq70/carrot-cake-coffee-cake-recipe-main-photo.jpg

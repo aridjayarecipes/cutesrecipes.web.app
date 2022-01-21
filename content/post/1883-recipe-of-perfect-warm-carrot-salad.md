@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Warm carrot salad"
 title: "Recipe of Perfect Warm carrot salad"
 slug: 1883-recipe-of-perfect-warm-carrot-salad
-date: 2022-03-12T04:01:56.819Z
+date: 2022-01-12T04:01:56.819Z
 image: https://img-global.cpcdn.com/recipes/299e2bcaff9d999a/680x482cq70/warm-carrot-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/299e2bcaff9d999a/680x482cq70/warm-carrot-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/299e2bcaff9d999a/680x482cq70/warm-carrot-salad-recipe-main-photo.jpg

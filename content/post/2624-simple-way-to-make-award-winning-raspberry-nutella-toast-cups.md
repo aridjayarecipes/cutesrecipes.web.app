@@ -2,7 +2,7 @@
 description: "Simple Way to Make Award-winning Raspberry Nutella Toast Cups"
 title: "Simple Way to Make Award-winning Raspberry Nutella Toast Cups"
 slug: 2624-simple-way-to-make-award-winning-raspberry-nutella-toast-cups
-date: 2022-03-12T10:45:17.578Z
+date: 2022-01-12T10:45:17.578Z
 image: https://img-global.cpcdn.com/recipes/2156f103629502b9/680x482cq70/raspberry-nutella-toast-cups-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2156f103629502b9/680x482cq70/raspberry-nutella-toast-cups-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2156f103629502b9/680x482cq70/raspberry-nutella-toast-cups-recipe-main-photo.jpg

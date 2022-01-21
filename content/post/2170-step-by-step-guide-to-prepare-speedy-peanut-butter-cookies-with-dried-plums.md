@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Speedy Peanut butter cookies with dried plums"
 title: "Step-by-Step Guide to Prepare Speedy Peanut butter cookies with dried plums"
 slug: 2170-step-by-step-guide-to-prepare-speedy-peanut-butter-cookies-with-dried-plums
-date: 2022-03-29T03:13:16.650Z
+date: 2022-01-29T03:13:16.650Z
 image: https://img-global.cpcdn.com/recipes/31960d2464b844a2/680x482cq70/peanut-butter-cookies-with-dried-plums-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/31960d2464b844a2/680x482cq70/peanut-butter-cookies-with-dried-plums-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/31960d2464b844a2/680x482cq70/peanut-butter-cookies-with-dried-plums-recipe-main-photo.jpg

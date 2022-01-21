@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Super Easy Banana Muffin"
 title: "Recipe of Favorite Super Easy Banana Muffin"
 slug: 2376-recipe-of-favorite-super-easy-banana-muffin
-date: 2022-03-27T00:06:33.708Z
+date: 2022-01-27T00:06:33.708Z
 image: https://img-global.cpcdn.com/recipes/5a6a1dd7cd576362/680x482cq70/super-easy-banana-muffin-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5a6a1dd7cd576362/680x482cq70/super-easy-banana-muffin-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5a6a1dd7cd576362/680x482cq70/super-easy-banana-muffin-recipe-main-photo.jpg

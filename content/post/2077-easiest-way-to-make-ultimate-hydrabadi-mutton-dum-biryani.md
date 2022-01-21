@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Ultimate Hydrabadi mutton dum biryani"
 title: "Easiest Way to Make Ultimate Hydrabadi mutton dum biryani"
 slug: 2077-easiest-way-to-make-ultimate-hydrabadi-mutton-dum-biryani
-date: 2022-03-09T17:27:28.244Z
+date: 2022-01-09T17:27:28.244Z
 image: https://img-global.cpcdn.com/recipes/d1a878326a4abc3d/680x482cq70/hydrabadi-mutton-dum-biryani-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d1a878326a4abc3d/680x482cq70/hydrabadi-mutton-dum-biryani-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d1a878326a4abc3d/680x482cq70/hydrabadi-mutton-dum-biryani-recipe-main-photo.jpg

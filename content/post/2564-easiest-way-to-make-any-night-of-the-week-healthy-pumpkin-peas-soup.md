@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Any-night-of-the-week Healthy Pumpkin Peas Soup"
 title: "Easiest Way to Make Any-night-of-the-week Healthy Pumpkin Peas Soup"
 slug: 2564-easiest-way-to-make-any-night-of-the-week-healthy-pumpkin-peas-soup
-date: 2022-03-14T09:05:41.730Z
+date: 2022-01-14T09:05:41.730Z
 image: https://img-global.cpcdn.com/recipes/b8812e1e5069f1cc/680x482cq70/healthy-pumpkin-peas-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b8812e1e5069f1cc/680x482cq70/healthy-pumpkin-peas-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b8812e1e5069f1cc/680x482cq70/healthy-pumpkin-peas-soup-recipe-main-photo.jpg

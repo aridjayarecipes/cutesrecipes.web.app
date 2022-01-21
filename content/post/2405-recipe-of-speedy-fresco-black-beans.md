@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Fresco Black Beans"
 title: "Recipe of Speedy Fresco Black Beans"
 slug: 2405-recipe-of-speedy-fresco-black-beans
-date: 2022-03-03T13:00:42.217Z
+date: 2022-01-03T13:00:42.217Z
 image: https://img-global.cpcdn.com/recipes/5225315114680320/680x482cq70/fresco-black-beans-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5225315114680320/680x482cq70/fresco-black-beans-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5225315114680320/680x482cq70/fresco-black-beans-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Blueberry ginger clafoutis"
 title: "Recipe of Ultimate Blueberry ginger clafoutis"
 slug: 1781-recipe-of-ultimate-blueberry-ginger-clafoutis
-date: 2022-03-14T02:45:16.713Z
+date: 2022-01-14T02:45:16.713Z
 image: https://img-global.cpcdn.com/recipes/037916c16d598ac5/680x482cq70/blueberry-ginger-clafoutis-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/037916c16d598ac5/680x482cq70/blueberry-ginger-clafoutis-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/037916c16d598ac5/680x482cq70/blueberry-ginger-clafoutis-recipe-main-photo.jpg

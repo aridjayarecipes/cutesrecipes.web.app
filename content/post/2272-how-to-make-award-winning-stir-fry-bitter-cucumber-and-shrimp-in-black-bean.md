@@ -2,7 +2,7 @@
 description: "How to Make Award-winning Stir - Fry Bitter Cucumber and Shrimp in Black Bean"
 title: "How to Make Award-winning Stir - Fry Bitter Cucumber and Shrimp in Black Bean"
 slug: 2272-how-to-make-award-winning-stir-fry-bitter-cucumber-and-shrimp-in-black-bean
-date: 2022-03-12T21:36:55.988Z
+date: 2022-01-12T21:36:55.988Z
 image: https://img-global.cpcdn.com/recipes/022e20d2122a09e6/680x482cq70/stir-fry-bitter-cucumber-and-shrimp-in-black-bean-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/022e20d2122a09e6/680x482cq70/stir-fry-bitter-cucumber-and-shrimp-in-black-bean-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/022e20d2122a09e6/680x482cq70/stir-fry-bitter-cucumber-and-shrimp-in-black-bean-recipe-main-photo.jpg

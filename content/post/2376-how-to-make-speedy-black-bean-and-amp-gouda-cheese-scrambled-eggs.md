@@ -2,7 +2,7 @@
 description: "How to Make Speedy Black Bean &amp;amp; Gouda Cheese Scrambled Eggs"
 title: "How to Make Speedy Black Bean &amp;amp; Gouda Cheese Scrambled Eggs"
 slug: 2376-how-to-make-speedy-black-bean-and-amp-gouda-cheese-scrambled-eggs
-date: 2022-03-04T09:11:52.273Z
+date: 2022-01-04T09:11:52.273Z
 image: https://img-global.cpcdn.com/recipes/5983188563263488/680x482cq70/black-bean-gouda-cheese-scrambled-eggs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5983188563263488/680x482cq70/black-bean-gouda-cheese-scrambled-eggs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5983188563263488/680x482cq70/black-bean-gouda-cheese-scrambled-eggs-recipe-main-photo.jpg

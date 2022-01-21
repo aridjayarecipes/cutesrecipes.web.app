@@ -2,7 +2,7 @@
 description: "Steps to Prepare Ultimate Hilsa Pumpkin (Bengali dish) 💛"
 title: "Steps to Prepare Ultimate Hilsa Pumpkin (Bengali dish) 💛"
 slug: 2214-steps-to-prepare-ultimate-hilsa-pumpkin-bengali-dish
-date: 2022-03-13T07:18:55.570Z
+date: 2022-01-13T07:18:55.570Z
 image: https://img-global.cpcdn.com/recipes/52a8da4dc0d346db/680x482cq70/hilsa-pumpkin-bengali-dish-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/52a8da4dc0d346db/680x482cq70/hilsa-pumpkin-bengali-dish-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/52a8da4dc0d346db/680x482cq70/hilsa-pumpkin-bengali-dish-recipe-main-photo.jpg

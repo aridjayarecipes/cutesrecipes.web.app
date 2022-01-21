@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Whole Stuffed Cabbage"
 title: "Recipe of Perfect Whole Stuffed Cabbage"
 slug: 2523-recipe-of-perfect-whole-stuffed-cabbage
-date: 2022-03-03T21:49:42.608Z
+date: 2022-01-03T21:49:42.608Z
 image: https://img-global.cpcdn.com/recipes/5ef708fce2835772/680x482cq70/whole-stuffed-cabbage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5ef708fce2835772/680x482cq70/whole-stuffed-cabbage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5ef708fce2835772/680x482cq70/whole-stuffed-cabbage-recipe-main-photo.jpg

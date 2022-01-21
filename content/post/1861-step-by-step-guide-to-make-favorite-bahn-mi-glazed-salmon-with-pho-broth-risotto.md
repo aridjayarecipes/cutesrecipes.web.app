@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Favorite Bahn-Mi Glazed Salmon with Pho Broth Risotto"
 title: "Step-by-Step Guide to Make Favorite Bahn-Mi Glazed Salmon with Pho Broth Risotto"
 slug: 1861-step-by-step-guide-to-make-favorite-bahn-mi-glazed-salmon-with-pho-broth-risotto
-date: 2022-03-20T21:25:39.633Z
+date: 2022-01-20T21:25:39.633Z
 image: https://img-global.cpcdn.com/recipes/92755067aef0b29b/680x482cq70/bahn-mi-glazed-salmon-with-pho-broth-risotto-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/92755067aef0b29b/680x482cq70/bahn-mi-glazed-salmon-with-pho-broth-risotto-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/92755067aef0b29b/680x482cq70/bahn-mi-glazed-salmon-with-pho-broth-risotto-recipe-main-photo.jpg

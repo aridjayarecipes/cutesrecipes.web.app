@@ -2,7 +2,7 @@
 description: "How to Prepare Ultimate Pomegranate and Tuna Salad"
 title: "How to Prepare Ultimate Pomegranate and Tuna Salad"
 slug: 1839-how-to-prepare-ultimate-pomegranate-and-tuna-salad
-date: 2022-03-20T10:45:27.545Z
+date: 2022-01-20T10:45:27.545Z
 image: https://img-global.cpcdn.com/recipes/f19299c3c3096748/680x482cq70/pomegranate-and-tuna-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f19299c3c3096748/680x482cq70/pomegranate-and-tuna-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f19299c3c3096748/680x482cq70/pomegranate-and-tuna-salad-recipe-main-photo.jpg

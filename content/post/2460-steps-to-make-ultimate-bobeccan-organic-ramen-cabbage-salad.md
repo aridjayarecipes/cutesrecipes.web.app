@@ -2,7 +2,7 @@
 description: "Steps to Make Ultimate Bobeccan Organic Ramen Cabbage Salad"
 title: "Steps to Make Ultimate Bobeccan Organic Ramen Cabbage Salad"
 slug: 2460-steps-to-make-ultimate-bobeccan-organic-ramen-cabbage-salad
-date: 2022-03-21T16:34:19.872Z
+date: 2022-01-21T16:34:19.872Z
 image: https://img-global.cpcdn.com/recipes/22941abcf491837a/680x482cq70/bobeccan-organic-ramen-cabbage-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/22941abcf491837a/680x482cq70/bobeccan-organic-ramen-cabbage-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/22941abcf491837a/680x482cq70/bobeccan-organic-ramen-cabbage-salad-recipe-main-photo.jpg

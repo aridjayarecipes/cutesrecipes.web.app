@@ -2,7 +2,7 @@
 description: "How to Prepare Super Quick Homemade Healthy And Delicious Fruit Chat"
 title: "How to Prepare Super Quick Homemade Healthy And Delicious Fruit Chat"
 slug: 2072-how-to-prepare-super-quick-homemade-healthy-and-delicious-fruit-chat
-date: 2022-03-25T13:23:08.226Z
+date: 2022-01-25T13:23:08.226Z
 image: https://img-global.cpcdn.com/recipes/bb89dc3e2e13c4dc/680x482cq70/healthy-and-delicious-fruit-chat-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bb89dc3e2e13c4dc/680x482cq70/healthy-and-delicious-fruit-chat-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bb89dc3e2e13c4dc/680x482cq70/healthy-and-delicious-fruit-chat-recipe-main-photo.jpg

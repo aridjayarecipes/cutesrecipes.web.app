@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Easy black beans with tortillas"
 title: "Easiest Way to Prepare Super Quick Homemade Easy black beans with tortillas"
 slug: 2400-easiest-way-to-prepare-super-quick-homemade-easy-black-beans-with-tortillas
-date: 2022-03-28T05:11:09.329Z
+date: 2022-01-28T05:11:09.329Z
 image: https://img-global.cpcdn.com/recipes/5602868417527808/680x482cq70/easy-black-beans-with-tortillas-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5602868417527808/680x482cq70/easy-black-beans-with-tortillas-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5602868417527808/680x482cq70/easy-black-beans-with-tortillas-recipe-main-photo.jpg

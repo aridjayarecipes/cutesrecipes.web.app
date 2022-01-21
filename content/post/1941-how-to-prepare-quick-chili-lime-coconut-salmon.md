@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Chili Lime Coconut Salmon"
 title: "How to Prepare Quick Chili Lime Coconut Salmon"
 slug: 1941-how-to-prepare-quick-chili-lime-coconut-salmon
-date: 2022-03-18T09:05:14.490Z
+date: 2022-01-18T09:05:14.490Z
 image: https://img-global.cpcdn.com/recipes/fafaa66a169af670/680x482cq70/chili-lime-coconut-salmon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fafaa66a169af670/680x482cq70/chili-lime-coconut-salmon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fafaa66a169af670/680x482cq70/chili-lime-coconut-salmon-recipe-main-photo.jpg

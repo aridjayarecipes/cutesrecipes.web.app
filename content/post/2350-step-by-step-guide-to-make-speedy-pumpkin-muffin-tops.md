@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Speedy Pumpkin Muffin Tops"
 title: "Step-by-Step Guide to Make Speedy Pumpkin Muffin Tops"
 slug: 2350-step-by-step-guide-to-make-speedy-pumpkin-muffin-tops
-date: 2022-03-17T00:41:00.119Z
+date: 2022-01-17T00:41:00.119Z
 image: https://img-global.cpcdn.com/recipes/fd14280024899c7c/680x482cq70/pumpkin-muffin-tops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fd14280024899c7c/680x482cq70/pumpkin-muffin-tops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fd14280024899c7c/680x482cq70/pumpkin-muffin-tops-recipe-main-photo.jpg

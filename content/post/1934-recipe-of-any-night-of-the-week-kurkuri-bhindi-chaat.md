@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Kurkuri Bhindi Chaat"
 title: "Recipe of Any-night-of-the-week Kurkuri Bhindi Chaat"
 slug: 1934-recipe-of-any-night-of-the-week-kurkuri-bhindi-chaat
-date: 2022-03-08T06:49:28.915Z
+date: 2022-01-08T06:49:28.915Z
 image: https://img-global.cpcdn.com/recipes/2bc8cc1a7206beb4/680x482cq70/kurkuri-bhindi-chaat-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2bc8cc1a7206beb4/680x482cq70/kurkuri-bhindi-chaat-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2bc8cc1a7206beb4/680x482cq70/kurkuri-bhindi-chaat-recipe-main-photo.jpg

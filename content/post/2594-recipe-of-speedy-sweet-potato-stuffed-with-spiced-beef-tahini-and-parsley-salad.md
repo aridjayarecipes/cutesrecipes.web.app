@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Sweet Potato stuffed with spiced beef, tahini and parsley salad"
 title: "Recipe of Speedy Sweet Potato stuffed with spiced beef, tahini and parsley salad"
 slug: 2594-recipe-of-speedy-sweet-potato-stuffed-with-spiced-beef-tahini-and-parsley-salad
-date: 2022-03-08T04:03:28.927Z
+date: 2022-01-08T04:03:28.927Z
 image: https://img-global.cpcdn.com/recipes/455b40aa7c18f582/680x482cq70/sweet-potato-stuffed-with-spiced-beef-tahini-and-parsley-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/455b40aa7c18f582/680x482cq70/sweet-potato-stuffed-with-spiced-beef-tahini-and-parsley-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/455b40aa7c18f582/680x482cq70/sweet-potato-stuffed-with-spiced-beef-tahini-and-parsley-salad-recipe-main-photo.jpg

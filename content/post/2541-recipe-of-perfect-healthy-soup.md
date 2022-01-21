@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Healthy Soup"
 title: "Recipe of Perfect Healthy Soup"
 slug: 2541-recipe-of-perfect-healthy-soup
-date: 2022-03-04T04:17:19.458Z
+date: 2022-01-04T04:17:19.458Z
 image: https://img-global.cpcdn.com/recipes/978e7d9794f07b4a/680x482cq70/healthy-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/978e7d9794f07b4a/680x482cq70/healthy-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/978e7d9794f07b4a/680x482cq70/healthy-soup-recipe-main-photo.jpg

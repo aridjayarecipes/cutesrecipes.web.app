@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Tuna in olive oil, peppers and sweet onions on toast"
 title: "Recipe of Any-night-of-the-week Tuna in olive oil, peppers and sweet onions on toast"
 slug: 2189-recipe-of-any-night-of-the-week-tuna-in-olive-oil-peppers-and-sweet-onions-on-toast
-date: 2022-03-17T12:52:44.550Z
+date: 2022-01-17T12:52:44.550Z
 image: https://img-global.cpcdn.com/recipes/39ef4d71a6ff6ef7/680x482cq70/tuna-in-olive-oil-peppers-and-sweet-onions-on-toast-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/39ef4d71a6ff6ef7/680x482cq70/tuna-in-olive-oil-peppers-and-sweet-onions-on-toast-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/39ef4d71a6ff6ef7/680x482cq70/tuna-in-olive-oil-peppers-and-sweet-onions-on-toast-recipe-main-photo.jpg

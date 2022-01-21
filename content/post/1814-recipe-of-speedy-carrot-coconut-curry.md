@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Carrot coconut curry"
 title: "Recipe of Speedy Carrot coconut curry"
 slug: 1814-recipe-of-speedy-carrot-coconut-curry
-date: 2022-03-24T05:05:02.179Z
+date: 2022-01-24T05:05:02.179Z
 image: https://img-global.cpcdn.com/recipes/0e8c48497108ea81/680x482cq70/carrot-coconut-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0e8c48497108ea81/680x482cq70/carrot-coconut-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0e8c48497108ea81/680x482cq70/carrot-coconut-curry-recipe-main-photo.jpg

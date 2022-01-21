@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade The Most Amazing Banana Cake Recipe"
 title: "Easiest Way to Prepare Homemade The Most Amazing Banana Cake Recipe"
 slug: 2532-easiest-way-to-prepare-homemade-the-most-amazing-banana-cake-recipe
-date: 2022-03-08T23:54:15.847Z
+date: 2022-01-08T23:54:15.847Z
 image: https://img-global.cpcdn.com/recipes/641bc31feb7cc3ff/680x482cq70/the-most-amazing-banana-cake-recipe-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/641bc31feb7cc3ff/680x482cq70/the-most-amazing-banana-cake-recipe-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/641bc31feb7cc3ff/680x482cq70/the-most-amazing-banana-cake-recipe-recipe-main-photo.jpg

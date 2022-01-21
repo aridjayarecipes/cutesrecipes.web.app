@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Favorite Candied Brussel Sprouts"
 title: "Easiest Way to Make Favorite Candied Brussel Sprouts"
 slug: 2046-easiest-way-to-make-favorite-candied-brussel-sprouts
-date: 2022-03-10T17:48:17.263Z
+date: 2022-01-10T17:48:17.263Z
 image: https://img-global.cpcdn.com/recipes/4975629996916736/680x482cq70/candied-brussel-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4975629996916736/680x482cq70/candied-brussel-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4975629996916736/680x482cq70/candied-brussel-sprouts-recipe-main-photo.jpg

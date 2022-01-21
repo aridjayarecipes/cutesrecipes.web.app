@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Blueberry Oat Muffins"
 title: "Simple Way to Make Ultimate Blueberry Oat Muffins"
 slug: 1787-simple-way-to-make-ultimate-blueberry-oat-muffins
-date: 2022-03-01T05:40:34.922Z
+date: 2022-01-01T05:40:34.922Z
 image: https://img-global.cpcdn.com/recipes/d9489c2f16985249/680x482cq70/blueberry-oat-muffins-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d9489c2f16985249/680x482cq70/blueberry-oat-muffins-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d9489c2f16985249/680x482cq70/blueberry-oat-muffins-recipe-main-photo.jpg

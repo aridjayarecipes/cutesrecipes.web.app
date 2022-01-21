@@ -2,7 +2,7 @@
 description: "How to Make Quick California Farm Fresh Wedding Fruit Pie"
 title: "How to Make Quick California Farm Fresh Wedding Fruit Pie"
 slug: 2258-how-to-make-quick-california-farm-fresh-wedding-fruit-pie
-date: 2022-03-01T00:42:08.558Z
+date: 2022-01-01T00:42:08.558Z
 image: https://img-global.cpcdn.com/recipes/edb1bc1a2fc0bbb6/680x482cq70/california-farm-fresh-wedding-fruit-pie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/edb1bc1a2fc0bbb6/680x482cq70/california-farm-fresh-wedding-fruit-pie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/edb1bc1a2fc0bbb6/680x482cq70/california-farm-fresh-wedding-fruit-pie-recipe-main-photo.jpg

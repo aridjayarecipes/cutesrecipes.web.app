@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Salmon en Croute (With Lemon and Chilli) OR (Dill and Herbs)"
 title: "Recipe of Ultimate Salmon en Croute (With Lemon and Chilli) OR (Dill and Herbs)"
 slug: 1811-recipe-of-ultimate-salmon-en-croute-with-lemon-and-chilli-or-dill-and-herbs
-date: 2022-03-07T22:50:37.351Z
+date: 2022-01-07T22:50:37.351Z
 image: https://img-global.cpcdn.com/recipes/75fd46d25b631f2a/680x482cq70/salmon-en-croute-with-lemon-and-chilli-or-dill-and-herbs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/75fd46d25b631f2a/680x482cq70/salmon-en-croute-with-lemon-and-chilli-or-dill-and-herbs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/75fd46d25b631f2a/680x482cq70/salmon-en-croute-with-lemon-and-chilli-or-dill-and-herbs-recipe-main-photo.jpg

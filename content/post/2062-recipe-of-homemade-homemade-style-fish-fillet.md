@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Homemade-style fish fillet"
 title: "Recipe of Homemade Homemade-style fish fillet"
 slug: 2062-recipe-of-homemade-homemade-style-fish-fillet
-date: 2022-03-28T04:13:44.936Z
+date: 2022-01-28T04:13:44.936Z
 image: https://img-global.cpcdn.com/recipes/5394106040713216/680x482cq70/homemade-style-fish-fillet-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5394106040713216/680x482cq70/homemade-style-fish-fillet-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5394106040713216/680x482cq70/homemade-style-fish-fillet-recipe-main-photo.jpg

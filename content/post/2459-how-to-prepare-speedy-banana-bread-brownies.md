@@ -2,7 +2,7 @@
 description: "How to Prepare Speedy Banana bread brownies"
 title: "How to Prepare Speedy Banana bread brownies"
 slug: 2459-how-to-prepare-speedy-banana-bread-brownies
-date: 2022-03-29T23:40:07.517Z
+date: 2022-01-29T23:40:07.517Z
 image: https://img-global.cpcdn.com/recipes/71c49e2b20621211/680x482cq70/banana-bread-brownies-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/71c49e2b20621211/680x482cq70/banana-bread-brownies-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/71c49e2b20621211/680x482cq70/banana-bread-brownies-recipe-main-photo.jpg

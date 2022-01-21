@@ -2,7 +2,7 @@
 description: "Steps to Make Homemade Salmon and zucchini braised in oyster sauce"
 title: "Steps to Make Homemade Salmon and zucchini braised in oyster sauce"
 slug: 1851-steps-to-make-homemade-salmon-and-zucchini-braised-in-oyster-sauce
-date: 2022-03-24T16:22:39.632Z
+date: 2022-01-24T16:22:39.632Z
 image: https://img-global.cpcdn.com/recipes/cbef524c9be3619b/680x482cq70/salmon-and-zucchini-braised-in-oyster-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/cbef524c9be3619b/680x482cq70/salmon-and-zucchini-braised-in-oyster-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/cbef524c9be3619b/680x482cq70/salmon-and-zucchini-braised-in-oyster-sauce-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Macrobiotic ＾＾ Onion and Wakame Seaweed Tossed with Plum Vinegar"
 title: "Recipe of Super Quick Homemade Macrobiotic ＾＾ Onion and Wakame Seaweed Tossed with Plum Vinegar"
 slug: 2223-recipe-of-super-quick-homemade-macrobiotic-onion-and-wakame-seaweed-tossed-with-plum-vinegar
-date: 2022-03-23T00:08:43.734Z
+date: 2022-01-23T00:08:43.734Z
 image: https://img-global.cpcdn.com/recipes/4591958518398976/680x482cq70/macrobiotic-onion-and-wakame-seaweed-tossed-with-plum-vinegar-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4591958518398976/680x482cq70/macrobiotic-onion-and-wakame-seaweed-tossed-with-plum-vinegar-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4591958518398976/680x482cq70/macrobiotic-onion-and-wakame-seaweed-tossed-with-plum-vinegar-recipe-main-photo.jpg

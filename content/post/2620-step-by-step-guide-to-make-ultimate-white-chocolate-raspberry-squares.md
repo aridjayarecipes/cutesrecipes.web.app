@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Ultimate White Chocolate Raspberry Squares"
 title: "Step-by-Step Guide to Make Ultimate White Chocolate Raspberry Squares"
 slug: 2620-step-by-step-guide-to-make-ultimate-white-chocolate-raspberry-squares
-date: 2022-03-05T14:58:44.092Z
+date: 2022-01-05T14:58:44.092Z
 image: https://img-global.cpcdn.com/recipes/194c67175dfd59e0/680x482cq70/white-chocolate-raspberry-squares-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/194c67175dfd59e0/680x482cq70/white-chocolate-raspberry-squares-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/194c67175dfd59e0/680x482cq70/white-chocolate-raspberry-squares-recipe-main-photo.jpg

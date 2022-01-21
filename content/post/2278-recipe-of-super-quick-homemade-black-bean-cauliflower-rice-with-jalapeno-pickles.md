@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Black Bean Cauliflower Rice with Jalapeño Pickles"
 title: "Recipe of Super Quick Homemade Black Bean Cauliflower Rice with Jalapeño Pickles"
 slug: 2278-recipe-of-super-quick-homemade-black-bean-cauliflower-rice-with-jalapeno-pickles
-date: 2022-03-02T09:09:29.083Z
+date: 2022-01-02T09:09:29.083Z
 image: https://img-global.cpcdn.com/recipes/275c17760068c5f0/680x482cq70/black-bean-cauliflower-rice-with-jalapeno-pickles-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/275c17760068c5f0/680x482cq70/black-bean-cauliflower-rice-with-jalapeno-pickles-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/275c17760068c5f0/680x482cq70/black-bean-cauliflower-rice-with-jalapeno-pickles-recipe-main-photo.jpg

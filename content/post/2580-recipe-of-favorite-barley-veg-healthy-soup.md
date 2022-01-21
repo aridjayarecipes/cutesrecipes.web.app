@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Barley veg healthy soup"
 title: "Recipe of Favorite Barley veg healthy soup"
 slug: 2580-recipe-of-favorite-barley-veg-healthy-soup
-date: 2022-03-14T19:34:58.811Z
+date: 2022-01-14T19:34:58.811Z
 image: https://img-global.cpcdn.com/recipes/b31dae6635b00abe/680x482cq70/barley-veg-healthy-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b31dae6635b00abe/680x482cq70/barley-veg-healthy-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b31dae6635b00abe/680x482cq70/barley-veg-healthy-soup-recipe-main-photo.jpg

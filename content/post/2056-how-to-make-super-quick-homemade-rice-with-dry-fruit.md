@@ -2,7 +2,7 @@
 description: "How to Make Super Quick Homemade Rice with dry fruit"
 title: "How to Make Super Quick Homemade Rice with dry fruit"
 slug: 2056-how-to-make-super-quick-homemade-rice-with-dry-fruit
-date: 2022-03-21T18:35:40.802Z
+date: 2022-01-21T18:35:40.802Z
 image: https://img-global.cpcdn.com/recipes/5c332af2ba24bbfe/680x482cq70/rice-with-dry-fruit-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5c332af2ba24bbfe/680x482cq70/rice-with-dry-fruit-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5c332af2ba24bbfe/680x482cq70/rice-with-dry-fruit-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Pumpkin spice latte"
 title: "Recipe of Speedy Pumpkin spice latte"
 slug: 2159-recipe-of-speedy-pumpkin-spice-latte
-date: 2022-03-11T11:05:27.970Z
+date: 2022-01-11T11:05:27.970Z
 image: https://img-global.cpcdn.com/recipes/38501c3122deb2b5/680x482cq70/pumpkin-spice-latte-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/38501c3122deb2b5/680x482cq70/pumpkin-spice-latte-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/38501c3122deb2b5/680x482cq70/pumpkin-spice-latte-recipe-main-photo.jpg

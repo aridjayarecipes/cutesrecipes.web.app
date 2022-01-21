@@ -2,7 +2,7 @@
 description: "Steps to Make Homemade Pumpkin Roll"
 title: "Steps to Make Homemade Pumpkin Roll"
 slug: 2325-steps-to-make-homemade-pumpkin-roll
-date: 2022-03-24T14:19:56.678Z
+date: 2022-01-24T14:19:56.678Z
 image: https://img-global.cpcdn.com/recipes/c3c3663e300dab3b/680x482cq70/pumpkin-roll-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c3c3663e300dab3b/680x482cq70/pumpkin-roll-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c3c3663e300dab3b/680x482cq70/pumpkin-roll-recipe-main-photo.jpg

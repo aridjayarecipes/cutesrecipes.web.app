@@ -2,7 +2,7 @@
 description: "How to Prepare Homemade Breaded Fish fillet covered with Egg"
 title: "How to Prepare Homemade Breaded Fish fillet covered with Egg"
 slug: 2092-how-to-prepare-homemade-breaded-fish-fillet-covered-with-egg
-date: 2022-03-25T11:06:42.035Z
+date: 2022-01-25T11:06:42.035Z
 image: https://img-global.cpcdn.com/recipes/4533310155915264/680x482cq70/breaded-fish-fillet-covered-with-egg-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4533310155915264/680x482cq70/breaded-fish-fillet-covered-with-egg-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4533310155915264/680x482cq70/breaded-fish-fillet-covered-with-egg-recipe-main-photo.jpg

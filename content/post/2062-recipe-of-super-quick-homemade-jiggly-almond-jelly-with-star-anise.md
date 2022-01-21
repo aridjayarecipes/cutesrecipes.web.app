@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Jiggly Almond Jelly with Star Anise"
 title: "Recipe of Super Quick Homemade Jiggly Almond Jelly with Star Anise"
 slug: 2062-recipe-of-super-quick-homemade-jiggly-almond-jelly-with-star-anise
-date: 2022-03-04T03:40:03.105Z
+date: 2022-01-04T03:40:03.105Z
 image: https://img-global.cpcdn.com/recipes/5377762907914240/680x482cq70/jiggly-almond-jelly-with-star-anise-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5377762907914240/680x482cq70/jiggly-almond-jelly-with-star-anise-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5377762907914240/680x482cq70/jiggly-almond-jelly-with-star-anise-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Quick Carrot Almond Milkshake"
 title: "Recipe of Quick Carrot Almond Milkshake"
 slug: 1828-recipe-of-quick-carrot-almond-milkshake
-date: 2022-03-21T13:31:36.654Z
+date: 2022-01-21T13:31:36.654Z
 image: https://img-global.cpcdn.com/recipes/4fa4d68b121c374c/680x482cq70/carrot-almond-milkshake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4fa4d68b121c374c/680x482cq70/carrot-almond-milkshake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4fa4d68b121c374c/680x482cq70/carrot-almond-milkshake-recipe-main-photo.jpg

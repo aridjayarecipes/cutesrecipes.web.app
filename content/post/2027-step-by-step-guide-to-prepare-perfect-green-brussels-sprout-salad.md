@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Perfect Green Brussels Sprout Salad"
 title: "Step-by-Step Guide to Prepare Perfect Green Brussels Sprout Salad"
 slug: 2027-step-by-step-guide-to-prepare-perfect-green-brussels-sprout-salad
-date: 2022-03-19T20:08:26.112Z
+date: 2022-01-19T20:08:26.112Z
 image: https://img-global.cpcdn.com/recipes/5581215248678912/680x482cq70/green-brussels-sprout-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5581215248678912/680x482cq70/green-brussels-sprout-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5581215248678912/680x482cq70/green-brussels-sprout-salad-recipe-main-photo.jpg

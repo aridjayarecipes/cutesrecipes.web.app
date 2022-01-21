@@ -2,7 +2,7 @@
 description: "Recipe of Quick Vegan Cabbage Soup"
 title: "Recipe of Quick Vegan Cabbage Soup"
 slug: 2480-recipe-of-quick-vegan-cabbage-soup
-date: 2022-03-19T09:01:33.327Z
+date: 2022-01-19T09:01:33.327Z
 image: https://img-global.cpcdn.com/recipes/9a385290aeca053c/680x482cq70/vegan-cabbage-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9a385290aeca053c/680x482cq70/vegan-cabbage-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9a385290aeca053c/680x482cq70/vegan-cabbage-soup-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Grandma&amp;#39;s Super Tasty Pumpkin (Vegan)"
 title: "Recipe of Perfect Grandma&amp;#39;s Super Tasty Pumpkin (Vegan)"
 slug: 2178-recipe-of-perfect-grandma-and-39-s-super-tasty-pumpkin-vegan
-date: 2022-03-30T02:24:56.085Z
+date: 2022-01-30T02:24:56.085Z
 image: https://img-global.cpcdn.com/recipes/6462f26b11b48c91/680x482cq70/grandmas-super-tasty-pumpkin-vegan-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6462f26b11b48c91/680x482cq70/grandmas-super-tasty-pumpkin-vegan-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6462f26b11b48c91/680x482cq70/grandmas-super-tasty-pumpkin-vegan-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Prepare Super Quick Homemade Garlic, bacon brussels sprouts."
 title: "Steps to Prepare Super Quick Homemade Garlic, bacon brussels sprouts."
 slug: 2002-steps-to-prepare-super-quick-homemade-garlic-bacon-brussels-sprouts
-date: 2022-03-31T13:05:50.304Z
+date: 2022-01-31T13:05:50.304Z
 image: https://img-global.cpcdn.com/recipes/6749688953831424/680x482cq70/garlic-bacon-brussels-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6749688953831424/680x482cq70/garlic-bacon-brussels-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6749688953831424/680x482cq70/garlic-bacon-brussels-sprouts-recipe-main-photo.jpg

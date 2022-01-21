@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Black bean soup"
 title: "Recipe of Perfect Black bean soup"
 slug: 2389-recipe-of-perfect-black-bean-soup
-date: 2022-03-03T15:02:43.351Z
+date: 2022-01-03T15:02:43.351Z
 image: https://img-global.cpcdn.com/recipes/4972627509641216/680x482cq70/black-bean-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4972627509641216/680x482cq70/black-bean-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4972627509641216/680x482cq70/black-bean-soup-recipe-main-photo.jpg

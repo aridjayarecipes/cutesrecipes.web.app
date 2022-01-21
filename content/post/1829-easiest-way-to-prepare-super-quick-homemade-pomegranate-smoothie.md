@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Pomegranate smoothie"
 title: "Easiest Way to Prepare Super Quick Homemade Pomegranate smoothie"
 slug: 1829-easiest-way-to-prepare-super-quick-homemade-pomegranate-smoothie
-date: 2022-03-28T21:46:12.870Z
+date: 2022-01-28T21:46:12.870Z
 image: https://img-global.cpcdn.com/recipes/45b254b777ff6d95/680x482cq70/pomegranate-smoothie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/45b254b777ff6d95/680x482cq70/pomegranate-smoothie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/45b254b777ff6d95/680x482cq70/pomegranate-smoothie-recipe-main-photo.jpg

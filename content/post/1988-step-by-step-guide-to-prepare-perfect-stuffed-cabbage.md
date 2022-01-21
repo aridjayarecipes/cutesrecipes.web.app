@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Perfect Stuffed Cabbage"
 title: "Step-by-Step Guide to Prepare Perfect Stuffed Cabbage"
 slug: 1988-step-by-step-guide-to-prepare-perfect-stuffed-cabbage
-date: 2022-03-24T22:18:33.842Z
+date: 2022-01-24T22:18:33.842Z
 image: https://img-global.cpcdn.com/recipes/7fb0b1455ddb7567/680x482cq70/stuffed-cabbage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/7fb0b1455ddb7567/680x482cq70/stuffed-cabbage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/7fb0b1455ddb7567/680x482cq70/stuffed-cabbage-recipe-main-photo.jpg

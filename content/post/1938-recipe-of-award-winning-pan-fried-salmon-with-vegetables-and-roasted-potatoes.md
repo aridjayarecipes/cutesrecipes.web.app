@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Pan Fried Salmon with Vegetables and Roasted Potatoes"
 title: "Recipe of Award-winning Pan Fried Salmon with Vegetables and Roasted Potatoes"
 slug: 1938-recipe-of-award-winning-pan-fried-salmon-with-vegetables-and-roasted-potatoes
-date: 2022-03-27T16:15:42.887Z
+date: 2022-01-27T16:15:42.887Z
 image: https://img-global.cpcdn.com/recipes/2be7e2977ce47c2f/680x482cq70/pan-fried-salmon-with-vegetables-and-roasted-potatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2be7e2977ce47c2f/680x482cq70/pan-fried-salmon-with-vegetables-and-roasted-potatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2be7e2977ce47c2f/680x482cq70/pan-fried-salmon-with-vegetables-and-roasted-potatoes-recipe-main-photo.jpg

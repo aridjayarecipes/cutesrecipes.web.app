@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Mike&amp;#39;s Spicy Plum Sauce"
 title: "Recipe of Ultimate Mike&amp;#39;s Spicy Plum Sauce"
 slug: 2191-recipe-of-ultimate-mike-and-39-s-spicy-plum-sauce
-date: 2022-03-19T22:09:03.065Z
+date: 2022-01-19T22:09:03.065Z
 image: https://img-global.cpcdn.com/recipes/5691460551180288/680x482cq70/mikes-spicy-plum-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5691460551180288/680x482cq70/mikes-spicy-plum-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5691460551180288/680x482cq70/mikes-spicy-plum-sauce-recipe-main-photo.jpg

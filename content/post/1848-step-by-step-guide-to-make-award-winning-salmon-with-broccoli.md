@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Award-winning Salmon with broccoli 🥦"
 title: "Step-by-Step Guide to Make Award-winning Salmon with broccoli 🥦"
 slug: 1848-step-by-step-guide-to-make-award-winning-salmon-with-broccoli
-date: 2022-03-23T01:48:09.131Z
+date: 2022-01-23T01:48:09.131Z
 image: https://img-global.cpcdn.com/recipes/e9e544bbf8fd6c20/680x482cq70/salmon-with-broccoli-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e9e544bbf8fd6c20/680x482cq70/salmon-with-broccoli-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e9e544bbf8fd6c20/680x482cq70/salmon-with-broccoli-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Speedy Cornedbeef, Cabbage, Carrots and Leeks"
 title: "How to Prepare Speedy Cornedbeef, Cabbage, Carrots and Leeks"
 slug: 2451-how-to-prepare-speedy-cornedbeef-cabbage-carrots-and-leeks
-date: 2022-03-26T13:37:45.777Z
+date: 2022-01-26T13:37:45.777Z
 image: https://img-global.cpcdn.com/recipes/d423d665dff3eb81/680x482cq70/cornedbeef-cabbage-carrots-and-leeks-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d423d665dff3eb81/680x482cq70/cornedbeef-cabbage-carrots-and-leeks-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d423d665dff3eb81/680x482cq70/cornedbeef-cabbage-carrots-and-leeks-recipe-main-photo.jpg

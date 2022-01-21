@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Any-night-of-the-week Cabbage Dumpling"
 title: "Easiest Way to Make Any-night-of-the-week Cabbage Dumpling"
 slug: 2439-easiest-way-to-make-any-night-of-the-week-cabbage-dumpling
-date: 2022-03-05T17:23:48.542Z
+date: 2022-01-05T17:23:48.542Z
 image: https://img-global.cpcdn.com/recipes/591426cd02d9b57d/680x482cq70/cabbage-dumpling-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/591426cd02d9b57d/680x482cq70/cabbage-dumpling-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/591426cd02d9b57d/680x482cq70/cabbage-dumpling-recipe-main-photo.jpg

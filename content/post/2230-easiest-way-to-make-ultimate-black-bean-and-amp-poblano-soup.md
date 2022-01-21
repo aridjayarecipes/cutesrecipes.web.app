@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Ultimate Black Bean &amp;amp; Poblano Soup"
 title: "Easiest Way to Make Ultimate Black Bean &amp;amp; Poblano Soup"
 slug: 2230-easiest-way-to-make-ultimate-black-bean-and-amp-poblano-soup
-date: 2022-03-02T16:24:53.235Z
+date: 2022-01-02T16:24:53.235Z
 image: https://img-global.cpcdn.com/recipes/ae20bb85291efb66/680x482cq70/black-bean-poblano-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ae20bb85291efb66/680x482cq70/black-bean-poblano-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ae20bb85291efb66/680x482cq70/black-bean-poblano-soup-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Blueberry Cobbler"
 title: "Easiest Way to Make Speedy Blueberry Cobbler"
 slug: 1732-easiest-way-to-make-speedy-blueberry-cobbler
-date: 2022-03-24T11:48:58.026Z
+date: 2022-01-24T11:48:58.026Z
 image: https://img-global.cpcdn.com/recipes/0bd11df0a2795445/680x482cq70/blueberry-cobbler-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0bd11df0a2795445/680x482cq70/blueberry-cobbler-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0bd11df0a2795445/680x482cq70/blueberry-cobbler-recipe-main-photo.jpg

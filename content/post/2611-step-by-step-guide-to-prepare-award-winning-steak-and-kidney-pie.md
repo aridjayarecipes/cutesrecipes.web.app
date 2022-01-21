@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Award-winning Steak and Kidney Pie"
 title: "Step-by-Step Guide to Prepare Award-winning Steak and Kidney Pie"
 slug: 2611-step-by-step-guide-to-prepare-award-winning-steak-and-kidney-pie
-date: 2022-03-06T02:20:45.155Z
+date: 2022-01-06T02:20:45.155Z
 image: https://img-global.cpcdn.com/recipes/d13b6f71575d8586/680x482cq70/steak-and-kidney-pie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d13b6f71575d8586/680x482cq70/steak-and-kidney-pie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d13b6f71575d8586/680x482cq70/steak-and-kidney-pie-recipe-main-photo.jpg

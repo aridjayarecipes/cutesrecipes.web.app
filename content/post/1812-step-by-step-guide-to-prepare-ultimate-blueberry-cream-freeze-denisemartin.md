@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Ultimate Blueberry Cream Freeze #denisemartin"
 title: "Step-by-Step Guide to Prepare Ultimate Blueberry Cream Freeze #denisemartin"
 slug: 1812-step-by-step-guide-to-prepare-ultimate-blueberry-cream-freeze-denisemartin
-date: 2022-03-15T04:40:02.345Z
+date: 2022-01-15T04:40:02.345Z
 image: https://img-global.cpcdn.com/recipes/e4971a29ea309b2e/680x482cq70/blueberry-cream-freeze-denisemartin-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e4971a29ea309b2e/680x482cq70/blueberry-cream-freeze-denisemartin-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e4971a29ea309b2e/680x482cq70/blueberry-cream-freeze-denisemartin-recipe-main-photo.jpg

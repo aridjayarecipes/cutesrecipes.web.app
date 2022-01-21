@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Award-winning Banana Nut Cake with Brown Sugar Glaze"
 title: "Step-by-Step Guide to Make Award-winning Banana Nut Cake with Brown Sugar Glaze"
 slug: 2449-step-by-step-guide-to-make-award-winning-banana-nut-cake-with-brown-sugar-glaze
-date: 2022-03-02T01:02:07.867Z
+date: 2022-01-02T01:02:07.867Z
 image: https://img-global.cpcdn.com/recipes/b5e3c1d0c8747ed4/680x482cq70/banana-nut-cake-with-brown-sugar-glaze-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b5e3c1d0c8747ed4/680x482cq70/banana-nut-cake-with-brown-sugar-glaze-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b5e3c1d0c8747ed4/680x482cq70/banana-nut-cake-with-brown-sugar-glaze-recipe-main-photo.jpg

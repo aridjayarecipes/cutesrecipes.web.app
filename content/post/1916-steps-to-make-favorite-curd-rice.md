@@ -2,7 +2,7 @@
 description: "Steps to Make Favorite Curd rice"
 title: "Steps to Make Favorite Curd rice"
 slug: 1916-steps-to-make-favorite-curd-rice
-date: 2022-03-13T13:17:51.112Z
+date: 2022-01-13T13:17:51.112Z
 image: https://img-global.cpcdn.com/recipes/6182d9b1e19c6f56/680x482cq70/curd-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6182d9b1e19c6f56/680x482cq70/curd-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6182d9b1e19c6f56/680x482cq70/curd-rice-recipe-main-photo.jpg

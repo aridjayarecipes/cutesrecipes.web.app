@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Pumpkin ka healthy Soup"
 title: "Recipe of Any-night-of-the-week Pumpkin ka healthy Soup"
 slug: 2588-recipe-of-any-night-of-the-week-pumpkin-ka-healthy-soup
-date: 2022-03-11T01:48:46.481Z
+date: 2022-01-11T01:48:46.481Z
 image: https://img-global.cpcdn.com/recipes/9cb9329335bd8787/680x482cq70/pumpkin-ka-healthy-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9cb9329335bd8787/680x482cq70/pumpkin-ka-healthy-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9cb9329335bd8787/680x482cq70/pumpkin-ka-healthy-soup-recipe-main-photo.jpg

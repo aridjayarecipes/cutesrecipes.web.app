@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Umm Ali (Egyptian Dessert)"
 title: "Recipe of Favorite Umm Ali (Egyptian Dessert)"
 slug: 2032-recipe-of-favorite-umm-ali-egyptian-dessert
-date: 2022-03-23T11:12:24.936Z
+date: 2022-01-23T11:12:24.936Z
 image: https://img-global.cpcdn.com/recipes/0bb1543eac0d38b9/680x482cq70/umm-ali-egyptian-dessert-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0bb1543eac0d38b9/680x482cq70/umm-ali-egyptian-dessert-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0bb1543eac0d38b9/680x482cq70/umm-ali-egyptian-dessert-recipe-main-photo.jpg

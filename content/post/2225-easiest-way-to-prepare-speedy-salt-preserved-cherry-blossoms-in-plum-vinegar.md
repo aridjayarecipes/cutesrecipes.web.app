@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Speedy Salt-Preserved Cherry Blossoms (in Plum Vinegar)"
 title: "Easiest Way to Prepare Speedy Salt-Preserved Cherry Blossoms (in Plum Vinegar)"
 slug: 2225-easiest-way-to-prepare-speedy-salt-preserved-cherry-blossoms-in-plum-vinegar
-date: 2022-03-28T02:48:12.467Z
+date: 2022-01-28T02:48:12.467Z
 image: https://img-global.cpcdn.com/recipes/6735410196643840/680x482cq70/salt-preserved-cherry-blossoms-in-plum-vinegar-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6735410196643840/680x482cq70/salt-preserved-cherry-blossoms-in-plum-vinegar-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6735410196643840/680x482cq70/salt-preserved-cherry-blossoms-in-plum-vinegar-recipe-main-photo.jpg

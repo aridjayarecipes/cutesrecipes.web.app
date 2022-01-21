@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Meat-Wrapped Brussels Sprouts in Tomato Sauce"
 title: "Easiest Way to Make Quick Meat-Wrapped Brussels Sprouts in Tomato Sauce"
 slug: 2034-easiest-way-to-make-quick-meat-wrapped-brussels-sprouts-in-tomato-sauce
-date: 2022-03-29T21:10:01.756Z
+date: 2022-01-29T21:10:01.756Z
 image: https://img-global.cpcdn.com/recipes/4842647492493312/680x482cq70/meat-wrapped-brussels-sprouts-in-tomato-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4842647492493312/680x482cq70/meat-wrapped-brussels-sprouts-in-tomato-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4842647492493312/680x482cq70/meat-wrapped-brussels-sprouts-in-tomato-sauce-recipe-main-photo.jpg

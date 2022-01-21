@@ -2,7 +2,7 @@
 description: "Steps to Make Quick Spicy Sliced Brussels Sprouts / easy!"
 title: "Steps to Make Quick Spicy Sliced Brussels Sprouts / easy!"
 slug: 2061-steps-to-make-quick-spicy-sliced-brussels-sprouts-easy
-date: 2022-03-16T18:24:50.485Z
+date: 2022-01-16T18:24:50.485Z
 image: https://img-global.cpcdn.com/recipes/4950205929619456/680x482cq70/spicy-sliced-brussels-sprouts-easy-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4950205929619456/680x482cq70/spicy-sliced-brussels-sprouts-easy-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4950205929619456/680x482cq70/spicy-sliced-brussels-sprouts-easy-recipe-main-photo.jpg

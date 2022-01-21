@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Amazing and Healthy Banana Chocolate Muffins l Easy Breakfast l Recipe for Any Occasion"
 title: "Easiest Way to Make Speedy Amazing and Healthy Banana Chocolate Muffins l Easy Breakfast l Recipe for Any Occasion"
 slug: 2426-easiest-way-to-make-speedy-amazing-and-healthy-banana-chocolate-muffins-l-easy-breakfast-l-recipe-for-any-occasion
-date: 2022-03-02T05:06:45.381Z
+date: 2022-01-02T05:06:45.381Z
 image: https://img-global.cpcdn.com/recipes/4ee43c773d727765/680x482cq70/amazing-and-healthy-banana-chocolate-muffins-l-easy-breakfast-l-recipe-for-any-occasion-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4ee43c773d727765/680x482cq70/amazing-and-healthy-banana-chocolate-muffins-l-easy-breakfast-l-recipe-for-any-occasion-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4ee43c773d727765/680x482cq70/amazing-and-healthy-banana-chocolate-muffins-l-easy-breakfast-l-recipe-for-any-occasion-recipe-main-photo.jpg

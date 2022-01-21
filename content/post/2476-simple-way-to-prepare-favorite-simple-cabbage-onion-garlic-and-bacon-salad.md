@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Favorite Simple cabbage, onion, garlic and bacon salad"
 title: "Simple Way to Prepare Favorite Simple cabbage, onion, garlic and bacon salad"
 slug: 2476-simple-way-to-prepare-favorite-simple-cabbage-onion-garlic-and-bacon-salad
-date: 2022-03-08T09:15:44.237Z
+date: 2022-01-08T09:15:44.237Z
 image: https://img-global.cpcdn.com/recipes/f47770e20ad9419b/680x482cq70/simple-cabbage-onion-garlic-and-bacon-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f47770e20ad9419b/680x482cq70/simple-cabbage-onion-garlic-and-bacon-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f47770e20ad9419b/680x482cq70/simple-cabbage-onion-garlic-and-bacon-salad-recipe-main-photo.jpg

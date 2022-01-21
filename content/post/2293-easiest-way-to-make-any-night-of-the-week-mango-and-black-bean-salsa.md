@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Any-night-of-the-week Mango and Black Bean Salsa"
 title: "Easiest Way to Make Any-night-of-the-week Mango and Black Bean Salsa"
 slug: 2293-easiest-way-to-make-any-night-of-the-week-mango-and-black-bean-salsa
-date: 2022-03-27T14:59:29.792Z
+date: 2022-01-27T14:59:29.792Z
 image: https://img-global.cpcdn.com/recipes/44418753e7f23dc3/680x482cq70/mango-and-black-bean-salsa-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/44418753e7f23dc3/680x482cq70/mango-and-black-bean-salsa-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/44418753e7f23dc3/680x482cq70/mango-and-black-bean-salsa-recipe-main-photo.jpg

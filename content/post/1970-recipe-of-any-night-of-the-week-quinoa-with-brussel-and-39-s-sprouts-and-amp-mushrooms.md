@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Quinoa with brussel&amp;#39;s sprouts &amp;amp; mushrooms"
 title: "Recipe of Any-night-of-the-week Quinoa with brussel&amp;#39;s sprouts &amp;amp; mushrooms"
 slug: 1970-recipe-of-any-night-of-the-week-quinoa-with-brussel-and-39-s-sprouts-and-amp-mushrooms
-date: 2022-03-31T05:13:37.477Z
+date: 2022-01-31T05:13:37.477Z
 image: https://img-global.cpcdn.com/recipes/fd78650efc86966e/680x482cq70/quinoa-with-brussels-sprouts-mushrooms-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fd78650efc86966e/680x482cq70/quinoa-with-brussels-sprouts-mushrooms-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fd78650efc86966e/680x482cq70/quinoa-with-brussels-sprouts-mushrooms-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Overnight banana walnuts oats"
 title: "Easiest Way to Prepare Super Quick Homemade Overnight banana walnuts oats"
 slug: 2365-easiest-way-to-prepare-super-quick-homemade-overnight-banana-walnuts-oats
-date: 2022-03-16T04:04:27.268Z
+date: 2022-01-16T04:04:27.268Z
 image: https://img-global.cpcdn.com/recipes/299d22ef6681437e/680x482cq70/overnight-banana-walnuts-oats-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/299d22ef6681437e/680x482cq70/overnight-banana-walnuts-oats-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/299d22ef6681437e/680x482cq70/overnight-banana-walnuts-oats-recipe-main-photo.jpg

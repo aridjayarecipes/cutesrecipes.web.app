@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Speedy Fluffy Banana Bread"
 title: "Step-by-Step Guide to Prepare Speedy Fluffy Banana Bread"
 slug: 2601-step-by-step-guide-to-prepare-speedy-fluffy-banana-bread
-date: 2022-03-07T00:25:48.256Z
+date: 2022-01-07T00:25:48.256Z
 image: https://img-global.cpcdn.com/recipes/d2499285c4ea8839/680x482cq70/fluffy-banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d2499285c4ea8839/680x482cq70/fluffy-banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d2499285c4ea8839/680x482cq70/fluffy-banana-bread-recipe-main-photo.jpg

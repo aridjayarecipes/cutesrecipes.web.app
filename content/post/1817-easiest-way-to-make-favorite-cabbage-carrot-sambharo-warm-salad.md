@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Favorite Cabbage carrot sambharo warm salad"
 title: "Easiest Way to Make Favorite Cabbage carrot sambharo warm salad"
 slug: 1817-easiest-way-to-make-favorite-cabbage-carrot-sambharo-warm-salad
-date: 2022-03-27T20:45:54.234Z
+date: 2022-01-27T20:45:54.234Z
 image: https://img-global.cpcdn.com/recipes/19ad884ecf49d9e1/680x482cq70/cabbage-carrot-sambharo-warm-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/19ad884ecf49d9e1/680x482cq70/cabbage-carrot-sambharo-warm-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/19ad884ecf49d9e1/680x482cq70/cabbage-carrot-sambharo-warm-salad-recipe-main-photo.jpg

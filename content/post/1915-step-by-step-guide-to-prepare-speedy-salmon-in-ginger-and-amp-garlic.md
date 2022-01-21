@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Speedy Salmon in Ginger &amp;amp; Garlic"
 title: "Step-by-Step Guide to Prepare Speedy Salmon in Ginger &amp;amp; Garlic"
 slug: 1915-step-by-step-guide-to-prepare-speedy-salmon-in-ginger-and-amp-garlic
-date: 2022-03-21T07:48:28.363Z
+date: 2022-01-21T07:48:28.363Z
 image: https://img-global.cpcdn.com/recipes/f241f7442bc955d6/680x482cq70/salmon-in-ginger-garlic-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f241f7442bc955d6/680x482cq70/salmon-in-ginger-garlic-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f241f7442bc955d6/680x482cq70/salmon-in-ginger-garlic-recipe-main-photo.jpg

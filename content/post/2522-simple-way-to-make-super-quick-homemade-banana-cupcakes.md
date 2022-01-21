@@ -2,7 +2,7 @@
 description: "Simple Way to Make Super Quick Homemade Banana cupcakes"
 title: "Simple Way to Make Super Quick Homemade Banana cupcakes"
 slug: 2522-simple-way-to-make-super-quick-homemade-banana-cupcakes
-date: 2022-03-30T12:50:21.197Z
+date: 2022-01-30T12:50:21.197Z
 image: https://img-global.cpcdn.com/recipes/0804d52d79112780/680x482cq70/banana-cupcakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0804d52d79112780/680x482cq70/banana-cupcakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0804d52d79112780/680x482cq70/banana-cupcakes-recipe-main-photo.jpg

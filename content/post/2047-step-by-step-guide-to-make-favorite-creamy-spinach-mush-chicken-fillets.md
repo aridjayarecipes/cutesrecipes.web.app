@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Favorite Creamy Spinach-Mush chicken fillets"
 title: "Step-by-Step Guide to Make Favorite Creamy Spinach-Mush chicken fillets"
 slug: 2047-step-by-step-guide-to-make-favorite-creamy-spinach-mush-chicken-fillets
-date: 2022-03-15T18:11:34.885Z
+date: 2022-01-15T18:11:34.885Z
 image: https://img-global.cpcdn.com/recipes/306ade0180fac4dc/680x482cq70/creamy-spinach-mush-chicken-fillets-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/306ade0180fac4dc/680x482cq70/creamy-spinach-mush-chicken-fillets-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/306ade0180fac4dc/680x482cq70/creamy-spinach-mush-chicken-fillets-recipe-main-photo.jpg

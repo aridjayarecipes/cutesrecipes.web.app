@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Cabbage with Fennel Seeds Curry"
 title: "Recipe of Award-winning Cabbage with Fennel Seeds Curry"
 slug: 2555-recipe-of-award-winning-cabbage-with-fennel-seeds-curry
-date: 2022-03-02T16:12:11.966Z
+date: 2022-01-02T16:12:11.966Z
 image: https://img-global.cpcdn.com/recipes/0389aa5eaf27b54f/680x482cq70/cabbage-with-fennel-seeds-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0389aa5eaf27b54f/680x482cq70/cabbage-with-fennel-seeds-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0389aa5eaf27b54f/680x482cq70/cabbage-with-fennel-seeds-curry-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Stelly&amp;#39;s beef and veg in plum sauce"
 title: "Recipe of Super Quick Homemade Stelly&amp;#39;s beef and veg in plum sauce"
 slug: 2134-recipe-of-super-quick-homemade-stelly-and-39-s-beef-and-veg-in-plum-sauce
-date: 2022-03-12T19:32:54.410Z
+date: 2022-01-12T19:32:54.410Z
 image: https://img-global.cpcdn.com/recipes/dbd8de4bcbf95570/680x482cq70/stellys-beef-and-veg-in-plum-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/dbd8de4bcbf95570/680x482cq70/stellys-beef-and-veg-in-plum-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/dbd8de4bcbf95570/680x482cq70/stellys-beef-and-veg-in-plum-sauce-recipe-main-photo.jpg

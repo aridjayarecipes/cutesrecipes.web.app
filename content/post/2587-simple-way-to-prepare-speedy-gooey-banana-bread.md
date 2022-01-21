@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Speedy Gooey Banana Bread"
 title: "Simple Way to Prepare Speedy Gooey Banana Bread"
 slug: 2587-simple-way-to-prepare-speedy-gooey-banana-bread
-date: 2022-03-28T16:29:53.342Z
+date: 2022-01-28T16:29:53.342Z
 image: https://img-global.cpcdn.com/recipes/934263926d226b6c/680x482cq70/gooey-banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/934263926d226b6c/680x482cq70/gooey-banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/934263926d226b6c/680x482cq70/gooey-banana-bread-recipe-main-photo.jpg

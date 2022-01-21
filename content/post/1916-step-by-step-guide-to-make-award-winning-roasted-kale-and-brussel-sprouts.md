@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Award-winning Roasted Kale and Brussel Sprouts"
 title: "Step-by-Step Guide to Make Award-winning Roasted Kale and Brussel Sprouts"
 slug: 1916-step-by-step-guide-to-make-award-winning-roasted-kale-and-brussel-sprouts
-date: 2022-03-23T09:18:28.114Z
+date: 2022-01-23T09:18:28.114Z
 image: https://img-global.cpcdn.com/recipes/d59f92d0f03d1e64/680x482cq70/roasted-kale-and-brussel-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d59f92d0f03d1e64/680x482cq70/roasted-kale-and-brussel-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d59f92d0f03d1e64/680x482cq70/roasted-kale-and-brussel-sprouts-recipe-main-photo.jpg

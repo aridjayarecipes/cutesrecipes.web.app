@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Sauteed Cabbage"
 title: "Recipe of Homemade Sauteed Cabbage"
 slug: 2381-recipe-of-homemade-sauteed-cabbage
-date: 2022-03-01T20:26:48.481Z
+date: 2022-01-01T20:26:48.481Z
 image: https://img-global.cpcdn.com/recipes/6cb3794f7de2c775/680x482cq70/sauteed-cabbage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6cb3794f7de2c775/680x482cq70/sauteed-cabbage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6cb3794f7de2c775/680x482cq70/sauteed-cabbage-recipe-main-photo.jpg

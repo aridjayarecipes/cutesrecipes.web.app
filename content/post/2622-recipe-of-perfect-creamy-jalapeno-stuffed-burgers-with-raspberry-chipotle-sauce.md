@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Creamy Jalapeño Stuffed Burgers with Raspberry Chipotle Sauce"
 title: "Recipe of Perfect Creamy Jalapeño Stuffed Burgers with Raspberry Chipotle Sauce"
 slug: 2622-recipe-of-perfect-creamy-jalapeno-stuffed-burgers-with-raspberry-chipotle-sauce
-date: 2022-03-29T04:52:40.672Z
+date: 2022-01-29T04:52:40.672Z
 image: https://img-global.cpcdn.com/recipes/17a04ebeee8894de/680x482cq70/creamy-jalapeno-stuffed-burgers-with-raspberry-chipotle-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/17a04ebeee8894de/680x482cq70/creamy-jalapeno-stuffed-burgers-with-raspberry-chipotle-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/17a04ebeee8894de/680x482cq70/creamy-jalapeno-stuffed-burgers-with-raspberry-chipotle-sauce-recipe-main-photo.jpg

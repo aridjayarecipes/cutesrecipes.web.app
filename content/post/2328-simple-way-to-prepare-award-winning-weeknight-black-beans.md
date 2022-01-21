@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Award-winning Weeknight Black Beans"
 title: "Simple Way to Prepare Award-winning Weeknight Black Beans"
 slug: 2328-simple-way-to-prepare-award-winning-weeknight-black-beans
-date: 2022-03-06T16:38:35.350Z
+date: 2022-01-06T16:38:35.350Z
 image: https://img-global.cpcdn.com/recipes/e01b214d65262cf6/680x482cq70/weeknight-black-beans-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e01b214d65262cf6/680x482cq70/weeknight-black-beans-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e01b214d65262cf6/680x482cq70/weeknight-black-beans-recipe-main-photo.jpg

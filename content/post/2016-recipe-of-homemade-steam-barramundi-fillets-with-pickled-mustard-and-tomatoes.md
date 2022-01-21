@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Steam barramundi fillets with pickled mustard and tomatoes"
 title: "Recipe of Homemade Steam barramundi fillets with pickled mustard and tomatoes"
 slug: 2016-recipe-of-homemade-steam-barramundi-fillets-with-pickled-mustard-and-tomatoes
-date: 2022-03-10T16:58:09.691Z
+date: 2022-01-10T16:58:09.691Z
 image: https://img-global.cpcdn.com/recipes/8bdace57e88e7f61/680x482cq70/steam-barramundi-fillets-with-pickled-mustard-and-tomatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8bdace57e88e7f61/680x482cq70/steam-barramundi-fillets-with-pickled-mustard-and-tomatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8bdace57e88e7f61/680x482cq70/steam-barramundi-fillets-with-pickled-mustard-and-tomatoes-recipe-main-photo.jpg

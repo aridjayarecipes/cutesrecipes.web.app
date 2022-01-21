@@ -2,7 +2,7 @@
 description: "Steps to Make Award-winning Wagyu Bratwurst and Butternut Squash Hash"
 title: "Steps to Make Award-winning Wagyu Bratwurst and Butternut Squash Hash"
 slug: 2089-steps-to-make-award-winning-wagyu-bratwurst-and-butternut-squash-hash
-date: 2022-03-13T16:44:44.524Z
+date: 2022-01-13T16:44:44.524Z
 image: https://img-global.cpcdn.com/recipes/2f5100c8786455f3/680x482cq70/wagyu-bratwurst-and-butternut-squash-hash-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2f5100c8786455f3/680x482cq70/wagyu-bratwurst-and-butternut-squash-hash-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2f5100c8786455f3/680x482cq70/wagyu-bratwurst-and-butternut-squash-hash-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Make Super Quick Homemade Roasted brussel sprouts with pasta"
 title: "Steps to Make Super Quick Homemade Roasted brussel sprouts with pasta"
 slug: 2047-steps-to-make-super-quick-homemade-roasted-brussel-sprouts-with-pasta
-date: 2022-03-06T04:15:18.716Z
+date: 2022-01-06T04:15:18.716Z
 image: https://img-global.cpcdn.com/recipes/4823158355918848/680x482cq70/roasted-brussel-sprouts-with-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4823158355918848/680x482cq70/roasted-brussel-sprouts-with-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4823158355918848/680x482cq70/roasted-brussel-sprouts-with-pasta-recipe-main-photo.jpg

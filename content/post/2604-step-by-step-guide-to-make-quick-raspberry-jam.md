@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Quick Raspberry Jam"
 title: "Step-by-Step Guide to Make Quick Raspberry Jam"
 slug: 2604-step-by-step-guide-to-make-quick-raspberry-jam
-date: 2022-03-10T08:59:03.575Z
+date: 2022-01-10T08:59:03.575Z
 image: https://img-global.cpcdn.com/recipes/83ca7dff09e8e311/680x482cq70/raspberry-jam-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/83ca7dff09e8e311/680x482cq70/raspberry-jam-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/83ca7dff09e8e311/680x482cq70/raspberry-jam-recipe-main-photo.jpg

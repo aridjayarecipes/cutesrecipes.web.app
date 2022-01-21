@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Blueberry raspberry protein shake"
 title: "Recipe of Award-winning Blueberry raspberry protein shake"
 slug: 2628-recipe-of-award-winning-blueberry-raspberry-protein-shake
-date: 2022-03-29T19:14:56.167Z
+date: 2022-01-29T19:14:56.167Z
 image: https://img-global.cpcdn.com/recipes/5fb3799db3cf4d70/680x482cq70/blueberry-raspberry-protein-shake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5fb3799db3cf4d70/680x482cq70/blueberry-raspberry-protein-shake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5fb3799db3cf4d70/680x482cq70/blueberry-raspberry-protein-shake-recipe-main-photo.jpg

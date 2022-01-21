@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Black Bean and Tuna Bake"
 title: "Recipe of Speedy Black Bean and Tuna Bake"
 slug: 2265-recipe-of-speedy-black-bean-and-tuna-bake
-date: 2022-03-18T03:33:49.281Z
+date: 2022-01-18T03:33:49.281Z
 image: https://img-global.cpcdn.com/recipes/f8c0f59c8166e6a5/680x482cq70/black-bean-and-tuna-bake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f8c0f59c8166e6a5/680x482cq70/black-bean-and-tuna-bake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f8c0f59c8166e6a5/680x482cq70/black-bean-and-tuna-bake-recipe-main-photo.jpg

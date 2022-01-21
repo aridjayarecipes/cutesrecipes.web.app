@@ -2,7 +2,7 @@
 description: "Recipe of Quick Bangin brussel sprouts"
 title: "Recipe of Quick Bangin brussel sprouts"
 slug: 2078-recipe-of-quick-bangin-brussel-sprouts
-date: 2022-03-21T00:42:26.015Z
+date: 2022-01-21T00:42:26.015Z
 image: https://img-global.cpcdn.com/recipes/4746748812591104/680x482cq70/bangin-brussel-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4746748812591104/680x482cq70/bangin-brussel-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4746748812591104/680x482cq70/bangin-brussel-sprouts-recipe-main-photo.jpg

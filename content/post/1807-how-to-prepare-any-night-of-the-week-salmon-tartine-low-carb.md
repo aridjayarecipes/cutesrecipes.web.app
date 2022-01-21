@@ -2,7 +2,7 @@
 description: "How to Prepare Any-night-of-the-week Salmon Tartine (low carb)"
 title: "How to Prepare Any-night-of-the-week Salmon Tartine (low carb)"
 slug: 1807-how-to-prepare-any-night-of-the-week-salmon-tartine-low-carb
-date: 2022-03-04T00:18:22.268Z
+date: 2022-01-04T00:18:22.268Z
 image: https://img-global.cpcdn.com/recipes/45ce22c5e74ce633/680x482cq70/salmon-tartine-low-carb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/45ce22c5e74ce633/680x482cq70/salmon-tartine-low-carb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/45ce22c5e74ce633/680x482cq70/salmon-tartine-low-carb-recipe-main-photo.jpg

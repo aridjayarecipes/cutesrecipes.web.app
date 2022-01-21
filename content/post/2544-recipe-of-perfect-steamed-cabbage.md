@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Steamed cabbage"
 title: "Recipe of Perfect Steamed cabbage"
 slug: 2544-recipe-of-perfect-steamed-cabbage
-date: 2022-03-23T17:34:04.142Z
+date: 2022-01-23T17:34:04.142Z
 image: https://img-global.cpcdn.com/recipes/3acd3a6f16ab33ac/680x482cq70/steamed-cabbage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3acd3a6f16ab33ac/680x482cq70/steamed-cabbage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3acd3a6f16ab33ac/680x482cq70/steamed-cabbage-recipe-main-photo.jpg

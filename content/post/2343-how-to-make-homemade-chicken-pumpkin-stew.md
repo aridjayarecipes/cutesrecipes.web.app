@@ -2,7 +2,7 @@
 description: "How to Make Homemade Chicken Pumpkin Stew"
 title: "How to Make Homemade Chicken Pumpkin Stew"
 slug: 2343-how-to-make-homemade-chicken-pumpkin-stew
-date: 2022-03-09T01:21:01.785Z
+date: 2022-01-09T01:21:01.785Z
 image: https://img-global.cpcdn.com/recipes/f67c25c108daf956/680x482cq70/chicken-pumpkin-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f67c25c108daf956/680x482cq70/chicken-pumpkin-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f67c25c108daf956/680x482cq70/chicken-pumpkin-stew-recipe-main-photo.jpg

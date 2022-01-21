@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Speedy Tofu in Black Bean Sauce"
 title: "Step-by-Step Guide to Prepare Speedy Tofu in Black Bean Sauce"
 slug: 2233-step-by-step-guide-to-prepare-speedy-tofu-in-black-bean-sauce
-date: 2022-03-04T11:24:39.717Z
+date: 2022-01-04T11:24:39.717Z
 image: https://img-global.cpcdn.com/recipes/227711144f011dfe/680x482cq70/tofu-in-black-bean-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/227711144f011dfe/680x482cq70/tofu-in-black-bean-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/227711144f011dfe/680x482cq70/tofu-in-black-bean-sauce-recipe-main-photo.jpg

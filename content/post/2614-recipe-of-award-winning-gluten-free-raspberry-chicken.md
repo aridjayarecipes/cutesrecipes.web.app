@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Gluten free raspberry chicken"
 title: "Recipe of Award-winning Gluten free raspberry chicken"
 slug: 2614-recipe-of-award-winning-gluten-free-raspberry-chicken
-date: 2022-03-30T10:18:33.026Z
+date: 2022-01-30T10:18:33.026Z
 image: https://img-global.cpcdn.com/recipes/c8972ad12d3594b2/680x482cq70/gluten-free-raspberry-chicken-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c8972ad12d3594b2/680x482cq70/gluten-free-raspberry-chicken-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c8972ad12d3594b2/680x482cq70/gluten-free-raspberry-chicken-recipe-main-photo.jpg

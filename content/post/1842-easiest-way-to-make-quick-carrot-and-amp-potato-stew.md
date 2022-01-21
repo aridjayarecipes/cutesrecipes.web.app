@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Carrot &amp;amp; Potato Stew"
 title: "Easiest Way to Make Quick Carrot &amp;amp; Potato Stew"
 slug: 1842-easiest-way-to-make-quick-carrot-and-amp-potato-stew
-date: 2022-03-18T01:45:35.268Z
+date: 2022-01-18T01:45:35.268Z
 image: https://img-global.cpcdn.com/recipes/0dd5c16fa3da86c9/680x482cq70/carrot-potato-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0dd5c16fa3da86c9/680x482cq70/carrot-potato-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0dd5c16fa3da86c9/680x482cq70/carrot-potato-stew-recipe-main-photo.jpg

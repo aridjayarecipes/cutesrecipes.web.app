@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Pickled Plum and Shiso Omelette"
 title: "Recipe of Ultimate Pickled Plum and Shiso Omelette"
 slug: 2236-recipe-of-ultimate-pickled-plum-and-shiso-omelette
-date: 2022-03-24T11:34:11.350Z
+date: 2022-01-24T11:34:11.350Z
 image: https://img-global.cpcdn.com/recipes/4700354626191360/680x482cq70/pickled-plum-and-shiso-omelette-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4700354626191360/680x482cq70/pickled-plum-and-shiso-omelette-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4700354626191360/680x482cq70/pickled-plum-and-shiso-omelette-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Vegan Carrot Mayo (without actual Mayo)"
 title: "Recipe of Super Quick Homemade Vegan Carrot Mayo (without actual Mayo)"
 slug: 1849-recipe-of-super-quick-homemade-vegan-carrot-mayo-without-actual-mayo
-date: 2022-03-19T04:32:01.731Z
+date: 2022-01-19T04:32:01.731Z
 image: https://img-global.cpcdn.com/recipes/b48960f803be36cd/680x482cq70/vegan-carrot-mayo-without-actual-mayo-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b48960f803be36cd/680x482cq70/vegan-carrot-mayo-without-actual-mayo-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b48960f803be36cd/680x482cq70/vegan-carrot-mayo-without-actual-mayo-recipe-main-photo.jpg

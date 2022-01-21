@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Turmeric Salmon and Spicy Corn with Coconut"
 title: "Step-by-Step Guide to Prepare Favorite Turmeric Salmon and Spicy Corn with Coconut"
 slug: 1972-step-by-step-guide-to-prepare-favorite-turmeric-salmon-and-spicy-corn-with-coconut
-date: 2022-03-20T04:04:39.930Z
+date: 2022-01-20T04:04:39.930Z
 image: https://img-global.cpcdn.com/recipes/d8e132bea08bf177/680x482cq70/turmeric-salmon-and-spicy-corn-with-coconut-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d8e132bea08bf177/680x482cq70/turmeric-salmon-and-spicy-corn-with-coconut-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d8e132bea08bf177/680x482cq70/turmeric-salmon-and-spicy-corn-with-coconut-recipe-main-photo.jpg

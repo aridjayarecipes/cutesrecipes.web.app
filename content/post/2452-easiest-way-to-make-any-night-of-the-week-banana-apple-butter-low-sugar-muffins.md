@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Any-night-of-the-week Banana apple butter low sugar muffins"
 title: "Easiest Way to Make Any-night-of-the-week Banana apple butter low sugar muffins"
 slug: 2452-easiest-way-to-make-any-night-of-the-week-banana-apple-butter-low-sugar-muffins
-date: 2022-03-06T12:55:46.834Z
+date: 2022-01-06T12:55:46.834Z
 image: https://img-global.cpcdn.com/recipes/e9f3443d679985d6/680x482cq70/banana-apple-butter-low-sugar-muffins-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e9f3443d679985d6/680x482cq70/banana-apple-butter-low-sugar-muffins-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e9f3443d679985d6/680x482cq70/banana-apple-butter-low-sugar-muffins-recipe-main-photo.jpg

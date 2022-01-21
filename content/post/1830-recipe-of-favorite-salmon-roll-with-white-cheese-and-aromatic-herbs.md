@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Salmon roll with white cheese and aromatic herbs😜😜👍👍"
 title: "Recipe of Favorite Salmon roll with white cheese and aromatic herbs😜😜👍👍"
 slug: 1830-recipe-of-favorite-salmon-roll-with-white-cheese-and-aromatic-herbs
-date: 2022-03-15T18:47:33.262Z
+date: 2022-01-15T18:47:33.262Z
 image: https://img-global.cpcdn.com/recipes/7e0548defe157a0b/680x482cq70/salmon-roll-with-white-cheese-and-aromatic-herbs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/7e0548defe157a0b/680x482cq70/salmon-roll-with-white-cheese-and-aromatic-herbs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/7e0548defe157a0b/680x482cq70/salmon-roll-with-white-cheese-and-aromatic-herbs-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Ultimate Tofu Appetizer"
 title: "Easiest Way to Make Ultimate Tofu Appetizer"
 slug: 2122-easiest-way-to-make-ultimate-tofu-appetizer
-date: 2022-03-30T17:50:59.589Z
+date: 2022-01-30T17:50:59.589Z
 image: https://img-global.cpcdn.com/recipes/4769816070062080/680x482cq70/tofu-appetizer-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4769816070062080/680x482cq70/tofu-appetizer-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4769816070062080/680x482cq70/tofu-appetizer-recipe-main-photo.jpg

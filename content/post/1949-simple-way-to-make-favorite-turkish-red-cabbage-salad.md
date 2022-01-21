@@ -2,7 +2,7 @@
 description: "Simple Way to Make Favorite Turkish Red Cabbage Salad"
 title: "Simple Way to Make Favorite Turkish Red Cabbage Salad"
 slug: 1949-simple-way-to-make-favorite-turkish-red-cabbage-salad
-date: 2022-03-06T06:11:09.248Z
+date: 2022-01-06T06:11:09.248Z
 image: https://img-global.cpcdn.com/recipes/c3d34310ca4e886c/680x482cq70/turkish-red-cabbage-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c3d34310ca4e886c/680x482cq70/turkish-red-cabbage-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c3d34310ca4e886c/680x482cq70/turkish-red-cabbage-salad-recipe-main-photo.jpg

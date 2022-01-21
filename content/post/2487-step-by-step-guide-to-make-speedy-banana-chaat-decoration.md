@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Speedy Banana chaat decoration"
 title: "Step-by-Step Guide to Make Speedy Banana chaat decoration"
 slug: 2487-step-by-step-guide-to-make-speedy-banana-chaat-decoration
-date: 2022-03-05T20:41:57.175Z
+date: 2022-01-05T20:41:57.175Z
 image: https://img-global.cpcdn.com/recipes/d604cc84b6b5c12c/680x482cq70/banana-chaat-decoration-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d604cc84b6b5c12c/680x482cq70/banana-chaat-decoration-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d604cc84b6b5c12c/680x482cq70/banana-chaat-decoration-recipe-main-photo.jpg

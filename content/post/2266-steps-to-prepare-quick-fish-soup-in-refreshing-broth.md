@@ -2,7 +2,7 @@
 description: "Steps to Prepare Quick Fish soup in refreshing broth"
 title: "Steps to Prepare Quick Fish soup in refreshing broth"
 slug: 2266-steps-to-prepare-quick-fish-soup-in-refreshing-broth
-date: 2022-03-29T14:56:31.520Z
+date: 2022-01-29T14:56:31.520Z
 image: https://img-global.cpcdn.com/recipes/eb4aca574e7fdc02/680x482cq70/fish-soup-in-refreshing-broth-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/eb4aca574e7fdc02/680x482cq70/fish-soup-in-refreshing-broth-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/eb4aca574e7fdc02/680x482cq70/fish-soup-in-refreshing-broth-recipe-main-photo.jpg

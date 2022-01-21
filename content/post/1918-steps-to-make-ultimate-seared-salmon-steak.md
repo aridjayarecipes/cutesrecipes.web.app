@@ -2,7 +2,7 @@
 description: "Steps to Make Ultimate Seared Salmon Steak"
 title: "Steps to Make Ultimate Seared Salmon Steak"
 slug: 1918-steps-to-make-ultimate-seared-salmon-steak
-date: 2022-03-15T00:51:20.355Z
+date: 2022-01-15T00:51:20.355Z
 image: https://img-global.cpcdn.com/recipes/31e7060c9721b514/680x482cq70/seared-salmon-steak-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/31e7060c9721b514/680x482cq70/seared-salmon-steak-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/31e7060c9721b514/680x482cq70/seared-salmon-steak-recipe-main-photo.jpg

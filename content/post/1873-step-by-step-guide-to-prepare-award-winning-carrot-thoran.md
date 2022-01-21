@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Award-winning Carrot Thoran"
 title: "Step-by-Step Guide to Prepare Award-winning Carrot Thoran"
 slug: 1873-step-by-step-guide-to-prepare-award-winning-carrot-thoran
-date: 2022-03-11T15:29:07.656Z
+date: 2022-01-11T15:29:07.656Z
 image: https://img-global.cpcdn.com/recipes/ea09ea954cc42278/680x482cq70/carrot-thoran-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ea09ea954cc42278/680x482cq70/carrot-thoran-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ea09ea954cc42278/680x482cq70/carrot-thoran-recipe-main-photo.jpg

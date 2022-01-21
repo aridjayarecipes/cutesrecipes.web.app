@@ -2,7 +2,7 @@
 description: "Simple Way to Make Favorite moo shu Brussels sprouts"
 title: "Simple Way to Make Favorite moo shu Brussels sprouts"
 slug: 2081-simple-way-to-make-favorite-moo-shu-brussels-sprouts
-date: 2022-03-17T09:36:52.054Z
+date: 2022-01-17T09:36:52.054Z
 image: https://img-global.cpcdn.com/recipes/51274626/680x482cq70/moo-shu-brussels-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/51274626/680x482cq70/moo-shu-brussels-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/51274626/680x482cq70/moo-shu-brussels-sprouts-recipe-main-photo.jpg

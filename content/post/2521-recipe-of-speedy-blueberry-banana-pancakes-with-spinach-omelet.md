@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Blueberry banana pancakes with spinach omelet"
 title: "Recipe of Speedy Blueberry banana pancakes with spinach omelet"
 slug: 2521-recipe-of-speedy-blueberry-banana-pancakes-with-spinach-omelet
-date: 2022-03-26T04:31:50.395Z
+date: 2022-01-26T04:31:50.395Z
 image: https://img-global.cpcdn.com/recipes/fc076120e473f9bc/680x482cq70/blueberry-banana-pancakes-with-spinach-omelet-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fc076120e473f9bc/680x482cq70/blueberry-banana-pancakes-with-spinach-omelet-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fc076120e473f9bc/680x482cq70/blueberry-banana-pancakes-with-spinach-omelet-recipe-main-photo.jpg

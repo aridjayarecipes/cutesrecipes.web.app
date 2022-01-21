@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Chinese Cabbage Soup"
 title: "Recipe of Favorite Chinese Cabbage Soup"
 slug: 2521-recipe-of-favorite-chinese-cabbage-soup
-date: 2022-03-31T18:51:33.996Z
+date: 2022-01-31T18:51:33.996Z
 image: https://img-global.cpcdn.com/recipes/cf14c2340289e7fd/680x482cq70/chinese-cabbage-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/cf14c2340289e7fd/680x482cq70/chinese-cabbage-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/cf14c2340289e7fd/680x482cq70/chinese-cabbage-soup-recipe-main-photo.jpg

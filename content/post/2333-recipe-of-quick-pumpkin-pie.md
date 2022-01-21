@@ -2,7 +2,7 @@
 description: "Recipe of Quick Pumpkin pie"
 title: "Recipe of Quick Pumpkin pie"
 slug: 2333-recipe-of-quick-pumpkin-pie
-date: 2022-03-20T22:44:26.264Z
+date: 2022-01-20T22:44:26.264Z
 image: https://img-global.cpcdn.com/recipes/a34cacdb2175b269/680x482cq70/pumpkin-pie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a34cacdb2175b269/680x482cq70/pumpkin-pie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a34cacdb2175b269/680x482cq70/pumpkin-pie-recipe-main-photo.jpg

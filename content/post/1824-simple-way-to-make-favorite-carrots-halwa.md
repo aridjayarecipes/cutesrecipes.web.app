@@ -2,7 +2,7 @@
 description: "Simple Way to Make Favorite Carrots Halwa"
 title: "Simple Way to Make Favorite Carrots Halwa"
 slug: 1824-simple-way-to-make-favorite-carrots-halwa
-date: 2022-03-06T05:26:07.802Z
+date: 2022-01-06T05:26:07.802Z
 image: https://img-global.cpcdn.com/recipes/3d4fbaf055fb3e83/680x482cq70/carrots-halwa-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3d4fbaf055fb3e83/680x482cq70/carrots-halwa-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3d4fbaf055fb3e83/680x482cq70/carrots-halwa-recipe-main-photo.jpg

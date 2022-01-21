@@ -2,7 +2,7 @@
 description: "Steps to Make Perfect Pickled Cabbage &amp;amp; Shredded Duck Vermicelli 雪菜鴨絲湯米"
 title: "Steps to Make Perfect Pickled Cabbage &amp;amp; Shredded Duck Vermicelli 雪菜鴨絲湯米"
 slug: 2557-steps-to-make-perfect-pickled-cabbage-and-amp-shredded-duck-vermicelli
-date: 2022-03-16T20:38:29.399Z
+date: 2022-01-16T20:38:29.399Z
 image: https://img-global.cpcdn.com/recipes/71fbce57cc926400/680x482cq70/pickled-cabbage-shredded-duck-vermicelli-雪菜鴨絲湯米-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/71fbce57cc926400/680x482cq70/pickled-cabbage-shredded-duck-vermicelli-雪菜鴨絲湯米-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/71fbce57cc926400/680x482cq70/pickled-cabbage-shredded-duck-vermicelli-雪菜鴨絲湯米-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Pumpkin Pie, Winter Luxury"
 title: "Easiest Way to Make Speedy Pumpkin Pie, Winter Luxury"
 slug: 2258-easiest-way-to-make-speedy-pumpkin-pie-winter-luxury
-date: 2022-03-09T07:18:20.591Z
+date: 2022-01-09T07:18:20.591Z
 image: https://img-global.cpcdn.com/recipes/c32bb1c5854e94bf/680x482cq70/pumpkin-pie-winter-luxury-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c32bb1c5854e94bf/680x482cq70/pumpkin-pie-winter-luxury-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c32bb1c5854e94bf/680x482cq70/pumpkin-pie-winter-luxury-recipe-main-photo.jpg

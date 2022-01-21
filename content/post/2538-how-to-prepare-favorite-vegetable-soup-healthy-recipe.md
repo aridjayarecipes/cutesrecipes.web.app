@@ -2,7 +2,7 @@
 description: "How to Prepare Favorite Vegetable soup | Healthy recipe"
 title: "How to Prepare Favorite Vegetable soup | Healthy recipe"
 slug: 2538-how-to-prepare-favorite-vegetable-soup-healthy-recipe
-date: 2022-03-14T17:48:38.213Z
+date: 2022-01-14T17:48:38.213Z
 image: https://img-global.cpcdn.com/recipes/fcb240156725bb55/680x482cq70/vegetable-soup-healthy-recipe-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fcb240156725bb55/680x482cq70/vegetable-soup-healthy-recipe-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fcb240156725bb55/680x482cq70/vegetable-soup-healthy-recipe-recipe-main-photo.jpg

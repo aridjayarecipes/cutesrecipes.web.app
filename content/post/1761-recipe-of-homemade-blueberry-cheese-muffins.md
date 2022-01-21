@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Blueberry cheese muffins"
 title: "Recipe of Homemade Blueberry cheese muffins"
 slug: 1761-recipe-of-homemade-blueberry-cheese-muffins
-date: 2022-03-17T01:03:15.785Z
+date: 2022-01-17T01:03:15.785Z
 image: https://img-global.cpcdn.com/recipes/ecbda7840e858a7b/680x482cq70/blueberry-cheese-muffins-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ecbda7840e858a7b/680x482cq70/blueberry-cheese-muffins-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ecbda7840e858a7b/680x482cq70/blueberry-cheese-muffins-recipe-main-photo.jpg

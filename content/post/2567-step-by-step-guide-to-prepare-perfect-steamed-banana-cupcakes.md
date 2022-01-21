@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Perfect Steamed banana cupcakes"
 title: "Step-by-Step Guide to Prepare Perfect Steamed banana cupcakes"
 slug: 2567-step-by-step-guide-to-prepare-perfect-steamed-banana-cupcakes
-date: 2022-03-06T05:54:13.778Z
+date: 2022-01-06T05:54:13.778Z
 image: https://img-global.cpcdn.com/recipes/a324d50c366db0d5/680x482cq70/steamed-banana-cupcakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a324d50c366db0d5/680x482cq70/steamed-banana-cupcakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a324d50c366db0d5/680x482cq70/steamed-banana-cupcakes-recipe-main-photo.jpg

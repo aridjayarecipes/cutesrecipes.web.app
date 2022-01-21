@@ -2,7 +2,7 @@
 description: "How to Prepare Ultimate Juicee j&amp;#39;s black bean &amp;amp; corn salsa"
 title: "How to Prepare Ultimate Juicee j&amp;#39;s black bean &amp;amp; corn salsa"
 slug: 2431-how-to-prepare-ultimate-juicee-j-and-39-s-black-bean-and-amp-corn-salsa
-date: 2022-03-03T02:07:13.112Z
+date: 2022-01-03T02:07:13.112Z
 image: https://img-global.cpcdn.com/recipes/72433652/680x482cq70/juicee-js-black-bean-corn-salsa-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/72433652/680x482cq70/juicee-js-black-bean-corn-salsa-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/72433652/680x482cq70/juicee-js-black-bean-corn-salsa-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Pumpkin Pancakes"
 title: "Recipe of Award-winning Pumpkin Pancakes"
 slug: 2202-recipe-of-award-winning-pumpkin-pancakes
-date: 2022-03-18T04:47:40.666Z
+date: 2022-01-18T04:47:40.666Z
 image: https://img-global.cpcdn.com/recipes/98f9471b39a65f10/680x482cq70/pumpkin-pancakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/98f9471b39a65f10/680x482cq70/pumpkin-pancakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/98f9471b39a65f10/680x482cq70/pumpkin-pancakes-recipe-main-photo.jpg

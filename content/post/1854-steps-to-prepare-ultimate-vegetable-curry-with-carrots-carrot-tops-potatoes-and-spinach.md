@@ -2,7 +2,7 @@
 description: "Steps to Prepare Ultimate Vegetable curry with carrots, carrot tops, potatoes and spinach"
 title: "Steps to Prepare Ultimate Vegetable curry with carrots, carrot tops, potatoes and spinach"
 slug: 1854-steps-to-prepare-ultimate-vegetable-curry-with-carrots-carrot-tops-potatoes-and-spinach
-date: 2022-03-21T00:37:57.266Z
+date: 2022-01-21T00:37:57.266Z
 image: https://img-global.cpcdn.com/recipes/e621492cdb193487/680x482cq70/vegetable-curry-with-carrots-carrot-tops-potatoes-and-spinach-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e621492cdb193487/680x482cq70/vegetable-curry-with-carrots-carrot-tops-potatoes-and-spinach-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e621492cdb193487/680x482cq70/vegetable-curry-with-carrots-carrot-tops-potatoes-and-spinach-recipe-main-photo.jpg

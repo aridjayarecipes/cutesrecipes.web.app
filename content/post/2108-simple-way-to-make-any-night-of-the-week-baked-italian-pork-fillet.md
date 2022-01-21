@@ -2,7 +2,7 @@
 description: "Simple Way to Make Any-night-of-the-week Baked Italian Pork Fillet"
 title: "Simple Way to Make Any-night-of-the-week Baked Italian Pork Fillet"
 slug: 2108-simple-way-to-make-any-night-of-the-week-baked-italian-pork-fillet
-date: 2022-03-23T05:29:39.473Z
+date: 2022-01-23T05:29:39.473Z
 image: https://img-global.cpcdn.com/recipes/70224636/680x482cq70/baked-italian-pork-fillet-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/70224636/680x482cq70/baked-italian-pork-fillet-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/70224636/680x482cq70/baked-italian-pork-fillet-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Banana healthy topping"
 title: "Recipe of Perfect Banana healthy topping"
 slug: 2578-recipe-of-perfect-banana-healthy-topping
-date: 2022-03-19T18:34:25.324Z
+date: 2022-01-19T18:34:25.324Z
 image: https://img-global.cpcdn.com/recipes/a3b133e583070407/680x482cq70/banana-healthy-topping-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a3b133e583070407/680x482cq70/banana-healthy-topping-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a3b133e583070407/680x482cq70/banana-healthy-topping-recipe-main-photo.jpg

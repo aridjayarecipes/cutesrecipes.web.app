@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Quick QUICK and EASY to cook FRENCH BANANA FLAMBE"
 title: "Step-by-Step Guide to Prepare Quick QUICK and EASY to cook FRENCH BANANA FLAMBE"
 slug: 2402-step-by-step-guide-to-prepare-quick-quick-and-easy-to-cook-french-banana-flambe
-date: 2022-03-28T18:56:35.136Z
+date: 2022-01-28T18:56:35.136Z
 image: https://img-global.cpcdn.com/recipes/561b1cd9936562c1/680x482cq70/quick-and-easy-to-cook-french-banana-flambe-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/561b1cd9936562c1/680x482cq70/quick-and-easy-to-cook-french-banana-flambe-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/561b1cd9936562c1/680x482cq70/quick-and-easy-to-cook-french-banana-flambe-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Cabbage"
 title: "Recipe of Super Quick Homemade Cabbage"
 slug: 2538-recipe-of-super-quick-homemade-cabbage
-date: 2022-03-09T01:31:47.134Z
+date: 2022-01-09T01:31:47.134Z
 image: https://img-global.cpcdn.com/recipes/892422db44d415e8/680x482cq70/cabbage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/892422db44d415e8/680x482cq70/cabbage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/892422db44d415e8/680x482cq70/cabbage-recipe-main-photo.jpg

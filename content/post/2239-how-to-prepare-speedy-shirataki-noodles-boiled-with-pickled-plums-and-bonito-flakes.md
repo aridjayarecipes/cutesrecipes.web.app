@@ -2,7 +2,7 @@
 description: "How to Prepare Speedy Shirataki Noodles Boiled with Pickled Plums and Bonito Flakes"
 title: "How to Prepare Speedy Shirataki Noodles Boiled with Pickled Plums and Bonito Flakes"
 slug: 2239-how-to-prepare-speedy-shirataki-noodles-boiled-with-pickled-plums-and-bonito-flakes
-date: 2022-03-15T17:02:54.958Z
+date: 2022-01-15T17:02:54.958Z
 image: https://img-global.cpcdn.com/recipes/5287491281092608/680x482cq70/shirataki-noodles-boiled-with-pickled-plums-and-bonito-flakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5287491281092608/680x482cq70/shirataki-noodles-boiled-with-pickled-plums-and-bonito-flakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5287491281092608/680x482cq70/shirataki-noodles-boiled-with-pickled-plums-and-bonito-flakes-recipe-main-photo.jpg

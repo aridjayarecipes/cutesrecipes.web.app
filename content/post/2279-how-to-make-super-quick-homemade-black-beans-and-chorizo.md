@@ -2,7 +2,7 @@
 description: "How to Make Super Quick Homemade Black beans and chorizo"
 title: "How to Make Super Quick Homemade Black beans and chorizo"
 slug: 2279-how-to-make-super-quick-homemade-black-beans-and-chorizo
-date: 2022-03-20T13:40:36.994Z
+date: 2022-01-20T13:40:36.994Z
 image: https://img-global.cpcdn.com/recipes/f347e744c051de93/680x482cq70/black-beans-and-chorizo-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f347e744c051de93/680x482cq70/black-beans-and-chorizo-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f347e744c051de93/680x482cq70/black-beans-and-chorizo-recipe-main-photo.jpg

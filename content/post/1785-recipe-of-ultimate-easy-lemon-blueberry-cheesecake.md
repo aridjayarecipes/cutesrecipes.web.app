@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Easy lemon blueberry cheesecake"
 title: "Recipe of Ultimate Easy lemon blueberry cheesecake"
 slug: 1785-recipe-of-ultimate-easy-lemon-blueberry-cheesecake
-date: 2022-03-12T17:59:44.405Z
+date: 2022-01-12T17:59:44.405Z
 image: https://img-global.cpcdn.com/recipes/d0c59ba2eade48d8/680x482cq70/easy-lemon-blueberry-cheesecake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d0c59ba2eade48d8/680x482cq70/easy-lemon-blueberry-cheesecake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d0c59ba2eade48d8/680x482cq70/easy-lemon-blueberry-cheesecake-recipe-main-photo.jpg

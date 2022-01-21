@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Super Quick Homemade Cauliflower soup with raspberry sauce and truffle oil 🤤"
 title: "Easiest Way to Make Super Quick Homemade Cauliflower soup with raspberry sauce and truffle oil 🤤"
 slug: 2619-easiest-way-to-make-super-quick-homemade-cauliflower-soup-with-raspberry-sauce-and-truffle-oil
-date: 2022-03-14T06:26:32.208Z
+date: 2022-01-14T06:26:32.208Z
 image: https://img-global.cpcdn.com/recipes/a4ea1f75a57d2979/680x482cq70/cauliflower-soup-with-raspberry-sauce-and-truffle-oil-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a4ea1f75a57d2979/680x482cq70/cauliflower-soup-with-raspberry-sauce-and-truffle-oil-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a4ea1f75a57d2979/680x482cq70/cauliflower-soup-with-raspberry-sauce-and-truffle-oil-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Ultimate Kısır (Fine Bulghur Salad)"
 title: "Step-by-Step Guide to Prepare Ultimate Kısır (Fine Bulghur Salad)"
 slug: 1890-step-by-step-guide-to-prepare-ultimate-ksr-fine-bulghur-salad
-date: 2022-03-26T18:13:02.809Z
+date: 2022-01-26T18:13:02.809Z
 image: https://img-global.cpcdn.com/recipes/a676a419ccedd303/680x482cq70/kisir-fine-bulghur-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a676a419ccedd303/680x482cq70/kisir-fine-bulghur-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a676a419ccedd303/680x482cq70/kisir-fine-bulghur-salad-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Make Any-night-of-the-week Easy Kielbasa, Apple and Brussels Sprout supper"
 title: "How to Make Any-night-of-the-week Easy Kielbasa, Apple and Brussels Sprout supper"
 slug: 1911-how-to-make-any-night-of-the-week-easy-kielbasa-apple-and-brussels-sprout-supper
-date: 2022-03-21T19:27:18.058Z
+date: 2022-01-21T19:27:18.058Z
 image: https://img-global.cpcdn.com/recipes/44598a0b3a0626ca/680x482cq70/easy-kielbasa-apple-and-brussels-sprout-supper-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/44598a0b3a0626ca/680x482cq70/easy-kielbasa-apple-and-brussels-sprout-supper-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/44598a0b3a0626ca/680x482cq70/easy-kielbasa-apple-and-brussels-sprout-supper-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Make Any-night-of-the-week Fruit custard in tart shell"
 title: "Simple Way to Make Any-night-of-the-week Fruit custard in tart shell"
 slug: 1920-simple-way-to-make-any-night-of-the-week-fruit-custard-in-tart-shell
-date: 2022-03-15T02:41:59.830Z
+date: 2022-01-15T02:41:59.830Z
 image: https://img-global.cpcdn.com/recipes/6fbad1b5c5ab3c90/680x482cq70/fruit-custard-in-tart-shell-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6fbad1b5c5ab3c90/680x482cq70/fruit-custard-in-tart-shell-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6fbad1b5c5ab3c90/680x482cq70/fruit-custard-in-tart-shell-recipe-main-photo.jpg

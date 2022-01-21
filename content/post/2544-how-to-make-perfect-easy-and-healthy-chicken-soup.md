@@ -2,7 +2,7 @@
 description: "How to Make Perfect Easy and healthy chicken soup"
 title: "How to Make Perfect Easy and healthy chicken soup"
 slug: 2544-how-to-make-perfect-easy-and-healthy-chicken-soup
-date: 2022-03-12T13:34:51.543Z
+date: 2022-01-12T13:34:51.543Z
 image: https://img-global.cpcdn.com/recipes/b08190da13ca1540/680x482cq70/easy-and-healthy-chicken-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b08190da13ca1540/680x482cq70/easy-and-healthy-chicken-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b08190da13ca1540/680x482cq70/easy-and-healthy-chicken-soup-recipe-main-photo.jpg

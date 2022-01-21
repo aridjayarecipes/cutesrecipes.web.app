@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Any-night-of-the-week Salmon Cakes"
 title: "Simple Way to Prepare Any-night-of-the-week Salmon Cakes"
 slug: 1928-simple-way-to-prepare-any-night-of-the-week-salmon-cakes
-date: 2022-03-06T18:04:29.919Z
+date: 2022-01-06T18:04:29.919Z
 image: https://img-global.cpcdn.com/recipes/29614d2001f6d323/680x482cq70/salmon-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/29614d2001f6d323/680x482cq70/salmon-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/29614d2001f6d323/680x482cq70/salmon-cakes-recipe-main-photo.jpg

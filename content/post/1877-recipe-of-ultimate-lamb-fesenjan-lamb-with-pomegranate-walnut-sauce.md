@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Lamb Fesenjan- Lamb with Pomegranate Walnut Sauce"
 title: "Recipe of Ultimate Lamb Fesenjan- Lamb with Pomegranate Walnut Sauce"
 slug: 1877-recipe-of-ultimate-lamb-fesenjan-lamb-with-pomegranate-walnut-sauce
-date: 2022-03-10T14:37:45.644Z
+date: 2022-01-10T14:37:45.644Z
 image: https://img-global.cpcdn.com/recipes/5351185988976640/680x482cq70/lamb-fesenjan-lamb-with-pomegranate-walnut-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5351185988976640/680x482cq70/lamb-fesenjan-lamb-with-pomegranate-walnut-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5351185988976640/680x482cq70/lamb-fesenjan-lamb-with-pomegranate-walnut-sauce-recipe-main-photo.jpg

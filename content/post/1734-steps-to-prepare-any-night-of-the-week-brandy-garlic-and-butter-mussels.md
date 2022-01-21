@@ -2,7 +2,7 @@
 description: "Steps to Prepare Any-night-of-the-week Brandy, garlic and butter mussels"
 title: "Steps to Prepare Any-night-of-the-week Brandy, garlic and butter mussels"
 slug: 1734-steps-to-prepare-any-night-of-the-week-brandy-garlic-and-butter-mussels
-date: 2022-03-19T05:55:23.805Z
+date: 2022-01-19T05:55:23.805Z
 image: https://img-global.cpcdn.com/recipes/8dfc31718acb386c/680x482cq70/brandy-garlic-and-butter-mussels-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8dfc31718acb386c/680x482cq70/brandy-garlic-and-butter-mussels-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8dfc31718acb386c/680x482cq70/brandy-garlic-and-butter-mussels-recipe-main-photo.jpg
