@@ -17,7 +17,7 @@ recipeingredient:
 - "3 tbsp wholegrain flour"
 - "Pinch salt"
 recipeinstructions:
-- "I saved the oil in which i fried the "pancakes in breadcrumbs" and also some masala oil from frying my cauliflower. In this tasty oil i fried the sweet carrots cut into thin strips plus the cabbage cut thin. Its super tasty."
+- "I saved the oil in which i fried the /"pancakes in breadcrumbs" and also some masala oil from frying my cauliflower. In this tasty oil i fried the sweet carrots cut into thin strips plus the cabbage cut thin. Its super tasty."
 - "I mixed the eggs with tge wholegrain flour and salt and fried it on little oil, mashed it after, and mixed it with the veggies. Its super tasty"
 categories:
 - Recipe
