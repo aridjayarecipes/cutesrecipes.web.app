@@ -1,6 +1,6 @@
 ---
-description: "Easiest Way to Prepare Super Quick Homemade Sugar-free.Spinach and carrot salad dressed with "Tofu" and "Amazake""
-title: "Easiest Way to Prepare Super Quick Homemade Sugar-free.Spinach and carrot salad dressed with "Tofu" and "Amazake""
+description: "Easiest Way to Prepare Super Quick Homemade Sugar-free.Spinach and carrot salad dressed with &amp;#34;Tofu&amp;#34; and &amp;#34;Amazake&amp;#34;"
+title: "Easiest Way to Prepare Super Quick Homemade Sugar-free.Spinach and carrot salad dressed with &amp;#34;Tofu&amp;#34; and &amp;#34;Amazake&amp;#34;"
 slug: 1806-easiest-way-to-prepare-super-quick-homemade-sugar-freespinach-and-carrot-salad-dressed-with-and-34-tofu-and-34-and-and-34-amazake-and-34
 date: 2021-12-11T03:49:55.295Z
 image: https://img-global.cpcdn.com/recipes/a6a10f6446237211/680x482cq70/sugar-freespinach-and-carrot-salad-dressed-with-tofu-and-amazake-recipe-main-photo.jpg

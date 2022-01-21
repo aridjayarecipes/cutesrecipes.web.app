@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Any-night-of-the-week Black Bean "pancakes""
-title: "Recipe of Any-night-of-the-week Black Bean "pancakes""
+description: "Recipe of Any-night-of-the-week Black Bean &amp;#34;pancakes&amp;#34;"
+title: "Recipe of Any-night-of-the-week Black Bean &amp;#34;pancakes&amp;#34;"
 slug: 2348-recipe-of-any-night-of-the-week-black-bean-and-34-pancakes-and-34
 date: 2022-01-11T16:08:30.965Z
 image: https://img-global.cpcdn.com/recipes/5317295045345280/680x482cq70/black-bean-pancakes-recipe-main-photo.jpg

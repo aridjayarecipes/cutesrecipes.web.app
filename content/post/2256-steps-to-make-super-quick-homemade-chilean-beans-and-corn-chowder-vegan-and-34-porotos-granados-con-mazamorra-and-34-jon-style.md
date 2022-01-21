@@ -1,6 +1,6 @@
 ---
-description: "Steps to Make Super Quick Homemade CHILEAN BEANS AND CORN CHOWDER,VEGAN. "POROTOS GRANADOS CON MAZAMORRA". JON STYLE"
-title: "Steps to Make Super Quick Homemade CHILEAN BEANS AND CORN CHOWDER,VEGAN. "POROTOS GRANADOS CON MAZAMORRA". JON STYLE"
+description: "Steps to Make Super Quick Homemade CHILEAN BEANS AND CORN CHOWDER,VEGAN. &amp;#34;POROTOS GRANADOS CON MAZAMORRA&amp;#34;. JON STYLE"
+title: "Steps to Make Super Quick Homemade CHILEAN BEANS AND CORN CHOWDER,VEGAN. &amp;#34;POROTOS GRANADOS CON MAZAMORRA&amp;#34;. JON STYLE"
 slug: 2256-steps-to-make-super-quick-homemade-chilean-beans-and-corn-chowder-vegan-and-34-porotos-granados-con-mazamorra-and-34-jon-style
 date: 2021-10-05T22:18:06.716Z
 image: https://img-global.cpcdn.com/recipes/1786a6090da1ed0a/680x482cq70/chilean-beans-and-corn-chowdervegan-porotos-granados-con-mazamorra-jon-style-recipe-main-photo.jpg

@@ -1,6 +1,6 @@
 ---
-description: "Simple Way to Make Favorite Sig&amp;#39;s  "Hutzelbrot" from Germany"
-title: "Simple Way to Make Favorite Sig&amp;#39;s  "Hutzelbrot" from Germany"
+description: "Simple Way to Make Favorite Sig&amp;#39;s  &amp;#34;Hutzelbrot&amp;#34; from Germany"
+title: "Simple Way to Make Favorite Sig&amp;#39;s  &amp;#34;Hutzelbrot&amp;#34; from Germany"
 slug: 2061-simple-way-to-make-favorite-sig-and-39-s-and-34-hutzelbrot-and-34-from-germany
 date: 2021-11-24T14:39:51.017Z
 image: https://img-global.cpcdn.com/recipes/5049147028668416/680x482cq70/sigs-hutzelbrot-from-germany-recipe-main-photo.jpg

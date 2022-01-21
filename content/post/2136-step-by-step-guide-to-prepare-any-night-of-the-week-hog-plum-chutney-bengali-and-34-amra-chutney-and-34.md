@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Prepare Any-night-of-the-week Hog Plum Chutney / Bengali "Amra Chutney" 🍲"
-title: "Step-by-Step Guide to Prepare Any-night-of-the-week Hog Plum Chutney / Bengali "Amra Chutney" 🍲"
+description: "Step-by-Step Guide to Prepare Any-night-of-the-week Hog Plum Chutney / Bengali &amp;#34;Amra Chutney&amp;#34; 🍲"
+title: "Step-by-Step Guide to Prepare Any-night-of-the-week Hog Plum Chutney / Bengali &amp;#34;Amra Chutney&amp;#34; 🍲"
 slug: 2136-step-by-step-guide-to-prepare-any-night-of-the-week-hog-plum-chutney-bengali-and-34-amra-chutney-and-34
 date: 2022-01-20T23:38:47.019Z
 image: https://img-global.cpcdn.com/recipes/2aa79e5370178e55/680x482cq70/hog-plum-chutney-bengali-amra-chutney-recipe-main-photo.jpg
